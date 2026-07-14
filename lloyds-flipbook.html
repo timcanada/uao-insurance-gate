@@ -40,11 +40,31 @@
   .hint{position:absolute;top:50%;transform:translateY(-50%);color:rgba(245,241,230,.35);font-size:26px;z-index:4;pointer-events:none;opacity:0;transition:.2s}
   .stage:hover .hint{opacity:1}
   .hint.l{left:14px}.hint.r{right:14px}
+  .gate{position:absolute;inset:0;background:rgba(6,12,20,.84);backdrop-filter:blur(8px);z-index:20;display:none;align-items:center;justify-content:center;padding:18px}
+  .gate.show{display:flex}
+  .gcard{position:relative;background:linear-gradient(180deg,#13243a,#0a1626);border:1px solid var(--line);border-radius:16px;max-width:440px;width:100%;padding:26px 24px 20px;box-shadow:0 24px 60px rgba(0,0,0,.65);text-align:center}
+  .gcard h2{margin:0 0 6px;font-size:21px;color:var(--txt);letter-spacing:.2px}
+  .gcard p{margin:0 0 16px;color:var(--mut);font-size:12.5px;line-height:1.55}
+  .gcard p b{color:var(--gold2)}
+  .gform{width:100%;min-height:380px;border:0;border-radius:10px;background:#fff}
+  .gcard a.gbtn{display:inline-block;margin-top:12px;color:var(--gold2);font-size:11.5px;text-decoration:none}
+  .gclose{position:absolute;top:10px;right:12px;background:none;border:0;color:var(--mut);font-size:22px;line-height:1;cursor:pointer;padding:2px 6px;border-radius:6px}
+  .gclose:hover{color:var(--txt);background:rgba(255,255,255,.06)}
+  .badge{display:inline-flex;align-items:center;gap:5px;background:linear-gradient(135deg,var(--gold),var(--gold2));color:#1a1305;font-size:9.5px;font-weight:800;letter-spacing:.6px;padding:3px 9px;border-radius:20px;text-transform:uppercase;flex:0 0 auto;box-shadow:0 2px 8px rgba(201,164,76,.35)}
+  .gcard .eyebrow{color:var(--gold2);font-size:10.5px;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;margin-bottom:8px}
+  .gcard .value{list-style:none;margin:0 0 18px;padding:0;text-align:left;font-size:12px;color:var(--txt);line-height:1.7}
+  .gcard .value li{padding-left:20px;position:relative;margin-bottom:4px}
+  .gcard .value li::before{content:'\2713';position:absolute;left:0;color:var(--gold2);font-weight:800}
+  .gcard .note{margin-top:14px;font-size:10.5px;color:var(--mut);border-top:1px solid var(--line);padding-top:12px}
+  .thumbs img.locked{filter:brightness(.35) saturate(.6)}
+  .thumbs .tw{position:relative;display:inline-block}
+  .thumbs .tw.locked::after{content:'\1F512';position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);font-size:18px;filter:none;color:var(--gold2)}
 </style>
 </head>
 <body>
 <div class="topbar">
-  <div class="ttl">Lloyd's Reinsurance Special Briefing<small>UAO Research · Interactive reader</small></div>
+  <div class="ttl">Lloyd's Reinsurance Special Briefing<small>UAO Premium Research · Subscriber Briefing</small></div>
+  <div class="badge">🔒 Paid Research · Complimentary Sample</div>
   <button class="btn" id="tThumbs" title="Thumbnails (T)"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg></button>
   <button class="btn" id="zOut" title="Zoom out (-)"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M8 11h6M21 21l-4.3-4.3"/></svg></button>
   <button class="btn" id="zIn" title="Zoom in (+)"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M11 8v6M8 11h6M21 21l-4.3-4.3"/></svg></button>
@@ -63,17 +83,31 @@
   </div></div></div>
   <div class="pageno"><b id="cur">1</b> / <span id="tot">8</span></div>
   <div class="prog" id="prog"></div>
+  <div class="gate" id="gate"><div class="gcard">
+    <button class="gclose" id="gclose" aria-label="Close">&times;</button>
+    <div class="eyebrow">Subscriber-Only Research</div>
+    <h2>You've reached the end of the preview</h2>
+    <p>The <b>Lloyd's Reinsurance Special Briefing</b> is normally reserved for UAO paying subscribers and institutional clients. We're releasing this complimentary sample to a limited number of qualified prospective clients — enter your details below to unlock the complete briefing.</p>
+    <ul class="value">
+      <li>Full 8-page briefing, unlocked instantly</li>
+      <li>Downloadable PDF for your records</li>
+      <li>Priority access to future UAO briefings</li>
+    </ul>
+    <iframe class="gform" id="gform" src="about:blank" title="Request full report form"></iframe>
+    <a class="gbtn" id="gopen" href="#" target="_blank" rel="noopener">Open form in a new tab &rsaquo;</a>
+    <div class="note">This briefing is provided for informational purposes and is not investment advice.</div>
+  </div></div>
 </div>
 <div class="thumbs" id="thumbs"></div>
 <script>
-const PAGES=["assets/lloyds-page-1.jpg", "assets/lloyds-page-2.jpg", "assets/lloyds-page-3.jpg", "assets/lloyds-page-4.jpg", "assets/lloyds-page-5.jpg", "assets/lloyds-page-6.jpg", "assets/lloyds-page-7.jpg", "assets/lloyds-page-8.jpg"];
+const PAGES=["assets/lloyds-page-1.jpg", "assets/lloyds-page-2.jpg", "assets/lloyds-page-3.jpg", "assets/lloyds-page-4.jpg", "assets/lloyds-page-5.jpg", "assets/lloyds-page-6.jpg", "assets/lloyds-page-7.jpg", "assets/lloyds-page-8.jpg"], PREVIEW=3, GATE_URL="__GATE_URL__";
 let i=0, flipping=false, scale=1, panX=0, panY=0, drag=null;
 const stage=document.getElementById('stage'),pan=document.getElementById('pan'),zw=document.getElementById('zw'),
  flip=document.getElementById('flip'),fImg=document.getElementById('fImg'),bImg=document.getElementById('bImg'),
  cur=document.getElementById('cur'),tot=document.getElementById('tot'),prog=document.getElementById('prog'),
  ld=document.getElementById('ld'),thumbs=document.getElementById('thumbs');
 tot.textContent=PAGES.length;
-function loadThumbs(){thumbs.innerHTML='';PAGES.forEach((p,idx)=>{const im=new Image();im.src=p;im.className=idx===0?'act':'';im.onclick=()=>go(idx);thumbs.appendChild(im);});}
+function loadThumbs(){thumbs.innerHTML='';PAGES.forEach((p,idx)=>{const lock=GATE_URL&&idx>=PREVIEW;const w=document.createElement('span');w.className='tw'+(lock?' locked':'');const im=new Image();im.src=p;im.className=(idx===0?'act ':'')+(lock?'locked':'');im.onclick=()=>go(idx);w.appendChild(im);thumbs.appendChild(w);});}
 function setImg(el,src){return new Promise(res=>{const im=new Image();im.onload=()=>{el.src=src;res();};im.onerror=res;im.src=src;});}
 async function show(n,dir){if(n<0||n>=PAGES.length||flipping)return;flipping=true;ld.style.display='flex';
  if(scale>1){scale=1;apply();}
@@ -82,11 +116,13 @@ async function show(n,dir){if(n<0||n>=PAGES.length||flipping)return;flipping=tru
  setTimeout(()=>{fImg.src=PAGES[n];flip.style.transition='none';flip.style.transform='rotateY(0deg)';
   flip.offsetHeight;flip.style.transition='';i=n;update();flipping=false;ld.style.display='none';},630);
 }
-function go(n){if(n===i||flipping)return;show(n,n>i?1:-1);}
+function go(n){if(n===i||flipping)return; if(GATE_URL && n>=PREVIEW && n<PAGES.length){showGate();return;} show(n,n>i?1:-1);}
 function next(){go(Math.min(i+1,PAGES.length-1));}
 function prev(){go(Math.max(i-1,0));}
+function showGate(){const f=document.getElementById('gform'),o=document.getElementById('gopen');f.src=GATE_URL;o.href=GATE_URL;document.getElementById('gate').classList.add('show');}
+document.getElementById('gclose').onclick=()=>document.getElementById('gate').classList.remove('show');
 function update(){cur.textContent=i+1;prog.style.width=((i+1)/PAGES.length*100)+'%';
- [...thumbs.children].forEach((c,idx)=>c.classList.toggle('act',idx===i));
+ [...thumbs.children].forEach((c,idx)=>c.querySelector('img')&&c.querySelector('img').classList.toggle('act',idx===i));
  thumbs.children[i]&&thumbs.children[i].scrollIntoView({inline:'center',block:'nearest'});}
 function apply(){zw.style.transform=`scale(${scale})`;pan.style.transform=`translate(${panX}px,${panY}px)`;stage.style.cursor=scale>1?'grab':'';}
 function setZoom(s){scale=Math.max(1,Math.min(4,s));if(scale===1){panX=panY=0;}apply();}
@@ -108,7 +144,7 @@ stage.addEventListener('touchend',e=>{if(sx===null)return;const dx=e.changedTouc
 // keyboard
 document.addEventListener('keydown',e=>{const k=e.key;if(k==='ArrowRight'||k===' '){next();}else if(k==='ArrowLeft'){prev();}else if(k==='+'||k==='='){setZoom(scale+0.5);}else if(k==='-'){setZoom(scale-0.5);}else if(k.toLowerCase()==='f'){document.getElementById('fs').click();}else if(k.toLowerCase()==='t'){document.getElementById('tThumbs').click();}else if(k==='Home'){go(0);}else if(k==='End'){go(PAGES.length-1);}});
 // init
-(async()=>{await setImg(fImg,PAGES[0]);ld.style.display='none';update();loadThumbs();})();
+(async()=>{if(GATE_URL)document.getElementById('dl').style.display='none';await setImg(fImg,PAGES[0]);ld.style.display='none';update();loadThumbs();})();
 </script>
 </body>
 </html>

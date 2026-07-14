@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
-<title>Lloyd's Reinsurance Special Briefing</title>
+<title>Underwriting the Abyss</title>
 <style>
   :root{--navy:#0e1b2c;--navy2:#13243a;--panel:#0a1626;--gold:#c9a44c;--gold2:#e6c75a;--line:#1d2e44;--txt:#f5f1e6;--mut:#8a9bb0;}
   *{box-sizing:border-box}
@@ -63,14 +63,14 @@
 </head>
 <body>
 <div class="topbar">
-  <div class="ttl">Lloyd's Reinsurance Special Briefing<small>UAO Premium Research · Subscriber Briefing</small></div>
+  <div class="ttl">Underwriting the Abyss<small>UAO Special Briefing · Vol. 1, Issue 60</small></div>
   <div class="badge">🔒 Paid Research · Complimentary Sample</div>
   <button class="btn" id="tThumbs" title="Thumbnails (T)"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg></button>
   <button class="btn" id="zOut" title="Zoom out (-)"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M8 11h6M21 21l-4.3-4.3"/></svg></button>
   <button class="btn" id="zIn" title="Zoom in (+)"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M11 8v6M8 11h6M21 21l-4.3-4.3"/></svg></button>
   <button class="btn" id="fit" title="Fit page"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg></button>
   <button class="btn" id="fs" title="Fullscreen (F)"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg></button>
-  <a class="btn" id="dl" href="https://storage.ghost.io/c/f6/9c/f69cdeb4-cfe5-4393-a9d8-5769f759a132/content/files/2026/07/lloyds-reinsurance-special-briefing.pdf" download target="_blank" rel="noopener" title="Download"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3v12M7 10l5 5 5-5M5 21h14"/></svg></a>
+  <a class="btn" id="dl" href="https://storage.ghost.io/c/f6/9c/f69cdeb4-cfe5-4393-a9d8-5769f759a132/content/files/2026/07/uao-underwriting-the-abyss-hormuz-special-briefing.pdf" download target="_blank" rel="noopener" title="Download"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3v12M7 10l5 5 5-5M5 21h14"/></svg></a>
 </div>
 <div class="stage" id="stage">
   <div class="loader" id="ld"><div class="spin"></div></div>
@@ -81,15 +81,15 @@
     <div class="face front" id="front"><img id="fImg"></div>
     <div class="face back" id="back"><img id="bImg"></div>
   </div></div></div>
-  <div class="pageno"><b id="cur">1</b> / <span id="tot">8</span></div>
+  <div class="pageno"><b id="cur">1</b> / <span id="tot">12</span></div>
   <div class="prog" id="prog"></div>
   <div class="gate" id="gate"><div class="gcard">
     <button class="gclose" id="gclose" aria-label="Close">&times;</button>
     <div class="eyebrow">Subscriber-Only Research</div>
     <h2>You've reached the end of the preview</h2>
-    <p>The <b>Lloyd's Reinsurance Special Briefing</b> is normally reserved for UAO paying subscribers and institutional clients. We're releasing this complimentary sample to a limited number of qualified prospective clients — enter your details below to unlock the complete briefing.</p>
+    <p>The <b>Underwriting the Abyss</b> special briefing is normally reserved for UAO paying subscribers and institutional clients. We're releasing this complimentary sample to a limited number of qualified prospective clients — enter your details below to unlock the complete briefing.</p>
     <ul class="value">
-      <li>Full 8-page briefing, unlocked instantly</li>
+      <li>Full 12-page briefing, unlocked instantly</li>
       <li>Downloadable PDF for your records</li>
       <li>Priority access to future UAO briefings</li>
     </ul>
@@ -100,7 +100,7 @@
 </div>
 <div class="thumbs" id="thumbs"></div>
 <script>
-const PAGES=["assets/lloyds-page-1.jpg", "assets/lloyds-page-2.jpg", "assets/lloyds-page-3.jpg", "assets/lloyds-page-4.jpg", "assets/lloyds-page-5.jpg", "assets/lloyds-page-6.jpg", "assets/lloyds-page-7.jpg", "assets/lloyds-page-8.jpg"], PREVIEW=3, GATE_URL="__GATE_URL__";
+const PAGES=["assets/lloyds-page-1.jpg", "assets/lloyds-page-2.jpg", "assets/lloyds-page-3.jpg", "assets/lloyds-page-4.jpg", "assets/lloyds-page-5.jpg", "assets/lloyds-page-6.jpg", "assets/lloyds-page-7.jpg", "assets/lloyds-page-8.jpg", "assets/lloyds-page-9.jpg", "assets/lloyds-page-10.jpg", "assets/lloyds-page-11.jpg", "assets/lloyds-page-12.jpg"], PREVIEW=3, GATE_URL="__GATE_URL__";
 let i=0, flipping=false, scale=1, panX=0, panY=0, drag=null;
 const stage=document.getElementById('stage'),pan=document.getElementById('pan'),zw=document.getElementById('zw'),
  flip=document.getElementById('flip'),fImg=document.getElementById('fImg'),bImg=document.getElementById('bImg'),

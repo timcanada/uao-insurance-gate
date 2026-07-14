@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The Insurance Gate at Hormuz — Deck</title>
+<style>
+:root{--bg:#0e1116;--fg:#e8edf3;--muted:#9aa4b2;--accent:#d4af37}
+*{box-sizing:border-box}
+html,body{margin:0;height:100%}
+body{background:var(--bg);color:var(--fg);font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;display:flex;flex-direction:column;align-items:center;padding:14px}
+.bar{display:flex;align-items:center;gap:14px;width:100%;max-width:920px;margin-bottom:12px;flex-wrap:wrap;justify-content:center}
+.bar h1{font-size:15px;margin:0;font-weight:600}
+.bar .pagename{color:var(--muted);font-size:13px}
+.controls{margin-left:auto;display:flex;gap:8px;align-items:center}
+button{background:#1b2230;color:var(--fg);border:1px solid #2c3748;border-radius:8px;padding:7px 14px;cursor:pointer;font-size:13px}
+button:hover{background:#243044}
+.counter{color:var(--muted);font-size:13px;min-width:70px;text-align:center}
+.dl{background:var(--accent);color:#1a1300;border-radius:8px;padding:8px 16px;font-weight:700;font-size:13px;text-decoration:none;display:inline-block}
+.stage{flex:1;width:100%;max-width:920px;display:flex;align-items:center;justify-content:center;perspective:1600px;min-height:420px}
+.book{position:relative;width:1280px;height:720px;max-width:100%;max-height:70vh;transform-style:preserve-3d;transition:transform .5s cubic-bezier(.4,.1,.2,1)}
+.page-face{position:absolute;inset:0;backface-visibility:hidden;-webkit-backface-visibility:hidden;overflow:hidden;background:#fff;border-radius:4px;box-shadow:0 12px 44px rgba(0,0,0,.55)}
+.page-face img{width:100%;height:100%;object-fit:contain;display:block;pointer-events:none}
+.front{transform:rotateY(0deg)}
+.back{transform:rotateY(180deg)}
+.hint{color:#5f6b7a;font-size:12px;margin-top:10px}
+</style></head>
+<body>
+<div class="bar">
+  <h1>The Insurance Gate at Hormuz — Deck</h1><span class="pagename">25-slide flipbook</span>
+  <div class="controls">
+    <button id="prev">&#8249; Prev</button>
+    <span class="counter" id="counter">1 / 25</span>
+    <button id="next">Next &#8250;</button>
+    <a class="dl" href="https://storage.ghost.io/c/f6/9c/f69cdeb4-cfe5-4393-a9d8-5769f759a132/content/files/2026/07/The_Insurance_Gate_at_Hormuz-1.pptx" download>&#11015; Download PPTX</a>
+  </div>
+</div>
+<div class="stage"><div class="book" id="book">
+  <div class="page-face front"><img id="frontImg" alt=""></div>
+  <div class="page-face back"><img id="backImg" alt=""></div>
+</div></div>
+<div class="hint">Use Prev/Next or arrow keys to turn pages.</div>
+<script>
+(function(){
+  var pages=["assets/pptx-slide-01.jpg", "assets/pptx-slide-02.jpg", "assets/pptx-slide-03.jpg", "assets/pptx-slide-04.jpg", "assets/pptx-slide-05.jpg", "assets/pptx-slide-06.jpg", "assets/pptx-slide-07.jpg", "assets/pptx-slide-08.jpg", "assets/pptx-slide-09.jpg", "assets/pptx-slide-10.jpg", "assets/pptx-slide-11.jpg", "assets/pptx-slide-12.jpg", "assets/pptx-slide-13.jpg", "assets/pptx-slide-14.jpg", "assets/pptx-slide-15.jpg", "assets/pptx-slide-16.jpg", "assets/pptx-slide-17.jpg", "assets/pptx-slide-18.jpg", "assets/pptx-slide-19.jpg", "assets/pptx-slide-20.jpg", "assets/pptx-slide-21.jpg", "assets/pptx-slide-22.jpg", "assets/pptx-slide-23.jpg", "assets/pptx-slide-24.jpg", "assets/pptx-slide-25.jpg"];
+  var n=pages.length,i=0,anim=false;
+  var book=document.getElementById('book'),front=document.getElementById('frontImg'),back=document.getElementById('backImg'),counter=document.getElementById('counter');
+  front.src=pages[0];back.src=pages[Math.min(1,n-1)];
+  function setCounter(){counter.textContent=(i+1)+' / '+n;}
+  function flipTo(ni){
+    if(anim||ni===i||ni<0||ni>=n)return;
+    anim=true;var dir=ni>i?1:-1;
+    back.src=pages[ni];
+    book.style.transform='rotateY('+(dir*180)+'deg)';
+    setTimeout(function(){
+      i=ni;front.src=pages[i];
+      book.style.transition='none';book.style.transform='rotateY(0deg)';
+      setCounter();
+      setTimeout(function(){book.style.transition='transform .5s cubic-bezier(.4,.1,.2,1)';anim=false;},40);
+    },520);
+  }
+  document.getElementById('next').onclick=function(){flipTo(i+1);};
+  document.getElementById('prev').onclick=function(){flipTo(i-1);};
+  document.addEventListener('keydown',function(e){if(e.key==='ArrowRight')flipTo(i+1);if(e.key==='ArrowLeft')flipTo(i-1);});
+  setCounter();
+})();
+</script>
+</body></html>

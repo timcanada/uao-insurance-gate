@@ -3,6 +3,7 @@ import { useEffect, useState } from 'react';
 import { Pressable, RefreshControl, ScrollView, StyleSheet, Text, View } from 'react-native';
 
 import { SubscribeCard } from '@/src/components/SubscribeCard';
+import { ProbabilityMeters, TerminalHeader, Ticker } from '@/src/components/Terminal';
 import {
   Chip,
   EmptyState,
@@ -10,7 +11,6 @@ import {
   PostCard,
   Screen,
   SectionHeader,
-  Wordmark,
 } from '@/src/components/Ui';
 import { fetchPosts, snapshotToday } from '@/src/api/ghost';
 import { FILTERS } from '@/src/lib/classify';
@@ -24,6 +24,7 @@ export default function TodayScreen() {
   const [hero, setHero] = useState<ClassifiedPost | null>(initial.hero);
   const [desk, setDesk] = useState<ClassifiedPost[]>(initial.desk);
   const [charts, setCharts] = useState<ClassifiedPost[]>(initial.charts);
+  const [tape, setTape] = useState<ClassifiedPost[]>([]);
   const [loading, setLoading] = useState(!initial.hero);
   const [refreshing, setRefreshing] = useState(false);
   const [error, setError] = useState<string | null>(null);
@@ -31,14 +32,16 @@ export default function TodayScreen() {
   async function load() {
     setError(null);
     try {
-      const [briefs, pd, chartFeed] = await Promise.all([
+      const [briefs, pd, chartFeed, latest] = await Promise.all([
         fetchPosts({ filter: FILTERS.dailyBrief, limit: 4 }),
         fetchPosts({ filter: FILTERS.probabilityDesk, limit: 3 }),
-        fetchPosts({ filter: FILTERS.charts, limit: 3 }),
+        fetchPosts({ filter: FILTERS.charts, limit: 4 }),
+        fetchPosts({ filter: FILTERS.latest, limit: 12 }),
       ]);
       setHero(briefs.posts[0] ?? null);
       setDesk(pd.posts);
       setCharts(chartFeed.posts);
+      setTape(latest.posts);
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Unable to reach the UAO desk.');
     } finally {
@@ -66,9 +69,10 @@ export default function TodayScreen() {
           />
         }>
         <View style={styles.top}>
-          <Wordmark />
+          <TerminalHeader />
+          <Ticker posts={tape} />
           <Pressable onPress={() => router.push('/search')} style={styles.search}>
-            <Text style={styles.searchLabel}>Search briefs, scenarios, research…</Text>
+            <Text style={styles.searchLabel}>Search the live library…</Text>
           </Pressable>
         </View>
 
@@ -108,6 +112,7 @@ export default function TodayScreen() {
               actionLabel="All scenarios →"
               href="/(tabs)/desk"
             />
+            <ProbabilityMeters />
             {desk.map((post) => (
               <PostCard key={post.id} post={post} />
             ))}

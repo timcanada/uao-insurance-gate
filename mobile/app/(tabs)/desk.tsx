@@ -1,4 +1,5 @@
 import { Feed } from '@/src/components/Feed';
+import { ProbabilityMeters } from '@/src/components/Terminal';
 import { FILTERS } from '@/src/lib/classify';
 
 export default function DeskScreen() {
@@ -7,7 +8,8 @@ export default function DeskScreen() {
       filter={FILTERS.probabilityDesk}
       kicker="Afternoon scenario desk"
       title="The Probability Desk"
-      blurb="Base cases, tail risks and second-order effects — probability-weighted, for capital that thinks in decades."
+      blurb="Every call is probability-weighted — base, upside and tail — for capital that thinks in decades."
+      headerExtra={<ProbabilityMeters />}
     />
   );
 }

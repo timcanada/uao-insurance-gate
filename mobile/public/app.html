@@ -3,24 +3,28 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-  <title>Universal Asset Owners</title>
+  <title>UAO Terminal</title>
   <style>
     :root {
-      --navy: #0b1f3a;
-      --navy2: #12263f;
+      --navy: #07131f;
+      --navy2: #0d1d30;
+      --navy3: #13283f;
       --gold: #c9a24b;
       --gold2: #e6c75a;
-      --line: #1d2e44;
+      --line: #1c3148;
       --cream: #f4efe6;
-      --text: #f5f1e6;
+      --text: #f3efe4;
       --muted: #8a9bb0;
+      --up: #3ecf8e;
+      --dn: #e05a4f;
+      --amber: #d59a3a;
     }
     * { box-sizing: border-box; }
     html, body { height: 100%; margin: 0; }
     body {
-      font-family: Georgia, "Times New Roman", serif;
-      background: radial-gradient(120% 80% at 50% 0%, #16314a 0%, #0b1f3a 55%, #071422 100%);
+      background: #03080f;
       color: var(--text);
+      font-family: Georgia, "Times New Roman", serif;
     }
     .phone {
       max-width: 430px;
@@ -29,142 +33,329 @@
       background: var(--navy);
       display: flex;
       flex-direction: column;
-      box-shadow: 0 24px 80px rgba(0,0,0,.45);
+      position: relative;
     }
     @media (min-width: 640px) {
-      body { padding: 24px 0; }
-      .phone { height: min(900px, calc(100vh - 48px)); border: 1px solid var(--line); border-radius: 28px; overflow: hidden; }
+      body { padding: 20px 0; }
+      .phone {
+        height: min(920px, calc(100vh - 40px));
+        border: 1px solid var(--line);
+        border-radius: 26px;
+        overflow: hidden;
+        box-shadow: 0 30px 80px rgba(0,0,0,.55);
+      }
     }
-    header { padding: 18px 18px 8px; }
-    .kicker { color: var(--gold); font-size: 11px; font-weight: 700; letter-spacing: 1.6px; text-transform: uppercase; }
-    h1 { font-size: 26px; line-height: 1.2; margin: 8px 0 0; }
-    .lede { color: var(--muted); font-size: 15px; line-height: 1.45; margin: 8px 0 0; }
+    .topbar {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 12px 8px;
+      border-bottom: 1px solid var(--line);
+      background: linear-gradient(180deg, #10253c, #07131f);
+    }
+    .brand { flex: 1; min-width: 0; }
+    .brand b {
+      display: block;
+      color: var(--gold);
+      font: 800 10px/1.1 system-ui, sans-serif;
+      letter-spacing: 1.7px;
+    }
+    .brand span { color: var(--muted); font: 12px/1.3 Georgia, serif; }
+    .live {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      color: var(--up);
+      font: 700 10px/1 system-ui, sans-serif;
+      letter-spacing: .8px;
+    }
+    .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--up); box-shadow: 0 0 8px var(--up); }
+    .clock { color: var(--gold2); font: 700 11px/1 "SF Mono", ui-monospace, monospace; }
+    .iconbtn {
+      width: 32px; height: 32px;
+      border: 1px solid var(--line);
+      background: var(--navy3);
+      color: var(--gold2);
+      border-radius: 8px;
+      font: 700 14px system-ui;
+      cursor: pointer;
+    }
+    .tape {
+      overflow: hidden;
+      white-space: nowrap;
+      background: #050d16;
+      border-bottom: 1px solid var(--line);
+      color: var(--gold2);
+      font: 600 11px/28px system-ui, sans-serif;
+    }
+    .tape-inner { display: inline-block; padding-left: 100%; animation: tick 42s linear infinite; }
+    .tape b { color: var(--gold); margin: 0 6px 0 16px; }
+    @keyframes tick { to { transform: translateX(-50%); } }
+    main { flex: 1; overflow: auto; -webkit-overflow-scrolling: touch; }
+    .pad { padding: 12px 14px 28px; }
+    .kicker {
+      color: var(--gold);
+      font: 700 10px/1.3 system-ui, sans-serif;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+    }
+    h1 { font-size: 26px; line-height: 1.15; margin: 6px 0 8px; }
+    h2 { font-size: 17px; line-height: 1.25; margin: 0 0 6px; }
+    .lede { color: var(--muted); font-size: 14px; line-height: 1.45; margin: 0 0 12px; }
+    .row { display: flex; gap: 8px; flex-wrap: wrap; }
+    .pill, .seg button {
+      border: 1px solid var(--line);
+      background: var(--navy3);
+      color: var(--text);
+      border-radius: 999px;
+      padding: 7px 11px;
+      font: 650 12px/1 system-ui, sans-serif;
+      cursor: pointer;
+    }
+    .pill.on, .seg button.on { background: var(--gold); color: var(--navy); border-color: var(--gold); }
+    .seg { display: flex; gap: 6px; margin: 10px 0 12px; overflow-x: auto; }
+    .card, .hero, .mod {
+      background: var(--navy2);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      padding: 13px;
+      margin: 10px 0;
+    }
+    .card, .hero { cursor: pointer; }
+    .card:active, .hero:active, .pill:active, .iconbtn:active { transform: scale(.99); }
+    .hero { padding: 0; overflow: hidden; }
+    .hero .body { padding: 13px; }
+    .hero img, .card img, .chart img { width: 100%; height: 168px; object-fit: cover; display: block; background: #081422; }
+    .meta { color: #c9c1ae; font: 12px/1.3 system-ui, sans-serif; margin-top: 8px; }
+    .compact { display: flex; gap: 10px; align-items: flex-start; }
+    .compact .mark {
+      min-width: 46px;
+      color: var(--gold);
+      font: 800 10px/1.2 system-ui, sans-serif;
+      letter-spacing: .4px;
+      padding-top: 3px;
+    }
+    .meters { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 6px; margin-top: 10px; }
+    .meters div {
+      background: #081422;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 8px 6px;
+      text-align: center;
+    }
+    .meters b { display: block; font: 800 13px/1.1 system-ui; }
+    .meters span { color: var(--muted); font: 10px system-ui; letter-spacing: .4px; }
+    .base b { color: var(--gold2); }
+    .up b { color: var(--up); }
+    .tail b { color: var(--dn); }
+    .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+    .chart { margin: 0; padding: 0; overflow: hidden; cursor: pointer; border-radius: 12px; border: 1px solid var(--line); background: var(--navy2); }
+    .chart img { height: 110px; }
+    .chart p { margin: 0; padding: 8px; font-size: 12px; line-height: 1.3; }
+    .watch-item, .inst {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 10px;
+      padding: 12px 0;
+      border-bottom: 1px solid var(--line);
+      cursor: pointer;
+    }
+    .watch-item:last-child, .inst:last-child { border-bottom: 0; }
+    .chev { color: var(--gold); font-size: 20px; }
+    .sub {
+      border: 1px solid var(--gold);
+      border-radius: 14px;
+      padding: 14px;
+      margin-top: 14px;
+    }
+    .sub input, .sub button, .searchbox {
+      width: 100%;
+      margin-top: 8px;
+      padding: 11px;
+      border-radius: 8px;
+      border: 1px solid var(--line);
+      background: #081422;
+      color: var(--text);
+      font: 15px system-ui, sans-serif;
+    }
+    .sub button, .primary {
+      background: var(--gold);
+      color: var(--navy);
+      font-weight: 800;
+      border: 0;
+      cursor: pointer;
+    }
+    .empty { color: var(--muted); text-align: center; padding: 32px 8px; }
     nav.tabs {
       display: flex;
+      background: #050d16;
       border-top: 1px solid var(--line);
-      background: #0a1626;
     }
     nav.tabs button {
       flex: 1;
       background: none;
       border: 0;
       color: var(--muted);
-      padding: 12px 4px 14px;
-      font: 700 10px/1.2 system-ui, sans-serif;
-      letter-spacing: .4px;
+      padding: 9px 2px 11px;
+      font: 800 9px/1.15 system-ui, sans-serif;
+      letter-spacing: .6px;
       cursor: pointer;
     }
     nav.tabs button.on { color: var(--gold); }
-    main { flex: 1; overflow: auto; padding: 0 18px 24px; }
-    .card {
-      background: var(--navy2);
+    nav.tabs small { display: block; font-size: 15px; margin-bottom: 3px; font-weight: 500; }
+    .reader { display: none; flex-direction: column; position: absolute; inset: 0; background: var(--cream); z-index: 5; }
+    .app.show-reader .reader { display: flex; }
+    .app.show-reader .topbar, .app.show-reader .tape, .app.show-reader main, .app.show-reader nav.tabs { display: none; }
+    .rbar { background: var(--navy); padding: 10px 12px 12px; }
+    .rbar .tools { display: flex; gap: 8px; margin-bottom: 8px; }
+    .rbar .tools button {
+      background: var(--navy3);
       border: 1px solid var(--line);
-      border-radius: 14px;
-      padding: 14px;
-      margin: 12px 0;
-      cursor: pointer;
-    }
-    .card img { width: 100%; height: 150px; object-fit: cover; border-radius: 8px; margin-bottom: 10px; background: #0a1626; }
-    .card h2 { font-size: 19px; line-height: 1.25; margin: 6px 0; }
-    .card p { color: var(--muted); font-size: 14px; line-height: 1.45; margin: 0; }
-    .meta { color: #d8d0c0; font-size: 12px; margin-top: 8px; font-family: system-ui, sans-serif; }
-    .chips { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
-    .chips button, .ghost {
-      border: 1px solid var(--line);
-      background: #16314a;
-      color: var(--cream);
-      border-radius: 20px;
-      padding: 7px 12px;
-      font: 600 13px system-ui, sans-serif;
-      cursor: pointer;
-    }
-    .subscribe {
-      border: 1px solid var(--gold);
-      border-radius: 14px;
-      padding: 16px;
-      margin-top: 16px;
-    }
-    .subscribe input, .subscribe button {
-      width: 100%;
-      margin-top: 8px;
-      padding: 12px;
+      color: var(--gold2);
       border-radius: 8px;
-      border: 1px solid var(--line);
-      font: 15px system-ui, sans-serif;
+      padding: 6px 9px;
+      font: 650 12px system-ui;
+      cursor: pointer;
     }
-    .subscribe input { background: #0a1626; color: var(--text); }
-    .subscribe button { background: var(--gold); color: var(--navy); font-weight: 800; cursor: pointer; }
-    article.reader { display: none; flex-direction: column; height: 100%; }
-    article.reader.show { display: flex; }
-    .app.show-reader main, .app.show-reader nav.tabs, .app.show-reader header { display: none; }
-    .app.show-reader article.reader { display: flex; }
-    .reader-top { background: var(--navy); padding: 12px 16px 16px; }
-    .reader-top button { background: none; border: 0; color: var(--gold2); font: 600 14px system-ui; cursor: pointer; padding: 0 0 8px; }
+    .rbar .tools button.on { background: var(--gold); color: var(--navy); }
+    .rbar h1 { color: var(--text); font-size: 22px; margin: 6px 0; }
+    .rbar .meta { color: var(--muted); }
     iframe.body { flex: 1; width: 100%; border: 0; background: var(--cream); }
-    .empty { color: var(--muted); padding: 28px 0; text-align: center; }
+    .search-layer {
+      display: none;
+      position: absolute;
+      inset: 0;
+      background: var(--navy);
+      z-index: 6;
+      flex-direction: column;
+    }
+    .app.show-search .search-layer { display: flex; }
+    .search-layer .pad { flex: 1; overflow: auto; }
+    .cmd {
+      position: absolute;
+      inset: 0;
+      display: none;
+      flex-direction: column;
+      background: var(--navy);
+      z-index: 7;
+    }
+    .app.show-cmd .cmd { display: flex; }
+    .cmd iframe { flex: 1; border: 0; background: #07131f; }
   </style>
 </head>
 <body>
   <div class="phone app" id="app">
-    <header>
-      <div class="kicker">Universal Asset Owners</div>
-      <h1 id="title">Capital at the scale of the world.</h1>
-      <p class="lede" id="lede">The same daily brief, Probability Desk, research, charts, video and podcasts as the website.</p>
-    </header>
-    <main id="main"><div class="empty">Loading today’s intelligence…</div></main>
+    <div class="topbar">
+      <div class="brand">
+        <b>UNIVERSAL ASSET OWNERS</b>
+        <span id="deskclock">Terminal · New York</span>
+      </div>
+      <div class="live"><i class="dot"></i>LIVE</div>
+      <div class="clock" id="clock">--:-- ET</div>
+      <button class="iconbtn" id="searchBtn" title="Search">⌕</button>
+    </div>
+    <div class="tape"><div class="tape-inner" id="tape">Loading the desk…</div></div>
+    <main id="main"><div class="empty">Opening the terminal…</div></main>
     <nav class="tabs">
-      <button class="on" data-tab="today">TODAY</button>
-      <button data-tab="brief">BRIEF</button>
-      <button data-tab="desk">DESK</button>
-      <button data-tab="research">NOTE</button>
-      <button data-tab="more">MORE</button>
+      <button class="on" data-tab="term"><small>▣</small>TERM</button>
+      <button data-tab="briefs"><small>☰</small>BRIEFS</button>
+      <button data-tab="desk"><small>◈</small>DESK</button>
+      <button data-tab="charts"><small>▤</small>CHARTS</button>
+      <button data-tab="watch"><small>☆</small>WATCH</button>
     </nav>
     <article class="reader" id="reader">
-      <div class="reader-top">
-        <button type="button" id="back">‹ Back</button>
+      <div class="rbar">
+        <div class="tools">
+          <button type="button" id="back">‹ Back</button>
+          <button type="button" id="saveBtn">Save</button>
+          <button type="button" id="shareBtn">Share</button>
+          <button type="button" id="aaMinus">A−</button>
+          <button type="button" id="aaPlus">A+</button>
+        </div>
         <div class="kicker" id="rkicker"></div>
         <h1 id="rtitle"></h1>
         <div class="meta" id="rmeta"></div>
       </div>
       <iframe class="body" id="rbody" title="Briefing"></iframe>
     </article>
+    <div class="search-layer" id="searchLayer">
+      <div class="pad">
+        <div class="kicker">Search the live library</div>
+        <input class="searchbox" id="q" placeholder="Hormuz, CPP, private credit, 30-year…" autofocus />
+        <div id="searchResults"></div>
+        <button class="pill" id="closeSearch" style="margin-top:12px">Close search</button>
+      </div>
+    </div>
+    <div class="cmd" id="cmd">
+      <div class="rbar">
+        <div class="tools"><button type="button" id="closeCmd">‹ Back to terminal</button></div>
+        <div class="kicker">Command Center</div>
+        <h1>Live signals now</h1>
+      </div>
+      <iframe src="https://www.universalassetowners.com/command-center/" title="Command Center"></iframe>
+    </div>
   </div>
   <script>
     const API = 'https://universal-asset-owners.ghost.io/ghost/api/content';
     const KEY = '4cb0118527b7b2a473e665856a';
+    const SITE = 'https://www.universalassetowners.com';
     const FILTERS = {
-      today: '',
+      latest: '',
       brief: 'tag:hash-daily-brief',
       desk: 'tag:hash-probability-desk',
       research: 'tag:hash-research',
       charts: 'tag:hash-chart',
-      watch: 'tag:hash-video-briefing',
+      watchv: 'tag:hash-video-briefing',
       listen: 'tag:hash-podcast',
     };
-    const COPY = {
-      today: ['Today’s intelligence', 'For investors who own the whole market, the largest risks cannot be diversified away.'],
-      brief: ['The Universal Owner', 'The morning long-form that ships every weekday on the website.'],
-      desk: ['The Probability Desk', 'Base cases, tail risks and second-order effects — for capital that thinks in decades.'],
-      research: ['UAO Research', 'The same research library as universalassetowners.com.'],
-      more: ['More from the desk', 'Watch, listen, charts, and the same subscribe path as the website.'],
-    };
+    const INST = [
+      ['sovereign-wealth', 'Sovereign Wealth', 'PIF, ADIA, GIC, NBIM'],
+      ['public-pensions', 'Public Pensions', 'CPP, CalPERS, OTPP'],
+      ['family-offices', 'Family Offices', 'Multi-generational capital'],
+      ['private-markets', 'Private Markets', 'PE, credit, infrastructure'],
+      ['endowments', 'Endowments', 'Perpetual capital'],
+      ['policy-regulation', 'Policy & Regulation', 'The rules for long capital'],
+    ];
+    const THEMES = ['infrastructure','ai-infrastructure','private-credit','geopolitics','energy-transition','universal-ownership'];
     const cache = {};
-    let tab = 'today';
-
+    let tab = 'term';
+    let current = null;
+    let typePx = 17;
     const $ = (id) => document.getElementById(id);
+    const saved = () => JSON.parse(localStorage.getItem('uao.saved') || '[]');
+    const setSaved = (list) => localStorage.setItem('uao.saved', JSON.stringify(list));
+
+    function nowEt() {
+      return new Date().toLocaleTimeString('en-US', { timeZone: 'America/New_York', hour: '2-digit', minute: '2-digit' });
+    }
+    function sessionLabel() {
+      const h = Number(new Date().toLocaleString('en-US', { timeZone: 'America/New_York', hour: 'numeric', hour12: false }));
+      if (h < 12) return 'Morning desk · The Universal Owner';
+      if (h < 17) return 'Afternoon desk · The Probability Desk';
+      return 'After close · overnight book';
+    }
+    function tickClock() {
+      $('clock').textContent = nowEt() + ' ET';
+      $('deskclock').textContent = sessionLabel();
+    }
     function fmt(iso) {
-      if (!iso) return '';
-      return new Date(iso).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric', timeZone: 'America/New_York' });
+      return iso ? new Date(iso).toLocaleDateString('en-US', { month: 'short', day: 'numeric', timeZone: 'America/New_York' }) : '';
+    }
+    function slugs(post) { return (post.tags || []).map((t) => t.slug); }
+    function deskOf(post) {
+      const s = slugs(post);
+      if (s.some((x) => x.includes('probability'))) return 'PD';
+      if (s.some((x) => x.includes('research'))) return 'RES';
+      if (s.some((x) => x.includes('chart'))) return 'CHT';
+      if (s.some((x) => x.includes('video'))) return 'VID';
+      if (s.some((x) => x.includes('podcast'))) return 'AUD';
+      return 'TUO';
     }
     function kicker(post) {
-      const slugs = (post.tags || []).map((t) => t.slug);
-      if (slugs.some((s) => s.includes('probability'))) return 'The Probability Desk';
-      if (slugs.some((s) => s.includes('research'))) return 'UAO Research';
-      if (slugs.some((s) => s.includes('chart'))) return 'Chart of the Day';
-      if (slugs.some((s) => s.includes('video'))) return 'Watch';
-      if (slugs.some((s) => s.includes('podcast'))) return 'Listen';
-      return 'The Universal Owner';
+      return { PD: 'The Probability Desk', RES: 'UAO Research', CHT: 'Chart of the Day', VID: 'Watch', AUD: 'Listen', TUO: 'The Universal Owner' }[deskOf(post)];
     }
+    function excerpt(post) { return post.custom_excerpt || post.excerpt || ''; }
     async function fetchPosts(filter, limit = 12) {
       const key = filter + ':' + limit;
       if (cache[key]) return cache[key];
@@ -175,115 +366,253 @@
       url.searchParams.set('order', 'published_at DESC');
       if (filter) url.searchParams.set('filter', filter);
       const res = await fetch(url);
-      if (!res.ok) throw new Error('Could not reach the UAO desk (' + res.status + ')');
-      const data = await res.json();
-      cache[key] = data.posts || [];
+      if (!res.ok) throw new Error('Desk unreachable (' + res.status + ')');
+      cache[key] = (await res.json()).posts || [];
       return cache[key];
     }
     async function fetchPost(slug) {
       const url = new URL(API + '/posts/slug/' + encodeURIComponent(slug) + '/');
       url.searchParams.set('key', KEY);
       url.searchParams.set('include', 'tags,authors');
-      const res = await fetch(url);
-      const data = await res.json();
-      return data.posts[0];
+      return (await (await fetch(url)).json()).posts[0];
     }
-    function card(post) {
-      const excerpt = post.custom_excerpt || post.excerpt || '';
+    async function search(q) {
+      const url = new URL(API + '/posts/');
+      url.searchParams.set('key', KEY);
+      url.searchParams.set('limit', '20');
+      url.searchParams.set('include', 'tags');
+      url.searchParams.set('filter', "title:~'" + q.replace(/'/g, '') + "'");
+      return (await (await fetch(url)).json()).posts || [];
+    }
+    function card(post, hero) {
       const img = post.feature_image ? `<img src="${post.feature_image}" alt="">` : '';
+      if (hero) {
+        return `<article class="hero" data-slug="${post.slug}">${img}<div class="body">
+          <div class="kicker">${kicker(post)}</div>
+          <h2>${post.title}</h2>
+          <p class="lede">${excerpt(post)}</p>
+          <div class="meta">${fmt(post.published_at)}${post.reading_time ? ' · ' + post.reading_time + ' min' : ''} · ${deskOf(post)}</div>
+        </div></article>`;
+      }
       return `<article class="card" data-slug="${post.slug}">
         ${img}
         <div class="kicker">${kicker(post)}</div>
         <h2>${post.title}</h2>
-        <p>${excerpt}</p>
-        <div class="meta">${fmt(post.published_at)}${post.reading_time ? ' · ' + post.reading_time + ' min read' : ''}</div>
+        <p class="lede">${excerpt(post)}</p>
+        <div class="meta">${fmt(post.published_at)}${post.reading_time ? ' · ' + post.reading_time + ' min' : ''}</div>
       </article>`;
     }
-    function subscribe() {
-      return `<div class="subscribe">
-        <div class="kicker">The Daily Brief</div>
-        <h2>Get tomorrow’s brief in your inbox — and in this app.</h2>
-        <p class="lede">Complimentary. Each subscriber is reviewed by the editorial desk.</p>
-        <input id="email" type="email" placeholder="you@institution.com" />
-        <button type="button" id="signup">Get the daily brief</button>
-      </div>`;
+    function compact(post) {
+      return `<article class="card compact" data-slug="${post.slug}">
+        <div class="mark">${deskOf(post)}</div>
+        <div><h2>${post.title}</h2><div class="meta">${fmt(post.published_at)} · ${kicker(post)}</div></div>
+      </article>`;
     }
+    function bindCards(root) {
+      root.querySelectorAll('[data-slug]').forEach((el) => el.onclick = () => openPost(el.dataset.slug));
+    }
+    function subscribe() {
+      return `<div class="sub"><div class="kicker">Wire the desk to your inbox</div>
+        <h2>Get the daily brief</h2>
+        <p class="lede">Complimentary. Editorial review before access — same portal as the website.</p>
+        <input id="email" type="email" placeholder="you@institution.com" />
+        <button type="button" id="signup">Request access</button></div>`;
+    }
+    function wireSignup() {
+      const btn = $('signup');
+      if (!btn) return;
+      btn.onclick = () => {
+        const email = ($('email')?.value || '').trim();
+        location.href = SITE + '/#/portal/signup' + (email ? '?email=' + encodeURIComponent(email) : '');
+      };
+    }
+
     async function render(next) {
       tab = next;
       document.querySelectorAll('nav.tabs button').forEach((b) => b.classList.toggle('on', b.dataset.tab === tab));
-      $('title').textContent = COPY[tab][0];
-      $('lede').textContent = COPY[tab][1];
-      $('main').innerHTML = '<div class="empty">Loading today’s intelligence…</div>';
+      $('main').innerHTML = '<div class="empty">Refreshing the book…</div>';
       try {
-        if (tab === 'more') {
-          $('main').innerHTML = `
-            <div class="chips">
-              <button data-tab="watch">Watch</button>
-              <button data-tab="listen">Listen</button>
-              <button data-tab="charts">Chart</button>
-            </div>
-            <p class="lede">Two daily shows. Four formats. The same news as universalassetowners.com.</p>
-            ${subscribe()}`;
-          $('main').querySelectorAll('[data-tab]').forEach((b) => b.onclick = () => {
-            COPY[b.dataset.tab] = [b.textContent, 'The same format stream as the website.'];
-            render(b.dataset.tab);
-          });
-          $('signup').onclick = () => {
-            const email = $('email').value.trim();
-            location.href = 'https://www.universalassetowners.com/#/portal/signup' + (email ? '?email=' + encodeURIComponent(email) : '');
-          };
-          return;
-        }
-        if (tab === 'today') {
-          const [briefs, desk, charts] = await Promise.all([
-            fetchPosts(FILTERS.brief, 1),
-            fetchPosts(FILTERS.desk, 3),
-            fetchPosts(FILTERS.charts, 3),
+        if (tab === 'term') {
+          const [briefs, desk, charts, latest, video] = await Promise.all([
+            fetchPosts(FILTERS.brief, 2),
+            fetchPosts(FILTERS.desk, 2),
+            fetchPosts(FILTERS.charts, 4),
+            fetchPosts(FILTERS.latest, 16),
+            fetchPosts(FILTERS.watchv, 1),
           ]);
-          $('main').innerHTML = `
-            <div class="chips">
-              <button data-tab="brief">Read</button>
-              <button data-tab="watch">Watch</button>
-              <button data-tab="listen">Listen</button>
-              <button data-tab="charts">Chart</button>
+          const hero = briefs[0];
+          $('tape').innerHTML = latest.concat(latest).map((p) => `<b>${deskOf(p)}</b> ${p.title}`).join('   ·   ') + '   ·   ';
+          $('main').innerHTML = `<div class="pad">
+            <div class="kicker">UAO Terminal</div>
+            <h1>Capital at the scale of the world.</h1>
+            <p class="lede">Two desks. Four formats. The same intelligence the website ships every weekday — built to be used on a phone.</p>
+            <div class="seg">
+              <button data-go="briefs">Read</button>
+              <button data-go="watchv">Watch</button>
+              <button data-go="listen">Listen</button>
+              <button data-go="charts">Charts</button>
+              <button id="openCmd">Signals</button>
             </div>
-            <div class="kicker">Today’s intelligence</div>
-            ${briefs.map(card).join('')}
-            <div class="kicker" style="margin-top:18px">The Probability Desk</div>
-            ${desk.map(card).join('')}
-            <div class="kicker" style="margin-top:18px">Chart of the Day</div>
-            ${charts.map(card).join('')}
-            ${subscribe()}`;
-          $('main').querySelectorAll('[data-tab]').forEach((b) => b.onclick = () => {
-            COPY[b.dataset.tab] = COPY[b.dataset.tab] || [b.textContent, 'The same format stream as the website.'];
-            render(b.dataset.tab);
-          });
-          $('signup').onclick = () => {
-            const email = $('email').value.trim();
-            location.href = 'https://www.universalassetowners.com/#/portal/signup' + (email ? '?email=' + encodeURIComponent(email) : '');
-          };
-        } else {
-          const posts = await fetchPosts(FILTERS[tab] || '', 15);
-          $('main').innerHTML = posts.length ? posts.map(card).join('') : '<div class="empty">Nothing from this desk yet.</div>';
+            <div class="kicker">Lead brief</div>
+            ${hero ? card(hero, true) : ''}
+            <div class="mod">
+              <div class="kicker">Probability Desk</div>
+              <h2>${desk[0] ? desk[0].title : 'Afternoon scenario'}</h2>
+              <p class="lede">${desk[0] ? excerpt(desk[0]) : ''}</p>
+              <div class="meters">
+                <div class="base"><b>BASE</b><span>central case</span></div>
+                <div class="up"><b>UPSIDE</b><span>second-order</span></div>
+                <div class="tail"><b>TAIL</b><span>left / right</span></div>
+              </div>
+              ${desk[0] ? `<div class="meta" style="margin-top:10px">Tap through to the live scenario · ${fmt(desk[0].published_at)}</div>` : ''}
+            </div>
+            ${desk[0] ? '' : ''}
+            <div class="kicker">Chart of the day</div>
+            <div class="grid">${charts.slice(0,4).map((p) => `<article class="chart" data-slug="${p.slug}">${p.feature_image ? `<img src="${p.feature_image}" alt="">` : ''}<p>${p.title}</p></article>`).join('')}</div>
+            ${video[0] ? `<div class="kicker" style="margin-top:16px">Watch</div>${card(video[0])}` : ''}
+            <div class="kicker" style="margin-top:16px">The tape</div>
+            ${latest.slice(0,8).map(compact).join('')}
+            ${subscribe()}
+          </div>`;
+          $('main').querySelectorAll('[data-go]').forEach((b) => b.onclick = () => render(b.dataset.go));
+          const cmd = $('openCmd');
+          if (cmd) cmd.onclick = () => document.getElementById('app').classList.add('show-cmd');
+          const pd = $('main').querySelector('.mod');
+          if (pd && desk[0]) pd.onclick = () => openPost(desk[0].slug);
+        } else if (tab === 'briefs' || tab === 'watchv' || tab === 'listen' || tab === 'research') {
+          const filter = tab === 'briefs' ? FILTERS.brief : FILTERS[tab] || FILTERS.brief;
+          const posts = await fetchPosts(filter, 18);
+          const title = { briefs: 'The Universal Owner', watchv: 'Watch', listen: 'Listen', research: 'UAO Research' }[tab];
+          $('main').innerHTML = `<div class="pad">
+            <div class="kicker">${tab === 'briefs' ? 'Morning intelligence' : 'Format'}</div>
+            <h1>${title}</h1>
+            <div class="seg">
+              <button data-go="briefs" class="${tab==='briefs'?'on':''}">Briefs</button>
+              <button data-go="research" class="${tab==='research'?'on':''}">Research</button>
+              <button data-go="watchv" class="${tab==='watchv'?'on':''}">Video</button>
+              <button data-go="listen" class="${tab==='listen'?'on':''}">Audio</button>
+            </div>
+            ${tab === 'listen' ? `<div class="row" style="margin-bottom:10px">
+              <a class="pill" href="https://podcasts.apple.com/us/podcast/the-universal-owner/id1896768422">Apple</a>
+              <a class="pill" href="https://open.spotify.com/show/033o3co88wewrXkK06HLNS">Spotify</a>
+              <a class="pill" href="https://feed.podbean.com/universalassetowners/feed.xml">RSS</a>
+            </div>` : ''}
+            ${posts.map((p) => card(p)).join('') || '<div class="empty">Nothing on this wire yet.</div>'}
+          </div>`;
+          $('main').querySelectorAll('[data-go]').forEach((b) => b.onclick = () => render(b.dataset.go));
+        } else if (tab === 'desk') {
+          const posts = await fetchPosts(FILTERS.desk, 16);
+          $('main').innerHTML = `<div class="pad">
+            <div class="kicker">Afternoon scenario desk</div>
+            <h1>The Probability Desk</h1>
+            <p class="lede">Base, upside and tail — probability-weighted for capital that thinks in decades.</p>
+            <div class="meters">
+              <div class="base"><b>BASE</b><span>governed case</span></div>
+              <div class="up"><b>UPSIDE</b><span>convex path</span></div>
+              <div class="tail"><b>TAIL</b><span>break case</span></div>
+            </div>
+            <button class="pill" id="openCmd2" style="margin:12px 0">Open Command Center</button>
+            ${posts.map((p) => card(p)).join('')}
+          </div>`;
+          $('openCmd2').onclick = () => document.getElementById('app').classList.add('show-cmd');
+        } else if (tab === 'charts') {
+          const posts = await fetchPosts(FILTERS.charts, 20);
+          $('main').innerHTML = `<div class="pad">
+            <div class="kicker">Visual signal</div>
+            <h1>Charts</h1>
+            <p class="lede">One print a day from each desk. Tap any chart for the briefing underneath it.</p>
+            <div class="grid">${posts.map((p) => `<article class="chart" data-slug="${p.slug}">${p.feature_image ? `<img src="${p.feature_image}" alt="">` : ''}<p>${p.title}</p></article>`).join('')}</div>
+          </div>`;
+        } else if (tab === 'watch') {
+          const mine = saved();
+          $('main').innerHTML = `<div class="pad">
+            <div class="kicker">Watchlist</div>
+            <h1>Saved & institutions</h1>
+            <p class="lede">${mine.length} saved briefing${mine.length===1?'':'s'} on this phone.</p>
+            ${mine.length ? mine.map(compact).join('') : '<div class="empty">Open any brief and tap Save — it stays on this device.</div>'}
+            <div class="kicker" style="margin-top:18px">People & institutions</div>
+            ${INST.map(([slug, title, blurb]) => `<div class="inst" data-tag="${slug}"><div><b>${title}</b><div class="meta">${blurb}</div></div><div class="chev">›</div></div>`).join('')}
+            <div class="kicker" style="margin-top:18px">Themes</div>
+            <div class="row">${THEMES.map((t) => `<button class="pill" data-tag="${t}">${t.replace(/-/g,' ')}</button>`).join('')}</div>
+            ${subscribe()}
+          </div>`;
+          $('main').querySelectorAll('[data-tag]').forEach((el) => el.onclick = () => openTag(el.dataset.tag));
         }
-        $('main').querySelectorAll('.card').forEach((el) => el.onclick = () => openPost(el.dataset.slug));
+        bindCards($('main'));
+        wireSignup();
       } catch (err) {
         $('main').innerHTML = `<div class="empty">${err.message}</div>`;
       }
     }
+
+    async function openTag(slug) {
+      $('main').innerHTML = '<div class="empty">Pulling the book…</div>';
+      const posts = await fetchPosts('tag:' + slug, 16);
+      $('main').innerHTML = `<div class="pad">
+        <button class="pill" id="backWatch">‹ Watchlist</button>
+        <div class="kicker" style="margin-top:12px">Coverage</div>
+        <h1>${slug.replace(/-/g,' ')}</h1>
+        ${posts.map((p) => card(p)).join('') || '<div class="empty">No public notes on this name yet.</div>'}
+      </div>`;
+      $('backWatch').onclick = () => render('watch');
+      bindCards($('main'));
+    }
+
     async function openPost(slug) {
       const post = await fetchPost(slug);
+      current = post;
       $('rkicker').textContent = kicker(post);
       $('rtitle').textContent = post.title;
-      $('rmeta').textContent = (post.authors?.[0]?.name || 'UAO Editorial') + ' · ' + fmt(post.published_at);
-      $('rbody').srcdoc = `<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-        <style>body{margin:0;padding:16px 18px 40px;background:#f4efe6;color:#12202f;font:17px/1.65 Georgia,serif}h1,h2{color:#0b1f3a}h2{border-bottom:2px solid #c9a24b;padding-bottom:8px}a{color:#8a7433}img,iframe{max-width:100%}iframe{width:100%;min-height:220px;border:0}table{width:100%;border-collapse:collapse;font-size:13px}th{background:#0b1f3a;color:#f4efe6;padding:8px;text-align:left}td{padding:8px;border-bottom:1px solid #e3ddce}</style></head>
-        <body>${post.html || post.excerpt || ''}</body></html>`;
+      $('rmeta').textContent = (post.authors?.[0]?.name || 'UAO Editorial') + ' · ' + fmt(post.published_at) + (post.reading_time ? ' · ' + post.reading_time + ' min' : '');
+      $('saveBtn').classList.toggle('on', saved().some((p) => p.id === post.id));
+      paintReader(post);
       document.getElementById('app').classList.add('show-reader');
     }
-    $('back').onclick = () => document.getElementById('app').classList.remove('show-reader');
+    function paintReader(post) {
+      $('rbody').srcdoc = `<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+        <style>body{margin:0;padding:16px 18px 48px;background:#f4efe6;color:#12202f;font:${typePx}px/1.65 Georgia,serif}h1,h2{color:#0b1f3a}h2{border-bottom:2px solid #c9a24b;padding-bottom:8px}a{color:#8a7433}img,iframe{max-width:100%}iframe{width:100%;min-height:220px;border:0}table{width:100%;border-collapse:collapse;font-size:13px}th{background:#0b1f3a;color:#f4efe6;padding:8px;text-align:left}td{padding:8px;border-bottom:1px solid #e3ddce}</style></head>
+        <body>${post.html || excerpt(post)}</body></html>`;
+    }
+
     document.querySelectorAll('nav.tabs button').forEach((b) => b.onclick = () => render(b.dataset.tab));
-    render('today');
+    $('back').onclick = () => document.getElementById('app').classList.remove('show-reader');
+    $('closeCmd').onclick = () => document.getElementById('app').classList.remove('show-cmd');
+    $('searchBtn').onclick = () => document.getElementById('app').classList.add('show-search');
+    $('closeSearch').onclick = () => document.getElementById('app').classList.remove('show-search');
+    $('saveBtn').onclick = () => {
+      if (!current) return;
+      const list = saved();
+      const next = list.some((p) => p.id === current.id) ? list.filter((p) => p.id !== current.id) : [current, ...list].slice(0, 40);
+      setSaved(next);
+      $('saveBtn').classList.toggle('on', next.some((p) => p.id === current.id));
+    };
+    $('shareBtn').onclick = () => {
+      if (!current) return;
+      const url = current.url || SITE;
+      if (navigator.share) navigator.share({ title: current.title, url });
+      else navigator.clipboard.writeText(url);
+    };
+    $('aaMinus').onclick = () => { typePx = Math.max(14, typePx - 1); if (current) paintReader(current); };
+    $('aaPlus').onclick = () => { typePx = Math.min(22, typePx + 1); if (current) paintReader(current); };
+    let t;
+    $('q').oninput = () => {
+      clearTimeout(t);
+      const q = $('q').value.trim();
+      t = setTimeout(async () => {
+        if (q.length < 2) { $('searchResults').innerHTML = ''; return; }
+        $('searchResults').innerHTML = '<div class="empty">Searching…</div>';
+        try {
+          const posts = await search(q);
+          $('searchResults').innerHTML = posts.length ? posts.map(compact).join('') : '<div class="empty">No titles matched.</div>';
+          bindCards($('searchResults'));
+        } catch (e) {
+          $('searchResults').innerHTML = `<div class="empty">${e.message}</div>`;
+        }
+      }, 250);
+    };
+    tickClock();
+    setInterval(tickClock, 15000);
+    render('term');
   </script>
 </body>
 </html>

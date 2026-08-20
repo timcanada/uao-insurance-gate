@@ -13,8 +13,16 @@ export default function MoreScreen() {
       <ScrollView contentContainerStyle={styles.scroll}>
         <Wordmark />
         <Text style={styles.lede}>
-          Two daily shows. Four formats. The same news and experience as universalassetowners.com.
+          Watchlist, institutions and the same four formats as the website. Save a brief from any
+          story — it stays on this phone.
         </Text>
+
+        <Text style={styles.heading}>Watchlist</Text>
+        <MenuRow kicker="Saved" title="Briefings on this device" href="/saved" />
+        <MenuRow kicker="Search" title="Search the live library" href="/search" />
+        <MenuRow kicker="Signals" title="Command Center" href="/command-center" />
+        <MenuRow kicker="Research" title="UAO Research library" href="/section/research" />
+        <MenuRow kicker="Video" title="Daily video briefings" href="/watch" />
 
         <Text style={styles.heading}>Formats</Text>
         <MenuRow kicker="Watch" title="Three-minute video briefings" href="/watch" />

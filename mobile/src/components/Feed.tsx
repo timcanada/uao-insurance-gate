@@ -1,3 +1,4 @@
+import type { ReactNode } from 'react';
 import { ActivityIndicator, FlatList, RefreshControl, StyleSheet, Text, View } from 'react-native';
 
 import { EmptyState, LoadingBlock, PostCard, Screen, Wordmark } from '@/src/components/Ui';
@@ -9,11 +10,13 @@ export function Feed({
   kicker,
   title,
   blurb,
+  headerExtra,
 }: {
   filter: string;
   kicker: string;
   title: string;
   blurb: string;
+  headerExtra?: ReactNode;
 }) {
   const feed = usePosts(filter, 12);
 
@@ -38,6 +41,7 @@ export function Feed({
             <Text style={styles.kicker}>{kicker}</Text>
             <Text style={styles.title}>{title}</Text>
             <Text style={styles.blurb}>{blurb}</Text>
+            {headerExtra}
             {feed.total ? (
               <Text style={styles.count}>
                 {feed.total} {feed.total === 1 ? 'piece' : 'pieces'} from the live desk

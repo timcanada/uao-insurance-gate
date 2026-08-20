@@ -25,8 +25,8 @@ export default function TabLayout() {
       <Tabs.Screen
         name="index"
         options={{
-          title: 'Today',
-          tabBarIcon: ({ color }) => <TabMark label="TODAY" color={color} />,
+          title: 'Term',
+          tabBarIcon: ({ color }) => <TabMark label="TERM" color={color} />,
         }}
       />
       <Tabs.Screen
@@ -46,15 +46,15 @@ export default function TabLayout() {
       <Tabs.Screen
         name="research"
         options={{
-          title: 'Research',
-          tabBarIcon: ({ color }) => <TabMark label="NOTE" color={color} />,
+          title: 'Charts',
+          tabBarIcon: ({ color }) => <TabMark label="CHART" color={color} />,
         }}
       />
       <Tabs.Screen
         name="more"
         options={{
-          title: 'More',
-          tabBarIcon: ({ color }) => <TabMark label="MORE" color={color} />,
+          title: 'Watch',
+          tabBarIcon: ({ color }) => <TabMark label="WATCH" color={color} />,
         }}
       />
     </Tabs>

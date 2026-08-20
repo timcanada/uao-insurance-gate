@@ -1,7 +1,7 @@
 import { useLocalSearchParams, useNavigation } from 'expo-router';
 import * as WebBrowser from 'expo-web-browser';
 import { useEffect, useState } from 'react';
-import { Pressable, StyleSheet, Text, View } from 'react-native';
+import { Pressable, Share, StyleSheet, Text, View } from 'react-native';
 
 import { fetchPostBySlug } from '@/src/api/ghost';
 import { ArticleHtml } from '@/src/components/ArticleHtml';
@@ -58,8 +58,13 @@ export default function ArticleScreen() {
           <Pressable onPress={() => bookmarks.toggle(post)} style={styles.ghostBtn}>
             <Text style={styles.ghostLabel}>{bookmarks.isSaved(post.id) ? 'Saved' : 'Save'}</Text>
           </Pressable>
+          <Pressable
+            onPress={() => Share.share({ title: post.title, message: post.url })}
+            style={styles.ghostBtn}>
+            <Text style={styles.ghostLabel}>Share</Text>
+          </Pressable>
           <Pressable onPress={() => WebBrowser.openBrowserAsync(post.url)} style={styles.ghostBtn}>
-            <Text style={styles.ghostLabel}>Open on the web</Text>
+            <Text style={styles.ghostLabel}>Web</Text>
           </Pressable>
         </View>
       </View>

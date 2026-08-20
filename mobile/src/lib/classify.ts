@@ -26,6 +26,13 @@ export const FORMAT_FILTERS: Record<Format, string> = {
 
 export const THEMES: SectionDef[] = [
   {
+    slug: 'research',
+    title: 'UAO Research',
+    kicker: 'Library',
+    blurb: 'Flagship reports, chokepoints and the capital-stage ledger.',
+    filter: 'tag:hash-research',
+  },
+  {
     slug: 'infrastructure',
     title: 'Infrastructure',
     kicker: 'Theme',

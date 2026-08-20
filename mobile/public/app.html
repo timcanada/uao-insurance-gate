@@ -731,7 +731,8 @@
     setInterval(tickClock, 15000);
     pollDesk();
     setInterval(pollDesk, 45000);
-    render('term');
+    const startTab = new URLSearchParams(location.search).get('tab') || 'term';
+    render(['term','briefs','desk','charts','watch'].includes(startTab) ? startTab : 'term');
   </script>
 </body>
 </html>

@@ -1,69 +1,53 @@
 # How this app gets on phones and into the stores
 
-You already have a working terminal in the browser. Native App Store / Play Store
-builds are a separate publishing step — they need Apple and Google developer
-accounts, not more product code.
+Images, listing copy, and the App ID bundle are ready. Submit waits on two logins
+Tim already said he can find: Apple Developer and a free Expo account.
+
+## Ready in this repo
+
+| Asset | Where |
+| --- | --- |
+| App icon 1024×1024 (navy / gold UAO) | `mobile/assets/images/icon.png` |
+| Android adaptive / splash / favicon | `mobile/assets/images/` |
+| Play feature graphic 1024×500 | `mobile/store/android/feature-graphic-1024x500.png` |
+| App Store screenshots (6.7", 6.5", iPad 13") | `mobile/store/ios/` |
+| Play screenshots | `mobile/store/android/` |
+| Listing copy, keywords, review notes | `mobile/store/listing.md` |
+| Bundle id | `com.universalassetowners.app` in `app.json` |
+
+Privacy policy already on the site: https://www.universalassetowners.com/privacy-policy/
 
 ## What is already wired in the app
 
-1. **YouTube live, same as the website.** The site polls
-   `https://uao-live-production.up.railway.app/`. When `live` is true the app
-   embeds `youtube-nocookie.com/embed/{videoId}` with the same autoplay / mute /
-   playsinline flags as ADR-0671. A gold **LIVE** badge appears in the masthead
-   and a docked player starts at the bottom. A toast lets people jump to the
-   player (or open YouTube if they dismissed the dock).
-2. **Daily brief popup.** The app watches Ghost `tag:hash-daily-brief`. The first
-   brief it sees is stored silently. The next new brief pops a **Daily brief just
-   dropped** card with Open brief / Later.
-3. **In-app alerts work without Apple/Google.** Anyone using the live preview or
-   a PWA sees popups while the tab is open. Lock-screen push when the phone is
-   locked needs the extra worker below.
+1. **YouTube live, same as the website.** Polls `https://uao-live-production.up.railway.app/`. When `live` is true the app embeds the same `youtube-nocookie` player as the homepage.
+2. **Daily brief popup.** Watches Ghost `tag:hash-daily-brief`. A new id pops **This morning’s brief is out**.
+3. **In-app alerts work without store accounts.** Lock-screen push is a later worker.
 
-## Path to the App Store and Play Store
+## Logins to bring when we submit (do not paste passwords here)
 
-1. **Apple Developer Program** — $99/year at https://developer.apple.com  
-   Create the org (Universal Asset Owners), then an App ID with bundle
-   `com.universalassetowners.app` (already in `app.json`).
-2. **Google Play Console** — $25 one-time at https://play.google.com/console  
-   Create the app listing. Package is the same bundle id.
-3. **App Store Connect + Play listings**  
-   Icon (1024²), screenshots on a real iPhone and Android, privacy policy URL
-   (you already have one on the site), support URL, age rating, YouTube embed
-   disclosure.
-4. **EAS Build** (from `mobile/` after `npm i -g eas-cli` and `eas login`):
+Apple’s 2FA will fail if a password is pasted into this chat. Bring these instead:
 
-   ```bash
-   eas build --platform ios --profile production
-   eas build --platform android --profile production
-   eas submit --platform ios
-   eas submit --platform android
-   ```
+1. **Apple Developer Program** (you have this) — the email on the team, plus the **Team ID** (10 characters, top-right on https://developer.apple.com/account).
+2. **App Store Connect API key** — https://appstoreconnect.apple.com/access/integrations/api
+   - Role: **App Manager**
+   - Download the `.p8` once
+   - Note **Issuer ID** and **Key ID**
+   - That key *is* the App ID / upload login. EAS uses it to create `com.universalassetowners.app` and submit.
+3. **Expo account** — free at https://expo.dev/signup (any email). After you are in, run `eas login` on your Mac, or create an access token at https://expo.dev/accounts/[you]/settings/access-tokens and we use `EXPO_TOKEN`.
+4. **Google Play** (optional, second) — Play Console invite. Can wait.
 
-   Apple will ask for a distribution certificate and provisioning profile the
-   first time. Google needs a Play upload key (EAS can generate it).
-5. **Review.** Apple typically takes 1–3 business days. Call out that the app is
-   a news reader that embeds your public Ghost feed and YouTube live player.
-   Do not claim Bloomberg affiliation.
+## Commands we run once those are in (from `mobile/`)
 
-## Lock-screen push (optional, after the first store build)
+```bash
+npx eas-cli init
+npx eas-cli build --platform ios --profile production
+npx eas-cli submit --platform ios --profile production
+```
 
-In-app toasts already fire. True push needs:
+The first iOS build creates the App ID `com.universalassetowners.app` on your Apple team, the distribution certificate, and the provisioning profile. Then we upload screenshots and paste `store/listing.md` into App Store Connect (or do it in the same session).
 
-1. Enable the `expo-notifications` plugin in `app.json`.
-2. Collect Expo push tokens on launch (ask permission once).
-3. A tiny worker (Railway, next to `uao-live-production`) that:
-   - polls the same live endpoint every 30–60s
-   - polls Ghost `tag:hash-daily-brief` every few minutes
-   - sends `https://exp.host/--/api/v2/push/send` when `live` flips true or a
-     new brief id appears
-4. Apple APNs key + Google FCM in the Expo dashboard.
+Android is the same pair of commands with `--platform android` after Play Console exists.
 
-Until that worker exists, people who leave the app will not get a lock-screen
-banner. People who have the terminal open will.
+## Review
 
-## Internal testers before the public store
-
-- iOS: TestFlight via `eas submit` (up to 10,000 testers).
-- Android: Play internal testing track (`eas.json` already points there).
-- Anyone else: the public terminal URL (Cloudflare tunnel or a page on
-  universalassetowners.com).
+Tell Apple it is a news reader for universalassetowners.com, public Ghost feed, YouTube embed when live. No Bloomberg affiliation. Contact `info@universalassetowners.com`.

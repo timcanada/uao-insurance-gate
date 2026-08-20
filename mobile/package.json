@@ -35,6 +35,7 @@
     "web": "expo start --web",
     "test": "tsx --test tests/*.test.ts",
     "verify:live": "node scripts/verify-live-content.mjs",
+    "store:assets": "python3 scripts/build-store-assets.py",
     "preview": "npx expo export --platform web && cp public/app.html dist/app.html && python3 -m http.server 8080 --directory dist --bind 0.0.0.0",
     "typecheck": "tsc --noEmit"
   },

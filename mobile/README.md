@@ -52,7 +52,7 @@ npm run web
 
 ## App Store and Play Store
 
-See [STORE.md](./STORE.md). Short version: Apple Developer ($99/yr) + Google Play Console ($25) + `eas build` / `eas submit` from this folder. Bundle id is already `com.universalassetowners.app`. In-app live play and brief popups work without store accounts. Lock-screen push when the phone is locked needs an Expo push worker after the first native build.
+See [STORE.md](./STORE.md). Icons, screenshots and listing copy are in `store/`. Bundle id is `com.universalassetowners.app`. Submit waits on Apple Developer + an Expo login (do not paste Apple passwords into chat — use an App Store Connect API key). In-app live play and brief popups already work without store accounts.
 
 ## Verify
 

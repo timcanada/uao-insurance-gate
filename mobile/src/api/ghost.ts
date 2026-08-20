@@ -1,5 +1,19 @@
 import { classifyPost } from '../lib/classify';
 import type { ClassifiedPost, GhostPost, GhostPostsResponse } from '../types';
+import snapshot from '../data/snapshot.json';
+
+export function snapshotToday(): {
+  hero: ClassifiedPost | null;
+  desk: ClassifiedPost[];
+  charts: ClassifiedPost[];
+} {
+  const brief = (snapshot.brief as GhostPost[]).map(classifyPost);
+  return {
+    hero: brief[0] ?? null,
+    desk: (snapshot.desk as GhostPost[]).map(classifyPost),
+    charts: (snapshot.charts as GhostPost[]).map(classifyPost),
+  };
+}
 
 export const GHOST_API = 'https://universal-asset-owners.ghost.io/ghost/api/content';
 export const GHOST_KEY = '4cb0118527b7b2a473e665856a';

@@ -65,25 +65,30 @@ export function PostCard({
   post: ClassifiedPost;
   hero?: boolean;
 }) {
+  const router = useRouter();
   return (
-    <Link href={{ pathname: '/article/[slug]', params: { slug: post.slug } }} asChild>
-      <Pressable style={[styles.card, hero && styles.heroCard]}>
-        {post.feature_image ? (
-          <Image
-            source={{ uri: post.feature_image }}
-            style={hero ? styles.heroImage : styles.thumb}
-          />
-        ) : null}
-        <Text style={styles.cardKicker}>{post.kicker}</Text>
-        <Text style={[styles.cardTitle, hero && styles.heroTitle]}>{post.title}</Text>
-        {post.summary ? (
-          <Text style={styles.cardSummary} numberOfLines={hero ? 5 : 3}>
-            {post.summary}
-          </Text>
-        ) : null}
-        <Text style={styles.meta}>{formatMeta(post.published_at, post.reading_time)}</Text>
-      </Pressable>
-    </Link>
+    <Pressable
+      onPress={() =>
+        router.push({ pathname: '/article/[slug]', params: { slug: post.slug } })
+      }
+      style={StyleSheet.flatten([styles.card, hero ? styles.heroCard : undefined])}>
+      {post.feature_image ? (
+        <Image
+          source={{ uri: post.feature_image }}
+          style={hero ? styles.heroImage : styles.thumb}
+        />
+      ) : null}
+      <Text style={styles.cardKicker}>{post.kicker}</Text>
+      <Text style={StyleSheet.flatten([styles.cardTitle, hero ? styles.heroTitle : undefined])}>
+        {post.title}
+      </Text>
+      {post.summary ? (
+        <Text style={styles.cardSummary} numberOfLines={hero ? 5 : 3}>
+          {post.summary}
+        </Text>
+      ) : null}
+      <Text style={styles.meta}>{formatMeta(post.published_at, post.reading_time)}</Text>
+    </Pressable>
   );
 }
 
@@ -113,7 +118,9 @@ export function LoadingBlock() {
   return (
     <View style={styles.empty}>
       <ActivityIndicator color={colors.gold} />
-      <Text style={[styles.cardSummary, { marginTop: 12 }]}>Loading today’s intelligence…</Text>
+      <Text style={StyleSheet.flatten([styles.cardSummary, { marginTop: 12 }])}>
+        Loading today’s intelligence…
+      </Text>
     </View>
   );
 }
@@ -128,8 +135,16 @@ export function Chip({
   onPress?: () => void;
 }) {
   return (
-    <Pressable onPress={onPress} style={[styles.chip, active && styles.chipActive]}>
-      <Text style={[styles.chipLabel, active && styles.chipLabelActive]}>{label}</Text>
+    <Pressable
+      onPress={onPress}
+      style={StyleSheet.flatten([styles.chip, active ? styles.chipActive : undefined])}>
+      <Text
+        style={StyleSheet.flatten([
+          styles.chipLabel,
+          active ? styles.chipLabelActive : undefined,
+        ])}>
+        {label}
+      </Text>
     </Pressable>
   );
 }

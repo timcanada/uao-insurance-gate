@@ -12,17 +12,19 @@ import {
   SectionHeader,
   Wordmark,
 } from '@/src/components/Ui';
-import { fetchPosts } from '@/src/api/ghost';
+import { fetchPosts, snapshotToday } from '@/src/api/ghost';
 import { FILTERS } from '@/src/lib/classify';
 import { colors, fonts } from '@/src/theme';
 import type { ClassifiedPost } from '@/src/types';
 
+const initial = snapshotToday();
+
 export default function TodayScreen() {
   const router = useRouter();
-  const [hero, setHero] = useState<ClassifiedPost | null>(null);
-  const [desk, setDesk] = useState<ClassifiedPost[]>([]);
-  const [charts, setCharts] = useState<ClassifiedPost[]>([]);
-  const [loading, setLoading] = useState(true);
+  const [hero, setHero] = useState<ClassifiedPost | null>(initial.hero);
+  const [desk, setDesk] = useState<ClassifiedPost[]>(initial.desk);
+  const [charts, setCharts] = useState<ClassifiedPost[]>(initial.charts);
+  const [loading, setLoading] = useState(!initial.hero);
   const [refreshing, setRefreshing] = useState(false);
   const [error, setError] = useState<string | null>(null);
 

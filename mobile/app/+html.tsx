@@ -29,11 +29,32 @@ export default function Root({ children }: { children: ReactNode }) {
 }
 
 const responsiveBackground = `
-body {
-  background-color: #fff;
+html, body, #root {
+  height: 100%;
 }
-@media (prefers-color-scheme: dark) {
+body {
+  margin: 0;
+  background:
+    radial-gradient(120% 80% at 50% 0%, #16314a 0%, #0b1f3a 55%, #071422 100%);
+  color: #f5f1e6;
+}
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+}
+@media (min-width: 640px) {
   body {
-    background-color: #000;
+    padding: 28px 16px;
   }
-}`;
+  #root {
+    width: min(430px, 100%);
+    max-height: 900px;
+    margin: 0 auto;
+    border: 1px solid #1d2e44;
+    border-radius: 28px;
+    overflow: hidden;
+    box-shadow: 0 24px 80px rgba(0,0,0,.45);
+    background: #0b1f3a;
+  }
+}`

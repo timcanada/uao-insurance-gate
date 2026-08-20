@@ -44,7 +44,7 @@ export function SubscribeCard() {
         <Text style={styles.buttonLabel}>Get the daily brief</Text>
       </Pressable>
       {message ? (
-        <Text style={[styles.note, status === 'error' && styles.error]}>{message}</Text>
+        <Text style={status === 'error' ? styles.error : styles.note}>{message}</Text>
       ) : (
         <Text style={styles.note}>Same Ghost portal as universalassetowners.com.</Text>
       )}

@@ -18,6 +18,15 @@ The app talks to the public Ghost Content API that already powers the site.
 
 Subscribe uses the same Ghost member portal as the website (`/#/portal/signup`). Command Center is the live site view.
 
+## See it in a browser
+
+```bash
+cd mobile
+npm run preview
+```
+
+Then open `http://localhost:8080/app.html` (phone preview) or `http://localhost:8080/` (Expo web build). Both load the live Ghost desk.
+
 ## Run it
 
 ```bash

@@ -12,19 +12,21 @@ import { isWorkEmail } from '../src/lib/format';
 import { portalSignupUrl } from '../src/api/subscribe';
 import type { GhostPost } from '../src/types';
 
-function post(partial: Partial<GhostPost> & { tags?: { slug: string; name?: string }[] }): GhostPost {
+function post(partial: Partial<GhostPost> & { tags?: { slug: string }[] }): GhostPost {
+  const tags = (partial.tags ?? []).map((tag, index) => ({
+    id: String(index),
+    name: tag.slug,
+    slug: tag.slug,
+  }));
+  const { tags: _ignored, ...rest } = partial;
   return {
     id: '1',
     slug: 'test',
     title: 'Test',
     published_at: '2026-08-19T12:00:00.000Z',
     url: 'https://www.universalassetowners.com/test/',
-    tags: (partial.tags ?? []).map((tag, index) => ({
-      id: String(index),
-      name: tag.name ?? tag.slug,
-      slug: tag.slug,
-    })),
-    ...partial,
+    tags,
+    ...rest,
   };
 }
 

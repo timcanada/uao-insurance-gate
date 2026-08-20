@@ -1,9 +1,9 @@
 import { Tabs } from 'expo-router';
-import { Text } from 'react-native';
+import { Text, type ColorValue } from 'react-native';
 
 import { colors } from '@/src/theme';
 
-function TabMark({ label, color }: { label: string; color: string }) {
+function TabMark({ label, color }: { label: string; color: ColorValue }) {
   return (
     <Text style={{ color, fontSize: 10, fontWeight: '800', letterSpacing: 0.4 }}>{label}</Text>
   );

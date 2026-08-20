@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import { ScrollView, StyleSheet, Text, View } from 'react-native';
 
+import { useDeskAlertsContext } from '@/src/hooks/useDeskAlerts';
 import { colors, fonts } from '@/src/theme';
 import type { ClassifiedPost } from '@/src/types';
 
@@ -24,6 +25,7 @@ function sessionLabel(): string {
 export function TerminalHeader() {
   const [clock, setClock] = useState(etClock);
   const [session, setSession] = useState(sessionLabel);
+  const onAir = Boolean(useDeskAlertsContext()?.live?.live);
   useEffect(() => {
     const id = setInterval(() => {
       setClock(etClock());
@@ -37,7 +39,7 @@ export function TerminalHeader() {
         <Text style={styles.brand}>UNIVERSAL ASSET OWNERS</Text>
         <Text style={styles.session}>{session}</Text>
       </View>
-      <Text style={styles.live}>LIVE</Text>
+      <Text style={onAir ? styles.live : styles.standby}>{onAir ? 'LIVE' : 'STANDBY'}</Text>
       <Text style={styles.clock}>{clock} ET</Text>
     </View>
   );
@@ -84,7 +86,8 @@ const styles = StyleSheet.create({
     fontFamily: fonts.serif,
   },
   session: { color: colors.muted, fontSize: 12, marginTop: 3, fontFamily: fonts.serif },
-  live: { color: colors.success, fontSize: 10, fontWeight: '800', letterSpacing: 0.8 },
+  live: { color: colors.danger, fontSize: 10, fontWeight: '800', letterSpacing: 0.8 },
+  standby: { color: colors.muted, fontSize: 10, fontWeight: '800', letterSpacing: 0.8, opacity: 0.55 },
   clock: { color: colors.gold2, fontSize: 11, fontWeight: '700' },
   tape: {
     backgroundColor: colors.panel,

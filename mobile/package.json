@@ -33,7 +33,7 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "test": "tsx --test tests/classify.test.ts",
+    "test": "tsx --test tests/*.test.ts",
     "verify:live": "node scripts/verify-live-content.mjs",
     "preview": "npx expo export --platform web && cp public/app.html dist/app.html && python3 -m http.server 8080 --directory dist --bind 0.0.0.0",
     "typecheck": "tsc --noEmit"

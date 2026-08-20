@@ -242,6 +242,33 @@
     }
     .app.show-cmd .cmd { display: flex; }
     .cmd iframe { flex: 1; border: 0; background: #07131f; }
+    .livedock { display: none; background: #07131f; border-bottom: 3px solid var(--gold); }
+    .livedock.on { display: block; }
+    .livedock .bar { display: flex; align-items: center; gap: 8px; padding: 8px 12px; }
+    .livedock .tag { color: #e5484d; font: 800 11px system-ui; letter-spacing: .14em; text-transform: uppercase; }
+    .livedock .ttl { flex: 1; font-size: 14px; margin: 0; }
+    .livedock .frame { position: relative; width: 100%; padding-top: 56.25%; background: #000; }
+    .livedock iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+    .toast {
+      display: none;
+      position: absolute;
+      inset: 0;
+      background: rgba(6,12,20,.72);
+      z-index: 8;
+      align-items: center;
+      justify-content: center;
+      padding: 22px;
+    }
+    .toast.on { display: flex; }
+    .toast .card {
+      background: var(--navy2);
+      border: 1px solid var(--gold);
+      border-radius: 16px;
+      padding: 18px;
+      max-width: 360px;
+      cursor: default;
+    }
+    .offair { opacity: .45; }
   </style>
 </head>
 <body>
@@ -251,12 +278,38 @@
         <b>UNIVERSAL ASSET OWNERS</b>
         <span id="deskclock">Terminal · New York</span>
       </div>
-      <div class="live"><i class="dot"></i>LIVE</div>
+      <div class="live offair" id="liveBadge"><i class="dot"></i><span id="liveBadgeText">STANDBY</span></div>
       <div class="clock" id="clock">--:-- ET</div>
       <button class="iconbtn" id="searchBtn" title="Search">⌕</button>
     </div>
     <div class="tape"><div class="tape-inner" id="tape">Loading the desk…</div></div>
+    <div class="livedock" id="livedock">
+      <div class="bar">
+        <span class="tag">Live now</span>
+        <p class="ttl" id="liveTitle">Universal Asset Owners is live</p>
+        <button class="pill" id="hideLive">Hide</button>
+      </div>
+      <div class="frame"><iframe id="liveFrame" title="Universal Asset Owners live stream" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe></div>
+    </div>
     <main id="main"><div class="empty">Opening the terminal…</div></main>
+    <div class="toast" id="briefToast">
+      <div class="card">
+        <div class="kicker">Daily brief</div>
+        <h2 id="briefToastTitle">This morning’s brief is out</h2>
+        <p class="lede" id="briefToastBody"></p>
+        <button class="primary" id="briefToastGo" style="width:100%;margin-top:8px;padding:12px;border:0;border-radius:8px">Read it now</button>
+        <button class="pill" id="briefToastLater" style="margin-top:8px;width:100%">Later</button>
+      </div>
+    </div>
+    <div class="toast" id="liveToast">
+      <div class="card">
+        <div class="kicker" style="color:#e5484d">Live broadcast</div>
+        <h2>We are live on YouTube</h2>
+        <p class="lede" id="liveToastBody">The same player as the website just came on air.</p>
+        <button class="primary" id="liveToastGo" style="width:100%;margin-top:8px;padding:12px;border:0;border-radius:8px">Watch now</button>
+        <button class="pill" id="liveToastLater" style="margin-top:8px;width:100%">Keep watching in the dock</button>
+      </div>
+    </div>
     <nav class="tabs">
       <button class="on" data-tab="term"><small>▣</small>TERM</button>
       <button data-tab="briefs"><small>☰</small>BRIEFS</button>
@@ -610,8 +663,74 @@
         }
       }, 250);
     };
+    const LIVE_API = 'https://uao-live-production.up.railway.app/';
+    const demo = new URLSearchParams(location.search).get('demo');
+    let lastBriefId = localStorage.getItem('uao.lastBriefId') || '';
+    let liveVideoId = '';
+    let demoBriefShown = false;
+    async function pollDesk() {
+      try {
+        const live = await (await fetch(LIVE_API)).json();
+        const badge = $('liveBadge');
+        const on = Boolean(live && live.live && live.videoId);
+        badge.classList.toggle('offair', !on);
+        $('liveBadgeText').textContent = on ? 'LIVE' : 'STANDBY';
+        if (on && live.videoId !== sessionStorage.getItem('uao-live-dismissed-v1')) {
+          if (live.videoId !== liveVideoId) {
+            liveVideoId = live.videoId;
+            $('liveTitle').textContent = live.title || 'Universal Asset Owners is live';
+            $('liveToastBody').textContent = live.title || 'The same YouTube player as the website just came on air.';
+            $('liveFrame').src = 'https://www.youtube-nocookie.com/embed/' + encodeURIComponent(live.videoId) +
+              '?autoplay=1&mute=1&playsinline=1&rel=0&modestbranding=1';
+            $('livedock').classList.add('on');
+            $('liveToast').classList.add('on');
+          }
+        } else if (!on) {
+          liveVideoId = '';
+          $('livedock').classList.remove('on');
+          $('liveToast').classList.remove('on');
+          $('liveFrame').src = '';
+        }
+      } catch (e) { /* stay silent like the website */ }
+      try {
+        const briefs = await fetchPosts(FILTERS.brief, 1);
+        const latest = briefs[0];
+        if (!latest) return;
+        const showBriefToast = () => {
+          $('briefToastTitle').textContent = 'This morning’s brief is out';
+          $('briefToastBody').textContent = latest.title;
+          $('briefToastGo').onclick = () => { $('briefToast').classList.remove('on'); openPost(latest.slug); };
+          $('briefToast').classList.add('on');
+        };
+        if (demo === 'brief' && !demoBriefShown) {
+          demoBriefShown = true;
+          showBriefToast();
+        }
+        if (!lastBriefId) {
+          lastBriefId = latest.id;
+          localStorage.setItem('uao.lastBriefId', latest.id);
+          return;
+        }
+        if (latest.id !== lastBriefId) {
+          lastBriefId = latest.id;
+          localStorage.setItem('uao.lastBriefId', latest.id);
+          showBriefToast();
+        }
+      } catch (e) { /* ignore */ }
+    }
+    $('hideLive').onclick = () => {
+      sessionStorage.setItem('uao-live-dismissed-v1', liveVideoId);
+      $('livedock').classList.remove('on');
+      $('liveToast').classList.remove('on');
+      $('liveFrame').src = '';
+    };
+    $('liveToastGo').onclick = () => $('liveToast').classList.remove('on');
+    $('liveToastLater').onclick = () => $('liveToast').classList.remove('on');
+    $('briefToastLater').onclick = () => $('briefToast').classList.remove('on');
     tickClock();
     setInterval(tickClock, 15000);
+    pollDesk();
+    setInterval(pollDesk, 45000);
     render('term');
   </script>
 </body>

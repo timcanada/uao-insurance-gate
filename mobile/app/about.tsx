@@ -12,6 +12,7 @@ const LINKS = [
   { label: 'Methodology', path: '/methodology/' },
   { label: 'Masthead', path: '/masthead/' },
   { label: 'Contact', path: '/contact/' },
+  { label: 'Advertise & sponsorship', path: '/briefings/' },
 ];
 
 export default function AboutScreen() {

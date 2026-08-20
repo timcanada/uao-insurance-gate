@@ -49,7 +49,8 @@ export default function MoreScreen() {
           />
         ))}
 
-        <Text style={styles.heading}>The desk</Text>
+        <Text style={styles.heading}>The house</Text>
+        <MenuRow kicker="Commercial" title="Advertise — request the media kit" href="/advertise" />
         <MenuRow title="Command Center — live signals" href="/command-center" />
         <MenuRow title="Saved briefings" href="/saved" />
         <MenuRow title="Search the library" href="/search" />

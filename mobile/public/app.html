@@ -269,6 +269,77 @@
       cursor: default;
     }
     .offair { opacity: .45; }
+    .access {
+      border: 1px solid var(--gold);
+      background: transparent;
+      color: var(--gold2);
+      border-radius: 8px;
+      padding: 6px 8px;
+      font: 800 9px/1 system-ui, sans-serif;
+      letter-spacing: .08em;
+      cursor: pointer;
+    }
+    .folio {
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+      color: var(--gold);
+      font: 700 10px/1.3 system-ui, sans-serif;
+      letter-spacing: 1.2px;
+      text-transform: uppercase;
+      margin-bottom: 10px;
+    }
+    .folio span { color: var(--muted); letter-spacing: .4px; text-transform: none; font-weight: 500; }
+    .manifesto { font-size: 28px; line-height: 1.12; margin: 0 0 10px; }
+    .why { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin: 14px 0 18px; }
+    .why div {
+      border-top: 1px solid var(--gold);
+      padding-top: 8px;
+    }
+    .why b { display: block; font: 700 11px/1.3 system-ui, sans-serif; color: var(--gold2); letter-spacing: .4px; }
+    .why span { color: var(--muted); font-size: 12px; line-height: 1.35; }
+    .cover { padding: 0; overflow: hidden; border-color: var(--gold); }
+    .cover .body { padding: 16px; }
+    .cover .open {
+      display: inline-block;
+      margin-top: 10px;
+      background: var(--gold);
+      color: var(--navy);
+      font: 800 12px/1 system-ui, sans-serif;
+      padding: 10px 12px;
+      border-radius: 8px;
+    }
+    .partner {
+      border: 1px solid var(--gold);
+      border-radius: 14px;
+      padding: 16px;
+      margin: 16px 0;
+      background: #081422;
+      cursor: pointer;
+    }
+    .partner .tag {
+      color: var(--gold);
+      font: 800 10px system-ui, sans-serif;
+      letter-spacing: .16em;
+      text-transform: uppercase;
+    }
+    .house {
+      border-bottom: 1px solid var(--line);
+      padding: 14px 0;
+      cursor: pointer;
+    }
+    .house:last-child { border-bottom: 0; }
+    .inv {
+      background: var(--navy2);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 13px;
+      margin: 8px 0;
+    }
+    .inv b { color: var(--gold2); display: block; margin-bottom: 4px; }
+    .live.onair .dot { background: #e5484d; box-shadow: 0 0 10px #e5484d; animation: pulse 1.2s ease-in-out infinite; }
+    .live.onair { color: #e5484d; }
+    @keyframes pulse { 50% { opacity: .35; } }
   </style>
 </head>
 <body>
@@ -280,6 +351,7 @@
       </div>
       <div class="live offair" id="liveBadge"><i class="dot"></i><span id="liveBadgeText">STANDBY</span></div>
       <div class="clock" id="clock">--:-- ET</div>
+      <button class="access" id="accessBtn" type="button">ACCESS</button>
       <button class="iconbtn" id="searchBtn" title="Search">⌕</button>
     </div>
     <div class="tape"><div class="tape-inner" id="tape">Loading the desk…</div></div>
@@ -299,6 +371,16 @@
         <p class="lede" id="briefToastBody"></p>
         <button class="primary" id="briefToastGo" style="width:100%;margin-top:8px;padding:12px;border:0;border-radius:8px">Read it now</button>
         <button class="pill" id="briefToastLater" style="margin-top:8px;width:100%">Later</button>
+      </div>
+    </div>
+    <div class="toast" id="accessToast">
+      <div class="card">
+        <div class="kicker">Request desk access</div>
+        <h2>The brief is complimentary. The room is not open.</h2>
+        <p class="lede">Five days a week. Each subscriber is reviewed by the editorial desk — the same portal as the website.</p>
+        <input id="accessEmail" type="email" placeholder="you@institution.com" style="width:100%;margin-top:8px;padding:11px;border-radius:8px;border:1px solid var(--line);background:#081422;color:var(--text);font:15px system-ui" />
+        <button class="primary" id="accessGo" style="width:100%;margin-top:8px;padding:12px;border:0;border-radius:8px">Request the daily brief</button>
+        <button class="pill" id="accessLater" style="margin-top:8px;width:100%">Continue reading</button>
       </div>
     </div>
     <div class="toast" id="liveToast">
@@ -464,12 +546,32 @@
     function bindCards(root) {
       root.querySelectorAll('[data-slug]').forEach((el) => el.onclick = () => openPost(el.dataset.slug));
     }
+    function editionLine() {
+      return new Date().toLocaleDateString('en-US', {
+        weekday: 'long', month: 'long', day: 'numeric', year: 'numeric', timeZone: 'America/New_York',
+      });
+    }
     function subscribe() {
-      return `<div class="sub"><div class="kicker">Wire the desk to your inbox</div>
-        <h2>Get the daily brief</h2>
-        <p class="lede">Complimentary. Editorial review before access — same portal as the website.</p>
+      return `<div class="sub"><div class="kicker">Request desk access</div>
+        <h2>The brief is complimentary. The room is not open.</h2>
+        <p class="lede">Five days a week, for people who allocate at the scale of the world. Each subscriber is reviewed by the editorial desk.</p>
+        <div class="why">
+          <div><b>Systemic risk</b><span>What a diversified owner cannot diversify away.</span></div>
+          <div><b>Capital that moves</b><span>Sovereigns, pensions, private markets, AI.</span></div>
+          <div><b>Written for decades</b><span>For institutions, not the trading day.</span></div>
+          <div><b>Four formats</b><span>Read, watch, listen, chart — every weekday.</span></div>
+        </div>
         <input id="email" type="email" placeholder="you@institution.com" />
-        <button type="button" id="signup">Request access</button></div>`;
+        <button type="button" id="signup">Request the daily brief</button>
+        <p class="meta">Same Ghost portal as the website. No paywall theatre.</p></div>`;
+    }
+    function partnerPlate() {
+      return `<div class="partner" id="openAdvertise">
+        <div class="tag">Briefing partner</div>
+        <h2>This position sits next to the morning brief.</h2>
+        <p class="lede">One disclosed slot, firewalled from the desk. For houses that already sit across from sovereigns, pensions and family offices — not for anyone buying a banner.</p>
+        <div class="meta">Request the media kit →</div>
+      </div>`;
     }
     function wireSignup() {
       const btn = $('signup');
@@ -496,9 +598,16 @@
           const hero = briefs[0];
           $('tape').innerHTML = latest.concat(latest).map((p) => `<b>${deskOf(p)}</b> ${p.title}`).join('   ·   ') + '   ·   ';
           $('main').innerHTML = `<div class="pad">
-            <div class="kicker">UAO Terminal</div>
-            <h1>Capital at the scale of the world.</h1>
-            <p class="lede">Two desks. Four formats. The same intelligence the website ships every weekday — built to be used on a phone.</p>
+            <div class="folio"><b>${editionLine()}</b><span>New York desk</span></div>
+            <div class="kicker">The Universal Owner</div>
+            <h1 class="manifesto">For investors who own the whole market, the largest risks cannot be diversified away.</h1>
+            <p class="lede">Two desks. Four formats. Reviewed subscribers. The same intelligence the website ships every weekday — built to be used on a phone.</p>
+            <div class="why">
+              <div><b>Morning</b><span>The Universal Owner · five minutes.</span></div>
+              <div><b>Afternoon</b><span>Probability Desk · base / upside / tail.</span></div>
+              <div><b>Four formats</b><span>Read, watch, listen, chart.</span></div>
+              <div><b>The room</b><span>Sovereigns, pensions, family offices.</span></div>
+            </div>
             <div class="seg">
               <button data-go="briefs">Read</button>
               <button data-go="watchv">Watch</button>
@@ -506,23 +615,31 @@
               <button data-go="charts">Charts</button>
               <button id="openCmd">Signals</button>
             </div>
-            <div class="kicker">Lead brief</div>
-            ${hero ? card(hero, true) : ''}
-            <div class="mod">
-              <div class="kicker">Probability Desk</div>
-              <h2>${desk[0] ? desk[0].title : 'Afternoon scenario'}</h2>
-              <p class="lede">${desk[0] ? excerpt(desk[0]) : ''}</p>
-              <div class="meters">
-                <div class="base"><b>BASE</b><span>central case</span></div>
-                <div class="up"><b>UPSIDE</b><span>second-order</span></div>
-                <div class="tail"><b>TAIL</b><span>left / right</span></div>
+            ${hero ? `<article class="hero cover" data-slug="${hero.slug}">
+              ${hero.feature_image ? `<img src="${hero.feature_image}" alt="">` : ''}
+              <div class="body">
+                <div class="kicker">Today’s intelligence</div>
+                <h2>${hero.title}</h2>
+                <p class="lede">${excerpt(hero)}</p>
+                <div class="meta">${fmt(hero.published_at)}${hero.reading_time ? ' · ' + hero.reading_time + ' min' : ''} · The Universal Owner</div>
+                <span class="open">Open the morning brief</span>
               </div>
-              ${desk[0] ? `<div class="meta" style="margin-top:10px">Tap through to the live scenario · ${fmt(desk[0].published_at)}</div>` : ''}
+            </article>` : ''}
+            <div class="mod">
+              <div class="kicker">The Probability Desk</div>
+              <h2>${desk[0] ? desk[0].title : 'Afternoon scenario'}</h2>
+              <p class="lede">${desk[0] ? excerpt(desk[0]) : 'Base, upside and tail — probability-weighted for capital that thinks in decades.'}</p>
+              <div class="meters">
+                <div class="base"><b>BASE</b><span>governed case</span></div>
+                <div class="up"><b>UPSIDE</b><span>convex path</span></div>
+                <div class="tail"><b>TAIL</b><span>break case</span></div>
+              </div>
+              ${desk[0] ? `<div class="meta" style="margin-top:10px">Open the live scenario · ${fmt(desk[0].published_at)}</div>` : ''}
             </div>
-            ${desk[0] ? '' : ''}
             <div class="kicker">Chart of the day</div>
             <div class="grid">${charts.slice(0,4).map((p) => `<article class="chart" data-slug="${p.slug}">${p.feature_image ? `<img src="${p.feature_image}" alt="">` : ''}<p>${p.title}</p></article>`).join('')}</div>
             ${video[0] ? `<div class="kicker" style="margin-top:16px">Watch</div>${card(video[0])}` : ''}
+            ${partnerPlate()}
             <div class="kicker" style="margin-top:16px">The tape</div>
             ${latest.slice(0,8).map(compact).join('')}
             ${subscribe()}
@@ -532,6 +649,8 @@
           if (cmd) cmd.onclick = () => document.getElementById('app').classList.add('show-cmd');
           const pd = $('main').querySelector('.mod');
           if (pd && desk[0]) pd.onclick = () => openPost(desk[0].slug);
+          const adv = $('openAdvertise');
+          if (adv) adv.onclick = (e) => { e.stopPropagation(); render('advertise'); };
         } else if (tab === 'briefs' || tab === 'watchv' || tab === 'listen' || tab === 'research') {
           const filter = tab === 'briefs' ? FILTERS.brief : FILTERS[tab] || FILTERS.brief;
           const posts = await fetchPosts(filter, 18);
@@ -551,6 +670,7 @@
               <a class="pill" href="https://feed.podbean.com/universalassetowners/feed.xml">RSS</a>
             </div>` : ''}
             ${posts.map((p) => card(p)).join('') || '<div class="empty">Nothing on this wire yet.</div>'}
+            ${subscribe()}
           </div>`;
           $('main').querySelectorAll('[data-go]').forEach((b) => b.onclick = () => render(b.dataset.go));
         } else if (tab === 'desk') {
@@ -566,8 +686,12 @@
             </div>
             <button class="pill" id="openCmd2" style="margin:12px 0">Open Command Center</button>
             ${posts.map((p) => card(p)).join('')}
+            ${partnerPlate()}
+            ${subscribe()}
           </div>`;
           $('openCmd2').onclick = () => document.getElementById('app').classList.add('show-cmd');
+          const pda = $('openAdvertise');
+          if (pda) pda.onclick = () => render('advertise');
         } else if (tab === 'charts') {
           const posts = await fetchPosts(FILTERS.charts, 20);
           $('main').innerHTML = `<div class="pad">
@@ -579,17 +703,50 @@
         } else if (tab === 'watch') {
           const mine = saved();
           $('main').innerHTML = `<div class="pad">
-            <div class="kicker">Watchlist</div>
-            <h1>Saved & institutions</h1>
-            <p class="lede">${mine.length} saved briefing${mine.length===1?'':'s'} on this phone.</p>
+            <div class="kicker">The house</div>
+            <h1>Watchlist, institutions, the room.</h1>
+            <p class="lede">${mine.length} saved briefing${mine.length===1?'':'s'} on this phone. The rest of the book is the people who allocate it.</p>
             ${mine.length ? mine.map(compact).join('') : '<div class="empty">Open any brief and tap Save — it stays on this device.</div>'}
             <div class="kicker" style="margin-top:18px">People & institutions</div>
             ${INST.map(([slug, title, blurb]) => `<div class="inst" data-tag="${slug}"><div><b>${title}</b><div class="meta">${blurb}</div></div><div class="chev">›</div></div>`).join('')}
             <div class="kicker" style="margin-top:18px">Themes</div>
             <div class="row">${THEMES.map((t) => `<button class="pill" data-tag="${t}">${t.replace(/-/g,' ')}</button>`).join('')}</div>
+            ${partnerPlate()}
+            <div class="house" id="openAdvertise2">
+              <div class="kicker">Commercial</div>
+              <h2>Advertise in this terminal</h2>
+              <p class="lede">Disclosed. Firewalled. Built for houses that already sit across from the book.</p>
+            </div>
             ${subscribe()}
           </div>`;
           $('main').querySelectorAll('[data-tag]').forEach((el) => el.onclick = () => openTag(el.dataset.tag));
+          const a2 = $('openAdvertise2') || $('openAdvertise');
+          if (a2) a2.onclick = () => render('advertise');
+          const a1 = $('openAdvertise');
+          if (a1) a1.onclick = () => render('advertise');
+        } else if (tab === 'advertise') {
+          $('main').innerHTML = `<div class="pad">
+            <button class="pill" id="backHouse">‹ The house</button>
+            <div class="kicker" style="margin-top:14px">Advertising & sponsorship</div>
+            <h1>Reach the people who allocate at the scale of the world.</h1>
+            <p class="lede">This is not a remnant banner. UAO partners selectively with organisations that already serve or study long-horizon capital. Sponsorship is disclosed. Editorial is firewalled. If a sponsor asks for influence, the relationship ends.</p>
+            <div class="kicker">Who sits in this room</div>
+            ${['Sovereign wealth','Public pensions','Endowments & foundations','Insurers','Family offices','The people who advise them'].map((n) => `<div class="house"><b>${n}</b></div>`).join('')}
+            <div class="kicker" style="margin-top:16px">Inventory</div>
+            <div class="inv"><b>Morning brief</b><span class="lede">One disclosed adjacency next to The Universal Owner — the first thing the desk opens.</span></div>
+            <div class="inv"><b>Probability Desk</b><span class="lede">Afternoon scenario. Base, upside, tail.</span></div>
+            <div class="inv"><b>YouTube live</b><span class="lede">The same player as the website, when we go on air.</span></div>
+            <div class="inv"><b>UAO Research</b><span class="lede">Partner research is labelled and never mixed into the daily brief.</span></div>
+            <div class="inv"><b>Briefings</b><span class="lede">Chatham House conversations with the people who allocate the book.</span></div>
+            <p class="lede">Sponsored items are excluded from the homepage lead and the daily brief unless separately labelled.</p>
+            <a class="primary" href="mailto:info@universalassetowners.com?subject=Media%20kit%20%E2%80%94%20UAO%20Terminal" style="display:block;text-align:center;text-decoration:none;padding:13px;border-radius:8px;margin-top:8px">Email the desk for the media kit</a>
+            <div class="row" style="margin-top:12px">
+              <a class="pill" href="${SITE}/briefings/">Briefings</a>
+              <a class="pill" href="${SITE}/editorial-standards/">Editorial standards</a>
+              <a class="pill" href="${SITE}/contact/">Contact</a>
+            </div>
+          </div>`;
+          $('backHouse').onclick = () => render('watch');
         }
         bindCards($('main'));
         wireSignup();
@@ -623,8 +780,10 @@
     }
     function paintReader(post) {
       $('rbody').srcdoc = `<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-        <style>body{margin:0;padding:16px 18px 48px;background:#f4efe6;color:#12202f;font:${typePx}px/1.65 Georgia,serif}h1,h2{color:#0b1f3a}h2{border-bottom:2px solid #c9a24b;padding-bottom:8px}a{color:#8a7433}img,iframe{max-width:100%}iframe{width:100%;min-height:220px;border:0}table{width:100%;border-collapse:collapse;font-size:13px}th{background:#0b1f3a;color:#f4efe6;padding:8px;text-align:left}td{padding:8px;border-bottom:1px solid #e3ddce}</style></head>
-        <body>${post.html || excerpt(post)}</body></html>`;
+        <style>body{margin:0;padding:16px 18px 64px;background:#f4efe6;color:#12202f;font:${typePx}px/1.65 Georgia,serif}h1,h2{color:#0b1f3a}h2{border-bottom:2px solid #c9a24b;padding-bottom:8px}a{color:#8a7433}img,iframe{max-width:100%}iframe{width:100%;min-height:220px;border:0}table{width:100%;border-collapse:collapse;font-size:13px}th{background:#0b1f3a;color:#f4efe6;padding:8px;text-align:left}td{padding:8px;border-bottom:1px solid #e3ddce}.close{margin-top:28px;padding:18px;border:1px solid #c9a24b;background:#0b1f3a;color:#f4efe6}.close b{color:#c9a24b;display:block;letter-spacing:.14em;font:800 11px system-ui;margin-bottom:8px}.close p{font:15px/1.5 Georgia,serif;margin:0 0 12px}.close a{display:block;background:#c9a24b;color:#0b1f3a;text-align:center;text-decoration:none;font:800 13px system-ui;padding:12px;border-radius:8px}</style></head>
+        <body>${post.html || excerpt(post)}
+        <div class="close"><b>Continue the desk</b><p>This briefing is one day of a book written for people who allocate at the scale of the world. The morning brief is complimentary — the room is reviewed.</p><a href="${SITE}/#/portal/signup" target="_top">Request desk access</a></div>
+        </body></html>`;
     }
 
     document.querySelectorAll('nav.tabs button').forEach((b) => b.onclick = () => render(b.dataset.tab));
@@ -674,6 +833,7 @@
         const badge = $('liveBadge');
         const on = Boolean(live && live.live && live.videoId);
         badge.classList.toggle('offair', !on);
+        badge.classList.toggle('onair', on);
         $('liveBadgeText').textContent = on ? 'LIVE' : 'STANDBY';
         if (on && live.videoId !== sessionStorage.getItem('uao-live-dismissed-v1')) {
           if (live.videoId !== liveVideoId) {
@@ -727,12 +887,18 @@
     $('liveToastGo').onclick = () => $('liveToast').classList.remove('on');
     $('liveToastLater').onclick = () => $('liveToast').classList.remove('on');
     $('briefToastLater').onclick = () => $('briefToast').classList.remove('on');
+    $('accessBtn').onclick = () => $('accessToast').classList.add('on');
+    $('accessLater').onclick = () => $('accessToast').classList.remove('on');
+    $('accessGo').onclick = () => {
+      const email = ($('accessEmail')?.value || '').trim();
+      location.href = SITE + '/#/portal/signup' + (email ? '?email=' + encodeURIComponent(email) : '');
+    };
     tickClock();
     setInterval(tickClock, 15000);
     pollDesk();
     setInterval(pollDesk, 45000);
     const startTab = new URLSearchParams(location.search).get('tab') || 'term';
-    render(['term','briefs','desk','charts','watch'].includes(startTab) ? startTab : 'term');
+    render(['term','briefs','desk','charts','watch','advertise','watchv','listen','research'].includes(startTab) ? startTab : 'term');
   </script>
 </body>
 </html>

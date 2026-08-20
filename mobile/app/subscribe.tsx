@@ -8,7 +8,7 @@ export default function SubscribeScreen() {
   return (
     <Screen>
       <ScrollView contentContainerStyle={styles.scroll}>
-        <Text style={styles.title}>The morning briefing for people who allocate long-horizon capital.</Text>
+        <Text style={styles.title}>The brief is complimentary. The room is not open.</Text>
         <Text style={styles.body}>
           Research, charts, video and podcast analysis — complimentary, five days a week. New
           subscribers are reviewed by the desk.

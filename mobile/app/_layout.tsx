@@ -59,6 +59,7 @@ export default function RootLayout() {
             <Stack.Screen name="charts" options={{ title: 'Charts' }} />
             <Stack.Screen name="people" options={{ title: 'People & institutions' }} />
             <Stack.Screen name="about" options={{ title: 'About' }} />
+            <Stack.Screen name="advertise" options={{ title: 'Advertise' }} />
             <Stack.Screen name="command-center" options={{ title: 'Command Center' }} />
             <Stack.Screen name="saved" options={{ title: 'Saved' }} />
           </Stack>

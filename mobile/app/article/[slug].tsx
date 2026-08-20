@@ -5,6 +5,7 @@ import { Pressable, Share, StyleSheet, Text, View } from 'react-native';
 
 import { fetchPostBySlug } from '@/src/api/ghost';
 import { ArticleHtml } from '@/src/components/ArticleHtml';
+import { SubscribeCard } from '@/src/components/SubscribeCard';
 import { EmptyState, LoadingBlock, Screen } from '@/src/components/Ui';
 import { useBookmarks } from '@/src/hooks/useBookmarks';
 import { formatMeta } from '@/src/lib/format';
@@ -73,6 +74,9 @@ export default function ArticleScreen() {
       ) : (
         <Text style={styles.fallback}>{post.summary}</Text>
       )}
+      <View style={{ padding: 18, paddingBottom: 40 }}>
+        <SubscribeCard />
+      </View>
     </View>
   );
 }

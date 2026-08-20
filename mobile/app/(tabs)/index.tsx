@@ -2,6 +2,7 @@ import { useRouter } from 'expo-router';
 import { useEffect, useState } from 'react';
 import { Pressable, RefreshControl, ScrollView, StyleSheet, Text, View } from 'react-native';
 
+import { PartnerPlate } from '@/src/components/PartnerPlate';
 import { SubscribeCard } from '@/src/components/SubscribeCard';
 import { ProbabilityMeters, TerminalHeader, Ticker } from '@/src/components/Terminal';
 import {
@@ -76,8 +77,13 @@ export default function TodayScreen() {
           </Pressable>
         </View>
 
+        <Text style={styles.edition}>Today’s intelligence · New York</Text>
         <Text style={styles.lede}>
           For investors who own the whole market, the largest risks cannot be diversified away.
+        </Text>
+        <Text style={styles.sublede}>
+          Two desks. Four formats. Reviewed subscribers only. The same book the website ships every
+          weekday — built to be used on a phone.
         </Text>
 
         <View style={styles.formats}>
@@ -133,6 +139,7 @@ export default function TodayScreen() {
           </>
         ) : null}
 
+        <PartnerPlate onPress={() => router.push('/advertise')} />
         <SubscribeCard />
       </ScrollView>
     </Screen>
@@ -151,11 +158,24 @@ const styles = StyleSheet.create({
     backgroundColor: colors.navy2,
   },
   searchLabel: { color: colors.muted, fontSize: 14 },
+  edition: {
+    color: colors.gold,
+    fontSize: 11,
+    fontWeight: '800',
+    letterSpacing: 1.4,
+    textTransform: 'uppercase',
+  },
   lede: {
     color: colors.text,
     fontFamily: fonts.serif,
-    fontSize: 22,
-    lineHeight: 30,
+    fontSize: 26,
+    lineHeight: 32,
+  },
+  sublede: {
+    color: colors.muted,
+    fontFamily: fonts.serif,
+    fontSize: 15,
+    lineHeight: 22,
   },
   formats: { flexDirection: 'row', flexWrap: 'wrap', gap: 8 },
 });

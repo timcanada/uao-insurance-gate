@@ -3,8 +3,14 @@ import { useState } from 'react';
 import { Pressable, StyleSheet, Text, TextInput, View } from 'react-native';
 
 import { portalSignupUrl } from '@/src/api/subscribe';
-import { isWorkEmail } from '@/src/lib/format';
 import { colors, fonts } from '@/src/theme';
+
+const REASONS = [
+  ['Systemic risk', 'The risks a diversified owner cannot diversify away.'],
+  ['Capital that moves the book', 'Sovereigns, pensions, private markets, infrastructure, AI.'],
+  ['Written for decades', 'For institutions, not for the trading day.'],
+  ['Five minutes, five days', 'Morning brief. Afternoon scenario. Four formats.'],
+];
 
 export function SubscribeCard() {
   const [email, setEmail] = useState('');
@@ -12,24 +18,31 @@ export function SubscribeCard() {
   const [message, setMessage] = useState('');
 
   async function submit() {
-    if (!isWorkEmail(email)) {
+    const value = email.trim();
+    if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(value)) {
       setStatus('error');
-      setMessage('Please enter a valid work email. Consumer inboxes are reviewed last.');
+      setMessage('Enter a work email. The desk reviews every request.');
       return;
     }
     setStatus('opened');
-    setMessage('Opening the same editorial desk review used on the website.');
-    await WebBrowser.openBrowserAsync(portalSignupUrl(email));
+    setMessage('Opening the same editorial review as the website.');
+    await WebBrowser.openBrowserAsync(portalSignupUrl(value));
   }
 
   return (
     <View style={styles.card}>
-      <Text style={styles.kicker}>The Daily Brief</Text>
-      <Text style={styles.title}>Get tomorrow’s brief in your inbox — and in this app.</Text>
+      <Text style={styles.kicker}>Request desk access</Text>
+      <Text style={styles.title}>The brief is complimentary. The room is not open.</Text>
       <Text style={styles.body}>
-        Complimentary, five days a week. Each subscriber is reviewed by the editorial desk. You’ll
-        receive a notice once access is approved.
+        Five days a week, for people who allocate at the scale of the world. Each subscriber is
+        reviewed by the editorial desk — you receive a notice once access is approved.
       </Text>
+      {REASONS.map(([title, line]) => (
+        <View key={title} style={styles.reason}>
+          <Text style={styles.reasonTitle}>{title}</Text>
+          <Text style={styles.reasonBody}>{line}</Text>
+        </View>
+      ))}
       <TextInput
         autoCapitalize="none"
         autoCorrect={false}
@@ -41,12 +54,12 @@ export function SubscribeCard() {
         style={styles.input}
       />
       <Pressable onPress={submit} style={styles.button}>
-        <Text style={styles.buttonLabel}>Get the daily brief</Text>
+        <Text style={styles.buttonLabel}>Request the daily brief</Text>
       </Pressable>
       {message ? (
         <Text style={status === 'error' ? styles.error : styles.note}>{message}</Text>
       ) : (
-        <Text style={styles.note}>Same Ghost portal as universalassetowners.com.</Text>
+        <Text style={styles.note}>Same Ghost portal as universalassetowners.com. No paywall theatre.</Text>
       )}
     </View>
   );
@@ -71,12 +84,15 @@ const styles = StyleSheet.create({
   },
   title: {
     color: colors.text,
-    fontSize: 22,
-    lineHeight: 28,
+    fontSize: 24,
+    lineHeight: 30,
     fontFamily: fonts.serif,
     fontWeight: '700',
   },
-  body: { color: colors.muted, fontSize: 14, lineHeight: 21, fontFamily: fonts.serif },
+  body: { color: colors.muted, fontSize: 15, lineHeight: 22, fontFamily: fonts.serif },
+  reason: { borderTopColor: colors.line, borderTopWidth: 1, paddingTop: 8 },
+  reasonTitle: { color: colors.gold2, fontSize: 13, fontWeight: '700' },
+  reasonBody: { color: colors.muted, fontFamily: fonts.serif, fontSize: 13, lineHeight: 18, marginTop: 2 },
   input: {
     borderColor: colors.line,
     borderWidth: 1,
@@ -89,7 +105,7 @@ const styles = StyleSheet.create({
   button: {
     backgroundColor: colors.gold,
     borderRadius: 8,
-    paddingVertical: 12,
+    paddingVertical: 13,
     alignItems: 'center',
   },
   buttonLabel: { color: colors.navy, fontWeight: '800', letterSpacing: 0.3 },

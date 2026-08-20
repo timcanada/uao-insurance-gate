@@ -34,4 +34,4 @@ export const SITE_URL = 'https://www.universalassetowners.com';
 export const SITE_NAME = 'Universal Asset Owners';
 export const SITE_TAGLINE = 'Capital at the scale of the world.';
 export const SITE_PITCH =
-  'Today’s intelligence for long-horizon capital — the same daily brief, Probability Desk, research, charts, video and podcast as the website.';
+  'For investors who own the whole market, the largest risks cannot be diversified away. Two desks, four formats, reviewed subscribers — the same book as the website.';

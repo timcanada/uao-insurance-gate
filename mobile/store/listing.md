@@ -76,3 +76,40 @@ https://www.universalassetowners.com/privacy-policy/
 ## Review notes for Apple
 
 This is a news reader for Universal Asset Owners (universalassetowners.com). It loads our public Ghost Content API and, when we are broadcasting, the same YouTube-nocookie embed as our homepage. No login is required to read public briefs. Subscribe opens our existing Ghost member portal. Demo account is not needed. Contact: info@universalassetowners.com
+
+## Age rating (answer No unless noted)
+
+Apple’s new social-media questions: **No** to all of them. This is a news reader, not a social network.
+
+- Unrestricted web access: No (in-app reader + known YouTube embed only)
+- User-generated content / chat: No
+- Age assurance / social graph: No
+- Gambling: No
+- Contests: No
+- Mature / horror / medical: No
+- Sexual content: No
+- Violence: No (news may mention conflict; not graphic entertainment)
+- Alcohol / tobacco / drugs: No
+- Profanity: Infrequent/Mild if forced to pick; otherwise No
+- Made for Kids: No
+
+Expected rating: **12+** if news-of-conflict is counted, otherwise **4+**. Prefer 12+ if Apple asks about news.
+
+## Privacy nutrition labels
+
+Data collected: **email** only if the reader requests desk access (sent to Ghost, same as the website). Not used for tracking. Not sold.
+
+- Contact Info → Email Address → Purpose: App Functionality. Linked to identity: Yes. Used for tracking: No.
+- Everything else: not collected.
+
+## Content rights
+
+You own the publication. YouTube is embedded under YouTube’s terms when you are live. No third-party music.
+
+## Pricing
+
+Free. No IAP for v1.
+
+## App Review contact
+
+Tim Peters · info@universalassetowners.com · same as the site.

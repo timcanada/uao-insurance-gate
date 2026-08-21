@@ -23,6 +23,24 @@ Privacy policy already on the site: https://www.universalassetowners.com/privacy
 2. **Daily brief popup.** Watches Ghost `tag:hash-daily-brief`. A new id pops **This morning’s brief is out**.
 3. **In-app alerts work without store accounts.** Lock-screen push is a later worker.
 
+## One remaining key (do not paste your Apple password)
+
+The app record can exist in App Store Connect and this machine still cannot upload
+a binary. Apple will not accept a password from chat (2FA). Create an API key and
+send that instead:
+
+1. https://appstoreconnect.apple.com/access/integrations/api
+2. Request Access if asked, then **Generate API Key**
+3. Name: `UAO Terminal`
+4. Access: **App Manager**
+5. Download the `.p8` (Apple shows it once)
+6. Copy **Issuer ID** and **Key ID**
+7. On the app’s page, copy the **Apple ID** number (numeric, under App Information)
+8. Team ID: 10 characters at https://developer.apple.com/account
+
+Send those four things (file + three IDs). Then this environment can build, upload
+screenshots, paste the listing, and submit for review.
+
 ## Logins to bring when we submit (do not paste passwords here)
 
 Apple’s 2FA will fail if a password is pasted into this chat. Bring these instead:

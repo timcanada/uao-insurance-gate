@@ -340,6 +340,11 @@
     .live.onair .dot { background: #e5484d; box-shadow: 0 0 10px #e5484d; animation: pulse 1.2s ease-in-out infinite; }
     .live.onair { color: #e5484d; }
     @keyframes pulse { 50% { opacity: .35; } }
+    .wire-item { border-bottom: 1px solid var(--line); padding: 12px 0; cursor: pointer; }
+    .wire-item .src { color: var(--gold); font: 800 10px system-ui; letter-spacing: .1em; text-transform: uppercase; }
+    .wire-item .just { color: #e5484d; font: 800 10px system-ui; letter-spacing: .12em; float: right; }
+    .wire-item h2 { font-size: 17px; margin: 4px 0 4px; }
+    .tickline { color: var(--gold2); font: 700 11px/1.4 system-ui; margin: 0 0 10px; }
   </style>
 </head>
 <body>
@@ -394,7 +399,7 @@
     </div>
     <nav class="tabs">
       <button class="on" data-tab="term"><small>▣</small>TERM</button>
-      <button data-tab="briefs"><small>☰</small>BRIEFS</button>
+      <button data-tab="wire"><small>⚡</small>WIRE</button>
       <button data-tab="desk"><small>◈</small>DESK</button>
       <button data-tab="charts"><small>▤</small>CHARTS</button>
       <button data-tab="watch"><small>☆</small>WATCH</button>
@@ -582,6 +587,72 @@
       };
     }
 
+    const RSS2JSON = 'https://api.rss2json.com/v1/api.json?rss_url=';
+    const OFFICIAL = [
+      ['Federal Reserve', 'https://www.federalreserve.gov/feeds/press_all.xml'],
+      ['ECB', 'https://www.ecb.europa.eu/rss/press.html'],
+      ['SEC', 'https://www.sec.gov/news/pressreleases.rss'],
+      ['BIS', 'https://www.bis.org/doclist/all_pressrels.rss'],
+    ];
+    const BOOK = 'https://news.google.com/rss/search?q=%22sovereign+wealth%22+OR+%22pension+fund%22+OR+%22family+office%22&hl=en-US&gl=US&ceid=US:en';
+    let wireCache = [];
+    let wireFilter = 'ALL';
+    let wireTick = '';
+    function justIn(iso) {
+      const t = new Date(iso).getTime();
+      return !Number.isNaN(t) && Date.now() - t < 30 * 60 * 1000;
+    }
+    async function rssItems(source, desk, url) {
+      try {
+        const data = await (await fetch(RSS2JSON + encodeURIComponent(url))).json();
+        if (data.status !== 'ok') return [];
+        return (data.items || []).slice(0, 8).map((item, i) => ({
+          id: source + '-' + (item.guid || item.link || i),
+          desk, source,
+          title: (item.title || '').replace(/\s+-\s+[^-]+$/, '').trim(),
+          publishedAt: item.pubDate ? new Date(item.pubDate).toISOString() : new Date().toISOString(),
+          summary: (item.description || '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim().slice(0, 180),
+          url: item.link,
+        }));
+      } catch (e) { return []; }
+    }
+    async function loadWire() {
+      const [posts, official, book] = await Promise.all([
+        fetchPosts('', 24).catch(() => []),
+        Promise.all(OFFICIAL.map(([name, url]) => rssItems(name, 'OFFICIAL', url))).then((a) => a.flat()),
+        rssItems('Allocator wire', 'BOOK', BOOK),
+      ]);
+      const desk = posts.map((p) => ({
+        id: p.id, desk: 'UAO', source: kicker(p), title: p.title,
+        publishedAt: p.published_at, summary: excerpt(p), slug: p.slug, url: p.url,
+      }));
+      const seen = new Set();
+      wireCache = [...desk, ...official, ...book]
+        .filter((item) => {
+          const key = (item.url || item.slug || item.title).toLowerCase();
+          if (seen.has(key) || !item.title) return false;
+          seen.add(key);
+          return true;
+        })
+        .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+      wireTick = nowEt() + ' ET';
+      if (wireCache.length) {
+        $('tape').innerHTML = wireCache.concat(wireCache).slice(0, 40).map((p) => `<b>${p.source}</b> ${p.title}`).join('   ·   ') + '   ·   ';
+      }
+    }
+    function paintWireList() {
+      const list = $('wireList');
+      if (!list) return;
+      const rows = wireCache.filter((item) => wireFilter === 'ALL' || item.desk === wireFilter);
+      $('wireTick').textContent = wireTick ? 'Last tick ' + wireTick + ' · streaming' : 'Opening the wire…';
+      list.innerHTML = rows.map((item) => `<article class="wire-item" data-${item.slug ? 'slug' : 'url'}="${item.slug || item.url}">
+        <div class="src">${item.source}${justIn(item.publishedAt) ? '<span class="just">JUST IN</span>' : ''}</div>
+        <h2>${item.title}</h2>
+        ${item.summary ? `<p class="lede">${item.summary}</p>` : ''}
+      </article>`).join('') || '<div class="empty">Wire is quiet.</div>';
+      list.querySelectorAll('[data-slug]').forEach((el) => el.onclick = () => openPost(el.dataset.slug));
+      list.querySelectorAll('[data-url]').forEach((el) => el.onclick = () => { window.open(el.dataset.url, '_blank', 'noopener'); });
+    }
     async function render(next) {
       tab = next;
       document.querySelectorAll('nav.tabs button').forEach((b) => b.classList.toggle('on', b.dataset.tab === tab));
@@ -651,6 +722,27 @@
           if (pd && desk[0]) pd.onclick = () => openPost(desk[0].slug);
           const adv = $('openAdvertise');
           if (adv) adv.onclick = (e) => { e.stopPropagation(); render('advertise'); };
+        } else if (tab === 'wire') {
+          if (!wireCache.length) await loadWire();
+          $('main').innerHTML = `<div class="pad">
+            <div class="kicker">Streaming wire</div>
+            <h1>What just moved the book.</h1>
+            <p class="lede">The UAO desk, then the official prints that reprice it — Fed, ECB, SEC, BIS — and a live allocator scan. Ticks while this page is open.</p>
+            <p class="tickline" id="wireTick"></p>
+            <div class="seg">
+              <button data-wf="ALL" class="on">All</button>
+              <button data-wf="UAO">UAO desk</button>
+              <button data-wf="OFFICIAL">Official</button>
+              <button data-wf="BOOK">Allocators</button>
+            </div>
+            <div id="wireList"></div>
+          </div>`;
+          $('main').querySelectorAll('[data-wf]').forEach((b) => b.onclick = () => {
+            wireFilter = b.dataset.wf;
+            $('main').querySelectorAll('[data-wf]').forEach((x) => x.classList.toggle('on', x === b));
+            paintWireList();
+          });
+          paintWireList();
         } else if (tab === 'briefs' || tab === 'watchv' || tab === 'listen' || tab === 'research') {
           const filter = tab === 'briefs' ? FILTERS.brief : FILTERS[tab] || FILTERS.brief;
           const posts = await fetchPosts(filter, 18);
@@ -898,7 +990,11 @@
     pollDesk();
     setInterval(pollDesk, 45000);
     const startTab = new URLSearchParams(location.search).get('tab') || 'term';
-    render(['term','briefs','desk','charts','watch','advertise','watchv','listen','research'].includes(startTab) ? startTab : 'term');
+    render(['term','wire','briefs','desk','charts','watch','advertise','watchv','listen','research'].includes(startTab) ? startTab : 'term');
+    loadWire().then(() => { if (tab === 'wire') paintWireList(); });
+    setInterval(() => {
+      loadWire().then(() => { if (tab === 'wire') paintWireList(); });
+    }, 30000);
   </script>
 </body>
 </html>

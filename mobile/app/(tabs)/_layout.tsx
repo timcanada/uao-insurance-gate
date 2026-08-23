@@ -30,6 +30,13 @@ export default function TabLayout() {
         }}
       />
       <Tabs.Screen
+        name="wire"
+        options={{
+          title: 'Wire',
+          tabBarIcon: ({ color }) => <TabMark label="WIRE" color={color} />,
+        }}
+      />
+      <Tabs.Screen
         name="brief"
         options={{
           title: 'Brief',

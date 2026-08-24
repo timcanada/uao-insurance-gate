@@ -51,10 +51,17 @@ export default function TabLayout() {
         }}
       />
       <Tabs.Screen
+        name="room"
+        options={{
+          title: 'Room',
+          tabBarIcon: ({ color }) => <TabMark label="ROOM" color={color} />,
+        }}
+      />
+      <Tabs.Screen
         name="research"
         options={{
           title: 'Charts',
-          tabBarIcon: ({ color }) => <TabMark label="CHART" color={color} />,
+          href: null,
         }}
       />
       <Tabs.Screen

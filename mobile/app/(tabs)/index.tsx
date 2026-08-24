@@ -140,6 +140,14 @@ export default function TodayScreen() {
         ) : null}
 
         <PartnerPlate onPress={() => router.push('/advertise')} />
+        <Pressable onPress={() => router.push('/(tabs)/room')} style={styles.room}>
+          <Text style={styles.edition}>The Room · invite only</Text>
+          <Text style={styles.roomTitle}>Four chambers. One rule.</Text>
+          <Text style={styles.sublede}>
+            Chatham House. Desk spine. Member notes stay on this device until the house server
+            exists. The newspaper stays complimentary.
+          </Text>
+        </Pressable>
         <SubscribeCard />
       </ScrollView>
     </Screen>
@@ -178,4 +186,19 @@ const styles = StyleSheet.create({
     lineHeight: 22,
   },
   formats: { flexDirection: 'row', flexWrap: 'wrap', gap: 8 },
+  room: {
+    borderColor: colors.gold,
+    borderWidth: 1,
+    borderRadius: 14,
+    padding: 16,
+    backgroundColor: colors.panel,
+    gap: 8,
+  },
+  roomTitle: {
+    color: colors.text,
+    fontFamily: fonts.serif,
+    fontSize: 22,
+    lineHeight: 28,
+    fontWeight: '700',
+  },
 });

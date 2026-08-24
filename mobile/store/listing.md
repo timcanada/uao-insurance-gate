@@ -75,14 +75,14 @@ https://www.universalassetowners.com/privacy-policy/
 
 ## Review notes for Apple
 
-This is a news reader for Universal Asset Owners (universalassetowners.com). It loads our public Ghost Content API and, when we are broadcasting, the same YouTube-nocookie embed as our homepage. No login is required to read public briefs. Subscribe opens our existing Ghost member portal. Demo account is not needed. Contact: info@universalassetowners.com
+This is a news reader for Universal Asset Owners (universalassetowners.com). It loads our public Ghost Content API and, when we are broadcasting, the same YouTube-nocookie embed as our homepage. No login is required to read public briefs. The Room is invite-only (house or peer code) under Chatham House Rule; applications sit pending until the desk seats them. Subscribe opens our existing Ghost member portal. Demo account is not needed. House preview codes: UAO-DESK, UAO-BOOK, UAO-IC-2026. Contact: info@universalassetowners.com
 
 ## Age rating (answer No unless noted)
 
 Apple’s new social-media questions: **No** to all of them. This is a news reader, not a social network.
 
 - Unrestricted web access: No (in-app reader + known YouTube embed only)
-- User-generated content / chat: No
+- User-generated content / chat: Yes — invite-only, Chatham House, vetted institutions. Not a public social network.
 - Age assurance / social graph: No
 - Gambling: No
 - Contests: No

@@ -345,6 +345,60 @@
     .wire-item .just { color: #e5484d; font: 800 10px system-ui; letter-spacing: .12em; float: right; }
     .wire-item h2 { font-size: 17px; margin: 4px 0 4px; }
     .tickline { color: var(--gold2); font: 700 11px/1.4 system-ui; margin: 0 0 10px; }
+    .garden {
+      display: none;
+      position: absolute;
+      inset: 0;
+      z-index: 12;
+      background: radial-gradient(1200px 600px at 50% 0%, #16314a, #07131f 55%, #03080f);
+      overflow: auto;
+      padding: 28px 20px 40px;
+    }
+    .app.show-garden .garden { display: block; }
+    .app.show-garden .topbar, .app.show-garden .tape, .app.show-garden main,
+    .app.show-garden nav.tabs, .app.show-garden .livedock { display: none; }
+    .garden h1 { font-size: 30px; line-height: 1.12; margin: 10px 0 12px; }
+    .garden .folio { margin-bottom: 8px; }
+    .pending-plate, .peer-plate {
+      border: 1px solid var(--gold);
+      border-radius: 12px;
+      padding: 12px;
+      margin: 10px 0;
+      background: #081422;
+    }
+    .local-note { color: var(--muted); font: 12px/1.4 system-ui; margin: 8px 0 0; }
+    .warn { color: var(--gold2); font: 13px/1.4 Georgia, serif; }
+    .chat {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      padding-bottom: 12px;
+    }
+    .bubble {
+      border: 1px solid var(--line);
+      background: var(--navy2);
+      border-radius: 12px;
+      padding: 10px 12px;
+    }
+    .bubble.desk { border-color: var(--gold); }
+    .bubble .who { color: var(--gold); font: 800 10px system-ui; letter-spacing: .1em; text-transform: uppercase; }
+    .bubble p { margin: 6px 0 0; font-size: 14px; line-height: 1.45; }
+    .composer {
+      display: flex;
+      gap: 8px;
+      margin-top: 10px;
+    }
+    .composer input { flex: 1; }
+    .rule {
+      border: 1px solid var(--gold);
+      color: var(--gold2);
+      font: 12px/1.4 Georgia, serif;
+      padding: 10px 12px;
+      border-radius: 10px;
+      margin: 10px 0 14px;
+    }
+    .seat { display: flex; justify-content: space-between; gap: 10px; padding: 10px 0; border-bottom: 1px solid var(--line); }
+    .seat b { display: block; }
   </style>
 </head>
 <body>
@@ -356,7 +410,7 @@
       </div>
       <div class="live offair" id="liveBadge"><i class="dot"></i><span id="liveBadgeText">STANDBY</span></div>
       <div class="clock" id="clock">--:-- ET</div>
-      <button class="access" id="accessBtn" type="button">ACCESS</button>
+      <button class="access" id="accessBtn" type="button">THE ROOM</button>
       <button class="iconbtn" id="searchBtn" title="Search">⌕</button>
     </div>
     <div class="tape"><div class="tape-inner" id="tape">Loading the desk…</div></div>
@@ -367,6 +421,35 @@
         <button class="pill" id="hideLive">Hide</button>
       </div>
       <div class="frame"><iframe id="liveFrame" title="Universal Asset Owners live stream" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe></div>
+    </div>
+    <div class="garden" id="garden">
+      <div class="folio"><b>The house</b><span>Seat review</span></div>
+      <div class="kicker">Walled garden · invite only</div>
+      <h1>The brief is complimentary. The room is not open.</h1>
+      <p class="lede">You may read the newspaper. You may not speak in the house until the desk has taken your seat — or someone already seated has passed you a code. Chatham House Rule inside.</p>
+      <div class="why">
+        <div><b>Vetted</b><span>Work email, institution, role, why this desk. No retail book.</span></div>
+        <div><b>The Room</b><span>Four chambers. Desk spine. Member notes.</span></div>
+        <div><b>The Wire</b><span>UAO plus Fed, ECB, SEC, BIS — still complimentary.</span></div>
+        <div><b>Firewalled</b><span>Editorial is not for sale.</span></div>
+      </div>
+      <div class="sub">
+        <div class="kicker">I have an invite</div>
+        <input id="inviteCode" placeholder="UAO-DESK" autocomplete="off" />
+        <button type="button" id="inviteGo">Enter the room</button>
+        <p class="meta" id="inviteErr"></p>
+      </div>
+      <div class="sub" style="margin-top:12px">
+        <div class="kicker">Request a seat</div>
+        <input id="appEmail" type="email" placeholder="you@institution.com" />
+        <p class="warn" id="appWarn" hidden>Consumer inboxes are reviewed last. A work address sits first.</p>
+        <input id="appInst" placeholder="Institution — CPP, NBIM, family office…" />
+        <input id="appRole" placeholder="Role — CIO, head of private markets…" />
+        <input id="appWhy" placeholder="Why this desk — one sentence the IC would recognise." />
+        <button type="button" id="appGo">Submit for desk review</button>
+        <p class="meta">An application does not open the floor. The desk will write.</p>
+      </div>
+      <button class="pill" id="gardenLater" style="margin-top:16px;width:100%">Continue with the complimentary brief</button>
     </div>
     <main id="main"><div class="empty">Opening the terminal…</div></main>
     <div class="toast" id="briefToast">
@@ -401,7 +484,7 @@
       <button class="on" data-tab="term"><small>▣</small>TERM</button>
       <button data-tab="wire"><small>⚡</small>WIRE</button>
       <button data-tab="desk"><small>◈</small>DESK</button>
-      <button data-tab="charts"><small>▤</small>CHARTS</button>
+      <button data-tab="room"><small>▣</small>ROOM</button>
       <button data-tab="watch"><small>☆</small>WATCH</button>
     </nav>
     <article class="reader" id="reader">
@@ -465,6 +548,89 @@
     const $ = (id) => document.getElementById(id);
     const saved = () => JSON.parse(localStorage.getItem('uao.saved') || '[]');
     const setSaved = (list) => localStorage.setItem('uao.saved', JSON.stringify(list));
+    const HOUSE_CODES = ['UAO-DESK', 'UAO-BOOK', 'UAO-IC-2026'];
+    const PEER_RE = /^UAO-PEER-[ABCDEFGHJKLMNPQRSTUVWXYZ23456789]{4}$/;
+    const NOTE_MAX = 400;
+    const ROOMS = {
+      book: { title: 'The Book', kicker: 'What the house is holding — not a trade idea.' },
+      pd: { title: 'Probability Desk', kicker: 'Scenario weights. Challenge the house. Do not perform.' },
+      pm: { title: 'Private Markets', kicker: 'Pacing, vintage, and the unquoted sleeve.' },
+      official: { title: 'Official Prints', kicker: 'If it is not a primary, it does not belong here.' },
+    };
+    const SEED = {
+      book: [
+        { desk: true, who: 'UAO Editorial', at: 'house', text: 'Morning book is open. The lead is still liquidity versus contractual access — not the buyback headline. Annotate. Do not attribute outside this room.' },
+        { desk: true, who: 'UAO Editorial', at: 'house', text: 'Chatham House Rule is in force. Use the information. Leave the identity.' },
+      ],
+      pd: [
+        { desk: true, who: 'The Probability Desk', at: 'house', text: 'BASE remains the governed case. If the 30-year prints through 5.50, the tail is a liability number. Post weights, not takes.' },
+      ],
+      pm: [
+        { desk: true, who: 'UAO Editorial', at: 'house', text: 'Private credit in DC plans moves exit risk toward members. If an IC just approved that, say what changed in the pack — not the brand.' },
+      ],
+      official: [
+        { desk: true, who: 'The Wire', at: 'house', text: 'Official prints only. Fed, ECB, SEC, BIS. If it is not a primary, it does not belong in this chamber.' },
+      ],
+    };
+    function esc(value) {
+      return String(value == null ? '' : value).replace(/[&<>"']/g, (c) => ({
+        '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;',
+      }[c]));
+    }
+    function normalizeInvite(code) { return (code || '').trim().toUpperCase().replace(/\s+/g, ''); }
+    function validInvite(code) {
+      const normalized = normalizeInvite(code);
+      return HOUSE_CODES.includes(normalized) || PEER_RE.test(normalized);
+    }
+    function member() {
+      try { return JSON.parse(localStorage.getItem('uao.member') || 'null'); } catch (e) { return null; }
+    }
+    function admit(profile) { localStorage.setItem('uao.member', JSON.stringify(profile)); }
+    function seatStatus(record) {
+      if (!record) return null;
+      if (record.status === 'pending' || record.status === 'seated') return record.status;
+      return validInvite(record.via || '') ? 'seated' : 'pending';
+    }
+    function canPost(record) { return seatStatus(record) === 'seated'; }
+    function seatLabel(record) {
+      const institution = ((record && record.institution) || '').trim() || 'Seat';
+      const role = ((record && record.role) || '').trim();
+      return role ? institution + ' · ' + role : institution;
+    }
+    function sanitizeNote(text) {
+      return String(text || '').replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim().slice(0, NOTE_MAX);
+    }
+    function consumerInbox(email) {
+      return /@(gmail|yahoo|hotmail|outlook|icloud|me|aol|proton\.me|live)\./i.test(email || '');
+    }
+    function mintPeerCode() {
+      const alphabet = 'ABCDEFGHJKLMNPQRSTUVWXYZ23456789';
+      let n = Date.now() % Math.pow(alphabet.length, 4);
+      let out = '';
+      for (let i = 0; i < 4; i++) { out = alphabet[n % alphabet.length] + out; n = Math.floor(n / alphabet.length); }
+      return 'UAO-PEER-' + out;
+    }
+    function roomNotes(id) {
+      try { return JSON.parse(localStorage.getItem('uao.room.' + id) || '[]'); } catch (e) { return []; }
+    }
+    function setRoomNotes(id, notes) { localStorage.setItem('uao.room.' + id, JSON.stringify(notes.slice(-80))); }
+    function openGarden() { document.getElementById('app').classList.add('show-garden'); }
+    function closeGarden() { document.getElementById('app').classList.remove('show-garden'); }
+    function ensureMember() {
+      const code = normalizeInvite(new URLSearchParams(location.search).get('invite') || '');
+      if (code && validInvite(code) && seatStatus(member()) !== 'seated') {
+        const prev = member() || {};
+        admit({
+          email: prev.email || '',
+          institution: prev.institution || 'Invited seat',
+          role: prev.role || 'Member',
+          via: code,
+          at: Date.now(),
+          status: 'seated',
+          peerCode: prev.peerCode,
+        });
+      }
+    }
 
     function nowEt() {
       return new Date().toLocaleTimeString('en-US', { timeZone: 'America/New_York', hour: '2-digit', minute: '2-digit' });
@@ -711,6 +877,12 @@
             <div class="grid">${charts.slice(0,4).map((p) => `<article class="chart" data-slug="${p.slug}">${p.feature_image ? `<img src="${p.feature_image}" alt="">` : ''}<p>${p.title}</p></article>`).join('')}</div>
             ${video[0] ? `<div class="kicker" style="margin-top:16px">Watch</div>${card(video[0])}` : ''}
             ${partnerPlate()}
+            <div class="mod" id="openRoom">
+              <div class="kicker">The Room · invite only</div>
+              <h2>Four chambers. One rule.</h2>
+              <p class="lede">Chatham House. Desk spine. Member notes stay on this device until the house server exists. The newspaper stays complimentary.</p>
+              <div class="meta">${canPost(member()) ? 'You are seated — open the room' : 'Request a seat, or continue reading'}</div>
+            </div>
             <div class="kicker" style="margin-top:16px">The tape</div>
             ${latest.slice(0,8).map(compact).join('')}
             ${subscribe()}
@@ -722,6 +894,94 @@
           if (pd && desk[0]) pd.onclick = () => openPost(desk[0].slug);
           const adv = $('openAdvertise');
           if (adv) adv.onclick = (e) => { e.stopPropagation(); render('advertise'); };
+          const roomDoor = $('openRoom');
+          if (roomDoor) roomDoor.onclick = () => {
+            if (!member()) openGarden();
+            else render('room');
+          };
+        } else if (tab === 'room') {
+          const seated = member();
+          if (!seated) {
+            openGarden();
+            $('main').innerHTML = `<div class="pad">
+              <div class="kicker">The Room · invite only</div>
+              <h1>The brief is complimentary. The room is not open.</h1>
+              <div class="rule">You may keep reading the newspaper. The floor stays closed until the desk takes a seat.</div>
+              <p class="lede">House codes seat immediately. An application is a request — not a key.</p>
+              <button class="primary" id="roomAsk" style="width:100%;padding:12px;border:0;border-radius:8px">Request a seat</button>
+            </div>`;
+            $('roomAsk').onclick = () => openGarden();
+          } else {
+            const roomId = window._roomId || 'book';
+            const chamber = ROOMS[roomId] || ROOMS.book;
+            const notes = roomNotes(roomId);
+            const thread = (SEED[roomId] || []).concat(notes);
+            const pending = seatStatus(seated) === 'pending';
+            const floor = canPost(seated);
+            $('main').innerHTML = `<div class="pad">
+              <div class="kicker">The Room · members only</div>
+              <h1>Four chambers. One rule.</h1>
+              <div class="rule">Chatham House Rule. Members may use what is said here. They may not name who said it, or their institution, outside the garden.</div>
+              <p class="lede">${pending ? 'Application with the desk' : 'Seated'} · ${esc(seatLabel(seated))}.</p>
+              ${pending ? `<div class="pending-plate">
+                <div class="kicker">Under review</div>
+                <p class="lede">You may read the house spine. You may not post until a seat is confirmed.</p>
+                <input id="roomInvite" placeholder="UAO-DESK" />
+                <button class="primary" id="roomInviteGo" style="width:100%;margin-top:8px;padding:12px;border:0;border-radius:8px">Apply invite</button>
+                <p class="meta" id="roomInviteErr"></p>
+              </div>` : ''}
+              <div class="seg">
+                ${Object.entries(ROOMS).map(([id, room]) => `<button data-room="${id}" class="${id===roomId?'on':''}">${room.title}</button>`).join('')}
+              </div>
+              <p class="lede">${esc(chamber.kicker)}</p>
+              <div class="chat">${thread.map((m) => `<div class="bubble ${m.desk ? 'desk' : ''}"><div class="who">${esc(m.who)}</div><p>${esc(m.text)}</p></div>`).join('')}</div>
+              ${floor ? `<div class="composer">
+                <input id="roomNote" maxlength="${NOTE_MAX}" placeholder="A note for the room — no names." />
+                <button class="primary" id="roomSend" style="padding:11px 14px;border:0;border-radius:8px">Post</button>
+              </div>
+              <p class="local-note">Notes stay on this device until the house server exists. They do not reach another seat.</p>
+              <div class="peer-plate">
+                <div class="kicker">Invite one peer</div>
+                ${seated.peerCode ? `<h2>${esc(seated.peerCode)}</h2>` : '<button class="primary" id="mintPeer" style="width:100%;padding:12px;border:0;border-radius:8px">Mint a peer code</button>'}
+                <p class="meta">One code. Pass it by hand. The desk can revoke. Not a growth loop.</p>
+              </div>` : ''}
+              <div class="kicker" style="margin-top:18px">Who sits here</div>
+              ${[
+                ['Public pension', 'CIO office · Canada'],
+                ['Sovereign wealth', 'Head of public markets · Nordics'],
+                ['Family office', 'Principal · United States'],
+                ['Insurer', 'CIO · Europe'],
+                ['Endowment', 'CIO · United Kingdom'],
+              ].map(([a,b]) => `<div class="seat"><div><b>${a}</b><div class="meta">${b}</div></div><div class="meta">Vetted</div></div>`).join('')}
+              <p class="meta">The roster is by mandate, not by name. That is the house.</p>
+            </div>`;
+            $('main').querySelectorAll('[data-room]').forEach((b) => b.onclick = () => { window._roomId = b.dataset.room; render('room'); });
+            const send = $('roomSend');
+            if (send) send.onclick = () => {
+              const text = sanitizeNote($('roomNote').value);
+              if (!text || !floor) return;
+              setRoomNotes(roomId, roomNotes(roomId).concat([{
+                desk: false, who: seatLabel(seated), text, at: new Date().toISOString(),
+              }]));
+              render('room');
+            };
+            const mint = $('mintPeer');
+            if (mint) mint.onclick = () => {
+              if (seated.peerCode) return;
+              admit({ ...seated, peerCode: mintPeerCode() });
+              render('room');
+            };
+            const inviteGo = $('roomInviteGo');
+            if (inviteGo) inviteGo.onclick = () => {
+              const nextCode = normalizeInvite($('roomInvite').value);
+              if (!validInvite(nextCode)) {
+                $('roomInviteErr').textContent = 'That code is not on the book.';
+                return;
+              }
+              admit({ ...seated, via: nextCode, status: 'seated', at: Date.now() });
+              render('room');
+            };
+          }
         } else if (tab === 'wire') {
           if (!wireCache.length) await loadWire();
           $('main').innerHTML = `<div class="pad">
@@ -979,8 +1239,50 @@
     $('liveToastGo').onclick = () => $('liveToast').classList.remove('on');
     $('liveToastLater').onclick = () => $('liveToast').classList.remove('on');
     $('briefToastLater').onclick = () => $('briefToast').classList.remove('on');
-    $('accessBtn').onclick = () => $('accessToast').classList.add('on');
+    $('accessBtn').onclick = () => {
+      if (!member()) openGarden();
+      else render('room');
+    };
     $('accessLater').onclick = () => $('accessToast').classList.remove('on');
+    $('gardenLater').onclick = () => {
+      closeGarden();
+      if (tab === 'room' && !member()) render('term');
+    };
+    $('inviteGo').onclick = () => {
+      const code = normalizeInvite($('inviteCode').value);
+      if (!validInvite(code)) {
+        $('inviteErr').textContent = 'That code is not on the book.';
+        return;
+      }
+      const prev = member() || {};
+      admit({
+        email: prev.email || '',
+        institution: prev.institution || 'Invited seat',
+        role: prev.role || 'Member',
+        via: code,
+        at: Date.now(),
+        status: 'seated',
+        peerCode: prev.peerCode,
+      });
+      closeGarden();
+      render('room');
+    };
+    $('appEmail').oninput = () => {
+      $('appWarn').hidden = !consumerInbox($('appEmail').value);
+    };
+    $('appGo').onclick = () => {
+      const email = ($('appEmail').value || '').trim();
+      const institution = ($('appInst').value || '').trim();
+      const role = ($('appRole').value || '').trim();
+      const why = ($('appWhy').value || '').trim();
+      if (!email || !institution || !role || !why) {
+        $('inviteErr').textContent = '';
+        return;
+      }
+      admit({ email, institution, role, why, via: 'application', at: Date.now(), status: 'pending' });
+      closeGarden();
+      render('room');
+    };
     $('accessGo').onclick = () => {
       const email = ($('accessEmail')?.value || '').trim();
       location.href = SITE + '/#/portal/signup' + (email ? '?email=' + encodeURIComponent(email) : '');
@@ -989,8 +1291,10 @@
     setInterval(tickClock, 15000);
     pollDesk();
     setInterval(pollDesk, 45000);
-    const startTab = new URLSearchParams(location.search).get('tab') || 'term';
-    render(['term','wire','briefs','desk','charts','watch','advertise','watchv','listen','research'].includes(startTab) ? startTab : 'term');
+    const bootParams = new URLSearchParams(location.search);
+    const startTab = bootParams.get('tab') || (bootParams.get('invite') ? 'room' : 'term');
+    ensureMember();
+    render(['term','wire','room','briefs','desk','charts','watch','advertise','watchv','listen','research'].includes(startTab) ? startTab : 'term');
     loadWire().then(() => { if (tab === 'wire') paintWireList(); });
     setInterval(() => {
       loadWire().then(() => { if (tab === 'wire') paintWireList(); });

@@ -427,6 +427,7 @@
       <div class="kicker">Walled garden · invite only</div>
       <h1>The brief is complimentary. The room is not open.</h1>
       <p class="lede">You may read the newspaper. You may not speak in the house until the desk has taken your seat — or someone already seated has passed you a code. Chatham House Rule inside.</p>
+      <button class="pill" id="gardenLaterTop" type="button" style="margin:0 0 16px">Continue with the complimentary brief</button>
       <div class="why">
         <div><b>Vetted</b><span>Work email, institution, role, why this desk. No retail book.</span></div>
         <div><b>The Room</b><span>Four chambers. Desk spine. Member notes.</span></div>
@@ -1244,10 +1245,12 @@
       else render('room');
     };
     $('accessLater').onclick = () => $('accessToast').classList.remove('on');
-    $('gardenLater').onclick = () => {
+    function leaveGarden() {
       closeGarden();
       if (tab === 'room' && !member()) render('term');
-    };
+    }
+    $('gardenLater').onclick = leaveGarden;
+    $('gardenLaterTop').onclick = leaveGarden;
     $('inviteGo').onclick = () => {
       const code = normalizeInvite($('inviteCode').value);
       if (!validInvite(code)) {

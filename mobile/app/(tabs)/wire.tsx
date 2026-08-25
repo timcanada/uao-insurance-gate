@@ -2,8 +2,9 @@ import * as WebBrowser from 'expo-web-browser';
 import { useCallback, useEffect, useState } from 'react';
 import { Pressable, RefreshControl, ScrollView, StyleSheet, Text, View } from 'react-native';
 
-import { fetchWire, isJustIn, type WireDesk, type WireItem } from '@/src/api/wire';
+import { fetchWire, isJustIn, itemNames, type WireDesk, type WireItem } from '@/src/api/wire';
 import { EmptyState, LoadingBlock, Screen } from '@/src/components/Ui';
+import { BOOK_NAMES } from '@/src/lib/names';
 import { colors, fonts } from '@/src/theme';
 import { useRouter } from 'expo-router';
 
@@ -18,6 +19,7 @@ export default function WireScreen() {
   const router = useRouter();
   const [items, setItems] = useState<WireItem[]>([]);
   const [filter, setFilter] = useState<(typeof FILTERS)[number]['id']>('ALL');
+  const [name, setName] = useState('ALL');
   const [loading, setLoading] = useState(true);
   const [tick, setTick] = useState('');
   const [error, setError] = useState<string | null>(null);
@@ -48,7 +50,11 @@ export default function WireScreen() {
     return () => clearInterval(id);
   }, [load]);
 
-  const visible = items.filter((item) => filter === 'ALL' || item.desk === filter);
+  const visible = items.filter((item) => {
+    if (filter !== 'ALL' && item.desk !== filter) return false;
+    if (name === 'ALL') return true;
+    return itemNames(item).includes(name);
+  });
 
   return (
     <Screen>
@@ -60,8 +66,8 @@ export default function WireScreen() {
         <Text style={styles.kicker}>Streaming wire</Text>
         <Text style={styles.title}>What just moved the book.</Text>
         <Text style={styles.lede}>
-          The UAO desk, then the official prints that reprice it — Fed, ECB, SEC, BIS — and a live
-          allocator scan. Ticks every 30 seconds.
+          The UAO desk, official prints that reprice the book, then a name-level allocator scan —
+          not a newspaper. Ticks every 30 seconds.
         </Text>
         <Text style={styles.tick}>{tick ? `Last tick ${tick}` : 'Opening the wire…'}</Text>
         <View style={styles.row}>
@@ -72,6 +78,21 @@ export default function WireScreen() {
               style={[styles.chip, filter === chip.id ? styles.chipOn : null]}>
               <Text style={[styles.chipLabel, filter === chip.id ? styles.chipLabelOn : null]}>
                 {chip.label}
+              </Text>
+            </Pressable>
+          ))}
+        </View>
+        <View style={styles.row}>
+          <Pressable onPress={() => setName('ALL')} style={[styles.chip, name === 'ALL' ? styles.chipOn : null]}>
+            <Text style={[styles.chipLabel, name === 'ALL' ? styles.chipLabelOn : null]}>All names</Text>
+          </Pressable>
+          {BOOK_NAMES.slice(0, 10).map((item) => (
+            <Pressable
+              key={item.id}
+              onPress={() => setName(item.label)}
+              style={[styles.chip, name === item.label ? styles.chipOn : null]}>
+              <Text style={[styles.chipLabel, name === item.label ? styles.chipLabelOn : null]}>
+                {item.label}
               </Text>
             </Pressable>
           ))}
@@ -91,6 +112,9 @@ export default function WireScreen() {
               {isJustIn(item.publishedAt) ? <Text style={styles.just}>JUST IN</Text> : null}
             </View>
             <Text style={styles.headline}>{item.title}</Text>
+            {itemNames(item).length ? (
+              <Text style={styles.names}>{itemNames(item).join(' · ')}</Text>
+            ) : null}
             {item.summary ? <Text style={styles.summary}>{item.summary}</Text> : null}
           </Pressable>
         ))}
@@ -120,5 +144,6 @@ const styles = StyleSheet.create({
   source: { color: colors.gold, fontSize: 10, fontWeight: '800', letterSpacing: 0.8, textTransform: 'uppercase' },
   just: { color: colors.danger, fontSize: 10, fontWeight: '800', letterSpacing: 1 },
   headline: { color: colors.text, fontFamily: fonts.serif, fontSize: 18, lineHeight: 24 },
+  names: { color: colors.gold2, fontSize: 11, fontWeight: '700', letterSpacing: 0.6 },
   summary: { color: colors.muted, fontSize: 13, lineHeight: 18 },
 });

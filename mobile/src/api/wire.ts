@@ -1,3 +1,4 @@
+import { BOOK_FEED_QUERY, isAllocatorGrade, nameHits } from '../lib/names';
 import { fetchPosts } from './ghost';
 
 export type WireDesk = 'UAO' | 'OFFICIAL' | 'BOOK';
@@ -23,7 +24,9 @@ export const OFFICIAL_FEEDS: { source: string; url: string }[] = [
 ];
 
 export const BOOK_FEED =
-  'https://news.google.com/rss/search?q=%22sovereign+wealth%22+OR+%22pension+fund%22+OR+%22family+office%22&hl=en-US&gl=US&ceid=US:en';
+  'https://news.google.com/rss/search?q=' +
+  encodeURIComponent(BOOK_FEED_QUERY) +
+  '&hl=en-US&gl=US&ceid=US:en';
 
 type Rss2JsonItem = {
   title?: string;
@@ -39,7 +42,7 @@ function strip(html?: string): string {
 
 export function isJustIn(iso?: string, minutes = 30): boolean {
   if (!iso) return false;
-  const then = new Date(iso).getTime();
+  const then = Date.parse(iso);
   if (Number.isNaN(then)) return false;
   return Date.now() - then < minutes * 60 * 1000;
 }
@@ -53,7 +56,7 @@ export function mergeWire(items: WireItem[]): WireItem[] {
       seen.add(key);
       return Boolean(item.title);
     })
-    .sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime());
+    .sort((a, b) => (Date.parse(b.publishedAt) || 0) - (Date.parse(a.publishedAt) || 0));
 }
 
 async function fromRss2Json(source: string, desk: WireDesk, url: string): Promise<WireItem[]> {
@@ -68,7 +71,10 @@ async function fromRss2Json(source: string, desk: WireDesk, url: string): Promis
     desk,
     source,
     title: (item.title || '').replace(/\s+-\s+[^-]+$/, '').trim(),
-    publishedAt: item.pubDate ? new Date(item.pubDate).toISOString() : new Date().toISOString(),
+    publishedAt:
+      item.pubDate && !Number.isNaN(new Date(item.pubDate).getTime())
+        ? new Date(item.pubDate).toISOString()
+        : '',
     summary: strip(item.description).slice(0, 180),
     url: item.link,
   }));
@@ -81,7 +87,7 @@ export async function fetchDeskWire(): Promise<WireItem[]> {
     desk: 'UAO' as const,
     source: post.kicker,
     title: post.title,
-    publishedAt: post.published_at || new Date().toISOString(),
+    publishedAt: post.published_at || '',
     summary: post.summary,
     slug: post.slug,
     url: post.url,
@@ -96,7 +102,12 @@ export async function fetchOfficialWire(): Promise<WireItem[]> {
 }
 
 export async function fetchBookWire(): Promise<WireItem[]> {
-  return fromRss2Json('Allocator wire', 'BOOK', BOOK_FEED).catch(() => []);
+  const items = await fromRss2Json('Allocator wire', 'BOOK', BOOK_FEED).catch(() => []);
+  return items.filter(isAllocatorGrade);
+}
+
+export function itemNames(item: Pick<WireItem, 'title' | 'summary' | 'source'>): string[] {
+  return nameHits(`${item.title} ${item.summary || ''} ${item.source}`).map((name) => name.label);
 }
 
 export async function fetchWire(): Promise<WireItem[]> {

@@ -38,8 +38,10 @@ describe('mergeWire', () => {
 });
 
 describe('isJustIn', () => {
-  it('flags items from the last half hour', () => {
+  it('flags items from the last half hour and ignores a missing stamp', () => {
     assert.equal(isJustIn(new Date().toISOString()), true);
     assert.equal(isJustIn('2020-01-01T00:00:00.000Z'), false);
+    assert.equal(isJustIn(''), false);
+    assert.equal(isJustIn(undefined), false);
   });
 });

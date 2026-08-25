@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import { ScrollView, StyleSheet, Text, View } from 'react-native';
 
 import { useDeskAlertsContext } from '@/src/hooks/useDeskAlerts';
+import { formatDelta, type DeskWeights } from '@/src/lib/weights';
 import { colors, fonts } from '@/src/theme';
 import type { ClassifiedPost } from '@/src/types';
 
@@ -57,20 +58,33 @@ export function Ticker({ posts }: { posts: ClassifiedPost[] }) {
   );
 }
 
-export function ProbabilityMeters() {
+export function ProbabilityMeters({
+  weights,
+  delta,
+}: {
+  weights?: DeskWeights | null;
+  delta?: DeskWeights | null;
+}) {
+  if (!weights) {
+    return (
+      <Text style={styles.meterNote}>
+        Weights live in the note. We do not invent a book the desk has not printed.
+      </Text>
+    );
+  }
   return (
     <View style={styles.meters}>
       <View style={styles.meter}>
-        <Text style={styles.base}>BASE</Text>
-        <Text style={styles.meterSub}>central case</Text>
+        <Text style={styles.base}>{weights.base}%</Text>
+        <Text style={styles.meterSub}>BASE{delta ? ` · ${formatDelta(delta.base)}` : ''}</Text>
       </View>
       <View style={styles.meter}>
-        <Text style={styles.up}>UPSIDE</Text>
-        <Text style={styles.meterSub}>second-order</Text>
+        <Text style={styles.up}>{weights.upside}%</Text>
+        <Text style={styles.meterSub}>UPSIDE{delta ? ` · ${formatDelta(delta.upside)}` : ''}</Text>
       </View>
       <View style={styles.meter}>
-        <Text style={styles.tail}>TAIL</Text>
-        <Text style={styles.meterSub}>break case</Text>
+        <Text style={styles.tail}>{weights.tail}%</Text>
+        <Text style={styles.meterSub}>TAIL{delta ? ` · ${formatDelta(delta.tail)}` : ''}</Text>
       </View>
     </View>
   );
@@ -113,4 +127,5 @@ const styles = StyleSheet.create({
   up: { color: colors.success, fontWeight: '800', fontSize: 12 },
   tail: { color: colors.danger, fontWeight: '800', fontSize: 12 },
   meterSub: { color: colors.muted, fontSize: 10, marginTop: 3 },
+  meterNote: { color: colors.muted, fontFamily: fonts.serif, fontSize: 13, lineHeight: 18, marginVertical: 8 },
 });

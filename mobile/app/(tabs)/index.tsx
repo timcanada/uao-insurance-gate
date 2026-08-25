@@ -1,3 +1,4 @@
+import AsyncStorage from '@react-native-async-storage/async-storage';
 import { useRouter } from 'expo-router';
 import { useEffect, useState } from 'react';
 import { Pressable, RefreshControl, ScrollView, StyleSheet, Text, View } from 'react-native';
@@ -15,6 +16,7 @@ import {
 } from '@/src/components/Ui';
 import { fetchPosts, snapshotToday } from '@/src/api/ghost';
 import { FILTERS } from '@/src/lib/classify';
+import { parseDeskWeights, weightDelta, type DeskWeights } from '@/src/lib/weights';
 import { colors, fonts } from '@/src/theme';
 import type { ClassifiedPost } from '@/src/types';
 
@@ -29,13 +31,15 @@ export default function TodayScreen() {
   const [loading, setLoading] = useState(!initial.hero);
   const [refreshing, setRefreshing] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const [weights, setWeights] = useState<DeskWeights | null>(null);
+  const [delta, setDelta] = useState<DeskWeights | null>(null);
 
   async function load() {
     setError(null);
     try {
       const [briefs, pd, chartFeed, latest] = await Promise.all([
         fetchPosts({ filter: FILTERS.dailyBrief, limit: 4 }),
-        fetchPosts({ filter: FILTERS.probabilityDesk, limit: 3 }),
+        fetchPosts({ filter: FILTERS.probabilityDesk, limit: 3, includeHtml: true }),
         fetchPosts({ filter: FILTERS.charts, limit: 4 }),
         fetchPosts({ filter: FILTERS.latest, limit: 12 }),
       ]);
@@ -43,6 +47,16 @@ export default function TodayScreen() {
       setDesk(pd.posts);
       setCharts(chartFeed.posts);
       setTape(latest.posts);
+      const nextWeights = pd.posts[0]?.html ? parseDeskWeights(pd.posts[0].html) : null;
+      setWeights(nextWeights);
+      if (nextWeights) {
+        const raw = await AsyncStorage.getItem('uao.pdWeights');
+        const prev = raw ? (JSON.parse(raw) as DeskWeights) : null;
+        setDelta(weightDelta(prev, nextWeights));
+        await AsyncStorage.setItem('uao.pdWeights', JSON.stringify(nextWeights));
+      } else {
+        setDelta(null);
+      }
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Unable to reach the UAO desk.');
     } finally {
@@ -118,7 +132,7 @@ export default function TodayScreen() {
               actionLabel="All scenarios →"
               href="/(tabs)/desk"
             />
-            <ProbabilityMeters />
+            <ProbabilityMeters weights={weights} delta={delta} />
             {desk.map((post) => (
               <PostCard key={post.id} post={post} />
             ))}

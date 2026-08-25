@@ -368,6 +368,7 @@
     }
     .local-note { color: var(--muted); font: 12px/1.4 system-ui; margin: 8px 0 0; }
     .warn { color: var(--gold2); font: 13px/1.4 Georgia, serif; }
+    .name-tag { color: var(--gold2); font: 700 10px/1.3 system-ui; letter-spacing: .08em; text-transform: uppercase; }
     .chat {
       display: flex;
       flex-direction: column;
@@ -448,6 +449,7 @@
         <input id="appRole" placeholder="Role — CIO, head of private markets…" />
         <input id="appWhy" placeholder="Why this desk — one sentence the IC would recognise." />
         <button type="button" id="appGo">Submit for desk review</button>
+        <p class="meta" id="appErr"></p>
         <p class="meta">An application does not open the floor. The desk will write.</p>
       </div>
       <button class="pill" id="gardenLater" style="margin-top:16px;width:100%">Continue with the complimentary brief</button>
@@ -547,7 +549,7 @@
     let current = null;
     let typePx = 17;
     const $ = (id) => document.getElementById(id);
-    const saved = () => JSON.parse(localStorage.getItem('uao.saved') || '[]');
+    const saved = () => { try { return JSON.parse(localStorage.getItem('uao.saved') || '[]'); } catch (e) { return []; } };
     const setSaved = (list) => localStorage.setItem('uao.saved', JSON.stringify(list));
     const HOUSE_CODES = ['UAO-DESK', 'UAO-BOOK', 'UAO-IC-2026'];
     const PEER_RE = /^UAO-PEER-[ABCDEFGHJKLMNPQRSTUVWXYZ23456789]{4}$/;
@@ -601,6 +603,59 @@
     function sanitizeNote(text) {
       return String(text || '').replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim().slice(0, NOTE_MAX);
     }
+    function safeSrc(url) {
+      try {
+        const parsed = new URL(url);
+        return parsed.protocol === 'http:' || parsed.protocol === 'https:' ? parsed.href : '';
+      } catch (e) { return ''; }
+    }
+    const BOOK_NAMES = [
+      ['cpp', 'CPP', ['cpp investments', 'canada pension', 'cpib']],
+      ['calpers', 'CalPERS', ['calpers']],
+      ['calstrs', 'CalSTRS', ['calstrs']],
+      ['otpp', 'OTPP', ['otpp', 'ontario teachers']],
+      ['nbim', 'NBIM', ['nbim', 'norges bank']],
+      ['gic', 'GIC', ['gic']],
+      ['adia', 'ADIA', ['adia']],
+      ['pif', 'PIF', ['public investment fund']],
+      ['temasek', 'Temasek', ['temasek']],
+      ['cic', 'CIC', ['china investment corporation']],
+      ['abp', 'ABP', ['abp']],
+      ['kic', 'KIC', ['korea investment', 'kic']],
+      ['nps', 'NPS', ['national pension service']],
+      ['hormuz', 'Hormuz', ['hormuz']],
+      ['brent', 'Brent', ['brent']],
+      ['30y', '30-year', ['30-year', '30 year', 'long bond']],
+    ];
+    const BOOK_JUNK = ['marketbeat', 'makes new investment', 'should trump create', 'holdings report -', 'zacks', 'tipranks', 'stocknews'];
+    function hasNeedle(hay, needle) {
+      const h = hay.toLowerCase();
+      const n = needle.toLowerCase();
+      if (n.includes(' ')) return h.includes(n);
+      return (' ' + h.replace(/[^a-z0-9]+/g, ' ') + ' ').includes(' ' + n + ' ');
+    }
+    function nameHits(text) {
+      return BOOK_NAMES.filter((row) => row[2].some((n) => hasNeedle(text, n)));
+    }
+    function itemNames(item) {
+      return nameHits((item.title || '') + ' ' + (item.summary || '') + ' ' + (item.source || '')).map((row) => row[1]);
+    }
+    function isAllocatorGrade(item) {
+      const blob = (item.title || '') + ' ' + (item.summary || '') + ' ' + (item.source || '');
+      if (BOOK_JUNK.some((j) => blob.toLowerCase().includes(j))) return false;
+      if (nameHits(blob).length) return true;
+      return /\b(sovereign wealth|pension fund|family office|endowment)\b/i.test(blob);
+    }
+    function parseDeskWeights(html) {
+      const text = String(html || '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ');
+      const split = text.match(/Desk split\s+(\d{1,2})\s*\/\s*(\d{1,2})\s*\/\s*(\d{1,2})/i);
+      if (split) {
+        const weights = { base: +split[1], upside: +split[2], tail: +split[3] };
+        if (weights.base + weights.upside + weights.tail === 100) return weights;
+      }
+      return null;
+    }
+    function formatDelta(n) { return n ? (n > 0 ? '+' + n : String(n)) : 'unch'; }
     function consumerInbox(email) {
       return /@(gmail|yahoo|hotmail|outlook|icloud|me|aol|proton\.me|live)\./i.test(email || '');
     }
@@ -692,27 +747,28 @@
       return (await (await fetch(url)).json()).posts || [];
     }
     function card(post, hero) {
-      const img = post.feature_image ? `<img src="${post.feature_image}" alt="">` : '';
+      const src = post.feature_image ? safeSrc(post.feature_image) : '';
+      const img = src ? `<img src="${esc(src)}" alt="">` : '';
       if (hero) {
-        return `<article class="hero" data-slug="${post.slug}">${img}<div class="body">
-          <div class="kicker">${kicker(post)}</div>
-          <h2>${post.title}</h2>
-          <p class="lede">${excerpt(post)}</p>
+        return `<article class="hero" data-slug="${esc(post.slug)}">${img}<div class="body">
+          <div class="kicker">${esc(kicker(post))}</div>
+          <h2>${esc(post.title)}</h2>
+          <p class="lede">${esc(excerpt(post))}</p>
           <div class="meta">${fmt(post.published_at)}${post.reading_time ? ' · ' + post.reading_time + ' min' : ''} · ${deskOf(post)}</div>
         </div></article>`;
       }
-      return `<article class="card" data-slug="${post.slug}">
+      return `<article class="card" data-slug="${esc(post.slug)}">
         ${img}
-        <div class="kicker">${kicker(post)}</div>
-        <h2>${post.title}</h2>
-        <p class="lede">${excerpt(post)}</p>
+        <div class="kicker">${esc(kicker(post))}</div>
+        <h2>${esc(post.title)}</h2>
+        <p class="lede">${esc(excerpt(post))}</p>
         <div class="meta">${fmt(post.published_at)}${post.reading_time ? ' · ' + post.reading_time + ' min' : ''}</div>
       </article>`;
     }
     function compact(post) {
-      return `<article class="card compact" data-slug="${post.slug}">
+      return `<article class="card compact" data-slug="${esc(post.slug)}">
         <div class="mark">${deskOf(post)}</div>
-        <div><h2>${post.title}</h2><div class="meta">${fmt(post.published_at)} · ${kicker(post)}</div></div>
+        <div><h2>${esc(post.title)}</h2><div class="meta">${fmt(post.published_at)} · ${esc(kicker(post))}</div></div>
       </article>`;
     }
     function bindCards(root) {
@@ -761,12 +817,13 @@
       ['SEC', 'https://www.sec.gov/news/pressreleases.rss'],
       ['BIS', 'https://www.bis.org/doclist/all_pressrels.rss'],
     ];
-    const BOOK = 'https://news.google.com/rss/search?q=%22sovereign+wealth%22+OR+%22pension+fund%22+OR+%22family+office%22&hl=en-US&gl=US&ceid=US:en';
+    const BOOK_URL = 'https://news.google.com/rss/search?q=' + encodeURIComponent('CalPERS OR "CPP Investments" OR NBIM OR "Norges Bank" OR Temasek OR "Ontario Teachers" OR ADIA OR "Korea Investment" OR "sovereign wealth fund" OR "pension CIO"') + '&hl=en-US&gl=US&ceid=US:en';
     let wireCache = [];
     let wireFilter = 'ALL';
+    let wireName = 'ALL';
     let wireTick = '';
     function justIn(iso) {
-      const t = new Date(iso).getTime();
+      const t = Date.parse(iso || '');
       return !Number.isNaN(t) && Date.now() - t < 30 * 60 * 1000;
     }
     async function rssItems(source, desk, url) {
@@ -777,18 +834,19 @@
           id: source + '-' + (item.guid || item.link || i),
           desk, source,
           title: (item.title || '').replace(/\s+-\s+[^-]+$/, '').trim(),
-          publishedAt: item.pubDate ? new Date(item.pubDate).toISOString() : new Date().toISOString(),
+          publishedAt: item.pubDate && !Number.isNaN(Date.parse(item.pubDate)) ? new Date(item.pubDate).toISOString() : '',
           summary: (item.description || '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim().slice(0, 180),
           url: item.link,
         }));
       } catch (e) { return []; }
     }
     async function loadWire() {
-      const [posts, official, book] = await Promise.all([
+      const [posts, official, rawBook] = await Promise.all([
         fetchPosts('', 24).catch(() => []),
         Promise.all(OFFICIAL.map(([name, url]) => rssItems(name, 'OFFICIAL', url))).then((a) => a.flat()),
-        rssItems('Allocator wire', 'BOOK', BOOK),
+        rssItems('Allocator wire', 'BOOK', BOOK_URL),
       ]);
+      const book = rawBook.filter(isAllocatorGrade);
       const desk = posts.map((p) => ({
         id: p.id, desk: 'UAO', source: kicker(p), title: p.title,
         publishedAt: p.published_at, summary: excerpt(p), slug: p.slug, url: p.url,
@@ -801,22 +859,32 @@
           seen.add(key);
           return true;
         })
-        .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+        .sort((a, b) => (Date.parse(b.publishedAt) || 0) - (Date.parse(a.publishedAt) || 0));
       wireTick = nowEt() + ' ET';
       if (wireCache.length) {
-        $('tape').innerHTML = wireCache.concat(wireCache).slice(0, 40).map((p) => `<b>${p.source}</b> ${p.title}`).join('   ·   ') + '   ·   ';
+        $('tape').innerHTML = wireCache.concat(wireCache).slice(0, 40).map((p) => `<b>${esc(p.source)}</b> ${esc(p.title)}`).join('   ·   ') + '   ·   ';
       }
     }
     function paintWireList() {
       const list = $('wireList');
       if (!list) return;
-      const rows = wireCache.filter((item) => wireFilter === 'ALL' || item.desk === wireFilter);
-      $('wireTick').textContent = wireTick ? 'Last tick ' + wireTick + ' · streaming' : 'Opening the wire…';
-      list.innerHTML = rows.map((item) => `<article class="wire-item" data-${item.slug ? 'slug' : 'url'}="${item.slug || item.url}">
-        <div class="src">${item.source}${justIn(item.publishedAt) ? '<span class="just">JUST IN</span>' : ''}</div>
-        <h2>${item.title}</h2>
-        ${item.summary ? `<p class="lede">${item.summary}</p>` : ''}
-      </article>`).join('') || '<div class="empty">Wire is quiet.</div>';
+      const rows = wireCache.filter((item) => {
+        if (wireFilter !== 'ALL' && item.desk !== wireFilter) return false;
+        if (wireName === 'ALL') return true;
+        return itemNames(item).includes(wireName);
+      });
+      $('wireTick').textContent = wireTick ? 'Last tick ' + wireTick + ' · name-level' : 'Opening the wire…';
+      list.innerHTML = rows.map((item) => {
+        const names = itemNames(item);
+        const key = item.slug ? 'slug' : 'url';
+        const val = item.slug || item.url || '';
+        return `<article class="wire-item" data-${key}="${esc(val)}">
+        <div class="src">${esc(item.source)}${justIn(item.publishedAt) ? '<span class="just">JUST IN</span>' : ''}</div>
+        <h2>${esc(item.title)}</h2>
+        ${names.length ? `<div class="name-tag">${esc(names.join(' · '))}</div>` : ''}
+        ${item.summary ? `<p class="lede">${esc(item.summary)}</p>` : ''}
+      </article>`;
+      }).join('') || '<div class="empty">No print on that name.</div>';
       list.querySelectorAll('[data-slug]').forEach((el) => el.onclick = () => openPost(el.dataset.slug));
       list.querySelectorAll('[data-url]').forEach((el) => el.onclick = () => { window.open(el.dataset.url, '_blank', 'noopener'); });
     }
@@ -834,7 +902,14 @@
             fetchPosts(FILTERS.watchv, 1),
           ]);
           const hero = briefs[0];
-          $('tape').innerHTML = latest.concat(latest).map((p) => `<b>${deskOf(p)}</b> ${p.title}`).join('   ·   ') + '   ·   ';
+          const weights = desk[0] ? parseDeskWeights(desk[0].html || '') : null;
+          let delta = null;
+          if (weights) {
+            try { delta = JSON.parse(localStorage.getItem('uao.pdWeights') || 'null'); } catch (e) { delta = null; }
+            if (delta) delta = { base: weights.base - delta.base, upside: weights.upside - delta.upside, tail: weights.tail - delta.tail };
+            localStorage.setItem('uao.pdWeights', JSON.stringify(weights));
+          }
+          $('tape').innerHTML = latest.concat(latest).map((p) => `<b>${deskOf(p)}</b> ${esc(p.title)}`).join('   ·   ') + '   ·   ';
           $('main').innerHTML = `<div class="pad">
             <div class="folio"><b>${editionLine()}</b><span>New York desk</span></div>
             <div class="kicker">The Universal Owner</div>
@@ -853,29 +928,29 @@
               <button data-go="charts">Charts</button>
               <button id="openCmd">Signals</button>
             </div>
-            ${hero ? `<article class="hero cover" data-slug="${hero.slug}">
-              ${hero.feature_image ? `<img src="${hero.feature_image}" alt="">` : ''}
+            ${hero ? `<article class="hero cover" data-slug="${esc(hero.slug)}">
+              ${hero.feature_image && safeSrc(hero.feature_image) ? `<img src="${esc(safeSrc(hero.feature_image))}" alt="">` : ''}
               <div class="body">
                 <div class="kicker">Today’s intelligence</div>
-                <h2>${hero.title}</h2>
-                <p class="lede">${excerpt(hero)}</p>
+                <h2>${esc(hero.title)}</h2>
+                <p class="lede">${esc(excerpt(hero))}</p>
                 <div class="meta">${fmt(hero.published_at)}${hero.reading_time ? ' · ' + hero.reading_time + ' min' : ''} · The Universal Owner</div>
                 <span class="open">Open the morning brief</span>
               </div>
             </article>` : ''}
-            <div class="mod">
+            <div class="mod" id="openPd">
               <div class="kicker">The Probability Desk</div>
-              <h2>${desk[0] ? desk[0].title : 'Afternoon scenario'}</h2>
-              <p class="lede">${desk[0] ? excerpt(desk[0]) : 'Base, upside and tail — probability-weighted for capital that thinks in decades.'}</p>
-              <div class="meters">
-                <div class="base"><b>BASE</b><span>governed case</span></div>
-                <div class="up"><b>UPSIDE</b><span>convex path</span></div>
-                <div class="tail"><b>TAIL</b><span>break case</span></div>
-              </div>
+              <h2>${desk[0] ? esc(desk[0].title) : 'Afternoon scenario'}</h2>
+              <p class="lede">${desk[0] ? esc(excerpt(desk[0])) : 'Base, upside and tail — probability-weighted for capital that thinks in decades.'}</p>
+              ${weights ? `<div class="meters">
+                <div class="base"><b>${weights.base}%</b><span>BASE${delta ? ' · ' + formatDelta(delta.base) : ''}</span></div>
+                <div class="up"><b>${weights.upside}%</b><span>UPSIDE${delta ? ' · ' + formatDelta(delta.upside) : ''}</span></div>
+                <div class="tail"><b>${weights.tail}%</b><span>TAIL${delta ? ' · ' + formatDelta(delta.tail) : ''}</span></div>
+              </div>` : '<p class="lede">Weights live in the note. We do not invent a book the desk has not printed.</p>'}
               ${desk[0] ? `<div class="meta" style="margin-top:10px">Open the live scenario · ${fmt(desk[0].published_at)}</div>` : ''}
             </div>
             <div class="kicker">Chart of the day</div>
-            <div class="grid">${charts.slice(0,4).map((p) => `<article class="chart" data-slug="${p.slug}">${p.feature_image ? `<img src="${p.feature_image}" alt="">` : ''}<p>${p.title}</p></article>`).join('')}</div>
+            <div class="grid">${charts.slice(0,4).map((p) => `<article class="chart" data-slug="${esc(p.slug)}">${p.feature_image && safeSrc(p.feature_image) ? `<img src="${esc(safeSrc(p.feature_image))}" alt="">` : ''}<p>${esc(p.title)}</p></article>`).join('')}</div>
             ${video[0] ? `<div class="kicker" style="margin-top:16px">Watch</div>${card(video[0])}` : ''}
             ${partnerPlate()}
             <div class="mod" id="openRoom">
@@ -891,7 +966,7 @@
           $('main').querySelectorAll('[data-go]').forEach((b) => b.onclick = () => render(b.dataset.go));
           const cmd = $('openCmd');
           if (cmd) cmd.onclick = () => document.getElementById('app').classList.add('show-cmd');
-          const pd = $('main').querySelector('.mod');
+          const pd = $('openPd');
           if (pd && desk[0]) pd.onclick = () => openPost(desk[0].slug);
           const adv = $('openAdvertise');
           if (adv) adv.onclick = (e) => { e.stopPropagation(); render('advertise'); };
@@ -935,7 +1010,7 @@
                 ${Object.entries(ROOMS).map(([id, room]) => `<button data-room="${id}" class="${id===roomId?'on':''}">${room.title}</button>`).join('')}
               </div>
               <p class="lede">${esc(chamber.kicker)}</p>
-              <div class="chat">${thread.map((m) => `<div class="bubble ${m.desk ? 'desk' : ''}"><div class="who">${esc(m.who)}</div><p>${esc(m.text)}</p></div>`).join('')}</div>
+              <div class="chat">${thread.map((m) => `<div class="bubble ${m.desk ? 'desk' : ''}"><div class="who">${esc(m.who)}${m.at && m.at !== 'house' ? ' · ' + esc(fmt(m.at)) : ''}</div><p>${esc(m.text)}</p></div>`).join('')}</div>
               ${floor ? `<div class="composer">
                 <input id="roomNote" maxlength="${NOTE_MAX}" placeholder="A note for the room — no names." />
                 <button class="primary" id="roomSend" style="padding:11px 14px;border:0;border-radius:8px">Post</button>
@@ -988,7 +1063,7 @@
           $('main').innerHTML = `<div class="pad">
             <div class="kicker">Streaming wire</div>
             <h1>What just moved the book.</h1>
-            <p class="lede">The UAO desk, then the official prints that reprice it — Fed, ECB, SEC, BIS — and a live allocator scan. Ticks while this page is open.</p>
+            <p class="lede">The UAO desk, official prints that reprice it, then a name-level allocator scan — not a newspaper. Ticks while this page is open.</p>
             <p class="tickline" id="wireTick"></p>
             <div class="seg">
               <button data-wf="ALL" class="on">All</button>
@@ -996,11 +1071,20 @@
               <button data-wf="OFFICIAL">Official</button>
               <button data-wf="BOOK">Allocators</button>
             </div>
+            <div class="seg" id="wireNames">
+              <button data-wn="ALL" class="on">All names</button>
+              ${BOOK_NAMES.slice(0,10).map((row) => `<button data-wn="${row[1]}">${row[1]}</button>`).join('')}
+            </div>
             <div id="wireList"></div>
           </div>`;
           $('main').querySelectorAll('[data-wf]').forEach((b) => b.onclick = () => {
             wireFilter = b.dataset.wf;
             $('main').querySelectorAll('[data-wf]').forEach((x) => x.classList.toggle('on', x === b));
+            paintWireList();
+          });
+          $('main').querySelectorAll('[data-wn]').forEach((b) => b.onclick = () => {
+            wireName = b.dataset.wn;
+            $('main').querySelectorAll('[data-wn]').forEach((x) => x.classList.toggle('on', x === b));
             paintWireList();
           });
           paintWireList();
@@ -1032,11 +1116,11 @@
             <div class="kicker">Afternoon scenario desk</div>
             <h1>The Probability Desk</h1>
             <p class="lede">Base, upside and tail — probability-weighted for capital that thinks in decades.</p>
-            <div class="meters">
-              <div class="base"><b>BASE</b><span>governed case</span></div>
-              <div class="up"><b>UPSIDE</b><span>convex path</span></div>
-              <div class="tail"><b>TAIL</b><span>break case</span></div>
-            </div>
+            ${(() => { const w = posts[0] ? parseDeskWeights(posts[0].html || '') : null; return w ? `<div class="meters">
+              <div class="base"><b>${w.base}%</b><span>BASE</span></div>
+              <div class="up"><b>${w.upside}%</b><span>UPSIDE</span></div>
+              <div class="tail"><b>${w.tail}%</b><span>TAIL</span></div>
+            </div>` : '<p class="lede">Weights live in the note. We do not invent a book the desk has not printed.</p>'; })()}
             <button class="pill" id="openCmd2" style="margin:12px 0">Open Command Center</button>
             ${posts.map((p) => card(p)).join('')}
             ${partnerPlate()}
@@ -1059,6 +1143,13 @@
             <div class="kicker">The house</div>
             <h1>Watchlist, institutions, the room.</h1>
             <p class="lede">${mine.length} saved briefing${mine.length===1?'':'s'} on this phone. The rest of the book is the people who allocate it.</p>
+            ${(() => {
+              const seated = member();
+              const status = seatStatus(seated);
+              if (status === 'seated') return `<div class="pending-plate"><div class="kicker">The Room</div><p class="lede">Seated · ${esc(seatLabel(seated))}${seated.peerCode ? ' · ' + esc(seated.peerCode) : ''}.</p></div>`;
+              if (status === 'pending') return `<div class="pending-plate"><div class="kicker">The Room</div><p class="lede">Application with the desk · ${esc(seatLabel(seated))}. The floor is still closed.</p></div>`;
+              return `<div class="pending-plate"><div class="kicker">The Room</div><p class="lede">The brief is complimentary. The room is not open.</p></div>`;
+            })()}
             ${mine.length ? mine.map(compact).join('') : '<div class="empty">Open any brief and tap Save — it stays on this device.</div>'}
             <div class="kicker" style="margin-top:18px">People & institutions</div>
             ${INST.map(([slug, title, blurb]) => `<div class="inst" data-tag="${slug}"><div><b>${title}</b><div class="meta">${blurb}</div></div><div class="chev">›</div></div>`).join('')}
@@ -1123,6 +1214,7 @@
 
     async function openPost(slug) {
       const post = await fetchPost(slug);
+      if (!post) { $('main').innerHTML = '<div class="empty">This briefing is not available.</div>'; return; }
       current = post;
       $('rkicker').textContent = kicker(post);
       $('rtitle').textContent = post.title;
@@ -1279,9 +1371,10 @@
       const role = ($('appRole').value || '').trim();
       const why = ($('appWhy').value || '').trim();
       if (!email || !institution || !role || !why) {
-        $('inviteErr').textContent = '';
+        $('appErr').textContent = 'Email, institution, role, and why this desk.';
         return;
       }
+      $('appErr').textContent = '';
       admit({ email, institution, role, why, via: 'application', at: Date.now(), status: 'pending' });
       closeGarden();
       render('room');

@@ -1,13 +1,21 @@
 import * as WebBrowser from 'expo-web-browser';
+import { useEffect, useState } from 'react';
 import { ScrollView, StyleSheet, Text, View } from 'react-native';
 
 import { MenuRow, Screen, Wordmark } from '@/src/components/Ui';
 import { SubscribeCard } from '@/src/components/SubscribeCard';
 import { PEOPLE, THEMES } from '@/src/lib/classify';
+import { getMember, seatLabel, seatStatus, type Member } from '@/src/lib/garden';
 import { sitePath } from '@/src/api/subscribe';
 import { colors, fonts } from '@/src/theme';
 
 export default function MoreScreen() {
+  const [member, setMember] = useState<Member | null>(null);
+  useEffect(() => {
+    getMember().then(setMember);
+  }, []);
+  const status = seatStatus(member);
+
   return (
     <Screen>
       <ScrollView contentContainerStyle={styles.scroll}>
@@ -16,6 +24,17 @@ export default function MoreScreen() {
           Watchlist, institutions and the same four formats as the website. Save a brief from any
           story — it stays on this phone.
         </Text>
+        <View style={styles.house}>
+          <Text style={styles.heading}>The Room</Text>
+          <Text style={styles.lede}>
+            {status === 'seated'
+              ? `Seated · ${seatLabel(member!)}${member?.peerCode ? ` · ${member.peerCode}` : ''}.`
+              : status === 'pending'
+                ? `Application with the desk · ${seatLabel(member!)}. The floor is still closed.`
+                : 'The brief is complimentary. The room is not open.'}
+          </Text>
+          <MenuRow kicker="Access" title={status ? 'Open the room' : 'Request a seat'} href="/(tabs)/room" />
+        </View>
 
         <Text style={styles.heading}>Watchlist</Text>
         <MenuRow kicker="Saved" title="Briefings on this device" href="/saved" />
@@ -87,4 +106,5 @@ const styles = StyleSheet.create({
     marginBottom: 4,
     fontFamily: fonts.serif,
   },
+  house: { marginTop: 8 },
 });

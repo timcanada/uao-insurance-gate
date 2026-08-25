@@ -1,0 +1,618 @@
+wave,type,slug,title,audience,conversion,priority,status,notes
+1,directory,directory,The Universal Owner Directory,both,advertiser-call,P0,drafted-in-repo,Wave 1 publish pack
+1,directory,directory/legal,Legal counsel for asset owners,both,advertiser-call,P0,drafted-in-repo,Wave 1 publish pack
+1,directory,directory/accounting,Accounting and tax for asset owners,both,advertiser-call,P0,drafted-in-repo,Wave 1 publish pack
+1,directory,directory/technology,Technology for asset owners,both,advertiser-call,P0,drafted-in-repo,Wave 1 publish pack
+1,directory,directory/investment-banking,Investment banking for asset owners,both,advertiser-call,P0,drafted-in-repo,Wave 1 publish pack
+1,explainer,how-pension-funds-retain-counsel,How pension funds retain counsel,both,advertiser-call,P0,drafted-in-repo,Wave 1 publish pack
+1,explainer,family-offices-as-universal-owners,Family offices as universal owners,both,brief,P0,drafted-in-repo,Wave 1 publish pack
+1,explainer,what-does-a-family-office-cio-do,What does a family-office CIO do?,allocator,brief,P0,drafted-in-repo,Wave 1 publish pack
+1,careers,careers/intelligence/relocating-for-an-asset-owner-role,Relocating for an asset-owner role,both,careers-alert,P0,drafted-in-repo,Wave 1 publish pack
+1,city,careers/cities/abu-dhabi,Relocating to Abu Dhabi,both,careers-alert,P0,drafted-in-repo,Wave 1 publish pack
+1,city,careers/cities/singapore,Relocating to Singapore,both,careers-alert,P0,drafted-in-repo,Wave 1 publish pack
+1,city,careers/cities/oslo,Relocating to Oslo,both,careers-alert,P0,drafted-in-repo,Wave 1 publish pack
+1,city,careers/cities/toronto,Relocating to Toronto,both,careers-alert,P0,drafted-in-repo,Wave 1 publish pack
+1,city,careers/cities/london,Relocating to London,both,careers-alert,P0,drafted-in-repo,Wave 1 publish pack
+1,city,careers/cities/riyadh,Relocating to Riyadh,both,careers-alert,P0,drafted-in-repo,Wave 1 publish pack
+1,press,press-desk,Press desk — quote UAO,press,press-quote,P0,drafted-in-repo,Wave 1 publish pack
+1,advertiser,advertise,Advertise packages,service-provider,advertiser-call,P0,drafted-in-repo,Wave 1 publish pack
+2,institution,norges-bank-investment-management-nbim,Norges Bank Investment Management,allocator,brief,P1,live-check,SWF/reserve
+2,institution,public-investment-fund-pif,Public Investment Fund (Saudi Arabia),allocator,brief,P1,live-check,SWF
+2,institution,adia-abu-dhabi-investment-authority,Abu Dhabi Investment Authority,allocator,brief,P1,live-check,SWF
+2,institution,mubadala-investment-company,Mubadala Investment Company,allocator,brief,P1,live-check,SWF
+2,institution,adq-abu-dhabi,ADQ,allocator,brief,P1,live-check,SWF
+2,institution,qatar-investment-authority-qia,Qatar Investment Authority,allocator,brief,P1,live-check,SWF
+2,institution,kuwait-investment-authority-kia,Kuwait Investment Authority,allocator,brief,P1,live-check,SWF
+2,institution,gic-singapore-explained,GIC,allocator,brief,P1,live-check,SWF
+2,institution,temasek-holdings-explained,Temasek,allocator,brief,P1,live-check,SWF/strategic
+2,institution,china-investment-corporation-cic,China Investment Corporation,allocator,brief,P0,needed,SWF
+2,institution,safe-china-reserves,SAFE (China),allocator,brief,P0,needed,Reserve
+2,institution,hkma-exchange-fund,HKMA Exchange Fund,allocator,brief,P0,needed,Reserve
+2,institution,korea-investment-corporation-kic,Korea Investment Corporation,allocator,brief,P0,needed,SWF
+2,institution,future-fund-australia-explained,Future Fund,allocator,brief,P1,live-check,SWF
+2,institution,nz-super-fund-explained,NZ Super Fund,allocator,brief,P0,needed,SWF/pension-reserve
+2,institution,cpp-investments-explained,CPP Investments,allocator,brief,P1,live-check,Public pension
+2,institution,ontario-teachers-pension-plan,Ontario Teachers' Pension Plan,allocator,brief,P0,needed,Public pension
+2,institution,cdpq-explained,CDPQ,allocator,brief,P0,needed,Public pension
+2,institution,psp-investments,PSP Investments,allocator,brief,P0,needed,Public pension
+2,institution,omers-explained,OMERS,allocator,brief,P0,needed,Public pension
+2,institution,aimco-explained,AIMCo,allocator,brief,P0,needed,Public pension
+2,institution,bcimc-bci,BCI,allocator,brief,P0,needed,Public pension
+2,institution,calpers-explained-largest-us-pension-fund,CalPERS,allocator,brief,P1,live-check,Public pension
+2,institution,calstrs-explained,CalSTRS,allocator,brief,P1,live-check,Public pension
+2,institution,wisconsin-investment-board-swib,SWIB,allocator,brief,P1,live-check,Public pension
+2,institution,gpif-japan-explained,GPIF,allocator,brief,P1,live-check,Public pension
+2,institution,abp-netherlands-pension-fund-explained,ABP,allocator,brief,P1,live-check,Public pension
+2,institution,pfzw-netherlands,PFZW,allocator,brief,P0,needed,Public pension
+2,institution,atp-denmark,ATP,allocator,brief,P0,needed,Public pension
+2,institution,alecta-sweden,Alecta,allocator,brief,P0,needed,Public pension
+2,institution,uss-universities-superannuation-scheme,USS,allocator,brief,P1,live-check,Public pension
+2,institution,uss-explained-merge,USS canonical merge,allocator,brief,P1,merge,Public pension
+2,institution,australian-super,AustralianSuper,allocator,brief,P0,needed,Public pension
+2,institution,aware-super,Aware Super,allocator,brief,P0,needed,Public pension
+2,institution,cbus-super,Cbus,allocator,brief,P0,needed,Public pension
+2,institution,nps-korea,National Pension Service (Korea),allocator,brief,P0,needed,Public pension
+2,institution,epfo-india,EPFO (India),allocator,brief,P0,needed,Public pension
+2,institution,employees-provident-fund-malaysia,EPF Malaysia,allocator,brief,P0,needed,Public pension
+2,institution,gepf-south-africa,GEPF,allocator,brief,P0,needed,Public pension
+2,institution,pic-south-africa,Public Investment Corporation,allocator,brief,P0,needed,Public pension
+2,institution,previ-brazil,Previ,allocator,brief,P0,needed,Public pension
+2,institution,afore-xxi-banorte,Afore XXI Banorte,allocator,brief,P0,needed,Pension
+2,institution,yale-investments-office,Yale Investments Office,allocator,brief,P0,needed,Endowment
+2,institution,harvard-management-company,Harvard Management Company,allocator,brief,P0,needed,Endowment
+2,institution,stanford-management-company,Stanford Management Company,allocator,brief,P0,needed,Endowment
+2,institution,princeton-investment-company,PRINCO,allocator,brief,P0,needed,Endowment
+2,institution,mit-investment-management-company,MITIMCo,allocator,brief,P0,needed,Endowment
+2,institution,university-of-texas-imf,UTIMCO,allocator,brief,P0,needed,Endowment
+2,institution,wellcome-trust,Wellcome Trust,allocator,brief,P0,needed,Foundation
+2,institution,gates-foundation-trust,Gates Foundation Trust,allocator,brief,P0,needed,Foundation
+2,institution,ford-foundation,Ford Foundation,allocator,brief,P0,needed,Foundation
+2,institution,khazanah-explained,Khazanah,allocator,brief,P0,needed,SWF
+2,institution,mumtalakat-bahrain,Mumtalakat,allocator,brief,P0,needed,SWF
+2,institution,qia-vs-adia,QIA vs ADIA,allocator,brief,P0,needed,Comparison
+2,institution,nbim-vs-gic,NBIM vs GIC,allocator,brief,P0,needed,Comparison
+2,institution,cpp-vs-calpers,CPP Investments vs CalPERS,allocator,brief,P0,needed,Comparison
+2,institution,otpp-vs-cdpq,OTPP vs CDPQ,allocator,brief,P0,needed,Comparison
+2,institution,pif-vs-mubadala,PIF vs Mubadala,allocator,brief,P0,needed,Comparison
+2,institution,mgx-abu-dhabi-ai-fund,MGX,allocator,brief,P1,live-check,SWF/vehicle
+2,institution,adnoc-investment,ADNOC investment vehicles,allocator,brief,P0,needed,Strategic
+2,institution,aramco-sovereign-adjacent,Aramco as owner-adjacent capital,allocator,brief,P0,needed,Strategic
+2,institution,norges-governance-ministry-finance,NBIM and the Ministry of Finance,allocator,brief,P0,needed,Governance
+2,institution,alaska-permanent-fund,Alaska Permanent Fund,allocator,brief,P0,needed,SWF
+2,institution,alberta-heritage-fund,Alberta Heritage Savings Trust Fund,allocator,brief,P0,needed,SWF
+2,institution,texas-permanent-school-fund,Texas Permanent School Fund,allocator,brief,P0,needed,SWF-like
+2,institution,new-mexico-state-investment-council,NMSIC,allocator,brief,P0,needed,Public pension/SWF-like
+2,institution,irish-strategic-investment-fund,ISIF,allocator,brief,P0,needed,Strategic
+2,institution,bpifrance,Bpifrance,allocator,brief,P0,needed,Strategic
+2,institution,kfw-capital,KfW Capital,allocator,brief,P0,needed,Development
+2,institution,cdc-group-bii,British International Investment,allocator,brief,P0,needed,Development
+2,institution,ifc-as-owner-adjacent,IFC as owner-adjacent,allocator,brief,P0,needed,Development
+2,institution,adib-vs-owner,Do not confuse banks with owners — explainer,allocator,brief,P0,needed,Explainer
+2,institution,new-york-state-common-retirement,NYS Common Retirement Fund,allocator,brief,P0,needed,Public pension
+2,institution,new-york-city-crs,NYC Retirement Systems,allocator,brief,P0,needed,Public pension
+2,institution,florida-sba,Florida State Board of Administration,allocator,brief,P0,needed,Public pension
+2,institution,texas-trs,Teacher Retirement System of Texas,allocator,brief,P0,needed,Public pension
+2,institution,calstrs-vs-calpers,CalSTRS vs CalPERS,allocator,brief,P0,needed,Comparison
+2,institution,ohio-opers,OPERS,allocator,brief,P0,needed,Public pension
+2,institution,ohio-str,STRS Ohio,allocator,brief,P0,needed,Public pension
+2,institution,michigan-sistf,Michigan State Treasurer / SISTF,allocator,brief,P0,needed,Public pension
+2,institution,pennsylvania-psers,PSERS,allocator,brief,P0,needed,Public pension
+2,institution,pennsylvania-sers,SERS Pennsylvania,allocator,brief,P0,needed,Public pension
+2,institution,new-jersey-division-of-investment,NJ Division of Investment,allocator,brief,P0,needed,Public pension
+2,institution,north-carolina-treasurer,North Carolina Treasurer,allocator,brief,P0,needed,Public pension
+2,institution,washington-state-investment-board,WSIB,allocator,brief,P0,needed,Public pension
+2,institution,oregon-pers-investments,Oregon State Treasury / PERS,allocator,brief,P0,needed,Public pension
+2,institution,massachusetts-prim,PRIM,allocator,brief,P0,needed,Public pension
+2,institution,virginia-retirement-system,VRS,allocator,brief,P0,needed,Public pension
+2,institution,georgia-trs,TRS Georgia,allocator,brief,P0,needed,Public pension
+2,institution,illinois-isbi,ISBI,allocator,brief,P0,needed,Public pension
+2,institution,illinois-trs,TRS Illinois,allocator,brief,P0,needed,Public pension
+2,institution,los-angeles-lacroa,LACERA,allocator,brief,P0,needed,Public pension
+2,institution,san-francisco-sfers,SFERS,allocator,brief,P0,needed,Public pension
+2,institution,teacher-retirement-system-of-texas-cio,TRS Texas CIO office,allocator,brief,P0,needed,Public pension
+2,institution,cpp-vs-otpp-vs-cdpq,The Canadian large-plan triangle,allocator,brief,P0,needed,Comparison
+2,institution,unjps-united-nations,UNJSPF,allocator,brief,P0,needed,Pension
+2,institution,cern-pension-fund,CERN Pension Fund,allocator,brief,P0,needed,Pension
+2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
+2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
+2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic
+2,institution,oman-investment-authority,Oman Investment Authority,allocator,brief,P0,needed,SWF
+2,institution,bahrain-mumtalakat-refresh,Mumtalakat (full profile),allocator,brief,P0,needed,SWF
+2,institution,libya-lia,Libyan Investment Authority,allocator,brief,P0,needed,SWF
+2,institution,turkey-tvf,Turkey Wealth Fund,allocator,brief,P0,needed,SWF
+2,institution,russia-nwf-historical,Russian NWF — historical/context only,allocator,brief,P0,needed,SWF
+2,institution,kazakhstan-samruk-kazyna,Samruk-Kazyna,allocator,brief,P0,needed,SWF
+2,institution,azerbaijan-sofar,SOFAZ,allocator,brief,P0,needed,SWF
+2,institution,timor-leste-petroleum-fund,Timor-Leste Petroleum Fund,allocator,brief,P0,needed,SWF
+2,institution,botswana-pula-fund,Pula Fund,allocator,brief,P0,needed,SWF
+2,institution,ghana-petroleum-funds,Ghana Petroleum Funds,allocator,brief,P0,needed,SWF
+2,institution,nsia-nigeria,Nigeria Sovereign Investment Authority,allocator,brief,P0,needed,SWF
+2,institution,angola-fsdea,FSDEA,allocator,brief,P0,needed,SWF
+2,institution,egypt-tsfe,Egypt TSFE,allocator,brief,P0,needed,SWF
+2,institution,morocco-iqtisadi,Moroccan strategic funds,allocator,brief,P0,needed,SWF
+2,institution,indonesia-danantara-inia,Indonesia sovereign/strategic vehicles,allocator,brief,P0,needed,SWF
+2,institution,india-nco-ninf,India NIIF,allocator,brief,P0,needed,Strategic
+2,institution,philippines-maharlika,Maharlika Investment Fund,allocator,brief,P0,needed,SWF
+2,institution,vietnam-scic,SCIC,allocator,brief,P0,needed,SWF
+2,institution,thailand-gic-not,GPF Thailand,allocator,brief,P0,needed,Public pension
+2,institution,hong-kong-mpfa-system,Hong Kong MPF system,allocator,brief,P0,needed,Pension
+2,institution,singapore-cpf,CPF vs GIC vs Temasek,allocator,brief,P0,needed,Comparison
+2,institution,japan-gpif-vs-pension-funds,GPIF vs smaller Japanese plans,allocator,brief,P0,needed,Comparison
+2,institution,canada-pension-model-explained,Canadian pension model (franchise),allocator,brief,P0,needed,Explainer
+2,institution,yale-endowment-model-merge,Yale model — merge twins,allocator,brief,P1,merge,merge
+2,institution,harvard-vs-yale-endowment,Harvard vs Yale endowment,allocator,brief,P0,needed,Comparison
+2,institution,princeton-vs-stanford-endowment,Princeton vs Stanford,allocator,brief,P0,needed,Comparison
+2,institution,notre-dame-endowment,Notre Dame endowment,allocator,brief,P0,needed,Endowment
+2,institution,duke-endowment-vs-duke-university,Duke (disambiguation),allocator,brief,P0,needed,Endowment
+2,institution,columbia-investment-management,Columbia IMC,allocator,brief,P0,needed,Endowment
+2,institution,upenn-investment-office,Penn investment office,allocator,brief,P0,needed,Endowment
+2,institution,chicago-endowment,University of Chicago endowment,allocator,brief,P0,needed,Endowment
+2,institution,northwestern-endowment,Northwestern endowment,allocator,brief,P0,needed,Endowment
+2,institution,johns-hopkins-endowment,Johns Hopkins endowment,allocator,brief,P0,needed,Endowment
+2,institution,nyu-endowment,NYU endowment,allocator,brief,P0,needed,Endowment
+2,institution,usc-endowment,USC endowment,allocator,brief,P0,needed,Endowment
+2,institution,university-of-california-regents,UC Investments,allocator,brief,P0,needed,Endowment/public
+2,institution,university-of-michigan-endowment,University of Michigan,allocator,brief,P0,needed,Endowment
+2,institution,utimco-vs-texas-trs,UTIMCO vs TRS Texas,allocator,brief,P0,needed,Comparison
+2,institution,canadian-university-endowments-hub,Canadian university endowments,allocator,brief,P0,needed,Endowment
+2,institution,oxford-endowment-ousl,Oxford endowments,allocator,brief,P0,needed,Endowment
+2,institution,cambridge-endowment,Cambridge endowments,allocator,brief,P0,needed,Endowment
+2,institution,eth-zurich-foundation,ETH Foundation,allocator,brief,P0,needed,Endowment
+2,institution,kaust-endowment,KAUST endowment,allocator,brief,P0,needed,Endowment
+2,institution,nus-endowment,NUS endowment,allocator,brief,P0,needed,Endowment
+2,institution,allianz-investment-management,Allianz investment book,allocator,brief,P0,needed,Insurer
+2,institution,axa-investment-managers-owner-side,AXA as owner,allocator,brief,P0,needed,Insurer
+2,institution,prudential-pgim-owner-side,Prudential as owner,allocator,brief,P0,needed,Insurer
+2,institution,metlife-investment-management-owner,MetLife as owner,allocator,brief,P0,needed,Insurer
+2,institution,nippon-life,Nippon Life,allocator,brief,P0,needed,Insurer
+2,institution,dai-ichi-life,Dai-ichi Life,allocator,brief,P0,needed,Insurer
+2,institution,manulife-as-owner,Manulife as owner,allocator,brief,P0,needed,Insurer
+2,institution,sun-life-as-owner,Sun Life as owner,allocator,brief,P0,needed,Insurer
+2,institution,legal-and-general-as-owner,Legal & General as owner,allocator,brief,P0,needed,Insurer
+2,institution,aviva-as-owner,Aviva as owner,allocator,brief,P0,needed,Insurer
+2,institution,swiss-re-investment,Swiss Re investment office,allocator,brief,P0,needed,Insurer
+2,institution,munich-re-investment,Munich Re investment office,allocator,brief,P0,needed,Insurer
+2,institution,aia-as-owner,AIA as owner,allocator,brief,P0,needed,Insurer
+2,institution,ping-an-as-owner,Ping An as owner,allocator,brief,P0,needed,Insurer
+2,person,people/allocator-class/yasir-al-rumayyan-pif-governor,Yasir Al-Rumayyan,allocator,brief,P0,live-check,Verify current title from official source on the day of publish
+2,person,people/allocator-class/nicolai-tangen-nbim,Nicolai Tangen,allocator,brief,P0,needed,Verify current title from official source on the day of publish
+2,person,people/allocator-class/john-graham-cpp-investments-ceo,John Graham,allocator,brief,P0,live-check,Verify current title from official source on the day of publish
+2,person,people/allocator-class/marcie-frost-calpers-ceo,Marcie Frost,allocator,brief,P0,live-check,Verify current title from official source on the day of publish
+2,person,people/allocator-class/jo-taylor-otpp,Jo Taylor,allocator,brief,P0,needed,Verify current title from official source on the day of publish
+2,person,people/allocator-class/deborah-orida-psp,Deborah Orida,allocator,brief,P0,needed,Verify current title from official source on the day of publish
+2,person,people/allocator-class/charles-emond-cdpq,Charles Emond,allocator,brief,P0,needed,Verify current title from official source on the day of publish
+2,person,people/allocator-class/lim-chow-kiat-gic,Lim Chow Kiat,allocator,brief,P0,needed,Verify current title from official source on the day of publish
+2,person,people/allocator-class/dilhan-pillay-temasek,Dilhan Pillay Sandrasegara,allocator,brief,P0,needed,Verify current title from official source on the day of publish
+2,person,people/allocator-class/mark-machin-alumni-map,Canadian pension alumni graph (hub),allocator,brief,P0,needed,Verify current title from official source on the day of publish
+2,person,people/allocator-class/calpers-cio-current,CalPERS CIO (current seat — verify name at publish),allocator,brief,P0,needed,Verify current title from official source on the day of publish
+2,person,people/allocator-class/calstrs-cio-current,CalSTRS CIO (verify at publish),allocator,brief,P0,needed,Verify current title from official source on the day of publish
+2,person,people/allocator-class/gpif-cio-current,GPIF CIO (verify at publish),allocator,brief,P0,needed,Verify current title from official source on the day of publish
+2,person,people/allocator-class/abp-cio-current,ABP CIO (verify at publish),allocator,brief,P0,needed,Verify current title from official source on the day of publish
+2,person,people/allocator-class/future-fund-cio,Future Fund CIO (verify at publish),allocator,brief,P0,needed,Verify current title from official source on the day of publish
+2,person,people/allocator-class/harvard-cio-current,Harvard Management Company CEO/CIO,allocator,brief,P0,needed,Verify current title from official source on the day of publish
+2,person,people/allocator-class/yale-cio-current,Yale CIO,allocator,brief,P0,needed,Verify current title from official source on the day of publish
+2,person,people/allocator-class/wellcome-cio-current,Wellcome Trust CIO,allocator,brief,P0,needed,Verify current title from official source on the day of publish
+2,person,people/allocator-class/adia-managing-director,ADIA MD (verify at publish),allocator,brief,P0,needed,Verify current title from official source on the day of publish
+2,person,people/allocator-class/mubadala-ceo,Mubadala CEO (verify at publish),allocator,brief,P0,needed,Verify current title from official source on the day of publish
+2,person,people/allocator-class/qia-ceo,QIA CEO (verify at publish),allocator,brief,P0,needed,Verify current title from official source on the day of publish
+2,person,people/allocator-class/kia-md,KIA managing director (verify at publish),allocator,brief,P0,needed,Verify current title from official source on the day of publish
+2,person,people/allocator-class/cic-chairman,CIC leadership (verify at publish),allocator,brief,P0,needed,Verify current title from official source on the day of publish
+2,person,people/allocator-class/nps-korea-cio,NPS Korea CIO (verify at publish),allocator,brief,P0,needed,Verify current title from official source on the day of publish
+2,person,people/allocator-class/australiansuper-cio,AustralianSuper CIO,allocator,brief,P0,needed,Verify current title from official source on the day of publish
+2,person,people/allocator-class/uss-cio,USS CIO,allocator,brief,P0,needed,Verify current title from official source on the day of publish
+2,person,people/allocator-class/swib-cio,SWIB CIO,allocator,brief,P0,needed,Verify current title from official source on the day of publish
+2,person,people/allocator-class/aimco-ceo,AIMCo CEO,allocator,brief,P0,needed,Verify current title from official source on the day of publish
+2,person,people/allocator-class/omers-cio,OMERS CIO,allocator,brief,P0,needed,Verify current title from official source on the day of publish
+2,city,careers/cities/new-york,Relocating to New York for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/boston,Relocating to Boston for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/san-francisco,Relocating to San Francisco for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/sacramento,Relocating to Sacramento for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/montreal,Relocating to Montréal for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/calgary,Relocating to Calgary for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/vancouver,Relocating to Vancouver for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+2,city,careers/cities/dubai,Relocating to Dubai for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/doha,Relocating to Doha for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/kuwait-city,Relocating to Kuwait City for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+2,city,careers/cities/hong-kong,Relocating to Hong Kong for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/tokyo,Relocating to Tokyo for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/seoul,Relocating to Seoul for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+2,city,careers/cities/sydney,Relocating to Sydney for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/melbourne,Relocating to Melbourne for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/wellington,Relocating to Wellington for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+2,city,careers/cities/amsterdam,Relocating to Amsterdam for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/the-hague,Relocating to The Hague for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/stockholm,Relocating to Stockholm for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/copenhagen,Relocating to Copenhagen for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+2,city,careers/cities/zurich,Relocating to Zurich for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/geneva,Relocating to Geneva for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/frankfurt,Relocating to Frankfurt for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/paris,Relocating to Paris for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/dublin,Relocating to Dublin for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/luxembourg,Relocating to Luxembourg for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/milan,Relocating to Milan for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/madrid,Relocating to Madrid for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/johannesburg,Relocating to Johannesburg for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/cape-town,Relocating to Cape Town for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/nairobi,Relocating to Nairobi for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/lagos,Relocating to Lagos for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/sao-paulo,Relocating to São Paulo for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/mexico-city,Relocating to Mexico City for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/santiago,Relocating to Santiago for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/beijing,Relocating to Beijing for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/shanghai,Relocating to Shanghai for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/mumbai,Relocating to Mumbai for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/kuala-lumpur,Relocating to Kuala Lumpur for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/jakarta,Relocating to Jakarta for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/manila,Relocating to Manila for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/taipei,Relocating to Taipei for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/tel-aviv,Relocating to Tel Aviv for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/istanbul,Relocating to Istanbul for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/vienna,Relocating to Vienna for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/brussels,Relocating to Brussels for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/warsaw,Relocating to Warsaw for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/helsinki,Relocating to Helsinki for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/reykjavik,Relocating to Reykjavik for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+3,city,careers/cities/perth,Relocating to Perth for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+2,explainer,how-do-family-offices-hire-cios,How do family offices hire CIOs?,allocator,brief,P1,needed,
+2,explainer,how-do-sovereign-wealth-funds-hire-lawyers,How do sovereign wealth funds hire lawyers?,allocator,brief,P1,needed,
+2,explainer,what-is-a-family-office-technology-stack,What is a family-office technology stack?,allocator,brief,P1,needed,
+2,explainer,what-does-an-investment-bank-do-for-a-pension-fund,What does an investment bank do for a pension fund?,allocator,brief,P1,needed,
+2,explainer,how-do-endowments-pay-cios,How are endowment CIOs paid? (sourced ranges only),allocator,brief,P1,needed,
+2,explainer,what-is-a-strategic-council-membership-for-asset-owners,What is a strategic research membership?,allocator,brief,P1,needed,
+2,explainer,how-to-get-quoted-as-an-asset-owner-publication,How newsrooms quote allocator publications,allocator,brief,P1,needed,
+2,explainer,what-is-the-canadian-pension-model,What is the Canadian pension model?,allocator,brief,P1,needed,
+2,explainer,what-is-a-development-finance-institution,What is a DFI vs a SWF?,allocator,brief,P1,needed,
+2,explainer,how-do-insurers-invest-differently-from-pensions,How do insurers invest differently from pensions?,allocator,brief,P1,needed,
+2,explainer,what-is-an-investment-committee,What is an investment committee?,allocator,brief,P1,needed,
+1,explainer,what-is-a-reference-portfolio-merge,Merge reference-portfolio twins,allocator,brief,P1,merge,
+1,explainer,what-is-a-total-portfolio-approach-merge,Merge TPA twins,allocator,brief,P1,merge,
+1,explainer,santiago-principles-merge,Merge Santiago twins,allocator,brief,P1,merge,
+2,explainer,how-do-pensions-use-ocios,How do pensions use OCIOs?,allocator,brief,P1,needed,
+2,explainer,when-should-a-family-office-use-an-ocio,When should a family office use an OCIO?,allocator,brief,P1,needed,
+2,explainer,what-is-a-fund-of-one,What is a fund-of-one?,allocator,brief,P1,needed,
+2,explainer,what-is-an-sma-for-a-family-office,What is an SMA for a family office?,allocator,brief,P1,needed,
+2,explainer,how-do-swfs-think-about-sanctions,How do SWFs think about sanctions?,allocator,brief,P1,needed,
+2,explainer,what-is-look-through-risk,What is look-through risk?,allocator,brief,P1,needed,
+2,explainer,what-is-a-co-invest-committee,What is a co-invest committee?,allocator,brief,P1,needed,
+2,explainer,how-do-public-pensions-publish-holdings,How do public pensions publish holdings?,allocator,brief,P1,needed,
+2,explainer,what-is-form-pf-vs-n-px,Form PF vs N-PX for owners,allocator,brief,P1,needed,
+2,explainer,how-do-gulf-funds-work-with-placement-agents,Gulf funds and placement agents,allocator,brief,P1,needed,
+2,explainer,what-is-a-family-constitution,What is a family constitution?,allocator,brief,P1,needed,
+2,explainer,what-is-next-gen-governance,What is next-gen governance in a family office?,allocator,brief,P1,needed,
+2,explainer,how-do-endowments-set-spending-rules,How do endowments set spending rules?,allocator,brief,P1,needed,
+2,explainer,what-is-a-smoothing-rule,What is a spending smoothing rule?,allocator,brief,P1,needed,
+2,explainer,how-do-corporate-pensions-run-de-risking,How do corporate pensions de-risk?,allocator,brief,P1,needed,
+2,explainer,what-is-a-journey-plan,What is a UK journey plan?,allocator,brief,P1,needed,
+2,explainer,how-do-australian-supers-differ-from-us-public-plans,Australian super vs US public plans,allocator,brief,P1,needed,
+2,explainer,what-is-a-superannuation-trustee,What is a superannuation trustee?,allocator,brief,P1,needed,
+2,explainer,how-do-latam-pension-afps-invest,How do Latin American AFPs invest?,allocator,brief,P1,needed,
+2,explainer,what-is-an-afore,What is an Afore?,allocator,brief,P1,needed,
+2,explainer,how-do-african-sovereign-funds-differ,How do African sovereign funds differ?,allocator,brief,P1,needed,
+2,explainer,what-is-the-nigeria-sovereign-investment-authority,NSIA explained,allocator,brief,P1,needed,
+2,explainer,what-is-the-angola-fsdea,FSDEA explained,allocator,brief,P1,needed,
+2,explainer,what-is-pula-fund,Pula Fund explained,allocator,brief,P1,needed,
+2,explainer,how-do-central-bank-reserves-differ-from-swfs,Reserves vs SWFs (defend existing),allocator,brief,P1,needed,
+2,explainer,what-is-a-stabilization-fund,What is a stabilization fund?,allocator,brief,P1,needed,
+2,explainer,how-do-owners-use-secondaries,How do owners use secondaries?,allocator,brief,P1,needed,
+2,explainer,what-is-a-gp-led-secondary-for-an-lp,GP-led secondaries for LPs,allocator,brief,P1,needed,
+2,explainer,how-do-owners-think-about-tokenized-funds,Tokenized funds for owners,allocator,brief,P1,needed,
+2,explainer,what-is-operational-due-diligence-for-an-lp,ODD for asset owners,allocator,brief,P1,needed,
+2,explainer,how-do-owners-run-manager-selection,How owners run manager selection,allocator,brief,P1,needed,
+2,explainer,what-is-a-consultant-database,What is a consultant database?,allocator,brief,P1,needed,
+2,explainer,how-do-search-firms-work-for-cio-mandates,How search firms run CIO mandates,allocator,brief,P1,needed,
+2,explainer,what-is-a-retained-search,What is a retained search?,allocator,brief,P1,needed,
+2,explainer,how-do-compensation-consultants-price-cio-roles,CIO compensation consultants,allocator,brief,P1,needed,
+2,explainer,what-is-carried-interest-inside-an-asset-owner,Carry inside an asset owner,allocator,brief,P1,needed,
+2,explainer,how-do-owners-handle-personal-trading,Personal trading policies,allocator,brief,P1,needed,
+2,explainer,what-is-a-code-of-ethics-for-an-investment-office,Investment-office code of ethics,allocator,brief,P1,needed,
+2,explainer,how-do-owners-disclose-climate-votes,Climate vote disclosure,allocator,brief,P1,needed,
+2,explainer,what-is-a-stewardship-code,What is a stewardship code?,allocator,brief,P1,needed,
+2,explainer,how-do-japanese-pensions-steward,Stewardship in Japanese pensions,allocator,brief,P1,needed,
+2,explainer,what-is-the-uk-stewardship-code,UK Stewardship Code for owners,allocator,brief,P1,needed,
+2,explainer,how-do-family-offices-think-about-philanthropy-vs-the-book,Philanthropy vs the investment book,allocator,brief,P1,needed,
+2,explainer,what-is-impact-alongside-a-universal-owner-book,Impact vs universal ownership,allocator,brief,P1,needed,
+2,explainer,how-do-owners-underwrite-data-centers,Underwriting data centers,allocator,brief,P1,needed,
+2,explainer,how-do-owners-underwrite-ports,Underwriting ports,allocator,brief,P1,needed,
+2,explainer,how-do-owners-underwrite-grids,Underwriting grids,allocator,brief,P1,needed,
+2,explainer,what-is-a-chokepoint-for-a-universal-owner,What is a chokepoint?,allocator,brief,P1,needed,
+2,explainer,how-does-insurance-close-a-strait,Insurance as a chokepoint (refresh Hormuz research),allocator,brief,P1,needed,
+2,explainer,what-is-the-capital-stage-ledger,Capital Stage Ledger (refresh),allocator,brief,P1,needed,
+2,explainer,how-to-read-a-probability-desk-scenario,How to read a Probability Desk scenario,allocator,brief,P1,needed,
+2,explainer,what-is-a-tripwire-in-scenario-analysis,What is a tripwire?,allocator,brief,P1,needed,
+2,explainer,how-do-boards-use-scenario-weights,How boards use scenario weights,allocator,brief,P1,needed,
+2,explainer,what-publications-do-cios-read,What publications do CIOs read?,allocator,brief,P1,needed,
+2,explainer,who-covers-sovereign-wealth-funds,Who covers sovereign wealth funds?,allocator,brief,P1,needed,
+2,explainer,ipe-vs-pensions-and-investments-vs-uao,IPE vs P&I vs UAO (honest comparison),allocator,brief,P1,needed,
+2,explainer,what-is-swfi-vs-a-newsroom,SWFI vs a newsroom,allocator,brief,P1,needed,
+2,explainer,how-do-service-providers-advertise-to-asset-owners,How service providers advertise to owners,both,brief,P1,needed,
+2,explainer,what-does-a-20k-a-month-media-buy-get-you,What a $20k/month institutional media buy is,both,brief,P1,needed,
+2,explainer,how-do-recruiters-reach-sovereign-fund-talent,How recruiters reach SWF talent,both,brief,P1,needed,
+2,explainer,what-is-an-institutional-talent-desk,What is an Institutional Talent Desk?,allocator,brief,P1,needed,
+2,explainer,how-do-people-moves-signal-allocation-changes,People moves as allocation signals,allocator,brief,P1,needed,
+2,explainer,what-is-in-housing-of-private-markets,In-housing private markets,allocator,brief,P1,needed,
+2,explainer,how-do-owners-open-a-london-office,How owners open a London office,allocator,brief,P1,needed,
+2,explainer,how-do-owners-open-a-new-york-office,How owners open a New York office,allocator,brief,P1,needed,
+2,explainer,how-do-owners-open-a-singapore-office,How owners open a Singapore office,allocator,brief,P1,needed,
+2,explainer,what-is-a-representative-office-vs-a-desk,Rep office vs desk,allocator,brief,P1,needed,
+2,explainer,how-do-sanctions-change-a-family-office-bank,Sanctions and family-office banking,allocator,brief,P1,needed,
+2,explainer,what-is-a-multi-custodian-model,Multi-custodian model,allocator,brief,P1,needed,
+2,explainer,how-do-owners-pick-a-custodian,How owners pick a custodian,allocator,brief,P1,needed,
+2,explainer,what-is-an-administrator-for-a-pension-plan,Pension administrators,allocator,brief,P1,needed,
+2,explainer,how-do-cyber-insurers-underwrite-family-offices,Cyber insurance for family offices,allocator,brief,P1,needed,
+2,explainer,what-is-principal-protection-for-a-family,Principal protection (non-advice),allocator,brief,P1,needed,
+2,explainer,how-do-next-gen-members-join-an-ic,Next-gen on the investment committee,allocator,brief,P1,needed,
+2,explainer,what-is-a-family-investment-committee,Family investment committee,allocator,brief,P1,needed,
+2,explainer,how-do-single-family-offices-unbundle,How SFOs unbundle,allocator,brief,P1,needed,
+2,explainer,what-is-a-multi-family-office-fee,MFO fees (sourced only),allocator,brief,P1,needed,
+2,explainer,how-do-pensions-use-placement-agents,Pensions and placement agents,allocator,brief,P1,needed,
+2,explainer,what-is-a-capital-introduction,What is cap intro for an owner?,allocator,brief,P1,needed,
+2,explainer,how-do-owners-think-about-ipo-allocations,IPO allocations for owners,allocator,brief,P1,needed,
+2,explainer,what-is-a-sovereign-co-invest-in-infrastructure,Sovereign co-invests in infrastructure,allocator,brief,P1,needed,
+2,explainer,how-do-gulf-funds-invest-in-sports,Gulf funds and sports assets,allocator,brief,P1,needed,
+2,explainer,how-do-gulf-funds-invest-in-ai,Gulf funds and AI,allocator,brief,P1,needed,
+2,explainer,what-is-patriotic-capital,What is patriotic capital?,allocator,brief,P1,needed,
+2,explainer,how-do-owners-treat-defense-as-an-asset-class,Defense as an asset class,allocator,brief,P1,needed,
+2,explainer,what-is-a-national-security-screen-on-a-deal,National security screens,allocator,brief,P1,needed,
+2,explainer,how-do-cfius-and-peers-affect-swfs,CFIUS and SWFs,allocator,brief,P1,needed,
+2,explainer,what-is-golden-share,What is a golden share?,allocator,brief,P1,needed,
+2,explainer,how-do-owners-map-supply-chains,Supply-chain mapping for owners,allocator,brief,P1,needed,
+2,explainer,what-is-a-universal-owner-externality,Universal-owner externalities,allocator,brief,P1,needed,
+2,explainer,how-to-use-uao-registry,How to use the UAO Registry,allocator,brief,P1,needed,
+2,explainer,what-is-the-uao-100,What is the UAO 100?,allocator,brief,P1,needed,
+2,explainer,how-we-audit-readership,How UAO audits readership (public version),allocator,brief,P1,needed,
+3,geo-hub,geo/norway/sovereign-wealth-funds,Sovereign Wealth Funds in Norway,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/norway/public-pensions,Public Pensions in Norway,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/norway/family-offices,Family Offices in Norway,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/norway/endowments,Endowments in Norway,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/norway/insurers,Insurers in Norway,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/saudi-arabia/sovereign-wealth-funds,Sovereign Wealth Funds in Saudi Arabia,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/saudi-arabia/public-pensions,Public Pensions in Saudi Arabia,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/saudi-arabia/family-offices,Family Offices in Saudi Arabia,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/saudi-arabia/endowments,Endowments in Saudi Arabia,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/saudi-arabia/insurers,Insurers in Saudi Arabia,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/united-arab-emirates/sovereign-wealth-funds,Sovereign Wealth Funds in United Arab Emirates,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/united-arab-emirates/public-pensions,Public Pensions in United Arab Emirates,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/united-arab-emirates/family-offices,Family Offices in United Arab Emirates,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/united-arab-emirates/endowments,Endowments in United Arab Emirates,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/united-arab-emirates/insurers,Insurers in United Arab Emirates,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/qatar/sovereign-wealth-funds,Sovereign Wealth Funds in Qatar,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/qatar/public-pensions,Public Pensions in Qatar,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/qatar/family-offices,Family Offices in Qatar,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/qatar/endowments,Endowments in Qatar,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/qatar/insurers,Insurers in Qatar,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/kuwait/sovereign-wealth-funds,Sovereign Wealth Funds in Kuwait,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/kuwait/public-pensions,Public Pensions in Kuwait,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/kuwait/family-offices,Family Offices in Kuwait,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/kuwait/endowments,Endowments in Kuwait,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/kuwait/insurers,Insurers in Kuwait,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/singapore/sovereign-wealth-funds,Sovereign Wealth Funds in Singapore,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/singapore/public-pensions,Public Pensions in Singapore,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/singapore/family-offices,Family Offices in Singapore,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/singapore/endowments,Endowments in Singapore,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/singapore/insurers,Insurers in Singapore,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/china/sovereign-wealth-funds,Sovereign Wealth Funds in China,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/china/public-pensions,Public Pensions in China,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/china/family-offices,Family Offices in China,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/china/endowments,Endowments in China,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/china/insurers,Insurers in China,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/hong-kong/sovereign-wealth-funds,Sovereign Wealth Funds in Hong Kong,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/hong-kong/public-pensions,Public Pensions in Hong Kong,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/hong-kong/family-offices,Family Offices in Hong Kong,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/hong-kong/endowments,Endowments in Hong Kong,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/hong-kong/insurers,Insurers in Hong Kong,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/japan/sovereign-wealth-funds,Sovereign Wealth Funds in Japan,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/japan/public-pensions,Public Pensions in Japan,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/japan/family-offices,Family Offices in Japan,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/japan/endowments,Endowments in Japan,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/japan/insurers,Insurers in Japan,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/south-korea/sovereign-wealth-funds,Sovereign Wealth Funds in South Korea,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/south-korea/public-pensions,Public Pensions in South Korea,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/south-korea/family-offices,Family Offices in South Korea,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/south-korea/endowments,Endowments in South Korea,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/south-korea/insurers,Insurers in South Korea,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/australia/sovereign-wealth-funds,Sovereign Wealth Funds in Australia,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/australia/public-pensions,Public Pensions in Australia,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/australia/family-offices,Family Offices in Australia,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/australia/endowments,Endowments in Australia,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/australia/insurers,Insurers in Australia,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/new-zealand/sovereign-wealth-funds,Sovereign Wealth Funds in New Zealand,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/new-zealand/public-pensions,Public Pensions in New Zealand,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/new-zealand/family-offices,Family Offices in New Zealand,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/new-zealand/endowments,Endowments in New Zealand,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/new-zealand/insurers,Insurers in New Zealand,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/canada/sovereign-wealth-funds,Sovereign Wealth Funds in Canada,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/canada/public-pensions,Public Pensions in Canada,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/canada/family-offices,Family Offices in Canada,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/canada/endowments,Endowments in Canada,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/canada/insurers,Insurers in Canada,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/united-states/sovereign-wealth-funds,Sovereign Wealth Funds in United States,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/united-states/public-pensions,Public Pensions in United States,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/united-states/family-offices,Family Offices in United States,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/united-states/endowments,Endowments in United States,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/united-states/insurers,Insurers in United States,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/united-kingdom/sovereign-wealth-funds,Sovereign Wealth Funds in United Kingdom,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/united-kingdom/public-pensions,Public Pensions in United Kingdom,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/united-kingdom/family-offices,Family Offices in United Kingdom,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/united-kingdom/endowments,Endowments in United Kingdom,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/united-kingdom/insurers,Insurers in United Kingdom,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/netherlands/sovereign-wealth-funds,Sovereign Wealth Funds in Netherlands,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/netherlands/public-pensions,Public Pensions in Netherlands,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/netherlands/family-offices,Family Offices in Netherlands,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/netherlands/endowments,Endowments in Netherlands,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/netherlands/insurers,Insurers in Netherlands,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/denmark/sovereign-wealth-funds,Sovereign Wealth Funds in Denmark,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/denmark/public-pensions,Public Pensions in Denmark,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/denmark/family-offices,Family Offices in Denmark,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/denmark/endowments,Endowments in Denmark,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/denmark/insurers,Insurers in Denmark,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/sweden/sovereign-wealth-funds,Sovereign Wealth Funds in Sweden,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/sweden/public-pensions,Public Pensions in Sweden,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/sweden/family-offices,Family Offices in Sweden,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/sweden/endowments,Endowments in Sweden,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/sweden/insurers,Insurers in Sweden,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/switzerland/sovereign-wealth-funds,Sovereign Wealth Funds in Switzerland,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/switzerland/public-pensions,Public Pensions in Switzerland,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/switzerland/family-offices,Family Offices in Switzerland,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/switzerland/endowments,Endowments in Switzerland,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/switzerland/insurers,Insurers in Switzerland,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/germany/sovereign-wealth-funds,Sovereign Wealth Funds in Germany,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/germany/public-pensions,Public Pensions in Germany,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/germany/family-offices,Family Offices in Germany,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/germany/endowments,Endowments in Germany,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/germany/insurers,Insurers in Germany,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/france/sovereign-wealth-funds,Sovereign Wealth Funds in France,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/france/public-pensions,Public Pensions in France,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/france/family-offices,Family Offices in France,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/france/endowments,Endowments in France,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/france/insurers,Insurers in France,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/ireland/sovereign-wealth-funds,Sovereign Wealth Funds in Ireland,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/ireland/public-pensions,Public Pensions in Ireland,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/ireland/family-offices,Family Offices in Ireland,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/ireland/endowments,Endowments in Ireland,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/ireland/insurers,Insurers in Ireland,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/italy/sovereign-wealth-funds,Sovereign Wealth Funds in Italy,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/italy/public-pensions,Public Pensions in Italy,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/italy/family-offices,Family Offices in Italy,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/italy/endowments,Endowments in Italy,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/italy/insurers,Insurers in Italy,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/spain/sovereign-wealth-funds,Sovereign Wealth Funds in Spain,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/spain/public-pensions,Public Pensions in Spain,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/spain/family-offices,Family Offices in Spain,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/spain/endowments,Endowments in Spain,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/spain/insurers,Insurers in Spain,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/india/sovereign-wealth-funds,Sovereign Wealth Funds in India,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/india/public-pensions,Public Pensions in India,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/india/family-offices,Family Offices in India,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/india/endowments,Endowments in India,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/india/insurers,Insurers in India,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/malaysia/sovereign-wealth-funds,Sovereign Wealth Funds in Malaysia,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/malaysia/public-pensions,Public Pensions in Malaysia,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/malaysia/family-offices,Family Offices in Malaysia,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/malaysia/endowments,Endowments in Malaysia,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/malaysia/insurers,Insurers in Malaysia,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/indonesia/sovereign-wealth-funds,Sovereign Wealth Funds in Indonesia,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/indonesia/public-pensions,Public Pensions in Indonesia,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/indonesia/family-offices,Family Offices in Indonesia,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/indonesia/endowments,Endowments in Indonesia,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/indonesia/insurers,Insurers in Indonesia,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/brazil/sovereign-wealth-funds,Sovereign Wealth Funds in Brazil,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/brazil/public-pensions,Public Pensions in Brazil,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/brazil/family-offices,Family Offices in Brazil,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/brazil/endowments,Endowments in Brazil,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/brazil/insurers,Insurers in Brazil,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/mexico/sovereign-wealth-funds,Sovereign Wealth Funds in Mexico,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/mexico/public-pensions,Public Pensions in Mexico,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/mexico/family-offices,Family Offices in Mexico,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/mexico/endowments,Endowments in Mexico,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/mexico/insurers,Insurers in Mexico,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/chile/sovereign-wealth-funds,Sovereign Wealth Funds in Chile,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/chile/public-pensions,Public Pensions in Chile,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/chile/family-offices,Family Offices in Chile,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/chile/endowments,Endowments in Chile,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/chile/insurers,Insurers in Chile,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/south-africa/sovereign-wealth-funds,Sovereign Wealth Funds in South Africa,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/south-africa/public-pensions,Public Pensions in South Africa,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/south-africa/family-offices,Family Offices in South Africa,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/south-africa/endowments,Endowments in South Africa,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/south-africa/insurers,Insurers in South Africa,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/nigeria/sovereign-wealth-funds,Sovereign Wealth Funds in Nigeria,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/nigeria/public-pensions,Public Pensions in Nigeria,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/nigeria/family-offices,Family Offices in Nigeria,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/nigeria/endowments,Endowments in Nigeria,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/nigeria/insurers,Insurers in Nigeria,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/kenya/sovereign-wealth-funds,Sovereign Wealth Funds in Kenya,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/kenya/public-pensions,Public Pensions in Kenya,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/kenya/family-offices,Family Offices in Kenya,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/kenya/endowments,Endowments in Kenya,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/kenya/insurers,Insurers in Kenya,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/egypt/sovereign-wealth-funds,Sovereign Wealth Funds in Egypt,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/egypt/public-pensions,Public Pensions in Egypt,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/egypt/family-offices,Family Offices in Egypt,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/egypt/endowments,Endowments in Egypt,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/egypt/insurers,Insurers in Egypt,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/turkey/sovereign-wealth-funds,Sovereign Wealth Funds in Turkey,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/turkey/public-pensions,Public Pensions in Turkey,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/turkey/family-offices,Family Offices in Turkey,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/turkey/endowments,Endowments in Turkey,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/turkey/insurers,Insurers in Turkey,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/israel/sovereign-wealth-funds,Sovereign Wealth Funds in Israel,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/israel/public-pensions,Public Pensions in Israel,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/israel/family-offices,Family Offices in Israel,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/israel/endowments,Endowments in Israel,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/israel/insurers,Insurers in Israel,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/poland/sovereign-wealth-funds,Sovereign Wealth Funds in Poland,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/poland/public-pensions,Public Pensions in Poland,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/poland/family-offices,Family Offices in Poland,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/poland/endowments,Endowments in Poland,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/poland/insurers,Insurers in Poland,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/finland/sovereign-wealth-funds,Sovereign Wealth Funds in Finland,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/finland/public-pensions,Public Pensions in Finland,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/finland/family-offices,Family Offices in Finland,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/finland/endowments,Endowments in Finland,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/finland/insurers,Insurers in Finland,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/luxembourg/sovereign-wealth-funds,Sovereign Wealth Funds in Luxembourg,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/luxembourg/public-pensions,Public Pensions in Luxembourg,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/luxembourg/family-offices,Family Offices in Luxembourg,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/luxembourg/endowments,Endowments in Luxembourg,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/luxembourg/insurers,Insurers in Luxembourg,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/belgium/sovereign-wealth-funds,Sovereign Wealth Funds in Belgium,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/belgium/public-pensions,Public Pensions in Belgium,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/belgium/family-offices,Family Offices in Belgium,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/belgium/endowments,Endowments in Belgium,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,geo-hub,geo/belgium/insurers,Insurers in Belgium,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
+3,theme,themes/private-credit/sovereign-wealth-funds,Private Credit for sovereign wealth funds,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+3,theme,themes/private-credit/public-pensions,Private Credit for public pensions,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+3,theme,themes/private-credit/family-offices,Private Credit for family offices,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+3,theme,themes/private-credit/endowments,Private Credit for endowments,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+3,theme,themes/private-credit/insurers,Private Credit for insurers,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+3,theme,themes/infrastructure/sovereign-wealth-funds,Infrastructure for sovereign wealth funds,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+3,theme,themes/infrastructure/public-pensions,Infrastructure for public pensions,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+3,theme,themes/infrastructure/family-offices,Infrastructure for family offices,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+3,theme,themes/infrastructure/endowments,Infrastructure for endowments,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+3,theme,themes/infrastructure/insurers,Infrastructure for insurers,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+3,theme,themes/ai-infrastructure/sovereign-wealth-funds,Ai Infrastructure for sovereign wealth funds,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+3,theme,themes/ai-infrastructure/public-pensions,Ai Infrastructure for public pensions,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+3,theme,themes/ai-infrastructure/family-offices,Ai Infrastructure for family offices,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+3,theme,themes/ai-infrastructure/endowments,Ai Infrastructure for endowments,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+3,theme,themes/ai-infrastructure/insurers,Ai Infrastructure for insurers,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+3,theme,themes/energy-transition/sovereign-wealth-funds,Energy Transition for sovereign wealth funds,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+3,theme,themes/energy-transition/public-pensions,Energy Transition for public pensions,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+3,theme,themes/energy-transition/family-offices,Energy Transition for family offices,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+3,theme,themes/energy-transition/endowments,Energy Transition for endowments,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+3,theme,themes/energy-transition/insurers,Energy Transition for insurers,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+3,theme,themes/stewardship/sovereign-wealth-funds,Stewardship for sovereign wealth funds,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+3,theme,themes/stewardship/public-pensions,Stewardship for public pensions,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+3,theme,themes/stewardship/family-offices,Stewardship for family offices,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+3,theme,themes/stewardship/endowments,Stewardship for endowments,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+3,theme,themes/stewardship/insurers,Stewardship for insurers,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+3,theme,themes/demographics/sovereign-wealth-funds,Demographics for sovereign wealth funds,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+3,theme,themes/demographics/public-pensions,Demographics for public pensions,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+3,theme,themes/demographics/family-offices,Demographics for family offices,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+3,theme,themes/demographics/endowments,Demographics for endowments,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+3,theme,themes/demographics/insurers,Demographics for insurers,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+3,theme,themes/geopolitics/sovereign-wealth-funds,Geopolitics for sovereign wealth funds,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+3,theme,themes/geopolitics/public-pensions,Geopolitics for public pensions,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+3,theme,themes/geopolitics/family-offices,Geopolitics for family offices,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+3,theme,themes/geopolitics/endowments,Geopolitics for endowments,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+3,theme,themes/geopolitics/insurers,Geopolitics for insurers,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+3,theme,themes/secondaries/sovereign-wealth-funds,Secondaries for sovereign wealth funds,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+3,theme,themes/secondaries/public-pensions,Secondaries for public pensions,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+3,theme,themes/secondaries/family-offices,Secondaries for family offices,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+3,theme,themes/secondaries/endowments,Secondaries for endowments,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+3,theme,themes/secondaries/insurers,Secondaries for insurers,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
+2,directory,directory/consulting-ocio,Consulting Ocio,both,advertiser-call,P1,needed,Hub first; firms only with three sourced facts
+2,directory,directory/executive-search,Executive Search,both,advertiser-call,P1,needed,Hub first; firms only with three sourced facts
+2,directory,directory/custody-administration,Custody Administration,both,advertiser-call,P1,needed,Hub first; firms only with three sourced facts
+2,directory,directory/data-and-index,Data And Index,both,advertiser-call,P1,needed,Hub first; firms only with three sourced facts
+2,directory,directory/cybersecurity,Cybersecurity,both,advertiser-call,P1,needed,Hub first; firms only with three sourced facts
+2,directory,directory/placement-agents,Placement Agents,both,advertiser-call,P1,needed,Hub first; firms only with three sourced facts
+2,careers,careers/intelligence/cio-compensation-public-plans,CIO compensation in public plans (sourced),both,careers-alert,P1,needed,
+2,careers,careers/intelligence/first-year-inside-a-family-office,First year inside a family office,both,careers-alert,P1,needed,
+2,careers,careers/intelligence/leaving-a-sovereign-fund,Leaving a sovereign fund,both,careers-alert,P1,needed,
+2,careers,careers/intelligence/dual-career-moves-gulf,Dual-career moves to the Gulf,both,careers-alert,P1,needed,
+2,careers,careers/intelligence/boarding-an-investment-committee,Joining an investment committee,both,careers-alert,P1,needed,
+2,careers,careers/intelligence/internal-vs-external-cio-office,Building vs renting a CIO office,both,careers-alert,P1,needed,
+2,careers,careers/intelligence/why-london-satellites-fail,Why London satellites fail,both,careers-alert,P1,needed,
+2,careers,careers/intelligence/onboarding-a-deputy-cio,Onboarding a deputy CIO,both,careers-alert,P1,needed,
+2,careers,careers/intelligence/succession-inside-a-public-plan,Succession inside a public plan,both,careers-alert,P1,needed,
+2,careers,careers/intelligence/search-brief-for-a-real-assets-head,Writing a real-assets head search brief,both,careers-alert,P1,needed,

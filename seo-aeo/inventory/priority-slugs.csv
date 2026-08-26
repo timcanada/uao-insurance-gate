@@ -345,8 +345,8 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,explainer,what-is-a-chokepoint-for-a-universal-owner,What is a chokepoint?,allocator,brief,P1,needed,
 2,explainer,how-does-insurance-close-a-strait,Insurance as a chokepoint (refresh Hormuz research),allocator,brief,P1,needed,
 2,explainer,what-is-the-capital-stage-ledger,Capital Stage Ledger (refresh),allocator,brief,P1,needed,
-2,explainer,how-to-read-a-probability-desk-scenario,How to read a Probability Desk scenario,allocator,brief,P1,needed,
-2,explainer,what-is-a-tripwire-in-scenario-analysis,What is a tripwire?,allocator,brief,P1,needed,
+95,explainer,how-to-read-a-probability-desk-scenario,How to read a Probability Desk scenario,allocator,brief,P1,drafted-in-repo,Wave 95. Do not mint /probability-desk-explained/. Not a forecast
+95,explainer,what-is-a-tripwire-in-scenario-analysis,What is a tripwire?,allocator,brief,P1,drafted-in-repo,Wave 95. Do not mint /what-is-a-tripwire/. Do not 301 onto PD how-to
 2,explainer,how-do-boards-use-scenario-weights,How boards use scenario weights,allocator,brief,P1,needed,
 2,explainer,what-publications-do-cios-read,What publications do CIOs read?,allocator,brief,P1,needed,Do not mint. Synonym twin of Wave 2 /publications-chief-investment-officers-read/
 93,explainer,who-covers-sovereign-wealth-funds,Who covers sovereign wealth funds?,allocator,brief,P1,drafted-in-repo,Wave 93. Do not mint /what-publications-do-cios-read/
@@ -385,9 +385,9 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,explainer,what-is-golden-share,What is a golden share?,allocator,brief,P1,needed,
 2,explainer,how-do-owners-map-supply-chains,Supply-chain mapping for owners,allocator,brief,P1,needed,
 2,explainer,what-is-a-universal-owner-externality,Universal-owner externalities,allocator,brief,P1,needed,
-2,explainer,how-to-use-uao-registry,How to use the UAO Registry,allocator,brief,P1,needed,
-2,explainer,what-is-the-uao-100,What is the UAO 100?,allocator,brief,P1,needed,
-2,explainer,how-we-audit-readership,How UAO audits readership (public version),allocator,brief,P1,needed,
+95,explainer,how-to-use-uao-registry,How to use the UAO Registry,allocator,brief,P1,drafted-in-repo,Wave 95. Do not reprint leftover Registry dollars. Do not overwrite /registry/
+95,explainer,what-is-the-uao-100,What is the UAO 100?,allocator,brief,P1,drafted-in-repo,Wave 95. Influence Index is editorial not a rating. No leftover AUM reprint
+95,explainer,how-we-audit-readership,How UAO audits readership (public version),allocator,brief,P1,drafted-in-repo,Wave 95. Do not overwrite /readership/. Do not invent a subscriber total
 3,geo-hub,geo/norway/sovereign-wealth-funds,Sovereign Wealth Funds in Norway,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
 3,geo-hub,geo/norway/public-pensions,Public Pensions in Norway,allocator,brief,P2,needed,Ship only when ≥5 child pages exist
 3,geo-hub,geo/norway/family-offices,Family Offices in Norway,allocator,brief,P2,needed,Ship only when ≥5 child pages exist

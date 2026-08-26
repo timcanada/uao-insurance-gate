@@ -1,5 +1,24 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 95: readership audit, Registry, UAO 100, Probability Desk, tripwire
+
+**Queries / URLs:** `/how-we-audit-readership/`, `/how-to-use-uao-registry/`, `/what-is-the-uao-100/`, `/how-to-read-a-probability-desk-scenario/`, `/what-is-a-tripwire-in-scenario-analysis/`.
+
+**What was wrong on the live site:**
+
+- Leftover official-filing house-AUM keepers remain exhausted after Wave 80. Remaining city P1s still fail the HQ-street lock. Wave 94 shipped five recruiter/membership/operations pages. Five first-party product P1s were still live **404** (confirmed 26 Aug). Those pages are how press and models cite the desks.
+- Live `/readership/`: subscriber-level audit + surveys; **98%** SWFs; **20/20** largest pensions; method current as of **August 2026**. Live `/registry/` (26 Aug): Top 100 + People; **8,859** people; **133** moves; **645 / 8,859** re-verified (**6%**); median age **67 days**; access CTA **$4,950 / month**; Influence Index is editorial, not a rating. Ranking table still prints leftover dollars (NBIM $2.10T, ADIA $1.18T, GIC $930B, Alaska $86B, CalPERS $556B, CPP $570B, CIC $1.33T, SAFE $1.95T, NPS $4,950B) — **do not reprint**. Live `/methodology/` v1.0 **28 May 2026** defines the Probability Desk. Live **22 Aug 2026** Desk: Brent **$100** by 30 Sep, **58%** from spot **$93.26**.
+
+**Confirmed still unpublished:** Waves 1–95. `/directory/` **404**. Wave 1 + Wave 84–92 city pages still 404. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00**. Do not ping support.
+
+**Shipped (Wave 95):** five first-party product explainers. Wave 93 quote page, Wave 1 press-desk, Wave 2 publications and podcast hub, Wave 93 $20k media-buy, and Wave 94 Strategic Council now link them. No leftover 301s. Publisher default waves now include 95.
+
+**Refused:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ / USS / ATP / Khazanah / HKMA / NPS / EPF / Keva / VER / ÖBAG / TVF. Reprinting leftover Registry ranking dollars. Overwriting institution keepers. `/how-do-service-providers-advertise-to-asset-owners/` and `/what-publications-do-cios-read/` (Wave 2 twins). Compensation. Remaining skip/weak cities. Podcast episode show notes that would reprint leftover GPFG **$2.3tn** or homemade **$1.3T** combined-interview AUM (live `/podcast/` still leads with that special). Directory firm children without three sourced facts. People/CEO pages. Dated news. Minting `/readership-audit/`, `/uao-registry-explained/`, `/uao-100-explained/`, `/probability-desk-explained/`, `/what-is-a-tripwire/`, `/family-office/`, `/lsr-explained/`, `/tvf-explained/`, `/niif/`, `/careers/cities/abuja/`, `/pggm/`, `/pfzw-netherlands/`, `/aimco-explained/`, `/psp-investments/`, or `/korea-investment-corporation-kic/`. Inventing a subscriber total.
+
+**Next wake must:** Paste Wave 1 directory + cities + relocating, Wave 84–92 cities, Wave 81–83 hubs, Wave 92–95 careers/press/product pages, then 5 → 79 keepers including `/new-york-city-crs/`. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another leftover synonym explainer. Remaining city P1s stay skip/weak until an official HQ street locks. Next rotation: unique advertiser/careers P1s that are not twins (`/how-do-search-firms-work-for-cio-mandates/`, `/what-is-a-retained-search/`, `/what-is-a-capital-introduction/`, `/what-is-an-administrator-for-a-pension-plan/`); then directory firms only with three sourced facts. Skip compensation until sourced. Do not reprint leftover Registry dollars on any new page. Highest-harm unpublished leftovers remain: GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn.
+
 ## 2026-08-26 — Wake 94: recruiter, talent desk, Strategic Council, custodian, placement agents
 
 **Queries / URLs:** `/how-do-recruiters-reach-sovereign-fund-talent/`, `/what-is-an-institutional-talent-desk/`, `/what-is-a-strategic-council-membership-for-asset-owners/`, `/how-do-owners-pick-a-custodian/`, `/how-do-pensions-use-placement-agents/`.

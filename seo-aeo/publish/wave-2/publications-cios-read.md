@@ -54,5 +54,7 @@ Use the [press desk](/press-desk/). Attribute the desk.
 - [Who covers sovereign wealth funds?](/who-covers-sovereign-wealth-funds/)
 - [IPE vs P&I vs UAO](/ipe-vs-pensions-and-investments-vs-uao/)
 - [SWFI vs a newsroom](/what-is-swfi-vs-a-newsroom/)
+- [How to read a Probability Desk scenario](/how-to-read-a-probability-desk-scenario/)
+- [How we audit readership](/how-we-audit-readership/)
 - [How to advertise to this room](/advertise-to-asset-owners/)
 - [Long-horizon owners](/long-horizon-owners/)

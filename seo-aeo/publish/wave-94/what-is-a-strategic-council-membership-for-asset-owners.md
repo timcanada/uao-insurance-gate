@@ -55,6 +55,8 @@ If you were about to buy a banner and call it research, stop. Read [what a $20,0
 ## Related
 
 - [Membership](/membership/)
+- [How to read a Probability Desk scenario](/how-to-read-a-probability-desk-scenario/)
+- [What is a tripwire in scenario analysis?](/what-is-a-tripwire-in-scenario-analysis/)
 - [Readership](/readership/)
 - [Editorial ethics](/ethics/)
 - [What a $20,000 institutional media buy is](/what-does-a-20k-a-month-media-buy-get-you/)

@@ -56,6 +56,7 @@ Request the 2026 media kit on [Advertise](/advertise/), or read [how to advertis
 - [Advertise](/advertise/)
 - [How to advertise to this room](/advertise-to-asset-owners/)
 - [What is a Strategic Council membership?](/what-is-a-strategic-council-membership-for-asset-owners/)
+- [How we audit readership](/how-we-audit-readership/)
 - [Display advertising](/display-advertising/)
 - [Event coverage](/event-coverage/)
 - [Readership](/readership/)

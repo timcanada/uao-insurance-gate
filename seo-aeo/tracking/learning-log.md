@@ -1,5 +1,29 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 29: reserve-fund $1.4T; holding-vs-SWF; NBIM sleeve dollars; FO-vs-institution; Middle East FO pile
+
+**Queries / URLs:** `/what-is-a-reserve-fund/`, `/state-holding-company-vs-swf/`, `/norway-oil-fund-governance-model-explained/`, `/family-office-vs-institutional-investor/`, `/middle-east-family-offices/`.
+
+**What was wrong on the live site:**
+
+- Reserve-fund keeper files GPFG as **$1.4 trillion**, plus Kazakhstan **$82 billion** inflows, Russia Reserve Fund **$151bn / $38bn**, Bank of Korea **$383 billion**, unnamed **$13.5 billion**. Official: GPFG is a **SWF in kroner**. MAS OFR **S$549.3 billion / US$427.9 billion** at end-July 2026 is the reserve exhibit. Twin invents GPFG **$1.3T**, ESSF **$17bn** (official **US$3,884.04 million**), Timor **$19bn** (official **USD 18.43 billion**), Abu Dhabi leftover **SGRF $4bn**, SOFAZ **$48bn** (official **USD 72.6 billion**), Alberta Heritage **$42bn**.
+- Holding-vs-SWF invents SASAC **$2.3 trillion**, GPFG **$1.36T**, Temasek **$421bn**, ADIA **$172bn** plus leftover SGRF, Kuwait **SGRF $370bn**, IFSWF **$16.4T**, PIF **$925bn**. Official: Temasek **S$518 billion**. GPFG **kroner**. ADIA / KIA **no AUM**. Refuse SASAC / IFSWF piles.
+- Norway governance invents GPFG **$1.43T** and sleeves **$1T / $280bn / $140bn**. Official: **22,683 billion kroner**; **16,358 / 5,860 / 373 / 104** billion kroner. Do not 301 onto the NBIM institution page.
+- FO-vs-institution invents CalPERS **$469bn**, Harvard **$51.9bn**, CalSTRS **$295bn**, USS **$83bn**, FO **$10bn**, Berkshire-as-FO **$1.1T**. Official: CalPERS **$637.1bn**; Harvard **$56.9bn / 11.9%**; CalSTRS **$415.4bn**; USS DB **£79.8bn**.
+- Middle East FO invents **$2–2.5T / $1.5–1.8T GCC**, Kingdom Holding **$20bn**, QIA **$550bn**. Twin invents **$2.5–4T**, QIA **$445bn**, PIF **$925bn**. No official FO AUM pile.
+
+**Confirmed still unpublished:** Waves 1–29. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). Ghost key still missing. CPP vs CalPERS and Canadian-pension-giants headlines already current — skipped.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx zero-delivery alert **26 Aug 13:20 UTC** — same empty-wallet story. Wallet still **$0.00**. Do not ping support.
+
+**Shipped (Wave 29):** five overwrites. No new slugs. Publisher default waves now include 29. Queued 301s: Santiago governance twins → Wave 11; `/reserve-fund-sovereign/` → reserve-fund keeper; `/middle-east-family-offices-investment/` → ME FO keeper.
+
+**Refused:** ICD YE2025 PDF. Dollarizing GPFG, ADIA, KIA, QIA, SAFE, GIC, or ADQ. Overwriting ADIA short / QIA portfolio / NSIA / ISIF / Mumtalakat / Alaska keepers. Minting `/harvard-endowment-explained/`, `/limad-explained/`, `/royal-family-investment-offices/`, or `/reserve-funds-vs-sovereign-wealth-funds/`. Another Santiago synonym. Stabilization-vs-savings / transparency / global-economy leftovers (Wave 30).
+
+**Access:** Secrets re-requested. `GHOST_ADMIN_API_KEY` and `GOOGLE_SERVICE_ACCOUNT_JSON` still UNSET.
+
+**Next wake must:** Paste 5 → 29. Then 301 `twins.csv` (P0 first; Wave 29 Santiago-governance / reserve-twin / ME-FO-investment; Wave 28 NSIA/ISIF/Mumtalakat/definition/PIF-2030/horizon/Gulf-PE/PE-allocation; Wave 26 ADIA short after Wave 9; Wave 17 QIA portfolio). If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another reserve-fund / holding-vs-SWF / NBIM-governance / FO-vs-institution / ME-FO synonym. Highest-harm leftovers: `/swf-transparency-rankings/` (GIC **$760bn** / Future Fund **$260bn** / ADIA **$150bn**); `/stabilisation-fund-vs-savings-fund-vs-strategic-fund/` (GPFG **$1.376T** / ADIA **$172.4bn** / ISIF **€20bn** / Temasek **$509bn**); `/sovereign-wealth-funds-global-economy/` ($10–11T piles); `/what-does-aum-mean/` ($147T); `/sovereign-wealth-fund-returns-2025/` (GIC **$990bn**); GPIF 15.83% (Wave 7, unpublished); Alaska $89bn (Wave 12, unpublished).
+
 ## 2026-08-26 — Wake 28: SWF vs reserves $15T; Gulf PE fiction; country $10.7T; PE allocation pile; Harvard $50.9bn
 
 **Queries / URLs:** `/sovereign-wealth-fund-vs-central-bank-reserves/`, `/how-gulf-funds-are-reshaping-private-markets/`, `/sovereign-wealth-funds-by-country/`, `/largest-sovereign-wealth-funds-by-private-markets-allocation/`, `/endowment-model-vs-canada-model/`.

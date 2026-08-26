@@ -1,5 +1,27 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 66: leftover CalPERS $440bn / $450bn; leftover CalSTRS $314bn; leftover CDPQ $295bn; leftover GPIF $1.8T; leftover Yale $41bn; leftover CPP CAD $619bn; leftover OTPP CAD $248bn; leftover NBIM $1.3T; leftover ADIA $172bn; leftover QIA $438bn; leftover GCC $2.5T
+
+**Queries / URLs:** `/stakeholder-capitalism-investor/`, `/un-pri-principles-responsible-investment/`, `/asset-owners-and-stablecoins/`, `/digitisation-investment-theme/`, `/gcc-investment-strategy/`.
+
+**What was wrong on the live site:**
+
+- Stakeholder capitalism invent leftover CalPERS **$440 billion**, leftover CalSTRS **$314 billion**, leftover CDPQ **approximately $295 billion**. Official: CalPERS **$637.1 billion**. CalSTRS **$415.4 billion**. CDPQ **CAD $517.3 billion**.
+- UN PRI invent leftover CalPERS **$450 billion** and leftover GPIF **approximately $1.8 trillion**. Official: CalPERS **$637.1 billion**. GPIF **yen**. ADIA **does not publish AUM**.
+- Stablecoins invent leftover CalPERS **$440 billion** and leftover Yale **$41 billion**. Official: CalPERS **$637.1 billion**. Yale **$44.1 billion**.
+- Digitisation invent leftover CPP **CAD $619 billion**, leftover OTPP **approximately CAD $248 billion**, leftover NBIM **approximately $1.3 trillion**. Official: CPP **C$793.3 billion**. OTPP **C$303.2 billion**. GPFG **kroner**.
+- GCC strategy invent leftover ADIA **$172 billion**, leftover QIA **approximately $438 billion**, leftover combined **approximately $2.5 trillion**. Official: ADIA **does not publish AUM**. QIA **does not publish AUM**. PIF **more than US$900 billion**.
+
+**Confirmed still unpublished:** Waves 1–66. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00** through **26 Aug 15:52 UTC**. Do not ping support.
+
+**Shipped (Wave 66):** five overwrites. No new slugs. Publisher default waves now include 66. Queued 301: `/pension-fund-activism-engagement/`.
+
+**Refused:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ / USS. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / CDPQ / OMERS / CalPERS / CalSTRS / Mubadala / Temasek / Future Fund / Alaska / ADIA / GIC / BCI / GPIF / CPP / Texas TRS / PIF / QIA / Australian Super / KIC / UniSuper / CIC institution keepers. Overwriting `/endowment-model-explained/` (Wave 15) or `/yale-endowment-model/` (Wave 14). Another externalities / data-providers / China-cluster / IRR-define / in-state synonym. Minting `/harvard-endowment-explained/`, `/texas-trs/`, `/nssf-explained/`, `/safe-china/`, `/unisuper/`, or `/cbus-explained/`. Inventing an ADIA, QIA, SAFE, or NSSF AUM. `/universal-owner-antimicrobial-resistance/` (leftover CalPERS **$430 billion**). `/dollar-dominance-reserve-currency/` (leftover CalPERS **$465 billion**). `/wisconsin-investment-board-swib/` (leftover SWIB **$160 billion** — no official SWIB print locked this wake).
+
+**Next wake must:** Paste 5 → 66. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another stakeholder / PRI / stablecoins / digitisation / GCC-strategy synonym. Highest-harm leftovers now: `/universal-owner-antimicrobial-resistance/` (leftover CalPERS **$430 billion**); `/ai-productivity-investing-thesis/` (leftover CalPERS **$460 billion**); `/beneficial-ownership-transparency/` (leftover Yale **$41.4 billion**); unpublished keepers (GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn).
+
 ## 2026-08-26 — Wake 65: leftover CalPERS $440bn / $457.8bn / $469bn; leftover CPP $616bn / $512bn; leftover GPIF $1.6T / leftover $1.38T; leftover GPFG $1.48T / $1.44T / $1.3T / $1.29T; leftover ABP €500bn; leftover USS £67bn; leftover CalSTRS $315bn / $349.7bn; leftover CIC $1.3T; leftover NSSF $460bn; leftover Harvard $50.7bn; leftover PIF $930bn; leftover Texas TRS $227bn
 
 **Queries / URLs:** `/universal-owner-market-externalities/`, `/investment-data-providers-institutional/`, `/china-institutional-investors-explained/`, `/internal-rate-of-return-institutional/`, `/in-state-investment-programs-public-funds/`.

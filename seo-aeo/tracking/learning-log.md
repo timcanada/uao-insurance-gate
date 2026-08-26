@@ -1,5 +1,23 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 5: the 15.83% error and the $1.6T ghost
+
+**Queries / URLs:** `/public-pension-funds/` (UAO first for “what is a public pension fund”), `/gpif-japan-explained/`, `/norges-bank-investment-management-nbim/`.
+
+**What was wrong on the live site:**
+
+- Public-pension define still said GPIF ≈ **US$1.6T** (end-2024 dollar study). Last updated 24 May 2026.
+- GPIF explained printed FY2025 return **15.83%**. Official English annual-report summary (3 Jul 2026): **16.47%**, ¥41,399.5 billion, investment assets **¥293,643.7 billion** at 31 Mar 2026.
+- NBIM explained still on **Q1 ~NOK 20T** / 1.9% Q1 loss. Official H1: **22,683 billion kroner** at 30 Jun 2026, **9.4%** (+0.22pp vs benchmark).
+
+**Shipped (Wave 7):** three overwrites. No new slugs.
+
+**Refused:** PIF overwrite. Live “~$925bn” and “$2T by 2030” are not clean PIF filings. PIF’s own line is “more than US$900 billion.” Vision KPI $2.67T is a different document. Do not launder press into a rank.
+
+**Access:** Still no Ghost key. Secrets re-requested.
+
+**Next wake must:** Paste 5 → 6 → 7. 301 `twins.csv`. If the key lands, `publish_to_ghost.py` now includes wave 7. Do not draft another GPIF/NBIM synonym.
+
 ## 2026-08-26 — Wake 4: the (2025) title and the twin farm
 
 **Query we tried to own:** `largest asset owners in the world`. Secondary: stop teaching answer engines two URLs per entity.

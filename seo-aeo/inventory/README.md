@@ -5,7 +5,7 @@
 - Wave 1 rows are drafted in `../publish/wave-1/`.
 - Wave 2+ rows require a researcher and the quality gate.
 - `status=live-check` means a similar URL may already exist — pull the sitemap before drafting.
-- Never create a twin of a live slug.
+- Never create a twin of a live slug. `twins.csv` is the live 301 queue from the 26 Aug 2026 sitemap scan.
 
 Scale targets (stock, not this file): 10,000–30,000 indexable pages across the entity graph. This file is the first ~600 *priority* nodes — Wave 1 drafted, Wave 2–3 researched next.
 

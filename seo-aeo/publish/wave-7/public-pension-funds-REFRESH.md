@@ -1,0 +1,115 @@
+---
+title: "Public Pension Funds Explained"
+slug: public-pension-funds
+type: explainer
+desk: research
+audience: allocator
+primary_keyword: "public pension funds"
+answer_block: "A public pension fund holds and invests capital to meet the retirement promises of a public-sector or national scheme. Trustees or a board run it against long-dated liabilities; it answers to members. The largest dedicated example is Japan’s GPIF: ¥293,643.7 billion of investment assets at 31 March 2026. Norway’s oil fund is larger on some dollar tables but is a sovereign wealth fund, not a member pension. This is not investment advice."
+sources:
+  - https://www.gpif.go.jp/en/performance/73509681gpif/annual_report_summary_2025_en.pdf
+  - https://www.newswire.ca/news-releases/cpp-investments-net-assets-total-793-3-billion-at-2026-fiscal-year-end-814459989.html
+  - https://www.oecd.org/en/topics/pensions.html
+  - https://www.universalassetowners.com/largest-pension-funds-in-the-world/
+conversion: brief
+editor_status: draft
+---
+
+# Public Pension Funds Explained
+
+A public pension fund holds and invests capital to meet the retirement promises of a public-sector or national scheme. It is run by trustees or a board against long-dated liabilities, and it answers ultimately to its members. The largest dedicated example is Japan’s GPIF: **¥293,643.7 billion of investment assets at 31 March 2026**. Norway’s oil fund is larger on some dollar tables but is a **sovereign wealth fund**, not a member pension. This is not investment advice.
+
+**Last updated:** 26 August 2026 · **Desk:** UAO Research · **Canonical URL:** `/public-pension-funds/`
+
+League table: [largest pension funds](/largest-pension-funds-in-the-world/). Owner list (pensions + SWFs): [largest asset owners](/largest-asset-owners-in-the-world/).
+
+## At a glance
+
+| | |
+| --- | --- |
+| **What it is** | A pool that funds public-sector or national-scheme pensions |
+| **Who is owed** | Named members and retirees (or a national contribution base) |
+| **Who bears risk** | Sponsor (defined benefit) or member (defined contribution) |
+| **Not the same as** | A sovereign wealth fund, even one with “pension” in the name |
+| **Largest dedicated book** | GPIF — ¥293,643.7 billion investment assets at 31 Mar 2026 |
+
+## What a public pension fund is
+
+A public pension fund sits between two flows: contributions in from employers and employees, and benefits out to retirees. It invests the difference so promises made today can be met decades later. That horizon is the advantage — and, for a defined-benefit plan, the duty.
+
+## Defined benefit versus defined contribution
+
+The first question is who bears the risk.
+
+- **Defined benefit.** The member is promised a specified pension (usually salary × service). The sponsor — often a government — carries investment and longevity risk.
+- **Defined contribution.** Contributions are fixed. The member carries market risk. The pension is whatever the pot becomes.
+
+Many systems are shifting from DB toward DC. That changes the investment problem and the politics. It does not make the pool stop being an asset owner.
+
+## The funded ratio
+
+For DB, the headline health metric is assets ÷ present value of liabilities. Above 100% is a surplus; below is a deficit. The figure moves with the **discount rate**. US corporate plans and US public plans do not use the same convention. Read the assumptions, not just the ratio. See UAO’s funded-status and discount-rate explainers.
+
+## How they invest
+
+DB funds increasingly invest with liabilities in view ([LDI](/liability-driven-investing-explained/)): return-seeking assets (equities, private markets, real assets) against liability-hedging assets (long-dated and inflation-linked bonds). Some large plans now run a [total portfolio approach](/total-portfolio-approach/) instead of a rigid policy portfolio.
+
+GPIF is the opposite extreme of the Canadian model: four liquid 25% sleeves, alternatives capped at 5% (1.70% of the book at end-December 2025). CPP Investments and the large Canadian provincials run more internal private markets. Same owner type; different tools.
+
+## Who the largest are (official, not a dollar cartoon)
+
+| Fund | Official size | As-of | Note |
+| --- | --- | --- | --- |
+| GPIF (Japan) | **¥293,643.7 billion** investment assets; FY2025 return **16.47%** | 31 Mar 2026 | Largest dedicated public pension. [Explained](/gpif-japan-explained/). |
+| Government Pension Fund Global (NBIM) | **22,683 billion kroner** | 30 Jun 2026 | SWF with “pension” in the name. Rank it on [largest SWFs](/largest-sovereign-wealth-funds/). |
+| CPP Investments | **C$793.3 billion** net assets; FY2026 net return 7.8% | 31 Mar 2026 | [Explained](/cpp-investments-explained/). |
+| PSP Investments | **C$320.6 billion** net AUM | 31 Mar 2026 | Federal public-service family. Draft: `/psp-investments/`. |
+| AustralianSuper | **More than A$410 billion**; 3.6 million members | 31 Dec 2025 | Super, not a SWF. Draft: `/australian-super/`. |
+
+Also on every serious list, with their own filing dates: Korea NPS, ABP / PFZW, US TSP and the large state systems (CalPERS, CalSTRS, NY Common), Ontario Teachers and the other Canadian provincials, Singapore CPF, China NSSF. Use the plan’s CAFR — do not freeze a magazine dollar here.
+
+Stop writing “GPIF ≈ US$1.6 trillion.” That was an end-2024 dollar study. The official book is in yen.
+
+## Governance
+
+Typical shape: a board representing members, employers, and sometimes government; a professional investment organisation under a mandate. Good governance separates long-term policy from day-to-day bets, manages conflicts, and reports to members. Strategy that cannot survive an election is not a strategy.
+
+## Why this matters for universal owners
+
+The largest public pensions are [universal owners](/universal-owner/) when they are large and diversified enough. They cannot sell “the system.” Stewardship is then a portfolio-protection tool, not a values overlay. Their obligation to members makes the long horizon a duty.
+
+## For investment committees
+
+1. Is the strategy aligned with the liabilities (duration, inflation, cash needs)?
+2. Is the fund paid for the illiquidity it takes in private markets, and can it meet benefits in a stress?
+3. Is governance strong enough that policy survives politics?
+
+## Frequently asked questions
+
+**What is a public pension fund?**  
+A pool that holds and invests contributions to fund public-sector or national-scheme retirement benefits, run by trustees against long-dated liabilities.
+
+**Is Norway’s oil fund a public pension fund?**  
+No. It is a sovereign wealth fund funded by petroleum revenue. It does not owe named members the way GPIF or CalPERS does.
+
+**Who is the largest?**  
+On a beneficiary definition: **GPIF**. On a “largest book with pension in the name” definition: often **GPFG**. UAO uses the first on this page.
+
+## Related UAO research
+
+- [Largest pension funds](/largest-pension-funds-in-the-world/)
+- [Largest asset owners](/largest-asset-owners-in-the-world/)
+- [What is a pension fund](/what-is-a-pension-fund/)
+- [SWF vs pension](/sovereign-wealth-fund-vs-pension-fund/)
+- [GPIF](/gpif-japan-explained/)
+- [CPP Investments](/cpp-investments-explained/)
+- [Universal owner](/universal-owner/)
+
+## Sources
+
+- GPIF, [FY2025 annual report summary (3 Jul 2026)](https://www.gpif.go.jp/en/performance/73509681gpif/annual_report_summary_2025_en.pdf)
+- CPP Investments, [FY2026 results](https://www.newswire.ca/news-releases/cpp-investments-net-assets-total-793-3-billion-at-2026-fiscal-year-end-814459989.html)
+- OECD pensions
+- Thinking Ahead Institute, Asset Owner 100 (end-2024 vintage)
+
+Universal Asset Owners is a journalistic research desk. This page is information, not investment, legal, tax, or fiduciary advice.

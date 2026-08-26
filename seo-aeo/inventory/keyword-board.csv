@@ -12,6 +12,7 @@ P0,family office vs family office CIO,allocator,both,/what-does-a-family-office-
 P0,what is a universal owner,allocator,both,/universal-owner/,define,uao-1-websearch,unknown,unknown,merge-twins,26 Aug web: UAO /universal-owner/ first. Twin /what-is-a-universal-asset-owner/ still 200
 P0,universal owners,allocator,both,/universal-owners/,hub,unknown,unknown,unknown,live-ok,Hub 200; not the define URL
 P0,pension fund,allocator,both,/what-is-a-pension-fund/,define,unknown,unknown,unknown,live-check,
+P0,public pension fund,allocator,both,/public-pension-funds/,define,uao-1-websearch,unknown,unknown,refresh-drafted,26 Aug web: UAO first. Live page still said GPIF ~$1.6T. Wave 7 ready
 P0,royal family investment office,allocator,both,/royal-family-investment-offices/,define,unknown,unknown,unknown,drafted-404,Wave 2 draft; live URL 404 as of 26 Aug
 P0,royal family wealth fund,allocator,both,/royal-family-investment-offices/,define,unknown,unknown,unknown,drafted-404,Same 404
 P0,how to advertise to sovereign wealth funds,service-provider,A,/advertise-to-asset-owners/,commercial,not-top5,unknown,unknown,drafted-404,26 Aug web: GP/LP guides + SWFI ads page. Our slug 404
@@ -26,7 +27,7 @@ P1,ADIA,allocator,both,/adia-abu-dhabi-investment-authority/,entity,unknown,unkn
 P1,GIC Singapore,allocator,both,/gic-singapore-explained/,entity,unknown,unknown,unknown,refresh-drafted,Live page still on 2024/25 3.8%; Wave 4 uses 3.4% / 5.6% to 31 Mar 2026
 P1,Temasek,allocator,both,/temasek-holdings-explained/,entity,unknown,unknown,unknown,live-check,NPV S$518bn confirmed official 8 Jul 2026
 P1,PIF Saudi,allocator,both,/public-investment-fund-pif/,entity,unknown,unknown,unknown,live-check,
-P1,NBIM,allocator,both,/norges-bank-investment-management-nbim/,entity,unknown,unknown,unknown,live-check,
+P1,NBIM,allocator,both,/norges-bank-investment-management-nbim/,entity,unknown,unknown,unknown,refresh-drafted,Live page still Q1 NOK 20T. Wave 7 uses 22,683bn at 30 Jun 2026
 P1,CalPERS,allocator,both,/calpers-explained-largest-us-pension-fund/,entity,unknown,unknown,unknown,live-check,
 P1,CPP Investments,allocator,both,/cpp-investments-explained/,entity,unknown,unknown,unknown,live-check,
 P1,moving to Abu Dhabi sovereign wealth fund,both,A,/careers/cities/abu-dhabi/,careers,unknown,unknown,unknown,drafted-wave-1,

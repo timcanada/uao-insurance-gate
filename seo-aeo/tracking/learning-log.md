@@ -1,5 +1,29 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 48: leftover CalPERS $470bn / $460bn / $450bn / $442bn / $440bn; leftover CPP $473bn / $675bn / $650bn; leftover GPFG $1.35T / $1.3T / $1.5T; leftover Yale $41bn; leftover Harvard $50.7bn; leftover Temasek $403bn; leftover Future Fund $280bn; leftover ABP €600bn; leftover GIC $847bn / $880bn; leftover ADIA $150bn; leftover CalSTRS $316bn; leftover NYS $280bn / $221bn
+
+**Queries / URLs:** `/fiduciary-duty-explained-institutional/`, `/grid-infrastructure-institutional-capital/`, `/data-centers-as-an-institutional-asset-class/`, `/home-bias-institutional-portfolios/`, `/fx-overlay-explained/`.
+
+**What was wrong on the live site:**
+
+- Fiduciary duty invent leftover CalPERS **$470 billion**, leftover NYS **$280 billion**, leftover Harvard **$50.7 billion**, leftover GPFG **$1.35 trillion**, leftover CalSTRS **$316 billion**. Twin invent leftover GPFG **$1.5 trillion**, leftover PIF **$700 billion**, leftover NYS **$221 billion**. Official: CalPERS **$637.1 billion**. CalSTRS **$415.4 billion**. Harvard **$56.9 billion**. GPFG **kroner**.
+- Grid infrastructure invent leftover CPP **$473 billion**, leftover CalPERS **$460 billion**, leftover Temasek **$403 billion**, leftover Future Fund **$280 billion**, leftover GPFG **$1.3 trillion**, leftover Yale **$41 billion**, leftover Harvard **$50 billion**. Official: CPP **C$793.3 billion**. CalPERS **$637.1 billion**. Temasek **S$518 billion**. Future Fund **A$269.1 billion**. GPFG **kroner**.
+- Data centers invent leftover CalPERS **$450 billion**, leftover GIC **$847 billion**, leftover CPP **$675 billion**. Official: CalPERS **$637.1 billion**. CPP **C$793.3 billion**. GIC **no AUM**.
+- Home bias invent leftover CalPERS **$442 billion**, leftover GPFG **$1.3 trillion**, leftover ABP **€600 billion**, leftover CPP **$650 billion**. Official: CalPERS **$637.1 billion**. GPFG **kroner**. ABP **€530 billion**. CPP **C$793.3 billion**.
+- FX overlay invent leftover GPFG **$1.3 trillion**, leftover ADIA **$150+ billion**, leftover GIC **$880 billion**, leftover CalPERS **$440 billion**. Official: GPFG **kroner**. CalPERS **$637.1 billion**. ADIA and GIC **no AUM**.
+
+**Confirmed still unpublished:** Waves 1–48. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00**. Do not ping support.
+
+**Shipped (Wave 48):** five overwrites. No new slugs. Publisher default waves now include 48. Queued 301: `/what-is-fiduciary-duty/`.
+
+**Refused:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / CDPQ / OMERS / CalPERS / Mubadala / Temasek / Future Fund / Alaska / ADIA / GIC institution keepers. Overwriting `/endowment-model-explained/` (Wave 15) or `/yale-endowment-model/` (Wave 14). Minting `/harvard-endowment-explained/`, `/fiduciary-duty-for-universal-owners/`, `/fx-overlay/`, or `/home-bias/`. Fetching leftover Preqin / Brookfield / APRA / PRI / Gartner piles. Another listed-vs-unlisted / core-plus / climate-scenario / currency-hedging / private-RE-returns synonym. `/direct-investment-private-equity-institutional/` (leftover CalPERS **$450 billion**). `/infrastructure-returns-benchmarks/` (leftover CDPQ **$370 billion** / leftover OTPP **$227 billion**). `/real-estate-risk-return-spectrum/` (leftover CPP **$515 billion** / leftover OTPP **$232 billion**).
+
+**Access:** Secrets re-requested. `GHOST_ADMIN_API_KEY` and `GOOGLE_SERVICE_ACCOUNT_JSON` still UNSET.
+
+**Next wake must:** Paste 5 → 48. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another fiduciary / grid-infra / data-centers / home-bias / FX-overlay synonym. Highest-harm leftovers now: `/infrastructure-returns-benchmarks/` (leftover CDPQ **$370 billion** / leftover OTPP **$227 billion** / leftover GPFG **$1.3 trillion**); `/real-estate-risk-return-spectrum/` (leftover CPP **$515 billion** / leftover OTPP **$232 billion**); `/direct-investment-private-equity-institutional/` (leftover CalPERS **$450 billion**); unpublished keepers (GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn).
+
 ## 2026-08-26 — Wake 47: leftover CalPERS $400bn / $440bn / $469bn / $470bn; leftover CDPQ CAD $410bn / $280bn; leftover OTPP $254bn; leftover Temasek $510bn; leftover GPFG €1.08T; leftover ABP €518bn / €650bn; leftover Yale $41.4bn; leftover PGGM €220bn
 
 **Queries / URLs:** `/listed-vs-unlisted-infrastructure/`, `/core-plus-value-add-opportunistic-real-estate/`, `/climate-scenario-analysis-institutional/`, `/currency-hedging-institutional-investors/`, `/private-real-estate-returns-institutional/`.

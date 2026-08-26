@@ -1,5 +1,29 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 47: leftover CalPERS $400bn / $440bn / $469bn / $470bn; leftover CDPQ CAD $410bn / $280bn; leftover OTPP $254bn; leftover Temasek $510bn; leftover GPFG €1.08T; leftover ABP €518bn / €650bn; leftover Yale $41.4bn; leftover PGGM €220bn
+
+**Queries / URLs:** `/listed-vs-unlisted-infrastructure/`, `/core-plus-value-add-opportunistic-real-estate/`, `/climate-scenario-analysis-institutional/`, `/currency-hedging-institutional-investors/`, `/private-real-estate-returns-institutional/`.
+
+**What was wrong on the live site:**
+
+- Listed vs unlisted infrastructure invent leftover CDPQ **CAD $410 billion** (2023), leftover OTPP **$254 billion**, leftover PGGM **€220 billion**. Official: CDPQ **CAD $517.3 billion**. OTPP **C$303.2 billion**. PGGM is not a second AUM. PFZW **€252,036 million**.
+- Core-plus real estate invent leftover CalPERS **$400 billion**, leftover Temasek **$510 billion**, leftover CDPQ **$280 billion**, leftover Brookfield **$330 billion**. Official: CalPERS **$637.1 billion**. Temasek **S$518 billion / US$401 billion**. CDPQ **CAD $517.3 billion**.
+- Climate scenario analysis invent leftover CalPERS **$440 billion**, leftover ABP **€518 billion**, leftover IIGCC **€50+ trillion**. Official: CalPERS **$637.1 billion**. ABP **€530 billion**.
+- Currency hedging invent leftover GPFG **€1.08 trillion**, leftover CalPERS **$469 billion**, leftover Yale **$41.4 billion**, leftover ABP **€650 billion**. Official: GPFG **kroner**. CalPERS **$637.1 billion**. Yale **$44.1 billion**. ABP **€530 billion**.
+- Private real-estate returns invent leftover CalPERS **$470 billion**, leftover RE sleeve **$35 billion**, leftover **$3 trillion**. Official: CalPERS **$637.1 billion**.
+
+**Confirmed still unpublished:** Waves 1–47. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00**. Do not ping support.
+
+**Shipped (Wave 47):** five overwrites. No new slugs. Publisher default waves now include 47. No new 301 — short twins are **404**.
+
+**Refused:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / CDPQ / OMERS / CalPERS / Mubadala / Temasek / Alaska / KIC / GPIF / BCI / QIA institution keepers. Overwriting `/endowment-model-explained/` (Wave 15) or `/yale-endowment-model/` (Wave 14). Minting `/pggm/`, `/pfzw-netherlands/`, `/climate-scenario-analysis/`, `/currency-hedging/`, or `/private-real-estate-returns/`. Fetching leftover Brookfield / IIGCC / BREIT / Cornell piles. Another subscription-credit / vintage-year / co-invest-programme / REIT-vs-direct / EM-allocation synonym. `/direct-investment-private-equity-institutional/` (leftover CalPERS **$450 billion**). `/operational-due-diligence-private-equity/` (only leftover CalPERS **$440 billion**). `/what-is-liability-driven-investing/` leftover USS **£70.7 billion** (already a Wave 15 301).
+
+**Access:** Secrets re-requested. `GHOST_ADMIN_API_KEY` and `GOOGLE_SERVICE_ACCOUNT_JSON` still UNSET.
+
+**Next wake must:** Paste 5 → 47. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another listed-vs-unlisted / core-plus / climate-scenario / currency-hedging / private-RE-returns synonym. Highest-harm leftovers now: `/direct-investment-private-equity-institutional/` (leftover CalPERS **$450 billion** / leftover Brookfield **$750 billion**); `/operational-due-diligence-private-equity/` (leftover CalPERS **$440 billion**); unpublished keepers (GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn).
+
 ## 2026-08-26 — Wake 46: leftover CalPERS $440bn / $500bn / $456bn; leftover CPP $500bn / $613bn / $514bn; leftover Temasek $690bn; leftover CalSTRS $315bn / $400bn; leftover GPFG $1.3T / $1.33T; leftover GPIF ¥149T / $1.0T; leftover Yale $41.4bn; leftover QIA $445bn; leftover Mubadala $284bn; leftover GIC $896bn; leftover OTPP $240bn
 
 **Queries / URLs:** `/subscription-credit-facilities-private-equity/`, `/vintage-year-diversification-private-equity/`, `/co-investment-programme-asset-owner/`, `/reit-vs-direct-real-estate/`, `/emerging-markets-allocation-institutional/`.

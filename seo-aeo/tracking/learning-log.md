@@ -1,5 +1,27 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 56: leftover CalPERS $489bn / $429bn / $470bn / $440bn / $400bn+; leftover OTPP $254bn; leftover GPIF $1.4T / $1.89T; leftover GPFG $1.4T / $1.43T / $1.3T; leftover CalSTRS $313bn / $376bn / $315bn; leftover CPP $529.2bn / $530bn; leftover Yale $41.4bn; leftover Harvard $50.7bn
+
+**Queries / URLs:** `/system-level-investing-explained/`, `/separately-managed-account-institutional/`, `/digital-assets-institutional-portfolios/`, `/natural-capital-biodiversity-risk-investors/`, `/smart-beta-institutional-investors/`.
+
+**What was wrong on the live site:**
+
+- System-level invent leftover CalPERS **$489 billion**, leftover GPIF **$1.4 trillion**, leftover OTPP **$254 billion**, leftover GPFG **$1.4 trillion**, leftover CalSTRS **$313 billion**. Official: CalPERS **$637.1 billion**. GPIF **yen**. OTPP **C$303.2 billion**. GPFG **kroner**. CalSTRS **$415.4 billion**.
+- SMAs invent leftover CalPERS **$429 billion**, leftover GPFG **$1.43 trillion**, leftover CPP **$529.2 billion**, leftover CalSTRS **$376 billion**. Official: CalPERS **$637.1 billion**. GPFG **kroner**. CPP **C$793.3 billion**. CalSTRS **$415.4 billion**.
+- Digital assets invent leftover Yale **$41.4 billion**, leftover Harvard **$50.7 billion**, leftover GPIF **$1.89 trillion**. Official: Yale **$44.1 billion**. Harvard **$56.9 billion**. GPIF **yen**.
+- Natural capital invent leftover CalPERS **$470 billion**, leftover CalSTRS **$315 billion**. Twin invent leftover CalPERS **USD 400+ billion**, leftover GPFG **USD 1.3 trillion**, leftover Ohio STRS **USD 80+ billion**. Official: CalPERS **$637.1 billion**. CalSTRS **$415.4 billion**. GPFG **kroner**.
+- Smart beta invent leftover GPFG **$1.3 trillion**, leftover CalPERS **$440 billion**, leftover CPP **$530 billion**. Official: GPFG **kroner**. CalPERS **$637.1 billion**. CPP **C$793.3 billion**.
+
+**Confirmed still unpublished:** Waves 1–56. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00**. Do not ping support.
+
+**Shipped (Wave 56):** five overwrites. No new slugs. Publisher default waves now include 56. Queued 301: `/what-is-a-separately-managed-account-for-institutions/`; `/what-is-natural-capital/`.
+
+**Refused:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / CDPQ / OMERS / CalPERS / Mubadala / Temasek / Future Fund / Alaska / ADIA / GIC / BCI / GPIF institution keepers. Overwriting `/endowment-model-explained/` (Wave 15) or `/yale-endowment-model/` (Wave 14). Another long-horizon / risk-framework / benchmarking / commodities / carbon-pricing synonym. Minting `/harvard-endowment-explained/`, `/strs-ohio-explained/`, `/system-level-investing/`, `/separately-managed-account/`, `/digital-assets-institutional/`, `/smart-beta-explained/`, or `/natural-capital-explained/`. Fetching leftover PRI / Ohio STRS piles. `/illiquidity-premium-private-markets/` (leftover CalPERS **$440 billion** / leftover Yale **$41.4 billion**). `/issb-standards-explained/` (only leftover CalPERS **$440 billion**; twin leftover GPFG **$1.32 trillion**). `/biodiversity-net-gain-institutional-investors/` (leftover CalPERS **$488 billion**).
+
+**Next wake must:** Paste 5 → 56. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another system-level / SMA / digital-assets / natural-capital / smart-beta synonym. Highest-harm leftovers now: `/issb-standards-explained/` (leftover CalPERS **$440 billion**; twin leftover GPFG **$1.32 trillion**); `/illiquidity-premium-private-markets/` (leftover CalPERS **$440 billion** / leftover Yale **$41.4 billion**); `/biodiversity-net-gain-institutional-investors/` (leftover CalPERS **$488 billion**); unpublished keepers (GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn).
+
 ## 2026-08-26 — Wake 55: leftover CalPERS $473bn / $438bn / $475bn / $490bn / $440bn / $470bn; leftover USS £78.4bn; leftover CalSTRS $313bn / $314bn; leftover GPFG $1.35T; leftover GPIF $1.7T; leftover Harvard $50.9bn / $53.2bn; leftover Yale $41bn; leftover CPP $619bn / CAD $548bn
 
 **Queries / URLs:** `/long-horizon-investing-explained/`, `/risk-management-framework-institutional/`, `/benchmarking-institutional-portfolios/`, `/commodities-as-asset-class-institutional/`, `/carbon-pricing-institutional-investors/`.

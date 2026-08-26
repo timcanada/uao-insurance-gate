@@ -1,5 +1,29 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 23: PIF vs ADIA $2.3T; GIC $936bn; FO vs SWF $1.4T; PNG $2.7bn-as-fund; Ghana Heritage “2019”
+
+**Queries / URLs:** `/pif-vs-adia/`, `/gic-vs-cpp/`, `/family-office-vs-sovereign-wealth-fund/`, `/papua-new-guinea-sovereign-wealth-fund/`, `/ghana-heritage-fund-explained/`.
+
+**What was wrong on the live site:**
+
+- PIF vs ADIA (4 July 2026) invents **combined assets exceeding $2.3 trillion**, PIF **$1.15 trillion** at mid-2025, and ADIA **$1.18 trillion**. Official: PIF **more than US$900 billion**. ADIA **does not publish AUM**. $2T is a **2030 KPI**.
+- GIC vs CPP (7 July 2026) invents GIC **~$936 billion**. Official: GIC **does not publish AUM**; 20-year real **3.4%** / USD nominal **5.6%** to **31 March 2026**. CPP **C$793.3 billion** at **31 March 2026**. CPP is **not** a SWF. Legal name **GIC Private Limited**.
+- Family office vs SWF invents FO **$100 million–$5 billion+** bands, SWF **$50 billion–$1 trillion+** bands, GPFG **$1.4 trillion** at end-2023, and ADIA **$150 billion / $800 billion**. Official GPFG is **22,683 billion kroner**. ADIA **no AUM**. No official FO AUM bands.
+- PNG SWF is right that the fund is not funded, then treats **$2.7 billion** PNG LNG government revenue (2014–2015) as if it were the missing NAV. Official Treasury: **Stabilisation Fund** + **Development Fund** under the Organic Law. **No official AUM.**
+- Ghana Heritage Fund invents a **2019** founding. Official: PRMA **2011 (Act 815)** s.10. BoG H1 2026 PDF: GHF **US$1,460.98 million** / GSF **US$182.68 million** at **30 June 2026**. Do not mint `/ghana-petroleum-funds/`.
+
+**Confirmed still unpublished:** Waves 1–22. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Ghost key still missing. Mubadala live already current. Future Fund live already A$269.1bn. PIF institution page still **$925 billion** (pif.gov.sa Cloudflare-blocked this wake).
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx — do not ping support. Wallet still $0.00.
+
+**Shipped (Wave 23):** five overwrites. No new slugs. No new synonym 301s. Publisher default waves now include 23.
+
+**Refused:** ICD YE2025 PDF. Palestine PIF widgets. Trinidad HSF Q4 2025 PDF unread. Dollarizing Hassana **SAR 1.2 trillion+** or GPFG. Another Mubadala / Future Fund / GPIF-institution overwrite. Minting the Wave 3 404 short slugs.
+
+**Access:** Secrets re-requested. `GHOST_ADMIN_API_KEY` and `GOOGLE_SERVICE_ACCOUNT_JSON` still UNSET.
+
+**Next wake must:** Paste 5 → 23. Then 301 `twins.csv` (P0 first; Wave 21 EPF/AUM-estimate/per-capita twins). If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another PIF-vs-ADIA / GIC-vs-CPP / FO-vs-SWF / PNG / Ghana-Heritage synonym. Highest-harm leftovers: `/saudi-gosi-explained/` (live **$180 billion as of 2023**; Hassana homepage **SAR 1.2 trillion+**); `/public-investment-fund-pif/` (live **$925 billion**); `/gulf-sovereign-wealth-funds/` (**$5 trillion** pile); `/sovereign-wealth-funds-in-the-middle-east/` (**$3 trillion** pile); Trinidad HSF once the Q4 2025 PDF is readable.
+
 ## 2026-08-26 — Wake 22: NBIM vs GIC $1.3T; Timor $18.9bn; Mongolia FHF $1.5bn; PIF vs Mubadala $1.15T; FO $4–8T pile
 
 **Queries / URLs:** `/nbim-vs-gic/`, `/timor-leste-petroleum-fund/`, `/mongolia-future-heritage-fund/`, `/pif-vs-mubadala/`, `/largest-family-offices-in-the-world/`.

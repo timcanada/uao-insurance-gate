@@ -92,6 +92,11 @@ P1,Timor-Leste Petroleum Fund,allocator,both,/timor-leste-petroleum-fund/,entity
 P1,Mongolia Future Heritage Fund,allocator,both,/mongolia-future-heritage-fund/,entity,unknown,unknown,unknown,refresh-drafted,Live $1.5bn as of 2023. Official Chinggis FHF ~USD 1.336bn at 31 Dec 2025. Wave 22. Do not mint Chinggis slug
 P1,PIF vs Mubadala,allocator,both,/pif-vs-mubadala/,compare,unknown,unknown,unknown,refresh-drafted,Live PIF $1.15T / ADIA $1.18T / $700bn / $500bn NEOM. Official PIF more than US$900bn; Mubadala AED 1.4T. Wave 22
 P1,largest family offices in the world,allocator,both,/largest-family-offices-in-the-world/,list,unknown,unknown,unknown,refresh-drafted,Live $4–8T pile plus invented house AUM. No official FO AUM table. Mubadala is a SWF. Wave 22
+P1,PIF vs ADIA,allocator,both,/pif-vs-adia/,compare,unknown,unknown,unknown,refresh-drafted,Live $2.3T / $1.15T / $1.18T. Official PIF more than US$900bn; ADIA no AUM. Wave 23
+P1,GIC vs CPP Investments,allocator,both,/gic-vs-cpp/,compare,unknown,unknown,unknown,refresh-drafted,Live GIC $936bn. Official GIC no AUM; CPP C$793.3bn at 31 Mar 2026. Wave 23
+P1,family office vs sovereign wealth fund,allocator,both,/family-office-vs-sovereign-wealth-fund/,compare,unknown,unknown,unknown,refresh-drafted,Live FO $100M–$5B / GPFG $1.4T / ADIA $150bn. No official FO AUM bands. Wave 23
+P1,Papua New Guinea sovereign wealth fund,allocator,both,/papua-new-guinea-sovereign-wealth-fund/,entity,unknown,unknown,unknown,refresh-drafted,Live treats $2.7bn LNG revenue as the fund. Official Treasury design; no AUM. Wave 23
+P1,Ghana Heritage Fund,allocator,both,/ghana-heritage-fund-explained/,entity,unknown,unknown,unknown,refresh-drafted,Live 2019 founding. Official Act 815/2011; GHF US$1,460.98m at 30 Jun 2026. Wave 23. Do not mint /ghana-petroleum-funds/
 P2,what is an OCIO,allocator,both,/what-is-an-ocio/,define,unknown,unknown,unknown,live-check,
 P2,single family office vs multi family office,allocator,both,/single-vs-multi-family-office/,define,unknown,unknown,unknown,live-check,
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,live-check,

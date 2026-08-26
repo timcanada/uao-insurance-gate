@@ -179,7 +179,7 @@ def main() -> None:
         ("azerbaijan-sofar", "SOFAZ", "SWF", "needed"),
         ("timor-leste-petroleum-fund", "Timor-Leste Petroleum Fund", "SWF", "refresh-drafted"),
         ("botswana-pula-fund", "Pula Fund", "SWF", "needed"),
-        ("ghana-petroleum-funds", "Ghana Petroleum Funds", "SWF", "needed"),
+        ("ghana-petroleum-funds", "Ghana Petroleum Funds", "SWF", "refresh-drafted"),
         ("nsia-nigeria", "Nigeria Sovereign Investment Authority", "SWF", "needed"),
         ("angola-fsdea", "FSDEA", "SWF", "needed"),
         ("egypt-tsfe", "Egypt TSFE", "SWF", "needed"),

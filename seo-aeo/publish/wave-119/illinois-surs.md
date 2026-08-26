@@ -27,7 +27,7 @@ The statement of fiduciary net position is the sourced line:
 2. **GASB funded cards are the defined-benefit book.** Defined-benefit fiduciary net position **$25,182.6 million**. Total pension liability **$55,372.1 million**. Net pension liability **$30,189.5 million**. Fiduciary net position as a percentage of total pension liability **45.48 percent**. Those four cards are not the combined $25.365 billion book.
 3. **Returns.** Time-weighted return **6.4 percent** net of investment management fees, against the house policy benchmark **6.1 percent** and the **6.5 percent** long-term actuarial assumption. Annual money-weighted return **6.42 percent** net of fees. Those two official one-year prints are not interchangeable.
 
-Do not flatten SURS into [Illinois TRS](/illinois-trs/), [Illinois SERS](/illinois-sers/), or [Illinois State Board of Investment](/illinois-isbi/). Illinois TRS is the statewide teacher file. Illinois SERS is the statewide state-employee file. ISBI does not manage this book. This is **one public-university file**.
+Do not flatten SURS into [Illinois TRS](/illinois-trs/), [Illinois SERS](/illinois-sers/), [Illinois State Board of Investment](/illinois-isbi/), [Illinois JRS](/illinois-jrs/), [Illinois GARS](/illinois-gars/), or [IMRF](/illinois-imrf/). Illinois TRS is the statewide teacher file. Illinois SERS is the statewide state-employee file. ISBI does not manage this book. IMRF is the local-government file. This is **one public-university file**.
 
 ## What an owner is actually buying
 
@@ -49,5 +49,8 @@ Do not 301 this page onto `/illinois-trs/`, `/illinois-sers/`, `/illinois-isbi/`
 - [Illinois TRS](/illinois-trs/)
 - [Illinois SERS](/illinois-sers/)
 - [Illinois State Board of Investment](/illinois-isbi/)
+- [Illinois JRS](/illinois-jrs/)
+- [Illinois GARS](/illinois-gars/)
+- [IMRF](/illinois-imrf/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

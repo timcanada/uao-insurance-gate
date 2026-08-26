@@ -572,5 +572,10 @@ P1,State Employees’ Retirement System of Illinois,allocator,both,/illinois-ser
 P1,Kentucky County Employees Retirement System,allocator,both,/kentucky-cers/,define,unknown,unknown,unknown,drafted-wave-119,Wave 119. Official combined $20,159,914 thousand at 30 Jun 2025. Do not mint /cers/
 P1,Kentucky Retirement Systems,allocator,both,/kentucky-krs/,define,unknown,unknown,unknown,drafted-wave-119,Wave 119. Official combined $9,882,254 thousand at 30 Jun 2025. Do not mint /kers/
 P1,Sacramento County Employees’ Retirement System,allocator,both,/sacramento-scers/,define,unknown,unknown,unknown,drafted-wave-119,Wave 119. Official FNP $14,577,459 thousand at 30 Jun 2025. Do not mint /scers/
+P1,Judges’ Retirement System of Illinois,allocator,both,/illinois-jrs/,define,unknown,unknown,unknown,drafted-wave-120,Wave 120. Official FNP $1,470,253,087 at 30 Jun 2025. Do not mint /jrs/
+P1,General Assembly Retirement System of Illinois,allocator,both,/illinois-gars/,define,unknown,unknown,unknown,drafted-wave-120,Wave 120. Official FNP $97,435,115 at 30 Jun 2025. Do not mint /gars/
+P1,Illinois Municipal Retirement Fund,allocator,both,/illinois-imrf/,define,unknown,unknown,unknown,drafted-wave-120,Wave 120. Official FNP $62,375,940,515 at 31 Dec 2025. Do not mint /imrf/
+P1,Illinois Firefighters’ Pension Investment Fund,allocator,both,/illinois-fpif/,define,unknown,unknown,unknown,drafted-wave-120,Wave 120. Official pool net position $10,286,871,117 at 30 Jun 2025. Do not mint /fpif/
+P1,Illinois Police Officers’ Pension Investment Fund,allocator,both,/illinois-ipopif/,define,unknown,unknown,unknown,drafted-wave-120,Wave 120. Official pool net position $13,743,292,730 at 30 Jun 2025. Do not mint /ipopif/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

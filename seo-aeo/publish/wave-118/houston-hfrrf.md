@@ -27,7 +27,7 @@ The statement of fiduciary net position is the sourced line:
 2. **Liability cards.** Total pension liability **$5,800,379 thousand**. Net pension liability **$1,272 thousand**. Fiduciary net position as a percentage of total pension liability **99.98 percent**. Those three lines are not interchangeable.
 3. **Returns.** Management-discussion total return **11.88 percent** gross and **11.84 percent** net. Investment-section time-weighted total portfolio **11.9 percent** gross. Annual money-weighted return **11.79 percent** net of investment expense. Those four official one-year prints are not interchangeable. The newsletter **11.9 percent** card is the rounded time-weighted print, not a second money-weighted card.
 
-Do not flatten Houston firefighters into [Houston Municipal Employees](/houston-hmeps/), [Texas TRS](/texas-teacher-retirement-system-explained/), or [Texas ERS](/texas-ers/). This is **one Houston firefighter file**.
+Do not flatten Houston firefighters into [Houston Municipal Employees](/houston-hmeps/), [Texas TRS](/texas-teacher-retirement-system-explained/), [Texas ERS](/texas-ers/), or [Illinois FPIF](/illinois-fpif/). Illinois FPIF is the Illinois Article 4 investment trust. This is **one Houston firefighter file**.
 
 ## What an owner is actually buying
 
@@ -49,5 +49,6 @@ Do not 301 this page onto `/houston-hmeps/`, `/texas-teacher-retirement-system-e
 - [Houston Municipal Employees](/houston-hmeps/)
 - [Texas TRS](/texas-teacher-retirement-system-explained/)
 - [Texas ERS](/texas-ers/)
+- [Illinois FPIF](/illinois-fpif/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

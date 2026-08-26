@@ -241,6 +241,16 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,kers,KERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 119 /kentucky-krs/
 119,institution,sacramento-scers,Sacramento County Employees’ Retirement System,allocator,brief,P0,drafted-in-repo,Wave 119. Official FNP $14,577,459 thousand at 30 Jun 2025. Do not mint /scers/ (Seattle collision)
 2,institution,scers,SCERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 119 /sacramento-scers/. Seattle City Employees is a different legal person
+120,institution,illinois-jrs,Judges’ Retirement System of Illinois,allocator,brief,P0,drafted-in-repo,Wave 120. Official FNP $1,470,253,087 at 30 Jun 2025. Do not mint /jrs/ or /illinois-jrs-explained/
+2,institution,jrs,JRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 120 /illinois-jrs/
+120,institution,illinois-gars,General Assembly Retirement System of Illinois,allocator,brief,P0,drafted-in-repo,Wave 120. Official FNP $97,435,115 at 30 Jun 2025. Do not mint /gars/ or /illinois-gars-explained/
+2,institution,gars,GARS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 120 /illinois-gars/. South Carolina GARS is a different legal person
+120,institution,illinois-imrf,Illinois Municipal Retirement Fund,allocator,brief,P0,drafted-in-repo,Wave 120. Official FNP $62,375,940,515 at 31 Dec 2025. Do not mint /imrf/ or /imrf-explained/
+2,institution,imrf,IMRF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 120 /illinois-imrf/
+120,institution,illinois-fpif,Illinois Firefighters’ Pension Investment Fund,allocator,brief,P0,drafted-in-repo,Wave 120. Official pool net position $10,286,871,117 at 30 Jun 2025. Do not mint /fpif/ or /ifpif/
+2,institution,fpif,FPIF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 120 /illinois-fpif/
+120,institution,illinois-ipopif,Illinois Police Officers’ Pension Investment Fund,allocator,brief,P0,drafted-in-repo,Wave 120. Official pool net position $13,743,292,730 at 30 Jun 2025. Do not mint /ipopif/ or /popif/
+2,institution,ipopif,IPOPIF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 120 /illinois-ipopif/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

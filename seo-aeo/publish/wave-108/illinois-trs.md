@@ -28,7 +28,7 @@ The combining statement is the sourced split (dollars, not thousands):
 2. **Named books on the same statement.** Net investment income **$6,902,120,417**. Fiduciary net position increased **$5,837,731,788**. Investments at fair value **$76,590,555,598**. Total pension liability **$162,014,881,717**. Net pension liability **$84,751,550,101**. Fiduciary net position as a percentage of total pension liability **47.7 percent**. The funding-valuation actuarial accrued liability is **$159.1 billion**; that funded ratio is **47.8 percent**. Those GASB and funding lines are not interchangeable.
 3. **Returns and benefits.** Portfolio return **9.7 percent** net of fees, **270** basis points above the **7.0 percent** assumed rate. Defined benefits and refunds **$8.6 billion**. Benefit payments **$8.5 billion** to **134,395** recipients. ISBI does not manage this book.
 
-Do not flatten Illinois TRS into [Texas TRS](/texas-teacher-retirement-system-explained/), [ISBI](/illinois-isbi/), [SURS](/illinois-surs/), or [Illinois SERS](/illinois-sers/). Texas TRS is Texas. ISBI manages Illinois SERS, GARS, and JRS — not TRS. SURS is the public-university file. This is **one Illinois teacher file**.
+Do not flatten Illinois TRS into [Texas TRS](/texas-teacher-retirement-system-explained/), [ISBI](/illinois-isbi/), [SURS](/illinois-surs/), [Illinois SERS](/illinois-sers/), [Illinois JRS](/illinois-jrs/), [Illinois GARS](/illinois-gars/), or [IMRF](/illinois-imrf/). Texas TRS is Texas. ISBI manages Illinois SERS, GARS, and JRS — not TRS. SURS is the public-university file. IMRF is the local-government file. This is **one Illinois teacher file**.
 
 ## What an owner is actually buying
 
@@ -52,5 +52,8 @@ Do not 301 this page onto `/texas-teacher-retirement-system-explained/`, `/illin
 - [Illinois State Board of Investment](/illinois-isbi/)
 - [SURS](/illinois-surs/)
 - [Illinois SERS](/illinois-sers/)
+- [Illinois JRS](/illinois-jrs/)
+- [Illinois GARS](/illinois-gars/)
+- [IMRF](/illinois-imrf/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

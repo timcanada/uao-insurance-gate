@@ -27,7 +27,7 @@ The statement of fiduciary net position is the sourced line (in thousands):
 2. **Liability and funded cards.** Total pension liability **$8,770,453 thousand**. Net pension liability **$500,911 thousand**. Fiduciary net position as a percentage of total pension liability **94.29 percent**. Actuarial-value funded ratio **94.2 percent** as of **1 July 2025**, with unfunded actuarial accrued liability **$489,831 thousand**. Those four cards are not interchangeable.
 3. **Returns.** Time-weighted return **9.4 percent**, prepared to Global Investment Performance Standards. Money-weighted return **9.3 percent** net of pension-plan investment expense. Those two official one-year prints are not interchangeable. City contributions **$169,734 thousand** equal **32.07 percent** of payroll under the governing statute.
 
-Do not flatten Houston police into [Houston Municipal Employees](/houston-hmeps/), [Houston Firefighters](/houston-hfrrf/), [Texas TRS](/texas-teacher-retirement-system-explained/), or [Texas ERS](/texas-ers/). This is **one Houston police file**.
+Do not flatten Houston police into [Houston Municipal Employees](/houston-hmeps/), [Houston Firefighters](/houston-hfrrf/), [Texas TRS](/texas-teacher-retirement-system-explained/), [Texas ERS](/texas-ers/), or [Illinois IPOPIF](/illinois-ipopif/). Illinois IPOPIF is the Illinois Article 3 investment trust. This is **one Houston police file**.
 
 ## What an owner is actually buying
 
@@ -49,5 +49,6 @@ Do not 301 this page onto `/houston-hmeps/`, `/houston-hfrrf/`, `/texas-teacher-
 - [Houston Municipal Employees](/houston-hmeps/)
 - [Houston Firefighters](/houston-hfrrf/)
 - [Texas ERS](/texas-ers/)
+- [Illinois IPOPIF](/illinois-ipopif/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

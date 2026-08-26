@@ -27,7 +27,7 @@ The statement of fiduciary net position is the sourced line:
 2. **GASB funded cards.** Total pension liability **$60,250,116,049**. Net pension liability **$32,611,657,990**. Fiduciary net position as a percentage of total pension liability **45.9 percent**. Those three cards are not a second investment book. The Illinois State Board of Investment commingled fund is the investment vehicle, not a second Illinois SERS AUM.
 3. **Returns.** Illinois State Board of Investment commingled-fund overall rate of return **9.7 percent**. System money-weighted return on its investment in that commingled fund **9.8 percent** net of pension-plan investment expense. Those two official one-year prints are not interchangeable.
 
-Do not flatten Illinois SERS into [Illinois TRS](/illinois-trs/), [SURS](/illinois-surs/), [Illinois State Board of Investment](/illinois-isbi/), [Ohio SERS](/ohio-sers/), or [Pennsylvania SERS](/pennsylvania-sers/). ISBI manages this book. Illinois TRS is the statewide teacher file. SURS is the public-university file. Ohio SERS and Pennsylvania SERS are different legal persons. This is **one Illinois state-employee file**.
+Do not flatten Illinois SERS into [Illinois TRS](/illinois-trs/), [SURS](/illinois-surs/), [Illinois State Board of Investment](/illinois-isbi/), [Illinois JRS](/illinois-jrs/), [Illinois GARS](/illinois-gars/), [IMRF](/illinois-imrf/), [Ohio SERS](/ohio-sers/), or [Pennsylvania SERS](/pennsylvania-sers/). ISBI manages this book. Illinois TRS is the statewide teacher file. SURS is the public-university file. JRS is the judges’ file. GARS is the General Assembly file. IMRF is the local-government file. Ohio SERS and Pennsylvania SERS are different legal persons. This is **one Illinois state-employee file**.
 
 ## What an owner is actually buying
 
@@ -49,5 +49,8 @@ Do not 301 this page onto `/illinois-trs/`, `/illinois-surs/`, `/illinois-isbi/`
 - [SURS](/illinois-surs/)
 - [Illinois TRS](/illinois-trs/)
 - [Illinois State Board of Investment](/illinois-isbi/)
+- [Illinois JRS](/illinois-jrs/)
+- [Illinois GARS](/illinois-gars/)
+- [IMRF](/illinois-imrf/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

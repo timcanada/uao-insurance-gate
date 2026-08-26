@@ -50,6 +50,48 @@ QUERIES = {
         }
         LIMIT 400
     """,
+    "swf_leaders": """
+        SELECT DISTINCT ?person ?personLabel ?orgLabel ?countryLabel ?role WHERE {
+          ?org wdt:P31/wdt:P279* wd:Q1061648 .
+          {
+            ?org wdt:P169 ?person . BIND("Chief Executive Officer" AS ?role)
+          } UNION {
+            ?org wdt:P488 ?person . BIND("Chairperson" AS ?role)
+          } UNION {
+            ?org wdt:P1037 ?person . BIND("Director" AS ?role)
+          }
+          FILTER NOT EXISTS { ?person wdt:P570 ?dod }
+          OPTIONAL { ?org wdt:P17 ?country }
+          SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+        }
+        LIMIT 400
+    """,
+    "pension_leaders": """
+        SELECT DISTINCT ?person ?personLabel ?orgLabel ?countryLabel ?role WHERE {
+          ?org wdt:P31/wdt:P279* wd:Q182103 .
+          {
+            ?org wdt:P169 ?person . BIND("Chief Executive Officer" AS ?role)
+          } UNION {
+            ?org wdt:P488 ?person . BIND("Chairperson" AS ?role)
+          } UNION {
+            ?org wdt:P1037 ?person . BIND("Director" AS ?role)
+          }
+          FILTER NOT EXISTS { ?person wdt:P570 ?dod }
+          OPTIONAL { ?org wdt:P17 ?country }
+          SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+        }
+        LIMIT 400
+    """,
+    "central_bank": """
+        SELECT DISTINCT ?person ?personLabel ?orgLabel ?countryLabel WHERE {
+          ?org wdt:P31/wdt:P279* wd:Q66344 .
+          ?org wdt:P169 ?person .
+          FILTER NOT EXISTS { ?person wdt:P570 ?dod }
+          OPTIONAL { ?org wdt:P17 ?country }
+          SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+        }
+        LIMIT 250
+    """,
 }
 
 LEADERSHIP_PROPS = {
@@ -91,27 +133,8 @@ def fetch_wikidata(client: HttpClient, seed_names: list[str] | None = None) -> d
             headers={"Accept": "application/sparql-results+json"},
         )
         rows = _bindings(payload if isinstance(payload, dict) else {})
-        if kind == "finance_minister":
-            for row in rows:
-                name = row.get("personLabel") or ""
-                if not name or name.startswith("http"):
-                    continue
-                country = row.get("countryLabel") or ""
-                title = row.get("positionLabel") or "Minister of Finance"
-                people.append(
-                    {
-                        "name": name,
-                        "title": title,
-                        "org_name": f"Government of {country}" if country else "National government",
-                        "org_type": "government",
-                        "org_key": normalize_org(f"government {country}"),
-                        "country": country,
-                        "source": "wikidata",
-                        "source_url": row.get("person"),
-                        "status": "discovered",
-                        "extra_json": {"wikidata": row.get("person")},
-                    }
-                )
+        if kind in {"finance_minister", "swf_leaders", "pension_leaders", "central_bank"}:
+            people.extend(_people_from_leader_rows(kind, rows))
             continue
         org_type = "swf" if kind == "swf" else "pension"
         for row in rows:
@@ -147,8 +170,46 @@ def fetch_wikidata(client: HttpClient, seed_names: list[str] | None = None) -> d
                     }
                 )
     if seed_names:
-        people.extend(leadership_for_names(client, seed_names[:40]))
+        people.extend(leadership_for_names(client, seed_names[:80]))
     return {"organizations": orgs, "people": people}
+
+
+def _people_from_leader_rows(kind: str, rows: list[dict[str, str]]) -> list[dict[str, Any]]:
+    people: list[dict[str, Any]] = []
+    for row in rows:
+        name = row.get("personLabel") or ""
+        if not name or name.startswith("http") or (name.startswith("Q") and name[1:].isdigit()):
+            continue
+        country = row.get("countryLabel") or ""
+        if kind == "finance_minister":
+            title = row.get("positionLabel") or "Minister of Finance"
+            org_name = f"Government of {country}" if country else "National government"
+            org_type = "government"
+        elif kind == "central_bank":
+            title = "Governor"
+            org_name = row.get("orgLabel") or "Central bank"
+            org_type = "government"
+        else:
+            title = row.get("role") or "Chief Executive Officer"
+            org_name = row.get("orgLabel") or ""
+            org_type = "swf" if kind == "swf_leaders" else "pension"
+        if not org_name:
+            continue
+        people.append(
+            {
+                "name": name,
+                "title": title,
+                "org_name": org_name,
+                "org_type": org_type,
+                "org_key": normalize_org(org_name),
+                "country": country,
+                "source": "wikidata",
+                "source_url": row.get("person"),
+                "status": "discovered",
+                "extra_json": {"wikidata": row.get("person"), "query": kind},
+            }
+        )
+    return people
 
 
 def leadership_for_names(client: HttpClient, names: list[str]) -> list[dict[str, Any]]:

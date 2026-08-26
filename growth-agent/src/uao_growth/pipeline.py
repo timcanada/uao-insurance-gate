@@ -291,12 +291,17 @@ def weekly(
     http: HttpClient,
     sources: list[str] | None = None,
     members_path: Path | None = None,
+    public_only: bool = False,
 ) -> dict[str, Any]:
     started = utcnow()
     member_stats = ingest_members(settings, store, members_path)
     discovery = discover(settings, store, http, sources)
-    enrichment = enrich(settings, store, http, limit=min(settings.weekly_quota, 400))
-    validation = validate_emails(settings, store, http, limit=min(settings.weekly_quota, 800))
+    if public_only:
+        enrichment = {"skipped_public_only": 1, "note": "Apollo left for later contact fill"}
+        validation = {"skipped_public_only": 1, "note": "Neverbounce left for later verification"}
+    else:
+        enrichment = enrich(settings, store, http, limit=min(settings.weekly_quota, 400))
+        validation = validate_emails(settings, store, http, limit=min(settings.weekly_quota, 800))
     marked = mark_exportable(settings, store)
     stamp = started.replace(":", "").replace("-", "")[:15]
     csv_path = settings.exports_dir / f"week-{stamp}-prospects.csv"

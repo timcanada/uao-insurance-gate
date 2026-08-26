@@ -27,7 +27,7 @@ REJECT_PATTERNS = (
 # Highest matching rule wins.
 TITLE_RULES: tuple[tuple[int, str, str], ...] = (
     (100, "finance_minister", r"\b(minister of finance|finance minister|treasury secretary|secretary of the treasury|chancellor of the exchequer|minister of economy|minister of finance and economy)\b"),
-    (98, "central_bank_governor", r"\b(governor of the|central bank governor|governor,? central bank)\b"),
+    (98, "central_bank_governor", r"\bgovernor\b"),
     (96, "cio", r"\b(chief investment officer|\bcio\b|group cio|global cio)\b"),
     (95, "ceo_owner", r"\b(chief executive|\bceo\b|managing director general|director general|president & ceo|president and ceo)\b"),
     (94, "swf_executive", r"\b(executive director|managing director|chief executive director)\b"),
@@ -40,7 +40,7 @@ TITLE_RULES: tuple[tuple[int, str, str], ...] = (
     (85, "cro_cso", r"\b(chief risk officer|\bcro\b|chief strategy officer|chief investment strategist|head of stewardship)\b"),
     (84, "cfo_owner", r"\b(chief financial officer|\bcfo\b|finance director)\b"),
     (83, "event_principal", r"\b(founder|conference chair|managing director, events|head of (partnerships|delegates|institutional relationships))\b"),
-    (82, "ic_member", r"\b(investment committee|trustee|board (chair|chairman|member))\b"),
+    (82, "ic_member", r"\b(investment committee|trustee|board (chair|chairman|member)|chairperson|chairman|chairwoman)\b"),
     (80, "c_suite", r"\b(chief operating officer|\bcoo\b|chief of staff|deputy chief executive|deputy ceo)\b"),
     (78, "partner", r"\b(partner|principal consultant|executive vice president|\bevp\b)\b"),
     (70, "director", r"\b(director|head of|vice president|\bvp\b)\b"),

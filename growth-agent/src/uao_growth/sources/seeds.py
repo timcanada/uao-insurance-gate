@@ -29,6 +29,24 @@ def load_seed_orgs(seeds_dir: Path) -> list[dict[str, Any]]:
     return orgs
 
 
+OWNER_ORG_TYPES = {
+    "swf",
+    "pension",
+    "family_office",
+    "endowment",
+    "insurer",
+    "pe",
+    "government",
+}
+
+
+def role_targets_from_orgs(orgs: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    """Named people come later. These slots are the senior seats we still need."""
+    return seed_people_from_orgs(
+        [org for org in orgs if (org.get("org_type") or "") in OWNER_ORG_TYPES or org.get("source") == "seeds"]
+    )
+
+
 def seed_people_from_orgs(orgs: list[dict[str, Any]]) -> list[dict[str, Any]]:
     """Role targets, not invented people. Enrichment fills the actual names."""
     people: list[dict[str, Any]] = []

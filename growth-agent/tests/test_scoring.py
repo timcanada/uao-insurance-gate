@@ -35,6 +35,11 @@ def test_sec_owner_filter_drops_retail_wealth_managers():
     assert is_owner_filer("Dye Family Office", "family_office") is True
 
 
+def test_governor_and_chairperson_clear_bar():
+    assert score_person(title="Governor", org_type="government").exportable
+    assert score_person(title="Chairperson", org_type="swf").exportable
+
+
 def test_head_of_private_markets_clears_bar():
     score = score_person(title="Head of Private Markets", org_type="pension", min_seniority=78)
     assert score.exportable

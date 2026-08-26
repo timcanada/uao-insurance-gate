@@ -5,7 +5,7 @@ from typing import Any, Callable
 from uao_growth.config import Settings
 from uao_growth.http import HttpClient
 from uao_growth.sources.sec_edgar import fetch_iapd, fetch_sec
-from uao_growth.sources.seeds import load_seed_orgs, seed_people_from_orgs
+from uao_growth.sources.seeds import load_seed_orgs, role_targets_from_orgs, seed_people_from_orgs
 from uao_growth.sources.wikidata import fetch_wikidata
 
 SOURCE_NAMES = ("seeds", "wikidata", "sec_edgar", "sec_iapd")
@@ -30,7 +30,7 @@ def run_sources(
             seed_names=[
                 org["name"]
                 for org in load_seed_orgs(settings.seeds_dir)
-                if int(org.get("priority") or 0) >= 96
+                if int(org.get("priority") or 0) >= 84
             ],
         ),
         "sec_edgar": lambda: fetch_sec(client),
@@ -46,4 +46,5 @@ def run_sources(
             people.extend(batch.get("people") or [])
         except Exception as exc:
             errors[name] = str(exc)
+    people.extend(role_targets_from_orgs(orgs))
     return {"organizations": orgs, "people": people, "errors": errors}

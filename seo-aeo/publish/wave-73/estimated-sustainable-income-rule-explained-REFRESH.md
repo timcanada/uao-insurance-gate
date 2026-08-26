@@ -40,6 +40,7 @@ The endowment-model job already sits on [`/endowment-model-explained/`](/endowme
 
 ## Related on Universal Asset Owners
 
+- [How endowments set spending rules](/how-do-endowments-set-spending-rules/)
 - [Endowment model](/endowment-model-explained/)
 - [Yale endowment model](/yale-endowment-model/)
 - [Decumulation](/decumulation-problem-explained/)

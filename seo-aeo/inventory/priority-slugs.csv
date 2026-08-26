@@ -270,22 +270,22 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 1,explainer,santiago-principles-merge,Merge Santiago twins,allocator,brief,P1,merge,
 2,explainer,how-do-pensions-use-ocios,How do pensions use OCIOs?,allocator,brief,P1,needed,
 2,explainer,when-should-a-family-office-use-an-ocio,When should a family office use an OCIO?,allocator,brief,P1,needed,
-2,explainer,what-is-a-fund-of-one,What is a fund-of-one?,allocator,brief,P1,needed,
-2,explainer,what-is-an-sma-for-a-family-office,What is an SMA for a family office?,allocator,brief,P1,needed,
+99,explainer,what-is-a-fund-of-one,What is a fund-of-one?,allocator,brief,P1,drafted-in-repo,Wave 99. ICA 3(c)(1)/3(c)(7) issuer. Do not 301 onto SMA
+2,explainer,what-is-an-sma-for-a-family-office,What is an SMA for a family office?,allocator,brief,P1,do-not-mint,Twin of Wave 56 /separately-managed-account-institutional/. Do not mint
 2,explainer,how-do-swfs-think-about-sanctions,How do SWFs think about sanctions?,allocator,brief,P1,needed,
 2,explainer,what-is-look-through-risk,What is look-through risk?,allocator,brief,P1,needed,
 2,explainer,what-is-a-co-invest-committee,What is a co-invest committee?,allocator,brief,P1,needed,
 98,explainer,how-do-public-pensions-publish-holdings,How do public pensions publish holdings?,allocator,brief,P1,drafted-in-repo,Wave 98. CalPERS reports index. Do not reprint partnership NAVs
 2,explainer,what-is-form-pf-vs-n-px,Form PF vs N-PX for owners,allocator,brief,P1,needed,
 2,explainer,how-do-gulf-funds-work-with-placement-agents,Gulf funds and placement agents,allocator,brief,P1,needed,
-2,explainer,what-is-a-family-constitution,What is a family constitution?,allocator,brief,P1,needed,
-2,explainer,what-is-next-gen-governance,What is next-gen governance in a family office?,allocator,brief,P1,needed,
-2,explainer,how-do-endowments-set-spending-rules,How do endowments set spending rules?,allocator,brief,P1,needed,
-2,explainer,what-is-a-smoothing-rule,What is a spending smoothing rule?,allocator,brief,P1,needed,
+99,explainer,what-is-a-family-constitution,What is a family constitution?,allocator,brief,P1,drafted-in-repo,Wave 99. Not the SEC family-office exemption. Do not mint next-gen-governance
+2,explainer,what-is-next-gen-governance,What is next-gen governance in a family office?,allocator,brief,P1,do-not-mint,Twin of Wave 99 /what-is-a-family-constitution/. Do not mint
+99,explainer,how-do-endowments-set-spending-rules,How do endowments set spending rules?,allocator,brief,P1,drafted-in-repo,Wave 99. UPMIFA prudence / optional 7%. Do not 301 onto endowment-model or ESIR
+2,explainer,what-is-a-smoothing-rule,What is a spending smoothing rule?,allocator,brief,P1,do-not-mint,Twin of Wave 99 /how-do-endowments-set-spending-rules/. Do not mint
 2,explainer,how-do-corporate-pensions-run-de-risking,How do corporate pensions de-risk?,allocator,brief,P1,needed,
 2,explainer,what-is-a-journey-plan,What is a UK journey plan?,allocator,brief,P1,needed,
 2,explainer,how-do-australian-supers-differ-from-us-public-plans,Australian super vs US public plans,allocator,brief,P1,needed,
-2,explainer,what-is-a-superannuation-trustee,What is a superannuation trustee?,allocator,brief,P1,needed,
+99,explainer,what-is-a-superannuation-trustee,What is a superannuation trustee?,allocator,brief,P1,drafted-in-repo,Wave 99. APRA RSE licensee s29D. Do not invent house AUM
 2,explainer,how-do-latam-pension-afps-invest,How do Latin American AFPs invest?,allocator,brief,P1,needed,
 2,explainer,what-is-an-afore,What is an Afore?,allocator,brief,P1,needed,
 2,explainer,how-do-african-sovereign-funds-differ,How do African sovereign funds differ?,allocator,brief,P1,refresh-drafted,Do not mint this slug. Wave 19 overwrites live /african-sovereign-wealth-funds/ (kills $200bn pile). 301 /african-sovereign-wealth-funds-overview/ and /sovereign-wealth-funds-in-africa/ after paste
@@ -362,7 +362,7 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,explainer,how-do-owners-open-a-new-york-office,How owners open a New York office,allocator,brief,P1,needed,Do not mint. Twin of Wave 84 /careers/cities/new-york/ and Wave 97 rep-office
 2,explainer,how-do-owners-open-a-singapore-office,How owners open a Singapore office,allocator,brief,P1,needed,Do not mint. Twin of city Singapore / Wave 97 rep-office
 97,explainer,what-is-a-representative-office-vs-a-desk,Rep office vs desk,allocator,brief,P1,drafted-in-repo,Wave 97. 12 CFR 211.21/211.24. Do not 301 onto London satellites
-2,explainer,how-do-sanctions-change-a-family-office-bank,Sanctions and family-office banking,allocator,brief,P1,needed,
+99,explainer,how-do-sanctions-change-a-family-office-bank,Sanctions and family-office banking,allocator,brief,P1,drafted-in-repo,Wave 99. OFAC 50% rule + FinCEN 25% CDD. Do not mint SWF-sanctions as a short
 98,explainer,what-is-a-multi-custodian-model,Multi-custodian model,allocator,advertiser-call,P1,drafted-in-repo,Wave 98. Master+sub is not multi-prime. Do not 301 onto pick-a-custodian
 94,explainer,how-do-owners-pick-a-custodian,How owners pick a custodian,allocator,advertiser-call,P1,drafted-in-repo,Wave 94. OCC settlement/safekeeping/reporting. Do not 301 onto custody directory
 96,explainer,what-is-an-administrator-for-a-pension-plan,Pension administrators,allocator,advertiser-call,P1,drafted-in-repo,Wave 96. ERISA 1002(16) vs fund admin vs OCC custody

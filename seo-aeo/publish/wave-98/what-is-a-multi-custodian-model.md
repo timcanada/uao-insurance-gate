@@ -54,6 +54,7 @@ The [custody-administration directory](/directory/custody-administration/) is th
 - [What is an administrator for a pension plan?](/what-is-an-administrator-for-a-pension-plan/)
 - [Directory: custody and administration](/directory/custody-administration/)
 - [What is a family-office technology stack?](/what-is-a-family-office-technology-stack/)
+- [How sanctions change a family-office bank](/how-do-sanctions-change-a-family-office-bank/)
 - [What is an asset owner?](/what-is-an-asset-owner/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

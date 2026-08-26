@@ -43,6 +43,7 @@ Owners already use [Careers](/careers/) when they are hiring. If you are the fir
 ## Related
 
 - [What is a family-office technology stack?](/what-is-a-family-office-technology-stack/)
+- [What is a family constitution?](/what-is-a-family-constitution/)
 - [How family offices hire CIOs](/how-do-family-offices-hire-cios/)
 - [What is a family office?](/what-is-a-family-office/)
 - [What is an asset owner?](/what-is-an-asset-owner/)

@@ -57,6 +57,7 @@ The **total portfolio approach** is a public-pension governance model scored on 
 ## Related
 
 - [Yale endowment model](/yale-endowment-model/)
+- [How endowments set spending rules](/how-do-endowments-set-spending-rules/)
 - [Reference portfolio](/reference-portfolio-explained/)
 - [Total portfolio approach](/total-portfolio-approach/)
 - [What is a pension fund?](/what-is-a-pension-fund/)

@@ -51,6 +51,8 @@ See [Advertise](/advertise/) and the [Directory](/directory/).
 
 - [How owners pick a custodian](/how-do-owners-pick-a-custodian/)
 - [What is a multi-custodian model?](/what-is-a-multi-custodian-model/)
+- [What is a fund-of-one?](/what-is-a-fund-of-one/)
+- [How sanctions change a family-office bank](/how-do-sanctions-change-a-family-office-bank/)
 - [What is a family-office technology stack?](/what-is-a-family-office-technology-stack/)
 - [What is an administrator for a pension plan?](/what-is-an-administrator-for-a-pension-plan/)
 - [What is an asset owner?](/what-is-an-asset-owner/)

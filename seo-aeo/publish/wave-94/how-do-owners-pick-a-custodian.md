@@ -43,7 +43,7 @@ A family office buys confidentiality and the ability to see public and private h
 3. Where is the data stored, who can see the beneficiary or family file, and what happens on exit?
 4. What will you refuse to put in an SLA?
 
-If you need two books on purpose, that is a multi-custodian design. It is a different page. Do not invent it here.
+If you need two books on purpose, that is a multi-custodian design. That keeper is [what a multi-custodian model is](/what-is-a-multi-custodian-model/). Do not invent it here.
 
 ## Where Universal Asset Owners sits
 
@@ -53,6 +53,7 @@ If you sell custody into this room, labelled presence and a claimed directory pr
 
 ## Related
 
+- [What is a multi-custodian model?](/what-is-a-multi-custodian-model/)
 - [What is a family-office technology stack?](/what-is-a-family-office-technology-stack/)
 - [What is an administrator for a pension plan?](/what-is-an-administrator-for-a-pension-plan/)
 - [Directory: custody and administration](/directory/custody-administration/)

@@ -262,8 +262,8 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 94,explainer,what-is-a-strategic-council-membership-for-asset-owners,What is a strategic research membership?,allocator,brief,P1,drafted-in-repo,Wave 94. Live /membership/ from $175k/year. Do not 301 onto /advertise/
 93,explainer,how-to-get-quoted-as-an-asset-owner-publication,How newsrooms quote allocator publications,allocator,brief,P1,drafted-in-repo,Wave 93. Do not mint /quote-uao/. Do not overwrite /press-desk/
 2,explainer,what-is-the-canadian-pension-model,What is the Canadian pension model?,allocator,brief,P1,needed,Do not mint. Wave 35 keeper is /canadian-pension-model/. 301 /canadian-model-pension-investing/ after paste
-2,explainer,what-is-a-development-finance-institution,What is a DFI vs a SWF?,allocator,brief,P1,needed,
-2,explainer,how-do-insurers-invest-differently-from-pensions,How do insurers invest differently from pensions?,allocator,brief,P1,needed,
+98,explainer,what-is-a-development-finance-institution,What is a DFI vs a SWF?,allocator,brief,P1,drafted-in-repo,Wave 98. IFSWF vs DFC BUILD Act. Do not invent DFI AUM
+98,explainer,how-do-insurers-invest-differently-from-pensions,How do insurers invest differently from pensions?,allocator,brief,P1,drafted-in-repo,Wave 98. Solvency II vs named members. Do not reprint leftover CalSTRS $341bn
 2,explainer,what-is-an-investment-committee,What is an investment committee?,allocator,brief,P1,needed,
 1,explainer,what-is-a-reference-portfolio-merge,Merge reference-portfolio twins,allocator,brief,P1,merge,
 1,explainer,what-is-a-total-portfolio-approach-merge,Merge TPA twins,allocator,brief,P1,merge,
@@ -275,7 +275,7 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,explainer,how-do-swfs-think-about-sanctions,How do SWFs think about sanctions?,allocator,brief,P1,needed,
 2,explainer,what-is-look-through-risk,What is look-through risk?,allocator,brief,P1,needed,
 2,explainer,what-is-a-co-invest-committee,What is a co-invest committee?,allocator,brief,P1,needed,
-2,explainer,how-do-public-pensions-publish-holdings,How do public pensions publish holdings?,allocator,brief,P1,needed,
+98,explainer,how-do-public-pensions-publish-holdings,How do public pensions publish holdings?,allocator,brief,P1,drafted-in-repo,Wave 98. CalPERS reports index. Do not reprint partnership NAVs
 2,explainer,what-is-form-pf-vs-n-px,Form PF vs N-PX for owners,allocator,brief,P1,needed,
 2,explainer,how-do-gulf-funds-work-with-placement-agents,Gulf funds and placement agents,allocator,brief,P1,needed,
 2,explainer,what-is-a-family-constitution,What is a family constitution?,allocator,brief,P1,needed,
@@ -359,14 +359,14 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,explainer,how-do-people-moves-signal-allocation-changes,People moves as allocation signals,allocator,brief,P1,needed,
 2,explainer,what-is-in-housing-of-private-markets,In-housing private markets,allocator,brief,P1,needed,
 2,explainer,how-do-owners-open-a-london-office,How owners open a London office,allocator,brief,P1,needed,Do not mint. Twin of Wave 83 London satellites / Wave 97 rep-office vs desk
-2,explainer,how-do-owners-open-a-new-york-office,How owners open a New York office,allocator,brief,P1,needed,
-2,explainer,how-do-owners-open-a-singapore-office,How owners open a Singapore office,allocator,brief,P1,needed,
+2,explainer,how-do-owners-open-a-new-york-office,How owners open a New York office,allocator,brief,P1,needed,Do not mint. Twin of Wave 84 /careers/cities/new-york/ and Wave 97 rep-office
+2,explainer,how-do-owners-open-a-singapore-office,How owners open a Singapore office,allocator,brief,P1,needed,Do not mint. Twin of city Singapore / Wave 97 rep-office
 97,explainer,what-is-a-representative-office-vs-a-desk,Rep office vs desk,allocator,brief,P1,drafted-in-repo,Wave 97. 12 CFR 211.21/211.24. Do not 301 onto London satellites
 2,explainer,how-do-sanctions-change-a-family-office-bank,Sanctions and family-office banking,allocator,brief,P1,needed,
-2,explainer,what-is-a-multi-custodian-model,Multi-custodian model,allocator,brief,P1,needed,
+98,explainer,what-is-a-multi-custodian-model,Multi-custodian model,allocator,advertiser-call,P1,drafted-in-repo,Wave 98. Master+sub is not multi-prime. Do not 301 onto pick-a-custodian
 94,explainer,how-do-owners-pick-a-custodian,How owners pick a custodian,allocator,advertiser-call,P1,drafted-in-repo,Wave 94. OCC settlement/safekeeping/reporting. Do not 301 onto custody directory
 96,explainer,what-is-an-administrator-for-a-pension-plan,Pension administrators,allocator,advertiser-call,P1,drafted-in-repo,Wave 96. ERISA 1002(16) vs fund admin vs OCC custody
-2,explainer,how-do-cyber-insurers-underwrite-family-offices,Cyber insurance for family offices,allocator,brief,P1,needed,
+98,explainer,how-do-cyber-insurers-underwrite-family-offices,Cyber insurance for family offices,allocator,advertiser-call,P1,drafted-in-repo,Wave 98. NAIC 2023-05BWG. No invented premiums
 2,explainer,what-is-principal-protection-for-a-family,Principal protection (non-advice),allocator,brief,P1,needed,
 2,explainer,how-do-next-gen-members-join-an-ic,Next-gen on the investment committee,allocator,brief,P1,needed,
 2,explainer,what-is-a-family-investment-committee,Family investment committee,allocator,brief,P1,needed,

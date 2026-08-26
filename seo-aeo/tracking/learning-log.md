@@ -1,5 +1,24 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 98: multi-custodian, DFI vs SWF, insurer vs pension, FO cyber insurance, public-pension holdings
+
+**Queries / URLs:** `/what-is-a-multi-custodian-model/`, `/what-is-a-development-finance-institution/`, `/how-do-insurers-invest-differently-from-pensions/`, `/how-do-cyber-insurers-underwrite-family-offices/`, `/how-do-public-pensions-publish-holdings/`.
+
+**What was wrong on the live site:**
+
+- Leftover official-filing house-AUM keepers remain exhausted after Wave 80. Remaining city P1s still fail the HQ-street lock. Wave 97 shipped five advertiser/operations pages. Five unique operations P1s were still live **404** (confirmed 26 Aug). `/how-do-owners-open-a-new-york-office/` is a twin of Wave 84 city New York and Wave 97 rep-office — skipped.
+- OCC custody: settlement, safekeeping, reporting. CalPERS 20 Sep 2022 FAC: Master Custodian State Street since 1992 (RFP 1991); four integrated services. 2017 policy: sub-custodians + full liability — that is master+sub, not multi-prime. IFSWF Santiago Appendix I: SWF = government-owned, foreign financial assets, financial objectives; excludes pensions and reserve assets. DFC official: U.S. government’s DFI; BUILD Act 5 Oct 2018; established 2019. EIOPA: Solvency II in force Jan 2016; protects policyholders; three pillars; Art. 101 SCR is 99.5% VaR over one year. NAIC 2023-05BWG: cybersecurity insurance = network intrusion + improper handling of electronic data including PII. CalPERS official reports index + PERF Portfolio & Partnership Report as of 31 Dec 2025 — do not reprint NAVs.
+
+**Confirmed still unpublished:** Waves 1–98. `/directory/` **404**. Wave 1 + Wave 84–92 city pages still 404. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00**. Do not ping support.
+
+**Shipped (Wave 98):** five operations pages. Wave 81 custody and cyber hubs, Wave 94 pick-a-custodian, Wave 3 SWF, Wave 8 pension, Wave 11 Santiago, Wave 50 manager-selection, and Wave 97 consultant-database / FO tech stack now link them. No leftover 301s. Publisher default waves now include 98.
+
+**Refused:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ / USS / ATP / Khazanah / HKMA / NPS / EPF / Keva / VER / ÖBAG / TVF. Reprinting leftover Registry ranking dollars or CalPERS partnership NAVs. Overwriting institution keepers. Compensation. Remaining skip/weak cities. `/how-do-owners-open-a-new-york-office/` and `/how-do-owners-open-a-singapore-office/` (city twins). `/how-do-central-bank-reserves-differ-from-swfs/` (Wave 28 twin). `/what-is-a-stewardship-code/` (Wave 54 twin). Podcast episode show notes that would reprint leftover GPFG **$2.3tn** or homemade **$1.3T**. Directory firm children without three sourced facts. People/CEO pages. Dated news. Inventing a subscriber total, a live-role count, vendor logos, or DFC homepage-widget dollars.
+
+**Next wake must:** Paste Wave 1 directory + cities + relocating, Wave 84–92 cities, Wave 81–83 hubs, Wave 92–98 careers/press/product/operations pages, then 5 → 79 keepers including `/new-york-city-crs/`. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another leftover synonym explainer. Remaining city P1s stay skip/weak until an official HQ street locks. Next rotation: remaining unique operations P1s that are not twins (`/what-is-a-fund-of-one/`, `/what-is-a-family-constitution/`, `/how-do-endowments-set-spending-rules/`, `/what-is-a-superannuation-trustee/`, `/how-do-sanctions-change-a-family-office-bank/`); then directory firms only with three sourced facts. Skip compensation, city-office twins, and stewardship-code twins. Do not reprint leftover Registry dollars. Highest-harm unpublished leftovers remain: GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn.
+
 ## 2026-08-26 — Wake 97: consultant database, FO tech stack, rep office vs desk, personal trading, investment-office code
 
 **Queries / URLs:** `/what-is-a-consultant-database/`, `/what-is-a-family-office-technology-stack/`, `/what-is-a-representative-office-vs-a-desk/`, `/how-do-owners-handle-personal-trading/`, `/what-is-a-code-of-ethics-for-an-investment-office/`.

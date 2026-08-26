@@ -18,7 +18,7 @@ editor_status: draft
 
 # What Is a Pension Fund?
 
-A pension fund is a pool of capital invested to pay retirement benefits to **named members**. Workers and employers contribute during working life; the fund invests over decades; benefits are paid in retirement. It is an asset owner: it sits with the liability. It is **not** a sovereign wealth fund, even when the sponsor is a government. Japan’s [GPIF](/gpif-japan-explained/) is the largest dedicated public pension (**¥293,643.7 billion** of investment assets at 31 March 2026). This is not investment advice.
+A pension fund is a pool of capital invested to pay retirement benefits to **named members**. Workers and employers contribute during working life; the fund invests over decades; benefits are paid in retirement. It is an asset owner: it sits with the liability. It is **not** a sovereign wealth fund, even when the sponsor is a government. It is also **not** an insurer general account — [how insurers invest differently from pensions](/how-do-insurers-invest-differently-from-pensions/). Public plans that publish the book sit on [how public pensions publish holdings](/how-do-public-pensions-publish-holdings/). Japan’s [GPIF](/gpif-japan-explained/) is the largest dedicated public pension (**¥293,643.7 billion** of investment assets at 31 March 2026). This is not investment advice.
 
 **Last updated:** 26 August 2026 · **Desk:** UAO Research · **Canonical URL:** `/what-is-a-pension-fund/`
 

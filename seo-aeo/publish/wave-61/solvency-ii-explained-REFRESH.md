@@ -39,6 +39,7 @@ The ERISA job already sits on [`/erisa-explained-institutional-investors/`](/eri
 
 ## Related on Universal Asset Owners
 
+- [How insurers invest differently from pensions](/how-do-insurers-invest-differently-from-pensions/)
 - [CalSTRS](/calstrs-explained/)
 - [ERISA](/erisa-explained-institutional-investors/)
 - [Fiduciary duty](/fiduciary-duty-explained-institutional/)

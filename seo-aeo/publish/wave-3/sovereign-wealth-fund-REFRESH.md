@@ -18,6 +18,8 @@ editor_status: draft
 
 A sovereign wealth fund is a government-owned investment vehicle that invests national wealth for long-term public objectives, separately from the annual budget and from day-to-day central-bank reserves. It is usually funded by commodity revenue or trade surpluses and can hold equities, bonds, private markets and real assets. Universal Asset Owners uses the IFSWF / Santiago definition: state-owned, financial objectives, including foreign financial assets. This is not investment advice.
 
+A development finance institution is a different government file. That keeper is [what a development finance institution is](/what-is-a-development-finance-institution/).
+
 **Last updated:** 26 August 2026 · **Desk:** UAO Research
 
 ## At a glance

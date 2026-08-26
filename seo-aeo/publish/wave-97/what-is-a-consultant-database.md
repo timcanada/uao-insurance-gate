@@ -57,6 +57,7 @@ We write the owner’s side. Labelled presence on the [consulting-OCIO directory
 
 ## Related
 
+- [How public pensions publish holdings](/how-do-public-pensions-publish-holdings/)
 - [Manager selection](/manager-selection-institutional/)
 - [What is an OCIO?](/what-is-an-ocio/)
 - [Directory: consulting and OCIO](/directory/consulting-ocio/)

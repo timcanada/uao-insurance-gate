@@ -51,6 +51,8 @@ The [custody-administration directory](/directory/custody-administration/) is th
 ## Related
 
 - [How owners pick a custodian](/how-do-owners-pick-a-custodian/)
+- [What is a multi-custodian model?](/what-is-a-multi-custodian-model/)
+- [How public pensions publish holdings](/how-do-public-pensions-publish-holdings/)
 - [Directory: custody and administration](/directory/custody-administration/)
 - [What is an asset owner?](/what-is-an-asset-owner/)
 - [Fiduciary duty](/fiduciary-duty-explained-institutional/)

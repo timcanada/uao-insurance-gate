@@ -40,6 +40,7 @@ The active-vs-passive job already sits on [`/active-vs-passive-for-universal-own
 ## Related on Universal Asset Owners
 
 - [What is a consultant database?](/what-is-a-consultant-database/)
+- [How public pensions publish holdings](/how-do-public-pensions-publish-holdings/)
 - [Directory: consulting and OCIO](/directory/consulting-ocio/)
 - [Active vs passive](/active-vs-passive-for-universal-owners/)
 - [Public vs private equity returns](/public-vs-private-equity-returns/)

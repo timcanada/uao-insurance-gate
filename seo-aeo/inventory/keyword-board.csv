@@ -522,5 +522,10 @@ P1,TCRS Tennessee,allocator,both,/tennessee-tcrs/,define,unknown,unknown,unknown
 P1,INPRS,allocator,both,/indiana-inprs/,define,unknown,unknown,unknown,drafted-wave-109,Wave 109. Official Combined $54,866,050 thousand at 30 Jun 2025. Do not mint /inprs/
 P1,Maryland SRPS,allocator,both,/maryland-srps/,define,unknown,unknown,unknown,drafted-wave-109,Wave 109. Official $73,240,774 thousand at 30 Jun 2025. Do not mint /srps/
 P1,IPERS,allocator,both,/iowa-ipers/,define,unknown,unknown,unknown,drafted-wave-109,Wave 109. Official $46,740,552,174 at 30 Jun 2025. Do not mint /ipers/
+P1,Kentucky TRS,allocator,both,/kentucky-trs/,define,unknown,unknown,unknown,drafted-wave-110,Wave 110. Official Combined $32,458,776,860 at 30 Jun 2025. Do not mint /kentucky-trs-explained/
+P1,South Carolina Retirement Systems,allocator,both,/south-carolina-retirement-systems/,define,unknown,unknown,unknown,drafted-wave-110,Wave 110. Official Combined $50,819,016 thousand at 30 Jun 2025. Do not mint /south-carolina-rsic/
+P1,Minnesota SBI,allocator,both,/minnesota-sbi/,define,unknown,unknown,unknown,drafted-wave-110,Wave 110. Official Total $155,859.3 million at 30 Jun 2025. Do not mint /msbi/
+P1,Nevada PERS,allocator,both,/nevada-pers/,define,unknown,unknown,unknown,drafted-wave-110,Wave 110. Official $70,797,644,282 at 30 Jun 2025. Do not mint /nvpers/
+P1,Utah Retirement Systems,allocator,both,/utah-retirement-systems/,define,unknown,unknown,unknown,drafted-wave-110,Wave 110. Official Total $65,271,016 thousand at 31 Dec 2025. Do not mint /utah-urs/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

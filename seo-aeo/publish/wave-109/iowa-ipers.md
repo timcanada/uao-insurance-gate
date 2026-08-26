@@ -49,5 +49,7 @@ Do not 301 this page onto `/massachusetts-prim/`, `/illinois-isbi/`, or `/larges
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Illinois State Board of Investment](/illinois-isbi/)
 - [Massachusetts PRIM](/massachusetts-prim/)
+- [Minnesota SBI](/minnesota-sbi/)
+- [Kentucky TRS](/kentucky-trs/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

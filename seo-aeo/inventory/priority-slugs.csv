@@ -138,6 +138,16 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,srps,Maryland SRPS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 109 /maryland-srps/
 109,institution,iowa-ipers,IPERS,allocator,brief,P0,drafted-in-repo,Wave 109. Official $46,740,552,174 at 30 Jun 2025. Do not mint /ipers/ or /ipers-explained/
 2,institution,ipers,IPERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 109 /iowa-ipers/
+110,institution,kentucky-trs,Kentucky TRS,allocator,brief,P0,drafted-in-repo,Wave 110. Official Combined $32,458,776,860 at 30 Jun 2025. Do not mint /kentucky-trs-explained/ or /trs-kentucky/
+2,institution,kentucky-trs-explained,Kentucky TRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 110 /kentucky-trs/
+110,institution,south-carolina-retirement-systems,South Carolina Retirement Systems,allocator,brief,P0,drafted-in-repo,Wave 110. Official Combined $50,819,016 thousand at 30 Jun 2025. Do not mint /south-carolina-rsic/ or /scrs/
+2,institution,south-carolina-rsic,South Carolina RSIC (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 110 /south-carolina-retirement-systems/
+110,institution,minnesota-sbi,Minnesota SBI,allocator,brief,P0,drafted-in-repo,Wave 110. Official Total $155,859.3 million at 30 Jun 2025. Do not mint /msbi/ or /minnesota-sbi-explained/
+2,institution,msbi,Minnesota SBI (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 110 /minnesota-sbi/
+110,institution,nevada-pers,Nevada PERS,allocator,brief,P0,drafted-in-repo,Wave 110. Official $70,797,644,282 at 30 Jun 2025. Do not mint /nvpers/ or /nevada-pers-explained/
+2,institution,nvpers,Nevada PERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 110 /nevada-pers/
+110,institution,utah-retirement-systems,Utah Retirement Systems,allocator,brief,P0,drafted-in-repo,Wave 110. Official Total Pension Trust Funds $65,271,016 thousand at 31 Dec 2025. Do not mint /utah-urs/ or /urs/
+2,institution,utah-urs,Utah URS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 110 /utah-retirement-systems/
 2,institution,teacher-retirement-system-of-texas-cio,TRS Texas CIO office,allocator,brief,P0,needed,Public pension
 2,institution,cpp-vs-otpp-vs-cdpq,The Canadian large-plan triangle,allocator,brief,P0,needed,Comparison
 105,institution,unjspf,UNJSPF,allocator,brief,P0,drafted-in-repo,Wave 105. Official $107,533,052 thousand net assets at 31 Dec 2025. Do not mint /unjps-united-nations/ or /united-nations-joint-staff-pension-fund/

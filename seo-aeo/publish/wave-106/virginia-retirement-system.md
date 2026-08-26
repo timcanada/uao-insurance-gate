@@ -57,5 +57,6 @@ Do not 301 this page onto `/massachusetts-prim/`, `/calpers-explained-largest-us
 - [Oregon PERS](/oregon-pers/)
 - [Maryland SRPS](/maryland-srps/)
 - [TCRS](/tennessee-tcrs/)
+- [South Carolina Retirement Systems](/south-carolina-retirement-systems/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

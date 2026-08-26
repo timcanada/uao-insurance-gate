@@ -42,9 +42,14 @@ Last updated: 26 August 2026.
 | INPRS | Combined fiduciary net position **$54,866,050 thousand** at **30 June 2025**. Defined Benefit **$46,470,474 thousand**. | Letter **$53.0 billion** as the statement |
 | Maryland SRPS | Fiduciary net position **$73,240,774 thousand** at **30 June 2025**. Teachers’ book **$44,167,425 thousand**. | Investment-section **$73.6 billion** as FNP |
 | IPERS | Fiduciary net position **$46,740,552,174** at **30 June 2025**. Regular members **$43,084,817,851**. | Leftover MassPRIM **$73 billion** |
+| Kentucky TRS | Combined fiduciary net position **$32,458,776,860** at **30 June 2025**. Retirement Annuity Trust **$28,394,724,584**. | Leftover Ohio STRS **$80 billion+** |
+| South Carolina Retirement Systems | Combined fiduciary net position **$50,819,016 thousand** at **30 June 2025**. SCRS **$42,347,352 thousand**. | RSIC **$50,339 million** as FNP |
+| Minnesota SBI | Total Funds Under Management **$155,859.3 million** at **30 June 2025**. Combined Funds **$101,221.4 million**. | Leftover SWIB **$160 billion** |
+| Nevada PERS | Fiduciary net position **$70,797,644,282** at **30 June 2025**. Time-weighted **11.0 percent** gross. | Leftover MassPRIM **$73 billion** |
+| Utah Retirement Systems | Total Pension Trust Funds **$65,271,016 thousand** at **31 December 2025**. Defined Benefit **$53,294,659 thousand**. | Treating **$53.3 billion** as the total |
 | New York State Common / NYC constellation / Florida SBA / STRS Ohio | Not fetched as official this wake | **$241 billion**; **$267.6 billion**; **$250 billion**; **$230 billion** |
 
-Print the CalPERS and CalSTRS filings. OPERS, WSIB, PRIM, VRS, PSERS, New Jersey Division of Investment, Oregon PERS, the North Carolina Treasurer, LACERA, Pennsylvania SERS, Illinois TRS, ISBI, SFERS, MPSERS, Colorado PERA, TCRS, INPRS, Maryland SRPS, and IPERS now have official institution pages. This desk did not fetch a current official print for New York State Common, the New York City constellation, Florida SBA, STRS Ohio, or the Michigan Treasurer combined SISTF book this wake. Do not reprint those leftovers as if they were today’s NAV. Do **not** mint `/florida-sba/` or `/texas-trs/` (404s). Do **not** mint `/opers/`, `/wsib/`, `/prim/`, `/vrs/`, `/psers/`, `/njdoi/`, `/operf/`, `/ncrs/`, `/lacera-explained/`, `/sers-pennsylvania/`, `/trs-illinois/`, `/isbi/`, `/sfers/`, `/mpsers/`, `/pera/`, `/tcrs/`, `/inprs/`, `/srps/`, or `/ipers/`.
+Print the CalPERS and CalSTRS filings. OPERS, WSIB, PRIM, VRS, PSERS, New Jersey Division of Investment, Oregon PERS, the North Carolina Treasurer, LACERA, Pennsylvania SERS, Illinois TRS, ISBI, SFERS, MPSERS, Colorado PERA, TCRS, INPRS, Maryland SRPS, IPERS, Kentucky TRS, the South Carolina Retirement Systems, Minnesota SBI, Nevada PERS, and Utah Retirement Systems now have official institution pages. This desk did not fetch a current official print for New York State Common, the New York City constellation, Florida SBA, STRS Ohio, or the Michigan Treasurer combined SISTF book this wake. Do not reprint those leftovers as if they were today’s NAV. Do **not** mint `/florida-sba/` or `/texas-trs/` (404s). Do **not** mint `/opers/`, `/wsib/`, `/prim/`, `/vrs/`, `/psers/`, `/njdoi/`, `/operf/`, `/ncrs/`, `/lacera-explained/`, `/sers-pennsylvania/`, `/trs-illinois/`, `/isbi/`, `/sfers/`, `/mpsers/`, `/pera/`, `/tcrs/`, `/inprs/`, `/srps/`, `/ipers/`, `/kentucky-trs-explained/`, `/south-carolina-rsic/`, `/msbi/`, `/nvpers/`, or `/utah-urs/`.
 
 ## What the list can say
 
@@ -85,6 +90,11 @@ Print the CalPERS and CalSTRS filings. OPERS, WSIB, PRIM, VRS, PSERS, New Jersey
 - [INPRS](/indiana-inprs/)
 - [Maryland SRPS](/maryland-srps/)
 - [IPERS](/iowa-ipers/)
+- [Kentucky TRS](/kentucky-trs/)
+- [South Carolina Retirement Systems](/south-carolina-retirement-systems/)
+- [Minnesota SBI](/minnesota-sbi/)
+- [Nevada PERS](/nevada-pers/)
+- [Utah Retirement Systems](/utah-retirement-systems/)
 - [Largest public pensions by country](/largest-public-pension-funds-by-country/)
 - [Largest pension funds in the world](/largest-pension-funds-in-the-world/)
 - [What is a pension fund?](/what-is-a-pension-fund/)

@@ -1,5 +1,29 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 21: NBIM vs GPIF $2T/$1.9T; SWF AUM-estimate pile; per-capita $296k; EPF RM950bn; Florida SBA $300bn+
+
+**Queries / URLs:** `/nbim-vs-gpif/`, `/how-sovereign-wealth-fund-aum-is-estimated/`, `/largest-sovereign-wealth-funds-per-capita/`, `/epf-malaysia-employees-provident-fund-explained/`, `/florida-state-board-of-administration-explained/`.
+
+**What was wrong on the live site:**
+
+- NBIM vs GPIF (7 July 2026) prints NBIM as **more than $2 trillion** and GPIF as **roughly $1.9 trillion**, and still carries FY2025 **15.83%**. Official: GPFG **22,683 billion kroner** at **30 June 2026**; GPIF **¥293,643.7 billion** / **16.47%** at **31 March 2026**. GPIF is **not** a SWF. No homemade USD rank.
+- How SWF AUM is estimated invents GPFG **$1.34 trillion** (Q3 2024), CIC **$1.02 trillion**, NSSF **$500+ billion**, and SAFE **$2+ trillion**. Official method: quote the filing or say the house does not publish AUM. CIC official is **US$1.57T / US$1.37T**. Twin `/how-swf-aum-is-estimated/` still 200.
+- Per-capita list invents Norway **$296,000**, GPFG **$1.7 trillion**, ADIA **$180 billion**, GIC **$170,000**. Official GPFG is **kroner**. ADIA / GIC **no AUM**, so **no official per-capita**. Twin `/sovereign-wealth-funds-per-capita/` still 200.
+- EPF still prints **RM950 billion / ~USD 190 billion / 15–17 million**. Official KWSP YE2025 dividend release (Google-indexed; kwsp.gov.my still Cloudflare-blocks unattended fetch): investment assets **RM1,409 billion**; members **18,088,387** (active **10,588,648**); dividend **6.15%** both sleeves. **No USD AUM.** Twin `/epf-malaysia/` still 200.
+- Florida SBA still prints **$300+ billion / $301 billion** and an **$184 billion** FRS line. Official MyFRS trustee page (Google-indexed; myfrs.com and sbafla.com still Cloudflare-block unattended fetch): FRS Pension Plan **$234,838,279,798.03** and FRS Investment Plan **$24,579,757,086.59**, unaudited **29 May 2026**. Print the two lines. Do not add them. Do not mint `/florida-sba/` (404).
+
+**Confirmed still unpublished:** Waves 1–20. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Ghost key still missing. Mubadala live already current. Future Fund live already A$269.1bn.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx — do not ping support. Wallet still $0.00.
+
+**Shipped (Wave 21):** five overwrites. No new slugs. Publisher default waves now include 21. Queued synonym 301s: `/epf-malaysia/`; `/how-swf-aum-is-estimated/`; `/sovereign-wealth-funds-per-capita/`.
+
+**Refused:** ICD YE2025 PDF. Palestine PIF homepage widgets. Mongolia FHF until swf.gov.mn / Glass Account MNT lines are fetched as a primary page. Dollarizing EPF or GPFG. Another Mubadala / Future Fund / GPIF-institution / CalPERS overwrite. Minting the Wave 3 404 short slugs or `/florida-sba/`.
+
+**Access:** Secrets re-requested. `GHOST_ADMIN_API_KEY` and `GOOGLE_SERVICE_ACCOUNT_JSON` still UNSET.
+
+**Next wake must:** Paste 5 → 21. Then 301 `twins.csv` (P0 first; Wave 21 EPF/AUM-estimate/per-capita twins; Wave 20 synonym twins). If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another NBIM-vs-GPIF / AUM-estimate / per-capita / EPF / Florida-SBA synonym. Highest-harm leftovers: `/nbim-vs-gic/` (live still **$1.3 trillion**); `/timor-leste-petroleum-fund/` (live **$18.9 billion**; BCTL Q2 2026 official **USD 18.43 billion** at **30 June 2026**); ICD YE2025 once that PDF is readable; GPIF 15.83% on the institution page (Wave 7, unpublished).
+
 ## 2026-08-26 — Wake 20: TRS $295bn; NIIF $9bn; GPF ฿1.8T / $50bn; Oil Five $3.9T; PIF $1.21T / $2.67T
 
 **Queries / URLs:** `/texas-teacher-retirement-system-explained/`, `/india-niif-explained/`, `/thailand-gpf-government-pension-fund/`, `/the-oil-five-gulf-sovereign-wealth-funds-explained/`, `/saudi-pif-s-road-to-2-trillion-by-2030/`.

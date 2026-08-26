@@ -59,4 +59,7 @@ P2,/new-zealand-superannuation-fund-explained/,/nz-super-fund-explained/,institu
 P2,/danantara-indonesia-sovereign-fund/,/indonesia-danantara-explained/,institution,200/200,Wave 15 keeper (Law 1/2025; no official AUM). 301 explained twin after paste
 P2,/atp-denmark-pension-fund/,/atp-denmark-explained/,institution,200/200,Wave 13 keeper (DKK 694bn / 5.8m). 301 explained twin after paste
 P2,/african-sovereign-wealth-funds/,/sovereign-wealth-funds-in-africa/,cluster,200/200,Wave 19 keeper. 301 Africa-in-Africa after paste
+P2,/epf-malaysia-employees-provident-fund-explained/,/epf-malaysia/,institution,200/200,Wave 21 overwrites keeper (RM1,409bn at 31 Dec 2025; live RM950bn). 301 short after paste
+P2,/how-sovereign-wealth-fund-aum-is-estimated/,/how-swf-aum-is-estimated/,define,200/200,Wave 21 overwrites keeper (kills GPFG $1.34T / CIC $1.02T / SAFE $2T+). 301 short after paste
+P2,/largest-sovereign-wealth-funds-per-capita/,/sovereign-wealth-funds-per-capita/,list,200/200,Wave 21 overwrites keeper (kills $296k / ADIA $180bn / GIC $170k). 301 short after paste
 P3,/asset-owner-vs-asset-manager-explained/,/careers/intelligence/asset-owner-vs-asset-manager/,careers,200/200,Different templates; 301 only if the careers URL is a thin copy

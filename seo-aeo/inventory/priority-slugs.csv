@@ -54,7 +54,7 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,cbus-super,Cbus,allocator,brief,P0,refresh-drafted,Public pension — Wave 18 overwrites /cbus-superannuation-explained/ (more than $115bn at 30 Jun 2026). 301 australia twin
 2,institution,nps-korea,National Pension Service (Korea),allocator,brief,P0,refresh-drafted,Public pension — Wave 16 overwrites /national-pension-service-korea-explained/ (KRW 1,848.7tn at end-May 2026)
 2,institution,epfo-india,EPFO (India),allocator,brief,P0,needed,Public pension
-2,institution,employees-provident-fund-malaysia,EPF Malaysia,allocator,brief,P0,needed,Public pension
+2,institution,employees-provident-fund-malaysia,EPF Malaysia,allocator,brief,P0,refresh-drafted,Public pension — Wave 21 overwrites /epf-malaysia-employees-provident-fund-explained/ (RM1,409bn at 31 Dec 2025; live RM950bn / USD 190bn). 301 /epf-malaysia/ after paste. No USD AUM
 2,institution,gepf-south-africa,GEPF,allocator,brief,P0,needed,Public pension
 2,institution,pic-south-africa,Public Investment Corporation,allocator,brief,P0,needed,Public pension
 2,institution,previ-brazil,Previ,allocator,brief,P0,needed,Public pension
@@ -71,7 +71,7 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,khazanah-explained,Khazanah,allocator,brief,P0,refresh-drafted,Q&A /is-khazanah-a-sovereign-wealth-fund/ Wave 12; institution /khazanah-nasional-malaysia-explained/ Wave 17 (RM105bn NAV). Do not 301. Do not mint /khazanah-explained/
 2,institution,mumtalakat-bahrain,Mumtalakat,allocator,brief,P0,refresh-drafted,SWF — Wave 11 keeper /mumtalakat-bahrain-explained/. 301 /bahrain-mumtalakat-holding-explained/ after paste
 2,institution,qia-vs-adia,QIA vs ADIA,allocator,brief,P0,needed,Comparison
-2,institution,nbim-vs-gic,NBIM vs GIC,allocator,brief,P0,needed,Comparison
+2,institution,nbim-vs-gic,NBIM vs GIC,allocator,brief,P0,needed,Comparison — live /nbim-vs-gic/ still invents $1.3T. Next-wake leftover. Wave 21 shipped /nbim-vs-gpif/ instead
 2,institution,cpp-vs-calpers,CPP Investments vs CalPERS,allocator,brief,P0,needed,Comparison
 2,institution,otpp-vs-cdpq,OTPP vs CDPQ,allocator,brief,P0,needed,Comparison
 2,institution,pif-vs-mubadala,PIF vs Mubadala,allocator,brief,P0,needed,Comparison
@@ -91,7 +91,7 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,adib-vs-owner,Do not confuse banks with owners — explainer,allocator,brief,P0,needed,Explainer
 2,institution,new-york-state-common-retirement,NYS Common Retirement Fund,allocator,brief,P0,needed,Public pension
 2,institution,new-york-city-crs,NYC Retirement Systems,allocator,brief,P0,needed,Public pension
-2,institution,florida-sba,Florida State Board of Administration,allocator,brief,P0,needed,Public pension
+2,institution,florida-sba,Florida State Board of Administration,allocator,brief,P0,refresh-drafted,Public pension — Wave 21 overwrites /florida-state-board-of-administration-explained/ (FRS Pension $234.84bn unaudited 29 May 2026; live $300bn+). Do not mint /florida-sba/
 2,institution,texas-trs,Teacher Retirement System of Texas,allocator,brief,P0,refresh-drafted,Public pension — Wave 20 overwrites /texas-teacher-retirement-system-explained/ ($225.3bn at 31 Aug 2025; live still $295bn / 89.4%). Do not mint /texas-trs/
 2,institution,calstrs-vs-calpers,CalSTRS vs CalPERS,allocator,brief,P0,needed,Comparison
 2,institution,ohio-opers,OPERS,allocator,brief,P0,needed,Public pension
@@ -294,6 +294,9 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,explainer,what-is-pula-fund,Pula Fund explained,allocator,brief,P1,refresh-drafted,Do not mint this slug. Live keeper is /botswana-pula-fund-explained/ (Wave 19)
 2,explainer,the-oil-five-gulf-sovereign-wealth-funds-explained,Oil Five Gulf SWFs,allocator,brief,P1,refresh-drafted,Wave 20 overwrite (kills $3.9T pile). ADIA/KIA/QIA no AUM. Do not mint a Gulf-total twin
 2,explainer,saudi-pif-s-road-to-2-trillion-by-2030,PIF $2T by 2030 KPI,allocator,brief,P1,refresh-drafted,Wave 20 overwrite. 2030 figure is a KPI not current AUM. Do not mint a 2031 twin
+2,explainer,nbim-vs-gpif,NBIM vs GPIF,allocator,brief,P1,refresh-drafted,Wave 21 overwrite (kills $2T / $1.9T / 15.83%). Official kroner vs yen. Do not mint /nbim-vs-gpif-explained/
+2,explainer,how-sovereign-wealth-fund-aum-is-estimated,How SWF AUM is estimated,allocator,brief,P1,refresh-drafted,Wave 21 overwrite (kills GPFG $1.34T / CIC $1.02T / SAFE $2T+). 301 /how-swf-aum-is-estimated/ after paste
+2,explainer,largest-sovereign-wealth-funds-per-capita,SWF per capita,allocator,brief,P1,refresh-drafted,Wave 21 overwrite (kills $296k / ADIA $180bn / GIC $170k). 301 /sovereign-wealth-funds-per-capita/ after paste
 2,explainer,how-do-central-bank-reserves-differ-from-swfs,Reserves vs SWFs (defend existing),allocator,brief,P1,needed,
 2,explainer,what-is-a-stabilization-fund,What is a stabilization fund?,allocator,brief,P1,needed,
 2,explainer,how-do-owners-use-secondaries,How do owners use secondaries?,allocator,brief,P1,needed,

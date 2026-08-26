@@ -532,5 +532,10 @@ P1,Ohio SERS,allocator,both,/ohio-sers/,define,unknown,unknown,unknown,drafted-w
 P1,Louisiana TRSL,allocator,both,/louisiana-trsl/,define,unknown,unknown,unknown,drafted-wave-111,Wave 111. Official $29,334,227,630 at 30 Jun 2025. Do not mint /trsl/
 P1,Oklahoma OPERS,allocator,both,/oklahoma-opers/,define,unknown,unknown,unknown,drafted-wave-111,Wave 111. Official Combined $13,351,556,235 at 30 Jun 2025. Do not mint /opers/
 P1,MOSERS,allocator,both,/missouri-mosers/,define,unknown,unknown,unknown,drafted-wave-111,Wave 111. Official $9,565,800,614 at 30 Jun 2025. Do not mint /mosers/
+P1,Arkansas PERS,allocator,both,/arkansas-pers/,define,unknown,unknown,unknown,drafted-wave-112,Wave 112. Official FNP $11,932,028,241 at 30 Jun 2025. Do not mint /apers/
+P1,Mississippi PERS,allocator,both,/mississippi-pers/,define,unknown,unknown,unknown,drafted-wave-112,Wave 112. Official Combined $36,216,322 thousand at 30 Jun 2025. Do not mint /ms-pers/
+P1,Idaho PERSI,allocator,both,/idaho-persi/,define,unknown,unknown,unknown,drafted-wave-112,Wave 112. Official Combined pension-restricted $24,797,083,283 at 30 Jun 2025. Do not mint /persi/
+P1,LASERS,allocator,both,/louisiana-lasers/,define,unknown,unknown,unknown,drafted-wave-112,Wave 112. Official $17,223,211,406 at 30 Jun 2025. Do not mint /lasers/
+P1,Oklahoma TRS,allocator,both,/oklahoma-trs/,define,unknown,unknown,unknown,drafted-wave-112,Wave 112. Official Combined $25,181,260,433 at 30 Jun 2025. Do not mint /oklahoma-trs-explained/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

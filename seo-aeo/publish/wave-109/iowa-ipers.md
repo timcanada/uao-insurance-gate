@@ -53,5 +53,7 @@ Do not 301 this page onto `/massachusetts-prim/`, `/illinois-isbi/`, or `/larges
 - [Kentucky TRS](/kentucky-trs/)
 - [Oklahoma OPERS](/oklahoma-opers/)
 - [MOSERS](/missouri-mosers/)
+- [Idaho PERSI](/idaho-persi/)
+- [Arkansas PERS](/arkansas-pers/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

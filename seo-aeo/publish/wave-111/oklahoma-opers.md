@@ -48,5 +48,6 @@ Do not 301 this page onto `/ohio-opers/`, `/iowa-ipers/`, or `/largest-us-public
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Ohio OPERS](/ohio-opers/)
 - [Iowa IPERS](/iowa-ipers/)
+- [Oklahoma TRS](/oklahoma-trs/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

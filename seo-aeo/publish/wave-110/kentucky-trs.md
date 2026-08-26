@@ -49,5 +49,7 @@ Do not 301 this page onto `/texas-teacher-retirement-system-explained/`, `/illin
 - [Texas TRS](/texas-teacher-retirement-system-explained/)
 - [Illinois TRS](/illinois-trs/)
 - [Louisiana TRSL](/louisiana-trsl/)
+- [LASERS](/louisiana-lasers/)
+- [Oklahoma TRS](/oklahoma-trs/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

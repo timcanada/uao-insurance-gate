@@ -48,5 +48,6 @@ Do not 301 this page onto `/texas-teacher-retirement-system-explained/`, `/kentu
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Texas TRS](/texas-teacher-retirement-system-explained/)
 - [Kentucky TRS](/kentucky-trs/)
+- [LASERS](/louisiana-lasers/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -1,5 +1,29 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 43: leftover CalPERS $450bn / $441bn / $440bn / $500bn+; leftover OTPP $215bn; leftover Yale $41bn; leftover CPP $586bn / $500bn+; leftover GPFG $1.3T; leftover Harvard $50.7bn
+
+**Queries / URLs:** `/private-equity-returns-10-year/`, `/private-equity-vs-hedge-funds/`, `/active-vs-passive-for-universal-owners/`, `/venture-capital-vs-private-equity/`, `/real-assets-vs-private-equity/`.
+
+**What was wrong on the live site:**
+
+- 10-year PE invent leftover CalPERS **$450 billion**, leftover OTPP **$215 billion** (misnamed “Teachers Retirement System of Ontario”), leftover Cambridge **$2.8 trillion**, leftover Preqin **$15+ trillion**. Official: CalPERS **$637.1 billion**. OTPP **C$303.2 billion**.
+- PE vs hedge invent leftover CalPERS **$441 billion**, leftover Apollo **$625 billion**, leftover EQT **$300 billion**, leftover Millennium **$58 billion**, leftover Cambridge endowment **$10 billion**. Official: CalPERS **$637.1 billion**.
+- Active vs passive invent leftover CalPERS **$440 billion**, leftover GPFG **$1.3 trillion**, leftover Michigan **$14.3 billion**, leftover Kirkbi **$70+ billion**, leftover passive **$12 trillion**. Official: CalPERS **$637.1 billion**. GPFG **kroner**.
+- VC vs PE invent leftover CalPERS **$500+ billion**, leftover Yale **$41 billion**, leftover CPP **$500+ billion**, leftover Sequoia **$86 billion**, leftover Blackstone **$941 billion**, leftover Apollo **$675 billion**. Official: CalPERS **$637.1 billion**. Yale **$44.1 billion**. CPP **C$793.3 billion**.
+- Real assets vs PE invent leftover CalPERS **$441 billion** (June 2024), leftover GPFG **$1.31 trillion** (end-2023), leftover CPP **$586 billion**, leftover Harvard **$50.7 billion**. Official: CalPERS **$637.1 billion**. GPFG **kroner**. CPP **C$793.3 billion**. Harvard **$56.9 billion**.
+
+**Confirmed still unpublished:** Waves 1–43. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00**. Do not ping support.
+
+**Shipped (Wave 43):** five overwrites. No new slugs. Publisher default waves now include 43. No new 301 — short twins `/pe-vs-hedge-funds/`, `/active-vs-passive/`, `/vc-vs-pe/` are **404**.
+
+**Refused:** ICD YE2025 PDF. Dollarizing GPIF / GPFG / ADQ. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / OMERS / CalPERS / Mubadala / Temasek / Alaska institution keepers. Overwriting `/endowment-model-explained/` (Wave 15) or `/yale-endowment-model/` (Wave 14). Minting `/strs-ohio-explained/`, `/texas-trs/`, `/psp-investments/`, `/family-office/`, `/harvard-endowment-explained/`, `/evergreen-funds-explained/`, `/adq-explained/`, `/pe-vs-hedge-funds/`, `/active-vs-passive/`, or `/vc-vs-pe/`. Fetching leftover Cambridge / Preqin / Apollo / EQT / Sequoia / Blackstone / Kirkbi / Michigan piles. Another Gulf-AI / AI-infra / PE-co-invest / infra-equity-vs-debt / direct-vs-fund synonym.
+
+**Access:** Secrets re-requested. `GHOST_ADMIN_API_KEY` and `GOOGLE_SERVICE_ACCOUNT_JSON` still UNSET.
+
+**Next wake must:** Paste 5 → 43. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another 10-year-PE / PE-vs-hedge / active-vs-passive / VC-vs-PE / real-assets-vs-PE synonym. Highest-harm leftovers now: unpublished keepers (GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn); then leftover-AUM pages that do not already have a refresh draft.
+
 ## 2026-08-26 — Wake 42: leftover ADIA $163bn; leftover PIF $925bn / QIA $450bn; leftover CalPERS $500bn / $469bn / $496bn; leftover CPP $650bn / $623bn; leftover OMERS $62bn
 
 **Queries / URLs:** `/gulf-sovereign-wealth-funds-and-ai-investment/`, `/ai-infrastructure-as-an-asset-class/`, `/what-is-co-investment-in-private-equity/`, `/what-is-infrastructure-equity-vs-infrastructure-debt/`, `/direct-investing-vs-fund-investing-for-asset-owners/`.

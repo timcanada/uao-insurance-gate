@@ -12,7 +12,7 @@ Update the **known** column only from real systems. Targets are locked in `GOALS
 | Google Search clicks (calendar month) | growing | **460** | 2026-07 | GSC July performance mail |
 | Google Search impressions (calendar month) | growing | **55.6K** | 2026-07 | GSC July performance mail |
 | Monthly site views | millions | not millions; see baseline | 2026-08-26 | GSC + GA4 `399677697` (API pending) |
-| Franchise queries at #1 or cited | all on keyword board | mixed: GPIF live still 15.83%; Gulf AI still leftover ADIA $163bn / PIF $925bn / QIA $450bn; AI-infra still leftover CalPERS $500bn+ / CPP $650bn; PE co-invest still leftover CalPERS $469bn / CalSTRS $340bn; infra equity-vs-debt still leftover CalPERS $496bn / OMERS $62bn; direct-vs-fund still leftover CPP $623bn / Alaska $84bn; Waves 1–42 unpublished | 2026-08-26 | GSC July mail + 26 Aug live HTTP (wake 42) |
+| Franchise queries at #1 or cited | all on keyword board | mixed: GPIF live still 15.83%; 10-year PE still leftover CalPERS $450bn / OTPP $215bn; PE vs hedge still leftover CalPERS $441bn; active vs passive still leftover CalPERS $440bn / GPFG $1.3T; VC vs PE still leftover CalPERS $500bn+ / Yale $41bn; real assets vs PE still leftover CPP $586bn / Harvard $50.7bn; Waves 1–43 unpublished | 2026-08-26 | GSC July mail + 26 Aug live HTTP (wake 43) |
 | Press pickups (TTM) | growing | unknown | 2026-08-26 | Alerts |
 | Podcast downloads / ep | world-class | unknown | 2026-08-26 | Host |
 | Open sponsor conversations | enough to hit $1M mix | 0 logged | 2026-08-26 | `sponsors.csv` |

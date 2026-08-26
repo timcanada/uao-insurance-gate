@@ -1,5 +1,27 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 64: leftover UniSuper A$70bn / leftover AUD $195bn; leftover CalPERS $440bn / $469bn / $470bn; leftover GPIF $1.7T; leftover OTPP $250bn; leftover CalSTRS $312bn; leftover Yale $41.4bn / leftover $41bn; leftover Harvard $50.7bn; leftover Mubadala $284bn; leftover CPP CAD $609bn; leftover KIC $214bn
+
+**Queries / URLs:** `/unisuper-explained/`, `/investment-committee-governance/`, `/infrastructure-debt-explained-asset-owners/`, `/ncreif-index-explained/`, `/commodity-supercycle-institutional/`.
+
+**What was wrong on the live site:**
+
+- UniSuper invent leftover **approximately A$70 billion** and leftover **AUD $195 billion**, plus leftover Australian Super **AUD $308 billion**. Official UniSuper actuarial summary (21 November 2025): net market value **A$157,519.3 million** / fair value **A$157,969.3 million** at **30 June 2025**. Australian Super live keeper already **A$410 billion**.
+- Investment-committee invent leftover GPIF **approximately $1.7 trillion**. Twin invent leftover CalPERS **$440 billion**, leftover OTPP **$250 billion**, leftover Yale **approximately $41 billion**, leftover CalSTRS **$312 billion**. Official: GPIF **yen**. CalPERS **$637.1 billion**. OTPP **C$303.2 billion**. Yale **$44.1 billion**. CalSTRS **$415.4 billion**.
+- Infrastructure debt invent leftover Mubadala **$284 billion**, leftover Yale **$41.4 billion**, leftover Harvard **$50.7 billion**. Official: Mubadala **AED 1.4 trillion / US$385 billion**. Yale **$44.1 billion**. Harvard **$56.9 billion**.
+- NCREIF invent leftover CalPERS **approximately $469 billion**. Official: CalPERS **$637.1 billion**.
+- Commodity supercycle invent leftover CalPERS **$470 billion**, leftover CPP **CAD $609 billion**, leftover KIC **approximately $214 billion**. Official: CalPERS **$637.1 billion**. CPP **C$793.3 billion**. KIC **USD 232.0 billion**.
+
+**Confirmed still unpublished:** Waves 1–64. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00** through **26 Aug 15:52 UTC**. Do not ping support.
+
+**Shipped (Wave 64):** five overwrites. No new slugs. Publisher default waves now include 64. Queued 301: `/investment-committee-governance-best-practices/`.
+
+**Refused:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ / USS. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / CDPQ / OMERS / CalPERS / CalSTRS / Mubadala / Temasek / Future Fund / Alaska / ADIA / GIC / BCI / GPIF / CPP / Texas TRS / PIF / QIA / Australian Super / KIC institution keepers. Overwriting `/endowment-model-explained/` (Wave 15) or `/yale-endowment-model/` (Wave 14). Another defense / sovereign-debt / OCIO-vs-consultant / RE-vs-infra / QIA-portfolio synonym. Minting `/harvard-endowment-explained/`, `/texas-trs/`, `/unisuper/`, or `/cbus-explained/`. Inventing an ADIA or QIA AUM. Treating Firstlinks “approaching $175 billion” or Markets Group **$166 billion** as official UniSuper AUM. `/universal-owner-market-externalities/` (leftover CalPERS **$440 billion** / leftover ABP **€500 billion** / leftover GPFG **$1.48 trillion** / leftover USS **£67 billion**). `/investment-data-providers-institutional/` (leftover CalPERS **$440 billion** / leftover CPP **$616 billion** / leftover GPIF **$1.6 trillion**).
+
+**Next wake must:** Paste 5 → 64. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another UniSuper / investment-committee / infra-debt / NCREIF / commodity-supercycle synonym. Highest-harm leftovers now: `/universal-owner-market-externalities/` (leftover CalPERS **$440 billion** / leftover GPFG **$1.48 trillion** / leftover USS **£67 billion**); `/investment-data-providers-institutional/` (leftover CalPERS **$440 billion** / leftover CPP **$616 billion**); unpublished keepers (GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn).
+
 ## 2026-08-26 — Wake 63: leftover CalPERS $440bn; leftover CalSTRS $312bn; leftover NYSCRF $250bn; leftover Yale $41.4bn; leftover GPIF ¥158T; leftover Temasek $403bn; leftover Mubadala $250bn; leftover GPFG $1.3T; leftover ADIA $164bn / $123bn; leftover PIF $930bn / $700bn; leftover QIA $450bn / $218bn
 
 **Queries / URLs:** `/sovereign-funds-defense-spending/`, `/sovereign-debt-crisis-investment/`, `/ocio-vs-investment-consultant/`, `/real-estate-vs-infrastructure-allocation/`, `/qia-portfolio-strategy/`.

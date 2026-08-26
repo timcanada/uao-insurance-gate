@@ -1,5 +1,27 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 67: leftover Mubadala $284bn; leftover CPP $620bn / $633bn; leftover GPFG $1.4T / $1.38T; leftover PIF $925bn; leftover ADIA $150bn / $156bn; leftover QIA $445bn; leftover OTPP $245bn / $230bn; leftover Temasek $500bn; leftover GPIF $1.3T / leftover ¥156T; leftover CalPERS $440bn / $485bn; leftover USS £75bn; leftover APG $675bn
+
+**Queries / URLs:** `/mubadala-technology-ai-strategy/`, `/sovereign-wealth-fund-transparency-index/`, `/japan-institutional-investor-landscape/`, `/institutional-investor-research-firms/`, `/impact-investing-definitions/`.
+
+**What was wrong on the live site:**
+
+- Mubadala AI invent leftover Mubadala **$284 billion**, leftover CPP **approximately $620 billion**, leftover GPFG **approximately $1.4 trillion**, leftover PIF **approximately $925 billion**, leftover ADIA **approximately $150 billion**. Official: Mubadala **AED 1.4 trillion / US$385 billion**. CPP **C$793.3 billion**. GPFG **kroner**. PIF **more than US$900 billion**. ADIA **does not publish AUM**.
+- SWF transparency invent leftover CPP **$633 billion**, leftover OTPP **approximately $245 billion**, leftover Temasek **over $500 billion**, leftover ADIA **approximately $156 billion**, leftover QIA **over $445 billion**. Official: CPP **C$793.3 billion**. OTPP **C$303.2 billion**. Temasek **S$518 billion / US$401 billion**. ADIA **does not publish AUM**. QIA **does not publish AUM**.
+- Japan landscape invent leftover GPIF **approximately $1.3 trillion** and leftover GPIF **¥156 trillion**. Official: GPIF **¥293,643.7 billion**.
+- Research firms invent leftover CalPERS **$440 billion** and leftover GPFG **$1.38 trillion**. Official: CalPERS **$637.1 billion**. GPFG **kroner**.
+- Impact define invent leftover CalPERS **$485 billion**, leftover OTPP **approximately $230 billion**, leftover USS **£75 billion**, leftover APG **$675 billion**. Official: CalPERS **$637.1 billion**. OTPP **C$303.2 billion**. USS **£79.8 billion DB**. APG is not a second AUM.
+
+**Confirmed still unpublished:** Waves 1–67. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00** through **26 Aug 15:52 UTC**. Do not ping support.
+
+**Shipped (Wave 67):** five overwrites. No new slugs. Publisher default waves now include 67. Queued 301: `/stakeholder-capitalism-investor-perspective/`.
+
+**Refused:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ / USS. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / CDPQ / OMERS / CalPERS / CalSTRS / Mubadala / Temasek / Future Fund / Alaska / ADIA / GIC / BCI / GPIF / CPP / Texas TRS / PIF / QIA / Australian Super / KIC / UniSuper / CIC institution keepers. Overwriting `/endowment-model-explained/` (Wave 15) or `/yale-endowment-model/` (Wave 14). Another stakeholder / PRI / stablecoins / digitisation / GCC-strategy synonym. Minting `/harvard-endowment-explained/`, `/texas-trs/`, `/nssf-explained/`, `/safe-china/`, `/unisuper/`, `/temasek/`, or `/cbus-explained/`. Inventing an ADIA, QIA, SAFE, or NSSF AUM. Treating leftover APG **$675 billion** as official. `/universal-owner-antimicrobial-resistance/` (leftover CalPERS **$430 billion**). `/dollar-dominance-reserve-currency/` (leftover CalPERS **$465 billion**). `/gulf-capital-energy-transition/` (no leftover house AUM). `/wisconsin-investment-board-swib/` (no official SWIB print locked).
+
+**Next wake must:** Paste 5 → 67. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another Mubadala-AI / transparency-index / Japan-landscape / research-firms / impact-define synonym. Highest-harm leftovers now: `/gulf-capital-and-the-energy-transition/` (leftover ADIA **$156.5 billion** / leftover KIA **$716 billion** / leftover combined **$2.3 trillion**); `/universal-owner-antimicrobial-resistance/` (leftover CalPERS **$430 billion**); `/ai-productivity-investing-thesis/` (leftover CalPERS **$460 billion**); unpublished keepers (GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn).
+
 ## 2026-08-26 — Wake 66: leftover CalPERS $440bn / $450bn; leftover CalSTRS $314bn; leftover CDPQ $295bn; leftover GPIF $1.8T; leftover Yale $41bn; leftover CPP CAD $619bn; leftover OTPP CAD $248bn; leftover NBIM $1.3T; leftover ADIA $172bn; leftover QIA $438bn; leftover GCC $2.5T
 
 **Queries / URLs:** `/stakeholder-capitalism-investor/`, `/un-pri-principles-responsible-investment/`, `/asset-owners-and-stablecoins/`, `/digitisation-investment-theme/`, `/gcc-investment-strategy/`.

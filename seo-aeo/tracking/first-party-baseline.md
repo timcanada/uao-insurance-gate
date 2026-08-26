@@ -68,7 +68,7 @@ That is roughly **25 Google clicks/day** in mid-August — not millions of month
 - 17 Aug 2026: **2 Profile page structured data** issues
 - Earlier: 404s, duplicates, “alternate page with proper canonical,” one “Indexed, though blocked by robots.txt”
 
-Wave 1–4 slugs that 404 will sit in that 4xx bucket until Ghost publish. Rechecked 26 Aug wake 3: `/directory/` and `/royal-family-investment-offices/` still 404. No newer Search Impact mail than 700 clicks / 28 days to 18 Aug.
+Wave 1–4 slugs that 404 will sit in that 4xx bucket until Ghost publish. Rechecked 26 Aug wake 8: `/directory/` and `/royal-family-investment-offices/` still 404. Waves 5–10 keepers still return 200 with pre-refresh copy. No newer Search Impact mail than 700 clicks / 28 days to 18 Aug.
 
 ## Analytics — June 2–29 2026 (official performance mail)
 

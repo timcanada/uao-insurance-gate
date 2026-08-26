@@ -9,8 +9,8 @@ P1,/gic-singapore-explained/,/gic-singapore/,institution,200/200,Wave 4 overwrit
 P1,/cpp-investments-explained/,/cpp-investments/,institution,200/200,Explained already has FY2026 C$793.3bn — 301 short now; do not twin
 P1,/china-investment-corporation-cic-explained/,/china-investment-corporation-cic/,institution,200/200,Explained still $1.3T Dec 2023; short already $1.57T. Wave 8 overwrites explained first then 301 short
 P1,/ontario-teachers-pension-plan-explained/,/ontario-teachers-pension-plan/,institution,200/200,Wave 9 overwrites explained (adds C$303.2bn at 30 Jun 2026) then 301 short
-P1,/wisconsin-investment-board-swib-explained/,/wisconsin-investment-board-swib/,institution,200/200,
-P1,/wisconsin-investment-board-swib-explained/,/wisconsin-swib/,institution,200/200,Third twin
+P1,/wisconsin-investment-board-swib-explained/,/wisconsin-investment-board-swib/,institution,200/200,Wave 10 overwrites explained ($178.175bn at 31 Dec 2025; live still $215bn) then 301 both extras
+P1,/wisconsin-investment-board-swib-explained/,/wisconsin-swib/,institution,200/200,Third twin — 301 after Wave 10 paste
 P1,/uss-universities-superannuation-scheme/,/uss-universities-superannuation-scheme-explained/,institution,200/200,Keep short; Wave 9 uses 31 Mar 2026 accounts. 301 explained + uk-explained
 P1,/uss-universities-superannuation-scheme/,/uss-universities-superannuation-scheme-uk-explained/,institution,200/200,
 P1,/investment-corporation-of-dubai-icd-explained/,/investment-corporation-of-dubai-icd/,institution,200/200,
@@ -19,12 +19,12 @@ P1,/turkey-wealth-fund-explained/,/turkey-wealth-fund/,institution,200/200,
 P1,/samruk-kazyna-kazakhstan-explained/,/samruk-kazyna-kazakhstan/,institution,200/200,
 P1,/new-zealand-superannuation-fund-explained/,/new-zealand-superannuation-fund/,institution,200/200,Wave 9 overwrites explained (was NZ$71.4bn Jun 2024)
 P1,/mumtalakat-bahrain-explained/,/mumtalakat-bahrain/,institution,200/200,
-P1,/hkma-exchange-fund-hong-kong-explained/,/hkma-exchange-fund-hong-kong/,institution,200/200,
+P1,/hkma-exchange-fund-hong-kong-explained/,/hkma-exchange-fund-hong-kong/,institution,200/200,Wave 10 overwrites explained (HK$4,463.6bn at 30 Jun 2026)
 P1,/chile-economic-and-social-stabilization-fund-explained/,/chile-economic-and-social-stabilization-fund/,institution,200/200,
 P1,/russia-national-wealth-fund-explained/,/russia-national-wealth-fund/,institution,200/200,
-P1,/australian-retirement-trust-explained/,/australian-retirement-trust/,institution,200/200,
-P1,/new-york-state-common-retirement-fund-explained/,/new-york-state-common-retirement-fund/,institution,200/200,
-P1,/texas-permanent-school-fund-explained/,/texas-permanent-school-fund/,institution,200/200,
+P1,/australian-retirement-trust-explained/,/australian-retirement-trust/,institution,200/200,Wave 10 overwrites explained (A$350.694bn at 30 Jun 2025; live invented a 2024 LG Super merger)
+P1,/new-york-state-common-retirement-fund-explained/,/new-york-state-common-retirement-fund/,institution,200/200,Wave 10 overwrites explained ($295.4bn FY / $309.7bn Q1; live still $226.8bn)
+P1,/texas-permanent-school-fund-explained/,/texas-permanent-school-fund/,institution,200/200,Wave 10 overwrites explained ($60.6bn at 31 Aug 2025; live $8.3bn is harmful)
 P2,/reference-portfolio-explained/,/what-is-a-reference-portfolio/,define,200/200,/reference-portfolio/ already 404
 P2,/yale-endowment-model/,/what-is-the-yale-endowment-model/,define,200/200,
 P2,/liability-driven-investing-explained/,/what-is-liability-driven-investing/,define,200/200,

@@ -1,5 +1,29 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 8: Texas PSF at $8.3bn; SWIB overstated at $215bn
+
+**Queries / URLs:** `/new-york-state-common-retirement-fund-explained/`, `/texas-permanent-school-fund-explained/`, `/australian-retirement-trust-explained/`, `/hkma-exchange-fund-hong-kong-explained/`, `/wisconsin-investment-board-swib-explained/`.
+
+**What was wrong on the live site:**
+
+- NY Common still leads with **$226.8 billion** / “~1 million” members. OSC 20 May 2026: estimated **$295.4 billion at 31 March 2026**, **11.94%**. OSC homepage now headlines **$309.7 billion** at end of FY2026–27 Q1, **6.12%**. Funded **92.2% is 31 March 2025**.
+- Texas PSF explained still calls it a **$8.3 billion** endowment. FY2025 ACFR: Corporation net position **$60.6 billion** ($60,619,480,329) at 31 August 2025. Distributed **$2.2 billion** to the ASF; guaranteed **$138.1bn** school + **$5.8bn** charter. Do not invent a combined GLO land-book total.
+- ART explained invents a **1 July 2024** merger of QSuper and *Local Government Super* at **$180+ billion**. Official: QSuper + **Sunsuper**, **28 February 2022**. Audited net assets available for member benefits **A$350.694 billion** at 30 June 2025; **2.4 million** members. High Growth **11.9%** is not the default. CEO **Kathy Vincent** from 1 October 2025.
+- HKMA explained still says **about HK$4.2 trillion**. 28 July 2026 H1: **HK$4,463.6 billion** at 30 June 2026; income **HK$134.7 billion**. Not a classic SWF.
+- SWIB explained still says **$215 billion** / **625,000** members / **8%** assumed return. Board table 31 Dec 2025: total AUM **$178.175 billion**; WRS **$154.652 billion**; **703,000** participants; Core target **6.8%**; Core 2025 net **14.4%**. $215bn *overstates*.
+
+**Confirmed still unpublished:** Waves 1–9. GPIF live return still 15.83%. CIC explained still $1.3T. NZ Super still NZ$71.4bn. ADIA still ~$1.1T. Asset-owners title still “(2025)”. `/directory/` and `/royal-family-investment-offices/` still 404. Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. MailAdx support still silent after the 26 Aug 10:37 UTC follow-up; do not ping again. One Ghost free-member signup mail (Konstantinos Angelakis, 26 Aug) — not a list total. Substack verification noise only.
+
+**Shipped (Wave 10):** five overwrites. No new slugs. No new `*-explained` twins.
+
+**Refused:** ICD 2025 overwrite (icd.gov.ae Cloudflare-blocked; Wikipedia / GlobalSWF are not a filing). Another PIF overwrite. Inventing a June 2026 ART NAV. Inventing a Texas PSF+GLO combined AUM. Inventing an HKMA “fund return %” from 134.7 / 4,463.6.
+
+**Access:** `GHOST_ADMIN_API_KEY` and `GOOGLE_SERVICE_ACCOUNT_JSON` still unset. Secrets re-requested. Publisher default waves now include 10.
+
+**Next wake must:** Paste 5 → 6 → 7 → 8 → 9 → 10. Then 301 `twins.csv` (P0 first; then NY / Texas / ART / HKMA / both SWIB extras). If the Ghost key lands, `publish_to_ghost.py` drafts first. Do not draft another NY / Texas / ART / HKMA / SWIB synonym. Do not write another `*-explained` for anything in `twins.csv`.
+
 ## 2026-08-26 — Wake 7: NZ Super still on 2024; ADIA still prints $1.1T
 
 **Queries / URLs:** `/new-zealand-superannuation-fund-explained/`, `/ontario-teachers-pension-plan-explained/`, `/adia-abu-dhabi-investment-authority/`, `/uss-universities-superannuation-scheme/`, `/universal-owner/`.

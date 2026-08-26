@@ -8,13 +8,13 @@ GSC and GA are in use from Google’s own mail (`tracking/first-party-baseline.m
 2. **Search Console + GA4 API** — GCP service account JSON as `GOOGLE_SERVICE_ACCOUNT_JSON`. Add that `client_email` as a user on the GSC domain property `universalassetowners.com` and as Viewer on GA4 property **399677697**. Optional: `GSC_SITE_URL` (default `sc-domain:universalassetowners.com`), `GA4_PROPERTY_ID` (default `399677697`).
 3. Confirm GSC is linked to the UAO property (`399677697` / `G-ZRS5B4BPJS`), not `herofund.ca`.
 
-Once those secrets are in, this agent publishes Wave 1–9 as Ghost drafts (or live if you say so) and scores the keyword board from GSC instead of “unknown.”
+Once those secrets are in, this agent publishes Wave 1–10 as Ghost drafts (or live if you say so) and scores the keyword board from GSC instead of “unknown.”
 
 ## This week (editorial)
 
 1. Read `prompts/v4-FINAL.md` once. That is now the standing brief for every growth agent.
 2. Editor pass on `publish/wave-1/` — especially visa/tax language and any institution name that has moved.
-3. If Ghost API is not in yet, paste in this order: **Wave 5** SWF keeper → 301 twins → **Wave 6** asset-owners (drop 2025 title) → **Wave 7** GPIF/NBIM/public-pension → **Wave 8** CIC explained (still **$1.3T**) + CalSTRS/Temasek-is-SWF → **Wave 9** NZ Super (still **NZ$71.4bn**), ADIA (still **~$1.1T**), OTPP mid-year, USS 2026, `/universal-owner/` → Wave 4 GSC winners → Wave 3 defines → Wave 1–2 new slugs. Prefer the API. After Wave 8 CIC paste, 301 `/china-investment-corporation-cic/`. `/cpp-investments-explained/` is already on C$793.3bn — 301 the short slug now. After Wave 9, 301 `/ontario-teachers-pension-plan/` and the two USS explained twins.
+3. If Ghost API is not in yet, paste in this order: **Wave 5** SWF keeper → 301 twins → **Wave 6** asset-owners (drop 2025 title) → **Wave 7** GPIF/NBIM/public-pension → **Wave 8** CIC explained (still **$1.3T**) + CalSTRS/Temasek-is-SWF → **Wave 9** NZ Super (still **NZ$71.4bn**), ADIA (still **~$1.1T**), OTPP mid-year, USS 2026, `/universal-owner/` → **Wave 10** NY Common (still **$226.8bn**), Texas PSF (still **$8.3bn**), ART (fake 2024 merger), HKMA, SWIB (still **$215bn**) → Wave 4 GSC winners → Wave 3 defines → Wave 1–2 new slugs. Prefer the API. After Wave 8 CIC paste, 301 `/china-investment-corporation-cic/`. `/cpp-investments-explained/` is already on C$793.3bn — 301 the short slug now. After Wave 9, 301 `/ontario-teachers-pension-plan/` and the two USS explained twins. After Wave 10, 301 the NY / Texas / ART / HKMA shorts and both extra SWIB URLs.
 4. 301 the twin explainers in `inventory/twins.csv` / `publish/wave-3/merge-brief.md`. Highest cost: the year-stamped SWF URLs (Google is ranking the long twin) and `/what-is-a-universal-asset-owner/` → `/universal-owner/`. Then the institution `*-explained` vs short-slug farm. Strip losers from `/llms/` (`publish/wave-6/llms-canonical-patch.md`) — the live TOC lists twins **and** two 404 plurals.
 5. Upgrade `/advertise/` and `/press-desk/` from the drafts (they overwrite thin live pages).
 6. Put `/llms/` patch live.

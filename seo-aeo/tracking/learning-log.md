@@ -1,5 +1,29 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 42: leftover ADIA $163bn; leftover PIF $925bn / QIA $450bn; leftover CalPERS $500bn / $469bn / $496bn; leftover CPP $650bn / $623bn; leftover OMERS $62bn
+
+**Queries / URLs:** `/gulf-sovereign-wealth-funds-and-ai-investment/`, `/ai-infrastructure-as-an-asset-class/`, `/what-is-co-investment-in-private-equity/`, `/what-is-infrastructure-equity-vs-infrastructure-debt/`, `/direct-investing-vs-fund-investing-for-asset-owners/`.
+
+**What was wrong on the live site:**
+
+- Gulf AI invent leftover ADIA **$163 billion**, leftover PIF **$925 billion**, leftover QIA **$450 billion**, leftover OMFIF **$2.7 trillion**, leftover SoftBank Vision Fund 2 **$40 billion** as PIF AUM. Official: ADIA and QIA publish **no AUM**. PIF **more than US$900 billion**.
+- AI-infra invent leftover CalPERS **over $500 billion**, leftover CPP **$650 billion**, leftover GPFG **$1.3 trillion**, leftover **$50+ billion** annual, leftover Blackstone **$12 billion**. Official: CalPERS **$637.1 billion**. CPP **C$793.3 billion**. GPFG **kroner**.
+- PE co-invest invent leftover CalPERS **$469 billion**, leftover CalSTRS **$340 billion**, leftover OTPP **CAD $46 billion**, leftover Blackstone / Apollo / KKR / Carlyle / Brookfield manager piles. Official: CalPERS **$637.1 billion**. CalSTRS **$415.4 billion**. OTPP **C$303.2 billion**.
+- Infra equity-vs-debt invent leftover CalPERS **USD 496 billion**, leftover OTPP **CAD 240 billion**, leftover OMERS **CAD 62 billion**, leftover Temasek / GIC **USD 500+ billion**. Twin invent leftover CalPERS **$511 billion**, leftover Temasek **$403 billion**. Official: CalPERS **$637.1 billion**. OTPP **C$303.2 billion**. OMERS **$145.2 billion**. Temasek **S$518 billion**. GIC publishes **no AUM**.
+- Direct vs fund invent leftover CPP **$623 billion**, leftover Texas TRS **$195 billion**, leftover Alaska **$84 billion**, leftover Ohio STRS **$90 billion**, leftover GPFG **$1.3 trillion**. Official: CPP **C$793.3 billion**. Texas TRS **$225.3 billion**. Alaska **$91,346,500,000** (unaudited, 30 June 2026). GPFG **kroner**.
+
+**Confirmed still unpublished:** Waves 1–42. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00**. Do not ping support.
+
+**Shipped (Wave 42):** five overwrites. No new slugs. Publisher default waves now include 42. Queued 301: `/infrastructure-equity-vs-debt/` → infra equity-vs-debt keeper.
+
+**Refused:** ICD YE2025 PDF. Dollarizing GPIF / GPFG / ADQ. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / OMERS / CalPERS / Mubadala / Temasek / Alaska institution keepers. Overwriting `/endowment-model-explained/` (Wave 15) or `/yale-endowment-model/` (Wave 14). Minting `/strs-ohio-explained/`, `/texas-trs/`, `/psp-investments/`, `/family-office/`, `/harvard-endowment-explained/`, `/evergreen-funds-explained/`, or `/adq-explained/`. Fetching leftover Blackstone / Apollo / KKR / Carlyle / Brookfield / OMFIF / SoftBank piles. Another SWF-co-invest / GP-stakes / evergreen / Gulf-data-center / public-vs-PE synonym. `/j-curve-private-equity/`, `/denominator-effect-explained/`, `/physical-climate-risk-asset-owners/`, `/co-investment-vs-direct-investment/` (no leftover house AUM). `/esg-backlash-and-pension-funds/` (dated Indiana fiscal note). `/infrastructure-as-an-asset-class/` (consultant fundraising pile).
+
+**Access:** Secrets re-requested. `GHOST_ADMIN_API_KEY` and `GOOGLE_SERVICE_ACCOUNT_JSON` still UNSET.
+
+**Next wake must:** Paste 5 → 42. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another Gulf-AI / AI-infra / PE-co-invest / infra-equity-vs-debt / direct-vs-fund synonym. Highest-harm leftovers now: `/private-equity-returns-10-year/` (leftover CalPERS **$450 billion** / OTPP **$215 billion**); `/private-equity-vs-hedge-funds/` (leftover CalPERS **$441 billion**); `/active-vs-passive-for-universal-owners/` (leftover CalPERS **$440 billion**); unpublished keepers (GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn).
+
 ## 2026-08-26 — Wake 41: leftover CPP $460bn / $625bn; GPFG $1.4T / $1.3T; leftover GIC $849bn; leftover ADIA $172.5bn / $170bn; leftover Yale $41.4bn; leftover PIF $925bn / KIA $716bn
 
 **Queries / URLs:** `/sovereign-wealth-fund-co-investment-models/`, `/what-is-a-gp-stake-gp-stakes-investing/`, `/what-is-semi-liquid-evergreen-fund-structure/`, `/gulf-sovereign-wealth-funds-and-data-centers/`, `/public-vs-private-equity-returns/`.

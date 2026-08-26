@@ -49,5 +49,7 @@ Do not 301 this page onto `/pennsylvania-psers/`, `/ohio-opers/`, or `/largest-u
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [PSERS](/pennsylvania-psers/)
 - [OPERS](/ohio-opers/)
+- [IPERS](/iowa-ipers/)
+- [INPRS](/indiana-inprs/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

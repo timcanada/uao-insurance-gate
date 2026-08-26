@@ -50,5 +50,7 @@ Do not 301 this page onto `/calpers-explained-largest-us-pension-fund/`, `/calst
 - [CalPERS](/calpers-explained-largest-us-pension-fund/)
 - [SFERS](/san-francisco-sfers/)
 - [Relocating to San Francisco](/careers/cities/san-francisco/)
+- [Colorado PERA](/colorado-pera/)
+- [INPRS](/indiana-inprs/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -27,7 +27,7 @@ Last updated: 26 August 2026.
 
 Print Canadian dollars for CPP and OTPP. Quote the OMERS institution page; **do not overwrite it**. Do **not** add the three books. Do not convert C$793.3 billion into a homemade USD rank so the three can share one column.
 
-This URL is the **three-name** comparison. The broader Canadian list already sits on [`/canadian-pension-giants-compared/`](/canadian-pension-giants-compared/) and is already current. **Do not 301 this keeper onto that page.** The CalPERS pair already sits on [`/cpp-investments-vs-calpers/`](/cpp-investments-vs-calpers/).
+This URL is the **three-name** comparison. The broader Canadian list already sits on [`/canadian-pension-giants-compared/`](/canadian-pension-giants-compared/) and is already current. **Do not 301 this keeper onto that page.** The CalPERS pair already sits on [`/cpp-investments-vs-calpers/`](/cpp-investments-vs-calpers/). [CAAT](/caat-pension/) and [OPTrust](/optrust/) are different Ontario files. Do not flatten them onto this three-name page.
 
 ## What the comparison can say
 
@@ -47,6 +47,8 @@ This URL is the **three-name** comparison. The broader Canadian list already sit
 - [Ontario Teachers’ Pension Plan](/ontario-teachers-pension-plan-explained/)
 - [CPP Investments](/cpp-investments-explained/)
 - [OMERS](/omers-explained/)
+- [CAAT Pension Plan](/caat-pension/)
+- [OPTrust](/optrust/)
 - [Canadian pension giants compared](/canadian-pension-giants-compared/)
 - [CPP Investments vs CalPERS](/cpp-investments-vs-calpers/)
 - [What is a pension fund?](/what-is-a-pension-fund/)

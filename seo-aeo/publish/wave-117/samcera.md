@@ -27,7 +27,7 @@ The statement of fiduciary net position is the sourced line:
 2. **Liability cards.** Total pension liability **$7,585,125,271**. Net pension liability **$371,324,607**. Fiduciary net position as a percentage of total pension liability **95.10 percent**. Those three lines are not interchangeable.
 3. **Returns and funded status.** Time-weighted return **10.56 percent** net of investment expenses. Money-weighted return **10.6 percent** net of investment manager fees. Those two official one-year prints are not interchangeable. Actuarial-value funded ratio **89.3 percent**. That actuarial-value card is not the GASB **95.10 percent** card.
 
-Do not flatten SamCERA into [LACERA](/lacera/), [SFERS](/san-francisco-sfers/), [CalPERS](/calpers-explained-largest-us-pension-fund/), [Sacramento County](/sacramento-scers/), or [SJCERA](/sjcera/). SJCERA is the San Joaquin **County** file. This is **one San Mateo County employee file**.
+Do not flatten SamCERA into [LACERA](/lacera/), [SFERS](/san-francisco-sfers/), [CalPERS](/calpers-explained-largest-us-pension-fund/), [Sacramento County](/sacramento-scers/), [SJCERA](/sjcera/), [SBCERS](/sbcers/), or [Sonoma SCERA](/sonoma-scera/). SJCERA is the San Joaquin **County** file. SBCERS is the Santa Barbara **County** file. This is **one San Mateo County employee file**.
 
 ## What an owner is actually buying
 
@@ -52,5 +52,7 @@ Do not 301 this page onto `/lacera/`, `/san-francisco-sfers/`, `/calpers-explain
 - [Sacramento County](/sacramento-scers/)
 - [SBCERA](/sbcera/)
 - [SJCERA](/sjcera/)
+- [SBCERS](/sbcers/)
+- [Sonoma SCERA](/sonoma-scera/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

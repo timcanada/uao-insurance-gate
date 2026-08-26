@@ -30,13 +30,13 @@ The statement of fiduciary net position is the sourced line (in thousands):
 
 The Alaska Permanent Fund is a sovereign savings file. This is a retirement-system file. Those two legal persons are not interchangeable.
 
-Do not flatten Alaska PERS into [Alaska Permanent Fund](/alaska-permanent-fund-explained/), [CalPERS](/calpers-explained-largest-us-pension-fund/), or [Nevada PERS](/nevada-pers/). The Permanent Fund is the savings book. This is **one Alaska public-employee retirement file**.
+Do not flatten Alaska PERS into [Alaska Permanent Fund](/alaska-permanent-fund-explained/), [Alaska TRS](/alaska-trs/), [CalPERS](/calpers-explained-largest-us-pension-fund/), or [Nevada PERS](/nevada-pers/). The Permanent Fund is the savings book. Alaska TRS is the teacher file. This is **one Alaska public-employee retirement file**.
 
 ## What an owner is actually buying
 
 Counsel selling “Alaska PERS AUM” has to name the book. The **$26,772,591 thousand** line is combined fiduciary net position. The **$12,286,031 thousand** line is defined-benefit pension fiduciary net position. The **$26,499,544 thousand** line is investments. Leftover Alaska Permanent Fund **$91,346,500,000** is a different legal person.
 
-Do not 301 this page onto `/alaska-permanent-fund-explained/`, `/nevada-pers/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/alaska-permanent-fund-explained/`, `/alaska-trs/`, `/nevada-pers/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -50,6 +50,7 @@ Do not 301 this page onto `/alaska-permanent-fund-explained/`, `/nevada-pers/`, 
 - [Public pension funds](/public-pension-funds/)
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Alaska Permanent Fund](/alaska-permanent-fund-explained/)
+- [Alaska TRS](/alaska-trs/)
 - [Nevada PERS](/nevada-pers/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

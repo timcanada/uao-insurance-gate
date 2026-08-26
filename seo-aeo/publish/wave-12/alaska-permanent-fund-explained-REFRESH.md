@@ -74,6 +74,7 @@ Three APFC benchmarks, as the performance page defines them: a **passive** stock
 - **Principal is locked. ERA is the politics.** If you cannot explain the two-account split, you are not covering this fund.
 - **The PFD is not the Fund’s return.** $1,000 in 2025 is a budget choice.
 - **Alaska PERS is a different legal person.** Do not flatten this savings file onto [Alaska PERS](/alaska-pers/) combined fiduciary net position **$26,772,591 thousand** at **30 June 2025**.
+- **Alaska TRS is a different legal person.** Do not flatten this savings file onto [Alaska TRS](/alaska-trs/) combined fiduciary net position **$12,039,978 thousand** at **30 June 2025**.
 
 ## Related
 
@@ -83,6 +84,7 @@ Three APFC benchmarks, as the performance page defines them: a **passive** stock
 - [Largest sovereign wealth funds](/largest-sovereign-wealth-funds/)
 - [NBIM](/norges-bank-investment-management-nbim/)
 - [Alaska PERS](/alaska-pers/)
+- [Alaska TRS](/alaska-trs/)
 
 ## Sources
 

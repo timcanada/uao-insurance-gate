@@ -271,6 +271,16 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,drs,DRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 122 /washington-drs/
 122,institution,alaska-pers,Alaska PERS,allocator,brief,P0,drafted-in-repo,Wave 122. Official combined FNP $26,772,591 thousand at 30 Jun 2025. Do not mint /pers-alaska/ or /alaska-pers-explained/
 2,institution,pers-alaska,Alaska PERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 122 /alaska-pers/
+123,institution,alaska-trs,Alaska TRS,allocator,brief,P0,drafted-in-repo,Wave 123. Official combined FNP $12,039,978 thousand at 30 Jun 2025. Do not mint /aktrs/ or /alaska-trs-explained/
+2,institution,aktrs,Alaska TRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 123 /alaska-trs/
+123,institution,sbcers,SBCERS,allocator,brief,P0,drafted-in-repo,Wave 123. Official combined FNP $4,904,293 thousand at 30 Jun 2025. Do not mint /santa-barbara-sbcers/ or /sbcers-explained/
+2,institution,santa-barbara-sbcers,SBCERS (long twin),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 123 /sbcers/. SBCERA is San Bernardino
+123,institution,sonoma-scera,Sonoma SCERA,allocator,brief,P0,drafted-in-repo,Wave 123. Official FNP $4,330,832 thousand at 31 Dec 2025. Do not mint /scera/ or /scers/
+2,institution,scera,SCERA (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 123 /sonoma-scera/. /scers/ is Sacramento
+123,institution,caat-pension,CAAT Pension Plan,allocator,brief,P0,drafted-in-repo,Wave 123. Official net assets C$25,447 million at 31 Dec 2025. Do not mint /caat/ or /caat-explained/
+2,institution,caat,CAAT (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 123 /caat-pension/
+123,institution,optrust,OPTrust,allocator,brief,P0,drafted-in-repo,Wave 123. Official net assets C$27,223 million at 31 Dec 2025. Do not mint /optrust-explained/ or /opseu-pension/
+2,institution,optrust-explained,OPTrust (long twin),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 123 /optrust/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

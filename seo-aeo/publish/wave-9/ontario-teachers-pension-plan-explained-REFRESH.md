@@ -43,7 +43,7 @@ Contributions and benefits in 2025, from the results release: member and employe
 
 Ontario Teachers’ was created in **1990** as an independent joint-sponsored defined-benefit plan for Ontario’s public-school teachers. It is a core exhibit of the Canadian model: arm’s-length from government, professional board, large in-house teams, direct private-market ownership.
 
-It is **not** [CPP Investments](/cpp-investments-explained/) (the national CPP manager) and **not** [CalSTRS](/calstrs-explained/) (US educator-only). Same profession idea, different statute and different dollar.
+It is **not** [CPP Investments](/cpp-investments-explained/) (the national CPP manager), **not** [CalSTRS](/calstrs-explained/) (US educator-only), **not** [CAAT](/caat-pension/) (Ontario colleges), and **not** [OPTrust](/optrust/) (OPSEU). Same profession idea as CalSTRS, different statute and different dollar. CAAT and OPTrust are different Ontario files.
 
 ## 2025 in one paragraph
 
@@ -59,6 +59,8 @@ OTPP said 2025 was a good outcome in a hard year that missed the 7% annual targe
 ## Related
 
 - [CPP Investments](/cpp-investments-explained/)
+- [CAAT Pension Plan](/caat-pension/)
+- [OPTrust](/optrust/)
 - [CalSTRS](/calstrs-explained/)
 - [Public pension funds](/public-pension-funds/)
 - [Total portfolio approach](/total-portfolio-approach/)

@@ -587,5 +587,10 @@ P1,Minnesota State Retirement System,allocator,both,/minnesota-msrs/,define,unkn
 P1,San Joaquin County Employees’ Retirement Association,allocator,both,/sjcera/,define,unknown,unknown,unknown,drafted-wave-122,Wave 122. Official FNP $5,286,842 thousand at 31 Dec 2025. Do not mint /san-joaquin-sjcera/
 P1,Washington Department of Retirement Systems,allocator,both,/washington-drs/,define,unknown,unknown,unknown,drafted-wave-122,Wave 122. Official combined FNP $197,122,522 thousand at 30 Jun 2025. Do not mint /drs/
 P1,Alaska Public Employees’ Retirement System,allocator,both,/alaska-pers/,define,unknown,unknown,unknown,drafted-wave-122,Wave 122. Official combined FNP $26,772,591 thousand at 30 Jun 2025. Do not mint /pers-alaska/
+P1,Alaska Teachers’ Retirement System,allocator,both,/alaska-trs/,define,unknown,unknown,unknown,drafted-wave-123,Wave 123. Official combined FNP $12,039,978 thousand at 30 Jun 2025. Do not mint /aktrs/
+P1,Santa Barbara County Employees’ Retirement System,allocator,both,/sbcers/,define,unknown,unknown,unknown,drafted-wave-123,Wave 123. Official combined FNP $4,904,293 thousand at 30 Jun 2025. Do not mint /santa-barbara-sbcers/
+P1,Sonoma County Employees’ Retirement Association,allocator,both,/sonoma-scera/,define,unknown,unknown,unknown,drafted-wave-123,Wave 123. Official FNP $4,330,832 thousand at 31 Dec 2025. Do not mint /scera/
+P1,CAAT Pension Plan,allocator,both,/caat-pension/,define,unknown,unknown,unknown,drafted-wave-123,Wave 123. Official net assets C$25,447 million at 31 Dec 2025. Do not mint /caat/
+P1,OPTrust,allocator,both,/optrust/,define,unknown,unknown,unknown,drafted-wave-123,Wave 123. Official net assets C$27,223 million at 31 Dec 2025. Do not mint /optrust-explained/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

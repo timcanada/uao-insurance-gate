@@ -27,7 +27,7 @@ The statement of fiduciary net position is the sourced line (in thousands):
 2. **GASB funded cards.** Total pension liability **$8,759,939 thousand**. Net pension asset **$400,144 thousand**. Fiduciary net position as a percentage of total pension liability **104.57 percent**. The actuarial-value funded status **99.2 percent** (from **97.0 percent**) is not the GASB card. Those two funded cards are not interchangeable.
 3. **Returns.** Time-weighted return **11.80 percent** net of pension-plan investment expense. The transmittal **11.8 percent** card matching the policy benchmark is the same time-weighted print rounded. Money-weighted return **11.64 percent** net of pension-plan investment expense. Those two official one-year prints are not interchangeable.
 
-Do not flatten VCERA into [LACERA](/lacera/), [SBCERA](/sbcera/), [OCERS](/ocers/), [SJCERA](/sjcera/), or [CalPERS](/calpers-explained-largest-us-pension-fund/). LACERA is the Los Angeles **County** file. SBCERA is the San Bernardino **County** file. SJCERA is the San Joaquin **County** file. This is **one Ventura County employee file**.
+Do not flatten VCERA into [LACERA](/lacera/), [SBCERA](/sbcera/), [OCERS](/ocers/), [SJCERA](/sjcera/), [SBCERS](/sbcers/), [Sonoma SCERA](/sonoma-scera/), or [CalPERS](/calpers-explained-largest-us-pension-fund/). LACERA is the Los Angeles **County** file. SBCERA is the San Bernardino **County** file. SJCERA is the San Joaquin **County** file. SBCERS is the Santa Barbara **County** file. This is **one Ventura County employee file**.
 
 ## What an owner is actually buying
 
@@ -50,5 +50,7 @@ Do not 301 this page onto `/lacera/`, `/sbcera/`, `/ocers/`, `/calpers-explained
 - [LACERA](/lacera/)
 - [OCERS](/ocers/)
 - [SJCERA](/sjcera/)
+- [SBCERS](/sbcers/)
+- [Sonoma SCERA](/sonoma-scera/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

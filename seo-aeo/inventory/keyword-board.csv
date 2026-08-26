@@ -64,6 +64,11 @@ P1,PFZW,allocator,both,/pfzw-netherlands-pension-fund-explained/,entity,unknown,
 P1,KIC,allocator,both,/korea-investment-corporation-kic-explained/,entity,unknown,unknown,unknown,refresh-drafted,Live $190bn Dec 2023. Official USD 232.0bn at end-2025. Not NPS. Wave 16
 P1,NPS Korea,allocator,both,/national-pension-service-korea-explained/,entity,unknown,unknown,unknown,refresh-drafted,Live 1,438tn won / $997bn. Official KRW 1,848.7tn at end-May 2026. No USD. Wave 16
 P1,KIA,allocator,both,/kuwait-investment-authority-kia/,entity,unknown,unknown,unknown,refresh-drafted,Live invents US$1.07T. KIA does not publish AUM. Wave 16
+P1,ADQ,allocator,both,/adq-abu-dhabi/,entity,unknown,unknown,unknown,refresh-drafted,Live invents $250–260bn. Official AED 921.7bn total assets at 31 Dec 2024. Wave 18. Do not mint /adq-explained/
+P1,Aware Super,allocator,both,/aware-super-explained/,entity,unknown,unknown,unknown,refresh-drafted,Live $16bn / $130bn. Official over $240bn at 30 Jun 2026. Wave 18
+P1,Cbus,allocator,both,/cbus-superannuation-explained/,entity,unknown,unknown,unknown,refresh-drafted,Live $60bn / 2.5m. Official more than $115bn / 935k at 30 Jun 2026. Wave 18
+P1,Libyan Investment Authority,allocator,both,/libyan-investment-authority-explained/,entity,unknown,unknown,unknown,refresh-drafted,Live invents 2016 founding / $67bn current. Official 28 Aug 2006; Law 13/2010. Wave 18
+P1,Abu Dhabi sovereign funds,allocator,both,/abu-dhabi-three-sovereign-funds/,compare,unknown,unknown,unknown,refresh-drafted,Live ADIA $150bn / $800–900bn pile. Official: ADIA no AUM; Mubadala AED 1.4T; ADQ AED 921.7bn; SCFEA names L’IMAD. Wave 18
 P2,what is an OCIO,allocator,both,/what-is-an-ocio/,define,unknown,unknown,unknown,live-check,
 P2,single family office vs multi family office,allocator,both,/single-vs-multi-family-office/,define,unknown,unknown,unknown,live-check,
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,live-check,

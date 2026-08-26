@@ -22,6 +22,12 @@ P1,/bci-british-columbia-investment-management/,/bci-british-columbia-investment
 P1,/bci-british-columbia-investment-management/,/bcim-british-columbia-investment-management/,institution,200/200,Second BCI twin — 301 after Wave 17 paste
 P1,/qatar-investment-authority-qia/,/qatar-investment-authority/,institution,200/200,Wave 17 overwrites keeper (no official AUM; live invents $510–600bn). 301 short after paste
 P1,/qatar-investment-authority-qia/,/qatar-investment-authority-portfolio/,institution,200/200,Portfolio twin — 301 after Wave 17 paste. /qatar-investment-authority-qia-portfolio/ 404 — do not mint it
+P1,/aware-super-explained/,/aware-super-australia-explained/,institution,200/200,Wave 18 overwrites keeper (over $240bn at 30 Jun 2026; live still $16bn / $130bn). 301 twin after paste
+P1,/cbus-superannuation-explained/,/cbus-superannuation-australia-explained/,institution,200/200,Wave 18 overwrites keeper (more than $115bn at 30 Jun 2026; live still $60bn). 301 twin after paste
+P1,/abu-dhabi-three-sovereign-funds/,/abu-dhabi-s-three-sovereign-funds-adia-mubadala-adq/,cluster,200/200,Wave 18 overwrites keeper (kills ADIA $150bn / $800–900bn pile). 301 cluster twins after paste
+P1,/abu-dhabi-three-sovereign-funds/,/abu-dhabi-sovereign-wealth-ecosystem/,cluster,200/200,Second Abu Dhabi cluster twin — 301 after Wave 18 paste
+P1,/abu-dhabi-three-sovereign-funds/,/adia-vs-mubadala-vs-adq/,cluster,200/200,Third cluster twin — 301 after Wave 18 paste
+P1,/abu-dhabi-three-sovereign-funds/,/adia-vs-mubadala/,cluster,200/200,Fourth cluster twin — 301 after Wave 18 paste if it is a thin copy
 P1,/australiansuper-explained/,/australian-super/,institution,200/404,Live already A$410bn at 31 Dec 2025. Wave 3 short slug 404 — do not mint it; 301 the largest-superannuation twin onto explained
 P1,/australiansuper-explained/,/australiansuper-explained-largest-superannuation/,institution,200/200,Stale 2.5 million twin — 301 after confirming keeper
 P1,/oman-investment-authority-explained/,/oman-investment-authority/,institution,200/200,Wave 11 overwrites explained (three official portfolios; live invented two fund names)

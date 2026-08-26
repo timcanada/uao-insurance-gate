@@ -1,5 +1,29 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 18: ADQ $250–260bn; Aware $16bn; Cbus $60bn; LIA 2016; ADIA $150bn pile
+
+**Queries / URLs:** `/adq-abu-dhabi/`, `/aware-super-explained/`, `/cbus-superannuation-explained/`, `/libyan-investment-authority-explained/`, `/abu-dhabi-three-sovereign-funds/`.
+
+**What was wrong on the live site:**
+
+- ADQ (14 June 2026) invents **$250–260 billion** and a **$117 billion** seed. Official 2024 FS on adq.ae: **total assets AED 921,741 million** at 31 December 2024; revenue **AED 127,890 million**; profit **AED 25,890 million**. Law **No. 2 of 2018**. SCFEA consolidated ADQ under **L’IMAD** (Media Office release; no AUM). `/adq-explained/` **404s**.
+- Aware Super (6 July 2026) prints **$16 billion** and **AUD $130 billion** in the same article, plus a community-services origin. Official: **over $240 billion** at 30 June 2026; **1.2 million+** members; **First State Super, 1992**. TelstraSuper SFT **30 April 2026**. Twin still 200.
+- Cbus (6 July 2026) prints **$60 billion / $63.3 billion** and **2.5 million** members. Official fund-information: **more than $115 billion**, **935,000** members, **230,000** employers at **30 June 2026**. Commencement **1984**. Twin still 200.
+- LIA (10 July 2026) invents a **2016** founding and treats **$67 billion** as current. Official: **28 August 2006**, Resolution **208**; **Law No. 13 of 2010**. Own site dates “more than $80 billion” to **2019**. IFSWF “surpassing $67 billion” is undated.
+- Abu Dhabi three-funds (4 July 2026) invents ADIA **$150 billion** and a combined **$800–900 billion**. Official: ADIA **no AUM** (6.3% / 7.1%). Mubadala **AED 1.4T / US$385bn**. ADQ **AED 921.7bn** YE2024. SCFEA now names **ADIA, Mubadala, L’IMAD**. Four cluster twins still 200.
+
+**Confirmed still unpublished:** Waves 1–17. Sitemap **1263** URLs this wake. GPIF live return still **15.83%**. CIC explained still $1.3T. Chile ESSF still $10.8bn. `/directory/` still 404. Ghost key still missing. Mubadala live already current (AED 1.4T). Future Fund live already A$269.1bn.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. No new named Ghost signup after Konstantinos Angelakis. MailAdx — do not ping support.
+
+**Shipped (Wave 18):** five overwrites. No new slugs. Publisher default waves now include 18.
+
+**Refused:** EPF (kwsp.gov.my still 403). ICD (icd.gov.ae still 403; IFSWF ICD URL 404). Another Mubadala / Future Fund / GPIF / CalPERS / PIF overwrite. Dollarizing ADQ’s dirham audit. Treating LIA 2019 **$80bn** or IFSWF **$67bn** as current AUM. Minting `/limad-explained/` or `/adq-explained/`. Pula Fund / FSDEA until official filings fetch.
+
+**Access:** Secrets re-requested. `GHOST_ADMIN_API_KEY` and `GOOGLE_SERVICE_ACCOUNT_JSON` still UNSET.
+
+**Next wake must:** Paste 5 → 18. Then 301 `twins.csv` (P0 first; Aware/Cbus; Abu Dhabi cluster; BCI; QIA short/portfolio; PFZW/PGGM). If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another ADQ / Aware / Cbus / LIA / Abu Dhabi-cluster synonym. Highest-harm leftovers: EPF once kwsp.gov.my is readable; ICD only if icd.gov.ae or an IFSWF/ICD filing fetches; GPIF 15.83% (Wave 7, unpublished). Pula Fund / FSDEA only with an official size or a clear no-AUM filing.
+
 ## 2026-08-26 — Wake 17: Khazanah USD 44bn; endowments $50bn; AIMCo $160bn; BCI $224.2bn; QIA $510–600bn
 
 **Queries / URLs:** `/khazanah-nasional-malaysia-explained/`, `/largest-university-endowments-2026/`, `/aimco-alberta-investment-management-corporation/`, `/bci-british-columbia-investment-management/`, `/qatar-investment-authority-qia/`.

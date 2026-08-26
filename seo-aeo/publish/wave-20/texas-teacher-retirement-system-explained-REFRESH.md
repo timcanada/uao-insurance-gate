@@ -66,6 +66,7 @@ TRS is a **teacher pension**, not a sovereign wealth fund. The score they will s
 - [New York State Common Retirement Fund](/new-york-state-common-retirement-fund-explained/)
 - [Texas Permanent School Fund](/texas-permanent-school-fund-explained/)
 - [Texas ERS](/texas-ers/)
+- [Texas Municipal Retirement System](/texas-tmrs/)
 - [Louisiana TRSL](/louisiana-trsl/)
 - [What is a pension fund?](/what-is-a-pension-fund/)
 - [Largest pension funds in the world](/largest-pension-funds-in-the-world/)

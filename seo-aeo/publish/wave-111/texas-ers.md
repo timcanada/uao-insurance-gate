@@ -48,5 +48,6 @@ Do not 301 this page onto `/texas-teacher-retirement-system-explained/`, `/texas
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Texas TRS](/texas-teacher-retirement-system-explained/)
 - [Texas Permanent School Fund](/texas-permanent-school-fund-explained/)
+- [Texas Municipal Retirement System](/texas-tmrs/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

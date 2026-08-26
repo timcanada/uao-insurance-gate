@@ -547,5 +547,10 @@ P1,Retirement Systems of Alabama,allocator,both,/alabama-rsa/,define,unknown,unk
 P1,Wyoming Retirement System,allocator,both,/wyoming-retirement-system/,define,unknown,unknown,unknown,drafted-wave-114,Wave 114. Official DB $13,188,110,017 at 31 Dec 2025. Do not mint /wrs/
 P1,New Mexico Educational Retirement Board,allocator,both,/new-mexico-erb/,define,unknown,unknown,unknown,drafted-wave-114,Wave 114. Official FNP $18,960,350,984 at 30 Jun 2025. Do not mint /nmerb/
 P1,West Virginia Consolidated Public Retirement Board,allocator,both,/west-virginia-cprb/,define,unknown,unknown,unknown,drafted-wave-114,Wave 114. Official PERS $9,701,065 thousand at 30 Jun 2025. Do not mint /wv-cprb/
+P1,North Dakota Public Employees Retirement System,allocator,both,/north-dakota-pers/,define,unknown,unknown,unknown,drafted-wave-115,Wave 115. Official total FNP $5,471,128,911 at 30 Jun 2025. Do not mint /ndpers/
+P1,Delaware Public Employees Retirement System,allocator,both,/delaware-dpers/,define,unknown,unknown,unknown,drafted-wave-115,Wave 115. Official Combined $14,760,489 thousand at 30 Jun 2025. Do not mint /dpers/
+P1,Montana Public Employee Retirement Administration,allocator,both,/montana-mpera/,define,unknown,unknown,unknown,drafted-wave-115,Wave 115. Official DB $10,563,079 thousand at 30 Jun 2025. Do not mint /mpera/
+P1,Texas Municipal Retirement System,allocator,both,/texas-tmrs/,define,unknown,unknown,unknown,drafted-wave-115,Wave 115. Official FNP $49,405,467,577 at 31 Dec 2025. Do not mint /tmrs/
+P1,CERN Pension Fund,allocator,both,/cern-pension-fund/,define,unknown,unknown,unknown,drafted-wave-115,Wave 115. Official 4,619,835 thousand Swiss francs at 31 Dec 2024. Do not mint /cern-pf/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

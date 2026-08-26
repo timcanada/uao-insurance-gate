@@ -49,5 +49,6 @@ Do not 301 this page onto `/what-is-a-pension-fund/`, `/calpers-explained-larges
 - [Largest pension funds](/largest-pension-funds-in-the-world/)
 - [CalPERS](/calpers-explained-largest-us-pension-fund/)
 - [GPIF](/gpif-japan-explained/)
+- [CERN Pension Fund](/cern-pension-fund/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -187,11 +187,20 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,nmerb,NMERB (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 114 /new-mexico-erb/
 114,institution,west-virginia-cprb,West Virginia CPRB,allocator,brief,P0,drafted-in-repo,Wave 114. Official PERS $9,701,065 thousand at 30 Jun 2025. Do not mint /cprb/ or /wv-cprb/
 2,institution,wv-cprb,WV CPRB (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 114 /west-virginia-cprb/
+115,institution,north-dakota-pers,North Dakota PERS,allocator,brief,P0,drafted-in-repo,Wave 115. Official total FNP $5,471,128,911 at 30 Jun 2025. Do not mint /ndpers/ or /north-dakota-pers-explained/
+2,institution,ndpers,NDPERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 115 /north-dakota-pers/
+115,institution,delaware-dpers,Delaware DPERS,allocator,brief,P0,drafted-in-repo,Wave 115. Official Combined $14,760,489 thousand at 30 Jun 2025. Do not mint /dpers/ or /delaware-dpers-explained/
+2,institution,dpers,DPERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 115 /delaware-dpers/
+115,institution,montana-mpera,Montana MPERA,allocator,brief,P0,drafted-in-repo,Wave 115. Official DB $10,563,079 thousand at 30 Jun 2025. Do not mint /montana-pers/ or /mpera/
+2,institution,mpera,MPERA (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 115 /montana-mpera/
+115,institution,texas-tmrs,Texas Municipal Retirement System,allocator,brief,P0,drafted-in-repo,Wave 115. Official FNP $49,405,467,577 at 31 Dec 2025. Do not mint /tmrs/ or /texas-tmrs-explained/
+2,institution,tmrs,TMRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 115 /texas-tmrs/
 2,institution,teacher-retirement-system-of-texas-cio,TRS Texas CIO office,allocator,brief,P0,needed,Public pension
 2,institution,cpp-vs-otpp-vs-cdpq,The Canadian large-plan triangle,allocator,brief,P0,needed,Comparison
 105,institution,unjspf,UNJSPF,allocator,brief,P0,drafted-in-repo,Wave 105. Official $107,533,052 thousand net assets at 31 Dec 2025. Do not mint /unjps-united-nations/ or /united-nations-joint-staff-pension-fund/
 2,institution,unjps-united-nations,UNJSPF (typo slug),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 105 /unjspf/
-2,institution,cern-pension-fund,CERN Pension Fund,allocator,brief,P0,needed,Pension
+115,institution,cern-pension-fund,CERN Pension Fund,allocator,brief,P0,drafted-in-repo,Wave 115. Official net assets 4,619,835 thousand Swiss francs at 31 Dec 2024. Do not mint /cern-pension/ or /cern-pf/
+2,institution,cern-pf,CERN Pension Fund (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 115 /cern-pension-fund/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

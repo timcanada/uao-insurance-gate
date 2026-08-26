@@ -41,6 +41,7 @@ Use official portals via [Careers](/careers/). Confirm on danantaraindonesia.co.
 ## Related
 
 - [Danantara (Indonesia), explained](/danantara-indonesia-sovereign-fund/)
+- [Relocating to Mumbai](/careers/cities/mumbai/)
 - [Relocating to Singapore](/careers/cities/singapore/)
 - [Relocating to Kuala Lumpur](/careers/cities/kuala-lumpur/)
 - [Relocating for an asset-owner role](/careers/intelligence/relocating-for-an-asset-owner-role/)

@@ -44,6 +44,7 @@ Use official portals via [Careers](/careers/). Confirm on china-inv.cn.
 ## Related
 
 - [China Investment Corporation, explained](/china-investment-corporation-cic-explained/)
+- [Relocating to Taipei](/careers/cities/taipei/)
 - [Relocating to Hong Kong](/careers/cities/hong-kong/)
 - [Relocating to Tokyo](/careers/cities/tokyo/)
 - [Relocating to New York](/careers/cities/new-york/)

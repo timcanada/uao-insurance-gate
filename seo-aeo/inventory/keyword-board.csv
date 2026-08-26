@@ -427,5 +427,10 @@ P1,CIC jobs Beijing relocation,allocator,both,/careers/cities/beijing/,careers,u
 P1,Keva jobs Helsinki relocation,allocator,both,/careers/cities/helsinki/,careers,unknown,unknown,unknown,drafted-wave-90,Wave 90 city. Keva Unioninkatu 43 / VER Mikonkatu 15 A. Do not mint /keva-explained/
 P1,ESSF jobs Santiago relocation,allocator,both,/careers/cities/santiago/,careers,unknown,unknown,unknown,drafted-wave-90,Wave 90 city. Hacienda Teatinos 120. Do not mint /essf-explained/
 P1,Danantara jobs Jakarta relocation,allocator,both,/careers/cities/jakarta/,careers,unknown,unknown,unknown,drafted-wave-90,Wave 90 city. No official AUM. Do not mint /danantara-explained/
+P1,ÖBAG jobs Vienna relocation,allocator,both,/careers/cities/vienna/,careers,unknown,unknown,unknown,drafted-wave-91,Wave 91 city. ÖBAG Kolingasse 14-16. Do not mint /oebag-explained/
+P1,PFR jobs Warsaw relocation,allocator,both,/careers/cities/warsaw/,careers,unknown,unknown,unknown,drafted-wave-91,Wave 91 city. PFR Krucza 50. Do not mint /pfr-explained/
+P1,Bureau of Labor Funds jobs Taipei relocation,allocator,both,/careers/cities/taipei/,careers,unknown,unknown,unknown,drafted-wave-91,Wave 91 city. BLF Roosevelt 6 not BLI 4. Do not mint /blf-explained/
+P1,Fondo Mexicano del Petróleo jobs Mexico City relocation,allocator,both,/careers/cities/mexico-city/,careers,unknown,unknown,unknown,drafted-wave-91,Wave 91 city. Banxico fiduciary. Do not mint /fmp-explained/
+P1,NIIF jobs Mumbai relocation,allocator,both,/careers/cities/mumbai/,careers,unknown,unknown,unknown,drafted-wave-91,Wave 91 city. BKC HQ / Delhi registered. Do not mint /niif/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

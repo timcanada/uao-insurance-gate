@@ -1,5 +1,24 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 91: city pages — Vienna, Warsaw, Taipei, Mexico City, Mumbai
+
+**Queries / URLs:** `/careers/cities/vienna/`, `/careers/cities/warsaw/`, `/careers/cities/taipei/`, `/careers/cities/mexico-city/`, `/careers/cities/mumbai/`.
+
+**What was wrong on the live site:**
+
+- Leftover official-filing house-AUM keepers remain exhausted after Wave 80. Wave 90 shipped five city pages. The next five city P1s with locked HQ facts were still `needed` and live **404** (confirmed 26 Aug).
+- ÖBAG official imprint is Kolingasse 14-16, 1090 Vienna (predecessor 1967; current form 2019). PFR official seat is ul. Krucza 50 (PIR 28 Dec 2012; PFR name 13 Apr 2016). BLF official is 10F No. 6 Roosevelt Rd (established 17 Feb 2014); BLI at No. 4 is a different legal person. FMP is a Banxico fideicomiso (ops 1 Jan 2015); transparency window Av. 5 de Mayo 18. NIIF corporate HQ is UTI Tower BKC; registered office is New Delhi.
+
+**Confirmed still unpublished:** Waves 1–91. `/directory/` **404**. Wave 1 + Wave 84–91 city pages still 404. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00**. Do not ping support.
+
+**Shipped (Wave 91):** five city pages. Relocating hub now lists 46 drafted cities. Zurich and Frankfurt now link Vienna. Helsinki now links Warsaw. Tokyo, Seoul, Hong Kong and Beijing now link Taipei. Santiago now links Mexico City. Jakarta now links Mumbai. No leftover 301s. Publisher default waves now include 91.
+
+**Refused:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ / USS / ATP / Khazanah / HKMA Exchange Fund / NPS / EPF / Keva / VER / ÖBAG. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / CDPQ / OMERS / CalPERS / CalSTRS / Mubadala / Temasek / Future Fund / Alaska / ADIA / GIC / BCI / GPIF / CPP / Texas TRS / PIF / QIA / Australian Super / Aware Super / KIC / UniSuper / CIC / ADQ / Cbus / AIMCo / NZ Super / KIA / Khazanah / PSP / NYC CRS / ISIF / EPF / NIIF institution keepers. Another fiduciary-archive child or leftover synonym explainer. `/careers/intelligence/cio-compensation-public-plans/` (do not invent pay). Shanghai; Cape Town / Pretoria; Reykjavik / Perth (weaker HQ lock). Minting `/oebag-explained/`, `/pfr-explained/`, `/blf-explained/`, `/fmp-explained/`, `/niif/`, `/careers/cities/new-delhi/`, `/fondo-de-reserva-explained/`, `/beijing-cic/`, `/keva-explained/`, `/essf-explained/`, `/danantara-explained/`, `/family-office/`, `/pggm/`, `/pfzw-netherlands/`, `/aimco-explained/`, `/psp-investments/`, or `/korea-investment-corporation-kic/`. Inventing ÖBAG, PFR, BLF, FMP, NIIF, ADIA, QIA, or GIC AUM. People/CEO pages. Dated news.
+
+**Next wake must:** Paste Wave 1 directory + cities + relocating, Wave 84–91 cities, Wave 81–83 hubs, then 5 → 79 keepers including `/new-york-city-crs/`. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another leftover synonym explainer. Next city/careers gap: `/careers/cities/reykjavik/`, `/careers/cities/manila/`, `/careers/cities/sao-paulo/` — each only after a named owner HQ is locked. Then podcast/advertiser rotation. Skip compensation until sourced. Highest-harm unpublished leftovers remain: GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn.
+
 ## 2026-08-26 — Wake 90: city pages — Madrid, Beijing, Helsinki, Santiago, Jakarta
 
 **Queries / URLs:** `/careers/cities/madrid/`, `/careers/cities/beijing/`, `/careers/cities/helsinki/`, `/careers/cities/santiago/`, `/careers/cities/jakarta/`.

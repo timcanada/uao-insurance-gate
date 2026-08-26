@@ -237,20 +237,20 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 3,city,careers/cities/nairobi,Relocating to Nairobi for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
 3,city,careers/cities/lagos,Relocating to Lagos for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
 3,city,careers/cities/sao-paulo,Relocating to São Paulo for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
-3,city,careers/cities/mexico-city,Relocating to Mexico City for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+91,city,careers/cities/mexico-city,Relocating to Mexico City for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 91 city. FMP Banxico fiduciary. Do not mint /fmp-explained/. Public rules only
 90,city,careers/cities/santiago,Relocating to Santiago for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 90 city. Hacienda Teatinos 120. Do not mint /essf-explained/. Public rules only
 90,city,careers/cities/beijing,Relocating to Beijing for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 90 city. CIC Dongzhimenwai. Do not mint /beijing-cic/ or /safe-china/. Public rules only
 3,city,careers/cities/shanghai,Relocating to Shanghai for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
-3,city,careers/cities/mumbai,Relocating to Mumbai for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+91,city,careers/cities/mumbai,Relocating to Mumbai for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 91 city. NIIF BKC HQ / Delhi registered. Do not mint /niif/. Public rules only
 89,city,careers/cities/kuala-lumpur,Relocating to Kuala Lumpur for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 89 city. Khazanah no USD AUM. Do not mint /khazanah-explained/. Public rules only
 90,city,careers/cities/jakarta,Relocating to Jakarta for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 90 city. Danantara Gatot Subroto. Do not mint /danantara-explained/. Public rules only
 3,city,careers/cities/manila,Relocating to Manila for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
-3,city,careers/cities/taipei,Relocating to Taipei for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+91,city,careers/cities/taipei,Relocating to Taipei for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 91 city. BLF Roosevelt 6 not BLI 4. Do not mint /blf-explained/. Public rules only
 3,city,careers/cities/tel-aviv,Relocating to Tel Aviv for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
 3,city,careers/cities/istanbul,Relocating to Istanbul for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
-3,city,careers/cities/vienna,Relocating to Vienna for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+91,city,careers/cities/vienna,Relocating to Vienna for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 91 city. ÖBAG Kolingasse 14-16. Do not mint /oebag-explained/. Public rules only
 89,city,careers/cities/brussels,Relocating to Brussels for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 89 city. APG not a second AUM. Do not mint /brussels-apg/. Public rules only
-3,city,careers/cities/warsaw,Relocating to Warsaw for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+91,city,careers/cities/warsaw,Relocating to Warsaw for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 91 city. PFR Krucza 50. Do not mint /pfr-explained/. Public rules only
 90,city,careers/cities/helsinki,Relocating to Helsinki for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 90 city. Keva Unioninkatu 43 / VER Mikonkatu 15 A. Do not mint /keva-explained/. Public rules only
 3,city,careers/cities/reykjavik,Relocating to Reykjavik for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
 3,city,careers/cities/perth,Relocating to Perth for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice

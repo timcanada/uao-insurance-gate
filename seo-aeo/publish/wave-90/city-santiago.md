@@ -45,4 +45,5 @@ Use official portals via [Careers](/careers/). Confirm on hacienda.cl and the em
 - [Chile ESSF, explained](/chile-economic-and-social-stabilization-fund-explained/)
 - [Stabilisation vs heritage mandates](/stabilisation-vs-heritage-fund-mandates/)
 - [Santiago Principles](/santiago-principles/)
+- [Relocating to Mexico City](/careers/cities/mexico-city/)
 - [Relocating for an asset-owner role](/careers/intelligence/relocating-for-an-asset-owner-role/)

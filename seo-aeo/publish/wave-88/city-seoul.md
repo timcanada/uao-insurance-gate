@@ -42,5 +42,6 @@ Use official portals via [Careers](/careers/). Confirm on kic.kr and nps.or.kr.
 
 - [KIC, explained](/korea-investment-corporation-kic-explained/)
 - [National Pension Service of Korea](/national-pension-service-korea-explained/)
+- [Relocating to Taipei](/careers/cities/taipei/)
 - [Relocating to Tokyo](/careers/cities/tokyo/)
 - [Relocating for an asset-owner role](/careers/intelligence/relocating-for-an-asset-owner-role/)

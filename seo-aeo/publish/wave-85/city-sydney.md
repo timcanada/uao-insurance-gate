@@ -25,7 +25,7 @@ Sydney is Australia’s capital-markets floor. It is not automatically headquart
 - [Aware Super](/aware-super-explained/) — First State Super in 1992; now open to everyone. Read aware.com.au. Do not recycle leftover **$16 billion** or **$130 billion** lines.
 - [Cbus](/cbus-superannuation-explained/) is a construction-and-building industry fund. Confirm the city on the employer site.
 
-Do not invent a house AUM to decorate a harbour view. Melbourne still needs its own city page. If the IC sits there, you are not at the centre.
+Do not invent a house AUM to decorate a harbour view. If the IC sits in [Melbourne](/careers/cities/melbourne/), you are not at the centre.
 
 ## Papers
 

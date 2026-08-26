@@ -402,5 +402,10 @@ P1,ICD jobs Dubai relocation,allocator,both,/careers/cities/dubai/,careers,unkno
 P1,HKMA jobs Hong Kong relocation,allocator,both,/careers/cities/hong-kong/,careers,unknown,unknown,unknown,drafted-wave-85,Wave 85 city. Exchange Fund is not a classic SWF. Do not mint /hong-kong-swf/
 P1,superannuation jobs Sydney relocation,allocator,both,/careers/cities/sydney/,careers,unknown,unknown,unknown,drafted-wave-85,Wave 85 city. Future Fund is Melbourne. Do not mint /australian-super/
 P1,ABP APG jobs Amsterdam relocation,allocator,both,/careers/cities/amsterdam/,careers,unknown,unknown,unknown,drafted-wave-85,Wave 85 city. APG not a second AUM. Do not mint /amsterdam-abp/
+P1,BCI jobs Vancouver relocation,allocator,both,/careers/cities/vancouver/,careers,unknown,unknown,unknown,drafted-wave-86,Wave 86 city. Victoria HQ / Vancouver office. Do not mint /bcimc/
+P1,Future Fund jobs Melbourne relocation,allocator,both,/careers/cities/melbourne/,careers,unknown,unknown,unknown,drafted-wave-86,Wave 86 city. Future Fund 447 Collins. Do not mint /australian-super/
+P1,Zurich family office jobs relocation,allocator,both,/careers/cities/zurich/,careers,unknown,unknown,unknown,drafted-wave-86,Wave 86 city. PUBLICA is Bern. Do not mint /zurich-pension/
+P1,QIA jobs Doha relocation,allocator,both,/careers/cities/doha/,careers,unknown,unknown,unknown,drafted-wave-86,Wave 86 city. QIA no official AUM. Do not mint /doha-qia/
+P1,GPIF jobs Tokyo relocation,allocator,both,/careers/cities/tokyo/,careers,unknown,unknown,unknown,drafted-wave-86,Wave 86 city. GPIF is not a SWF. Do not mint /tokyo-gpif/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

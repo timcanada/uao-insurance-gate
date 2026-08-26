@@ -210,21 +210,21 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 84,city,careers/cities/sacramento,Relocating to Sacramento for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 84 city. Do not 301 onto CalPERS or CalSTRS. Public rules only
 84,city,careers/cities/montreal,Relocating to Montréal for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 84 city. Do not mint /psp-investments/. Public rules only
 85,city,careers/cities/calgary,Relocating to Calgary for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 85 city. AIMCo Edmonton HQ / Calgary satellite. Do not mint /aimco-explained/. Public rules only
-3,city,careers/cities/vancouver,Relocating to Vancouver for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+86,city,careers/cities/vancouver,Relocating to Vancouver for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 86 city. BCI Victoria HQ / Vancouver office. Do not mint /bcimc/. Public rules only
 85,city,careers/cities/dubai,Relocating to Dubai for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 85 city. ICD not Abu Dhabi. Do not mint /dubai-icd/. Public rules only
-3,city,careers/cities/doha,Relocating to Doha for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+86,city,careers/cities/doha,Relocating to Doha for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 86 city. QIA no official AUM. Do not mint /doha-qia/. Public rules only
 3,city,careers/cities/kuwait-city,Relocating to Kuwait City for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
 85,city,careers/cities/hong-kong,Relocating to Hong Kong for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 85 city. HKMA Exchange Fund is not a classic SWF. Do not mint /hong-kong-swf/. Public rules only
-3,city,careers/cities/tokyo,Relocating to Tokyo for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+86,city,careers/cities/tokyo,Relocating to Tokyo for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 86 city. GPIF not a SWF. Do not mint /tokyo-gpif/. Public rules only
 3,city,careers/cities/seoul,Relocating to Seoul for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
 85,city,careers/cities/sydney,Relocating to Sydney for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 85 city. Future Fund/AustralianSuper are Melbourne. Do not mint /australian-super/. Public rules only
-3,city,careers/cities/melbourne,Relocating to Melbourne for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+86,city,careers/cities/melbourne,Relocating to Melbourne for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 86 city. Future Fund 447 Collins. Do not mint /australian-super/. Public rules only
 3,city,careers/cities/wellington,Relocating to Wellington for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
 85,city,careers/cities/amsterdam,Relocating to Amsterdam for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 85 city. APG not a second AUM. Do not mint /amsterdam-abp/. Public rules only
 3,city,careers/cities/the-hague,Relocating to The Hague for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
 3,city,careers/cities/stockholm,Relocating to Stockholm for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
 3,city,careers/cities/copenhagen,Relocating to Copenhagen for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
-2,city,careers/cities/zurich,Relocating to Zurich for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+86,city,careers/cities/zurich,Relocating to Zurich for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 86 city. PUBLICA is Bern. Do not mint /zurich-pension/. Public rules only
 3,city,careers/cities/geneva,Relocating to Geneva for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
 3,city,careers/cities/frankfurt,Relocating to Frankfurt for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
 3,city,careers/cities/paris,Relocating to Paris for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice

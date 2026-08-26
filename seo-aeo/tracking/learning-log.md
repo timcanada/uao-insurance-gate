@@ -1,5 +1,24 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 86: city pages — Vancouver, Melbourne, Zurich, Doha, Tokyo
+
+**Queries / URLs:** `/careers/cities/vancouver/`, `/careers/cities/melbourne/`, `/careers/cities/zurich/`, `/careers/cities/doha/`, `/careers/cities/tokyo/`.
+
+**What was wrong on the live site:**
+
+- Leftover official-filing house-AUM keepers remain exhausted after Wave 80. Wave 85 shipped five city pages. The next five city P1s with locked HQ facts were still `needed` and live **404** (confirmed 26 Aug).
+- BCI official head office is Victoria (750 Pandora); Vancouver is 666 Burrard. Future Fund lists 447 Collins Street, Melbourne. PUBLICA official contact is Bern, not Zurich. QIA does not publish AUM. GPIF is a Tokyo public-pension reserve, not a SWF; official prints are yen.
+
+**Confirmed still unpublished:** Waves 1–86. `/directory/` **404**. Wave 1 + Wave 84–86 city pages still 404. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00**. Do not ping support.
+
+**Shipped (Wave 86):** five city pages. Relocating hub now lists 21 drafted cities. Wave 85 Sydney now links Melbourne. No leftover 301s. Publisher default waves now include 86.
+
+**Refused:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ / USS / ATP / Khazanah / HKMA Exchange Fund. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / CDPQ / OMERS / CalPERS / CalSTRS / Mubadala / Temasek / Future Fund / Alaska / ADIA / GIC / BCI / GPIF / CPP / Texas TRS / PIF / QIA / Australian Super / Aware Super / KIC / UniSuper / CIC / ADQ / Cbus / AIMCo / NZ Super / KIA / Khazanah / PSP / NYC CRS institution keepers. Another fiduciary-archive child or leftover synonym explainer. `/careers/intelligence/cio-compensation-public-plans/` (do not invent pay). Minting `/bcimc/`, `/vancouver-bci/`, `/melbourne-super/`, `/australian-super/`, `/zurich-pension/`, `/doha-qia/`, `/qia-explained/`, `/tokyo-gpif/`, `/government-pension-investment-fund-gpif/`, `/family-office/`, `/aimco-explained/`, `/psp-investments/`, `/niif/`, or `/khazanah-explained/`. Inventing BCI, Future Fund, AustralianSuper, PUBLICA, QIA, GPIF, ADIA, KIA, SAFE, or APG AUM. People/CEO pages. Dated news.
+
+**Next wake must:** Paste Wave 1 directory + cities + relocating, Wave 84–86 cities, Wave 81–83 hubs, then 5 → 79 keepers including `/new-york-city-crs/`. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another leftover synonym explainer. Next city/careers gap: `/careers/cities/wellington/` (NZ Super is Auckland-centred — confirm official address before drafting), `/careers/cities/kuwait-city/` (KIA: no official AUM), `/careers/cities/the-hague/`, `/careers/cities/geneva/`. Then podcast/advertiser rotation. Skip compensation until sourced. Highest-harm unpublished leftovers remain: GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn.
+
 ## 2026-08-26 — Wake 85: city pages — Calgary, Dubai, Hong Kong, Sydney, Amsterdam
 
 **Queries / URLs:** `/careers/cities/calgary/`, `/careers/cities/dubai/`, `/careers/cities/hong-kong/`, `/careers/cities/sydney/`, `/careers/cities/amsterdam/`.

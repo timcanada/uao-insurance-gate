@@ -47,6 +47,7 @@ Do not 301 this page onto `/illinois-trs/`, `/illinois-isbi/`, or `/largest-us-p
 - [Public pension funds](/public-pension-funds/)
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Illinois TRS](/illinois-trs/)
+- [SURS](/illinois-surs/)
 - [Illinois State Board of Investment](/illinois-isbi/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

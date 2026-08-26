@@ -27,7 +27,7 @@ The statement of fiduciary net position is the sourced line:
 2. **Liability cards.** Total pension liability **$7,585,125,271**. Net pension liability **$371,324,607**. Fiduciary net position as a percentage of total pension liability **95.10 percent**. Those three lines are not interchangeable.
 3. **Returns and funded status.** Time-weighted return **10.56 percent** net of investment expenses. Money-weighted return **10.6 percent** net of investment manager fees. Those two official one-year prints are not interchangeable. Actuarial-value funded ratio **89.3 percent**. That actuarial-value card is not the GASB **95.10 percent** card.
 
-Do not flatten SamCERA into [LACERA](/lacera/), [SFERS](/san-francisco-sfers/), or [CalPERS](/calpers-explained-largest-us-pension-fund/). This is **one San Mateo County employee file**.
+Do not flatten SamCERA into [LACERA](/lacera/), [SFERS](/san-francisco-sfers/), [CalPERS](/calpers-explained-largest-us-pension-fund/), or [Sacramento County](/sacramento-scers/). This is **one San Mateo County employee file**.
 
 ## What an owner is actually buying
 
@@ -49,5 +49,6 @@ Do not 301 this page onto `/lacera/`, `/san-francisco-sfers/`, `/calpers-explain
 - [LACERA](/lacera/)
 - [SFERS](/san-francisco-sfers/)
 - [LACERS](/lacers/)
+- [Sacramento County](/sacramento-scers/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

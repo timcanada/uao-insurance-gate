@@ -231,6 +231,16 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,hfrrf,HFRRF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 118 /houston-hfrrf/
 118,institution,houston-hpops,Houston Police Officers’ Pension System,allocator,brief,P0,drafted-in-repo,Wave 118. Official FNP $8,269,542 thousand at 30 Jun 2025. Do not mint /hpops/ or /houston-police/
 2,institution,hpops,HPOPS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 118 /houston-hpops/
+119,institution,illinois-surs,State Universities Retirement System of Illinois,allocator,brief,P0,drafted-in-repo,Wave 119. Official combined FNP $25,365,032,800 at 30 Jun 2025. Do not mint /surs/ or /illinois-surs-explained/
+2,institution,surs,SURS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 119 /illinois-surs/
+119,institution,illinois-sers,State Employees’ Retirement System of Illinois,allocator,brief,P0,drafted-in-repo,Wave 119. Official FNP $27,638,458,059 at 30 Jun 2025. Do not mint /sers-illinois/ or /sers/
+2,institution,sers-illinois,Illinois SERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 119 /illinois-sers/
+119,institution,kentucky-cers,Kentucky County Employees Retirement System,allocator,brief,P0,drafted-in-repo,Wave 119. Official combined $20,159,914 thousand at 30 Jun 2025. Do not mint /cers/ or /kppa/
+2,institution,cers,CERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 119 /kentucky-cers/
+119,institution,kentucky-krs,Kentucky Retirement Systems,allocator,brief,P0,drafted-in-repo,Wave 119. Official combined $9,882,254 thousand at 30 Jun 2025. Do not mint /kers/ or /sprs/
+2,institution,kers,KERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 119 /kentucky-krs/
+119,institution,sacramento-scers,Sacramento County Employees’ Retirement System,allocator,brief,P0,drafted-in-repo,Wave 119. Official FNP $14,577,459 thousand at 30 Jun 2025. Do not mint /scers/ (Seattle collision)
+2,institution,scers,SCERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 119 /sacramento-scers/. Seattle City Employees is a different legal person
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

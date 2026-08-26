@@ -27,7 +27,7 @@ The statement of fiduciary net position is the sourced line (in thousands):
 2. **Named books.** City **$11,309,802 thousand**. Port **$636,272 thousand**. Airport **$325,581 thousand**. Those three lines are not interchangeable. The combined book is pension, healthcare, and pension-obligation-bond benefits. Healthcare and pension-obligation-bond books are not the pension books. SDCERS is an agent multiple-employer plan — each sponsor prints its own net pension liability card. Do not invent a single combined fiduciary-net-position / total-pension-liability ratio from this filing.
 3. **Returns.** Time-weighted return **9.4 percent** net of fees. Money-weighted return **9.11 percent** net of pension-plan investment expense. The MD&A card **9.1 percent** is that money-weighted print, rounded. Those two official one-year prints are not interchangeable. Three-year, five-year, and ten-year annualized time-weighted returns **7.3 percent**, **8.6 percent**, and **7.4 percent**.
 
-Do not flatten SDCERS into [LACERS](/lacers/) or [LACERA](/lacera/). LACERS is the Los Angeles **City** file. LACERA is the Los Angeles **County** file. This is **one San Diego city-employee file**.
+Do not flatten SDCERS into [LACERS](/lacers/), [LACERA](/lacera/), or [Sacramento County](/sacramento-scers/). LACERS is the Los Angeles **City** file. LACERA is the Los Angeles **County** file. Sacramento County is a different 1937-Act county file. This is **one San Diego city-employee file**.
 
 ## What an owner is actually buying
 
@@ -49,5 +49,6 @@ Do not 301 this page onto `/lacers/`, `/lacera/`, or `/largest-us-public-pension
 - [LACERS](/lacers/)
 - [LACERA](/lacera/)
 - [SFERS](/san-francisco-sfers/)
+- [Sacramento County](/sacramento-scers/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

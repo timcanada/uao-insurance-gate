@@ -28,7 +28,7 @@ The combining statement is the sourced split (dollars, not thousands):
 2. **Named Member Systems on the same statement.** Illinois SERS **$26,987,731,426**; Judges’ Retirement System **$1,454,986,212**; General Assembly Retirement System **$91,832,255**. The investment portfolio at fair value is **$28,621,916,838**. Those lines are not Illinois TRS.
 3. **Returns and statute.** Net-of-fees portfolio return **9.7 percent**. Three-year **8.4 percent**; five-year **8.5 percent**; ten-year **7.3 percent**. Net investment gains about **$2.5 billion**. Created **October 1969** by Article 22A of the Illinois Pension Code. The Illinois Power Agency Trust Fund was added **August 2007**. Office in Chicago.
 
-Do not flatten ISBI into [Illinois TRS](/illinois-trs/) or [Pennsylvania SERS](/pennsylvania-sers/). Illinois TRS invests its own book. Pennsylvania SERS is Harrisburg. This is **one Illinois investment-pool file**.
+Do not flatten ISBI into [Illinois TRS](/illinois-trs/), [SURS](/illinois-surs/), or [Illinois SERS](/illinois-sers/). Illinois TRS and SURS invest their own books. Illinois SERS is a participant in this pool, not a second ISBI AUM. This is **one Illinois investment-pool file**.
 
 ## What an owner is actually buying
 
@@ -48,6 +48,8 @@ Do not 301 this page onto `/illinois-trs/`, `/pennsylvania-sers/`, or `/largest-
 - [Public pension funds](/public-pension-funds/)
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Illinois TRS](/illinois-trs/)
+- [Illinois SERS](/illinois-sers/)
+- [SURS](/illinois-surs/)
 - [Pennsylvania SERS](/pennsylvania-sers/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

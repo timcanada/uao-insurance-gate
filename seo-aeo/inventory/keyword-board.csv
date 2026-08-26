@@ -567,5 +567,10 @@ P1,New York City Fire Pension Fund,allocator,both,/nyc-fire/,define,unknown,unkn
 P1,New York City Board of Education Retirement System,allocator,both,/nyc-bers/,define,unknown,unknown,unknown,drafted-wave-118,Wave 118. Official combined $11,173,970 thousand at 30 Jun 2025. Do not mint /bers/
 P1,Houston Firefighters’ Relief and Retirement Fund,allocator,both,/houston-hfrrf/,define,unknown,unknown,unknown,drafted-wave-118,Wave 118. Official FNP $5,799,107,368 at 30 Jun 2025. Do not mint /hfrrf/
 P1,Houston Police Officers’ Pension System,allocator,both,/houston-hpops/,define,unknown,unknown,unknown,drafted-wave-118,Wave 118. Official FNP $8,269,542 thousand at 30 Jun 2025. Do not mint /hpops/
+P1,State Universities Retirement System of Illinois,allocator,both,/illinois-surs/,define,unknown,unknown,unknown,drafted-wave-119,Wave 119. Official combined FNP $25,365,032,800 at 30 Jun 2025. Do not mint /surs/
+P1,State Employees’ Retirement System of Illinois,allocator,both,/illinois-sers/,define,unknown,unknown,unknown,drafted-wave-119,Wave 119. Official FNP $27,638,458,059 at 30 Jun 2025. Do not mint /sers-illinois/
+P1,Kentucky County Employees Retirement System,allocator,both,/kentucky-cers/,define,unknown,unknown,unknown,drafted-wave-119,Wave 119. Official combined $20,159,914 thousand at 30 Jun 2025. Do not mint /cers/
+P1,Kentucky Retirement Systems,allocator,both,/kentucky-krs/,define,unknown,unknown,unknown,drafted-wave-119,Wave 119. Official combined $9,882,254 thousand at 30 Jun 2025. Do not mint /kers/
+P1,Sacramento County Employees’ Retirement System,allocator,both,/sacramento-scers/,define,unknown,unknown,unknown,drafted-wave-119,Wave 119. Official FNP $14,577,459 thousand at 30 Jun 2025. Do not mint /scers/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

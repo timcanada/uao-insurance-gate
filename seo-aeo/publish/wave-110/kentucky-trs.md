@@ -27,7 +27,7 @@ The combining statement is the sourced split:
 2. **Named books on the same report.** Retirement Annuity Trust **$28,394,724,584**. Health Insurance Trust **$3,951,267,870**. Life Insurance Trust **$111,331,590**. Those three trusts are not interchangeable with the combined line. Do not add the Health Insurance Trust to the Retirement Annuity Trust a second time and call the sum a second AUM.
 3. **Returns.** Retirement Annuity Trust time-weighted return **12.34 percent** gross of fees. The same trust’s net-of-fees time-weighted line is **12.01 percent**. The letter of transmittal **12.34 percent** year-over-year line is the gross investment-section print. The required supplementary money-weighted line for the Retirement Annuity Trust is also **12.01 percent**. Those prints are not interchangeable.
 
-Do not flatten Kentucky TRS into [Texas TRS](/texas-teacher-retirement-system-explained/) or [Illinois TRS](/illinois-trs/). Texas TRS is Texas. Illinois TRS is Illinois. This is **one Kentucky teacher file**.
+Do not flatten Kentucky TRS into [Texas TRS](/texas-teacher-retirement-system-explained/), [Illinois TRS](/illinois-trs/), [CERS](/kentucky-cers/), or [Kentucky Retirement Systems](/kentucky-krs/). Texas TRS is Texas. Illinois TRS is Illinois. CERS is the county-employee file. Kentucky Retirement Systems is the KERS-plus-SPRS file. This is **one Kentucky teacher file**.
 
 ## What an owner is actually buying
 
@@ -51,5 +51,7 @@ Do not 301 this page onto `/texas-teacher-retirement-system-explained/`, `/illin
 - [Louisiana TRSL](/louisiana-trsl/)
 - [LASERS](/louisiana-lasers/)
 - [Oklahoma TRS](/oklahoma-trs/)
+- [Kentucky CERS](/kentucky-cers/)
+- [Kentucky Retirement Systems](/kentucky-krs/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -457,5 +457,10 @@ P1,what is a retained search,allocator,both,/what-is-a-retained-search/,define,u
 P1,what is cap intro for an owner,allocator,both,/what-is-a-capital-introduction/,define,unknown,unknown,unknown,drafted-wave-96,Wave 96. Do not 301 onto placement-agent
 P1,pension administrators,allocator,both,/what-is-an-administrator-for-a-pension-plan/,define,unknown,unknown,unknown,drafted-wave-96,Wave 96. ERISA 1002(16) vs fund admin vs custody
 P1,what does an investment bank do for a pension fund,allocator,both,/what-does-an-investment-bank-do-for-a-pension-fund/,commercial,unknown,unknown,unknown,drafted-wave-96,Wave 96. Do not 301 onto placement-agent or cap-intro
+P1,what is a consultant database,allocator,both,/what-is-a-consultant-database/,define,unknown,unknown,unknown,drafted-wave-97,Wave 97. CalPERS eVestment. Do not 301 onto OCIO or manager-selection
+P1,what is a family office technology stack,allocator,both,/what-is-a-family-office-technology-stack/,define,unknown,unknown,unknown,drafted-wave-97,Wave 97. Do not mint /family-office/. No vendor logos
+P1,representative office vs desk,allocator,both,/what-is-a-representative-office-vs-a-desk/,define,unknown,unknown,unknown,drafted-wave-97,Wave 97. Reg K 211.21/211.24. Do not 301 onto London satellites
+P1,how owners handle personal trading,allocator,both,/how-do-owners-handle-personal-trading/,define,unknown,unknown,unknown,drafted-wave-97,Wave 97. 17 CFR 275.204A-1. Do not overwrite /ethics/
+P1,code of ethics for an investment office,allocator,both,/what-is-a-code-of-ethics-for-an-investment-office/,define,unknown,unknown,unknown,drafted-wave-97,Wave 97. 204A-1 five minimums. Do not mint /what-is-a-stewardship-code/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

@@ -42,6 +42,7 @@ If the London role is origination, say so. If the IC is in Toronto or Abu Dhabi,
 
 ## Related
 
+- [What is a representative office vs a desk?](/what-is-a-representative-office-vs-a-desk/)
 - [Relocating to London](/careers/cities/london/)
 - [Relocating for an asset-owner role](/careers/intelligence/relocating-for-an-asset-owner-role/)
 - [Moving from asset management into a sovereign wealth fund](/careers/intelligence/moving-into-a-sovereign-wealth-fund/)

@@ -256,7 +256,7 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 3,city,careers/cities/perth,Relocating to Perth for an asset-owner role,both,careers-alert,P1,needed,Skip unless locked: Future Fund / AustralianSuper are Melbourne. Do not mint /australian-super/. Public rules only
 92,explainer,how-do-family-offices-hire-cios,How do family offices hire CIOs?,allocator,brief,P1,drafted-in-repo,Wave 92. Do not mint /family-office/. Do not invent pay
 92,explainer,how-do-sovereign-wealth-funds-hire-lawyers,How do sovereign wealth funds hire lawyers?,allocator,brief,P1,drafted-in-repo,Wave 92. Do not 301 onto /how-pension-funds-retain-counsel/
-2,explainer,what-is-a-family-office-technology-stack,What is a family-office technology stack?,allocator,brief,P1,needed,
+97,explainer,what-is-a-family-office-technology-stack,What is a family-office technology stack?,allocator,advertiser-call,P1,drafted-in-repo,Wave 97. Do not mint /family-office/. No vendor logos
 96,explainer,what-does-an-investment-bank-do-for-a-pension-fund,What does an investment bank do for a pension fund?,allocator,advertiser-call,P1,drafted-in-repo,Wave 96. Do not 301 onto placement-agent or cap-intro
 2,explainer,how-do-endowments-pay-cios,How are endowment CIOs paid? (sourced ranges only),allocator,brief,P1,needed,
 94,explainer,what-is-a-strategic-council-membership-for-asset-owners,What is a strategic research membership?,allocator,brief,P1,drafted-in-repo,Wave 94. Live /membership/ from $175k/year. Do not 301 onto /advertise/
@@ -326,15 +326,15 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,explainer,how-do-owners-think-about-tokenized-funds,Tokenized funds for owners,allocator,brief,P1,needed,
 2,explainer,what-is-operational-due-diligence-for-an-lp,ODD for asset owners,allocator,brief,P1,needed,
 2,explainer,how-do-owners-run-manager-selection,How owners run manager selection,allocator,brief,P1,needed,
-2,explainer,what-is-a-consultant-database,What is a consultant database?,allocator,brief,P1,needed,
+97,explainer,what-is-a-consultant-database,What is a consultant database?,allocator,advertiser-call,P1,drafted-in-repo,Wave 97. CalPERS eVestment. Do not 301 onto OCIO or manager-selection
 96,explainer,how-do-search-firms-work-for-cio-mandates,How search firms run CIO mandates,allocator,advertiser-call,P1,drafted-in-repo,Wave 96. AESC retained exclusive. Do not invent pay
 96,explainer,what-is-a-retained-search,What is a retained search?,allocator,advertiser-call,P1,drafted-in-repo,Wave 96. Do not mint /retained-search-explained/. No invented fee %
 2,explainer,how-do-compensation-consultants-price-cio-roles,CIO compensation consultants,allocator,brief,P1,needed,
 2,explainer,what-is-carried-interest-inside-an-asset-owner,Carry inside an asset owner,allocator,brief,P1,needed,
-2,explainer,how-do-owners-handle-personal-trading,Personal trading policies,allocator,brief,P1,needed,
-2,explainer,what-is-a-code-of-ethics-for-an-investment-office,Investment-office code of ethics,allocator,brief,P1,needed,
+97,explainer,how-do-owners-handle-personal-trading,Personal trading policies,allocator,brief,P1,drafted-in-repo,Wave 97. 17 CFR 275.204A-1. Do not overwrite /ethics/
+97,explainer,what-is-a-code-of-ethics-for-an-investment-office,Investment-office code of ethics,allocator,brief,P1,drafted-in-repo,Wave 97. 204A-1 five minimums. Do not mint /what-is-a-stewardship-code/
 2,explainer,how-do-owners-disclose-climate-votes,Climate vote disclosure,allocator,brief,P1,needed,
-2,explainer,what-is-a-stewardship-code,What is a stewardship code?,allocator,brief,P1,needed,
+2,explainer,what-is-a-stewardship-code,What is a stewardship code?,allocator,brief,P1,needed,Do not mint. Twin of Wave 54 /stewardship-codes-uk-japan-explained/
 2,explainer,how-do-japanese-pensions-steward,Stewardship in Japanese pensions,allocator,brief,P1,needed,
 2,explainer,what-is-the-uk-stewardship-code,UK Stewardship Code for owners,allocator,brief,P1,needed,
 2,explainer,how-do-family-offices-think-about-philanthropy-vs-the-book,Philanthropy vs the investment book,allocator,brief,P1,needed,
@@ -358,10 +358,10 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 94,explainer,what-is-an-institutional-talent-desk,What is an Institutional Talent Desk?,allocator,careers-alert,P1,drafted-in-repo,Wave 94. First-party on live /careers/. Do not overwrite /careers/
 2,explainer,how-do-people-moves-signal-allocation-changes,People moves as allocation signals,allocator,brief,P1,needed,
 2,explainer,what-is-in-housing-of-private-markets,In-housing private markets,allocator,brief,P1,needed,
-2,explainer,how-do-owners-open-a-london-office,How owners open a London office,allocator,brief,P1,needed,
+2,explainer,how-do-owners-open-a-london-office,How owners open a London office,allocator,brief,P1,needed,Do not mint. Twin of Wave 83 London satellites / Wave 97 rep-office vs desk
 2,explainer,how-do-owners-open-a-new-york-office,How owners open a New York office,allocator,brief,P1,needed,
 2,explainer,how-do-owners-open-a-singapore-office,How owners open a Singapore office,allocator,brief,P1,needed,
-2,explainer,what-is-a-representative-office-vs-a-desk,Rep office vs desk,allocator,brief,P1,needed,
+97,explainer,what-is-a-representative-office-vs-a-desk,Rep office vs desk,allocator,brief,P1,drafted-in-repo,Wave 97. 12 CFR 211.21/211.24. Do not 301 onto London satellites
 2,explainer,how-do-sanctions-change-a-family-office-bank,Sanctions and family-office banking,allocator,brief,P1,needed,
 2,explainer,what-is-a-multi-custodian-model,Multi-custodian model,allocator,brief,P1,needed,
 94,explainer,how-do-owners-pick-a-custodian,How owners pick a custodian,allocator,advertiser-call,P1,drafted-in-repo,Wave 94. OCC settlement/safekeeping/reporting. Do not 301 onto custody directory

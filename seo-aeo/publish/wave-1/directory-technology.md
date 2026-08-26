@@ -37,4 +37,6 @@ Sovereign and pension desks add another: procurement, records laws, and the inab
 
 A concentrated morning list of CIOs is not a product-led-growth playground. If you want presence, buy a labelled unit and a claimed profile. If you want a story, have a story a reporter can source.
 
+The family-office define page for that stack is [what a family-office technology stack is](/what-is-a-family-office-technology-stack/). Do not treat this hub as a second definition.
+
 [Advertise](/advertise/) · [Directory](/directory/)

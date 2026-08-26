@@ -33,7 +33,7 @@ See [single vs multi-family office](/single-vs-multi-family-office/) and [what i
 
 ## What it actually does
 
-Investing is the visible job. The office also usually runs tax and estate work, consolidated reporting, philanthropy, succession rules, and a long list of administration. The point of the structure is **one book, one set of incentives**, instead of a pile of accounts at different banks.
+Investing is the visible job. The office also usually runs tax and estate work, consolidated reporting, philanthropy, succession rules, and a long list of administration. The point of the structure is **one book, one set of incentives**, instead of a pile of accounts at different banks. The systems that keep that book — and a number that matches the custodian — sit on [what a family-office technology stack is](/what-is-a-family-office-technology-stack/).
 
 A [family-office CIO](/what-does-a-family-office-cio-do/) is accountable to a principal or a family board for that whole book.
 

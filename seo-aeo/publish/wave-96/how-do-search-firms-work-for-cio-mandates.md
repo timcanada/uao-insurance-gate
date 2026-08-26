@@ -48,6 +48,8 @@ We write the owner’s side. Labelled presence on the [executive-search director
 ## Related
 
 - [What is a retained search?](/what-is-a-retained-search/)
+- [How owners handle personal trading](/how-do-owners-handle-personal-trading/)
+- [What is a code of ethics for an investment office?](/what-is-a-code-of-ethics-for-an-investment-office/)
 - [How recruiters reach sovereign-fund talent](/how-do-recruiters-reach-sovereign-fund-talent/)
 - [What is an Institutional Talent Desk?](/what-is-an-institutional-talent-desk/)
 - [Directory: executive search](/directory/executive-search/)

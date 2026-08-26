@@ -47,6 +47,8 @@ See [Advertise](/advertise/) and the [Directory](/directory/).
 
 ## Related on Universal Asset Owners
 
+- [What is a consultant database?](/what-is-a-consultant-database/)
+- [Manager selection](/manager-selection-institutional/)
 - [What is an OCIO?](/what-is-an-ocio/)
 - [What is an asset owner?](/what-is-an-asset-owner/)
 - [Fiduciary duty](/fiduciary-duty-explained-institutional/)

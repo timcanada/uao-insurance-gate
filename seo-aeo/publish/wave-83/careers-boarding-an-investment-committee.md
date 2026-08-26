@@ -43,6 +43,7 @@ Owners already use [Careers](/careers/) when they are hiring a CIO, a deputy, or
 ## Related
 
 - [Investment-committee governance](/investment-committee-governance/)
+- [What is a co-invest committee?](/what-is-a-co-invest-committee/)
 - [Fiduciary duty](/fiduciary-duty-explained-institutional/)
 - [What is an asset owner?](/what-is-an-asset-owner/)
 - [What is a pension fund?](/what-is-a-pension-fund/)

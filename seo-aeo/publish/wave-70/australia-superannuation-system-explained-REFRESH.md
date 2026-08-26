@@ -43,6 +43,7 @@ The AustralianSuper institution job already sits on [`/australiansuper-explained
 ## Related on Universal Asset Owners
 
 - [What is a superannuation trustee?](/what-is-a-superannuation-trustee/)
+- [How Australian supers differ from US public plans](/how-do-australian-supers-differ-from-us-public-plans/)
 - [AustralianSuper](/australiansuper-explained/)
 - [Aware Super](/aware-super-explained/)
 - [Cbus](/cbus-superannuation-explained/)

@@ -42,6 +42,7 @@ The SWF co-invest job already sits on [`/sovereign-wealth-fund-co-investment-mod
 
 ## Related on Universal Asset Owners
 
+- [What is a co-invest committee?](/what-is-a-co-invest-committee/)
 - [SWF co-investment models](/sovereign-wealth-fund-co-investment-models/)
 - [Co-investment vs direct investment](/co-investment-vs-direct-investment/)
 - [How pension funds invest in private markets](/how-pension-funds-invest-in-private-markets/)

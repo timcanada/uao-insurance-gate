@@ -47,6 +47,7 @@ See [Advertise](/advertise/) and the [Directory](/directory/).
 - [What is fiduciary duty for asset owners?](/what-is-fiduciary-duty-for-asset-owners/)
 - [The Santiago Principles](/santiago-principles/)
 - [How sanctions change a family-office bank](/how-do-sanctions-change-a-family-office-bank/)
+- [How sovereign wealth funds think about sanctions](/how-do-swfs-think-about-sanctions/)
 - How a pension actually retains counsel *(companion piece in this wave)*
 
 ## Listings

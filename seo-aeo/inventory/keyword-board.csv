@@ -472,5 +472,10 @@ P1,what is a family constitution,allocator,both,/what-is-a-family-constitution/,
 P1,how endowments set spending rules,allocator,both,/how-do-endowments-set-spending-rules/,define,unknown,unknown,unknown,drafted-wave-99,Wave 99. UPMIFA prudence / optional 7%. Do not reprint leftover GPFG $1.4T
 P1,what is a superannuation trustee,allocator,both,/what-is-a-superannuation-trustee/,define,unknown,unknown,unknown,drafted-wave-99,Wave 99. APRA RSE licensee s29D. Do not invent house AUM
 P1,sanctions family office banking,allocator,both,/how-do-sanctions-change-a-family-office-bank/,define,unknown,unknown,unknown,drafted-wave-99,Wave 99. OFAC 50% rule + FinCEN 25% CDD
+P1,how SWFs think about sanctions,allocator,both,/how-do-swfs-think-about-sanctions/,define,unknown,unknown,unknown,drafted-wave-100,Wave 100. Santiago 19/19.1 + FSIA. Do not 301 onto FO-bank sanctions
+P1,form pf vs n-px,allocator,both,/what-is-form-pf-vs-n-px/,compare,unknown,unknown,unknown,drafted-wave-100,Wave 100. PF $150m confidential vs N-PX public votes
+P1,what is look-through risk,allocator,both,/what-is-look-through-risk/,define,unknown,unknown,unknown,drafted-wave-100,Wave 100. Solvency II Art 84. Not OFAC 50%
+P1,what is a co-invest committee,allocator,both,/what-is-a-co-invest-committee/,define,unknown,unknown,unknown,drafted-wave-100,Wave 100. CalPERS PE delegation. Do not 301 onto co-investment define
+P1,australian super vs us public plans,allocator,both,/how-do-australian-supers-differ-from-us-public-plans/,compare,unknown,unknown,unknown,drafted-wave-100,Wave 100. SG 12% + Payday Super vs ERISA governmental exclusion
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

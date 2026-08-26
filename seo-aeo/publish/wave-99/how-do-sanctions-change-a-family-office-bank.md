@@ -53,6 +53,7 @@ The [legal directory](/directory/legal/) is the category map for sanctions couns
 
 ## Related
 
+- [How sovereign wealth funds think about sanctions](/how-do-swfs-think-about-sanctions/)
 - [What is a family constitution?](/what-is-a-family-constitution/)
 - [How owners pick a custodian](/how-do-owners-pick-a-custodian/)
 - [What is a multi-custodian model?](/what-is-a-multi-custodian-model/)

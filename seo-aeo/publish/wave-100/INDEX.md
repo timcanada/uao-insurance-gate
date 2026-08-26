@@ -1,0 +1,26 @@
+# Wave 100 — SWF sanctions, Form PF vs N-PX, look-through, co-invest committee, Australian super vs US public plans
+
+Checked live **26 August 2026**. Ghost API still missing. Leftover official-filing house-AUM keepers remain exhausted after Wave 80. Remaining city P1s stay skip/weak. This wake ships five unique operations pages queued after Wave 99. New slugs. No leftover overwrite. No invented pay, vendor logos, or house AUM. Not a ranking.
+
+Wave 80 leftovers: do not overwrite Wave 12 Alaska or Wave 20 NIIF again. Do not overwrite Wave 81–99 keepers or institution keepers already current or already drafted.
+
+1. **`how-do-swfs-think-about-sanctions.md`** → `/how-do-swfs-think-about-sanctions/`  
+   Ministry / SWF job, not the family-office bank file. Santiago GAPP 19: financial grounds. GAPP 19.1 official commentary: some funds exclude names for **legally binding international sanctions**. FSIA **28 U.S.C. § 1604** immunity vs **§ 1605(a)(2)** commercial-activity exception. OFAC 50 Percent Rule still applies — no SWF exemption. **Do not mint `/swf-sanctions/` (404).** Do not 301 onto `/how-do-sanctions-change-a-family-office-bank/` or `/santiago-principles/`.
+2. **`what-is-form-pf-vs-n-px.md`** → `/what-is-form-pf-vs-n-px/`  
+   Two SEC forms, not a public-pension holdings PDF. Form PF: 17 CFR § 275.204(b)-1 — registered adviser, one or more private funds, **$150 million** private-fund AUM. Large hedge-fund advisers: **$1.5 billion** hedge-fund AUM, quarterly. The SEC does not intend to make identifiable Form PF public. Form N-PX (enhanced **2 November 2022**): registered funds report proxy votes; Exchange Act rule 14Ad-1 makes **13F** managers report say-on-pay. **Do not mint `/form-pf/` or `/what-is-n-px/` (404).** Do not 301 onto `/how-do-public-pensions-publish-holdings/`.
+3. **`what-is-look-through-risk.md`** → `/what-is-look-through-risk/`  
+   Solvency II Delegated Regulation (EU) 2015/35 **Article 84**: calculate the SCR on each underlying asset of a CIU or packaged fund. Also covers indirect market, underwriting, and counterparty exposures. If look-through cannot be applied: target allocation or last reported allocation; data groupings not more than **20%** of total assets. Not OFAC 50% ownership and not a custodian tape. **Do not mint `/look-through-explained/` or `/solvency-ii-look-through/` (404).** Do not 301 onto `/how-do-insurers-invest-differently-from-pensions/` or the FO-bank sanctions page.
+4. **`what-is-a-co-invest-committee.md`** → `/what-is-a-co-invest-committee/`  
+   The delegated approval for a co-invest, not a second “what is a co-invest” page. CalPERS official Total Fund Investment Policy: PE staff manage partnerships, **co-investments**, and Customized Investment Accounts; any one GP **≤15%** of PE net committed capital unless **the Committee** specifically approves; any one fund **≤35%** of that fund; single-asset GP-led secondaries treated as co-investments for delegated authority. **Do not mint `/co-invest-committee-explained/` (404).** Do not 301 onto `/what-is-co-investment-in-private-equity/` or `/investment-committee-governance/`. Do not reprint leftover CalPERS dollars or staff fee-savings maths.
+5. **`how-do-australian-supers-differ-from-us-public-plans.md`** → `/how-do-australian-supers-differ-from-us-public-plans/`  
+   Compare the contribution regime, not a second trustee page. ATO: Super Guarantee **12%** of ordinary time earnings from **1 July 2025**. Payday Super: from **1 July 2026** SG is calculated on each payday. US governmental plans sit outside ERISA Title I — **29 U.S.C. § 1003(b)(1)**. **Do not mint `/australian-super-vs-us-pension/` or `/mysuper-vs-erisa/` (404).** Do not 301 onto `/what-is-a-superannuation-trustee/` or `/australia-superannuation-system-explained/`. Do not invent a house AUM.
+
+**Skipped this wake:** `/how-do-pensions-use-ocios/` and `/when-should-a-family-office-use-an-ocio/` (OCIO twins). `/how-do-gulf-funds-work-with-placement-agents/` (Wave 94 twin). `/how-do-corporate-pensions-run-de-risking/` (PRT / LDI twin risk). `/how-do-cfius-and-peers-affect-swfs/` (Wave 70 CFIUS twin). Marked do-not-mint.
+
+**Also this wake:** Wave 11 Santiago, Wave 99 FO-bank sanctions, Wave 98 holdings and insurer-vs-pension, Wave 81 data hub, Wave 42 co-investment, Wave 83 boarding-an-IC, Wave 70 Australia super system, and Wave 99 trustee now link these five.
+
+**Queued 301 this wake:** none.
+
+**Paste after Wave 94–99 operations pages.** Then these five.
+
+**Refused this wake:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ / USS / ATP / Khazanah / HKMA / NPS / EPF / Keva / VER / ÖBAG / TVF. Reprinting leftover Registry ranking dollars, leftover GPFG **$1.4T**, leftover Yale **$41.4bn**, CalPERS partnership NAVs, or Australian Super AUM. Overwriting institution keepers. Remaining skip/weak cities. Compensation. City-office twins. Stewardship-code twins. SMA-for-FO, smoothing-rule, next-gen-governance. Podcast episode pages that would reprint leftover GPFG **$2.3tn** or homemade **$1.3T**. Directory firm children without three sourced facts. People/CEO pages. Dated news. Inventing a subscriber total, a live-role count, vendor logos, or a CalPERS co-invest savings pile.

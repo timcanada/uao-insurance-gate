@@ -44,6 +44,7 @@ We write the owner’s side. The public file is how press and models cite a plan
 
 ## Related
 
+- [What is Form PF vs Form N-PX?](/what-is-form-pf-vs-n-px/)
 - [What is a pension fund?](/what-is-a-pension-fund/)
 - [CalPERS](/calpers-explained-largest-us-pension-fund/)
 - [Manager selection](/manager-selection-institutional/)

@@ -51,5 +51,7 @@ Do not 301 this page onto `/massachusetts-prim/`, `/calpers-explained-largest-us
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Massachusetts PRIM](/massachusetts-prim/)
 - [OPERS](/ohio-opers/)
+- [PSERS](/pennsylvania-psers/)
+- [Oregon PERS](/oregon-pers/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

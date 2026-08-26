@@ -26,7 +26,8 @@ Last updated: 26 August 2026.
 | GPIF | **¥293,643.7 billion** at **31 March 2026**. FY2025 return **16.47%** | **$1.4 trillion**; leftover **35 / 25 / 20 / 20** |
 | ADIA | **Does not publish AUM.** Official 6.3% / 7.1% over 20 / 30 years. Founded **1976**. **Not** a pension | **$172 billion** |
 | Mubadala | Live institution already **AED 1.4 trillion / US$385 billion** — **do not overwrite** | Leftover **$284 billion** |
-| BT / Rolls-Royce / Oregon PERS / PKA leftovers | Not fetched as official this wake | BT **£65 billion**; Rolls-Royce **£23 billion**; Oregon **$95 billion**; PKA **DKK 258 billion / $35 billion** |
+| Oregon PERS | Fiduciary net position **$108,349,083,336** at **30 June 2025**. Defined Benefit Pension Plan **$88,622,013,732**. Regular Portfolio **5.1 percent**. See [`/oregon-pers/`](/oregon-pers/). | Leftover Oregon **$95 billion**; OIC stack **$148.1 billion** as PERS AUM |
+| BT / Rolls-Royce / PKA leftovers | Not fetched as official this wake | BT **£65 billion**; Rolls-Royce **£23 billion**; PKA **DKK 258 billion / $35 billion** |
 
 Print Canadian dollars for CPP. Print dollars for CalPERS and CalSTRS. Print yen for GPIF. **Do not dollarize.** ADIA and Mubadala are **not** pension-governance exhibits. **Do not overwrite** CalPERS, Mubadala, or CPP (Wave keepers / already current).
 
@@ -53,6 +54,7 @@ The Canadian **model** job already sits on [`/canadian-pension-model/`](/canadia
 - [CalSTRS](/calstrs-explained/)
 - [GPIF](/gpif-japan-explained/)
 - [ADIA](/adia-abu-dhabi-investment-authority/)
+- [Oregon PERS](/oregon-pers/)
 - [In-house vs external pensions](/in-house-vs-external-management-pensions/)
 
 ## Sources
@@ -62,4 +64,5 @@ The Canadian **model** job already sits on [`/canadian-pension-model/`](/canadia
 - CalSTRS: $415.4 billion at 30 June 2026
 - GPIF FY2025: ¥293,643.7 billion — yen, not leftover dollars
 - ADIA: no official AUM
-- BT / Oregon / PKA leftovers: not fetched as official this wake — refuse
+- Oregon PERS 2025 ACFR: $108,349,083,336 at 30 June 2025 — not leftover $95 billion
+- BT / PKA leftovers: not fetched as official this wake — refuse

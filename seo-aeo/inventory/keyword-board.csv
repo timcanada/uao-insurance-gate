@@ -507,5 +507,10 @@ P1,OPERS Ohio,allocator,both,/ohio-opers/,define,unknown,unknown,unknown,drafted
 P1,Washington State Investment Board,allocator,both,/washington-state-investment-board/,define,unknown,unknown,unknown,drafted-wave-106,Wave 106. Official $233,882,154,639 at 31 Mar 2026. Do not mint /wsib/
 P1,Massachusetts PRIM,allocator,both,/massachusetts-prim/,define,unknown,unknown,unknown,drafted-wave-106,Wave 106. Official $115,458,493 thousand at 30 Jun 2025. Do not mint /prim/
 P1,Virginia Retirement System,allocator,both,/virginia-retirement-system/,define,unknown,unknown,unknown,drafted-wave-106,Wave 106. Official $124,041,778 thousand at 30 Jun 2025. Do not mint /vrs/
+P1,PSERS Pennsylvania,allocator,both,/pennsylvania-psers/,define,unknown,unknown,unknown,drafted-wave-107,Wave 107. Official $83,728,862 thousand at 30 Jun 2025. Do not mint /psers/
+P1,New Jersey Division of Investment,allocator,both,/new-jersey-division-of-investment/,define,unknown,unknown,unknown,drafted-wave-107,Wave 107. Official Pension Fund $84,084 million at 30 Jun 2025. Do not mint /njdoi/
+P1,Oregon PERS,allocator,both,/oregon-pers/,define,unknown,unknown,unknown,drafted-wave-107,Wave 107. Official $108,349,083,336 at 30 Jun 2025. Do not mint /oregon-pers-investments/ or /operf/
+P1,North Carolina Treasurer,allocator,both,/north-carolina-treasurer/,define,unknown,unknown,unknown,drafted-wave-107,Wave 107. Official Pension Plan $134,096,647 thousand at 30 Jun 2025. Do not mint /ncrs/
+P1,LACERA,allocator,both,/lacera/,define,unknown,unknown,unknown,drafted-wave-107,Wave 107. Official $86,187,617,883 at 30 Jun 2025. Do not mint /lacera-explained/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

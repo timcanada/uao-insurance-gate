@@ -101,13 +101,17 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,opers,OPERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 106 /ohio-opers/
 2,institution,ohio-str,STRS Ohio,allocator,brief,P0,needed,Skip this wake. Official glance page blocked; ACFR PDF not locked. Do not mint /strs-ohio-explained/
 2,institution,michigan-sistf,Michigan State Treasurer / SISTF,allocator,brief,P0,needed,Public pension
-2,institution,pennsylvania-psers,PSERS,allocator,brief,P0,needed,Public pension
+107,institution,pennsylvania-psers,PSERS,allocator,brief,P0,drafted-in-repo,Wave 107. Official $83,728,862 thousand at 30 Jun 2025. Do not mint /psers/ or /psers-explained/
+2,institution,psers,PSERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 107 /pennsylvania-psers/
 2,institution,pennsylvania-sers,SERS Pennsylvania,allocator,brief,P0,needed,Public pension
-2,institution,new-jersey-division-of-investment,NJ Division of Investment,allocator,brief,P0,needed,Public pension
-2,institution,north-carolina-treasurer,North Carolina Treasurer,allocator,brief,P0,needed,Public pension
+107,institution,new-jersey-division-of-investment,NJ Division of Investment,allocator,brief,P0,drafted-in-repo,Wave 107. Official Pension Fund $84,084 million at 30 Jun 2025. Do not mint /njdoi/
+2,institution,njdoi,NJDOI (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 107 /new-jersey-division-of-investment/
+107,institution,north-carolina-treasurer,North Carolina Treasurer,allocator,brief,P0,drafted-in-repo,Wave 107. Official Pension Plan $134,096,647 thousand at 30 Jun 2025. Do not mint /ncrs/
+2,institution,ncrs,NCRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 107 /north-carolina-treasurer/
 106,institution,washington-state-investment-board,WSIB,allocator,brief,P0,drafted-in-repo,Wave 106. Official $233,882,154,639 at 31 Mar 2026. Do not mint /wsib/ or /washington-sib/
 2,institution,wsib,WSIB (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 106 /washington-state-investment-board/
-2,institution,oregon-pers-investments,Oregon State Treasury / PERS,allocator,brief,P0,needed,Public pension
+107,institution,oregon-pers,Oregon PERS,allocator,brief,P0,drafted-in-repo,Wave 107. Official $108,349,083,336 at 30 Jun 2025. Do not mint /oregon-pers-investments/ or /operf/
+2,institution,oregon-pers-investments,Oregon PERS (inventory short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 107 /oregon-pers/
 106,institution,massachusetts-prim,PRIM,allocator,brief,P0,drafted-in-repo,Wave 106. Official $115,458,493 thousand at 30 Jun 2025. Do not mint /prim/ or /prit-fund/
 2,institution,prim,PRIM (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 106 /massachusetts-prim/
 106,institution,virginia-retirement-system,VRS,allocator,brief,P0,drafted-in-repo,Wave 106. Official $124,041,778 thousand at 30 Jun 2025. Do not mint /vrs/ or /vrs-explained/
@@ -115,7 +119,8 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,georgia-trs,TRS Georgia,allocator,brief,P0,needed,Public pension
 2,institution,illinois-isbi,ISBI,allocator,brief,P0,needed,Public pension
 2,institution,illinois-trs,TRS Illinois,allocator,brief,P0,needed,Public pension
-2,institution,los-angeles-lacroa,LACERA,allocator,brief,P0,needed,Public pension
+107,institution,lacera,LACERA,allocator,brief,P0,drafted-in-repo,Wave 107. Official $86,187,617,883 at 30 Jun 2025. Do not mint /lacera-explained/ or /los-angeles-lacroa/
+2,institution,los-angeles-lacroa,LACERA (typo slug),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 107 /lacera/
 2,institution,san-francisco-sfers,SFERS,allocator,brief,P0,needed,Public pension
 2,institution,teacher-retirement-system-of-texas-cio,TRS Texas CIO office,allocator,brief,P0,needed,Public pension
 2,institution,cpp-vs-otpp-vs-cdpq,The Canadian large-plan triangle,allocator,brief,P0,needed,Comparison

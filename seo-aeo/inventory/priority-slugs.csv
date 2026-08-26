@@ -678,4 +678,9 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 33,explainer,endowment-model-vs-total-portfolio,Endowment vs total portfolio,allocator,brief,P1,refresh-drafted,Wave 33 overwrite. Live GPFG $1.38T. Official kroner. 301 approach twin. Do not 301 onto TPA define
 33,explainer,in-house-vs-external-management-pensions,In-house vs external pensions,allocator,brief,P1,refresh-drafted,Wave 33 overwrite. Live CPP $616bn / CalPERS $465bn. Official C$793.3bn / $637.1bn. 301 for-pensions twin
 33,explainer,latin-american-pension-funds,Latin American pensions,allocator,brief,P1,refresh-drafted,Wave 33 overwrite. Live $2.7T pile. No official combined AUM. 301 overview twin
+34,explainer,uk-pension-funds-overview,UK pensions overview,allocator,brief,P1,refresh-drafted,Wave 34 overwrite. Live £2.8T / USS £88.2bn. Official USS DB £79.8bn / DC £4.2bn. Do not 301 onto USS
+34,explainer,asset-liability-management-pension,Pension ALM,allocator,brief,P1,refresh-drafted,Wave 34 overwrite. Live GPIF $2.1T / CalSTRS $339bn / GPFG $1.32T. Official yen / $415.4bn / kroner. Do not 301 onto LDI
+34,explainer,endowment-vs-foundation-investing,Endowment vs foundation,allocator,brief,P1,refresh-drafted,Wave 34 overwrite. Live Yale $41.4bn / Princeton $35.9bn. Official $44.1bn / $36.4bn / Harvard $56.9bn. Do not 301 onto three-form page
+34,explainer,netherlands-pension-system-abp-pfzw,Dutch pensions ABP PFZW,allocator,brief,P1,refresh-drafted,Wave 34 overwrite. Live ABP €550bn+ / PFZW €200bn+. Official ABP €530bn / PFZW €252036m. 301 explained twin. Do not overwrite ABP or PFZW institution
+34,explainer,uk-lgps-pooling-megafunds,UK LGPS pooling,allocator,brief,P1,refresh-drafted,Wave 34 overwrite. Live £350bn / £100bn megafunds / Kent £20bn. No official combined LGPS AUM. Do not 301 onto UK overview
 2,careers,careers/intelligence/search-brief-for-a-real-assets-head,Writing a real-assets head search brief,both,careers-alert,P1,needed,

@@ -1,5 +1,29 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 34: UK £2.8T; ALM GPIF $2.1T; Yale $41.4bn; Dutch €550bn; LGPS £350bn
+
+**Queries / URLs:** `/uk-pension-funds-overview/`, `/asset-liability-management-pension/`, `/endowment-vs-foundation-investing/`, `/netherlands-pension-system-abp-pfzw/`, `/uk-lgps-pooling-megafunds/`.
+
+**What was wrong on the live site:**
+
+- UK overview invents a sector pile of **£2.7 trillion / £2.8 trillion**, USS **£88.2 billion**, PPF **£55.3 billion**, LGPS **£345 billion**, NEST **£18.3 billion**, BT **£105.9 billion**. Official: USS DB **£79.8 billion** / DC **£4.2 billion** on **27 July 2026**. Do not add the books. Refuse unfetched names.
+- ALM invents GPIF **$2.1 trillion**, CalSTRS **$339 billion** / UAL **$73 billion**, GPFG **$1.32 trillion**. Official: GPIF **¥293,643.7 billion**. CalSTRS **$415.4 billion**. GPFG **22,683 billion kroner**. GPFG is a SWF, not a pension ALM book.
+- Endowment vs foundation invents Yale **$41.4 billion**, Princeton **$35.9 billion**, Ford **$16.0 billion**, Gates **$59.1 billion**. Official: Yale **$44.1 billion**. Princeton **$36.4 billion**. Harvard **$56.9 billion**. Refuse leftover foundations.
+- Dutch system invents ABP **€550bn+**, PFZW **€200bn+ / €100 billion**, stacked **€500 billion**, and the wrong PFZW legal name. Official: ABP available assets **€530 billion** at **31 March 2026** (YE2025 **€533 billion**). PFZW **€252,036 million** / Pensioenfonds Zorg en Welzijn.
+- LGPS pooling invents **£350 billion / £345 billion**, **£100bn+** megafunds, Kent **£20 billion**. No official combined LGPS AUM fetched this wake.
+
+**Confirmed still unpublished:** Waves 1–34. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). ABP institution live still **€532bn**. Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00**; newer zero-delivery alerts through **26 Aug 13:51 UTC**. Do not ping support.
+
+**Shipped (Wave 34):** five overwrites. No new slugs. Publisher default waves now include 34. First official ABP fetch on this desk (Q1 2026 press). Queued 301: `/netherlands-pension-system-explained/` → Dutch system keeper.
+
+**Refused:** ICD YE2025 PDF. Dollarizing GPIF / GPFG. Overwriting USS / PFZW / ABP institution / LDI / Yale-model / Alaska / GPIF / CIC keepers. Minting `/psp-investments/` or `/harvard-endowment-explained/`. Fetching PPF / NEST / BT / Ford / Gates / SAB LGPS leftover pounds. Another UK-overview / ALM / endowment-vs-foundation / Dutch-system / LGPS-pooling synonym.
+
+**Access:** Secrets re-requested. `GHOST_ADMIN_API_KEY` and `GOOGLE_SERVICE_ACCOUNT_JSON` still UNSET.
+
+**Next wake must:** Paste 5 → 34. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another UK-overview / ALM / endowment-vs-foundation / Dutch-system / LGPS-pooling synonym. Highest-harm leftover now: `/abp-netherlands-pension-fund-explained/` (live **€532bn** vs official **€530bn** at 31 Mar 2026 / **€533bn** at YE2025). Then unpublished keepers (GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn).
+
 ## 2026-08-26 — Wake 33: Canada $531.3bn; corporate CalPERS $469bn; TPA GPFG $1.38T; in-house $616bn; LatAm $2.7T
 
 **Queries / URLs:** `/canada-pension-system-explained/`, `/corporate-pension-funds-explained/`, `/endowment-model-vs-total-portfolio/`, `/in-house-vs-external-management-pensions/`, `/latin-american-pension-funds/`.

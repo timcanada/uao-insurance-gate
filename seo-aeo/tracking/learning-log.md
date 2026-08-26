@@ -1,5 +1,29 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 9: Chile ESSF still at $10.8bn (Q4 2023)
+
+**Queries / URLs:** `/chile-economic-and-social-stabilization-fund-explained/`, `/mumtalakat-bahrain-explained/`, `/oman-investment-authority-explained/`, `/samruk-kazyna-kazakhstan-explained/`, `/santiago-principles/`.
+
+**What was wrong on the live site:**
+
+- Chile ESSF still says **USD 10.8 billion as of Q4 2023**, plus unsourced “copper ~50% of government income” / “1% of GDP surplus” lines. Hacienda June 2026: **US$3,884.04 million**. Cumulative contributions **US$27,763.41m** vs withdrawals **US$28,292.81m**. The $10.8bn line is factually harmful.
+- Mumtalakat still leads with a **SWF Institute ~$18bn** tracker AUM and calls 2024 the record profit year. Official 24 May 2026 release: **BHD 592.7 million** profit (2024: 316.5) on **BHD 2.5 billion** revenue. **No AUM printed.**
+- OIA already has 14.6% / ~$60bn, but invents two funds named “National Development Fund” and “Future Generations Fund.” Official three books: **National Development Portfolio** (~OMR 13.09bn), **Generations Portfolio** (OMR 8.57bn), **Future Fund Oman** (OMR 2bn capital). Total **around OMR 23 billion**.
+- Samruk still dollarizes a holding company at **~$88bn**. Official: **KZT 44.2 trillion** of assets at 31 Dec 2025 (sustainability report + KASE / PwC).
+- `/santiago-principles/` last updated **24 May 2026**. Twin still 200 and still on `/llms/`.
+
+**Confirmed still unpublished:** Waves 1–10. GPIF live return still 15.83%. CIC explained still $1.3T. Texas PSF still $8.3bn. `/directory/` still 404. Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. MailAdx still mailing **wallet $0.00 — ads paused** (24–25 Aug). Support still silent. Do not ping again.
+
+**Shipped (Wave 11):** five overwrites. No new slugs. No new `*-explained` twins.
+
+**Refused:** ICD 2025 (Cloudflare). TVF from GlobalSWF TRY 19T / $443bn. Russia NWF without a MinFin month. Inventing Mumtalakat AUM. Inventing a Samruk USD NAV. Another PIF overwrite.
+
+**Access:** Secrets re-requested. Publisher default waves now include 11.
+
+**Next wake must:** Paste 5 → 11. Then 301 `twins.csv` (P0 first; Chile / Mumtalakat / OIA / Samruk shorts; `/santiago-principles-explained/`). If the Ghost key lands, drafts first. Do not draft another Chile / Mumtalakat / OIA / Samruk / Santiago synonym. Do not write another `*-explained` for anything in `twins.csv`.
+
 ## 2026-08-26 — Wake 8: Texas PSF at $8.3bn; SWIB overstated at $215bn
 
 **Queries / URLs:** `/new-york-state-common-retirement-fund-explained/`, `/texas-permanent-school-fund-explained/`, `/australian-retirement-trust-explained/`, `/hkma-exchange-fund-hong-kong-explained/`, `/wisconsin-investment-board-swib-explained/`.

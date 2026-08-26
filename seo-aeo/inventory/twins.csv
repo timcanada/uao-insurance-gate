@@ -2,7 +2,7 @@ priority,keep,redirect,cluster,live_check_2026-08-26,notes
 P0,/largest-sovereign-wealth-funds/,/the-worlds-largest-sovereign-wealth-funds-2026/,swf-list,200/200,Google is ranking the twin
 P0,/largest-sovereign-wealth-funds/,/largest-sovereign-wealth-funds-2026/,swf-list,200/200,Factually harmful (GPIF as SWF)
 P0,/universal-owner/,/what-is-a-universal-asset-owner/,define,200/200,Short slug already owns the query
-P0,/santiago-principles/,/santiago-principles-explained/,define,200/200,Both listed on /llms/
+P0,/santiago-principles/,/santiago-principles-explained/,define,200/200,Wave 11 overwrites the short keeper; both listed on /llms/ — 301 explained after paste
 P0,/total-portfolio-approach/,/total-portfolio-approach-investing/,define,200/200,Both listed on /llms/
 P0,/total-portfolio-approach/,/what-is-the-total-portfolio-approach/,define,200/200,
 P1,/gic-singapore-explained/,/gic-singapore/,institution,200/200,Wave 4 overwrites the explained URL
@@ -14,13 +14,13 @@ P1,/wisconsin-investment-board-swib-explained/,/wisconsin-swib/,institution,200/
 P1,/uss-universities-superannuation-scheme/,/uss-universities-superannuation-scheme-explained/,institution,200/200,Keep short; Wave 9 uses 31 Mar 2026 accounts. 301 explained + uk-explained
 P1,/uss-universities-superannuation-scheme/,/uss-universities-superannuation-scheme-uk-explained/,institution,200/200,
 P1,/investment-corporation-of-dubai-icd-explained/,/investment-corporation-of-dubai-icd/,institution,200/200,
-P1,/oman-investment-authority-explained/,/oman-investment-authority/,institution,200/200,
+P1,/oman-investment-authority-explained/,/oman-investment-authority/,institution,200/200,Wave 11 overwrites explained (three official portfolios; live invented two fund names)
 P1,/turkey-wealth-fund-explained/,/turkey-wealth-fund/,institution,200/200,
-P1,/samruk-kazyna-kazakhstan-explained/,/samruk-kazyna-kazakhstan/,institution,200/200,
+P1,/samruk-kazyna-kazakhstan-explained/,/samruk-kazyna-kazakhstan/,institution,200/200,Wave 11 overwrites explained (KZT 44.2T at 31 Dec 2025; live ~$88bn)
 P1,/new-zealand-superannuation-fund-explained/,/new-zealand-superannuation-fund/,institution,200/200,Wave 9 overwrites explained (was NZ$71.4bn Jun 2024)
-P1,/mumtalakat-bahrain-explained/,/mumtalakat-bahrain/,institution,200/200,
+P1,/mumtalakat-bahrain-explained/,/mumtalakat-bahrain/,institution,200/200,Wave 11 overwrites explained (profit BHD 592.7m; live tracker $18bn)
 P1,/hkma-exchange-fund-hong-kong-explained/,/hkma-exchange-fund-hong-kong/,institution,200/200,Wave 10 overwrites explained (HK$4,463.6bn at 30 Jun 2026)
-P1,/chile-economic-and-social-stabilization-fund-explained/,/chile-economic-and-social-stabilization-fund/,institution,200/200,
+P1,/chile-economic-and-social-stabilization-fund-explained/,/chile-economic-and-social-stabilization-fund/,institution,200/200,Wave 11 overwrites explained (US$3.88bn June 2026; live still $10.8bn Q4 2023)
 P1,/russia-national-wealth-fund-explained/,/russia-national-wealth-fund/,institution,200/200,
 P1,/australian-retirement-trust-explained/,/australian-retirement-trust/,institution,200/200,Wave 10 overwrites explained (A$350.694bn at 30 Jun 2025; live invented a 2024 LG Super merger)
 P1,/new-york-state-common-retirement-fund-explained/,/new-york-state-common-retirement-fund/,institution,200/200,Wave 10 overwrites explained ($295.4bn FY / $309.7bn Q1; live still $226.8bn)

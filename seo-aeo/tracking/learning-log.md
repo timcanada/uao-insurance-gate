@@ -1,5 +1,29 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 45: leftover CalPERS $427bn / $469bn / $463bn / $440bn; leftover OTPP $246bn / $245bn; leftover CPP CAD $615bn / $620bn; leftover GPFG $1.3T / $1.42T; leftover Yale $14bn; leftover BCI $184bn
+
+**Queries / URLs:** `/pme-benchmarking-private-equity/`, `/hedge-fund-returns-institutional-2025/`, `/clawback-provisions-private-equity/`, `/fund-of-funds-private-equity-explained/`, `/management-fee-carry-private-equity/`.
+
+**What was wrong on the live site:**
+
+- PME invent leftover CPP **CAD $615 billion** (2023), leftover Yale **$14 billion** as endowment AUM, leftover GPFG **$1.3 trillion**. Official: CPP **C$793.3 billion**. Yale **$44.1 billion**. GPFG **kroner**.
+- Hedge-fund returns 2025 invent leftover CalPERS **$427 billion** (June 2025), leftover OTPP **$246 billion**, leftover GPFG **$1.42 trillion**, leftover HFRI **$4.5 trillion**. Official: CalPERS **$637.1 billion**. OTPP **C$303.2 billion**. GPFG **kroner**.
+- Clawback invent leftover CalPERS **$469 billion**, leftover GPFG **$1.3 trillion**, leftover NYSCRF **$210 billion**, leftover **$50 trillion / $4 trillion**. Official: CalPERS **$637.1 billion**. GPFG **kroner**.
+- Fund-of-funds invent leftover CalPERS **$463 billion**, leftover CPP **$620 billion**, leftover Ohio PERS **$46 billion**. Official: CalPERS **$637.1 billion**. CPP **C$793.3 billion**.
+- Fees and carry invent leftover CalPERS **$440 billion**, leftover OTPP **$245 billion**, leftover BCI **CAD $184 billion**, leftover Blackstone **$1.06 trillion**. Official: CalPERS **$637.1 billion**. OTPP **C$303.2 billion**. BCI **$313.7 billion** gross / **$265.4 billion** net.
+
+**Confirmed still unpublished:** Waves 1–45. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00**. Do not ping support.
+
+**Shipped (Wave 45):** five overwrites. No new slugs. Publisher default waves now include 45. No new 301 — short twins are **404**.
+
+**Refused:** ICD YE2025 PDF. Dollarizing GPIF / GPFG / ADQ. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / OMERS / CalPERS / Mubadala / Temasek / Alaska / KIC / GPIF / BCI institution keepers. Overwriting `/endowment-model-explained/` (Wave 15) or `/yale-endowment-model/` (Wave 14). Minting `/strs-ohio-explained/`, `/pme-explained/`, `/what-is-a-clawback/`, `/pe-fund-of-funds-explained/`, or `/management-fees-and-carry-explained/`. Fetching leftover HFRI / Preqin / Lexington / Blackstone / Ohio PERS piles. Another ILPA / open-vs-closed / DPI / hedge-funds-institutional / IRR-vs-MOIC synonym. `/private-equity-buyout-explained/` (Bain pile, no leftover house AUM).
+
+**Access:** Secrets re-requested. `GHOST_ADMIN_API_KEY` and `GOOGLE_SERVICE_ACCOUNT_JSON` still UNSET.
+
+**Next wake must:** Paste 5 → 45. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another PME / hedge-returns-2025 / clawback / FoF / PE-fees synonym. Highest-harm leftovers now: `/subscription-credit-facilities-private-equity/` (leftover CalPERS **$440 billion** / leftover CPP **$500 billion** / leftover Temasek **$690 billion**); unpublished keepers (GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn).
+
 ## 2026-08-26 — Wake 44: leftover CalPERS $470bn / $440bn; leftover GPIF $1.4T; leftover GPFG $1.36T / $1.32T / $1.5T; leftover KIC $163.9bn; leftover CPP $460bn / $238bn / CAD $616bn; leftover CalSTRS $316bn; leftover Harvard $50.7bn; leftover Yale $41.4bn
 
 **Queries / URLs:** `/ilpa-principles-explained/`, `/open-ended-vs-closed-ended-funds/`, `/dpi-rvpi-tvpi-explained/`, `/hedge-funds-institutional-investors/`, `/irr-vs-moic-private-equity/`.

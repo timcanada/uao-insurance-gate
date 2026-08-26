@@ -1,5 +1,29 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 12: CDPQ still on 2024; SOFAZ still at $43bn
+
+**Queries / URLs:** `/cdpq-explained/`, `/sofaz-azerbaijan-state-oil-fund-explained/`, `/is-khazanah-a-sovereign-wealth-fund/`, `/isif-ireland-strategic-investment-fund-explained/`, `/alaska-permanent-fund-explained/`.
+
+**What was wrong on the live site:**
+
+- CDPQ explained still says **C$473 billion** / **9.4%** from the 2024 annual report. La Caisse 2025 AR: **CAD $517.3 billion at 31 Dec 2025**; weighted-average return **9.3%** vs **10.9%** benchmark. Brand is now **La Caisse**. Q&A `/is-cdpq-a-sovereign-wealth-fund/` still says **$430 billion CAD** — different URL, do not 301.
+- SOFAZ explained still says **approximately $43 billion as of December 2023**. Official recent-figures: **USD 72,596.6 million at 30 June 2026**. Short twin `/sofaz-azerbaijan-oil-fund/` still 200.
+- Khazanah Q&A still leads with **~$47 billion USD** and junk peer sizes (ADIA $143bn). KAR 2026: **RM105 billion NAV**, **RM156 billion** total assets, **5.2%** / **6.1%** seven-year. They call themselves Malaysia’s SWF. No USD AUM. `/khazanah-explained/` 404s — do not mint it.
+- ISIF explained still says **approximately €24 billion**. That overstates. 2024 NTMA print was **€16.6bn**. 2025 FS: Discretionary **€9.7bn**, Directed **€6.422bn** after the 17 June 2025 AIB sale. Do not invent a new combined headline.
+- Alaska explained still says an **$89bn** “early 2026” endowment. APFC: **$91,346,500,000 at 30 June 2026**, FYTD **12.42%**, unaudited. 2025 PFD **$1,000** (Revenue). Do not invent a 2026 PFD.
+
+**Confirmed still unpublished:** Waves 1–11. GPIF live return still 15.83%. CIC explained still $1.3T. Chile ESSF still $10.8bn. Texas PSF still $8.3bn. `/directory/` and `/royal-family-investment-offices/` still 404. Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. MailAdx still mailing **wallet $0.00 — ads paused**. Support still silent. Do not ping again. Ghost free-member signup (Konstantinos Angelakis, 26 Aug) is not a list total.
+
+**Shipped (Wave 12):** five overwrites. No new slugs. No new `*-explained` twins.
+
+**Refused:** ICD 2025 (still Cloudflare-blocked). TVF from GlobalSWF. Russia NWF August print from Interfax/Vedomosti (MinFin primary for 1 Aug not fetched; May 1 official exists if a later wake wants it). Another PIF overwrite. Inventing a Khazanah USD NAV. Inventing a single 2025 “ISIF AUM.” Inventing a 2026 Alaska PFD. TPA define this wake (P0 twins remain; prefer after these size errors paste).
+
+**Access:** Secrets re-requested. Publisher default waves now include 12.
+
+**Next wake must:** Paste 5 → 12. Then 301 `twins.csv` (P0 first; SOFAZ short; leftover `/kazakhstan-samruk-kazyna-explained/`). If the Ghost key lands, drafts first. Do not draft another CDPQ / SOFAZ / Khazanah / ISIF / Alaska synonym. Do not write another `*-explained` for anything in `twins.csv`. Highest-harm leftovers: `/is-cdpq-a-sovereign-wealth-fund/` ($430bn); `/is-cpp-investments-a-sovereign-wealth-fund/` (still Dec 2023 $600.9bn); TPA P0 twins; Russia NWF from a MinFin month URL; ATP €85bn if an official 2025/26 print disagrees.
+
 ## 2026-08-26 — Wake 9: Chile ESSF still at $10.8bn (Q4 2023)
 
 **Queries / URLs:** `/chile-economic-and-social-stabilization-fund-explained/`, `/mumtalakat-bahrain-explained/`, `/oman-investment-authority-explained/`, `/samruk-kazyna-kazakhstan-explained/`, `/santiago-principles/`.

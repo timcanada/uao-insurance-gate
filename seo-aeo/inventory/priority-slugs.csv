@@ -33,7 +33,7 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,nz-super-fund-explained,NZ Super Fund,allocator,brief,P0,needed,SWF/pension-reserve
 2,institution,cpp-investments-explained,CPP Investments,allocator,brief,P1,live-check,Public pension
 2,institution,ontario-teachers-pension-plan,Ontario Teachers' Pension Plan,allocator,brief,P0,needed,Public pension
-2,institution,cdpq-explained,CDPQ,allocator,brief,P0,needed,Public pension
+2,institution,cdpq-explained,CDPQ,allocator,brief,P0,refresh-drafted,Public pension — Wave 12 (CAD $517.3bn at 31 Dec 2025)
 2,institution,psp-investments,PSP Investments,allocator,brief,P0,needed,Public pension
 2,institution,omers-explained,OMERS,allocator,brief,P0,needed,Public pension
 2,institution,aimco-explained,AIMCo,allocator,brief,P0,needed,Public pension
@@ -67,7 +67,7 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,wellcome-trust,Wellcome Trust,allocator,brief,P0,needed,Foundation
 2,institution,gates-foundation-trust,Gates Foundation Trust,allocator,brief,P0,needed,Foundation
 2,institution,ford-foundation,Ford Foundation,allocator,brief,P0,needed,Foundation
-2,institution,khazanah-explained,Khazanah,allocator,brief,P0,needed,SWF
+2,institution,khazanah-explained,Khazanah,allocator,brief,P0,refresh-drafted,Keeper is /is-khazanah-a-sovereign-wealth-fund/ — Wave 12 (RM105bn NAV). Do not mint explained twin
 2,institution,mumtalakat-bahrain,Mumtalakat,allocator,brief,P0,needed,SWF
 2,institution,qia-vs-adia,QIA vs ADIA,allocator,brief,P0,needed,Comparison
 2,institution,nbim-vs-gic,NBIM vs GIC,allocator,brief,P0,needed,Comparison
@@ -78,7 +78,7 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,adnoc-investment,ADNOC investment vehicles,allocator,brief,P0,needed,Strategic
 2,institution,aramco-sovereign-adjacent,Aramco as owner-adjacent capital,allocator,brief,P0,needed,Strategic
 2,institution,norges-governance-ministry-finance,NBIM and the Ministry of Finance,allocator,brief,P0,needed,Governance
-2,institution,alaska-permanent-fund,Alaska Permanent Fund,allocator,brief,P0,needed,SWF
+2,institution,alaska-permanent-fund-explained,Alaska Permanent Fund,allocator,brief,P0,refresh-drafted,SWF — Wave 12 ($91.3bn at 30 Jun 2026 unaudited)
 2,institution,alberta-heritage-fund,Alberta Heritage Savings Trust Fund,allocator,brief,P0,needed,SWF
 2,institution,texas-permanent-school-fund,Texas Permanent School Fund,allocator,brief,P0,needed,SWF-like
 2,institution,new-mexico-state-investment-council,NMSIC,allocator,brief,P0,needed,Public pension/SWF-like

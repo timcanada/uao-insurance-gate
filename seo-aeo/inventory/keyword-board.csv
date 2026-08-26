@@ -43,6 +43,11 @@ P1,display advertising institutional investors,service-provider,A,/display-adver
 P1,NZ Super Fund,allocator,both,/new-zealand-superannuation-fund-explained/,entity,unknown,unknown,unknown,refresh-drafted,Live still NZD 71.4bn June 2024. Official NZ$85.05bn 30 Jun 2025 / NZ$86.6bn 31 Mar 2026. Wave 9
 P1,OTPP,allocator,both,/ontario-teachers-pension-plan-explained/,entity,unknown,unknown,unknown,refresh-drafted,YE2025 C$279.4bn already live. IR now C$303.2bn at 30 Jun 2026. Wave 9
 P1,USS,allocator,both,/uss-universities-superannuation-scheme/,entity,unknown,unknown,unknown,refresh-drafted,Live still 31 Mar 2025 £76.8bn. 2026 accounts: DB £79.8bn / surplus £15.8bn. Wave 9
+P1,CDPQ,allocator,both,/cdpq-explained/,entity,unknown,unknown,unknown,refresh-drafted,Live still C$473bn / 9.4% (2024). Official CAD $517.3bn / 9.3% at 31 Dec 2025. Wave 12. Q&A /is-cdpq-a-sovereign-wealth-fund/ still $430bn — separate overwrite
+P1,SOFAZ,allocator,both,/sofaz-azerbaijan-state-oil-fund-explained/,entity,unknown,unknown,unknown,refresh-drafted,Live still $43bn Dec 2023. Official USD 72.6bn at 30 Jun 2026. Wave 12
+P1,Khazanah,allocator,both,/is-khazanah-a-sovereign-wealth-fund/,define,unknown,unknown,unknown,refresh-drafted,Live ~$47bn USD. Official RM105bn NAV / RM156bn total assets at 31 Dec 2025. No explained slug (404). Wave 12
+P1,ISIF,allocator,both,/isif-ireland-strategic-investment-fund-explained/,entity,unknown,unknown,unknown,refresh-drafted,Live €24bn overstates. 2025 FS: Discretionary €9.7bn / Directed €6.422bn. Wave 12
+P1,Alaska Permanent Fund,allocator,both,/alaska-permanent-fund-explained/,entity,unknown,unknown,unknown,refresh-drafted,Live $89bn early 2026. APFC $91.3465bn at 30 Jun 2026 unaudited. Wave 12
 P1,Santiago Principles,allocator,both,/santiago-principles/,define,unknown,unknown,unknown,merge-twins,
 P1,total portfolio approach,allocator,both,/total-portfolio-approach/,define,unknown,unknown,unknown,merge-twins,
 P2,what is an OCIO,allocator,both,/what-is-an-ocio/,define,unknown,unknown,unknown,live-check,

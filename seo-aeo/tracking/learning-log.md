@@ -1,5 +1,27 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 74: leftover CPP C$595bn; leftover CDPQ $413bn; leftover OTPP $262bn; leftover PIF $925bn; leftover GPFG $1.3T / $1.4T / $2T; leftover Mubadala ~$300bn; leftover ADIA $175bn; leftover invented GIC $826bn; leftover CalPERS $466bn; leftover CalSTRS $315bn
+
+**Queries / URLs:** `/distressed-debt-investing-explained/`, `/the-twin-track-gulf-ai-oil/`, `/gulf-sovereign-wealth-funds-data-centers/`, `/low-volatility-factor-investing/`, `/what-is-shareholder-engagement/`.
+
+**What was wrong on the live site:**
+
+- Distressed debt invent leftover CPP **C$595 billion** as of 2024, leftover CDPQ **CAD $413 billion**, leftover GPFG **USD 1.3 trillion**, leftover PIF **USD 925 billion**, leftover OTPP **USD 262 billion**. Official: CPP **C$793.3 billion**. CDPQ **CAD $517.3 billion**. GPFG **kroner**. PIF **more than US$900 billion**. OTPP **C$303.2 billion**.
+- Twin-track Gulf AI/oil invent leftover Mubadala **~$300bn**. Official: **AED 1.4 trillion / US$385 billion**.
+- Gulf data-centers invent leftover PIF **$925 billion**, leftover ADIA **near $175 billion**, leftover GPFG **~$1.4 trillion**, leftover invented GIC **~$826 billion**. Official: PIF **more than US$900 billion**. GPFG **kroner**. ADIA and GIC **do not publish AUM**.
+- Low-volatility factor invent leftover CalPERS **USD 466 billion** as of 2023, leftover CalSTRS **USD 315 billion**. Official: CalPERS **$637.1 billion**. CalSTRS **$415.4 billion**.
+- Shareholder engagement invent leftover GPFG **roughly $2 trillion**. Official: **22,683 billion kroner**. **Do not dollarize.**
+
+**Confirmed still unpublished:** Waves 1–74. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00** through **26 Aug 15:52 UTC**. Do not ping support.
+
+**Shipped (Wave 74):** five overwrites. No new slugs. Publisher default waves now include 74. Queued 301: `/public-pension-funded-status-tracker/`; `/largest-pension-funds/`; `/new-zealand-superannuation-fund-nzsf/`; `/power-grid-investment-asset-owners/`; `/real-assets-vs-private-equity-allocation/`; `/paris-aligned-investment-institutional/`; `/stewardship-institutional-investing/`; `/shareholder-activism-institutional-investors/`; `/transition-finance-explained-institutional/`; `/green-bonds-sustainable-bonds-institutional/`; `/critical-minerals-rare-earths-asset-owners/`; `/co-investment-private-equity/`; `/total-portfolio-approach-definition/`; `/what-is-fiduciary-duty-for-asset-owners/`.
+
+**Refused:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ / USS. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / CDPQ / OMERS / CalPERS / CalSTRS / Mubadala / Temasek / Future Fund / Alaska / ADIA / GIC / BCI / GPIF / CPP / Texas TRS / PIF / QIA / Australian Super / Aware Super / KIC / UniSuper / CIC / ADQ / Cbus / AIMCo / NZ Super institution keepers. Overwriting `/endowment-model-explained/` (Wave 15) or `/yale-endowment-model/` (Wave 14). Another urbanisation / EU-taxonomy / EM-local-currency / Norwegian-model / ESIR synonym. Minting `/harvard-endowment-explained/`, `/texas-trs/`, `/nssf-explained/`, `/safe-china/`, `/unisuper/`, `/temasek/`, `/adq-explained/`, `/samruk-kazyna/`, `/cbus-explained/`, `/aware-super/`, `/australian-super/`, `/aimco-explained/`, `/distressed-debt/`, `/gulf-data-centers/`, `/twin-track-gulf-ai-oil/`, `/low-volatility-factor/`, or `/shareholder-engagement/`. Inventing an ADIA, KIA, QIA, SAFE, NSSF, SWIB, HESTA, Florida SBA, Ohio PERS, Samruk, or GIC AUM. `/urbanisation-investment-theme/` (no leftover house AUM — do not 301). `/gulf-capital-the-center-of-gravity/` (leftover invented ADIA **$1.1 trillion**). `/hesta-superannuation-explained/` (no official HESTA print locked). `/water-risk-institutional-investors/` (no leftover house AUM). `/factor-investing-explained/` (no leftover house AUM). `/ai-data-center-investing/` (leftover program piles). `/mgx-abu-dhabi-ai-fund/` (leftover **$100 billion** goal).
+
+**Next wake must:** Paste 5 → 74. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another distressed-debt / twin-track / Gulf-data-centers / low-volatility / shareholder-engagement synonym. Highest-harm leftovers now: `/gulf-capital-the-center-of-gravity/` (leftover invented ADIA **$1.1 trillion**); unpublished keepers (GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn).
+
 ## 2026-08-26 — Wake 73: leftover ABP €200bn; leftover OTPP $227bn; leftover CalPERS $494bn; leftover AustralianSuper $306bn; leftover GPFG $1.4T / $1.35T / $2T; leftover invented GIC $985bn; leftover ADIA $157.1bn; leftover BlackRock $10.5T
 
 **Queries / URLs:** `/urbanisation-investment-theme-institutional/`, `/esg-regulation-eu-taxonomy/`, `/sovereign-funds-emerging-market-local-currency-debt/`, `/norwegian-model-investing/`, `/estimated-sustainable-income-rule-explained/`.

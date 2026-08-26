@@ -49,5 +49,7 @@ Do not 301 this page onto `/texas-teacher-retirement-system-explained/`, `/texas
 - [Texas TRS](/texas-teacher-retirement-system-explained/)
 - [Texas ERS](/texas-ers/)
 - [Texas Municipal Retirement System](/texas-tmrs/)
+- [Houston Firefighters](/houston-hfrrf/)
+- [Houston Police](/houston-hpops/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

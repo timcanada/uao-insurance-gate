@@ -50,5 +50,7 @@ Do not 301 this page onto `/texas-teacher-retirement-system-explained/`, `/texas
 - [Texas Permanent School Fund](/texas-permanent-school-fund-explained/)
 - [Texas Municipal Retirement System](/texas-tmrs/)
 - [Houston Municipal Employees](/houston-hmeps/)
+- [Houston Firefighters](/houston-hfrrf/)
+- [Houston Police](/houston-hpops/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

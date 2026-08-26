@@ -562,5 +562,10 @@ P1,San Diego City Employees’ Retirement System,allocator,both,/sdcers/,define,
 P1,Orange County Employees Retirement System,allocator,both,/ocers/,define,unknown,unknown,unknown,drafted-wave-117,Wave 117. Official combined $28,373,550 thousand at 31 Dec 2025. Do not mint /orange-county-ocers/
 P1,San Mateo County Employees’ Retirement Association,allocator,both,/samcera/,define,unknown,unknown,unknown,drafted-wave-117,Wave 117. Official FNP $7,213,800,664 at 30 Jun 2025. Do not mint /san-mateo-samcera/
 P1,Houston Municipal Employees Pension System,allocator,both,/houston-hmeps/,define,unknown,unknown,unknown,drafted-wave-117,Wave 117. Official FNP $4,723,001,002 at 30 Jun 2025. Do not mint /hmeps/
+P1,New York City Police Pension Fund,allocator,both,/nyc-police/,define,unknown,unknown,unknown,drafted-wave-118,Wave 118. Official combined $62,166,647 thousand at 30 Jun 2025. Do not mint /nyppf/
+P1,New York City Fire Pension Fund,allocator,both,/nyc-fire/,define,unknown,unknown,unknown,drafted-wave-118,Wave 118. Official combined $22,876,158 thousand at 30 Jun 2025. Do not mint /nycfpf/
+P1,New York City Board of Education Retirement System,allocator,both,/nyc-bers/,define,unknown,unknown,unknown,drafted-wave-118,Wave 118. Official combined $11,173,970 thousand at 30 Jun 2025. Do not mint /bers/
+P1,Houston Firefighters’ Relief and Retirement Fund,allocator,both,/houston-hfrrf/,define,unknown,unknown,unknown,drafted-wave-118,Wave 118. Official FNP $5,799,107,368 at 30 Jun 2025. Do not mint /hfrrf/
+P1,Houston Police Officers’ Pension System,allocator,both,/houston-hpops/,define,unknown,unknown,unknown,drafted-wave-118,Wave 118. Official FNP $8,269,542 thousand at 30 Jun 2025. Do not mint /hpops/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

@@ -221,6 +221,16 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,san-mateo-samcera,SamCERA (long twin),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 117 /samcera/
 117,institution,houston-hmeps,Houston Municipal Employees Pension System,allocator,brief,P0,drafted-in-repo,Wave 117. Official FNP $4,723,001,002 at 30 Jun 2025. Do not mint /hmeps/ or /houston-municipal-employees/
 2,institution,hmeps,HMEPS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 117 /houston-hmeps/
+118,institution,nyc-police,New York City Police Pension Fund,allocator,brief,P0,drafted-in-repo,Wave 118. Official combined $62,166,647 thousand at 30 Jun 2025. Do not mint /nyppf/ or /nyc-police-pension/
+2,institution,nyppf,NYC Police (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 118 /nyc-police/
+118,institution,nyc-fire,New York City Fire Pension Fund,allocator,brief,P0,drafted-in-repo,Wave 118. Official combined $22,876,158 thousand at 30 Jun 2025. Do not mint /nycfpf/ or /nyc-fire-pension/
+2,institution,nycfpf,NYC Fire (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 118 /nyc-fire/
+118,institution,nyc-bers,New York City Board of Education Retirement System,allocator,brief,P0,drafted-in-repo,Wave 118. Official combined $11,173,970 thousand at 30 Jun 2025. Do not mint /bers/ or /nyc-bers-explained/
+2,institution,bers,BERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 118 /nyc-bers/
+118,institution,houston-hfrrf,Houston Firefighters’ Relief and Retirement Fund,allocator,brief,P0,drafted-in-repo,Wave 118. Official FNP $5,799,107,368 at 30 Jun 2025. Do not mint /hfrrf/ or /houston-firefighters/
+2,institution,hfrrf,HFRRF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 118 /houston-hfrrf/
+118,institution,houston-hpops,Houston Police Officers’ Pension System,allocator,brief,P0,drafted-in-repo,Wave 118. Official FNP $8,269,542 thousand at 30 Jun 2025. Do not mint /hpops/ or /houston-police/
+2,institution,hpops,HPOPS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 118 /houston-hpops/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

@@ -119,7 +119,7 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,prim,PRIM (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 106 /massachusetts-prim/
 106,institution,virginia-retirement-system,VRS,allocator,brief,P0,drafted-in-repo,Wave 106. Official $124,041,778 thousand at 30 Jun 2025. Do not mint /vrs/ or /vrs-explained/
 2,institution,vrs,VRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 106 /virginia-retirement-system/
-2,institution,georgia-trs,TRS Georgia,allocator,brief,P0,needed,Skip this wake. House publications page still lists 2024 ACFR as latest PDF. Do not mint /georgia-trs-explained/
+114,institution,georgia-trs,TRS Georgia,allocator,brief,P0,drafted-in-repo,Wave 114. Official FNP $116,767,912 thousand at 30 Jun 2025. Do not mint /trsga/ or /georgia-trs-explained/
 108,institution,illinois-isbi,ISBI,allocator,brief,P0,drafted-in-repo,Wave 108. Official $28,581,051,604 at 30 Jun 2025. Do not mint /isbi/ or /isbi-explained/
 2,institution,isbi,ISBI (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 108 /illinois-isbi/
 108,institution,illinois-trs,TRS Illinois,allocator,brief,P0,drafted-in-repo,Wave 108. Official DB $77,263,331,616 at 30 Jun 2025. Do not mint /trs-illinois/ or /illinois-trs-explained/
@@ -178,6 +178,15 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,ersga,ERSGA (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 113 /georgia-ers/
 113,institution,new-hampshire-retirement-system,New Hampshire Retirement System,allocator,brief,P0,drafted-in-repo,Wave 113. Official Combined $13,447,973 thousand at 30 Jun 2025. Do not mint /nhrs/ or /new-hampshire-retirement-system-explained/
 2,institution,nhrs,NHRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 113 /new-hampshire-retirement-system/
+2,institution,trsga,Georgia TRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 114 /georgia-trs/
+114,institution,alabama-rsa,Retirement Systems of Alabama,allocator,brief,P0,drafted-in-repo,Wave 114. Official Combined $52,924,886 thousand at 30 Sep 2025. Do not mint /rsa-alabama/ or /alabama-rsa-explained/
+2,institution,rsa-alabama,Alabama RSA (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 114 /alabama-rsa/
+114,institution,wyoming-retirement-system,Wyoming Retirement System,allocator,brief,P0,drafted-in-repo,Wave 114. Official DB $13,188,110,017 at 31 Dec 2025. Do not mint /wrs/ or /wyoming-wrs/
+2,institution,wrs,WRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 114 /wyoming-retirement-system/
+114,institution,new-mexico-erb,New Mexico Educational Retirement Board,allocator,brief,P0,drafted-in-repo,Wave 114. Official FNP $18,960,350,984 at 30 Jun 2025. Do not mint /nmerb/ or /new-mexico-erb-explained/
+2,institution,nmerb,NMERB (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 114 /new-mexico-erb/
+114,institution,west-virginia-cprb,West Virginia CPRB,allocator,brief,P0,drafted-in-repo,Wave 114. Official PERS $9,701,065 thousand at 30 Jun 2025. Do not mint /cprb/ or /wv-cprb/
+2,institution,wv-cprb,WV CPRB (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 114 /west-virginia-cprb/
 2,institution,teacher-retirement-system-of-texas-cio,TRS Texas CIO office,allocator,brief,P0,needed,Public pension
 2,institution,cpp-vs-otpp-vs-cdpq,The Canadian large-plan triangle,allocator,brief,P0,needed,Comparison
 105,institution,unjspf,UNJSPF,allocator,brief,P0,drafted-in-repo,Wave 105. Official $107,533,052 thousand net assets at 31 Dec 2025. Do not mint /unjps-united-nations/ or /united-nations-joint-staff-pension-fund/

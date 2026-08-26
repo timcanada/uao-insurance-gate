@@ -16,7 +16,7 @@ class HttpError(RuntimeError):
 
 
 class HttpClient:
-    def __init__(self, user_agent: str, min_interval: float = 0.2, timeout: int = 45):
+    def __init__(self, user_agent: str, min_interval: float = 0.2, timeout: int = 90):
         self.user_agent = user_agent
         self.min_interval = min_interval
         self.timeout = timeout

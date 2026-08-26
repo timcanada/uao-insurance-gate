@@ -30,7 +30,7 @@ def run_sources(
             seed_names=[
                 org["name"]
                 for org in load_seed_orgs(settings.seeds_dir)
-                if int(org.get("priority") or 0) >= 84
+                if int(org.get("priority") or 0) >= 90
             ],
         ),
         "sec_edgar": lambda: fetch_sec(client),

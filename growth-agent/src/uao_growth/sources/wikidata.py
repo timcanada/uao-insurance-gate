@@ -128,10 +128,14 @@ def fetch_wikidata(client: HttpClient, seed_names: list[str] | None = None) -> d
     people: list[dict[str, Any]] = []
     for kind, query in QUERIES.items():
         url = encode_query(SPARQL, {"query": query, "format": "json"})
-        payload = client.get_json(
-            url,
-            headers={"Accept": "application/sparql-results+json"},
-        )
+        try:
+            payload = client.get_json(
+                url,
+                headers={"Accept": "application/sparql-results+json"},
+                retries=2,
+            )
+        except Exception:
+            continue
         rows = _bindings(payload if isinstance(payload, dict) else {})
         if kind in {"finance_minister", "swf_leaders", "pension_leaders", "central_bank"}:
             people.extend(_people_from_leader_rows(kind, rows))
@@ -215,75 +219,84 @@ def _people_from_leader_rows(kind: str, rows: list[dict[str, str]]) -> list[dict
 def leadership_for_names(client: HttpClient, names: list[str]) -> list[dict[str, Any]]:
     people: list[dict[str, Any]] = []
     for name in names:
-        search = client.get_json(
-            encode_query(
-                WIKI_API,
-                {
-                    "action": "wbsearchentities",
-                    "search": name,
-                    "language": "en",
-                    "format": "json",
-                    "limit": 1,
-                },
-            )
-        )
-        hits = (search or {}).get("search") if isinstance(search, dict) else []
-        if not hits:
+        try:
+            people.extend(_leadership_for_one(client, name))
+        except Exception:
             continue
-        qid = hits[0].get("id")
-        if not qid:
-            continue
-        entity_payload = client.get_json(
-            encode_query(
-                WIKI_API,
-                {
-                    "action": "wbgetentities",
-                    "ids": qid,
-                    "props": "claims|labels",
-                    "languages": "en",
-                    "format": "json",
-                },
-            )
+    return people
+
+
+def _leadership_for_one(client: HttpClient, name: str) -> list[dict[str, Any]]:
+    people: list[dict[str, Any]] = []
+    search = client.get_json(
+        encode_query(
+            WIKI_API,
+            {
+                "action": "wbsearchentities",
+                "search": name,
+                "language": "en",
+                "format": "json",
+                "limit": 1,
+            },
         )
-        entity = ((entity_payload or {}).get("entities") or {}).get(qid) or {}
-        claims = entity.get("claims") or {}
-        org_label = _label(entity) or name
-        for prop, title in LEADERSHIP_PROPS.items():
-            if prop == "P3320":
+    )
+    hits = (search or {}).get("search") if isinstance(search, dict) else []
+    if not hits:
+        return people
+    qid = hits[0].get("id")
+    if not qid:
+        return people
+    entity_payload = client.get_json(
+        encode_query(
+            WIKI_API,
+            {
+                "action": "wbgetentities",
+                "ids": qid,
+                "props": "claims|labels",
+                "languages": "en",
+                "format": "json",
+            },
+        )
+    )
+    entity = ((entity_payload or {}).get("entities") or {}).get(qid) or {}
+    claims = entity.get("claims") or {}
+    org_label = _label(entity) or name
+    for prop, title in LEADERSHIP_PROPS.items():
+        if prop == "P3320":
+            continue
+        for claim in claims.get(prop) or []:
+            person_id = _qid(claim)
+            if not person_id:
                 continue
-            for claim in claims.get(prop) or []:
-                person_id = _qid(claim)
-                if not person_id:
-                    continue
-                person_payload = client.get_json(
-                    encode_query(
-                        WIKI_API,
-                        {
-                            "action": "wbgetentities",
-                            "ids": person_id,
-                            "props": "labels",
-                            "languages": "en",
-                            "format": "json",
-                        },
-                    )
-                )
-                person_entity = ((person_payload or {}).get("entities") or {}).get(person_id) or {}
-                person_name = _label(person_entity)
-                if not person_name:
-                    continue
-                people.append(
+            person_payload = client.get_json(
+                encode_query(
+                    WIKI_API,
                     {
-                        "name": person_name,
-                        "title": title,
-                        "org_name": org_label,
-                        "org_type": "swf",
-                        "org_key": normalize_org(org_label),
-                        "source": "wikidata",
-                        "source_url": f"https://www.wikidata.org/wiki/{person_id}",
-                        "status": "discovered",
-                        "extra_json": {"org_qid": qid, "person_qid": person_id},
-                    }
+                        "action": "wbgetentities",
+                        "ids": person_id,
+                        "props": "labels",
+                        "languages": "en",
+                        "format": "json",
+                    },
                 )
+            )
+            person_entity = ((person_payload or {}).get("entities") or {}).get(person_id) or {}
+            person_name = _label(person_entity)
+            if not person_name:
+                continue
+            people.append(
+                {
+                    "name": person_name,
+                    "title": title,
+                    "org_name": org_label,
+                    "org_type": "swf",
+                    "org_key": normalize_org(org_label),
+                    "source": "wikidata",
+                    "source_url": f"https://www.wikidata.org/wiki/{person_id}",
+                    "status": "discovered",
+                    "extra_json": {"org_qid": qid, "person_qid": person_id},
+                }
+            )
     return people
 
 

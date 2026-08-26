@@ -36,7 +36,7 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,ontario-teachers-pension-plan,Ontario Teachers' Pension Plan,allocator,brief,P0,needed,Public pension
 2,institution,cdpq-explained,CDPQ,allocator,brief,P0,refresh-drafted,Public pension — Wave 12 (CAD $517.3bn at 31 Dec 2025)
 2,institution,psp-investments,PSP Investments,allocator,brief,P0,refresh-drafted,Public pension — Wave 16 overwrites /psp-investments-canada-explained/ (C$320.6bn). Do not mint /psp-investments/
-2,institution,omers-explained,OMERS,allocator,brief,P0,needed,Public pension
+2,institution,omers-explained,OMERS,allocator,brief,P0,live-ok,Public pension — live /omers-explained/ already $145.2bn / 6% / 99% at 31 Dec 2025. Do not overwrite. Do not mint /omers/
 2,institution,aimco-explained,AIMCo,allocator,brief,P0,refresh-drafted,Public pension — Wave 17 overwrites /aimco-alberta-investment-management-corporation/ (C$194.7bn at 31 Dec 2025). Do not mint /aimco-explained/
 2,institution,bcimc-bci,BCI,allocator,brief,P0,refresh-drafted,Public pension — Wave 17 overwrites /bci-british-columbia-investment-management/ ($313.7bn gross / $265.4bn net). 301 twins after paste
 2,institution,calpers-explained-largest-us-pension-fund,CalPERS,allocator,brief,P1,live-check,Public pension
@@ -46,7 +46,7 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,abp-netherlands-pension-fund-explained,ABP,allocator,brief,P1,refresh-drafted,Public pension — Wave 35 overwrite. Live €532bn / €543bn / 2.8m. Official €530bn at 31 Mar 2026 / YE2025 €533.134bn / 3,201,054 participants. Do not 301 onto Dutch system
 2,institution,pfzw-netherlands,PFZW,allocator,brief,P0,refresh-drafted,Public pension — Wave 16 (€252.0bn AUM at 31 Dec 2025; live still €35bn)
 2,institution,atp-denmark,ATP,allocator,brief,P0,refresh-drafted,Public pension — Wave 13 keeper /atp-denmark-pension-fund/. 301 /atp-denmark-explained/ after paste
-2,institution,alecta-sweden,Alecta,allocator,brief,P0,needed,Public pension
+104,institution,alecta-sweden,Alecta,allocator,brief,P0,drafted-in-repo,Wave 104. Official SEK 1,404,983 million at 31 Dec 2025. Print kronor. Do not mint /alecta/ or /alecta-explained/
 2,institution,uss-universities-superannuation-scheme,USS,allocator,brief,P1,live-check,Public pension
 2,institution,uss-explained-merge,USS canonical merge,allocator,brief,P1,merge,Public pension
 2,institution,australian-super,AustralianSuper,allocator,brief,P0,live-ok,Public pension — live /australiansuper-explained/ already A$410bn at 31 Dec 2025. Do not mint /australian-super/
@@ -57,7 +57,7 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,employees-provident-fund-malaysia,EPF Malaysia,allocator,brief,P0,refresh-drafted,Public pension — Wave 21 overwrites /epf-malaysia-employees-provident-fund-explained/ (RM1,409bn at 31 Dec 2025; live RM950bn / USD 190bn). 301 /epf-malaysia/ after paste. No USD AUM
 2,institution,gepf-south-africa,GEPF,allocator,brief,P0,needed,Public pension
 2,institution,pic-south-africa,Public Investment Corporation,allocator,brief,P0,needed,Public pension
-2,institution,previ-brazil,Previ,allocator,brief,P0,needed,Public pension
+104,institution,previ-brazil,Previ,allocator,brief,P0,drafted-in-repo,Wave 104. Official R$ 302 billion order. Print reais. Do not mint /previ/
 2,institution,afore-xxi-banorte,Afore XXI Banorte,allocator,brief,P0,needed,Do not mint this short of Wave 101 /what-is-an-afore/. Institution page later needs a longer slug + three sourced facts. No invented house AUM
 2,institution,yale-investments-office,Yale Investments Office,allocator,brief,P0,refresh-drafted,Endowment — official $44.1bn / 11.1% at 30 Jun 2025 sits on Wave 14 Yale-model + Wave 15 category + Wave 17 list. Do not mint a third Yale synonym
 2,institution,harvard-management-company,Harvard Management Company,allocator,brief,P0,refresh-drafted,Endowment — official $56.9bn / 11.9% at 30 Jun 2025 on Wave 15 category + Wave 17 list. Do not mint /harvard-endowment-explained/
@@ -65,8 +65,8 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,princeton-investment-company,PRINCO,allocator,brief,P0,refresh-drafted,Endowment — Wave 17 list: PRINCO $36.4bn / 11.0% at 30 Jun 2025
 2,institution,mit-investment-management-company,MITIMCo,allocator,brief,P0,needed,Endowment
 2,institution,university-of-texas-imf,UTIMCO,allocator,brief,P0,needed,Endowment
-2,institution,wellcome-trust,Wellcome Trust,allocator,brief,P0,needed,Foundation
-2,institution,gates-foundation-trust,Gates Foundation Trust,allocator,brief,P0,needed,Foundation
+104,institution,wellcome-trust,Wellcome Trust,allocator,brief,P0,drafted-in-repo,Wave 104. Official £39,933 million portfolio at 30 Sep 2025. Print pounds. Do not mint /wellcome-trust-explained/
+104,institution,gates-foundation-trust,Gates Foundation Trust,allocator,brief,P0,drafted-in-repo,Wave 104. Official $89.2 billion net assets at 31 Dec 2025. Do not mint /gates-foundation/ or /bill-melinda-gates-foundation/
 2,institution,ford-foundation,Ford Foundation,allocator,brief,P0,needed,Foundation
 2,institution,khazanah-explained,Khazanah,allocator,brief,P0,refresh-drafted,Q&A /is-khazanah-a-sovereign-wealth-fund/ Wave 12; institution /khazanah-nasional-malaysia-explained/ Wave 17 (RM105bn NAV). Do not 301. Do not mint /khazanah-explained/
 2,institution,mumtalakat-bahrain,Mumtalakat,allocator,brief,P0,refresh-drafted,SWF — Wave 11 keeper /mumtalakat-bahrain-explained/. 301 /bahrain-mumtalakat-holding-explained/ after paste
@@ -80,7 +80,8 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,aramco-sovereign-adjacent,Aramco as owner-adjacent capital,allocator,brief,P0,needed,Strategic
 2,institution,norges-governance-ministry-finance,NBIM and the Ministry of Finance,allocator,brief,P0,needed,Governance
 2,institution,alaska-permanent-fund-explained,Alaska Permanent Fund,allocator,brief,P0,refresh-drafted,SWF — Wave 12 ($91.3bn at 30 Jun 2026 unaudited)
-2,institution,alberta-heritage-fund,Alberta Heritage Savings Trust Fund,allocator,brief,P0,needed,SWF
+104,institution,alberta-heritage-savings-trust-fund,Alberta Heritage Savings Trust Fund,allocator,brief,P0,drafted-in-repo,Wave 104. Official $31.9 billion at 31 Dec 2025. Canonical official-name slug. Do not mint /alberta-heritage-fund/
+2,institution,alberta-heritage-fund,Alberta Heritage Savings Trust Fund (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 104 /alberta-heritage-savings-trust-fund/
 2,institution,texas-permanent-school-fund,Texas Permanent School Fund,allocator,brief,P0,needed,SWF-like
 76,institution,new-mexico-state-investment-council,NMSIC,allocator,brief,P0,refresh-drafted,Wave 76 overwrite. Live leftover $64.0bn / leftover $70bn / leftover $71bn. Official more than $68bn (Oct 2025 IHR). Do not invent $74.799bn. Do not mint /nmsic/
 2,institution,irish-strategic-investment-fund,ISIF,allocator,brief,P0,needed,Strategic
@@ -360,9 +361,9 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 94,explainer,what-is-an-institutional-talent-desk,What is an Institutional Talent Desk?,allocator,careers-alert,P1,drafted-in-repo,Wave 94. First-party on live /careers/. Do not overwrite /careers/
 2,explainer,how-do-people-moves-signal-allocation-changes,People moves as allocation signals,allocator,brief,P1,do-not-mint,People-page adjacent. Wave 94 already refused. Do not mint
 2,explainer,what-is-in-housing-of-private-markets,In-housing private markets,allocator,brief,P1,do-not-mint,Twin of Wave 33 in-house-vs-external. Do not mint
-2,explainer,how-do-owners-open-a-london-office,How owners open a London office,allocator,brief,P1,needed,Do not mint. Twin of Wave 83 London satellites / Wave 97 rep-office vs desk
-2,explainer,how-do-owners-open-a-new-york-office,How owners open a New York office,allocator,brief,P1,needed,Do not mint. Twin of Wave 84 /careers/cities/new-york/ and Wave 97 rep-office
-2,explainer,how-do-owners-open-a-singapore-office,How owners open a Singapore office,allocator,brief,P1,needed,Do not mint. Twin of city Singapore / Wave 97 rep-office
+2,explainer,how-do-owners-open-a-london-office,How owners open a London office,allocator,brief,P1,do-not-mint,Do not mint. Twin of Wave 83 London satellites / Wave 97 rep-office vs desk
+2,explainer,how-do-owners-open-a-new-york-office,How owners open a New York office,allocator,brief,P1,do-not-mint,Do not mint. Twin of Wave 84 /careers/cities/new-york/ and Wave 97 rep-office
+2,explainer,how-do-owners-open-a-singapore-office,How owners open a Singapore office,allocator,brief,P1,do-not-mint,Do not mint. Twin of city Singapore / Wave 97 rep-office
 97,explainer,what-is-a-representative-office-vs-a-desk,Rep office vs desk,allocator,brief,P1,drafted-in-repo,Wave 97. 12 CFR 211.21/211.24. Do not 301 onto London satellites
 99,explainer,how-do-sanctions-change-a-family-office-bank,Sanctions and family-office banking,allocator,brief,P1,drafted-in-repo,Wave 99. OFAC 50% rule + FinCEN 25% CDD. Do not mint SWF-sanctions as a short
 98,explainer,what-is-a-multi-custodian-model,Multi-custodian model,allocator,advertiser-call,P1,drafted-in-repo,Wave 98. Master+sub is not multi-prime. Do not 301 onto pick-a-custodian

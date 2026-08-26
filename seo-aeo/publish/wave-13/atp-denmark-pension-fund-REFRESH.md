@@ -64,6 +64,7 @@ Compare it with [USS](/uss-universities-superannuation-scheme/) or other guarant
 ## Related
 
 - [What is a pension fund?](/what-is-a-pension-fund/)
+- [Alecta](/alecta-sweden/)
 - [Public pension funds](/public-pension-funds/)
 - [Liability-driven investing](/liability-driven-investing-explained/)
 - [USS](/uss-universities-superannuation-scheme/)

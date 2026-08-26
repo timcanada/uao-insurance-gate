@@ -44,6 +44,7 @@ The leftover twin [`/atp-denmark-pension/`](/atp-denmark-pension/) invents **DKK
 ## Related on Universal Asset Owners
 
 - [ATP Denmark](/atp-denmark-pension-fund/)
+- [Alecta](/alecta-sweden/)
 - [Norges Bank Investment Management](/norges-bank-investment-management-nbim/)
 - [ABP](/abp-netherlands-pension-fund-explained/)
 - [What is a pension fund?](/what-is-a-pension-fund/)

@@ -492,5 +492,10 @@ P1,what is an implementation statement,allocator,both,/what-is-an-implementation
 P1,what is principal protection for a family,allocator,both,/what-is-principal-protection-for-a-family/,define,unknown,unknown,unknown,drafted-wave-103,Wave 103. SEC/FINRA 2 Jun 2011 issuer credit. Not advice
 P1,how do Gulf funds invest in sports,allocator,both,/how-do-gulf-funds-invest-in-sports/,define,unknown,unknown,unknown,drafted-wave-103,Wave 103. NUFC 2021 + PGA/LIV 2023 + QSI/PSG. No PIF AUM
 P1,what is a regulated asset base,allocator,both,/what-is-a-regulated-asset-base/,define,unknown,unknown,unknown,drafted-wave-103,Wave 103. Ofgem RAV/RIIO CPIH. Not ports overwrite
+P1,Alecta pension Sweden,allocator,both,/alecta-sweden/,define,unknown,unknown,unknown,drafted-wave-104,Wave 104. Official SEK 1,404,983 million at 31 Dec 2025. Print kronor. Do not mint /alecta/
+P1,Wellcome Trust endowment,allocator,both,/wellcome-trust/,define,unknown,unknown,unknown,drafted-wave-104,Wave 104. Official £39,933 million at 30 Sep 2025. Print pounds. Do not mint /wellcome-trust-explained/
+P1,Alberta Heritage Savings Trust Fund,allocator,both,/alberta-heritage-savings-trust-fund/,define,unknown,unknown,unknown,drafted-wave-104,Wave 104. Official $31.9 billion at 31 Dec 2025. Do not mint /alberta-heritage-fund/
+P1,Previ Brazil pension,allocator,both,/previ-brazil/,define,unknown,unknown,unknown,drafted-wave-104,Wave 104. Official R$ 302 billion order. Print reais. Do not mint /previ/
+P1,Gates Foundation Trust,allocator,both,/gates-foundation-trust/,define,unknown,unknown,unknown,drafted-wave-104,Wave 104. Official $89.2 billion net assets at 31 Dec 2025. Do not mint /gates-foundation/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

@@ -45,6 +45,8 @@ This URL is the **endowment-vs-foundation** job. The three-form comparison alrea
 
 - [How family offices think about philanthropy vs the book](/how-do-family-offices-think-about-philanthropy-vs-the-book/)
 - [Yale endowment model](/yale-endowment-model/)
+- [Wellcome Trust](/wellcome-trust/)
+- [Gates Foundation Trust](/gates-foundation-trust/)
 - [Endowment model](/endowment-model-explained/)
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [Pension vs endowment vs foundation](/pension-fund-vs-endowment-vs-foundation/)

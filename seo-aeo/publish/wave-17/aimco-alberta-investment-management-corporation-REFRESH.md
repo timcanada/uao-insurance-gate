@@ -72,6 +72,7 @@ AIMCo is part of the Canadian pension-model cluster — in-house capability, pri
 
 ## Related
 
+- [Alberta Heritage Savings Trust Fund](/alberta-heritage-savings-trust-fund/)
 - [CPP Investments, explained](/cpp-investments-explained/)
 - [PSP Investments, explained](/psp-investments-canada-explained/)
 - [BCI](/bci-british-columbia-investment-management/)

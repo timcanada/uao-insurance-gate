@@ -40,6 +40,7 @@ Use official portals via [Careers](/careers/). Confirm on aimco.ca.
 ## Related
 
 - [AIMCo, explained](/aimco-alberta-investment-management-corporation/)
+- [Alberta Heritage Savings Trust Fund](/alberta-heritage-savings-trust-fund/)
 - [Relocating to Luxembourg](/careers/cities/luxembourg/)
 - [Relocating to Toronto](/careers/cities/toronto/)
 - [Why London satellites fail](/careers/intelligence/why-london-satellites-fail/)

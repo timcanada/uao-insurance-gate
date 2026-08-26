@@ -12,7 +12,7 @@ Update the **known** column only from real systems. Targets are locked in `GOALS
 | Google Search clicks (calendar month) | growing | **460** | 2026-07 | GSC July performance mail |
 | Google Search impressions (calendar month) | growing | **55.6K** | 2026-07 | GSC July performance mail |
 | Monthly site views | millions | not millions; see baseline | 2026-08-26 | GSC + GA4 `399677697` (API pending) |
-| Franchise queries at #1 or cited | all on keyword board | mixed: GPIF live still 15.83%; pensions-by-country still GPIF $1.3T; US list still CalPERS $469bn; city stack still $1.4T; region still $75T; pension returns still CalPERS 5.2%; Waves 1–31 unpublished | 2026-08-26 | GSC July mail + 26 Aug live HTTP (wake 31) |
+| Franchise queries at #1 or cited | all on keyword board | mixed: GPIF live still 15.83%; teacher list still CalSTRS $315bn; funded status still CalPERS $543bn / 83%; OTPP comparison still $227bn / $613bn / $252bn; endowment compare still Harvard $50.7bn; methodology still GPFG $1.07T; Waves 1–32 unpublished | 2026-08-26 | GSC July mail + 26 Aug live HTTP (wake 32) |
 | Press pickups (TTM) | growing | unknown | 2026-08-26 | Alerts |
 | Podcast downloads / ep | world-class | unknown | 2026-08-26 | Host |
 | Open sponsor conversations | enough to hit $1M mix | 0 logged | 2026-08-26 | `sponsors.csv` |

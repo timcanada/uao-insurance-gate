@@ -137,6 +137,11 @@ P1,largest US public pension funds,allocator,both,/largest-us-public-pension-fun
 P1,SWF capital by city,allocator,both,/sovereign-wealth-fund-capital-by-city/,list,unknown,unknown,unknown,refresh-drafted,Live GIC+Temasek $1.4T / ADIA $950bn. Official no combined city AUM. Wave 31
 P1,largest asset owners by region,allocator,both,/largest-asset-owners-by-region/,list,unknown,unknown,unknown,refresh-drafted,Live APAC $75T / NA $70T / Europe $45T. No official regional pile. Wave 31
 P1,pension fund returns 2025,allocator,both,/pension-fund-returns-2025/,list,unknown,unknown,unknown,refresh-drafted,Live CalPERS $514bn / 5.2%. Official $637.1bn / 14.8%. 301 comparison twin. Wave 31
+P1,teacher pension funds USA,allocator,both,/teacher-pension-funds-usa/,list,unknown,unknown,unknown,refresh-drafted,Live CalSTRS $315bn / $2T pile. Official $415.4bn. 301 largest twin. Wave 32
+P1,public pension funded status 2026,allocator,both,/public-pension-funded-status-2026/,define,unknown,unknown,unknown,refresh-drafted,Live CalPERS $543bn / 83% / $4.2T pile. Official $637.1bn / 85%. Wave 32
+P1,OTPP vs CPP vs OMERS,allocator,both,/otpp-vs-cpp-investments-vs-omers/,compare,unknown,unknown,unknown,refresh-drafted,Live OTPP $227bn / CPP $613bn / OMERS $252bn. Official C$303.2bn / C$793.3bn / $145.2bn. Wave 32
+P1,pension vs endowment vs foundation,allocator,both,/pension-fund-vs-endowment-vs-foundation/,compare,unknown,unknown,unknown,refresh-drafted,Live Harvard $50.7bn / CalPERS $440bn / OTPP $249bn. Official $56.9bn / $637.1bn / C$303.2bn. Wave 32
+P1,how we rank asset owners,allocator,both,/how-we-rank-asset-owners-methodology/,define,unknown,unknown,unknown,refresh-drafted,Live GPFG NOK 11.46T / $1.07T / CalPERS $460bn. Official kroner. 301 methodology twin. Wave 32
 P2,what is an OCIO,allocator,both,/what-is-an-ocio/,define,unknown,unknown,unknown,live-check,
 P2,single family office vs multi family office,allocator,both,/single-vs-multi-family-office/,define,unknown,unknown,unknown,live-check,
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,live-check,

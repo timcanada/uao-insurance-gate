@@ -1,5 +1,29 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 32: CalSTRS $315bn; CalPERS 83%; OTPP $227bn; Harvard $50.7bn; GPFG $1.07T
+
+**Queries / URLs:** `/teacher-pension-funds-usa/`, `/public-pension-funded-status-2026/`, `/otpp-vs-cpp-investments-vs-omers/`, `/pension-fund-vs-endowment-vs-foundation/`, `/how-we-rank-asset-owners-methodology/`.
+
+**What was wrong on the live site:**
+
+- Teacher list invents CalSTRS **$315bn / $312bn**, a **$2T** educator pile, Illinois **$51bn / $70bn**, NYSTRS **$220bn**, Texas TRS **$200bn**. Twin invents **$740bn** top-three, CalSTRS **$310bn**, NASRA **$3.2T**. Official: CalSTRS **$415.4bn**. Texas TRS **$225.3bn**.
+- Funded-status invents CalPERS **$543bn / 83%**, PPD **$4.2T / $4.7T**, TIAA **$343bn** as a state plan. Official: CalPERS **$637.1bn / 85%**. CalSTRS funded **79.3%** at **30 June 2025**.
+- OTPP vs CPP vs OMERS invents **$227bn / $613bn / $252bn**. Official: OTPP **C$303.2bn**. CPP **C$793.3bn**. OMERS live institution already **$145.2bn** — not overwritten.
+- Pension vs endowment invents Harvard **$50.7bn**, CalPERS **$440bn**, OTPP **$249bn**, Yale **$41.4bn**, CPP **$550bn**. Official: Harvard **$56.9bn**. CalPERS **$637.1bn**. OTPP **C$303.2bn**. Yale **$44.1bn**.
+- Methodology converts GPFG **NOK 11.46T** into **$1.07T** and reprints CalPERS **$460bn**. Twin invents GPFG **$1.41T**, ADIA **$147.8bn**, regional **$15T / $10T / $8T**, climate **$130T**. Official: GPFG **kroner**. Do not dollarize.
+
+**Confirmed still unpublished:** Waves 1–32. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00**. Newer zero-delivery alert **26 Aug 13:35 UTC**. Do not ping support.
+
+**Shipped (Wave 32):** five overwrites. No new slugs. Publisher default waves now include 32. Queued 301s: teacher largest twin; methodology short; `/texas-trs-pension/`; both Florida pension leftovers; `/turkey-wealth-fund-twf/`.
+
+**Refused:** ICD YE2025 PDF. Dollarizing GPFG / NPS / ADIA / GIC. Overwriting OMERS / ADIA short / QIA portfolio / Alaska / GPIF / CIC keepers. Minting `/texas-trs/`, `/florida-sba/`, or `/harvard-endowment-explained/`. Fetching Illinois TRS / NYSTRS / PPD / Gates / TIAA leftover dollars.
+
+**Access:** Secrets re-requested. `GHOST_ADMIN_API_KEY` and `GOOGLE_SERVICE_ACCOUNT_JSON` still UNSET.
+
+**Next wake must:** Paste 5 → 32. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another teacher-list / funded-status / OTPP-vs-CPP-vs-OMERS / pension-vs-endowment / methodology synonym. Highest-harm leftovers now: `/canada-pension-system-explained/` (**$500bn / $2T / $531.3bn**); `/corporate-pension-funds-explained/` (CalPERS **$469bn** / CalSTRS **$315bn**); `/endowment-model-vs-total-portfolio/` (Harvard **$50.9bn** / GPFG **$1.38T** / Yale **$41.4bn**); `/in-house-vs-external-management-pensions/` (CalPERS **$465bn** / CPP **$616bn**); `/latin-american-pension-funds/` (**$2T / $2.7T**). GPIF **15.83%** / Alaska **$89bn** / CIC **$1.3T** remain unpublished keepers.
+
 ## 2026-08-26 — Wake 31: pensions-by-country $1.3T; US list $469bn; city $1.4T stack; region $75T; CalPERS 5.2%
 
 **Queries / URLs:** `/largest-public-pension-funds-by-country/`, `/largest-us-public-pension-funds/`, `/sovereign-wealth-fund-capital-by-city/`, `/largest-asset-owners-by-region/`, `/pension-fund-returns-2025/`.

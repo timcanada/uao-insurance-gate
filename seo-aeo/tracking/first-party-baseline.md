@@ -68,7 +68,7 @@ That is roughly **25 Google clicks/day** in mid-August — not millions of month
 - 17 Aug 2026: **2 Profile page structured data** issues
 - Earlier: 404s, duplicates, “alternate page with proper canonical,” one “Indexed, though blocked by robots.txt”
 
-Wave 1–4 slugs that 404 will sit in that 4xx bucket until Ghost publish. Rechecked 26 Aug wake 31: `/directory/` still 404. Waves 5–31 keepers still return 200 with pre-refresh copy (GPIF live return still 15.83%; CIC explained still $1.3T; pensions-by-country still GPIF $1.3T / $7T; US list still CalPERS $469bn; city stack still GIC+Temasek $1.4T; region still $75T; pension returns still CalPERS 5.2%). No newer Search Impact mail than 700 clicks / 28 days to 18 Aug. Newest named Ghost signup: Brett Morgan (26 Aug 12:24 UTC). MailAdx still mailing wallet $0.00.
+Wave 1–4 slugs that 404 will sit in that 4xx bucket until Ghost publish. Rechecked 26 Aug wake 32: `/directory/` still 404. Waves 5–32 keepers still return 200 with pre-refresh copy (GPIF live return still 15.83%; CIC explained still $1.3T; teacher list still CalSTRS $315bn; funded status still CalPERS $543bn / 83%; OTPP comparison still $227bn / $613bn / $252bn; endowment compare still Harvard $50.7bn; methodology still GPFG $1.07T). No newer Search Impact mail than 700 clicks / 28 days to 18 Aug. Newest named Ghost signup: Brett Morgan (26 Aug 12:24 UTC). MailAdx still mailing wallet $0.00; newer zero-delivery alert 26 Aug 13:35 UTC.
 
 ## Analytics — June 2–29 2026 (official performance mail)
 

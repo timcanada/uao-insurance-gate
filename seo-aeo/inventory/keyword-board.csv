@@ -527,5 +527,10 @@ P1,South Carolina Retirement Systems,allocator,both,/south-carolina-retirement-s
 P1,Minnesota SBI,allocator,both,/minnesota-sbi/,define,unknown,unknown,unknown,drafted-wave-110,Wave 110. Official Total $155,859.3 million at 30 Jun 2025. Do not mint /msbi/
 P1,Nevada PERS,allocator,both,/nevada-pers/,define,unknown,unknown,unknown,drafted-wave-110,Wave 110. Official $70,797,644,282 at 30 Jun 2025. Do not mint /nvpers/
 P1,Utah Retirement Systems,allocator,both,/utah-retirement-systems/,define,unknown,unknown,unknown,drafted-wave-110,Wave 110. Official Total $65,271,016 thousand at 31 Dec 2025. Do not mint /utah-urs/
+P1,Texas ERS,allocator,both,/texas-ers/,define,unknown,unknown,unknown,drafted-wave-111,Wave 111. Official total FNP $43,165,849,614 at 31 Aug 2025. Do not mint /texas-ers-explained/
+P1,Ohio SERS,allocator,both,/ohio-sers/,define,unknown,unknown,unknown,drafted-wave-111,Wave 111. Official Total $21,081,732,005 at 30 Jun 2025. Do not mint /ohio-sers-explained/
+P1,Louisiana TRSL,allocator,both,/louisiana-trsl/,define,unknown,unknown,unknown,drafted-wave-111,Wave 111. Official $29,334,227,630 at 30 Jun 2025. Do not mint /trsl/
+P1,Oklahoma OPERS,allocator,both,/oklahoma-opers/,define,unknown,unknown,unknown,drafted-wave-111,Wave 111. Official Combined $13,351,556,235 at 30 Jun 2025. Do not mint /opers/
+P1,MOSERS,allocator,both,/missouri-mosers/,define,unknown,unknown,unknown,drafted-wave-111,Wave 111. Official $9,565,800,614 at 30 Jun 2025. Do not mint /mosers/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

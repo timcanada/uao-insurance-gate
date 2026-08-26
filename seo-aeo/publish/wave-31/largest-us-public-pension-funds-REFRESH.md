@@ -47,9 +47,14 @@ Last updated: 26 August 2026.
 | Minnesota SBI | Total Funds Under Management **$155,859.3 million** at **30 June 2025**. Combined Funds **$101,221.4 million**. | Leftover SWIB **$160 billion** |
 | Nevada PERS | Fiduciary net position **$70,797,644,282** at **30 June 2025**. Time-weighted **11.0 percent** gross. | Leftover MassPRIM **$73 billion** |
 | Utah Retirement Systems | Total Pension Trust Funds **$65,271,016 thousand** at **31 December 2025**. Defined Benefit **$53,294,659 thousand**. | Treating **$53.3 billion** as the total |
+| Texas ERS | Total fiduciary net position **$43,165,849,614** at **31 August 2025**. Employees Retirement Fund **$40,065,982,709**. | Glance **$42.6 billion** as FNP |
+| Ohio SERS | Total fiduciary net position **$21,081,732,005** at **30 June 2025**. Pension Trust Fund **$19,771,601,672**. | Leftover Ohio STRS **$80 billion+** |
+| Louisiana TRSL | Net Position Restricted for Pensions **$29,334,227,630** at **30 June 2025**. | Leftover Texas TRS **$295 billion** |
+| Oklahoma OPERS | Combined fiduciary net position **$13,351,556,235** at **30 June 2025**. Pension plan **$12,840,110,347**. | Leftover Ohio PERS **$46 billion** |
+| MOSERS | Fiduciary activities **$9,565,800,614** at **30 June 2025**. Missouri State Employees’ Plan **$9,354,041,911**. | Leftover MassPRIM **$73 billion** |
 | New York State Common / NYC constellation / Florida SBA / STRS Ohio | Not fetched as official this wake | **$241 billion**; **$267.6 billion**; **$250 billion**; **$230 billion** |
 
-Print the CalPERS and CalSTRS filings. OPERS, WSIB, PRIM, VRS, PSERS, New Jersey Division of Investment, Oregon PERS, the North Carolina Treasurer, LACERA, Pennsylvania SERS, Illinois TRS, ISBI, SFERS, MPSERS, Colorado PERA, TCRS, INPRS, Maryland SRPS, IPERS, Kentucky TRS, the South Carolina Retirement Systems, Minnesota SBI, Nevada PERS, and Utah Retirement Systems now have official institution pages. This desk did not fetch a current official print for New York State Common, the New York City constellation, Florida SBA, STRS Ohio, or the Michigan Treasurer combined SISTF book this wake. Do not reprint those leftovers as if they were today’s NAV. Do **not** mint `/florida-sba/` or `/texas-trs/` (404s). Do **not** mint `/opers/`, `/wsib/`, `/prim/`, `/vrs/`, `/psers/`, `/njdoi/`, `/operf/`, `/ncrs/`, `/lacera-explained/`, `/sers-pennsylvania/`, `/trs-illinois/`, `/isbi/`, `/sfers/`, `/mpsers/`, `/pera/`, `/tcrs/`, `/inprs/`, `/srps/`, `/ipers/`, `/kentucky-trs-explained/`, `/south-carolina-rsic/`, `/msbi/`, `/nvpers/`, or `/utah-urs/`.
+Print the CalPERS and CalSTRS filings. OPERS, WSIB, PRIM, VRS, PSERS, New Jersey Division of Investment, Oregon PERS, the North Carolina Treasurer, LACERA, Pennsylvania SERS, Illinois TRS, ISBI, SFERS, MPSERS, Colorado PERA, TCRS, INPRS, Maryland SRPS, IPERS, Kentucky TRS, the South Carolina Retirement Systems, Minnesota SBI, Nevada PERS, Utah Retirement Systems, Texas ERS, Ohio SERS, Louisiana TRSL, Oklahoma OPERS, and MOSERS now have official institution pages. This desk did not fetch a current official print for New York State Common, the New York City constellation, Florida SBA, STRS Ohio, or the Michigan Treasurer combined SISTF book this wake. Do not reprint those leftovers as if they were today’s NAV. Do **not** mint `/florida-sba/` or `/texas-trs/` (404s). Do **not** mint `/opers/`, `/wsib/`, `/prim/`, `/vrs/`, `/psers/`, `/njdoi/`, `/operf/`, `/ncrs/`, `/lacera-explained/`, `/sers-pennsylvania/`, `/trs-illinois/`, `/isbi/`, `/sfers/`, `/mpsers/`, `/pera/`, `/tcrs/`, `/inprs/`, `/srps/`, `/ipers/`, `/kentucky-trs-explained/`, `/south-carolina-rsic/`, `/msbi/`, `/nvpers/`, `/utah-urs/`, `/texas-ers-explained/`, `/ohio-sers-explained/`, `/trsl/`, `/oklahoma-opers-explained/`, or `/mosers/`.
 
 ## What the list can say
 
@@ -95,6 +100,11 @@ Print the CalPERS and CalSTRS filings. OPERS, WSIB, PRIM, VRS, PSERS, New Jersey
 - [Minnesota SBI](/minnesota-sbi/)
 - [Nevada PERS](/nevada-pers/)
 - [Utah Retirement Systems](/utah-retirement-systems/)
+- [Texas ERS](/texas-ers/)
+- [Ohio SERS](/ohio-sers/)
+- [Louisiana TRSL](/louisiana-trsl/)
+- [Oklahoma OPERS](/oklahoma-opers/)
+- [MOSERS](/missouri-mosers/)
 - [Largest public pensions by country](/largest-public-pension-funds-by-country/)
 - [Largest pension funds in the world](/largest-pension-funds-in-the-world/)
 - [What is a pension fund?](/what-is-a-pension-fund/)

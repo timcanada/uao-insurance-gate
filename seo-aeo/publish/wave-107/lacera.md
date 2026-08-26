@@ -53,5 +53,7 @@ Do not 301 this page onto `/calpers-explained-largest-us-pension-fund/`, `/calst
 - [Colorado PERA](/colorado-pera/)
 - [Nevada PERS](/nevada-pers/)
 - [INPRS](/indiana-inprs/)
+- [Ohio SERS](/ohio-sers/)
+- [Texas ERS](/texas-ers/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

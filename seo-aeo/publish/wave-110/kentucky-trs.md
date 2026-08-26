@@ -48,5 +48,6 @@ Do not 301 this page onto `/texas-teacher-retirement-system-explained/`, `/illin
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Texas TRS](/texas-teacher-retirement-system-explained/)
 - [Illinois TRS](/illinois-trs/)
+- [Louisiana TRSL](/louisiana-trsl/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

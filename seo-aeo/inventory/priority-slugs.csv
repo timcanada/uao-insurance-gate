@@ -148,6 +148,16 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,nvpers,Nevada PERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 110 /nevada-pers/
 110,institution,utah-retirement-systems,Utah Retirement Systems,allocator,brief,P0,drafted-in-repo,Wave 110. Official Total Pension Trust Funds $65,271,016 thousand at 31 Dec 2025. Do not mint /utah-urs/ or /urs/
 2,institution,utah-urs,Utah URS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 110 /utah-retirement-systems/
+111,institution,texas-ers,Texas ERS,allocator,brief,P0,drafted-in-repo,Wave 111. Official total FNP $43,165,849,614 at 31 Aug 2025. Do not mint /texas-ers-explained/ or /ers-texas/
+2,institution,texas-ers-explained,Texas ERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 111 /texas-ers/
+111,institution,ohio-sers,Ohio SERS,allocator,brief,P0,drafted-in-repo,Wave 111. Official Total $21,081,732,005 at 30 Jun 2025. Do not mint /ohio-sers-explained/ or /sers-ohio/
+2,institution,ohio-sers-explained,Ohio SERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 111 /ohio-sers/
+111,institution,louisiana-trsl,Louisiana TRSL,allocator,brief,P0,drafted-in-repo,Wave 111. Official $29,334,227,630 at 30 Jun 2025. Do not mint /trsl/ or /louisiana-trs/
+2,institution,trsl,Louisiana TRSL (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 111 /louisiana-trsl/
+111,institution,oklahoma-opers,Oklahoma OPERS,allocator,brief,P0,drafted-in-repo,Wave 111. Official Combined $13,351,556,235 at 30 Jun 2025. Do not mint /oklahoma-opers-explained/ or /opers/
+2,institution,oklahoma-opers-explained,Oklahoma OPERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 111 /oklahoma-opers/
+111,institution,missouri-mosers,MOSERS,allocator,brief,P0,drafted-in-repo,Wave 111. Official $9,565,800,614 at 30 Jun 2025. Do not mint /mosers/ or /missouri-mosers-explained/
+2,institution,mosers,MOSERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 111 /missouri-mosers/
 2,institution,teacher-retirement-system-of-texas-cio,TRS Texas CIO office,allocator,brief,P0,needed,Public pension
 2,institution,cpp-vs-otpp-vs-cdpq,The Canadian large-plan triangle,allocator,brief,P0,needed,Comparison
 105,institution,unjspf,UNJSPF,allocator,brief,P0,drafted-in-repo,Wave 105. Official $107,533,052 thousand net assets at 31 Dec 2025. Do not mint /unjps-united-nations/ or /united-nations-joint-staff-pension-fund/

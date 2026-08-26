@@ -477,5 +477,10 @@ P1,form pf vs n-px,allocator,both,/what-is-form-pf-vs-n-px/,compare,unknown,unkn
 P1,what is look-through risk,allocator,both,/what-is-look-through-risk/,define,unknown,unknown,unknown,drafted-wave-100,Wave 100. Solvency II Art 84. Not OFAC 50%
 P1,what is a co-invest committee,allocator,both,/what-is-a-co-invest-committee/,define,unknown,unknown,unknown,drafted-wave-100,Wave 100. CalPERS PE delegation. Do not 301 onto co-investment define
 P1,australian super vs us public plans,allocator,both,/how-do-australian-supers-differ-from-us-public-plans/,compare,unknown,unknown,unknown,drafted-wave-100,Wave 100. SG 12% + Payday Super vs ERISA governmental exclusion
+P1,what is a pension journey plan,allocator,both,/what-is-a-journey-plan/,define,unknown,unknown,unknown,drafted-wave-101,Wave 101. TPR DB funding code. Do not 301 onto LDI / PRT / de-risking
+P1,what is an afore,allocator,both,/what-is-an-afore/,define,unknown,unknown,unknown,drafted-wave-101,Wave 101. Ley del SAR Arts 18/20/39. Not FMP. Do not mint /afore-xxi-banorte/
+P1,how do latin american afps invest,allocator,both,/how-do-latam-pension-afps-invest/,define,unknown,unknown,unknown,drafted-wave-101,Wave 101. Chile multifondos A-E bands + Law 21.735. Not a LatAm AUM pile
+P1,what is a golden share,allocator,both,/what-is-golden-share/,define,unknown,unknown,unknown,drafted-wave-101,Wave 101. CA 2006 notes + ECJ C-98/01 BAA 15%. Not NSI / CFIUS
+P1,national security screen on a deal,allocator,both,/what-is-a-national-security-screen-on-a-deal/,define,unknown,unknown,unknown,drafted-wave-101,Wave 101. UK NSI Act 4 Jan 2022 / 17 areas / void. Do not 301 onto CFIUS
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

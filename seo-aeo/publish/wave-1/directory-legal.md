@@ -48,6 +48,8 @@ See [Advertise](/advertise/) and the [Directory](/directory/).
 - [The Santiago Principles](/santiago-principles/)
 - [How sanctions change a family-office bank](/how-do-sanctions-change-a-family-office-bank/)
 - [How sovereign wealth funds think about sanctions](/how-do-swfs-think-about-sanctions/)
+- [What is a golden share?](/what-is-golden-share/)
+- [What is a national security screen on a deal?](/what-is-a-national-security-screen-on-a-deal/)
 - How a pension actually retains counsel *(companion piece in this wave)*
 
 ## Listings

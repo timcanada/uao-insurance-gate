@@ -45,6 +45,8 @@ The twin [`/latin-american-pension-funds-overview/`](/latin-american-pension-fun
 
 ## Related on Universal Asset Owners
 
+- [What is an Afore?](/what-is-an-afore/)
+- [How Latin American AFPs invest](/how-do-latam-pension-afps-invest/)
 - [What is a pension fund?](/what-is-a-pension-fund/)
 - [Public pension funds](/public-pension-funds/)
 - [Largest pension funds in the world](/largest-pension-funds-in-the-world/)

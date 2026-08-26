@@ -50,6 +50,8 @@ The Santiago keeper is [`/santiago-principles/`](/santiago-principles/). See [Ad
 ## Related
 
 - [How sanctions change a family-office bank](/how-do-sanctions-change-a-family-office-bank/)
+- [What is a golden share?](/what-is-golden-share/)
+- [What is a national security screen on a deal?](/what-is-a-national-security-screen-on-a-deal/)
 - [The Santiago Principles](/santiago-principles/)
 - [What is a sovereign wealth fund?](/sovereign-wealth-fund/)
 - [What is a development finance institution?](/what-is-a-development-finance-institution/)

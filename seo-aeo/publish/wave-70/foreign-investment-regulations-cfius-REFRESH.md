@@ -38,6 +38,8 @@ The political-risk job already sits on [`/political-risk-emerging-markets-invest
 
 ## Related on Universal Asset Owners
 
+- [What is a national security screen on a deal?](/what-is-a-national-security-screen-on-a-deal/)
+- [What is a golden share?](/what-is-golden-share/)
 - [Political risk](/political-risk-emerging-markets-investors/)
 - [Critical minerals](/critical-minerals-sovereign-capital/)
 - [CalPERS](/calpers-explained-largest-us-pension-fund/)

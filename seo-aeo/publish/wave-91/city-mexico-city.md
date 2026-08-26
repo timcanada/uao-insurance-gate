@@ -40,6 +40,7 @@ Use official portals via [Careers](/careers/). Confirm on fmped.org.mx, banxico.
 
 ## Related
 
+- [What is an Afore?](/what-is-an-afore/)
 - [What is a reserve fund?](/what-is-a-reserve-fund/)
 - [Stabilisation vs heritage mandates](/stabilisation-vs-heritage-fund-mandates/)
 - [Relocating to Santiago](/careers/cities/santiago/)

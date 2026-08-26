@@ -45,6 +45,8 @@ The [consulting-OCIO directory](/directory/consulting-ocio/) is the category map
 ## Related
 
 - [What is a superannuation trustee?](/what-is-a-superannuation-trustee/)
+- [What is an Afore?](/what-is-an-afore/)
+- [How Latin American AFPs invest](/how-do-latam-pension-afps-invest/)
 - [Australia superannuation system](/australia-superannuation-system-explained/)
 - [What is an administrator for a pension plan?](/what-is-an-administrator-for-a-pension-plan/)
 - [What is a pension fund?](/what-is-a-pension-fund/)

@@ -73,6 +73,7 @@ Live events-page leftover: USS at **$78 billion**. Dead. Use sterling.
 - [Reference portfolio](/reference-portfolio-explained/)
 - [Total portfolio approach](/total-portfolio-approach/)
 - [What is a pension fund?](/what-is-a-pension-fund/)
+- [What is a UK pension journey plan?](/what-is-a-journey-plan/)
 - [CalPERS](/calpers-explained-largest-us-pension-fund/)
 
 ## Sources

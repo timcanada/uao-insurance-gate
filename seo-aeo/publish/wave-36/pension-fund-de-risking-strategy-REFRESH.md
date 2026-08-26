@@ -47,6 +47,7 @@ Leveraged LDI and the 2022 gilt episode already sit on [`/liability-driven-inves
 ## Related on Universal Asset Owners
 
 - [Liability-driven investing](/liability-driven-investing-explained/)
+- [What is a UK pension journey plan?](/what-is-a-journey-plan/)
 - [PFZW](/pfzw-netherlands-pension-fund-explained/)
 - [ABP](/abp-netherlands-pension-fund-explained/)
 - [CDPQ](/cdpq-explained/)

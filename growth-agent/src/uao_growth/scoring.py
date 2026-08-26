@@ -35,6 +35,7 @@ TITLE_RULES: tuple[tuple[int, str, str], ...] = (
     (92, "investment_committee_chair", r"\b(chair(man|woman|person)? of the investment committee|investment committee chair)\b"),
     (90, "family_principal", r"\b(principal|patriarch|matriarch|family principal|beneficial owner)\b"),
     (89, "managing_partner", r"\b(managing partner|senior managing director|general partner|\bgp\b)\b"),
+    (88, "president", r"\b(?<!vice )president\b"),
     (88, "head_private_markets", r"\bhead of (private markets|private equity|alternatives|real assets|infrastructure|private credit|external managers)\b"),
     (86, "head_allocation", r"\bhead of (asset allocation|total portfolio|portfolio construction|public markets|capital markets)\b"),
     (85, "cro_cso", r"\b(chief risk officer|\bcro\b|chief strategy officer|chief investment strategist|head of stewardship)\b"),

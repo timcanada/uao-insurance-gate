@@ -38,6 +38,7 @@ def cmd_status(settings: Settings, store: Store) -> int:
         "organizations": store.count("organizations"),
         "people": store.count("people"),
         "suppressed_people": store.count("people", "status = 'suppressed'"),
+        "named_people": store.count("people", "name IS NOT NULL AND name != ''"),
         "exportable": store.count("people", "status = 'exportable'"),
         "exported": store.count("people", "status = 'exported'"),
         "role_targets": store.count("people", "status = 'role_target'"),
@@ -68,7 +69,7 @@ def main(argv: list[str] | None = None) -> int:
     sub.add_parser("pull-ghost-members", help="Pull members from Ghost Admin API into the exclusion list")
 
     p_disc = sub.add_parser("discover", help="Find institutions and named senior roles from public records")
-    p_disc.add_argument("--sources", default="seeds,wikidata,sec_edgar,sec_iapd")
+    p_disc.add_argument("--sources", default="seeds,wikidata,wikipedia,sec_edgar,sec_iapd")
 
     p_en = sub.add_parser("enrich", help="Fill names/work emails via the official Apollo API")
     p_en.add_argument("--limit", type=int, default=200)
@@ -77,7 +78,7 @@ def main(argv: list[str] | None = None) -> int:
     p_val.add_argument("--limit", type=int, default=500)
 
     p_week = sub.add_parser("weekly", help="Import members, discover, enrich, export one week of new prospects")
-    p_week.add_argument("--sources", default="seeds,wikidata,sec_edgar,sec_iapd")
+    p_week.add_argument("--sources", default="seeds,wikidata,wikipedia,sec_edgar,sec_iapd")
     p_week.add_argument("--members", help="Ghost/CSV member export used as the exclusion list")
     p_week.add_argument(
         "--public-only",

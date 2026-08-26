@@ -7,7 +7,7 @@ from typing import Any
 from uao_growth.config import Settings
 from uao_growth.enrichers.apollo import ApolloClient
 from uao_growth.enrichers.neverbounce import NeverBounceClient
-from uao_growth.export.csv_export import export_week, write_report
+from uao_growth.export.csv_export import export_named_inventory, export_week, write_report
 from uao_growth.http import HttpClient
 from uao_growth.learning import recompute_weights
 from uao_growth.members.ghost import pull_ghost_members
@@ -305,7 +305,13 @@ def weekly(
     marked = mark_exportable(settings, store)
     stamp = started.replace(":", "").replace("-", "")[:15]
     csv_path = settings.exports_dir / f"week-{stamp}-prospects.csv"
-    exported = export_week(store, csv_path, settings.weekly_quota)
+    if public_only:
+        exported = export_named_inventory(store, csv_path, settings.weekly_quota)
+        inventory_path = settings.exports_dir / "public-named-inventory.csv"
+        export_named_inventory(store, inventory_path, settings.weekly_quota)
+        exported["inventory"] = str(inventory_path)
+    else:
+        exported = export_week(store, csv_path, settings.weekly_quota)
     stats = {
         "started": started,
         "members": member_stats,

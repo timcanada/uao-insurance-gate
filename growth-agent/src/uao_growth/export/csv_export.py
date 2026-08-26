@@ -8,11 +8,20 @@ from pathlib import Path
 from uao_growth.store import Store
 
 
-def export_week(store: Store, path: Path, limit: int) -> dict[str, int]:
+def export_week(
+    store: Store,
+    path: Path,
+    limit: int,
+    *,
+    mark_exported: bool = True,
+    include_exported: bool = False,
+) -> dict[str, int]:
+    statuses = "('exportable', 'exported')" if include_exported else "('exportable')"
     rows = store.fetchall(
-        """
+        f"""
         SELECT * FROM people
-        WHERE status = 'exportable'
+        WHERE status IN {statuses}
+          AND name IS NOT NULL AND name != ''
           AND (member_match IS NULL OR member_match = '')
         ORDER BY seniority DESC, fit_score DESC, id ASC
         LIMIT ?
@@ -60,8 +69,14 @@ def export_week(store: Store, path: Path, limit: int) -> dict[str, int]:
                     "consent_status": "prospect_not_subscribed",
                 }
             )
-            store.update_person(int(row["id"]), status="exported")
-    return {"exported": len(rows), "path": str(path)}
+            if mark_exported:
+                store.update_person(int(row["id"]), status="exported")
+    return {"exported": len(rows), "path": str(path), "marked_exported": int(mark_exported)}
+
+
+def export_named_inventory(store: Store, path: Path, limit: int) -> dict[str, int]:
+    """Write named seniors without consuming them. Used for public-only runs."""
+    return export_week(store, path, limit, mark_exported=False, include_exported=True)
 
 
 def write_report(store: Store, path: Path, stats: dict) -> Path:
@@ -72,6 +87,7 @@ def write_report(store: Store, path: Path, stats: dict) -> Path:
     suppressed = store.count("people", "status = 'suppressed'")
     exportable = store.count("people", "status = 'exportable'")
     exported = store.count("people", "status = 'exported'")
+    named = store.count("people", "name IS NOT NULL AND name != ''")
     orgs = store.count("organizations")
     weights = store.fetchall("SELECT * FROM source_weights ORDER BY weight DESC")
     top = store.fetchall(
@@ -119,6 +135,7 @@ th,td{{border-bottom:1px solid #1d2e44;text-align:left;padding:8px 10px;font-siz
   <div class="card"><span class="muted">Organizations</span><b>{orgs:,}</b></div>
   <div class="card"><span class="muted">People / roles</span><b>{people:,}</b></div>
   <div class="card"><span class="muted">Blocked as members</span><b>{suppressed:,}</b></div>
+  <div class="card"><span class="muted">Named people</span><b>{named:,}</b></div>
   <div class="card"><span class="muted">Exportable</span><b>{exportable:,}</b></div>
   <div class="card"><span class="muted">Exported</span><b>{exported:,}</b></div>
 </div>

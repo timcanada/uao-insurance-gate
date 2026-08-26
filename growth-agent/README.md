@@ -27,11 +27,12 @@ Optional: set `GHOST_ADMIN_API_KEY` and run `pull-ghost-members` to refresh the 
 Public records and official APIs only:
 
 - Curated UAO desk list (SWFs, pensions, endowments, family offices, PE, insurers, Big Four, finance ministries, flagship events)
-- Wikidata (sovereign wealth funds, large pensions, sitting finance ministers)
-- SEC EDGAR full-text search (13F managers)
+- Wikidata (sovereign wealth funds, large pensions, sitting finance ministers, CIO occupation)
+- Wikipedia MediaWiki API (current finance ministers + infobox leaders of seed institutions)
+- SEC EDGAR full-text search (13F managers) and 13F signature blocks (named CIOs/CFOs/CEOs)
 - SEC IAPD / Form ADV firm search
-- Apollo people search + match, if `APOLLO_API_KEY` is set
-- Neverbounce, if `NEVERBOUNCE_API_KEY` is set
+- Apollo people search + match, if `APOLLO_API_KEY` is set — use later to fill work emails
+- Neverbounce, if `NEVERBOUNCE_API_KEY` is set — use later to verify contacts
 
 It does not scrape Apollo’s UI, LinkedIn, or login-walled attendee lists.
 

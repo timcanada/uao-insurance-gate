@@ -7,8 +7,9 @@ from uao_growth.http import HttpClient
 from uao_growth.sources.sec_edgar import fetch_iapd, fetch_sec
 from uao_growth.sources.seeds import load_seed_orgs, role_targets_from_orgs, seed_people_from_orgs
 from uao_growth.sources.wikidata import fetch_wikidata
+from uao_growth.sources.wikipedia import fetch_wikipedia
 
-SOURCE_NAMES = ("seeds", "wikidata", "sec_edgar", "sec_iapd")
+SOURCE_NAMES = ("seeds", "wikidata", "wikipedia", "sec_edgar", "sec_iapd")
 
 
 def run_sources(
@@ -19,20 +20,18 @@ def run_sources(
     wanted = set(selected or SOURCE_NAMES)
     orgs: list[dict[str, Any]] = []
     people: list[dict[str, Any]] = []
+    seeds = load_seed_orgs(settings.seeds_dir)
 
     runners: dict[str, Callable[[], dict[str, list[dict[str, Any]]]]] = {
         "seeds": lambda: {
-            "organizations": load_seed_orgs(settings.seeds_dir),
-            "people": seed_people_from_orgs(load_seed_orgs(settings.seeds_dir)),
+            "organizations": seeds,
+            "people": seed_people_from_orgs(seeds),
         },
         "wikidata": lambda: fetch_wikidata(
             client,
-            seed_names=[
-                org["name"]
-                for org in load_seed_orgs(settings.seeds_dir)
-                if int(org.get("priority") or 0) >= 90
-            ],
+            seed_orgs=[org for org in seeds if int(org.get("priority") or 0) >= 80],
         ),
+        "wikipedia": lambda: fetch_wikipedia(client, seeds),
         "sec_edgar": lambda: fetch_sec(client),
         "sec_iapd": lambda: fetch_iapd(client),
     }

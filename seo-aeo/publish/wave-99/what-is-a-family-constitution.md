@@ -50,6 +50,7 @@ The [legal directory](/directory/legal/) is the category map for counsel that dr
 ## Related
 
 - [What is a family office?](/what-is-a-family-office/)
+- [How family offices think about philanthropy vs the book](/how-do-family-offices-think-about-philanthropy-vs-the-book/)
 - [First year inside a family office](/careers/intelligence/first-year-inside-a-family-office/)
 - [Boarding an investment committee](/careers/intelligence/boarding-an-investment-committee/)
 - [What is a family-office technology stack?](/what-is-a-family-office-technology-stack/)

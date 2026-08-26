@@ -55,7 +55,7 @@ The largest multi-generational offices allocate like institutions: private marke
 
 ## For people who sell to family offices
 
-If you are counsel, tax, cyber, or a bank, you are selling discretion and process, not a booth. Labelled presence: [how to advertise to this room](/advertise-to-asset-owners/). We will not recommend a firm on this page.
+If you are counsel, tax, cyber, or a bank, you are selling discretion and process, not a booth. Philanthropy versus the book is a separate legal-person file: [how family offices think about philanthropy vs the book](/how-do-family-offices-think-about-philanthropy-vs-the-book/). Labelled presence: [how to advertise to this room](/advertise-to-asset-owners/). We will not recommend a firm on this page.
 
 ## FAQ
 

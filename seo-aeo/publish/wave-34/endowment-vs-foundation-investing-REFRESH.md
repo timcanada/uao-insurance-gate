@@ -43,6 +43,7 @@ This URL is the **endowment-vs-foundation** job. The three-form comparison alrea
 
 ## Related on Universal Asset Owners
 
+- [How family offices think about philanthropy vs the book](/how-do-family-offices-think-about-philanthropy-vs-the-book/)
 - [Yale endowment model](/yale-endowment-model/)
 - [Endowment model](/endowment-model-explained/)
 - [Largest university endowments](/largest-university-endowments-2026/)

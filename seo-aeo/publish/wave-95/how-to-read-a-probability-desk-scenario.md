@@ -52,6 +52,7 @@ Live [membership](/membership/) describes the Probability Desk as a premium scen
 
 - [The Probability Desk](/probability-desk/)
 - [What is a tripwire in scenario analysis?](/what-is-a-tripwire-in-scenario-analysis/)
+- [What is a chokepoint for a universal owner?](/what-is-a-chokepoint-for-a-universal-owner/)
 - [Methodology](/methodology/)
 - [Membership](/membership/)
 - [What is a Strategic Council membership?](/what-is-a-strategic-council-membership-for-asset-owners/)

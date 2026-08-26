@@ -48,6 +48,7 @@ The endowment-model category is [the endowment model](/endowment-model-explained
 
 ## Related
 
+- [How family offices think about philanthropy vs the book](/how-do-family-offices-think-about-philanthropy-vs-the-book/)
 - [Endowment model](/endowment-model-explained/)
 - [Yale endowment model](/yale-endowment-model/)
 - [Estimated sustainable income rule](/estimated-sustainable-income-rule-explained/)

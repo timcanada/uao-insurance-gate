@@ -49,6 +49,7 @@ Boards that want the private re-score after a major geopolitical event are on [S
 ## Related
 
 - [How to read a Probability Desk scenario](/how-to-read-a-probability-desk-scenario/)
+- [What is a chokepoint for a universal owner?](/what-is-a-chokepoint-for-a-universal-owner/)
 - [The Probability Desk](/probability-desk/)
 - [Methodology](/methodology/)
 - [Membership](/membership/)

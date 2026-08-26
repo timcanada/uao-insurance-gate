@@ -45,6 +45,7 @@ Print dollars for CalPERS and OMERS. Print Canadian dollars for OTPP. Print Sing
 
 ## Related on Universal Asset Owners
 
+- [How owners underwrite ports](/how-do-owners-underwrite-ports/)
 - [Infrastructure as an asset class](/infrastructure-as-an-asset-class/)
 - [AI infrastructure as an asset class](/ai-infrastructure-as-an-asset-class/)
 - [PE vs private credit vs infrastructure](/private-equity-vs-private-credit-vs-infrastructure/)

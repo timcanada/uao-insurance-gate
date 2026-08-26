@@ -48,6 +48,7 @@ We write the owner’s side. An insurer general account is owner-adjacent capita
 
 - [What is a pension fund?](/what-is-a-pension-fund/)
 - [What is look-through risk?](/what-is-look-through-risk/)
+- [How does insurance close a strait?](/how-does-insurance-close-a-strait/)
 - [Solvency II](/solvency-ii-explained/)
 - [SWF vs pension](/sovereign-wealth-fund-vs-pension-fund/)
 - [What is a development finance institution?](/what-is-a-development-finance-institution/)

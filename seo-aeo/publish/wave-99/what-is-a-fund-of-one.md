@@ -50,6 +50,7 @@ The [custody-administration directory](/directory/custody-administration/) is th
 
 ## Related
 
+- [How owners think about IPO allocations](/how-do-owners-think-about-ipo-allocations/)
 - [SMAs for institutions](/separately-managed-account-institutional/)
 - [What is a consultant database?](/what-is-a-consultant-database/)
 - [How owners pick a custodian](/how-do-owners-pick-a-custodian/)

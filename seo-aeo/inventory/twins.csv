@@ -27,11 +27,11 @@ P1,/russia-national-wealth-fund-explained/,/russia-national-wealth-fund/,institu
 P1,/australian-retirement-trust-explained/,/australian-retirement-trust/,institution,200/200,Wave 10 overwrites explained (A$350.694bn at 30 Jun 2025; live invented a 2024 LG Super merger)
 P1,/new-york-state-common-retirement-fund-explained/,/new-york-state-common-retirement-fund/,institution,200/200,Wave 10 overwrites explained ($295.4bn FY / $309.7bn Q1; live still $226.8bn)
 P1,/texas-permanent-school-fund-explained/,/texas-permanent-school-fund/,institution,200/200,Wave 10 overwrites explained ($60.6bn at 31 Aug 2025; live $8.3bn is harmful)
-P2,/reference-portfolio-explained/,/what-is-a-reference-portfolio/,define,200/200,/reference-portfolio/ already 404
-P2,/yale-endowment-model/,/what-is-the-yale-endowment-model/,define,200/200,
+P2,/reference-portfolio-explained/,/what-is-a-reference-portfolio/,define,200/200,Wave 14 overwrites keeper (CalPERS 75/25 live 1 Jul 2026); /reference-portfolio/ already 404 — 301 what-is after paste
+P2,/yale-endowment-model/,/what-is-the-yale-endowment-model/,define,200/200,Wave 14 overwrites keeper ($44.1bn / 11.1% at 30 Jun 2025; live still $41.4bn Jun 2023) — 301 what-is after paste
 P2,/liability-driven-investing-explained/,/what-is-liability-driven-investing/,define,200/200,
-P2,/future-generations-fund/,/what-is-a-future-generations-fund/,define,200/200,/future-generations-funds/ (plural) is 404 and still listed on /llms/
-P2,/strategic-investment-fund/,/what-is-a-strategic-investment-fund/,define,200/200,/strategic-investment-funds/ (plural) is 404 and still listed on /llms/
+P2,/future-generations-fund/,/what-is-a-future-generations-fund/,define,200/200,Wave 14 overwrites keeper (kills NZ$71bn / CPP $580bn / GPFG $1.4T / Alaska $83bn); plural 404 still on /llms/ — 301 what-is after paste
+P2,/strategic-investment-fund/,/what-is-a-strategic-investment-fund/,define,200/200,Wave 14 overwrites keeper (kills CalPERS $477bn / Temasek $1.98T / CPP $495bn); plural 404 still on /llms/ — 301 what-is after paste
 P2,/private-credit-direct-lending/,/what-is-private-credit-direct-lending/,define,200/200,
 P2,/private-credit-market-size/,/what-is-private-credit-market-size/,define,200/200,
 P2,/secondaries-continuation-fund/,/what-is-a-secondaries-continuation-fund/,define,200/200,

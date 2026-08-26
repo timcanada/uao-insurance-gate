@@ -1,5 +1,29 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 14: Reference-portfolio twins; FGF/SIF peer sizes; Yale FY2025; NSIA still $1.6bn
+
+**Queries / URLs:** `/reference-portfolio-explained/`, `/future-generations-fund/`, `/strategic-investment-fund/`, `/yale-endowment-model/`, `/nsia-nigeria-sovereign-investment-authority-explained/`.
+
+**What was wrong on the live site:**
+
+- `/reference-portfolio-explained/` last updated **13 June 2026** — after CalPERS voted, before 1 July go-live, and without **75% global equities / 25% US Treasuries**. Twin `/what-is-a-reference-portfolio/` still 200. Pair with Wave 13 TPA. NZ Super official mix remains **80/20** (75/5/20 building blocks). CPP’s current Board exhibit is **85/15** (base) and **55/45** (additional), not the live “historically 65/35.”
+- `/future-generations-fund/` (4 July 2026) still says NZ Super **NZD 71bn**, CPP **CAD 580bn**, GPFG **$1.4T end-2023**, Alaska **$83bn**, plus an unsourced Abu Dhabi SGRF **$40bn**. Officials: NZ Super **NZ$85.05bn / NZ$86.6bn**; CPP **C$793.3bn** (and it is a **pension**, not a FGF); GPFG **22,683bn kroner**; Alaska **$91.35bn**. ADIA/SGRF AUM refused.
+- `/strategic-investment-fund/` still says CalPERS **$477bn** (Jun 2024), Temasek **$1.98T**, CPPIB **$495bn**. Officials: CalPERS PERF **$637.1bn**; Temasek **S$518bn / US$401bn**; CPP **C$793.3bn**. Named SIF exhibit is ISIF (two books). SAFE/GIC AUM refused.
+- `/yale-endowment-model/` still says Yale **$41.4bn as of June 2023** (that print is FY2024). Yale News **24 Oct 2025**: **$44.1bn**, **11.1%** net, **$2.1bn** spent, CIO **Matt Mendelsohn**. Do not invent Harvard FY2025 NAV. Do not reprint the 2023 sleeve table as current.
+- NSIA still says **>$1.6bn** (2023) plus invented 30–40% sleeve weights. Official FY2025: assets **$3,418.7m** / NAV **$3,397.3m**. Three ring-fenced books; FGF reportable assets **$1,557.2m**.
+
+**Confirmed still unpublished:** Waves 1–13. GPIF live return still 15.83%. CIC explained still $1.3T. Chile ESSF still $10.8bn. CDPQ explained still C$473bn. `/directory/` still 404. Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. MailAdx still mailing **wallet $0.00**. Do not ping support.
+
+**Shipped (Wave 14):** five overwrites. No new slugs. No new `*-explained` twins.
+
+**Refused:** ICD 2025 (fetch failed). Danantara homemade IDR 150T / ~$9.5bn (no official AUM). Events calendar without official 2026/27 filings. Another Future Fund / Mubadala overwrite. Inventing Harvard FY2025 NAV. Inventing a combined ISIF 2025 headline. Another PIF overwrite.
+
+**Access:** Secrets re-requested. Publisher default waves now include 14.
+
+**Next wake must:** Paste 5 → 14. Then 301 `twins.csv` (P0 first; TPA twins; four Wave 14 define twins; Russia short). If the Ghost key lands, drafts first. Do not draft another reference-portfolio / FGF / SIF / Yale / NSIA synonym. Do not write another `*-explained` for anything in `twins.csv`. Highest-harm leftovers: events page (CalPERS $415bn); Danantara only with an official AUM; ICD only if icd.gov.ae is fetchable.
+
 ## 2026-08-26 — Wake 13: CDPQ Q&A still $430bn; CPP Q&A still Dec 2023
 
 **Queries / URLs:** `/is-cdpq-a-sovereign-wealth-fund/`, `/is-cpp-investments-a-sovereign-wealth-fund/`, `/total-portfolio-approach/`, `/russia-national-wealth-fund-explained/`, `/atp-denmark-pension-fund/`.

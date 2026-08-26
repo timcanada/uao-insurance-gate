@@ -1,5 +1,29 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 31: pensions-by-country $1.3T; US list $469bn; city $1.4T stack; region $75T; CalPERS 5.2%
+
+**Queries / URLs:** `/largest-public-pension-funds-by-country/`, `/largest-us-public-pension-funds/`, `/sovereign-wealth-fund-capital-by-city/`, `/largest-asset-owners-by-region/`, `/pension-fund-returns-2025/`.
+
+**What was wrong on the live site:**
+
+- Pensions-by-country invents a **$7T** pile, GPIF **$1.3T**, NSSF **$600bn+**, CPP **$588bn**, NPS **$866bn**, CalPERS **$469bn**, Future Fund **$260bn** as a pension, USS **$100bn+**. Twin files GPFG as a pension at **$1.4T**. Official: GPIF **yen**. NPS **KRW 1,848.7tn**. CPP **C$793.3bn**. CalPERS **$637.1bn**. USS DB **£79.8bn**. Future Fund / GPFG are **SWFs**.
+- US public-pension list invents **$6T / top-ten $2T**, CalPERS **$469bn / $457bn**, CalSTRS **$315bn**, Florida SBA **$230bn**. Official: CalPERS **$637.1bn**. CalSTRS **$415.4bn**. Do not mint `/florida-sba/`.
+- SWF capital-by-city invents Singapore **GIC+Temasek $1.4T**, GPFG **$1.3–1.4T**, ADIA **$950bn**, Temasek **$575bn**, GIC **$880bn**. Official: GPFG **kroner**. Temasek **S$518bn**. GIC / ADIA **no AUM**.
+- Asset-owners-by-region invents APAC **$75T**, NA **$70T**, Europe **$45T**, then a second **$16T / $12T** cut, CalPERS **$466bn**. No official regional pile.
+- Pension returns invent CalPERS **$514bn / 5.2%** and CalSTRS **$380bn / ~5%**. Official: CalPERS **14.8%** on **$637.1bn**. CalSTRS **13.9%** on **$415.4bn**.
+
+**Confirmed still unpublished:** Waves 1–31. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00**. Do not ping support.
+
+**Shipped (Wave 31):** five overwrites. No new slugs. Publisher default waves now include 31. Queued 301s: pension-by-country twin; returns comparison twin; Oil-Five / newest / Singapore-landscape / Asia / ME shorts; `pif-2-trillion-2030`; extra ADIA short; PIF short; SOFAZ short; methodology short.
+
+**Refused:** ICD YE2025 PDF. Dollarizing GPFG / NPS / ADIA / GIC. Overwriting ADIA short / QIA portfolio / Alaska / GPIF / CIC keepers. Minting `/florida-sba/`. Fetching NSSF / Florida SBA / NY Common. Another Oil-Five / Asia / ME / newest / Singapore-landscape synonym.
+
+**Access:** Secrets re-requested. `GHOST_ADMIN_API_KEY` and `GOOGLE_SERVICE_ACCOUNT_JSON` still UNSET.
+
+**Next wake must:** Paste 5 → 31. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another pensions-by-country / US-pension-list / city-AUM / region-$75T / pension-returns-2025 synonym. Highest-harm leftovers now: `/teacher-pension-funds-usa/` (CalSTRS **$315bn**); `/public-pension-funded-status-2026/` (CalPERS **$543bn / 83%**); `/otpp-vs-cpp-investments-vs-omers/` (OTPP **$227bn** / CPP **$613bn** / OMERS **$252bn**); `/pension-fund-vs-endowment-vs-foundation/` (Harvard **$50.7bn** / CalPERS **$440bn**); `/how-we-rank-asset-owners-methodology/` (GPFG **NOK 11.46T / $1.07T**). GPIF **15.83%** / Alaska **$89bn** / CIC **$1.3T** remain unpublished keepers.
+
 ## 2026-08-26 — Wake 30: transparency AUM scores; stabilization-vs-savings; $10.7T global pile; $147T AUM; GIC $990bn returns
 
 **Queries / URLs:** `/swf-transparency-rankings/`, `/stabilization-fund-vs-savings-fund-vs-strategic-fund/`, `/sovereign-wealth-funds-global-economy/`, `/what-does-aum-mean/`, `/sovereign-wealth-fund-returns-2025/`.

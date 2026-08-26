@@ -663,4 +663,9 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 30,explainer,sovereign-wealth-funds-global-economy,SWFs in the global economy,allocator,brief,P1,refresh-drafted,Wave 30 overwrite. Live $10.7T pile. 301 role twin. No official combined SWF AUM
 30,explainer,what-does-aum-mean,What AUM means,allocator,brief,P1,refresh-drafted,Wave 30 overwrite. Live $147T / GPFG $1.76T. Refuse $147T. Do not 301 onto how-AUM-is-estimated
 30,explainer,sovereign-wealth-fund-returns-2025,SWF returns 2025,allocator,brief,P1,refresh-drafted,Wave 30 overwrite. Live GIC $990bn. Official 3.4% real no AUM. Do not mint /sovereign-wealth-fund-returns/
+31,explainer,largest-public-pension-funds-by-country,Largest public pensions by country,allocator,brief,P1,refresh-drafted,Wave 31 overwrite. Live $7T / GPIF $1.3T. Official yen. 301 /largest-pension-funds-by-country/. Do not 301 onto world list
+31,explainer,largest-us-public-pension-funds,Largest US public pensions,allocator,brief,P1,refresh-drafted,Wave 31 overwrite. Live CalPERS $469bn / CalSTRS $315bn. Official $637.1bn / $415.4bn. Do not mint /florida-sba/
+31,explainer,sovereign-wealth-fund-capital-by-city,SWF capital by city,allocator,brief,P1,refresh-drafted,Wave 31 overwrite. Live GIC+Temasek $1.4T / ADIA $950bn. Official no combined city AUM
+31,explainer,largest-asset-owners-by-region,Largest asset owners by region,allocator,brief,P1,refresh-drafted,Wave 31 overwrite. Live $75T / $70T / $45T. Do not 301 onto world list
+31,explainer,pension-fund-returns-2025,Pension fund returns 2025,allocator,brief,P1,refresh-drafted,Wave 31 overwrite. Live CalPERS 5.2% / $514bn. Official 14.8% / $637.1bn. 301 comparison twin
 2,careers,careers/intelligence/search-brief-for-a-real-assets-head,Writing a real-assets head search brief,both,careers-alert,P1,needed,

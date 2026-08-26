@@ -1,5 +1,29 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 22: NBIM vs GIC $1.3T; Timor $18.9bn; Mongolia FHF $1.5bn; PIF vs Mubadala $1.15T; FO $4–8T pile
+
+**Queries / URLs:** `/nbim-vs-gic/`, `/timor-leste-petroleum-fund/`, `/mongolia-future-heritage-fund/`, `/pif-vs-mubadala/`, `/largest-family-offices-in-the-world/`.
+
+**What was wrong on the live site:**
+
+- NBIM vs GIC (4 July 2026) prints NBIM as **~$1.3 trillion** and GIC as **~$1 trillion / $688 billion**, and still expands GIC as “Government of Singapore Investment Corporation.” Official: GPFG **22,683 billion kroner** at **30 June 2026**; GIC **does not publish AUM**; 20-year real **3.4%** / USD nominal **5.6%** to **31 March 2026**. Legal name is **GIC Private Limited**.
+- Timor-Leste Petroleum Fund still prints **US$18.9 billion** at end-2025 and **US$18.91 billion** at 30 November 2025. Official BCTL Q2 2026 press (7 August 2026): capital **USD 18.43 billion** at **30 June 2026** (Q1 **USD 18.31 billion**). Law **No. 9/2005**. Do not mint `/timor-leste-petroleum-fund-explained/` (404).
+- Mongolia Future Heritage Fund still prints **$1.5 billion as of 2023**. Official swf.gov.mn: FHF is now a **sub-fund of Chinggis Khaan Sovereign Wealth Fund**. FY2025 house print: **approximately USD 1.336 billion** at **31 December 2025**; **83.44%** short-term CB deposits; **4.16%** USD return. Do **not** add the three sub-funds. Do **not** mint `/chinggis-khaan-sovereign-wealth-fund/` (404).
+- PIF vs Mubadala (4 July 2026) invents PIF **$1.15 trillion** at mid-2025, ADIA **$1.18 trillion**, a **$700 billion** deploy line, and **$500 billion** NEOM. Official: PIF **more than US$900 billion**. Mubadala **AED 1.4 trillion / US$385 billion** at YE2025. ADIA **does not publish AUM**.
+- Largest family offices (4 July 2026) invents a **$4–8 trillion** pile, Walton **$90 billion**, Albrecht **$50 billion**, Thomson **$60 billion**, and treats Mubadala as a family office. Those houses do **not** publish official FO AUM. Mubadala is a **sovereign** investor.
+
+**Confirmed still unpublished:** Waves 1–21. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Ghost key still missing. Mubadala live already current. Future Fund live already A$269.1bn.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx — do not ping support. Wallet still $0.00.
+
+**Shipped (Wave 22):** five overwrites. No new slugs. No new synonym 301s. Publisher default waves now include 22. Related-link fix this wake: do not point at `/family-office/`, `/endowment-model/`, or `/mubadala-investment-company-explained/` (all 404). Live keepers are `/what-is-a-family-office/`, `/endowment-model-explained/`, `/mubadala-investment-company/`.
+
+**Refused:** ICD YE2025 PDF. Palestine PIF homepage widgets (0/100 counters, not a filing). Dollarizing GPFG or Mongolia’s Savings Fund MNT. Another Mubadala / Future Fund / GPIF-institution overwrite. Minting the Wave 3 404 short slugs or `/chinggis-khaan-sovereign-wealth-fund/`. `/papua-new-guinea-sovereign-wealth-fund/` waits for the next wake (Treasury describes an Organic-Law design; no official AUM; live invents **$2.7 billion** LNG revenue as if it were a fund).
+
+**Access:** Secrets re-requested. `GHOST_ADMIN_API_KEY` and `GOOGLE_SERVICE_ACCOUNT_JSON` still UNSET.
+
+**Next wake must:** Paste 5 → 22. Then 301 `twins.csv` (P0 first; Wave 21 EPF/AUM-estimate/per-capita twins; Wave 20 synonym twins). If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another NBIM-vs-GIC / Timor / Mongolia-FHF / PIF-vs-Mubadala / FO-league-table synonym. Highest-harm leftovers: `/papua-new-guinea-sovereign-wealth-fund/` (live **$2.7 billion**); ICD YE2025 once that PDF is readable; GPIF 15.83% on the institution page (Wave 7, unpublished).
+
 ## 2026-08-26 — Wake 21: NBIM vs GPIF $2T/$1.9T; SWF AUM-estimate pile; per-capita $296k; EPF RM950bn; Florida SBA $300bn+
 
 **Queries / URLs:** `/nbim-vs-gpif/`, `/how-sovereign-wealth-fund-aum-is-estimated/`, `/largest-sovereign-wealth-funds-per-capita/`, `/epf-malaysia-employees-provident-fund-explained/`, `/florida-state-board-of-administration-explained/`.

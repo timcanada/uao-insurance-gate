@@ -87,6 +87,11 @@ P1,how sovereign wealth fund AUM is estimated,allocator,both,/how-sovereign-weal
 P1,largest sovereign wealth funds per capita,allocator,both,/largest-sovereign-wealth-funds-per-capita/,list,unknown,unknown,unknown,refresh-drafted,Live $296k / ADIA $180bn / GIC $170k. No official per-capita table. Wave 21. 301 /sovereign-wealth-funds-per-capita/
 P1,EPF Malaysia,allocator,both,/epf-malaysia-employees-provident-fund-explained/,entity,unknown,unknown,unknown,refresh-drafted,Live RM950bn / USD 190bn / 15-17m. Official RM1,409bn / 18,088,387 / 6.15% at 31 Dec 2025. Wave 21. No USD AUM. 301 /epf-malaysia/
 P1,Florida State Board of Administration,allocator,both,/florida-state-board-of-administration-explained/,entity,unknown,unknown,unknown,refresh-drafted,Live $300bn+. Official MyFRS unaudited 29 May 2026: FRS Pension $234.84bn / IP $24.58bn. Wave 21. Do not mint /florida-sba/
+P1,NBIM vs GIC,allocator,both,/nbim-vs-gic/,compare,unknown,unknown,unknown,refresh-drafted,Live $1.3T / $1T / $688bn. Official 22,683bn kroner vs GIC no AUM. Wave 22. Legal name GIC Private Limited
+P1,Timor-Leste Petroleum Fund,allocator,both,/timor-leste-petroleum-fund/,entity,unknown,unknown,unknown,refresh-drafted,Live US$18.9bn. Official BCTL Q2 2026 USD 18.43bn at 30 Jun 2026. Wave 22. Do not mint explained twin
+P1,Mongolia Future Heritage Fund,allocator,both,/mongolia-future-heritage-fund/,entity,unknown,unknown,unknown,refresh-drafted,Live $1.5bn as of 2023. Official Chinggis FHF ~USD 1.336bn at 31 Dec 2025. Wave 22. Do not mint Chinggis slug
+P1,PIF vs Mubadala,allocator,both,/pif-vs-mubadala/,compare,unknown,unknown,unknown,refresh-drafted,Live PIF $1.15T / ADIA $1.18T / $700bn / $500bn NEOM. Official PIF more than US$900bn; Mubadala AED 1.4T. Wave 22
+P1,largest family offices in the world,allocator,both,/largest-family-offices-in-the-world/,list,unknown,unknown,unknown,refresh-drafted,Live $4–8T pile plus invented house AUM. No official FO AUM table. Mubadala is a SWF. Wave 22
 P2,what is an OCIO,allocator,both,/what-is-an-ocio/,define,unknown,unknown,unknown,live-check,
 P2,single family office vs multi family office,allocator,both,/single-vs-multi-family-office/,define,unknown,unknown,unknown,live-check,
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,live-check,

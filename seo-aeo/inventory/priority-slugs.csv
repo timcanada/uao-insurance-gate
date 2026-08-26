@@ -71,10 +71,10 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,khazanah-explained,Khazanah,allocator,brief,P0,refresh-drafted,Q&A /is-khazanah-a-sovereign-wealth-fund/ Wave 12; institution /khazanah-nasional-malaysia-explained/ Wave 17 (RM105bn NAV). Do not 301. Do not mint /khazanah-explained/
 2,institution,mumtalakat-bahrain,Mumtalakat,allocator,brief,P0,refresh-drafted,SWF — Wave 11 keeper /mumtalakat-bahrain-explained/. 301 /bahrain-mumtalakat-holding-explained/ after paste
 2,institution,qia-vs-adia,QIA vs ADIA,allocator,brief,P0,needed,Comparison
-2,institution,nbim-vs-gic,NBIM vs GIC,allocator,brief,P0,needed,Comparison — live /nbim-vs-gic/ still invents $1.3T. Next-wake leftover. Wave 21 shipped /nbim-vs-gpif/ instead
+2,institution,nbim-vs-gic,NBIM vs GIC,allocator,brief,P0,refresh-drafted,Comparison — Wave 22 overwrites /nbim-vs-gic/ (kills $1.3T / $1T / $688bn). Official 22,683bn kroner vs GIC no AUM. Legal name GIC Private Limited
 2,institution,cpp-vs-calpers,CPP Investments vs CalPERS,allocator,brief,P0,needed,Comparison
 2,institution,otpp-vs-cdpq,OTPP vs CDPQ,allocator,brief,P0,needed,Comparison
-2,institution,pif-vs-mubadala,PIF vs Mubadala,allocator,brief,P0,needed,Comparison
+2,institution,pif-vs-mubadala,PIF vs Mubadala,allocator,brief,P0,refresh-drafted,Comparison — Wave 22 overwrite (kills PIF $1.15T / ADIA $1.18T / $700bn / $500bn NEOM). Official PIF more than US$900bn; Mubadala AED 1.4T / US$385bn; ADIA no AUM
 2,institution,mgx-abu-dhabi-ai-fund,MGX,allocator,brief,P1,live-check,SWF/vehicle
 2,institution,adnoc-investment,ADNOC investment vehicles,allocator,brief,P0,needed,Strategic
 2,institution,aramco-sovereign-adjacent,Aramco as owner-adjacent capital,allocator,brief,P0,needed,Strategic
@@ -124,7 +124,7 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,russia-nwf-historical,Russian NWF — historical/context only,allocator,brief,P0,needed,SWF
 2,institution,kazakhstan-samruk-kazyna,Samruk-Kazyna,allocator,brief,P0,needed,SWF
 2,institution,azerbaijan-sofar,SOFAZ,allocator,brief,P0,needed,SWF
-2,institution,timor-leste-petroleum-fund,Timor-Leste Petroleum Fund,allocator,brief,P0,needed,SWF
+2,institution,timor-leste-petroleum-fund,Timor-Leste Petroleum Fund,allocator,brief,P0,refresh-drafted,SWF — Wave 22 overwrite (USD 18.43bn at 30 Jun 2026; live US$18.9bn). Do not mint /timor-leste-petroleum-fund-explained/
 2,institution,botswana-pula-fund,Pula Fund,allocator,brief,P0,refresh-drafted,SWF — Wave 19 overwrites /botswana-pula-fund-explained/ (P30,818.706m at 30 Jun 2026; live $6.0bn). Do not mint /botswana-pula-fund/
 2,institution,ghana-petroleum-funds,Ghana Petroleum Funds,allocator,brief,P0,needed,SWF
 2,institution,nsia-nigeria,Nigeria Sovereign Investment Authority,allocator,brief,P0,needed,SWF
@@ -297,6 +297,8 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,explainer,nbim-vs-gpif,NBIM vs GPIF,allocator,brief,P1,refresh-drafted,Wave 21 overwrite (kills $2T / $1.9T / 15.83%). Official kroner vs yen. Do not mint /nbim-vs-gpif-explained/
 2,explainer,how-sovereign-wealth-fund-aum-is-estimated,How SWF AUM is estimated,allocator,brief,P1,refresh-drafted,Wave 21 overwrite (kills GPFG $1.34T / CIC $1.02T / SAFE $2T+). 301 /how-swf-aum-is-estimated/ after paste
 2,explainer,largest-sovereign-wealth-funds-per-capita,SWF per capita,allocator,brief,P1,refresh-drafted,Wave 21 overwrite (kills $296k / ADIA $180bn / GIC $170k). 301 /sovereign-wealth-funds-per-capita/ after paste
+2,explainer,mongolia-future-heritage-fund,Mongolia Future Heritage Fund,allocator,brief,P1,refresh-drafted,Wave 22 overwrite (FHF is a Chinggis sub-fund; ~USD 1.336bn at 31 Dec 2025; live $1.5bn as of 2023). Do not mint /chinggis-khaan-sovereign-wealth-fund/
+2,explainer,largest-family-offices-in-the-world,Largest family offices,allocator,brief,P1,refresh-drafted,Wave 22 overwrite (kills $4–8T pile / Walton $90bn / Albrecht $50bn / Thomson $60bn / Mubadala-as-FO). No official FO AUM table
 2,explainer,how-do-central-bank-reserves-differ-from-swfs,Reserves vs SWFs (defend existing),allocator,brief,P1,needed,
 2,explainer,what-is-a-stabilization-fund,What is a stabilization fund?,allocator,brief,P1,needed,
 2,explainer,how-do-owners-use-secondaries,How do owners use secondaries?,allocator,brief,P1,needed,

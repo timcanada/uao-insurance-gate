@@ -1,5 +1,29 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 44: leftover CalPERS $470bn / $440bn; leftover GPIF $1.4T; leftover GPFG $1.36T / $1.32T / $1.5T; leftover KIC $163.9bn; leftover CPP $460bn / $238bn / CAD $616bn; leftover CalSTRS $316bn; leftover Harvard $50.7bn; leftover Yale $41.4bn
+
+**Queries / URLs:** `/ilpa-principles-explained/`, `/open-ended-vs-closed-ended-funds/`, `/dpi-rvpi-tvpi-explained/`, `/hedge-funds-institutional-investors/`, `/irr-vs-moic-private-equity/`.
+
+**What was wrong on the live site:**
+
+- ILPA invent leftover CalPERS **$470 billion**, leftover GPIF **$1.4 trillion**, leftover GPFG **$1.36 trillion**, leftover Cambridge **$1.6 trillion**. Twin invent leftover CalPERS **$440 billion**, leftover NYSCRF **$230 billion**, leftover ILPA **$15 trillion**. Official: CalPERS **$637.1 billion**. GPIF **yen**. GPFG **kroner**.
+- Open- vs closed-end invent leftover GPFG **$1.32 trillion**, leftover KIC **$163.9 billion**. Twin invent leftover CPP **$238 billion**, leftover GPFG **$1.5 trillion**, leftover CalPERS PE sleeve **$59.1 billion**. Official: GPFG **kroner**. KIC **USD 232.0 billion**. CPP **C$793.3 billion**.
+- DPI / RVPI / TVPI invent leftover CalPERS **$440 billion**, leftover GPFG **$1.35 trillion**, leftover Yale **$41.4 billion**, leftover Princeton **$37.0 billion**. Twin invent leftover CPP **CAD $616 billion**. Official: CalPERS **$637.1 billion**. Yale **$44.1 billion**. Princeton **$36.4 billion**. CPP **C$793.3 billion**.
+- Hedge-funds-institutional invent leftover CPP **$460 billion**, leftover Harvard **$50.7 billion** (misnamed “Houghton Endowment”), leftover MIT **$24.4 billion**. Official: CPP **C$793.3 billion**. Harvard **$56.9 billion**.
+- IRR vs MOIC invent leftover CalSTRS **$316 billion**, leftover PPF **£37 billion**, leftover private-credit **$1.6 trillion**. Official: CalSTRS **$415.4 billion**.
+
+**Confirmed still unpublished:** Waves 1–44. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00**. Do not ping support.
+
+**Shipped (Wave 44):** five overwrites. No new slugs. Publisher default waves now include 44. Queued 301s: `/ilpa-principles-private-equity/`, `/open-ended-vs-closed-ended-fund-institutional/`, `/dpi-rvpi-tvpi-private-equity-explained/`.
+
+**Refused:** ICD YE2025 PDF. Dollarizing GPIF / GPFG / ADQ. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / OMERS / CalPERS / Mubadala / Temasek / Alaska / KIC / GPIF institution keepers. Overwriting `/endowment-model-explained/` (Wave 15) or `/yale-endowment-model/` (Wave 14). Minting `/strs-ohio-explained/`, `/texas-trs/`, `/psp-investments/`, `/family-office/`, `/harvard-endowment-explained/`, `/evergreen-funds-explained/`, `/adq-explained/`, `/korea-investment-corporation-kic/`, or `/princeton-endowment/`. Fetching leftover Cambridge / Preqin / BlackRock / Blackstone / MIT / PPF piles. Another 10-year-PE / PE-vs-hedge / active-vs-passive / VC-vs-PE / real-assets-vs-PE synonym. `/nav-lending-private-equity-explained/` (market pile, no leftover house AUM). `/total-portfolio-approach-vs-strategic-asset-allocation/` (no leftover house AUM).
+
+**Access:** Secrets re-requested. `GHOST_ADMIN_API_KEY` and `GOOGLE_SERVICE_ACCOUNT_JSON` still UNSET.
+
+**Next wake must:** Paste 5 → 44. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another ILPA / open-vs-closed / DPI / hedge-funds-institutional / IRR-vs-MOIC synonym. Highest-harm leftovers now: `/pme-benchmarking-private-equity/` (leftover CPP **CAD $615 billion** / leftover Yale **$14 billion** / leftover GPFG **$1.3 trillion**); `/hedge-fund-returns-institutional-2025/` (leftover **$4.5T / $2.34T / $427bn / $246bn / $1.42T** — score before any 301); unpublished keepers (GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn).
+
 ## 2026-08-26 — Wake 43: leftover CalPERS $450bn / $441bn / $440bn / $500bn+; leftover OTPP $215bn; leftover Yale $41bn; leftover CPP $586bn / $500bn+; leftover GPFG $1.3T; leftover Harvard $50.7bn
 
 **Queries / URLs:** `/private-equity-returns-10-year/`, `/private-equity-vs-hedge-funds/`, `/active-vs-passive-for-universal-owners/`, `/venture-capital-vs-private-equity/`, `/real-assets-vs-private-equity/`.

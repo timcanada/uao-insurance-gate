@@ -1,5 +1,27 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 68: leftover ADIA $156.5bn / $123bn / $160bn; leftover KIA $716bn / $183bn; leftover QIA $480bn / $450bn / $500bn; leftover PIF $925bn; leftover Mubadala $280bn; leftover combined Gulf $2.3T; leftover Temasek $575bn / $403bn; leftover GPFG $1.3T; leftover Samruk $65–75bn; leftover GPIF $1.8tn / $1.64T; leftover CPP $620bn / $477bn; leftover OTPP $245bn; leftover ABP €500bn; leftover ADQ $150bn
+
+**Queries / URLs:** `/gulf-capital-and-the-energy-transition/`, `/the-rise-of-riyadh-as-a-capital-center/`, `/samruk-kazyna-kazakhstan/`, `/the-listing-magnet-and-the-loyalty-test/`, `/institutional-investors-european-defense-rearmament/`.
+
+**What was wrong on the live site:**
+
+- Gulf energy transition invent leftover ADIA **$156.5 billion**, leftover KIA **approximately $716 billion**, leftover QIA-plus-Qatar reserve **roughly $500 billion**, leftover four-largest-Gulf pile **approximately $2.3 trillion**. Official: ADIA / KIA / QIA **do not publish AUM**. PIF **more than US$900 billion**.
+- Riyadh capital centre invent leftover PIF **approximately $925 billion**, leftover Mubadala **$280+ billion**, leftover KIA **$716 billion**, leftover QIA **$480+ billion**. Twin invent leftover CPP **$620 billion**, leftover OTPP **$245 billion**, leftover ADIA **approximately $123 billion**. Official: PIF **more than US$900 billion**. Mubadala **AED 1.4 trillion / US$385 billion**. CPP **C$793.3 billion**. OTPP **C$303.2 billion**.
+- Samruk-Kazyna invent leftover Temasek **roughly $575 billion**, leftover GPFG **exceeds $1.3 trillion**, leftover Samruk **approximately $65–75 billion**. Official: Temasek **S$518 billion / US$401 billion**. GPFG **kroner**. No official Samruk AUM locked this wake.
+- Listing magnet invent leftover GPIF **roughly US$1.8 trillion**. Official: GPIF **¥293,643.7 billion**.
+- European defense invent leftover ABP **€500 billion**. Official: ABP **€530 billion**.
+
+**Confirmed still unpublished:** Waves 1–68. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00** through **26 Aug 15:52 UTC**. Do not ping support.
+
+**Shipped (Wave 68):** five overwrites. No new slugs. Publisher default waves now include 68. Queued 301: `/riyadh-capital-center/`; `/sovereign-wealth-fund-transparency-ranking/`; `/gulf-sovereign-wealth-funds-ai/`.
+
+**Refused:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ / USS. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / CDPQ / OMERS / CalPERS / CalSTRS / Mubadala / Temasek / Future Fund / Alaska / ADIA / GIC / BCI / GPIF / CPP / Texas TRS / PIF / QIA / Australian Super / KIC / UniSuper / CIC / ADQ institution keepers. Overwriting `/endowment-model-explained/` (Wave 15) or `/yale-endowment-model/` (Wave 14). Another Mubadala-AI / transparency-index / Japan-landscape / research-firms / impact-define synonym. Minting `/harvard-endowment-explained/`, `/texas-trs/`, `/nssf-explained/`, `/safe-china/`, `/unisuper/`, `/temasek/`, `/adq-explained/`, `/samruk-kazyna/`, or `/cbus-explained/`. Inventing an ADIA, KIA, QIA, SAFE, NSSF, or Samruk AUM. `/universal-owner-antimicrobial-resistance/` (leftover CalPERS **$430 billion**). `/ai-productivity-investing-thesis/` (leftover CalPERS **$460 billion**). `/dollar-dominance-reserve-currency/` (leftover CalPERS **$465 billion**). `/wisconsin-investment-board-swib/` (no official SWIB print locked). `/gulf-capital-energy-transition/` and `/kazakhstan-samruk-kazyna-explained/` (no leftover house AUM).
+
+**Next wake must:** Paste 5 → 68. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another Gulf-energy / Riyadh-centre / Samruk / listing-magnet / European-defense synonym. Highest-harm leftovers now: `/universal-owner-antimicrobial-resistance/` (leftover CalPERS **$430 billion**); `/ai-productivity-investing-thesis/` (leftover CalPERS **$460 billion**); `/dollar-dominance-reserve-currency/` (leftover CalPERS **$465 billion**); unpublished keepers (GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn).
+
 ## 2026-08-26 — Wake 67: leftover Mubadala $284bn; leftover CPP $620bn / $633bn; leftover GPFG $1.4T / $1.38T; leftover PIF $925bn; leftover ADIA $150bn / $156bn; leftover QIA $445bn; leftover OTPP $245bn / $230bn; leftover Temasek $500bn; leftover GPIF $1.3T / leftover ¥156T; leftover CalPERS $440bn / $485bn; leftover USS £75bn; leftover APG $675bn
 
 **Queries / URLs:** `/mubadala-technology-ai-strategy/`, `/sovereign-wealth-fund-transparency-index/`, `/japan-institutional-investor-landscape/`, `/institutional-investor-research-firms/`, `/impact-investing-definitions/`.

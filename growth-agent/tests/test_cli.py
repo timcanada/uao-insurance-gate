@@ -15,3 +15,13 @@ def test_init_and_import_and_status(tmp_path, capsys, monkeypatch):
     out = capsys.readouterr().out
     assert "members_suppressed" in out
     assert '"members_suppressed": 4' in out
+
+
+def test_weekly_seeds_loads_members_exclusion_list(tmp_path, monkeypatch, capsys):
+    db = tmp_path / "uao.db"
+    monkeypatch.setenv("UAO_GROWTH_DB", str(db))
+    members = Path(__file__).parent / "fixtures" / "members.csv"
+    assert main(["--root", str(ROOT), "weekly", "--sources", "seeds", "--members", str(members)]) == 0
+    out = capsys.readouterr().out
+    assert '"total": 4' in out
+    assert "existing.cio@otpp.com" not in out or "suppressed" in out

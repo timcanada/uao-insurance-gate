@@ -25,7 +25,14 @@ def run_sources(
             "organizations": load_seed_orgs(settings.seeds_dir),
             "people": seed_people_from_orgs(load_seed_orgs(settings.seeds_dir)),
         },
-        "wikidata": lambda: fetch_wikidata(client),
+        "wikidata": lambda: fetch_wikidata(
+            client,
+            seed_names=[
+                org["name"]
+                for org in load_seed_orgs(settings.seeds_dir)
+                if int(org.get("priority") or 0) >= 96
+            ],
+        ),
         "sec_edgar": lambda: fetch_sec(client),
         "sec_iapd": lambda: fetch_iapd(client),
     }

@@ -10,12 +10,47 @@ TICKERS = "https://www.sec.gov/files/company_tickers.json"
 
 # 13F managers are the public record of who actually runs large pools of capital.
 SEARCHES = (
-    ("sovereign wealth", "swf"),
-    ("pension fund", "pension"),
-    ("employees retirement", "pension"),
-    ("family office", "family_office"),
+    ('"retirement system"', "pension"),
+    ('"teachers retirement"', "pension"),
+    ('"employees retirement"', "pension"),
+    ('"pension fund"', "pension"),
+    ('"family office"', "family_office"),
     ("endowment", "endowment"),
+    ('"investment authority"', "swf"),
+    ('"permanent fund"', "swf"),
 )
+
+OWNER_HINTS = (
+    "retirement",
+    "pension",
+    "teachers",
+    "endowment",
+    "sovereign",
+    "family office",
+    "investment authority",
+    "investment board",
+    "superannuation",
+    "permanent fund",
+    "future fund",
+)
+REJECT_HINTS = (
+    "wealth management",
+    "wealth advisors",
+    "financial advisor",
+    "financial advisers",
+    "broker",
+)
+
+
+def is_owner_filer(name: str, intended_type: str) -> bool:
+    text = name.lower()
+    if any(hint in text for hint in REJECT_HINTS) and not any(hint in text for hint in OWNER_HINTS):
+        return False
+    if intended_type == "family_office":
+        return "family" in text
+    if intended_type == "swf":
+        return any(hint in text for hint in ("sovereign", "investment authority", "permanent fund", "future fund"))
+    return any(hint in text for hint in OWNER_HINTS)
 
 
 def _hits(payload: Any) -> list[dict[str, Any]]:
@@ -55,7 +90,7 @@ def fetch_sec(client: HttpClient, limit_per_query: int = 80) -> dict[str, list[d
             ) or src.get("display_name")
             if isinstance(name, list):
                 name = name[0] if name else None
-            if not name:
+            if not name or not is_owner_filer(str(name), org_type):
                 continue
             key = normalize_org(str(name))
             if not key or key in seen:

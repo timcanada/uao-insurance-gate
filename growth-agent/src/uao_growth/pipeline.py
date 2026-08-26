@@ -138,7 +138,7 @@ def discover(settings: Settings, store: Store, http: HttpClient, sources: list[s
             suppressed += 1
             by_source[source]["suppressed"] += 1
         elif person.get("name") and person["seniority"] >= settings.min_seniority_score:
-            person["status"] = "exportable" if person.get("email") else "discovered"
+            person["status"] = "exportable"
             kept += 1
             by_source[source]["kept"] += 1
         else:
@@ -285,9 +285,15 @@ def mark_exportable(settings: Settings, store: Store) -> int:
     return marked
 
 
-def weekly(settings: Settings, store: Store, http: HttpClient, sources: list[str] | None = None) -> dict[str, Any]:
+def weekly(
+    settings: Settings,
+    store: Store,
+    http: HttpClient,
+    sources: list[str] | None = None,
+    members_path: Path | None = None,
+) -> dict[str, Any]:
     started = utcnow()
-    member_stats = ingest_members(settings, store)
+    member_stats = ingest_members(settings, store, members_path)
     discovery = discover(settings, store, http, sources)
     enrichment = enrich(settings, store, http, limit=min(settings.weekly_quota, 400))
     validation = validate_emails(settings, store, http, limit=min(settings.weekly_quota, 800))

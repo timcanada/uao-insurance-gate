@@ -78,6 +78,7 @@ def main(argv: list[str] | None = None) -> int:
 
     p_week = sub.add_parser("weekly", help="Import members, discover, enrich, export one week of new prospects")
     p_week.add_argument("--sources", default="seeds,wikidata,sec_edgar,sec_iapd")
+    p_week.add_argument("--members", help="Ghost/CSV member export used as the exclusion list")
 
     p_learn = sub.add_parser("learn", help="Adjust source weights from outreach feedback")
     p_learn.add_argument("csv_path")
@@ -113,7 +114,8 @@ def main(argv: list[str] | None = None) -> int:
             return 0
         if args.cmd == "weekly":
             sources = [s.strip() for s in args.sources.split(",") if s.strip()]
-            print(json.dumps(weekly(settings, store, http, sources), indent=2))
+            members = Path(args.members) if args.members else None
+            print(json.dumps(weekly(settings, store, http, sources, members), indent=2))
             return 0
         if args.cmd == "learn":
             print(json.dumps(apply_feedback(store, Path(args.csv_path)), indent=2))

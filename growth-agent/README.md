@@ -40,7 +40,7 @@ It does not scrape Apollo’s UI, LinkedIn, or login-walled attendee lists.
 ```bash
 cd growth-agent
 cp .env.example .env          # add keys when you have them
-PYTHONPATH=src python3 -m uao_growth weekly
+PYTHONPATH=src python3 -m uao_growth weekly --members private/members.csv
 ```
 
 That will:

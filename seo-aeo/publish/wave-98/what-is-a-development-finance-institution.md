@@ -40,7 +40,7 @@ A SWF can have a development *sleeve*. That does not make the house a DFI. A DFI
 
 ## What this page is not
 
-It is not an IFC, BII, FMO, or KfW institution page. Do not mint those slugs here. Do not reprint a homepage widget as AUM.
+It is not an IFC, FMO, or KfW institution page. The BII file is [British International Investment](/cdc-group-bii/). Do not mint `/bii/` or `/cdc-group/`. Do not reprint a homepage widget as AUM.
 
 How a SWF differs from a pension already sits on [SWF vs pension](/sovereign-wealth-fund-vs-pension-fund/). How reserves differ from a SWF already sits on [SWF vs central-bank reserves](/sovereign-wealth-fund-vs-central-bank-reserves/). **Do not 301 this page onto either.**
 
@@ -50,6 +50,7 @@ We write the owner’s side. A DFI is owner-adjacent capital with a development 
 
 ## Related
 
+- [British International Investment](/cdc-group-bii/)
 - [What is a sovereign wealth fund?](/sovereign-wealth-fund/)
 - [Santiago Principles](/santiago-principles/)
 - [SWF vs pension](/sovereign-wealth-fund-vs-pension-fund/)

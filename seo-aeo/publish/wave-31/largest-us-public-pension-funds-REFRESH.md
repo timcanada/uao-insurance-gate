@@ -23,9 +23,13 @@ Last updated: 26 August 2026.
 | Combined “US public pensions” | No official combined AUM on this page | **$6 trillion**; top-ten **$2 trillion** |
 | CalPERS PERF | **$637.1 billion** / **14.8%** / **85%** at **30 June 2026** | **$469 billion**; **$457.0 billion** at 30 June 2024 as current |
 | CalSTRS Teachers’ Retirement Fund | **$415.4 billion** at **30 June 2026**. FY2025–26 net return **13.9%**. Funded status **79.3%** at **30 June 2025** | **$315 billion** |
+| OPERS | **$158,377,460,244** net position at **31 December 2025**. Pension-and-health-care base **$133.9 billion**. Those two lines are not interchangeable. | Leftover Ohio PERS **$46 billion** |
+| WSIB | **$233,882,154,639** total AUM at **31 March 2026**. CTF **$187,429,848,897**. | Secondary **$230.5 billion** at 30 September 2025 as current |
+| Massachusetts PRIM / PRIT | **$115,458,493 thousand** (**$115.5 billion**) at **30 June 2025**. Return **9.62 percent** net. | Leftover MassPRIM **$73 billion** |
+| Virginia Retirement System | **$124,041,778 thousand** (**$124.0 billion**) net position at **30 June 2025**. Managed investments **$128.6 billion**. | Adding those two lines |
 | New York State Common / NYC constellation / Florida SBA / STRS Ohio | Not fetched as official this wake | **$241 billion**; **$267.6 billion**; **$250 billion**; **$230 billion** |
 
-Print the CalPERS and CalSTRS filings. This desk did not fetch a current official print for New York State Common, the New York City constellation, Florida SBA, or STRS Ohio this wake. Do not reprint those leftovers as if they were today’s NAV. Do **not** mint `/florida-sba/` or `/texas-trs/` (404s).
+Print the CalPERS and CalSTRS filings. OPERS, WSIB, PRIM, and VRS now have official institution pages. This desk did not fetch a current official print for New York State Common, the New York City constellation, Florida SBA, or STRS Ohio this wake. Do not reprint those leftovers as if they were today’s NAV. Do **not** mint `/florida-sba/` or `/texas-trs/` (404s). Do **not** mint `/opers/`, `/wsib/`, `/prim/`, or `/vrs/`.
 
 ## What the list can say
 
@@ -46,6 +50,10 @@ Print the CalPERS and CalSTRS filings. This desk did not fetch a current officia
 
 - [CalPERS](/calpers-explained-largest-us-pension-fund/)
 - [CalSTRS](/calstrs-explained/)
+- [OPERS](/ohio-opers/)
+- [WSIB](/washington-state-investment-board/)
+- [Massachusetts PRIM](/massachusetts-prim/)
+- [Virginia Retirement System](/virginia-retirement-system/)
 - [Largest public pensions by country](/largest-public-pension-funds-by-country/)
 - [Largest pension funds in the world](/largest-pension-funds-in-the-world/)
 - [What is a pension fund?](/what-is-a-pension-fund/)

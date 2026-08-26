@@ -88,7 +88,8 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,irish-strategic-investment-fund,ISIF,allocator,brief,P0,needed,Strategic
 2,institution,bpifrance,Bpifrance,allocator,brief,P0,needed,Strategic
 2,institution,kfw-capital,KfW Capital,allocator,brief,P0,needed,Development
-2,institution,cdc-group-bii,British International Investment,allocator,brief,P0,needed,Development
+106,institution,cdc-group-bii,British International Investment,allocator,brief,P0,drafted-in-repo,Wave 106. Official £9,879.9 million net assets at 31 Dec 2025. Print pounds. Do not mint /bii/ or /cdc-group/
+2,institution,bii,BII (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 106 /cdc-group-bii/
 2,institution,ifc-as-owner-adjacent,IFC as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adib-vs-owner,Do not confuse banks with owners — explainer,allocator,brief,P0,needed,Explainer
 2,institution,new-york-state-common-retirement,NYS Common Retirement Fund,allocator,brief,P0,needed,Public pension
@@ -96,17 +97,21 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,florida-sba,Florida State Board of Administration,allocator,brief,P0,refresh-drafted,Public pension — Wave 21 overwrites /florida-state-board-of-administration-explained/ (FRS Pension $234.84bn unaudited 29 May 2026; live $300bn+). Do not mint /florida-sba/
 2,institution,texas-trs,Teacher Retirement System of Texas,allocator,brief,P0,refresh-drafted,Public pension — Wave 20 overwrites /texas-teacher-retirement-system-explained/ ($225.3bn at 31 Aug 2025; live still $295bn / 89.4%). Do not mint /texas-trs/
 2,institution,calstrs-vs-calpers,CalSTRS vs CalPERS,allocator,brief,P0,needed,Comparison
-2,institution,ohio-opers,OPERS,allocator,brief,P0,needed,Public pension
-2,institution,ohio-str,STRS Ohio,allocator,brief,P0,needed,Public pension
+106,institution,ohio-opers,OPERS,allocator,brief,P0,drafted-in-repo,Wave 106. Official $158,377,460,244 net position at 31 Dec 2025. Do not mint /opers/ or /opers-explained/
+2,institution,opers,OPERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 106 /ohio-opers/
+2,institution,ohio-str,STRS Ohio,allocator,brief,P0,needed,Skip this wake. Official glance page blocked; ACFR PDF not locked. Do not mint /strs-ohio-explained/
 2,institution,michigan-sistf,Michigan State Treasurer / SISTF,allocator,brief,P0,needed,Public pension
 2,institution,pennsylvania-psers,PSERS,allocator,brief,P0,needed,Public pension
 2,institution,pennsylvania-sers,SERS Pennsylvania,allocator,brief,P0,needed,Public pension
 2,institution,new-jersey-division-of-investment,NJ Division of Investment,allocator,brief,P0,needed,Public pension
 2,institution,north-carolina-treasurer,North Carolina Treasurer,allocator,brief,P0,needed,Public pension
-2,institution,washington-state-investment-board,WSIB,allocator,brief,P0,needed,Public pension
+106,institution,washington-state-investment-board,WSIB,allocator,brief,P0,drafted-in-repo,Wave 106. Official $233,882,154,639 at 31 Mar 2026. Do not mint /wsib/ or /washington-sib/
+2,institution,wsib,WSIB (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 106 /washington-state-investment-board/
 2,institution,oregon-pers-investments,Oregon State Treasury / PERS,allocator,brief,P0,needed,Public pension
-2,institution,massachusetts-prim,PRIM,allocator,brief,P0,needed,Public pension
-2,institution,virginia-retirement-system,VRS,allocator,brief,P0,needed,Public pension
+106,institution,massachusetts-prim,PRIM,allocator,brief,P0,drafted-in-repo,Wave 106. Official $115,458,493 thousand at 30 Jun 2025. Do not mint /prim/ or /prit-fund/
+2,institution,prim,PRIM (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 106 /massachusetts-prim/
+106,institution,virginia-retirement-system,VRS,allocator,brief,P0,drafted-in-repo,Wave 106. Official $124,041,778 thousand at 30 Jun 2025. Do not mint /vrs/ or /vrs-explained/
+2,institution,vrs,VRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 106 /virginia-retirement-system/
 2,institution,georgia-trs,TRS Georgia,allocator,brief,P0,needed,Public pension
 2,institution,illinois-isbi,ISBI,allocator,brief,P0,needed,Public pension
 2,institution,illinois-trs,TRS Illinois,allocator,brief,P0,needed,Public pension
@@ -163,7 +168,7 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,oxford-endowment-ousl,Oxford endowments,allocator,brief,P0,needed,Endowment
 2,institution,cambridge-endowment,Cambridge endowments,allocator,brief,P0,needed,Endowment
 2,institution,eth-zurich-foundation,ETH Foundation,allocator,brief,P0,needed,Endowment
-2,institution,kaust-endowment,KAUST endowment,allocator,brief,P0,needed,Endowment
+2,institution,kaust-endowment,KAUST endowment,allocator,brief,P0,needed,Skip. No official endowment FS. Unofficial $23.5bn refused. Do not mint /kaust-endowment-explained/
 2,institution,nus-endowment,NUS endowment,allocator,brief,P0,needed,Endowment
 2,institution,allianz-investment-management,Allianz investment book,allocator,brief,P0,needed,Insurer
 2,institution,axa-investment-managers-owner-side,AXA as owner,allocator,brief,P0,needed,Insurer

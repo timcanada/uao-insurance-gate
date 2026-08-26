@@ -502,5 +502,10 @@ P1,MITIMCo endowment,allocator,both,/mit-investment-management-company/,define,u
 P1,UTIMCO endowment,allocator,both,/utimco/,define,unknown,unknown,unknown,drafted-wave-105,Wave 105. Official $67.6 billion at 31 Aug 2025. Do not mint /university-of-texas-imf/
 P1,UNJSPF pension fund,allocator,both,/unjspf/,define,unknown,unknown,unknown,drafted-wave-105,Wave 105. Official $107,533,052 thousand net assets at 31 Dec 2025. Do not mint /unjps-united-nations/
 P1,Maharlika Investment Fund,allocator,both,/maharlika-investment-corporation/,define,unknown,unknown,unknown,drafted-wave-105,Wave 105. RA 11954 PHP 500bn is not AUM. Official 2024 TCI PHP 2.68bn. Do not mint /maharlika/
+P1,British International Investment,allocator,both,/cdc-group-bii/,define,unknown,unknown,unknown,drafted-wave-106,Wave 106. Official £9,879.9 million net assets at 31 Dec 2025. Print pounds. Do not mint /bii/
+P1,OPERS Ohio,allocator,both,/ohio-opers/,define,unknown,unknown,unknown,drafted-wave-106,Wave 106. Official $158,377,460,244 net position at 31 Dec 2025. Do not mint /opers/
+P1,Washington State Investment Board,allocator,both,/washington-state-investment-board/,define,unknown,unknown,unknown,drafted-wave-106,Wave 106. Official $233,882,154,639 at 31 Mar 2026. Do not mint /wsib/
+P1,Massachusetts PRIM,allocator,both,/massachusetts-prim/,define,unknown,unknown,unknown,drafted-wave-106,Wave 106. Official $115,458,493 thousand at 30 Jun 2025. Do not mint /prim/
+P1,Virginia Retirement System,allocator,both,/virginia-retirement-system/,define,unknown,unknown,unknown,drafted-wave-106,Wave 106. Official $124,041,778 thousand at 30 Jun 2025. Do not mint /vrs/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

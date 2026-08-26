@@ -12,7 +12,7 @@ Update the **known** column only from real systems. Targets are locked in `GOALS
 | Google Search clicks (calendar month) | growing | **460** | 2026-07 | GSC July performance mail |
 | Google Search impressions (calendar month) | growing | **55.6K** | 2026-07 | GSC July performance mail |
 | Monthly site views | millions | not millions; see baseline | 2026-08-26 | GSC + GA4 `399677697` (API pending) |
-| Franchise queries at #1 or cited | all on keyword board | mixed: GPIF live still 15.83%; LPP still £26.5bn vs official ~£60bn; de-risking still PFZW €200bn; longevity still CalPERS $469bn; governance still CPP $496bn; discount-rate still Milliman 109%; Waves 1–36 unpublished | 2026-08-26 | GSC July mail + 26 Aug live HTTP (wake 36) |
+| Franchise queries at #1 or cited | all on keyword board | mixed: GPIF live still 15.83%; interest-rate still CalPERS $475bn / GPIF $1.3T; net-zero still $130T / $40T; private-credit still $1.7–3.5T; DB vs DC still IRS 2025 limits; Waves 1–37 unpublished | 2026-08-26 | GSC July mail + 26 Aug live HTTP (wake 37) |
 | Press pickups (TTM) | growing | unknown | 2026-08-26 | Alerts |
 | Podcast downloads / ep | world-class | unknown | 2026-08-26 | Host |
 | Open sponsor conversations | enough to hit $1M mix | 0 logged | 2026-08-26 | `sponsors.csv` |

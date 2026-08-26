@@ -21,7 +21,7 @@ Become the **#1 go-to resource** — on Google, Bing, Yahoo, and every major LLM
 | Journalism | **Quoted and invited** | Newsroom pickups + event coverage requests. |
 | Podcast | **World-class show** | Downloads, ranked episode pages, guest quality, sponsor slots. |
 
-Until Ghost/analytics credentials are in the loop, write `unknown` in the tracker. Empty is allowed. Invented is not.
+GSC and GA exist. Use them. Until the API secrets are in this environment, pull from Google’s own mail to `info@` and from `tracking/first-party-baseline.md`. Write `unknown` only when no first-party source has spoken. Empty is allowed. Invented is not.
 
 ## Who we attract (never flatten)
 

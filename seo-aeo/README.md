@@ -21,9 +21,9 @@ Target inventory over the full build: **10,000–30,000 indexable pages**, each 
 1. Read `prompts/iteration-log.md` to see how the super prompt was refined.
 2. Use **`prompts/v4-FINAL.md`** as the standing brief for every future agent run.
 3. Treat `plan/01-ultimate-plan.md` as the strategy of record; `plan/12-always-on-machine.md` as the 24/7 loop.
-4. Publish Wave 1 then Wave 2 from `publish/` into Ghost (human editor review first).
+4. Publish Wave 1–3 from `publish/` into Ghost (`tools/publish_to_ghost.py` once `GHOST_ADMIN_API_KEY` is set).
 5. Load `inventory/priority-slugs.csv` and `inventory/keyword-board.csv` as the production backlog.
-6. Update `tracking/` every run (subscribers, sponsors, learning log).
+6. Update `tracking/` every run. First-party GSC/GA live in `tracking/first-party-baseline.md`; API puller is `tools/pull_search_analytics.py`.
 7. Never idle: if you cannot publish, still score, merge, and log.
 
 ## Folder map
@@ -37,8 +37,10 @@ Target inventory over the full build: **10,000–30,000 indexable pages**, each 
 | `templates/` | Ghost-ready page templates (institution, person, city, Q&A, firm) |
 | `publish/wave-1/` | First-wave articles ready for the newsroom |
 | `publish/wave-2/` | Scale/sponsor/podcast/events/royal-office hubs |
+| `publish/wave-3/` | Franchise refreshes (SWF, family office) + PSP / KIC / AustralianSuper |
+| `tools/` | Ghost publisher + GSC/GA4 puller |
 | `media/` | Advertiser packages ($20k–$50k / month + display path) |
-| `tracking/` | Subscribers, sponsors, learning log — never invent numbers |
+| `tracking/` | First-party GSC/GA baseline, subscribers, sponsors, learning log — never invent numbers |
 
 ## Hard rules (never skip)
 

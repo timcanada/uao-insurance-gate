@@ -1,5 +1,27 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 63: leftover CalPERS $440bn; leftover CalSTRS $312bn; leftover NYSCRF $250bn; leftover Yale $41.4bn; leftover GPIF ¥158T; leftover Temasek $403bn; leftover Mubadala $250bn; leftover GPFG $1.3T; leftover ADIA $164bn / $123bn; leftover PIF $930bn / $700bn; leftover QIA $450bn / $218bn
+
+**Queries / URLs:** `/sovereign-funds-defense-spending/`, `/sovereign-debt-crisis-investment/`, `/ocio-vs-investment-consultant/`, `/real-estate-vs-infrastructure-allocation/`, `/qia-portfolio-strategy/`.
+
+**What was wrong on the live site:**
+
+- Defense invent leftover GPIF **¥158 trillion**, leftover Temasek **$403 billion**, leftover ADIA **$164 billion**, leftover PIF **$930 billion**. Official: GPIF **yen**. Temasek **S$518 billion / US$401 billion**. ADIA **does not publish AUM**. PIF official line is **more than US$900 billion**.
+- Sovereign-debt crisis invent leftover CalPERS **approximately $440 billion** (2023), leftover ADIA **$123 billion**, leftover Mubadala **approximately $250 billion**, leftover PIF **over $700 billion**. Official: CalPERS **$637.1 billion**. ADIA **does not publish AUM**. Mubadala **AED 1.4 trillion / US$385 billion**. PIF official line is **more than US$900 billion**.
+- OCIO vs consultant invent leftover CalSTRS **$312 billion**, leftover CalPERS **$440 billion**, leftover NYSCRF **$250 billion**. Official: CalSTRS **$415.4 billion**. CalPERS **$637.1 billion**. NYSCRF **$295.4 billion** at **31 March 2026**.
+- Real estate vs infrastructure invent leftover Yale **$41.4 billion**. Official: Yale **$44.1 billion**.
+- QIA portfolio invent leftover QIA **approximately $450 billion** / leftover **$218 billion** and leftover GPFG **$1.3 trillion**. Official: QIA **does not publish AUM**. GPFG **kroner**.
+
+**Confirmed still unpublished:** Waves 1–63. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00** through **26 Aug 15:52 UTC**. Do not ping support.
+
+**Shipped (Wave 63):** five overwrites. No new slugs. Publisher default waves now include 63. No new 301 this wake.
+
+**Refused:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ / USS. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / CDPQ / OMERS / CalPERS / CalSTRS / Mubadala / Temasek / Future Fund / Alaska / ADIA / GIC / BCI / GPIF / CPP / Texas TRS / PIF / QIA institution keepers. Overwriting `/endowment-model-explained/` (Wave 15) or `/yale-endowment-model/` (Wave 14). Another alternative-data / NAV / momentum / data-governance / critical-minerals synonym. Minting `/harvard-endowment-explained/`, `/texas-trs/`, `/what-is-sovereign-debt-crisis/`, `/ocio-vs-consultant/`, or `/qia-strategy/`. Inventing an ADIA or QIA AUM. `/unisuper-explained/` (leftover **A$70 billion** / leftover **AUD $195 billion** — no official UniSuper print locked this wake).
+
+**Next wake must:** Paste 5 → 63. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another defense / sovereign-debt / OCIO-vs-consultant / RE-vs-infra / QIA-portfolio synonym. Highest-harm leftovers now: `/unisuper-explained/` (need official UniSuper print); unpublished keepers (GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn).
+
 ## 2026-08-26 — Wake 62: leftover CalPERS $475bn / $457bn / $500bn / $440bn; leftover GPIF $1.7T; leftover Temasek $403bn / leftover $429bn; leftover CPP $513bn
 
 **Queries / URLs:** `/alternative-data-institutional-investors/`, `/nav-private-markets/`, `/momentum-factor-investing-explained/`, `/data-governance-institutional-investors/`, `/critical-minerals-sovereign-capital/`.

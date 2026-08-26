@@ -211,6 +211,16 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,ctpf,CTPF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 116 /chicago-teachers/
 116,institution,lacers,Los Angeles City Employees’ Retirement System,allocator,brief,P0,drafted-in-repo,Wave 116. Official combined FNP $25,375,319 thousand at 30 Jun 2025. Do not mint /lacers-explained/ or /los-angeles-city-employees/
 2,institution,lacers-explained,LACERS (explained twin),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 116 /lacers/
+117,institution,nyc-employees,New York City Employees’ Retirement System,allocator,brief,P0,drafted-in-repo,Wave 117. Official combined $94,295,072 thousand at 30 Jun 2025. Do not mint /nycers/ or /nyc-employees-explained/
+2,institution,nycers,NYCERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 117 /nyc-employees/
+117,institution,sdcers,San Diego City Employees’ Retirement System,allocator,brief,P0,drafted-in-repo,Wave 117. Official combined FNP $12,271,668 thousand at 30 Jun 2025. Do not mint /san-diego-sdcers/ or /sdcers-explained/
+2,institution,san-diego-sdcers,SDCERS (long twin),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 117 /sdcers/
+117,institution,ocers,Orange County Employees Retirement System,allocator,brief,P0,drafted-in-repo,Wave 117. Official combined $28,373,550 thousand at 31 Dec 2025. Do not mint /orange-county-ocers/ or /ocers-explained/
+2,institution,orange-county-ocers,OCERS (long twin),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 117 /ocers/
+117,institution,samcera,San Mateo County Employees’ Retirement Association,allocator,brief,P0,drafted-in-repo,Wave 117. Official FNP $7,213,800,664 at 30 Jun 2025. Do not mint /san-mateo-samcera/ or /samcera-explained/
+2,institution,san-mateo-samcera,SamCERA (long twin),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 117 /samcera/
+117,institution,houston-hmeps,Houston Municipal Employees Pension System,allocator,brief,P0,drafted-in-repo,Wave 117. Official FNP $4,723,001,002 at 30 Jun 2025. Do not mint /hmeps/ or /houston-municipal-employees/
+2,institution,hmeps,HMEPS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 117 /houston-hmeps/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

@@ -557,5 +557,10 @@ P1,New York City Teachers’ Retirement System,allocator,both,/nyc-teachers/,def
 P1,North Dakota Teachers’ Fund for Retirement,allocator,both,/north-dakota-tffr/,define,unknown,unknown,unknown,drafted-wave-116,Wave 116. Official pension-trust FNP $3,648,749,437 at 30 Jun 2025. Do not mint /tffr/
 P1,Chicago Teachers’ Pension Fund,allocator,both,/chicago-teachers/,define,unknown,unknown,unknown,drafted-wave-116,Wave 116. Official FNP $13,657,637,993 at 30 Jun 2025. Do not mint /ctpf/
 P1,Los Angeles City Employees’ Retirement System,allocator,both,/lacers/,define,unknown,unknown,unknown,drafted-wave-116,Wave 116. Official combined FNP $25,375,319 thousand at 30 Jun 2025. Do not mint /lacers-explained/
+P1,New York City Employees’ Retirement System,allocator,both,/nyc-employees/,define,unknown,unknown,unknown,drafted-wave-117,Wave 117. Official combined $94,295,072 thousand at 30 Jun 2025. Do not mint /nycers/
+P1,San Diego City Employees’ Retirement System,allocator,both,/sdcers/,define,unknown,unknown,unknown,drafted-wave-117,Wave 117. Official combined FNP $12,271,668 thousand at 30 Jun 2025. Do not mint /san-diego-sdcers/
+P1,Orange County Employees Retirement System,allocator,both,/ocers/,define,unknown,unknown,unknown,drafted-wave-117,Wave 117. Official combined $28,373,550 thousand at 31 Dec 2025. Do not mint /orange-county-ocers/
+P1,San Mateo County Employees’ Retirement Association,allocator,both,/samcera/,define,unknown,unknown,unknown,drafted-wave-117,Wave 117. Official FNP $7,213,800,664 at 30 Jun 2025. Do not mint /san-mateo-samcera/
+P1,Houston Municipal Employees Pension System,allocator,both,/houston-hmeps/,define,unknown,unknown,unknown,drafted-wave-117,Wave 117. Official FNP $4,723,001,002 at 30 Jun 2025. Do not mint /hmeps/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

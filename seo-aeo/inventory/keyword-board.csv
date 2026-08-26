@@ -407,5 +407,10 @@ P1,Future Fund jobs Melbourne relocation,allocator,both,/careers/cities/melbourn
 P1,Zurich family office jobs relocation,allocator,both,/careers/cities/zurich/,careers,unknown,unknown,unknown,drafted-wave-86,Wave 86 city. PUBLICA is Bern. Do not mint /zurich-pension/
 P1,QIA jobs Doha relocation,allocator,both,/careers/cities/doha/,careers,unknown,unknown,unknown,drafted-wave-86,Wave 86 city. QIA no official AUM. Do not mint /doha-qia/
 P1,GPIF jobs Tokyo relocation,allocator,both,/careers/cities/tokyo/,careers,unknown,unknown,unknown,drafted-wave-86,Wave 86 city. GPIF is not a SWF. Do not mint /tokyo-gpif/
+P1,NZ Super jobs Wellington relocation,allocator,both,/careers/cities/wellington/,careers,unknown,unknown,unknown,drafted-wave-87,Wave 87 city. NZ Super is Auckland. Do not mint /careers/cities/auckland/
+P1,KIA jobs Kuwait City relocation,allocator,both,/careers/cities/kuwait-city/,careers,unknown,unknown,unknown,drafted-wave-87,Wave 87 city. KIA no official AUM. Do not mint /kia-explained/
+P1,ABP jobs The Hague relocation,allocator,both,/careers/cities/the-hague/,careers,unknown,unknown,unknown,drafted-wave-87,Wave 87 city. APG offices are Heerlen/Amsterdam. Do not mint /the-hague-abp/
+P1,Geneva compenswiss jobs relocation,allocator,both,/careers/cities/geneva/,careers,unknown,unknown,unknown,drafted-wave-87,Wave 87 city. compenswiss Geneva / PUBLICA Bern. Do not mint /geneva-compenswiss/
+P1,ATP jobs Copenhagen relocation,allocator,both,/careers/cities/copenhagen/,careers,unknown,unknown,unknown,drafted-wave-87,Wave 87 city. ATP HQ is Hillerød. Do not mint /copenhagen-atp/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

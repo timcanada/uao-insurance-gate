@@ -1,5 +1,24 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 87: city pages — Wellington, Kuwait City, The Hague, Geneva, Copenhagen
+
+**Queries / URLs:** `/careers/cities/wellington/`, `/careers/cities/kuwait-city/`, `/careers/cities/the-hague/`, `/careers/cities/geneva/`, `/careers/cities/copenhagen/`.
+
+**What was wrong on the live site:**
+
+- Leftover official-filing house-AUM keepers remain exhausted after Wave 80. Wave 86 shipped five city pages. The next five city P1s with locked HQ facts were still `needed` and live **404** (confirmed 26 Aug).
+- NZ Super official contact is Auckland (Chief Post Office, Level 1, 12 Queen Street), not Wellington. KIA publishes no AUM; KIO is London. APG official European offices are Heerlen, Amsterdam, Brussels — not The Hague. compenswiss is Geneva; PUBLICA is Bern. ATP headquarters is Hillerød, not Copenhagen.
+
+**Confirmed still unpublished:** Waves 1–87. `/directory/` **404**. Wave 1 + Wave 84–87 city pages still 404. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00**. Do not ping support.
+
+**Shipped (Wave 87):** five city pages. Relocating hub now lists 26 drafted cities. Amsterdam now links The Hague. Zurich now links Geneva. No leftover 301s. Publisher default waves now include 87.
+
+**Refused:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ / USS / ATP / Khazanah / HKMA Exchange Fund. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / CDPQ / OMERS / CalPERS / CalSTRS / Mubadala / Temasek / Future Fund / Alaska / ADIA / GIC / BCI / GPIF / CPP / Texas TRS / PIF / QIA / Australian Super / Aware Super / KIC / UniSuper / CIC / ADQ / Cbus / AIMCo / NZ Super / KIA / Khazanah / PSP / NYC CRS institution keepers. Another fiduciary-archive child or leftover synonym explainer. `/careers/intelligence/cio-compensation-public-plans/` (do not invent pay). Minting `/careers/cities/auckland/`, `/wellington-nz-super/`, `/auckland-nz-super/`, `/kia-explained/`, `/kuwait-swf/`, `/the-hague-abp/`, `/geneva-compenswiss/`, `/copenhagen-atp/`, `/family-office/`, `/pggm/`, `/pfzw-netherlands/`, `/aimco-explained/`, `/psp-investments/`, `/niif/`, or `/khazanah-explained/`. Inventing NZ Super, KIA, ABP, compenswiss, ATP, ADIA, QIA, SAFE, or APG AUM. People/CEO pages. Dated news.
+
+**Next wake must:** Paste Wave 1 directory + cities + relocating, Wave 84–87 cities, Wave 81–83 hubs, then 5 → 79 keepers including `/new-york-city-crs/`. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another leftover synonym explainer. Next city/careers gap: `/careers/cities/seoul/` (KIC — confirm official HQ and AUM rules), `/careers/cities/stockholm/`, `/careers/cities/frankfurt/`, `/careers/cities/paris/`, `/careers/cities/dublin/`, `/careers/cities/luxembourg/` (AIMCo lists Luxembourg). Then podcast/advertiser rotation. Skip compensation until sourced. Highest-harm unpublished leftovers remain: GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn.
+
 ## 2026-08-26 — Wake 86: city pages — Vancouver, Melbourne, Zurich, Doha, Tokyo
 
 **Queries / URLs:** `/careers/cities/vancouver/`, `/careers/cities/melbourne/`, `/careers/cities/zurich/`, `/careers/cities/doha/`, `/careers/cities/tokyo/`.

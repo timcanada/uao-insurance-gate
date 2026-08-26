@@ -1,5 +1,27 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 70: leftover CalPERS $430bn / $460bn / $440bn / $461.6bn / $515bn; leftover GPFG $1.4T / $1.3T; leftover AustralianSuper AUD $300bn; leftover Aware AUD $200bn; leftover HESTA AUD $90bn; leftover BCI $200bn; leftover CPP CAD $473bn / $406bn / $450bn; leftover CalSTRS $300bn; leftover OTPP $254bn
+
+**Queries / URLs:** `/universal-owner-antimicrobial-resistance/`, `/ai-productivity-investing-thesis/`, `/australia-superannuation-system-explained/`, `/top-investment-journals/`, `/foreign-investment-regulations-cfius/`.
+
+**What was wrong on the live site:**
+
+- AMR invent leftover CalPERS **$430 billion** and leftover GPFG **$1.4 trillion**. Official: CalPERS **$637.1 billion**. GPFG **kroner**.
+- AI-productivity invent leftover CalPERS **$460 billion** (June 2024) and leftover GPFG **$1.3 trillion**. Official: CalPERS **$637.1 billion**. GPFG **kroner**.
+- Australia super system invent leftover AustralianSuper **approximately AUD 300 billion**, leftover Aware Super **approximately AUD 200 billion**, leftover HESTA **approximately AUD 90 billion**. Official: AustralianSuper **A$410 billion**. Aware Super **over $240 billion**. No official HESTA AUM locked this wake.
+- Investment journals invent leftover CalPERS **approximately $440 billion** and leftover GPFG **approximately $1.3 trillion**. Twins invent leftover CalPERS **$515 billion** and leftover BCI **nearly $200 billion**. Official: CalPERS **$637.1 billion**. GPFG **kroner**. BCI **$313.7 billion** gross / **$265.4 billion** net.
+- CFIUS invent leftover CalPERS **$461.6 billion** as of mid-2024. Official: CalPERS **$637.1 billion**.
+
+**Confirmed still unpublished:** Waves 1–70. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00** through **26 Aug 15:52 UTC**. Do not ping support.
+
+**Shipped (Wave 70):** five overwrites. No new slugs. Publisher default waves now include 70. Queued 301: `/top-investment-journals-institutional/`; `/best-institutional-investor-publications/`; `/ai-infrastructure-asset-class/`; `/demographic-transition-investing/`; `/nuclear-smr-institutional-investors/`; `/performance-attribution-institutional-investing/`; `/mubadala-s-technology-and-ai-strategy/`.
+
+**Refused:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ / USS. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / CDPQ / OMERS / CalPERS / CalSTRS / Mubadala / Temasek / Future Fund / Alaska / ADIA / GIC / BCI / GPIF / CPP / Texas TRS / PIF / QIA / Australian Super / Aware Super / KIC / UniSuper / CIC / ADQ / Cbus institution keepers. Overwriting `/endowment-model-explained/` (Wave 15) or `/yale-endowment-model/` (Wave 14). Another TCO / tech-adoption / dollar-dominance / beneficial-ownership / quant synonym. Minting `/harvard-endowment-explained/`, `/texas-trs/`, `/nssf-explained/`, `/safe-china/`, `/unisuper/`, `/temasek/`, `/adq-explained/`, `/samruk-kazyna/`, `/cbus-explained/`, `/aware-super/`, `/australian-super/`, `/amr-universal-owners/`, `/ai-productivity/`, `/investment-journals/`, or `/cfius/`. Inventing an ADIA, KIA, QIA, SAFE, NSSF, SWIB, HESTA, or Samruk AUM. `/esg-regulation-eu-taxonomy/` (one leftover GPFG plus leftover BlackRock). `/asset-owner-collaboration-initiatives/` (leftover combined **$3.5T+** pile). `/wisconsin-investment-board-swib/` (no official SWIB print locked). `/water-risk-institutional-investors/` and `/urbanisation-investment-theme/` (no leftover house AUM).
+
+**Next wake must:** Paste 5 → 70. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another AMR / AI-productivity / Australia-super-system / journals / CFIUS synonym. Highest-harm leftovers now: `/esg-regulation-eu-taxonomy/` (leftover GPFG **$1.4 trillion**); unpublished keepers (GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn).
+
 ## 2026-08-26 — Wake 69: leftover CalPERS $440bn / $465bn / $469bn / $470bn; leftover CPP $640bn / $499bn / $440bn; leftover OTPP $227bn / $252bn / $245.5bn; leftover ABP €500bn; leftover GPFG $1.3T / $1.4T / $1.33T / $1.34T; leftover GPIF $1.3T; leftover Temasek $1.38T; leftover CalSTRS $130bn; leftover Yale $41.4bn / $40.7bn; leftover Future Fund $304bn; leftover ADIA $150bn; leftover NYSCRF $220bn; leftover APG €575bn
 
 **Queries / URLs:** `/total-cost-of-ownership-investing/`, `/technology-adoption-asset-owners/`, `/dollar-dominance-reserve-currency/`, `/beneficial-ownership-transparency/`, `/quantitative-investing-institutions/`.

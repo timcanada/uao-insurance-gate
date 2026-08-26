@@ -1,5 +1,27 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 59: leftover CalPERS $450bn+ / $440bn / $470bn; leftover GPFG €1.3T / $1.4T / $1.35T / $1.3T; leftover GPIF $1.7T; leftover CPP CAD $596.1bn / C$430bn; leftover OTPP CAD $233.1bn; leftover ABP €578bn; leftover Harvard $50.7bn
+
+**Queries / URLs:** `/sfdr-explained/`, `/tokenisation-private-assets-institutions/`, `/transition-management-explained/`, `/institutional-investor-reporting/`, `/policy-portfolio-vs-total-portfolio/`.
+
+**What was wrong on the live site:**
+
+- SFDR invent leftover GPFG **€1.3 trillion** and leftover CalPERS **$450+ billion**. Official: GPFG **kroner**. CalPERS **$637.1 billion**.
+- Tokenisation invent leftover GPFG **approximately USD 1.4 trillion**. Twin invent leftover CPP **C$430 billion** / leftover **$322 billion**. Official: GPFG **kroner**. CPP **C$793.3 billion**.
+- Transition management invent leftover CalPERS **approximately $470 billion** (2023) and leftover GPIF **approximately $1.7 trillion** (2023). Official: CalPERS **$637.1 billion**. GPIF **yen**.
+- Institutional reporting invent leftover CalPERS **$440 billion** and leftover GPFG **approximately $1.3 trillion**. Official: CalPERS **$637.1 billion**. GPFG **kroner**.
+- Policy vs TPA invent leftover CPP **CAD 596.1 billion**, leftover OTPP **CAD 233.1 billion**, leftover GPFG **USD 1.35 trillion**, leftover ABP **EUR 578 billion**, leftover Harvard **approximately USD 50.7 billion**. Official: CPP **C$793.3 billion**. OTPP **C$303.2 billion**. GPFG **kroner**. ABP **€530 billion**. Harvard **$56.9 billion**.
+
+**Confirmed still unpublished:** Waves 1–59. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00** through **26 Aug 15:37 UTC**. Do not ping support.
+
+**Shipped (Wave 59):** five overwrites. No new slugs. Publisher default waves now include 59. Queued 301: `/tokenisation-private-assets/`.
+
+**Refused:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ / USS. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / CDPQ / OMERS / CalPERS / Mubadala / Temasek / Future Fund / Alaska / ADIA / GIC / BCI / GPIF / CPP institution keepers. Overwriting `/endowment-model-explained/` (Wave 15) or `/yale-endowment-model/` (Wave 14). Another preferred-equity / SFDR-8-vs-9 / impact / GIPS / ERISA synonym. Minting `/harvard-endowment-explained/`, `/what-is-sfdr/`, `/what-is-tokenisation/`, `/what-is-fiscal-dominance/`, `/what-is-transition-management/`, or `/what-is-a-policy-portfolio/`. `/fiscal-dominance-investors-explained/` (leftover CalPERS **$440 billion**). `/nuclear-and-smrs-for-long-horizon-investors/` (leftover GPFG **$1.3 trillion** / leftover CPP **$642 billion CAD**). `/cap-rate-explained/` (leftover Yale **$41.4 billion**).
+
+**Next wake must:** Paste 5 → 59. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another SFDR-define / tokenisation / transition-management / reporting / policy-vs-TPA synonym. Highest-harm leftovers now: `/fiscal-dominance-investors-explained/` (leftover CalPERS **$440 billion**); `/nuclear-and-smrs-for-long-horizon-investors/` (leftover GPFG **$1.3 trillion** / leftover CPP **$642 billion CAD**); `/cap-rate-explained/` (leftover Yale **$41.4 billion**); unpublished keepers (GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn).
+
 ## 2026-08-26 — Wake 58: leftover CalPERS $450bn / $440bn / $470bn / $475bn; leftover Mubadala $280bn; leftover ABP €564bn; leftover GPFG $1.7T / $1.3T; leftover Yale $40bn; leftover Princeton $35bn
 
 **Queries / URLs:** `/preferred-equity-private-markets/`, `/sfdr-article-8-vs-article-9-funds/`, `/impact-investing-private-markets-institutional/`, `/gips-standards-explained-institutional/`, `/erisa-explained-institutional-investors/`.

@@ -27,7 +27,7 @@ The statement of fiduciary net position is the sourced line (in thousands):
 2. **Named books.** Pension Trust Fund **$27,660,311 thousand**. County health-care fund **$525,489 thousand**. Orange County Fire Authority health-care fund **$144,957 thousand**. Orange County Transportation Authority custodial fund **$42,793 thousand**. Those four lines are not interchangeable. Health-care and OCTA custodial books are not the pension book. Pension-trust investments at fair value **$26,373,745 thousand** is not pension-trust fiduciary net position.
 3. **Returns and funded status.** Net return **14.6 percent** (2024 **10.0 percent**). Pension-trust fiduciary net position **$27.7 billion** versus total pension liability **$29.5 billion** is **93.8 percent**. Net pension liability **$1.8 billion**. Actuarial-value funded status **83.8 percent** is from the **31 December 2024** valuation — the house says the **31 December 2025** funding valuation is not yet available. Those three funded cards are not interchangeable.
 
-Do not flatten OCERS into [LACERA](/lacera/), [CalPERS](/calpers-explained-largest-us-pension-fund/), or [Sacramento County](/sacramento-scers/). LACERA is the Los Angeles **County** file. Sacramento County is a different 1937-Act county file. This is **one Orange County employee file**.
+Do not flatten OCERS into [LACERA](/lacera/), [CalPERS](/calpers-explained-largest-us-pension-fund/), [Sacramento County](/sacramento-scers/), or [SBCERA](/sbcera/). LACERA is the Los Angeles **County** file. Sacramento County is a different 1937-Act county file. SBCERA is the San Bernardino **County** file. This is **one Orange County employee file**.
 
 ## What an owner is actually buying
 
@@ -50,5 +50,7 @@ Do not 301 this page onto `/lacera/`, `/lacers/`, `/calpers-explained-largest-us
 - [LACERS](/lacers/)
 - [SFERS](/san-francisco-sfers/)
 - [Sacramento County](/sacramento-scers/)
+- [SBCERA](/sbcera/)
+- [VCERA](/vcera/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

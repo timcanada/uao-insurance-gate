@@ -251,6 +251,16 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,fpif,FPIF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 120 /illinois-fpif/
 120,institution,illinois-ipopif,Illinois Police Officers’ Pension Investment Fund,allocator,brief,P0,drafted-in-repo,Wave 120. Official pool net position $13,743,292,730 at 30 Jun 2025. Do not mint /ipopif/ or /popif/
 2,institution,ipopif,IPOPIF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 120 /illinois-ipopif/
+121,institution,sbcera,SBCERA,allocator,brief,P0,drafted-in-repo,Wave 121. Official FNP $16,432,219 thousand at 30 Jun 2025. Do not mint /san-bernardino-sbcera/ or /sbcera-explained/
+2,institution,san-bernardino-sbcera,SBCERA (long twin),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 121 /sbcera/
+121,institution,vcera,VCERA,allocator,brief,P0,drafted-in-repo,Wave 121. Official FNP $9,160,083 thousand at 30 Jun 2025. Do not mint /ventura-vcera/ or /vcera-explained/
+2,institution,ventura-vcera,VCERA (long twin),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 121 /vcera/
+121,institution,kcera,KCERA,allocator,brief,P0,drafted-in-repo,Wave 121. Official FNP $6,522,001 thousand at 30 Jun 2025. Do not mint /kern-kcera/ or /kcera-explained/
+2,institution,kern-kcera,KCERA (long twin),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 121 /kcera/
+121,institution,fcera,FCERA,allocator,brief,P0,drafted-in-repo,Wave 121. Official FNP $7,380,434 thousand at 30 Jun 2025. Do not mint /fresno-fcera/ or /fcera-explained/
+2,institution,fresno-fcera,FCERA (long twin),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 121 /fcera/
+121,institution,minnesota-tra,Minnesota TRA,allocator,brief,P0,drafted-in-repo,Wave 121. Official FNP $31,261,375 thousand at 30 Jun 2025. Do not mint /mntra/ or /minnesota-tra-explained/
+2,institution,mntra,Minnesota TRA (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 121 /minnesota-tra/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

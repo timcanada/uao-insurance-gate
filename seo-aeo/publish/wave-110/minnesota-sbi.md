@@ -26,15 +26,15 @@ The annual-report table is the sourced split (dollar amounts in millions):
 2. **Named books on the same report.** Combined Funds **$101,221.4 million**. That Combined Funds line is the defined-benefit assets of MSRS, PERA, and TRA. It is not Total Funds Under Management. Do not add Combined Funds to the other programs a second time and call the sum a second AUM.
 3. **Returns and the Combined Funds mix.** Combined Funds return **10.9 percent** for the year ended **30 June 2025**, net of investment management fees. Three-, five-, and ten-year Combined Funds returns **10.7 percent**, **10.6 percent**, and **8.9 percent**. The legislature’s actuarial assumed rate for the three statewide systems is **7.0 percent**. Those return lines are not interchangeable with Total Funds Under Management.
 
-The Combined Funds constituents on the same table include MSRS State Employees **$19,487.5 million**, PERA General Employees **$32,618.9 million**, and TRA **$31,248.6 million**. Those three lines sit inside Combined Funds. They are not a fourth AUM.
+The Combined Funds constituents on the same table include MSRS State Employees **$19,487.5 million**, PERA General Employees **$32,618.9 million**, and TRA **$31,248.6 million**. Those three lines sit inside Combined Funds. They are not a fourth AUM. The TRA participation is not [Minnesota TRA](/minnesota-tra/) fiduciary net position **$31,261,375 thousand**.
 
-Do not flatten Minnesota SBI into [SWIB](/wisconsin-investment-board-swib-explained/) or [Illinois ISBI](/illinois-isbi/). SWIB is Wisconsin. ISBI is Illinois. This is **one Minnesota statutory-investor file**.
+Do not flatten Minnesota SBI into [SWIB](/wisconsin-investment-board-swib-explained/), [Illinois ISBI](/illinois-isbi/), or [Minnesota TRA](/minnesota-tra/). SWIB is Wisconsin. ISBI is Illinois. TRA is the teacher plan. This is **one Minnesota statutory-investor file**.
 
 ## What an owner is actually buying
 
 Counsel selling “Minnesota pension AUM” has to name the book. The **$155.9 billion** line is Total Funds Under Management. The **$101.2 billion** line is the Combined Funds. Those are not the same mandate.
 
-Do not 301 this page onto `/wisconsin-investment-board-swib-explained/`, `/illinois-isbi/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/wisconsin-investment-board-swib-explained/`, `/illinois-isbi/`, `/minnesota-tra/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -49,6 +49,7 @@ Do not 301 this page onto `/wisconsin-investment-board-swib-explained/`, `/illin
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Wisconsin Investment Board](/wisconsin-investment-board-swib-explained/)
 - [Illinois State Board of Investment](/illinois-isbi/)
+- [Minnesota TRA](/minnesota-tra/)
 - [South Dakota Retirement System](/south-dakota-retirement-system/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

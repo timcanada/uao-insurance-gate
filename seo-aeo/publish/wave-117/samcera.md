@@ -50,5 +50,6 @@ Do not 301 this page onto `/lacera/`, `/san-francisco-sfers/`, `/calpers-explain
 - [SFERS](/san-francisco-sfers/)
 - [LACERS](/lacers/)
 - [Sacramento County](/sacramento-scers/)
+- [SBCERA](/sbcera/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

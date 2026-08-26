@@ -577,5 +577,10 @@ P1,General Assembly Retirement System of Illinois,allocator,both,/illinois-gars/
 P1,Illinois Municipal Retirement Fund,allocator,both,/illinois-imrf/,define,unknown,unknown,unknown,drafted-wave-120,Wave 120. Official FNP $62,375,940,515 at 31 Dec 2025. Do not mint /imrf/
 P1,Illinois Firefighters’ Pension Investment Fund,allocator,both,/illinois-fpif/,define,unknown,unknown,unknown,drafted-wave-120,Wave 120. Official pool net position $10,286,871,117 at 30 Jun 2025. Do not mint /fpif/
 P1,Illinois Police Officers’ Pension Investment Fund,allocator,both,/illinois-ipopif/,define,unknown,unknown,unknown,drafted-wave-120,Wave 120. Official pool net position $13,743,292,730 at 30 Jun 2025. Do not mint /ipopif/
+P1,San Bernardino County Employees’ Retirement Association,allocator,both,/sbcera/,define,unknown,unknown,unknown,drafted-wave-121,Wave 121. Official FNP $16,432,219 thousand at 30 Jun 2025. Do not mint /san-bernardino-sbcera/
+P1,Ventura County Employees’ Retirement Association,allocator,both,/vcera/,define,unknown,unknown,unknown,drafted-wave-121,Wave 121. Official FNP $9,160,083 thousand at 30 Jun 2025. Do not mint /ventura-vcera/
+P1,Kern County Employees’ Retirement Association,allocator,both,/kcera/,define,unknown,unknown,unknown,drafted-wave-121,Wave 121. Official FNP $6,522,001 thousand at 30 Jun 2025. Do not mint /kern-kcera/
+P1,Fresno County Employees’ Retirement Association,allocator,both,/fcera/,define,unknown,unknown,unknown,drafted-wave-121,Wave 121. Official FNP $7,380,434 thousand at 30 Jun 2025. Do not mint /fresno-fcera/
+P1,Minnesota Teachers Retirement Association,allocator,both,/minnesota-tra/,define,unknown,unknown,unknown,drafted-wave-121,Wave 121. Official FNP $31,261,375 thousand at 30 Jun 2025. Do not mint /mntra/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

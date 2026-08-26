@@ -1,5 +1,27 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 62: leftover CalPERS $475bn / $457bn / $500bn / $440bn; leftover GPIF $1.7T; leftover Temasek $403bn / leftover $429bn; leftover CPP $513bn
+
+**Queries / URLs:** `/alternative-data-institutional-investors/`, `/nav-private-markets/`, `/momentum-factor-investing-explained/`, `/data-governance-institutional-investors/`, `/critical-minerals-sovereign-capital/`.
+
+**What was wrong on the live site:**
+
+- Alternative data invent leftover CalPERS **approximately $475 billion**. Official: CalPERS **$637.1 billion**.
+- Private-markets NAV invent leftover CalPERS **$457 billion**. Official: CalPERS **$637.1 billion**.
+- Momentum factor invent leftover CalPERS **approximately $500 billion** and leftover GPIF **approximately $1.7 trillion**. Official: CalPERS **$637.1 billion**. GPIF **yen**.
+- Data governance invent leftover CalPERS **$440 billion**. Official: CalPERS **$637.1 billion**.
+- Critical minerals invent leftover Temasek **$403 billion** and leftover CPP **$513 billion**. Twin invent leftover Temasek **$429 billion**. Official: Temasek **S$518 billion / US$401 billion**. CPP **C$793.3 billion**.
+
+**Confirmed still unpublished:** Waves 1–62. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00** through **26 Aug 15:52 UTC**. Do not ping support.
+
+**Shipped (Wave 62):** five overwrites. No new slugs. Publisher default waves now include 62. Queued 301: `/critical-minerals-and-sovereign-capital/`.
+
+**Refused:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ / USS. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / CDPQ / OMERS / CalPERS / CalSTRS / Mubadala / Temasek / Future Fund / Alaska / ADIA / GIC / BCI / GPIF / CPP / Texas TRS / PIF institution keepers. Overwriting `/endowment-model-explained/` (Wave 15) or `/yale-endowment-model/` (Wave 14). Another performance-attribution / Solvency II / space-economy / TWR-vs-MWR / frontier synonym. Minting `/harvard-endowment-explained/`, `/texas-trs/`, `/what-is-alternative-data/`, `/what-is-nav/`, `/what-is-momentum-factor/`, `/what-is-data-governance/`, or `/what-are-critical-minerals/`. Inventing an ADIA AUM. `/sovereign-funds-defense-spending/` (leftover Temasek **$403 billion** / leftover GPIF **¥158 trillion**). `/sovereign-debt-crisis-investment/` (leftover CalPERS **$440 billion** / leftover ADIA **$123 billion** / leftover PIF **$700 billion**).
+
+**Next wake must:** Paste 5 → 62. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another alternative-data / NAV / momentum / data-governance / critical-minerals synonym. Highest-harm leftovers now: `/sovereign-funds-defense-spending/` (leftover Temasek **$403 billion**); `/sovereign-debt-crisis-investment/` (leftover CalPERS **$440 billion** / leftover ADIA **$123 billion** — refuse invented ADIA AUM); unpublished keepers (GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn).
+
 ## 2026-08-26 — Wake 61: leftover CalPERS $469bn / $440bn / $490bn; leftover CalSTRS $341bn; leftover GPIF $1.7T; leftover Temasek $526bn / leftover $1.08T; leftover CPP $488bn; leftover Yale $41.4bn; leftover GPFG $1.3T; leftover ADIA $165bn; leftover PIF $620bn
 
 **Queries / URLs:** `/performance-attribution-institutional/`, `/solvency-ii-explained/`, `/sovereign-wealth-fund-space-economy-investment/`, `/time-weighted-return-vs-money-weighted-return/`, `/frontier-markets-investing/`.

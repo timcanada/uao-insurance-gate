@@ -1,5 +1,27 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 60: leftover CalPERS $440bn / $473bn; leftover GPFG $1.4T / $1.3T; leftover CPP $642bn CAD / CAD $506bn; leftover GPIF ¥150T / leftover $1.0T; leftover Temasek SGD $403bn; leftover Yale $41.4bn; leftover Texas TRS $191bn
+
+**Queries / URLs:** `/fiscal-dominance-investors-explained/`, `/nuclear-and-smrs-for-long-horizon-investors/`, `/cap-rate-explained/`, `/uranium-supply-sovereign-capital/`, `/data-center-ppas-institutional/`.
+
+**What was wrong on the live site:**
+
+- Fiscal dominance invent leftover CalPERS **approximately $440 billion** and leftover GPFG **approximately $1.4 trillion**. Official: CalPERS **$637.1 billion**. GPFG **kroner**. Leftover US deficit **$1.7 trillion** (FY2023) is not house AUM.
+- Nuclear / SMRs invent leftover GPFG **approximately $1.3 trillion** and leftover CPP **$642 billion CAD**. Official: GPFG **kroner**. CPP **C$793.3 billion**.
+- Cap rate invent leftover Yale **approximately $41.4 billion** and leftover CalPERS real-estate sleeve **approximately $28 billion**. Official: Yale **$44.1 billion**. CalPERS house **$637.1 billion**. Twin `/cap-rate-explained-real-estate/` had no leftover house AUM — do not 301.
+- Uranium invent leftover CPP **CAD $506 billion** (June 2024), leftover GPIF **¥150 trillion** / leftover **USD 1.0 trillion**, leftover GPFG **USD 1.4 trillion**, leftover Temasek **SGD 403 billion** / leftover **USD 298 billion**. Official: CPP **C$793.3 billion**. GPIF **yen**. GPFG **kroner**. Temasek **S$518 billion / US$401 billion**.
+- Data-center PPAs invent leftover CalPERS **$473 billion** and leftover Texas TRS **$191 billion**. Official: CalPERS **$637.1 billion**. Texas TRS **$225.3 billion** at **31 August 2025**.
+
+**Confirmed still unpublished:** Waves 1–60. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** Recheck at ship. Do not invent a subscriber total. Do not ping MailAdx support.
+
+**Shipped (Wave 60):** five overwrites. No new slugs. Publisher default waves now include 60. No new 301 this wake.
+
+**Refused:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ / USS. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / CDPQ / OMERS / CalPERS / Mubadala / Temasek / Future Fund / Alaska / ADIA / GIC / BCI / GPIF / CPP / Texas TRS institution keepers. Overwriting `/endowment-model-explained/` (Wave 15) or `/yale-endowment-model/` (Wave 14). Another SFDR-define / tokenisation / transition-management / reporting / policy-vs-TPA synonym. Minting `/harvard-endowment-explained/`, `/texas-trs/`, `/what-is-fiscal-dominance/`, `/what-are-smrs/`, `/what-is-a-cap-rate/`, or `/what-is-uranium-investing/`. Inventing an ADIA AUM. `/performance-attribution-institutional/` (leftover CalPERS **$469 billion**). `/solvency-ii-explained/` (leftover CalSTRS **$341 billion**). `/sovereign-wealth-fund-space-economy-investment/` (leftover ADIA **$165 billion** / leftover Temasek **$526 billion** / leftover CPP **$488 billion** / leftover PIF **$620 billion**).
+
+**Next wake must:** Paste 5 → 60. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another fiscal-dominance / nuclear-SMR / cap-rate / uranium / PPA synonym. Highest-harm leftovers now: `/performance-attribution-institutional/` (leftover CalPERS **$469 billion**); `/solvency-ii-explained/` (leftover CalSTRS **$341 billion**); `/sovereign-wealth-fund-space-economy-investment/` (refuse invented ADIA / PIF AUM); unpublished keepers (GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn).
+
 ## 2026-08-26 — Wake 59: leftover CalPERS $450bn+ / $440bn / $470bn; leftover GPFG €1.3T / $1.4T / $1.35T / $1.3T; leftover GPIF $1.7T; leftover CPP CAD $596.1bn / C$430bn; leftover OTPP CAD $233.1bn; leftover ABP €578bn; leftover Harvard $50.7bn
 
 **Queries / URLs:** `/sfdr-explained/`, `/tokenisation-private-assets-institutions/`, `/transition-management-explained/`, `/institutional-investor-reporting/`, `/policy-portfolio-vs-total-portfolio/`.

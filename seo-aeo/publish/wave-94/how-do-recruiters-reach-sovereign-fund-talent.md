@@ -51,6 +51,8 @@ If you are the candidate, start at [what an Institutional Talent Desk is](/what-
 ## Related
 
 - [What is an Institutional Talent Desk?](/what-is-an-institutional-talent-desk/)
+- [How search firms run a CIO mandate](/how-do-search-firms-work-for-cio-mandates/)
+- [What is a retained search?](/what-is-a-retained-search/)
 - [Careers](/careers/)
 - [Directory: executive search](/directory/executive-search/)
 - [How family offices hire CIOs](/how-do-family-offices-hire-cios/)

@@ -53,6 +53,7 @@ If you sell custody into this room, labelled presence and a claimed directory pr
 
 ## Related
 
+- [What is an administrator for a pension plan?](/what-is-an-administrator-for-a-pension-plan/)
 - [Directory: custody and administration](/directory/custody-administration/)
 - [What is an asset owner?](/what-is-an-asset-owner/)
 - [Fiduciary duty](/fiduciary-duty-explained-institutional/)

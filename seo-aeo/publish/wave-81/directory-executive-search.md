@@ -47,6 +47,8 @@ See [Advertise](/advertise/) and the [Directory](/directory/).
 
 ## Related on Universal Asset Owners
 
+- [How search firms run a CIO mandate](/how-do-search-firms-work-for-cio-mandates/)
+- [What is a retained search?](/what-is-a-retained-search/)
 - [How recruiters reach sovereign-fund talent](/how-do-recruiters-reach-sovereign-fund-talent/)
 - [What is an Institutional Talent Desk?](/what-is-an-institutional-talent-desk/)
 - [Careers](/careers/)

@@ -257,7 +257,7 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 92,explainer,how-do-family-offices-hire-cios,How do family offices hire CIOs?,allocator,brief,P1,drafted-in-repo,Wave 92. Do not mint /family-office/. Do not invent pay
 92,explainer,how-do-sovereign-wealth-funds-hire-lawyers,How do sovereign wealth funds hire lawyers?,allocator,brief,P1,drafted-in-repo,Wave 92. Do not 301 onto /how-pension-funds-retain-counsel/
 2,explainer,what-is-a-family-office-technology-stack,What is a family-office technology stack?,allocator,brief,P1,needed,
-2,explainer,what-does-an-investment-bank-do-for-a-pension-fund,What does an investment bank do for a pension fund?,allocator,brief,P1,needed,
+96,explainer,what-does-an-investment-bank-do-for-a-pension-fund,What does an investment bank do for a pension fund?,allocator,advertiser-call,P1,drafted-in-repo,Wave 96. Do not 301 onto placement-agent or cap-intro
 2,explainer,how-do-endowments-pay-cios,How are endowment CIOs paid? (sourced ranges only),allocator,brief,P1,needed,
 94,explainer,what-is-a-strategic-council-membership-for-asset-owners,What is a strategic research membership?,allocator,brief,P1,drafted-in-repo,Wave 94. Live /membership/ from $175k/year. Do not 301 onto /advertise/
 93,explainer,how-to-get-quoted-as-an-asset-owner-publication,How newsrooms quote allocator publications,allocator,brief,P1,drafted-in-repo,Wave 93. Do not mint /quote-uao/. Do not overwrite /press-desk/
@@ -327,8 +327,8 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,explainer,what-is-operational-due-diligence-for-an-lp,ODD for asset owners,allocator,brief,P1,needed,
 2,explainer,how-do-owners-run-manager-selection,How owners run manager selection,allocator,brief,P1,needed,
 2,explainer,what-is-a-consultant-database,What is a consultant database?,allocator,brief,P1,needed,
-2,explainer,how-do-search-firms-work-for-cio-mandates,How search firms run CIO mandates,allocator,brief,P1,needed,
-2,explainer,what-is-a-retained-search,What is a retained search?,allocator,brief,P1,needed,
+96,explainer,how-do-search-firms-work-for-cio-mandates,How search firms run CIO mandates,allocator,advertiser-call,P1,drafted-in-repo,Wave 96. AESC retained exclusive. Do not invent pay
+96,explainer,what-is-a-retained-search,What is a retained search?,allocator,advertiser-call,P1,drafted-in-repo,Wave 96. Do not mint /retained-search-explained/. No invented fee %
 2,explainer,how-do-compensation-consultants-price-cio-roles,CIO compensation consultants,allocator,brief,P1,needed,
 2,explainer,what-is-carried-interest-inside-an-asset-owner,Carry inside an asset owner,allocator,brief,P1,needed,
 2,explainer,how-do-owners-handle-personal-trading,Personal trading policies,allocator,brief,P1,needed,
@@ -365,7 +365,7 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,explainer,how-do-sanctions-change-a-family-office-bank,Sanctions and family-office banking,allocator,brief,P1,needed,
 2,explainer,what-is-a-multi-custodian-model,Multi-custodian model,allocator,brief,P1,needed,
 94,explainer,how-do-owners-pick-a-custodian,How owners pick a custodian,allocator,advertiser-call,P1,drafted-in-repo,Wave 94. OCC settlement/safekeeping/reporting. Do not 301 onto custody directory
-2,explainer,what-is-an-administrator-for-a-pension-plan,Pension administrators,allocator,brief,P1,needed,
+96,explainer,what-is-an-administrator-for-a-pension-plan,Pension administrators,allocator,advertiser-call,P1,drafted-in-repo,Wave 96. ERISA 1002(16) vs fund admin vs OCC custody
 2,explainer,how-do-cyber-insurers-underwrite-family-offices,Cyber insurance for family offices,allocator,brief,P1,needed,
 2,explainer,what-is-principal-protection-for-a-family,Principal protection (non-advice),allocator,brief,P1,needed,
 2,explainer,how-do-next-gen-members-join-an-ic,Next-gen on the investment committee,allocator,brief,P1,needed,
@@ -373,7 +373,7 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,explainer,how-do-single-family-offices-unbundle,How SFOs unbundle,allocator,brief,P1,needed,
 2,explainer,what-is-a-multi-family-office-fee,MFO fees (sourced only),allocator,brief,P1,needed,
 94,explainer,how-do-pensions-use-placement-agents,Pensions and placement agents,allocator,advertiser-call,P1,drafted-in-repo,Wave 94. Cal. CCR 2-559. Do not 301 onto co-investment
-2,explainer,what-is-a-capital-introduction,What is cap intro for an owner?,allocator,brief,P1,needed,
+96,explainer,what-is-a-capital-introduction,What is cap intro for an owner?,allocator,advertiser-call,P1,drafted-in-repo,Wave 96. Do not 301 onto placement-agent keeper
 2,explainer,how-do-owners-think-about-ipo-allocations,IPO allocations for owners,allocator,brief,P1,needed,
 2,explainer,what-is-a-sovereign-co-invest-in-infrastructure,Sovereign co-invests in infrastructure,allocator,brief,P1,needed,
 2,explainer,how-do-gulf-funds-invest-in-sports,Gulf funds and sports assets,allocator,brief,P1,needed,

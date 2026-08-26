@@ -45,6 +45,8 @@ We write the owner's side. We also run labelled [Careers](/careers/) products an
 - [What is a family office?](/what-is-a-family-office/)
 - [What is an Institutional Talent Desk?](/what-is-an-institutional-talent-desk/)
 - [How recruiters reach sovereign-fund talent](/how-do-recruiters-reach-sovereign-fund-talent/)
+- [How search firms run a CIO mandate](/how-do-search-firms-work-for-cio-mandates/)
+- [What is a retained search?](/what-is-a-retained-search/)
 - [First year inside a family office](/careers/intelligence/first-year-inside-a-family-office/)
 - [Building vs renting a CIO office](/careers/intelligence/internal-vs-external-cio-office/)
 - [Directory: executive search](/directory/executive-search/)

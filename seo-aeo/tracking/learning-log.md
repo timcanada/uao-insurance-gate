@@ -1,5 +1,24 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 96: CIO search, retained search, cap intro, pension administrator, investment bank
+
+**Queries / URLs:** `/how-do-search-firms-work-for-cio-mandates/`, `/what-is-a-retained-search/`, `/what-is-a-capital-introduction/`, `/what-is-an-administrator-for-a-pension-plan/`, `/what-does-an-investment-bank-do-for-a-pension-fund/`.
+
+**What was wrong on the live site:**
+
+- Leftover official-filing house-AUM keepers remain exhausted after Wave 80. Remaining city P1s still fail the HQ-street lock. Wave 95 shipped five first-party product explainers. Five unique advertiser/careers/operations P1s were still live **404** (confirmed 26 Aug).
+- AESC Client Bill of Rights (dated **15 October 2025**): retained and exclusive; written engagement including fees, off-limits, conflicts; follow-through after the offer. ERISA 29 U.S.C. § 1002(16): administrator is the person named in the instrument, else the plan sponsor. JPMS public BD guide: capital introduction sits in prime brokerage (primarily hedge-fund clients); underwriting / placement-agent / M&A sit in investment banking and are paid by the issuer; the bank is not the investor’s fiduciary unless the papers say so. Cal. CCR 2-559 remains the compensated-finder rule (Wave 94). OCC custody remains settlement, safekeeping, reporting.
+
+**Confirmed still unpublished:** Waves 1–96. `/directory/` **404**. Wave 1 + Wave 84–92 city pages still 404. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00**. Do not ping support.
+
+**Shipped (Wave 96):** five advertiser/careers/operations pages. Wave 81 exec-search and custody hubs, Wave 82 placement-agents hub, Wave 92 FO CIO hire, and Wave 94 recruiter / custodian / placement-agent pages now link them. No leftover 301s. Publisher default waves now include 96.
+
+**Refused:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ / USS / ATP / Khazanah / HKMA / NPS / EPF / Keva / VER / ÖBAG / TVF. Reprinting leftover Registry ranking dollars. Overwriting institution keepers. Compensation. Remaining skip/weak cities. Podcast episode show notes that would reprint leftover GPFG **$2.3tn** or homemade **$1.3T** combined-interview AUM. Directory firm children without three sourced facts. `/how-do-gulf-funds-work-with-placement-agents/` as a twin. `/what-is-a-multi-custodian-model/` as a short of pick-a-custodian. People/CEO pages. Dated news. Inventing a subscriber total, a live-role count, or a retained-search fee percentage.
+
+**Next wake must:** Paste Wave 1 directory + cities + relocating, Wave 84–92 cities, Wave 81–83 hubs, Wave 92–96 careers/press/product/operations pages, then 5 → 79 keepers including `/new-york-city-crs/`. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another leftover synonym explainer. Remaining city P1s stay skip/weak until an official HQ street locks. Next rotation: remaining unique advertiser/careers P1s that are not twins (`/what-is-a-consultant-database/`, `/what-is-a-family-office-technology-stack/`, `/what-is-a-representative-office-vs-a-desk/`, `/how-do-owners-handle-personal-trading/`, `/what-is-a-code-of-ethics-for-an-investment-office/`); then directory firms only with three sourced facts. Skip compensation until sourced. Do not reprint leftover Registry dollars. Highest-harm unpublished leftovers remain: GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn.
+
 ## 2026-08-26 — Wake 95: readership audit, Registry, UAO 100, Probability Desk, tripwire
 
 **Queries / URLs:** `/how-we-audit-readership/`, `/how-to-use-uao-registry/`, `/what-is-the-uao-100/`, `/how-to-read-a-probability-desk-scenario/`, `/what-is-a-tripwire-in-scenario-analysis/`.

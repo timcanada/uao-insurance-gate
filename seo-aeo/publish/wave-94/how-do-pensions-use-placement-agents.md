@@ -52,6 +52,8 @@ If you sell capital formation into this room, labelled presence is the honest pr
 ## Related
 
 - [Directory: placement agents](/directory/placement-agents/)
+- [What is capital introduction?](/what-is-a-capital-introduction/)
+- [What does an investment bank do for a pension fund?](/what-does-an-investment-bank-do-for-a-pension-fund/)
 - [What is co-investment in private equity?](/what-is-co-investment-in-private-equity/)
 - [What is an asset owner?](/what-is-an-asset-owner/)
 - [Fiduciary duty](/fiduciary-duty-explained-institutional/)

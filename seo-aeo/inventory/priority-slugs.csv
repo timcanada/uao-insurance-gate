@@ -304,6 +304,11 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,explainer,family-office-vs-sovereign-wealth-fund,Family office vs SWF,allocator,brief,P1,refresh-drafted,Wave 23 overwrite (kills FO $100M–$5B / SWF $50B–$1T / GPFG $1.4T / ADIA $150bn). No official FO AUM bands
 2,explainer,papua-new-guinea-sovereign-wealth-fund,PNG sovereign wealth fund,allocator,brief,P1,refresh-drafted,Wave 23 overwrite (Organic-Law design; no official AUM; live treats $2.7bn LNG revenue as the fund)
 2,explainer,ghana-heritage-fund-explained,Ghana Heritage Fund,allocator,brief,P1,refresh-drafted,Wave 23 overwrite (kills 2019 founding). Official Act 815/2011; GHF US$1,460.98m at 30 Jun 2026. Do not mint /ghana-petroleum-funds/
+2,explainer,saudi-gosi-explained,GOSI / Hassana,allocator,brief,P1,refresh-drafted,Wave 24 overwrite (Hassana SAR 1.2T+; live $180bn/2023). 301 /saudi-gosi-investment-explained/. No USD AUM
+2,explainer,public-investment-fund-pif,Public Investment Fund,allocator,brief,P1,refresh-drafted,Wave 24 overwrite (kills $925bn). Official more than US$900bn. $2T is a KPI
+2,explainer,gulf-sovereign-wealth-funds,Gulf SWFs,allocator,brief,P1,refresh-drafted,Wave 24 overwrite (kills $5T / $7T pile). No official combined Gulf AUM. Do not 301 onto Oil Five
+2,explainer,sovereign-wealth-funds-in-the-middle-east,Middle East SWFs,allocator,brief,P1,refresh-drafted,Wave 24 overwrite (kills $3T / ADIA $171bn / KIA $716bn). ADIA 1976 no AUM
+2,explainer,trinidad-tobago-heritage-stabilisation-fund,Trinidad HSF,allocator,brief,P1,refresh-drafted,Wave 24 overwrite (US$6,254.9m at 31 Dec 2025; live US$5.76bn Jun 2024)
 2,explainer,how-do-central-bank-reserves-differ-from-swfs,Reserves vs SWFs (defend existing),allocator,brief,P1,needed,
 2,explainer,what-is-a-stabilization-fund,What is a stabilization fund?,allocator,brief,P1,needed,
 2,explainer,how-do-owners-use-secondaries,How do owners use secondaries?,allocator,brief,P1,needed,

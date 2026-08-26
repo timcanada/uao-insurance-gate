@@ -97,6 +97,11 @@ P1,GIC vs CPP Investments,allocator,both,/gic-vs-cpp/,compare,unknown,unknown,un
 P1,family office vs sovereign wealth fund,allocator,both,/family-office-vs-sovereign-wealth-fund/,compare,unknown,unknown,unknown,refresh-drafted,Live FO $100M–$5B / GPFG $1.4T / ADIA $150bn. No official FO AUM bands. Wave 23
 P1,Papua New Guinea sovereign wealth fund,allocator,both,/papua-new-guinea-sovereign-wealth-fund/,entity,unknown,unknown,unknown,refresh-drafted,Live treats $2.7bn LNG revenue as the fund. Official Treasury design; no AUM. Wave 23
 P1,Ghana Heritage Fund,allocator,both,/ghana-heritage-fund-explained/,entity,unknown,unknown,unknown,refresh-drafted,Live 2019 founding. Official Act 815/2011; GHF US$1,460.98m at 30 Jun 2026. Wave 23. Do not mint /ghana-petroleum-funds/
+P1,GOSI Saudi Arabia,allocator,both,/saudi-gosi-explained/,entity,unknown,unknown,unknown,refresh-drafted,Live $180bn as of 2023. Official Hassana SAR 1.2T+ / 10m+ contributors. Wave 24. No USD AUM. 301 /saudi-gosi-investment-explained/
+P1,Public Investment Fund,allocator,both,/public-investment-fund-pif/,entity,unknown,unknown,unknown,refresh-drafted,Live $925bn at end-2025. Official more than US$900bn. $2T is a KPI. Wave 24
+P1,Gulf sovereign wealth funds pile,allocator,both,/gulf-sovereign-wealth-funds/,list,unknown,unknown,unknown,refresh-drafted,Live $5T / $7T by 2030 plus invented house AUM. No official combined Gulf AUM. Wave 24. Oil Five keeper is a different URL
+P1,Middle East sovereign wealth funds,allocator,both,/sovereign-wealth-funds-in-the-middle-east/,list,unknown,unknown,unknown,refresh-drafted,Live $3T / ADIA $171bn / KIA $716bn. ADIA 1976 no AUM; KIA 1953/1982 no AUM. Wave 24
+P1,Trinidad Heritage and Stabilisation Fund,allocator,both,/trinidad-tobago-heritage-stabilisation-fund/,entity,unknown,unknown,unknown,refresh-drafted,Live US$5.76bn Jun 2024. Official Q4 2025 NAV US$6,254.9m at 31 Dec 2025. Wave 24
 P2,what is an OCIO,allocator,both,/what-is-an-ocio/,define,unknown,unknown,unknown,live-check,
 P2,single family office vs multi family office,allocator,both,/single-vs-multi-family-office/,define,unknown,unknown,unknown,live-check,
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,live-check,

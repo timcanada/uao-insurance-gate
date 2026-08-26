@@ -1,5 +1,29 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 24: GOSI $180bn; PIF $925bn; Gulf $5T; Middle East $3T; HSF $5.76bn
+
+**Queries / URLs:** `/saudi-gosi-explained/`, `/public-investment-fund-pif/`, `/gulf-sovereign-wealth-funds/`, `/sovereign-wealth-funds-in-the-middle-east/`, `/trinidad-tobago-heritage-stabilisation-fund/`.
+
+**What was wrong on the live site:**
+
+- GOSI still estimates **$180 billion as of 2023**. Official Hassana homepage: **SAR 1.2 trillion+** AUM; **10 million+** contributors; launched **2014**. Do **not** dollarize. Twin `/saudi-gosi-investment-explained/` invents **SAR 150 billion / ~$40 billion** as of 2022.
+- PIF institution page still prints **roughly $925 billion at end-2025** and a Gulf **$5 trillion** pile. Official: **more than US$900 billion**. **$2 trillion** is a 2030 KPI.
+- Gulf SWFs invent a **$5 trillion** pile (to **$7 trillion** by 2030) plus ADIA **$1.1T**, QIA **$580bn**, KIA **$1T**, Mubadala **$330bn**. Official: ADIA / KIA / QIA **no AUM**. Mubadala **AED 1.4T / US$385bn**. No official combined Gulf AUM.
+- Middle East SWFs invent a **$3 trillion** pile, ADIA **$171 billion** (founded **2007**), PIF **$925 billion**, KIA **$716 billion** (founded **2003**). Official: ADIA **1976**, **no AUM**. KIA **1953 / Law 47 of 1982**, **no AUM**.
+- HSF still prints **US$5.76 billion** at end-June 2024. Official MoF Q4 2025 quarterly (PDF fetched): NAV **US$6,254.9 million** at **31 December 2025**; return **2.69%**; withdrawal **US$250.0 million** under s.15 of the 2007 Act.
+
+**Confirmed still unpublished:** Waves 1–23. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Ghost key still missing. Mubadala live already current. Future Fund live already A$269.1bn.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx — do not ping support. Wallet still $0.00.
+
+**Shipped (Wave 24):** five overwrites. No new slugs. Publisher default waves now include 24. Queued synonym 301: `/saudi-gosi-investment-explained/`.
+
+**Refused:** ICD YE2025 PDF. Palestine PIF widgets. Dollarizing Hassana or GPFG. Another Mubadala / Future Fund / GPIF-institution overwrite. Minting the Wave 3 404 short slugs.
+
+**Access:** Secrets re-requested. `GHOST_ADMIN_API_KEY` and `GOOGLE_SERVICE_ACCOUNT_JSON` still UNSET.
+
+**Next wake must:** Paste 5 → 24. Then 301 `twins.csv` (P0 first; Wave 24 GOSI investment twin; Wave 21 EPF/AUM-estimate/per-capita twins). If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another GOSI / PIF-institution / Gulf-$5T / ME-$3T / HSF synonym. Highest-harm leftovers: `/smaller-gulf-sovereign-funds-compared/` (live treats ADIA as a **$157 billion** “smaller” fund); `/norway-vs-gulf-sovereign-wealth-models/` (GPFG **$1.3T**); `/newest-sovereign-wealth-funds-by-founding-year/` (invented Vietnam/Indonesia tickets).
+
 ## 2026-08-26 — Wake 23: PIF vs ADIA $2.3T; GIC $936bn; FO vs SWF $1.4T; PNG $2.7bn-as-fund; Ghana Heritage “2019”
 
 **Queries / URLs:** `/pif-vs-adia/`, `/gic-vs-cpp/`, `/family-office-vs-sovereign-wealth-fund/`, `/papua-new-guinea-sovereign-wealth-fund/`, `/ghana-heritage-fund-explained/`.

@@ -1,5 +1,29 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 30: transparency AUM scores; stabilization-vs-savings; $10.7T global pile; $147T AUM; GIC $990bn returns
+
+**Queries / URLs:** `/swf-transparency-rankings/`, `/stabilization-fund-vs-savings-fund-vs-strategic-fund/`, `/sovereign-wealth-funds-global-economy/`, `/what-does-aum-mean/`, `/sovereign-wealth-fund-returns-2025/`.
+
+**What was wrong on the live site:**
+
+- Transparency rankings invent GPFG **$1.46 trillion**, leftover Oman **SGRF $20 billion**, Future Fund **$260 billion**, GIC **$760 billion**, ADIA **$150 billion**, homemade **9.2 / 8.8 / 3.8**. Twins invent IFSWF **$17T**, GPIF **$1.64T** as a SWF, CPP **$633bn / $477bn**, QIA **$445bn / $450bn**. Official: GPFG **kroner**. GIC / ADIA / QIA **no AUM**. Future Fund sleeve **A$269.1 billion**.
+- Stabilization-vs-savings invents GPFG **$1.376T**, SOFAZ **$45.3bn**, ADIA typo **“AUA $172.4bn”**, Temasek **$509bn**, ISIF **€20bn**, Pula **$6.2bn**. Twin invents GPFG **$1.34T**, Chile **$15bn**, Temasek **SGD 403bn**. Official: GPFG **kroner**. Temasek **S$518bn**. ISIF **two books**. ESSF **US$3,884.04 million**. British slug is **404** — not minted.
+- Global-economy invents **$10T / IMF $10.7T**, ADIA **$283bn**, Gulf **$4T**. Twin invents **$11T**, GIC **$917bn**, CIC **$1.9T**, NSIA **$65bn**. Official: no combined SWF pile. CIC **US$1.57T / 1.37T**. NSIA **$3,418.7m**.
+- What-AUM-means invents manager **$147T**, BlackRock **$11.6T**, GPFG **$1.76T**, SWFs **$13T**, Temasek **S$434bn**. Official: GPFG **kroner**. Temasek **S$518bn**. TAI/WTW **$24.4T** is a pension vintage. Refuse **$147T**.
+- SWF returns invent GIC **$990bn**, GPFG **$1.4T**, ADIA **$171bn**, SAFE **$3.2T**, CPP **$406bn** as a SWF. Official: GIC **no AUM**, 20-year real **3.4%** / USD nominal **5.6%**.
+
+**Confirmed still unpublished:** Waves 1–30. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00**. Do not ping support.
+
+**Shipped (Wave 30):** five overwrites. No new slugs. Publisher default waves now include 30. Queued 301s: both transparency twins; stabilization short twin; global-economy role twin; `/chile-stabilization-fund-essf/`.
+
+**Refused:** ICD YE2025 PDF. Dollarizing GPFG / ADIA / KIA / QIA / SAFE / GIC / ADQ / Pula. Overwriting ADIA short / QIA portfolio / NSIA / ISIF / Mumtalakat / Alaska / GPIF keepers. Minting the British stabilization 404 or `/sovereign-wealth-fund-returns/`. Fetching a WTW/BCG **$147T** so the AUM page can keep it.
+
+**Access:** Secrets re-requested. `GHOST_ADMIN_API_KEY` and `GOOGLE_SERVICE_ACCOUNT_JSON` still UNSET.
+
+**Next wake must:** Paste 5 → 30. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another transparency / stabilization-vs-savings / global-economy / what-AUM-means / SWF-returns-2025 synonym. Highest-harm leftovers now: GPIF live **15.83%** (Wave 7, unpublished); Alaska **$89bn** (Wave 12, unpublished); CIC explained **$1.3T** (Wave 8, unpublished); ADIA short twin **2007 / $152.5bn** until the Wave 9 301; `/what-is-a-sovereign-wealth-fund-definition/` until the 301. Scan sitemap for the next five leftover dollar tables that are not already drafted.
+
 ## 2026-08-26 — Wake 29: reserve-fund $1.4T; holding-vs-SWF; NBIM sleeve dollars; FO-vs-institution; Middle East FO pile
 
 **Queries / URLs:** `/what-is-a-reserve-fund/`, `/state-holding-company-vs-swf/`, `/norway-oil-fund-governance-model-explained/`, `/family-office-vs-institutional-investor/`, `/middle-east-family-offices/`.

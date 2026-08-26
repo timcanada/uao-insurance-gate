@@ -22,19 +22,19 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,mubadala-investment-company,Mubadala Investment Company,allocator,brief,P1,live-check,SWF
 2,institution,adq-abu-dhabi,ADQ,allocator,brief,P1,live-check,SWF
 2,institution,qatar-investment-authority-qia,Qatar Investment Authority,allocator,brief,P1,live-check,SWF
-2,institution,kuwait-investment-authority-kia,Kuwait Investment Authority,allocator,brief,P1,live-check,SWF
+2,institution,kuwait-investment-authority-kia,Kuwait Investment Authority,allocator,brief,P1,refresh-drafted,SWF — Wave 16 (no official AUM; live still $1.07T)
 2,institution,gic-singapore-explained,GIC,allocator,brief,P1,live-check,SWF
 2,institution,temasek-holdings-explained,Temasek,allocator,brief,P1,live-check,SWF/strategic
 2,institution,china-investment-corporation-cic,China Investment Corporation,allocator,brief,P0,needed,SWF
 2,institution,safe-china-reserves,SAFE (China),allocator,brief,P0,needed,Reserve
 2,institution,hkma-exchange-fund,HKMA Exchange Fund,allocator,brief,P0,needed,Reserve
-2,institution,korea-investment-corporation-kic,Korea Investment Corporation,allocator,brief,P0,needed,SWF
+2,institution,korea-investment-corporation-kic,Korea Investment Corporation,allocator,brief,P0,refresh-drafted,SWF — Wave 16 overwrites /korea-investment-corporation-kic-explained/ (USD 232.0bn). Do not mint short slug
 2,institution,future-fund-australia-explained,Future Fund,allocator,brief,P1,live-check,SWF
 2,institution,nz-super-fund-explained,NZ Super Fund,allocator,brief,P0,needed,SWF/pension-reserve
 2,institution,cpp-investments-explained,CPP Investments,allocator,brief,P1,live-check,Public pension
 2,institution,ontario-teachers-pension-plan,Ontario Teachers' Pension Plan,allocator,brief,P0,needed,Public pension
 2,institution,cdpq-explained,CDPQ,allocator,brief,P0,refresh-drafted,Public pension — Wave 12 (CAD $517.3bn at 31 Dec 2025)
-2,institution,psp-investments,PSP Investments,allocator,brief,P0,needed,Public pension
+2,institution,psp-investments,PSP Investments,allocator,brief,P0,refresh-drafted,Public pension — Wave 16 overwrites /psp-investments-canada-explained/ (C$320.6bn). Do not mint /psp-investments/
 2,institution,omers-explained,OMERS,allocator,brief,P0,needed,Public pension
 2,institution,aimco-explained,AIMCo,allocator,brief,P0,needed,Public pension
 2,institution,bcimc-bci,BCI,allocator,brief,P0,needed,Public pension
@@ -43,15 +43,15 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,wisconsin-investment-board-swib,SWIB,allocator,brief,P1,live-check,Public pension
 2,institution,gpif-japan-explained,GPIF,allocator,brief,P1,live-check,Public pension
 2,institution,abp-netherlands-pension-fund-explained,ABP,allocator,brief,P1,live-check,Public pension
-2,institution,pfzw-netherlands,PFZW,allocator,brief,P0,needed,Public pension
+2,institution,pfzw-netherlands,PFZW,allocator,brief,P0,refresh-drafted,Public pension — Wave 16 (€252.0bn AUM at 31 Dec 2025; live still €35bn)
 2,institution,atp-denmark,ATP,allocator,brief,P0,needed,Public pension
 2,institution,alecta-sweden,Alecta,allocator,brief,P0,needed,Public pension
 2,institution,uss-universities-superannuation-scheme,USS,allocator,brief,P1,live-check,Public pension
 2,institution,uss-explained-merge,USS canonical merge,allocator,brief,P1,merge,Public pension
-2,institution,australian-super,AustralianSuper,allocator,brief,P0,needed,Public pension
+2,institution,australian-super,AustralianSuper,allocator,brief,P0,live-ok,Public pension — live /australiansuper-explained/ already A$410bn at 31 Dec 2025. Do not mint /australian-super/
 2,institution,aware-super,Aware Super,allocator,brief,P0,needed,Public pension
 2,institution,cbus-super,Cbus,allocator,brief,P0,needed,Public pension
-2,institution,nps-korea,National Pension Service (Korea),allocator,brief,P0,needed,Public pension
+2,institution,nps-korea,National Pension Service (Korea),allocator,brief,P0,refresh-drafted,Public pension — Wave 16 overwrites /national-pension-service-korea-explained/ (KRW 1,848.7tn at end-May 2026)
 2,institution,epfo-india,EPFO (India),allocator,brief,P0,needed,Public pension
 2,institution,employees-provident-fund-malaysia,EPF Malaysia,allocator,brief,P0,needed,Public pension
 2,institution,gepf-south-africa,GEPF,allocator,brief,P0,needed,Public pension

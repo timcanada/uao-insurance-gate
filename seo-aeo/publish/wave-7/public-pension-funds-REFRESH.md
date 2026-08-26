@@ -63,7 +63,7 @@ GPIF is the opposite extreme of the Canadian model: four liquid 25% sleeves, alt
 | GPIF (Japan) | **¥293,643.7 billion** investment assets; FY2025 return **16.47%** | 31 Mar 2026 | Largest dedicated public pension. [Explained](/gpif-japan-explained/). |
 | Government Pension Fund Global (NBIM) | **22,683 billion kroner** | 30 Jun 2026 | SWF with “pension” in the name. Rank it on [largest SWFs](/largest-sovereign-wealth-funds/). |
 | CPP Investments | **C$793.3 billion** net assets; FY2026 net return 7.8% | 31 Mar 2026 | [Explained](/cpp-investments-explained/). |
-| PSP Investments | **C$320.6 billion** net AUM | 31 Mar 2026 | Federal public-service family. Draft: `/psp-investments/`. |
+| PSP Investments | **C$320.6 billion** net AUM | 31 Mar 2026 | Federal public-service family. Live keeper: `/psp-investments-canada-explained/` (Wave 16). |
 | AustralianSuper | **More than A$410 billion**; 3.6 million members | 31 Dec 2025 | Super, not a SWF. Draft: `/australian-super/`. |
 
 Also on every serious list, with their own filing dates: Korea NPS, ABP / PFZW, US TSP and the large state systems (CalPERS, CalSTRS, NY Common), Ontario Teachers and the other Canadian provincials, Singapore CPF, China NSSF. Use the plan’s CAFR — do not freeze a magazine dollar here.

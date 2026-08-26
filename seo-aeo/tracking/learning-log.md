@@ -1,5 +1,29 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 16: PSP CA$233bn; PFZW €35bn; KIC $190bn; NPS $997bn; KIA $1.07T
+
+**Queries / URLs:** `/psp-investments-canada-explained/`, `/pfzw-netherlands-pension-fund-explained/`, `/korea-investment-corporation-kic-explained/`, `/national-pension-service-korea-explained/`, `/kuwait-investment-authority-kia/`.
+
+**What was wrong on the live site:**
+
+- PSP (20 June 2026) still says **CA$233 billion**, “Canada’s largest,” and folds in **provincial** plans. Official FY2026: **C$320.6 billion** at 31 March 2026; **6.5%** one-year (5.2pp **below** the Reference Portfolio); **8.3% / 8.8%** five- / ten-year. Four **federal** plans. Not CPP. Wave 3 `/psp-investments/` **404s** — do not mint it.
+- PFZW still **€35 billion as of 2023**, **1.2 million** members, invented legal name “Ziekenhuizen en Welzijnsinstellingen,” AFM as supervisor. Official English AR 2025: AUM **€252,036 million**; actual funding **126.0%**; **3,037,700** participants and pensioners; return **−3.8%**. New scheme **1 January 2026**. PGGM is the administrator.
+- KIC still **$190 billion as of December 2023** and claims it invests “on behalf of the National Pension Service.” Official: **USD 232.0 billion** at end-December 2025; **13.91%** total portfolio. NPS is a **different** legal person. Wave 3 short slug **404s**.
+- NPS still **1,438 trillion won / ~$997 billion** (Nov 2025) plus homemade GPIF/GPFG dollars. Official English widget: **KRW 1,848.7 trillion** at end-May 2026. 2025 money-weighted **18.82%**. **No USD AUM.**
+- KIA still **US$1.07 trillion**. kia.gov.kw and the IFSWF member profile **do not publish AUM**. Official: 1953 board; Law **47/1982**; GRF + FGF; asset manager for the State.
+
+**Confirmed still unpublished:** Waves 1–15. Sitemap still **127 / 1,136**. GPIF live return still **15.83%**. CIC explained still $1.3T. Chile ESSF still $10.8bn. `/directory/` still 404. Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. MailAdx support already replied (26 Aug 11:28 UTC) — do not ping again. Wallet still the blocker. No new named Ghost signup after Konstantinos Angelakis.
+
+**Shipped (Wave 16):** five overwrites. No new slugs. No new `*-explained` twins.
+
+**Refused:** QIA (official site timed out). ICD (still unfetched). EPF RM950bn (kwsp.gov.my Cloudflare-blocked; press cites official **RM1,409 billion** at 31 Dec 2025 — overwrite next wake once the kwsp page is readable). Another GPIF / CalPERS / PIF / OMERS overwrite (OMERS live already $145.2bn / 6% / 99%). Inventing KIA “Clause 8” language we could not fetch. Dollarizing NPS.
+
+**Access:** Secrets re-requested. Publisher default waves now include 16.
+
+**Next wake must:** Paste 5 → 16. Then 301 `twins.csv` (P0 first; PFZW/PGGM twins; events-2026; TVF short; LDI what-is). If the Ghost key lands, drafts first. After wallet fund, paste the MailAdx `%%{email}%%` recipe and run a single-recipient test. Do not draft another PSP / PFZW / KIC / NPS / KIA synonym. Do not mint the Wave 3 short slugs. Highest-harm leftovers: EPF once kwsp.gov.my is readable; `/khazanah-nasional-malaysia-explained/` still **USD 44 billion**; QIA / ICD / ADQ invented AUM if official pages fetch; `/largest-university-endowments-2026/` still Harvard **$50.7bn** / Yale **$41.4bn**.
+
 ## 2026-08-26 — Wake 15: Invented events calendar; Danantara $9.5bn; TVF $195bn
 
 **Queries / URLs:** `/asset-owner-events-conferences/`, `/danantara-indonesia-sovereign-fund/`, `/turkey-wealth-fund-explained/`, `/liability-driven-investing-explained/`, `/endowment-model-explained/`.

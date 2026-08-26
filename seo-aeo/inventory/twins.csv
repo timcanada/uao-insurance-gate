@@ -13,7 +13,13 @@ P1,/wisconsin-investment-board-swib-explained/,/wisconsin-investment-board-swib/
 P1,/wisconsin-investment-board-swib-explained/,/wisconsin-swib/,institution,200/200,Third twin — 301 after Wave 10 paste
 P1,/uss-universities-superannuation-scheme/,/uss-universities-superannuation-scheme-explained/,institution,200/200,Keep short; Wave 9 uses 31 Mar 2026 accounts. 301 explained + uk-explained
 P1,/uss-universities-superannuation-scheme/,/uss-universities-superannuation-scheme-uk-explained/,institution,200/200,
-P1,/investment-corporation-of-dubai-icd-explained/,/investment-corporation-of-dubai-icd/,institution,200/200,
+P1,/investment-corporation-of-dubai-icd-explained/,/investment-corporation-of-dubai-icd/,institution,200/200,ICD official 2025 still unfetched
+P1,/psp-investments-canada-explained/,/psp-investments/,institution,200/404,Wave 16 overwrites live keeper (C$320.6bn at 31 Mar 2026; live still CA$233bn). Wave 3 short slug 404 — do not mint it
+P1,/korea-investment-corporation-kic-explained/,/korea-investment-corporation-kic/,institution,200/404,Wave 16 overwrites live keeper (USD 232.0bn at end-2025; live still $190bn). Wave 3 short slug 404 — do not mint it
+P1,/pfzw-netherlands-pension-fund-explained/,/pfzw-and-pggm-netherlands-explained/,institution,200/200,Wave 16 overwrites keeper (€252.0bn AUM at 31 Dec 2025; live still €35bn). 301 PGGM twins after paste
+P1,/pfzw-netherlands-pension-fund-explained/,/pfzw-pggm-netherlands/,institution,200/200,Second PFZW twin — 301 after Wave 16 paste
+P1,/australiansuper-explained/,/australian-super/,institution,200/404,Live already A$410bn at 31 Dec 2025. Wave 3 short slug 404 — do not mint it; 301 the largest-superannuation twin onto explained
+P1,/australiansuper-explained/,/australiansuper-explained-largest-superannuation/,institution,200/200,Stale 2.5 million twin — 301 after confirming keeper
 P1,/oman-investment-authority-explained/,/oman-investment-authority/,institution,200/200,Wave 11 overwrites explained (three official portfolios; live invented two fund names)
 P1,/turkey-wealth-fund-explained/,/turkey-wealth-fund/,institution,200/200,Wave 15 overwrites explained (TRY 12.7T assets / TRY 2.04T equity at 31 Dec 2024; live still ~$195bn 2023) — 301 short after paste
 P1,/samruk-kazyna-kazakhstan-explained/,/samruk-kazyna-kazakhstan/,institution,200/200,Wave 11 overwrites explained (KZT 44.2T at 31 Dec 2025; live ~$88bn)

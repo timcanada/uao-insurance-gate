@@ -45,7 +45,7 @@ P1,OTPP,allocator,both,/ontario-teachers-pension-plan-explained/,entity,unknown,
 P1,USS,allocator,both,/uss-universities-superannuation-scheme/,entity,unknown,unknown,unknown,refresh-drafted,Live still 31 Mar 2025 £76.8bn. 2026 accounts: DB £79.8bn / surplus £15.8bn. Wave 9
 P1,CDPQ,allocator,both,/cdpq-explained/,entity,unknown,unknown,unknown,refresh-drafted,Live still C$473bn / 9.4% (2024). Official CAD $517.3bn / 9.3% at 31 Dec 2025. Wave 12. Q&A /is-cdpq-a-sovereign-wealth-fund/ still $430bn — separate overwrite
 P1,SOFAZ,allocator,both,/sofaz-azerbaijan-state-oil-fund-explained/,entity,unknown,unknown,unknown,refresh-drafted,Live still $43bn Dec 2023. Official USD 72.6bn at 30 Jun 2026. Wave 12
-P1,Khazanah,allocator,both,/is-khazanah-a-sovereign-wealth-fund/,define,unknown,unknown,unknown,refresh-drafted,Live ~$47bn USD. Official RM105bn NAV / RM156bn total assets at 31 Dec 2025. No explained slug (404). Wave 12
+P1,Khazanah,allocator,both,/is-khazanah-a-sovereign-wealth-fund/,define,unknown,unknown,unknown,refresh-drafted,Live Q&A ~$47bn USD — Wave 12. Twin /khazanah-nasional-malaysia-explained/ still 200 with USD 44bn — next-wake overwrite; do not mint /khazanah-explained/
 P1,ISIF,allocator,both,/isif-ireland-strategic-investment-fund-explained/,entity,unknown,unknown,unknown,refresh-drafted,Live €24bn overstates. 2025 FS: Discretionary €9.7bn / Directed €6.422bn. Wave 12
 P1,Alaska Permanent Fund,allocator,both,/alaska-permanent-fund-explained/,entity,unknown,unknown,unknown,refresh-drafted,Live $89bn early 2026. APFC $91.3465bn at 30 Jun 2026 unaudited. Wave 12
 P1,Santiago Principles,allocator,both,/santiago-principles/,define,unknown,unknown,unknown,merge-twins,
@@ -54,6 +54,11 @@ P1,is CPP Investments a sovereign wealth fund,allocator,both,/is-cpp-investments
 P1,total portfolio approach,allocator,both,/total-portfolio-approach/,define,unknown,unknown,unknown,refresh-drafted,Live last updated 25 May 2026. CalPERS TPA live 1 Jul 2026. Wave 13; 301 twins after paste
 P1,Russia National Wealth Fund,allocator,both,/russia-national-wealth-fund-explained/,entity,unknown,unknown,unknown,refresh-drafted,Live still $185bn / 18.1T RUB Oct 2023. MinFin 1 May 2026: 13.2T RUB / US$176.5bn; liquid US$48.4bn. Wave 13
 P1,ATP Denmark,allocator,both,/atp-denmark-pension-fund/,entity,unknown,unknown,unknown,refresh-drafted,Live €85bn / 5.6m from 2023. Official DKK 694bn / 5.8m members. No EUR AUM. Wave 13
+P1,PSP Investments,allocator,both,/psp-investments-canada-explained/,entity,unknown,unknown,unknown,refresh-drafted,Live CA$233bn / “Canada’s largest.” Official C$320.6bn at 31 Mar 2026. Wave 16. Do not mint /psp-investments/
+P1,PFZW,allocator,both,/pfzw-netherlands-pension-fund-explained/,entity,unknown,unknown,unknown,refresh-drafted,Live €35bn / 1.2m / 2023. Official €252.0bn AUM / 3.04m at 31 Dec 2025. Wave 16
+P1,KIC,allocator,both,/korea-investment-corporation-kic-explained/,entity,unknown,unknown,unknown,refresh-drafted,Live $190bn Dec 2023. Official USD 232.0bn at end-2025. Not NPS. Wave 16
+P1,NPS Korea,allocator,both,/national-pension-service-korea-explained/,entity,unknown,unknown,unknown,refresh-drafted,Live 1,438tn won / $997bn. Official KRW 1,848.7tn at end-May 2026. No USD. Wave 16
+P1,KIA,allocator,both,/kuwait-investment-authority-kia/,entity,unknown,unknown,unknown,refresh-drafted,Live invents US$1.07T. KIA does not publish AUM. Wave 16
 P2,what is an OCIO,allocator,both,/what-is-an-ocio/,define,unknown,unknown,unknown,live-check,
 P2,single family office vs multi family office,allocator,both,/single-vs-multi-family-office/,define,unknown,unknown,unknown,live-check,
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,live-check,

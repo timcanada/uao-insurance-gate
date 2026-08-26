@@ -220,6 +220,8 @@ def _people_from_leader_rows(kind: str, rows: list[dict[str, str]]) -> list[dict
         elif kind == "cio":
             title = "Chief Investment Officer"
             org_name = row.get("orgLabel") or ""
+            if not _owner_like_org(org_name):
+                continue
             org_type = "pension"
         else:
             title = row.get("role") or "Chief Executive Officer"
@@ -370,6 +372,8 @@ def _cios_from_cirrus(client: HttpClient) -> list[dict[str, Any]]:
         if not name:
             continue
         claims = entity.get("claims") or {}
+        if claims.get("P570"):
+            continue
         employers = claims.get("P108") or []
         employer_id = _qid(employers[0]) if employers else None
         if employer_id:
@@ -379,7 +383,7 @@ def _cios_from_cirrus(client: HttpClient) -> list[dict[str, Any]]:
     people: list[dict[str, Any]] = []
     for qid, name, employer_id in rows:
         org_name = _label(employers.get(employer_id) or {}) if employer_id else ""
-        if not org_name:
+        if not org_name or not _owner_like_org(org_name):
             continue
         people.append(
             {
@@ -399,3 +403,27 @@ def _cios_from_cirrus(client: HttpClient) -> list[dict[str, Any]]:
 
 def entity_url(qid: str) -> str:
     return f"https://www.wikidata.org/wiki/{quote(qid)}"
+
+
+OWNER_ORG_HINTS = (
+    "pension",
+    "retirement",
+    "endowment",
+    "university",
+    "sovereign",
+    "teachers",
+    "investment authority",
+    "superannuation",
+    "family office",
+    "wealth fund",
+    "insurance",
+    "reinsurance",
+    "permanent fund",
+    "investment board",
+    "investment corporation",
+)
+
+
+def _owner_like_org(name: str) -> bool:
+    text = (name or "").lower()
+    return any(hint in text for hint in OWNER_ORG_HINTS)

@@ -171,7 +171,7 @@ def fetch_13f_signers(
             continue
         url = f"https://www.sec.gov/Archives/edgar/data/{cik}/{adsh}/{filename}"
         try:
-            raw = client.request(url, headers={"Accept": "application/xml"}, retries=2)
+            raw = client.request(url, headers={"Accept": "application/xml"}, retries=4)
         except Exception:
             continue
         text = raw if isinstance(raw, str) else ""

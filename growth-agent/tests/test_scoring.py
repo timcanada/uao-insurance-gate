@@ -49,3 +49,8 @@ def test_head_of_private_markets_clears_bar():
 def test_vice_president_stays_below_president_rule():
     score = score_person(title="Vice President", org_type="pension")
     assert not score.exportable
+
+
+def test_director_of_public_markets_clears_bar():
+    score = score_person(title="Director of Public Markets", org_type="pension")
+    assert score.exportable

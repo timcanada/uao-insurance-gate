@@ -49,6 +49,27 @@ def test_wikipedia_infobox_key_people_and_chiefs():
     assert people[0]["title"] == "Chief Executive Officer"
     assert people[0]["source"] == "wikipedia"
 
+    gic = """
+{{Infobox
+| key_people = [[Lee Hsien Loong]] ([[chairman]])<br />Lim Chow Kiat ([[Chief executive officer|CEO]])
+}}
+"""
+    people = people_from_infobox(gic, org_name="GIC Private Limited", org_type="swf", country="SG")
+    names = {row["name"]: row["title"] for row in people}
+    assert names["Lee Hsien Loong"] == "Chairperson"
+    assert names["Lim Chow Kiat"] == "Chief Executive Officer"
+    assert not any("[[" in row["name"] for row in people)
+
+    pif = """
+{{Infobox
+| key_people = {{Unbulleted_list|[[Mohammed bin Salman]], Chairman  |[[Yasir Al-Rumayyan]], Governor}}
+}}
+"""
+    people = people_from_infobox(pif, org_name="Public Investment Fund", org_type="swf", country="SA")
+    names = {row["name"]: row["title"] for row in people}
+    assert names["Mohammed bin Salman"] == "Chairperson"
+    assert names["Yasir Al-Rumayyan"] == "Governor"
+
 
 def test_wikipedia_minister_table_skips_list_links():
     wikitext = """

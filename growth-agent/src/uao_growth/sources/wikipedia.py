@@ -215,7 +215,11 @@ def looks_like_person_name(name: str) -> bool:
     lowered = text.lower()
     if lowered in {"list", "ceo", "cio", "cfo", "chairman", "n/a", "unknown", "tba", "vacant"}:
         return False
-    if "{{" in text or "}}" in text or "|" in text:
+    if re.search(r"[\[\]\{\}\|<>\*]|https?://", text):
+        return False
+    if text.startswith("(") or text.endswith(")"):
+        return False
+    if re.match(r"^(chief|chair|ceo|cio|cfo|coo|vice|managing|executive|group|co-ceo|co-cio)\b", lowered):
         return False
     if not re.search(r"[A-Za-z]", text):
         return False
@@ -306,21 +310,39 @@ def _people_from_key_people(value: str) -> list[tuple[str, str]]:
         item = _plain_name(item)
         if not item:
             continue
-        match = re.match(r"(.+?)\s*\((.+)\)\s*$", item)
-        if match:
-            name = _plain_name(match.group(1))
-            title = normalize_title(match.group(2))
-        else:
-            name = item
-            title = "Chief Executive Officer"
+        name, title = _name_and_title(item)
         if name:
             found.append((name, title))
     return found
 
 
+ROLE_SUFFIX = re.compile(
+    r",\s*(chairman|chairperson|chairwoman|chair|ceo|cio|cfo|coo|governor|"
+    r"president|managing director|executive director|group ceo|co-ceo).*$",
+    re.I,
+)
+HONORIFIC_PREFIX = re.compile(
+    r"^(president|prime minister|sheikh|shaikh|prince|dr\.?)\s+",
+    re.I,
+)
+
+
+def _name_and_title(item: str) -> tuple[str, str]:
+    text = _plain_name(item)
+    match = re.match(r"(.+?)\s*\((.+)\)\s*$", text)
+    if match:
+        return _plain_name(match.group(1)), normalize_title(match.group(2))
+    suffix = ROLE_SUFFIX.search(text)
+    if suffix:
+        name = _plain_name(text[: suffix.start()])
+        return name, normalize_title(suffix.group(1))
+    return HONORIFIC_PREFIX.sub("", text).strip(), "Chief Executive Officer"
+
+
 def _split_key_people(value: str) -> list[str]:
     text = COMMENT.sub("", value)
     text = REF.sub("", text)
+    text = WIKILINK.sub(lambda m: (m.group(1).split("|")[-1]).strip(), text)
     template = re.search(
         r"\{\{\s*(ubl|unbulleted[ _]?list|plainlist)\s*\|(.*)\}\}\s*$",
         text,
@@ -329,6 +351,7 @@ def _split_key_people(value: str) -> list[str]:
     if template:
         return [part.strip() for part in _split_template_args(template.group(2)) if part.strip()]
     text = re.sub(r"<br\s*/?>", "|", text, flags=re.I)
+    text = text.replace("*", "|")
     return [part.strip() for part in re.split(r"\s*\|\s*", text) if part.strip()]
 
 

@@ -382,5 +382,10 @@ P1,executive search asset owners,service-provider,A,/directory/executive-search/
 P1,pension fund custodian,allocator,both,/directory/custody-administration/,directory,unknown,unknown,unknown,drafted-wave-81,Wave 81 hub
 P1,institutional investment data providers,allocator,both,/directory/data-and-index/,directory,unknown,unknown,unknown,drafted-wave-81,Wave 81 hub. Do not mint /investment-data-providers/
 P1,family office cybersecurity,allocator,both,/directory/cybersecurity/,directory,unknown,unknown,unknown,drafted-wave-81,Wave 81 hub. Do not 301 onto /directory/technology/
+P1,placement agents asset owners,allocator,both,/directory/placement-agents/,directory,unknown,unknown,unknown,drafted-wave-82,Wave 82 hub. Do not 301 onto /what-is-co-investment-in-private-equity/
+P1,New York City Retirement Systems,allocator,both,/new-york-city-crs/,define,unknown,unknown,unknown,drafted-wave-82,Wave 82 institution. Official $326.3bn at 30 Jun 2026. Do not 301 onto NYSCRF. Do not mint /nyc-retirement-systems/
+P1,leaving a sovereign wealth fund,allocator,both,/careers/intelligence/leaving-a-sovereign-fund/,careers,unknown,unknown,unknown,drafted-wave-82,Wave 82 careers. Do not 301 onto moving-into
+P1,first year inside a family office,allocator,both,/careers/intelligence/first-year-inside-a-family-office/,careers,unknown,unknown,unknown,drafted-wave-82,Wave 82 careers. Do not mint /family-office/
+P1,internal vs external CIO office,allocator,both,/careers/intelligence/internal-vs-external-cio-office/,careers,unknown,unknown,unknown,drafted-wave-82,Wave 82 careers. Do not 301 onto /what-is-an-ocio/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

@@ -5,7 +5,7 @@ type: directory
 desk: commercial
 audience: both
 primary_keyword: "asset owner service providers directory"
-answer_block: "The Universal Owner Directory is Universal Asset Owners' public map of the firms that sit around long-horizon capital: law, accounting and tax, technology, investment banking, consulting, OCIO, custody and executive search. It is a discovery layer for allocators and a labelled commercial surface for firms that want to be found. Editorial coverage is separate. Featured placements are marked paid."
+answer_block: "The Universal Owner Directory is Universal Asset Owners' public map of the firms that sit around long-horizon capital: law, accounting and tax, technology, investment banking, consulting, OCIO, custody, executive search and placement agents. It is a discovery layer for allocators and a labelled commercial surface for firms that want to be found. Editorial coverage is separate. Featured placements are marked paid."
 sources:
   - https://www.universalassetowners.com/readership/
   - https://www.universalassetowners.com/ethics/
@@ -16,7 +16,7 @@ editor_status: draft
 
 # The Universal Owner Directory
 
-The Universal Owner Directory is Universal Asset Owners' public map of the firms that sit around long-horizon capital: law, accounting and tax, technology, investment banking, consulting, OCIO, custody and executive search. It is a discovery layer for allocators and a labelled commercial surface for firms that want to be found. Editorial coverage is separate. Featured placements are marked paid.
+The Universal Owner Directory is Universal Asset Owners' public map of the firms that sit around long-horizon capital: law, accounting and tax, technology, investment banking, consulting, OCIO, custody, executive search and placement agents. It is a discovery layer for allocators and a labelled commercial surface for firms that want to be found. Editorial coverage is separate. Featured placements are marked paid.
 
 ## Why a directory belongs on a newsroom
 
@@ -43,6 +43,7 @@ The Directory sits beside the newsroom, not inside it. A profile here is not a r
 - [Custody, administration and operations](/directory/custody-administration/)
 - [Data and index](/directory/data-and-index/)
 - [Cybersecurity](/directory/cybersecurity/)
+- [Placement agents](/directory/placement-agents/)
 
 ## How listings work
 

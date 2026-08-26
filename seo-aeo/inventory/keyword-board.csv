@@ -167,6 +167,11 @@ P1,net zero investment commitments,allocator,both,/net-zero-investment-commitmen
 P1,net zero targets pension funds,allocator,both,/net-zero-targets-for-pension-funds/,define,unknown,unknown,unknown,refresh-drafted,Live $40T / CalPERS $440bn / PFZW €200bn. Official $637.1bn / €252036m. Wave 37
 P1,private credit market size,allocator,both,/private-credit-market-size/,define,unknown,unknown,unknown,refresh-drafted,Live $1.7-3.5T. Twin invents CalPERS $440bn / CPP $480bn. Official house AUM. 301 what-is twin. Wave 37
 P1,defined benefit vs defined contribution,allocator,both,/defined-benefit-vs-defined-contribution/,define,unknown,unknown,unknown,refresh-drafted,Live IRS 2025 $70k / $23500. Official 2026 $72k / $24500. Wave 37
+P1,pension fund private credit allocation,allocator,both,/pension-fund-private-credit-allocation-trends/,define,unknown,unknown,unknown,refresh-drafted,Live CalPERS $440bn / CPP CAD $621bn / 5-12%. Official $637.1bn / C$793.3bn. Wave 38
+P1,private equity vs private credit vs infrastructure,allocator,both,/private-equity-vs-private-credit-vs-infrastructure/,compare,unknown,unknown,unknown,refresh-drafted,Live CalPERS $503bn / GPFG $1.4T. Official $637.1bn / kroner. Wave 38
+P1,climate transition risk universal owners,allocator,both,/climate-transition-risk-for-universal-owners/,define,unknown,unknown,unknown,refresh-drafted,Live $100T / CalPERS $440bn / GPFG $1.4T. Twin invents $50T / PSP $230bn. 301 short twin. Wave 38
+P1,what is a bulk annuity,allocator,both,/what-is-a-bulk-annuity/,define,unknown,unknown,unknown,refresh-drafted,Live LCP £40-55bn / £1T remaining. Official USS DB £79.8bn. Do not 301 onto PRT. Wave 38
+P1,pension risk transfer buyout,allocator,both,/pension-risk-transfer-buyout/,define,unknown,unknown,unknown,refresh-drafted,Live survey 94% / hundreds of billions. Official CalPERS $637.1bn / USS DB £79.8bn. Wave 38
 P2,what is an OCIO,allocator,both,/what-is-an-ocio/,define,unknown,unknown,unknown,live-check,
 P2,single family office vs multi family office,allocator,both,/single-vs-multi-family-office/,define,unknown,unknown,unknown,live-check,
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,live-check,

@@ -1,5 +1,29 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 38: CalPERS $440bn / $503bn; CPP CAD $621bn; GPFG $1.4T; leftover £1T buyout; leftover $100T climate
+
+**Queries / URLs:** `/pension-fund-private-credit-allocation-trends/`, `/private-equity-vs-private-credit-vs-infrastructure/`, `/climate-transition-risk-for-universal-owners/`, `/what-is-a-bulk-annuity/`, `/pension-risk-transfer-buyout/`.
+
+**What was wrong on the live site:**
+
+- Pension private-credit invents leftover **5–12%**, CalPERS **$440 billion / $30 billion**, CPP **CAD $621 billion / $460 billion / CAD $50+ billion**, leftover LGPS **£400 billion**, leftover AP1 **SEK 446 billion**, leftover BCPP **$80+ billion**. Official: CalPERS **$637.1 billion**. CPP **C$793.3 billion**.
+- PE vs credit vs infra invents CalPERS **$503 billion** and leftover sleeves, GPFG **$1.4 trillion**, leftover Oaktree **$164 billion**, leftover LSTA **$500 billion**, leftover Yale **June 2024**. Official: CalPERS **$637.1 billion**. GPFG **kroner**. Yale **$44.1 billion** at **30 June 2025**.
+- Climate invents **$100+ trillion**, CalPERS **$440 billion**, GPFG **$1.4 trillion**, leftover APG **$530 billion**. Twin invents **$50+ trillion**, leftover Australian super **$2.5 trillion**, leftover Dutch **€650 billion**, leftover PSP **$230 billion**. Official: CalPERS **$637.1 billion**. GPFG **kroner**. PSP **C$320.6 billion**.
+- Bulk annuity invents leftover LCP **£40–55 billion**, WTW **£70 billion**, leftover **£500 billion / £1 trillion**. Official UK exhibit: USS DB **£79.8 billion**.
+- PRT invents leftover survey **94% / 80% / four in five** and leftover **hundreds of billions / trillions**. Official exhibits only.
+
+**Confirmed still unpublished:** Waves 1–38. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00**; newer zero-delivery alerts through **26 Aug 14:06 UTC**. Do not ping support.
+
+**Shipped (Wave 38):** five overwrites. No new slugs. Publisher default waves now include 38. Queued 301: `/climate-transition-risk-universal-owners/` → climate keeper.
+
+**Refused:** ICD YE2025 PDF. Dollarizing GPIF / GPFG. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / OMERS / CalPERS / Mubadala institution keepers. Minting `/strs-ohio-explained/`, `/texas-trs/`, or `/psp-investments/`. Fetching leftover AP1 / BCPP / Oaktree / LSTA / ICG / LCP-WTW / Purple Book / IEA / IIGCC piles. Another interest-rate / net-zero / private-credit-size / DB-vs-DC synonym.
+
+**Access:** Secrets re-requested. `GHOST_ADMIN_API_KEY` and `GOOGLE_SERVICE_ACCOUNT_JSON` still UNSET.
+
+**Next wake must:** Paste 5 → 38. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another private-credit-allocation / PE-vs-credit-vs-infra / climate-transition / bulk-annuity / PRT synonym. Highest-harm leftovers now: `/what-is-private-credit/` (leftover **$1.5–5 trillion** pile); `/what-is-private-credit-direct-lending/` (score next); `/j-curve-private-equity/` (no leftover AUM — skip unless a twin appears); then unpublished keepers (GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn).
+
 ## 2026-08-26 — Wake 37: CalPERS $475bn / $440bn / $469bn; GPIF $1.3T; GPFG $1.43T; PFZW €200bn; IRS leftover 2025 limits
 
 **Queries / URLs:** `/interest-rate-risk-pension-funds/`, `/net-zero-investment-commitments/`, `/net-zero-targets-for-pension-funds/`, `/private-credit-market-size/`, `/defined-benefit-vs-defined-contribution/`.

@@ -1,5 +1,27 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 52: leftover CalPERS $470bn / $446bn / $430bn / $440bn / $469bn / $441bn; leftover Harvard $50bn; leftover GPFG $1.4T / $1.3T / leftover NBIM $1.6T; leftover NYS $280bn; leftover GIC $690bn; leftover CalSTRS $314bn / $328bn; leftover ABP $570bn / €570bn; leftover Temasek $916bn; leftover KIA $183bn
+
+**Queries / URLs:** `/what-is-stewardship-in-institutional-investing/`, `/green-bonds-institutional-investors/`, `/mezzanine-debt-explained/`, `/tcfd-explained-institutional/`, `/science-based-targets-institutional/`.
+
+**What was wrong on the live site:**
+
+- Stewardship invent leftover CalPERS **$470 billion**, leftover GPFG **$1.4 trillion**, leftover Harvard **$50 billion**, leftover PRI **$120 trillion**. Official: CalPERS **$637.1 billion**. GPFG **kroner**. Harvard **$56.9 billion**.
+- Green bonds invent leftover CalPERS **$446 billion**, leftover GPFG **$1.4 trillion**, leftover NYSCRF **$280 billion**. Official: CalPERS **$637.1 billion**. GPFG **kroner**. NYSCRF **$295.4 billion**.
+- Mezzanine invent leftover CalPERS **$430 billion**, leftover GIC **$690 billion**, leftover Ares **$530 billion**. Official: CalPERS **$637.1 billion**. GIC **no AUM**.
+- TCFD invent leftover CalPERS **$440 billion**, leftover CalSTRS **$314 billion**, leftover ABP **$570 billion**. Twin invent leftover CalPERS **$441 billion**, leftover CalSTRS **$328 billion**, leftover GPFG **$1.3 trillion**, leftover Temasek **$916 billion**, leftover KIA **$183 billion**. Official: CalPERS **$637.1 billion**. CalSTRS **$415.4 billion**. ABP **€530 billion**. GPFG **kroner**. Temasek **S$518 billion**. KIA **no AUM**.
+- Science-based targets invent leftover ABP **€570 billion**, leftover CalPERS **$469 billion**, leftover NBIM **$1.6 trillion**. Official: ABP **€530 billion**. CalPERS **$637.1 billion**. GPFG **kroner**.
+
+**Confirmed still unpublished:** Waves 1–52. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00**. Do not ping support.
+
+**Shipped (Wave 52):** five overwrites. No new slugs. Publisher default waves now include 52. Queued 301: `/tcfd-explained/`.
+
+**Refused:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / CDPQ / OMERS / CalPERS / Mubadala / Temasek / Future Fund / Alaska / ADIA / GIC / BCI / GPIF institution keepers. Overwriting `/endowment-model-explained/` (Wave 15) or `/yale-endowment-model/` (Wave 14). Another decumulation / inflation / securities-lending / private-markets-DD / IPS synonym. Minting `/harvard-endowment-explained/`, `/what-is-stewardship/`, `/green-bonds/`, `/mezzanine-debt/`, `/tcfd/`, or `/science-based-targets/`. Fetching leftover PRI / Ceres / CBI / Ares / ICCR piles. `/operational-due-diligence-private-equity/` (only leftover CalPERS **$440 billion**). `/portfolio-rebalancing-institutional/` (leftover CalPERS **$440 billion** / leftover GPFG **$1.3 trillion**). `/paris-aligned-investment-explained/` (leftover CalPERS **$440 billion** / leftover USS **£70 billion**). `/transition-finance-explained/` (leftover CalPERS **$469 billion** / leftover ABP **€550 billion**).
+
+**Next wake must:** Paste 5 → 52. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another stewardship / green-bonds / mezzanine / TCFD / SBTi synonym. Highest-harm leftovers now: `/portfolio-rebalancing-institutional/` (leftover CalPERS **$440 billion** / leftover GPFG **$1.3 trillion**); `/paris-aligned-investment-explained/` (leftover CalPERS **$440 billion** / leftover GPFG **$1.15 trillion** / leftover USS **£70 billion**); `/transition-finance-explained/` (leftover CalPERS **$469 billion** / leftover ABP **€550 billion**); `/operational-due-diligence-private-equity/` (leftover CalPERS **$440 billion**); unpublished keepers (GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn).
+
 ## 2026-08-26 — Wake 51: leftover CalPERS $440bn / $470bn / $466bn / $430bn; leftover CalSTRS $315bn / $325bn; leftover CPP $575bn; leftover Yale $41.4bn; leftover Harvard $50.7bn; leftover GPFG $1.36T / $1.4T / $1.35T / $2T; leftover Future Fund $280bn; leftover PIF $925bn; leftover Temasek $383bn; leftover GIC $688bn; leftover ABP $500bn; leftover BCI $240bn; leftover GPIF $1.4T
 
 **Queries / URLs:** `/decumulation-problem-explained/`, `/inflation-long-term-portfolios/`, `/securities-lending-explained/`, `/private-markets-due-diligence/`, `/investment-policy-statement-explained/`.

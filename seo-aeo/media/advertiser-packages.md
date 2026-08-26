@@ -23,6 +23,7 @@ Advertisers evaluating a placement may request, under confidentiality, the subsc
 | **Desk** | $20,000–$25,000 | Always-on brand in the morning room | Labelled newsletter presence (The Universal Owner) + site billboard + one podcast/show-notes mention per week |
 | **Category** | $30,000–$40,000 | Owning a problem (legal, tax, technology, banking, search) | Everything in Desk + labelled category adjacency on the relevant `/directory/{category}/` hub + one labelled 800-word briefing per quarter, edited to newsroom standards and marked sponsored |
 | **Platform** | $45,000–$55,000 | Firms that hire, list, and sell into the same room | Everything in Category + featured careers placement (labelled) + claimed directory profile + one private briefing slot per year for *your clients who are already owners* (not a pay-for-access to our list) |
+| **Display** | CPM / view-based, quoted only with real analytics | Ecosystem reach on public hubs | Labelled units on explainers, directory, careers — **not** inside the brief body. See the display page in Wave 2. We will not sell a fictional CPM. |
 
 Quarterly prepay: 5% less than monthly. Annual: 10% less. Production extras (film, custom data) are scoped separately.
 

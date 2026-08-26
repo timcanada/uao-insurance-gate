@@ -11,7 +11,9 @@ The agent cannot log into Ghost from this repo. This is the publisher checklist.
 5. Upgrade `/advertise/` and `/press-desk/` from the drafts (they overwrite thin live pages).
 6. Put `/llms/` patch live.
 7. Send the advertiser one-pager (`media/advertiser-packages.md`) as a PDF to the first ten firms that already buy IPE/P&I/Campden.
-8. Schedule a weekly agent run with the runbook in `09-autonomous-operating-system.md`.
+8. The agent loop is now **always-on** (`plan/12-always-on-machine.md` + Cursor timer). You still paste Ghost drafts.
+9. Decide when to stand up **Lane A** (public scale newsletter) so the 1M-subscriber goal has a list that is not the reviewed brief.
+10. Paste Wave 2 after Wave 1 (`publish/wave-2/INDEX.md`).
 
 ## What not to do
 

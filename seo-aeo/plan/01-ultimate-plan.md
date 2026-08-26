@@ -1,6 +1,7 @@
 # The ultimate UAO SEO / AEO plan
 
 **Status:** Launch document. Written by running Super Prompt v4 against the live site on 25 August 2026.  
+**North star (locked 26 Aug 2026):** `../GOALS.md` — #1 across search and LLMs; 1M subscribers (two lanes); $1M/year ads; 24/7 learning. This plan is how. The goal file is why.  
 **Site today:** Ghost publication with two weekday desks, research, careers, registry, membership, and a large explainer cluster. Not a blank page.  
 **Job:** Turn that into the default home of universal ownership — for readers, for people who move, for advertisers, and for other journalists.
 

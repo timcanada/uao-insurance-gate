@@ -5,7 +5,7 @@ This folder is the launch kit for an autonomous research → competitor → moni
 **Owner:** Tim Peters, founder and publisher  
 **Site:** [universalassetowners.com](https://www.universalassetowners.com/)  
 **CMS:** Ghost  
-**Audience:** CIOs and desks at sovereign wealth funds, public and corporate pensions, endowments, foundations, insurers, and multi-generational family offices — globally. Secondary: lawyers, accountants, technology vendors, investment banks, consultants, OCIOs, and executive search firms that sell to that room.
+**Audience:** CIOs, C-suite, and desks at sovereign wealth funds, public and corporate pensions, endowments, foundations, insurers, royal family investment offices, and multi-generational family offices — globally. Secondary: lawyers, accountants, technology vendors, investment banks, consultants, OCIOs, executive search, event hosts, and anyone who wants to advertise or partner in front of that room.
 
 ## What this is (and is not)
 
@@ -17,23 +17,28 @@ Target inventory over the full build: **10,000–30,000 indexable pages**, each 
 
 ## How to use this kit
 
+0. **`GOALS.md` is the locked north star** — 1M subscribers, $1M/year ads, #1 across search and LLMs, 24/7 learning. Do not reopen the goal. Run the machine.
 1. Read `prompts/iteration-log.md` to see how the super prompt was refined.
 2. Use **`prompts/v4-FINAL.md`** as the standing brief for every future agent run.
-3. Treat `plan/01-ultimate-plan.md` as the strategy of record.
-4. Publish Wave 1 from `publish/wave-1/` into Ghost (human editor review first).
-5. Load `inventory/priority-slugs.csv` as the production backlog.
-6. Run the weekly loop in `plan/08-monitoring-self-learning.md`.
+3. Treat `plan/01-ultimate-plan.md` as the strategy of record; `plan/12-always-on-machine.md` as the 24/7 loop.
+4. Publish Wave 1 then Wave 2 from `publish/` into Ghost (human editor review first).
+5. Load `inventory/priority-slugs.csv` and `inventory/keyword-board.csv` as the production backlog.
+6. Update `tracking/` every run (subscribers, sponsors, learning log).
+7. Never idle: if you cannot publish, still score, merge, and log.
 
 ## Folder map
 
 | Path | What it is |
 | --- | --- |
+| `GOALS.md` | Locked north star — read first, every run |
 | `prompts/` | Super prompt v1–v4 and the critique that improved each version |
-| `plan/` | Strategy, competitors, architecture, traffic, advertisers, PR, ops |
-| `inventory/` | Page-scale math and the first 1,200 priority slugs |
+| `plan/` | Strategy, competitors, architecture, traffic, advertisers, PR, 24/7 ops |
+| `inventory/` | Priority slugs + franchise keyword board |
 | `templates/` | Ghost-ready page templates (institution, person, city, Q&A, firm) |
-| `publish/wave-1/` | Complete first-wave articles ready for the newsroom |
-| `media/` | Advertiser packages aimed at $20k–$50k / month retainers |
+| `publish/wave-1/` | First-wave articles ready for the newsroom |
+| `publish/wave-2/` | Scale/sponsor/podcast/events/royal-office hubs |
+| `media/` | Advertiser packages ($20k–$50k / month + display path) |
+| `tracking/` | Subscribers, sponsors, learning log — never invent numbers |
 
 ## Hard rules (never skip)
 
@@ -47,4 +52,4 @@ Target inventory over the full build: **10,000–30,000 indexable pages**, each 
 
 ## The flywheel in one sentence
 
-Attract the people who allocate permanent capital → become the place they are quoted from and hired through → make that room so concentrated that elite service providers pay $20k–$50k a month to stand in it → use that revenue to fund more original reporting → get cited by newsrooms and answer engines → attract the next thousand allocators.
+Rank and get cited everywhere long-horizon capital is searched → millions of views and two newsletter lanes toward 1M subscribers → premium sponsors plus display toward $1M/year → journalism, podcast, and event coverage that make UAO the newsroom people quote → more rank, more room, more money. Never stop the loop.

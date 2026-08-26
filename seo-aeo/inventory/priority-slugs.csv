@@ -63,11 +63,12 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,harvard-management-company,Harvard Management Company,allocator,brief,P0,refresh-drafted,Endowment — official $56.9bn / 11.9% at 30 Jun 2025 on Wave 15 category + Wave 17 list. Do not mint /harvard-endowment-explained/
 2,institution,stanford-management-company,Stanford Management Company,allocator,brief,P0,refresh-drafted,Endowment — Wave 17 list: endowment $40.8bn at 31 Aug 2025; Merged Pool $47.7bn / 14.3% at 30 Jun 2025. Do not treat the pool as endowment AUM
 2,institution,princeton-investment-company,PRINCO,allocator,brief,P0,refresh-drafted,Endowment — Wave 17 list: PRINCO $36.4bn / 11.0% at 30 Jun 2025
-2,institution,mit-investment-management-company,MITIMCo,allocator,brief,P0,needed,Endowment
-2,institution,university-of-texas-imf,UTIMCO,allocator,brief,P0,needed,Endowment
+105,institution,mit-investment-management-company,MITIMCo,allocator,brief,P0,drafted-in-repo,Wave 105. Official $27,366.2 million endowment at 30 Jun 2025. Do not mint /mitimco/
+105,institution,utimco,UTIMCO,allocator,brief,P0,drafted-in-repo,Wave 105. Official $67.6 billion Endowments at 31 Aug 2025. Canonical official-name slug. Do not mint /university-of-texas-imf/ or /utimco-explained/
+2,institution,university-of-texas-imf,UTIMCO (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 105 /utimco/
 104,institution,wellcome-trust,Wellcome Trust,allocator,brief,P0,drafted-in-repo,Wave 104. Official £39,933 million portfolio at 30 Sep 2025. Print pounds. Do not mint /wellcome-trust-explained/
 104,institution,gates-foundation-trust,Gates Foundation Trust,allocator,brief,P0,drafted-in-repo,Wave 104. Official $89.2 billion net assets at 31 Dec 2025. Do not mint /gates-foundation/ or /bill-melinda-gates-foundation/
-2,institution,ford-foundation,Ford Foundation,allocator,brief,P0,needed,Foundation
+105,institution,ford-foundation,Ford Foundation,allocator,brief,P0,drafted-in-repo,Wave 105. Official $17,156,492 thousand investments at 31 Dec 2025. Do not mint /ford-foundation-explained/
 2,institution,khazanah-explained,Khazanah,allocator,brief,P0,refresh-drafted,Q&A /is-khazanah-a-sovereign-wealth-fund/ Wave 12; institution /khazanah-nasional-malaysia-explained/ Wave 17 (RM105bn NAV). Do not 301. Do not mint /khazanah-explained/
 2,institution,mumtalakat-bahrain,Mumtalakat,allocator,brief,P0,refresh-drafted,SWF — Wave 11 keeper /mumtalakat-bahrain-explained/. 301 /bahrain-mumtalakat-holding-explained/ after paste
 2,institution,qia-vs-adia,QIA vs ADIA,allocator,brief,P0,needed,Comparison
@@ -113,7 +114,8 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,san-francisco-sfers,SFERS,allocator,brief,P0,needed,Public pension
 2,institution,teacher-retirement-system-of-texas-cio,TRS Texas CIO office,allocator,brief,P0,needed,Public pension
 2,institution,cpp-vs-otpp-vs-cdpq,The Canadian large-plan triangle,allocator,brief,P0,needed,Comparison
-2,institution,unjps-united-nations,UNJSPF,allocator,brief,P0,needed,Pension
+105,institution,unjspf,UNJSPF,allocator,brief,P0,drafted-in-repo,Wave 105. Official $107,533,052 thousand net assets at 31 Dec 2025. Do not mint /unjps-united-nations/ or /united-nations-joint-staff-pension-fund/
+2,institution,unjps-united-nations,UNJSPF (typo slug),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 105 /unjspf/
 2,institution,cern-pension-fund,CERN Pension Fund,allocator,brief,P0,needed,Pension
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
@@ -134,7 +136,8 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,morocco-iqtisadi,Moroccan strategic funds,allocator,brief,P0,needed,SWF
 2,institution,indonesia-danantara-inia,Indonesia sovereign/strategic vehicles,allocator,brief,P0,refresh-drafted,SWF — Wave 15 keeper /danantara-indonesia-sovereign-fund/. 301 /indonesia-danantara-explained/ after paste. Do not mint /danantara-explained/
 2,institution,india-nco-ninf,India NIIF,allocator,brief,P0,refresh-drafted,Strategic — Wave 20 overwrites /india-niif-explained/ (USD 4.9B+ AUM; live still $9bn). Do not mint /niif/
-2,institution,philippines-maharlika,Maharlika Investment Fund,allocator,brief,P0,needed,SWF
+105,institution,maharlika-investment-corporation,Maharlika Investment Corporation,allocator,brief,P0,drafted-in-repo,Wave 105. RA 11954 PHP 500bn authorized capital is not AUM. Official 2024 TCI PHP 2.68bn. Do not mint /maharlika/ or /philippines-maharlika/
+2,institution,philippines-maharlika,Maharlika Investment Fund (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 105 /maharlika-investment-corporation/
 2,institution,vietnam-scic,SCIC,allocator,brief,P0,needed,SWF
 2,institution,thailand-gic-not,GPF Thailand,allocator,brief,P0,refresh-drafted,Public pension — Wave 20 overwrites /thailand-gpf-government-pension-fund/ (THB NAV at 24 Aug 2026; live ฿1.8T / USD 50+bn / 1979). No USD AUM
 2,institution,hong-kong-mpfa-system,Hong Kong MPF system,allocator,brief,P0,needed,Pension

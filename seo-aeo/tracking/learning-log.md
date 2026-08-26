@@ -1,5 +1,24 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 105: Ford Foundation, MITIMCo, UTIMCO, UNJSPF, Maharlika
+
+**Queries / URLs:** `/ford-foundation/`, `/mit-investment-management-company/`, `/utimco/`, `/unjspf/`, `/maharlika-investment-corporation/`.
+
+**What was wrong on the live site:**
+
+- Leftover official-filing house-AUM keepers remain exhausted after Wave 80. Remaining city P1s still fail the HQ-street lock. Unique operations P1s remain exhausted after Wave 103. Wave 104 shipped five institution nodes. Five unique needed P0 institution slugs were live **404** (reconfirmed 26 Aug), including shorts. EPFO official annual-report index still lists through **2023–24** only — no official 2024–25 PDF this turn. Unofficial Mint/secondary ₹28.4 trillion stayed refused. Capital Stage Ledger has no first-party definition on live `/methodology/`.
+- Ford 2025 audited FS (in thousands) at **31 Dec 2025**: investments **$17,156,492 thousand**; net assets **$16,101,005 thousand**; grants approved **$773,443 thousand**. MIT Treasurer FY2025: endowment excluding pledges **$27,366.2 million** at **30 Jun 2025**; pool **14.8%**; MIT News ten-year **10.7%**. UTIMCO 2025 AR: Endowments **$67.6 billion** at **31 Aug 2025**; **+10.0%**; ten-year **+8.6%**; distributions **$2.7 billion**. UNJSPF 2025 FS (thousands of USD) at **31 Dec 2025**: net assets **$107,533,052 thousand**; investments **$106,492,913 thousand**; contributions **$3,738,044 thousand**; benefits **$4,336,702 thousand**. MIC / RA 11954: authorized capital **PHP 500 billion** is not AUM; official 2024 TCI **PHP 2.68 billion**; **PHP 1.45 billion** remitted to the National Treasury.
+
+**Confirmed still unpublished:** Waves 1–105. `/directory/` **404**. Wave 1 + Wave 84–92 city pages still 404. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing. Live `/methodology/` still has no Capital Stage Ledger definition.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00** (repeat “wallet action required” + zero-delivery alerts through 26 Aug 15:52 UTC). Razorpay **$118** failed again 26 Aug. Tim already emailed support — do not ping again.
+
+**Shipped (Wave 105):** five institution pages. Wave 34 endowment-vs-foundation, Wave 104 Wellcome + Gates, Wave 17 endowment list, Wave 84 Boston, Wave 8 pension-fund, and Wave 27 Southeast Asia now link them. No leftover 301s. Publisher default waves now include 105. Google/Bing/Perplexity ranks for the five queries: **unknown** (GSC API still unset).
+
+**Refused:** ICD YE2025 PDF. Dollarizing SEK / GBP / BRL / PHP / kroner / yen. Reprinting leftover Registry ranking dollars, leftover GPFG **$1.4T**, leftover Yale **$41.4bn**, leftover Harvard **$50.7bn**, leftover Ford **$16.0bn (December 2022)**, leftover MIT **$35–40bn**, leftover Maharlika **$10bn**, leftover CalPERS **$460bn**, leftover Alaska **$89bn**, leftover PIF **$925bn** / **$2T**, or Australian Super AUM. Inventing a 2025 Maharlika AUM from unaudited press. EPFO without an official PDF. Overwriting OMERS, Texas PSF, Texas TRS, or already-current / already-drafted institution keepers. Remaining skip/weak cities. Compensation. Capital Stage Ledger. Directory firm children without three sourced facts. People/CEO pages. Dated news. Inventing a subscriber total, a live-role count, vendor logos, or an ADIA/KIA/QIA/SAFE/GIC AUM.
+
+**Next wake must:** Paste Wave 1 directory + cities + relocating, Wave 84–92 cities, Wave 81–83 hubs, Wave 92–105 careers/press/product/operations/institution pages, then 5 → 79 keepers including `/new-york-city-crs/`. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another leftover synonym explainer. Remaining city P1s stay skip/weak until an official HQ street locks. Next rotation: more unique **needed P0 institutions** with three official facts (EPFO if official PDF locks; BII / KAUST / OPERS / WSIB / PRIM if official filings lock). Compensation stays skip. Capital Stage Ledger only if a first-party live definition exists — do not invent. Directory firms only with three sourced facts. Skip remaining skip/weak cities and city-office twins. Do not overwrite already-current or already-drafted institution keepers. Do not reprint leftover Registry dollars or leftover PIF tracker dollars. Highest-harm unpublished leftovers remain: GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn.
+
 ## 2026-08-26 — Wake 104: Alecta, Wellcome Trust, Alberta Heritage, PREVI, Gates Foundation Trust
 
 **Queries / URLs:** `/alecta-sweden/`, `/wellcome-trust/`, `/alberta-heritage-savings-trust-fund/`, `/previ-brazil/`, `/gates-foundation-trust/`.

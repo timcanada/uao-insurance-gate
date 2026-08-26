@@ -55,6 +55,7 @@ A “Southeast Asia exceeds $1 trillion” lede that needs GIC **$870 billion** 
 - [Is Temasek a sovereign wealth fund?](/is-temasek-a-sovereign-wealth-fund/)
 - [Is Khazanah a sovereign wealth fund?](/is-khazanah-a-sovereign-wealth-fund/)
 - [Danantara](/danantara-indonesia-sovereign-fund/)
+- [Maharlika Investment Corporation](/maharlika-investment-corporation/)
 - [Sovereign wealth funds in Asia](/sovereign-wealth-funds-in-asia/)
 - [How sovereign-wealth-fund AUM is estimated](/how-sovereign-wealth-fund-aum-is-estimated/)
 

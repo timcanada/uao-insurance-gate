@@ -61,6 +61,8 @@ This is not a league table of “who won the endowment model.” It is four offi
 ## Related
 
 - [The endowment model, explained](/endowment-model-explained/)
+- [MITIMCo](/mit-investment-management-company/)
+- [UTIMCO](/utimco/)
 - [Yale endowment model](/yale-endowment-model/)
 - [Texas Permanent School Fund](/texas-permanent-school-fund-explained/)
 - [Universal owner](/universal-owner/)

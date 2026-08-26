@@ -46,6 +46,7 @@ Do not 301 this page onto `/endowment-vs-foundation-investing/` or `/yale-endowm
 
 - [Endowment vs foundation investing](/endowment-vs-foundation-investing/)
 - [Gates Foundation Trust](/gates-foundation-trust/)
+- [Ford Foundation](/ford-foundation/)
 - [How endowments set spending rules](/how-do-endowments-set-spending-rules/)
 - [Yale endowment model](/yale-endowment-model/)
 - [Pension vs endowment vs foundation](/pension-fund-vs-endowment-vs-foundation/)

@@ -42,5 +42,6 @@ Use official portals via [Careers](/careers/). Confirm on hmc.harvard.edu and mi
 
 - [Relocating for an asset-owner role](/careers/intelligence/relocating-for-an-asset-owner-role/)
 - [The endowment model](/endowment-model-explained/)
+- [MITIMCo](/mit-investment-management-company/)
 - [Yale endowment model](/yale-endowment-model/)
 - [What is an asset owner?](/what-is-an-asset-owner/)

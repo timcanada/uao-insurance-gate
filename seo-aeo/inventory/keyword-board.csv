@@ -497,5 +497,10 @@ P1,Wellcome Trust endowment,allocator,both,/wellcome-trust/,define,unknown,unkno
 P1,Alberta Heritage Savings Trust Fund,allocator,both,/alberta-heritage-savings-trust-fund/,define,unknown,unknown,unknown,drafted-wave-104,Wave 104. Official $31.9 billion at 31 Dec 2025. Do not mint /alberta-heritage-fund/
 P1,Previ Brazil pension,allocator,both,/previ-brazil/,define,unknown,unknown,unknown,drafted-wave-104,Wave 104. Official R$ 302 billion order. Print reais. Do not mint /previ/
 P1,Gates Foundation Trust,allocator,both,/gates-foundation-trust/,define,unknown,unknown,unknown,drafted-wave-104,Wave 104. Official $89.2 billion net assets at 31 Dec 2025. Do not mint /gates-foundation/
+P1,Ford Foundation endowment,allocator,both,/ford-foundation/,define,unknown,unknown,unknown,drafted-wave-105,Wave 105. Official $17,156,492 thousand investments at 31 Dec 2025. Do not mint /ford-foundation-explained/
+P1,MITIMCo endowment,allocator,both,/mit-investment-management-company/,define,unknown,unknown,unknown,drafted-wave-105,Wave 105. Official $27,366.2 million at 30 Jun 2025. Do not mint /mitimco/
+P1,UTIMCO endowment,allocator,both,/utimco/,define,unknown,unknown,unknown,drafted-wave-105,Wave 105. Official $67.6 billion at 31 Aug 2025. Do not mint /university-of-texas-imf/
+P1,UNJSPF pension fund,allocator,both,/unjspf/,define,unknown,unknown,unknown,drafted-wave-105,Wave 105. Official $107,533,052 thousand net assets at 31 Dec 2025. Do not mint /unjps-united-nations/
+P1,Maharlika Investment Fund,allocator,both,/maharlika-investment-corporation/,define,unknown,unknown,unknown,drafted-wave-105,Wave 105. RA 11954 PHP 500bn is not AUM. Official 2024 TCI PHP 2.68bn. Do not mint /maharlika/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

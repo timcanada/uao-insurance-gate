@@ -45,6 +45,7 @@ Do not 301 this page onto `/wellcome-trust/` or `/endowment-vs-foundation-invest
 ## Related
 
 - [Wellcome Trust](/wellcome-trust/)
+- [Ford Foundation](/ford-foundation/)
 - [Endowment vs foundation investing](/endowment-vs-foundation-investing/)
 - [How endowments set spending rules](/how-do-endowments-set-spending-rules/)
 - [Pension vs endowment vs foundation](/pension-fund-vs-endowment-vs-foundation/)

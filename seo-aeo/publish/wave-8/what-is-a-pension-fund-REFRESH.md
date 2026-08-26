@@ -90,6 +90,7 @@ No. Some SWFs pre-fund future public pensions. That still does not make GPFG, [C
 ## Related
 
 - [Public pension funds](/public-pension-funds/)
+- [UNJSPF](/unjspf/)
 - [Largest pension funds](/largest-pension-funds-in-the-world/)
 - [GPIF](/gpif-japan-explained/)
 - [CalPERS](/calpers-explained-largest-us-pension-fund/)

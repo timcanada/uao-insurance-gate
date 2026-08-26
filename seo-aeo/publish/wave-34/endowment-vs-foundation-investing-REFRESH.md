@@ -47,6 +47,7 @@ This URL is the **endowment-vs-foundation** job. The three-form comparison alrea
 - [Yale endowment model](/yale-endowment-model/)
 - [Wellcome Trust](/wellcome-trust/)
 - [Gates Foundation Trust](/gates-foundation-trust/)
+- [Ford Foundation](/ford-foundation/)
 - [Endowment model](/endowment-model-explained/)
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [Pension vs endowment vs foundation](/pension-fund-vs-endowment-vs-foundation/)

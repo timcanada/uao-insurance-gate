@@ -1,5 +1,27 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 58: leftover CalPERS $450bn / $440bn / $470bn / $475bn; leftover Mubadala $280bn; leftover ABP €564bn; leftover GPFG $1.7T / $1.3T; leftover Yale $40bn; leftover Princeton $35bn
+
+**Queries / URLs:** `/preferred-equity-private-markets/`, `/sfdr-article-8-vs-article-9-funds/`, `/impact-investing-private-markets-institutional/`, `/gips-standards-explained-institutional/`, `/erisa-explained-institutional-investors/`.
+
+**What was wrong on the live site:**
+
+- Preferred equity invent leftover CalPERS **over $450 billion**, leftover Mubadala **over $280 billion**, leftover Ares / Apollo / Blackstone **over $200 billion**. Official: CalPERS **$637.1 billion**. Mubadala **AED 1.4 trillion / US$385 billion**.
+- SFDR Article 8 vs 9 invent leftover ABP **€564 billion** and leftover GPFG **$1.7 trillion**. Official: ABP **€530 billion**. GPFG **kroner**.
+- Impact investing invent leftover GPFG **approximately $1.3 trillion**, leftover CalPERS **$440 billion**, leftover Yale **approximately $40 billion**, leftover Princeton **approximately $35 billion**. Official: GPFG **kroner**. CalPERS **$637.1 billion**. Yale **$44.1 billion**. Princeton **$36.4 billion**.
+- GIPS invent leftover CalPERS **$470 billion**. Official: CalPERS **$637.1 billion**. Twin `/gips-standards-explained/` had no leftover house AUM.
+- ERISA invent leftover CalPERS **approximately $475 billion** (2024). Official: CalPERS **$637.1 billion**. Twin `/erisa-explained-institutional/` had no leftover house AUM.
+
+**Confirmed still unpublished:** Waves 1–58. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00** through **26 Aug 15:37 UTC**. Do not ping support.
+
+**Shipped (Wave 58):** five overwrites. No new slugs. Publisher default waves now include 58. No new 301s this wake.
+
+**Refused:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ / USS. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / CDPQ / OMERS / CalPERS / Mubadala / Temasek / Future Fund / Alaska / ADIA / GIC / BCI / GPIF institution keepers. Overwriting `/endowment-model-explained/` (Wave 15) or `/yale-endowment-model/` (Wave 14). Another ISSB / illiquidity / biodiversity-net-gain / demographic / political-risk synonym. Minting `/harvard-endowment-explained/`, `/princeton-endowment/`, `/preferred-equity/`, `/what-is-sfdr/`, `/impact-investing-explained/`, `/what-is-gips/`, or `/what-is-erisa/`. Fetching leftover Ares / Apollo / Blackstone piles. `/sfdr-explained/` (leftover GPFG **€1.3 trillion** / leftover CalPERS **$450+ billion** — different job, do not 301 onto Article 8 vs 9). `/gips-standards-explained/` and `/erisa-explained-institutional/` (no leftover house AUM — do not 301).
+
+**Next wake must:** Paste 5 → 58. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another preferred-equity / SFDR-8-vs-9 / impact / GIPS / ERISA synonym. Highest-harm leftovers now: `/sfdr-explained/` (leftover GPFG **€1.3 trillion** / leftover CalPERS **$450+ billion**); `/tokenisation-private-assets-institutions/` (leftover GPFG **USD 1.4 trillion**); `/fiscal-dominance-investors-explained/` (leftover CalPERS **$440 billion**); unpublished keepers (GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn).
+
 ## 2026-08-26 — Wake 57: leftover CalPERS $440bn / $488bn / $439.2bn / $470bn; leftover GPIF $1.7T / leftover ¥184T / leftover $1.3T; leftover GPFG $1.32T / $1.46T; leftover Yale $41.4bn; leftover USS £87bn / $110bn
 
 **Queries / URLs:** `/issb-standards-explained/`, `/illiquidity-premium-private-markets/`, `/biodiversity-net-gain-institutional-investors/`, `/demographic-transition-long-term-investing/`, `/political-risk-emerging-markets-investors/`.

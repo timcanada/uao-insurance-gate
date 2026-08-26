@@ -1,5 +1,24 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 89: city pages — Frankfurt, Milan, Kuala Lumpur, Johannesburg, Brussels
+
+**Queries / URLs:** `/careers/cities/frankfurt/`, `/careers/cities/milan/`, `/careers/cities/kuala-lumpur/`, `/careers/cities/johannesburg/`, `/careers/cities/brussels/`.
+
+**What was wrong on the live site:**
+
+- Leftover official-filing house-AUM keepers remain exhausted after Wave 80. Wave 88 shipped five city pages. The next five city P1s with locked HQ facts were still `needed` and live **404** (confirmed 26 Aug).
+- VBL official HQ is Karlsruhe, not Frankfurt. CDP official HQ is Rome; Milan is via San Marco 21 A. Khazanah official contact is Mercu UEM, KL Sentral; no USD AUM. PIC official physical address is Pretoria, not Johannesburg. APG official Brussels is Robert Schumanplein 9.
+
+**Confirmed still unpublished:** Waves 1–89. `/directory/` **404**. Wave 1 + Wave 84–89 city pages still 404. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00**. Do not ping support.
+
+**Shipped (Wave 89):** five city pages. Relocating hub now lists 36 drafted cities. Amsterdam and The Hague now link Brussels. Paris now links Frankfurt. Singapore now links Kuala Lumpur. No leftover 301s. Publisher default waves now include 89.
+
+**Refused:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ / USS / ATP / Khazanah / HKMA Exchange Fund / NPS / EPF. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / CDPQ / OMERS / CalPERS / CalSTRS / Mubadala / Temasek / Future Fund / Alaska / ADIA / GIC / BCI / GPIF / CPP / Texas TRS / PIF / QIA / Australian Super / Aware Super / KIC / UniSuper / CIC / ADQ / Cbus / AIMCo / NZ Super / KIA / Khazanah / PSP / NYC CRS / ISIF / EPF institution keepers. Another fiduciary-archive child or leftover synonym explainer. `/careers/intelligence/cio-compensation-public-plans/` (do not invent pay). Madrid (weaker owner-HQ lock). Minting `/vbl-explained/`, `/frankfurt-pension/`, `/careers/cities/karlsruhe/`, `/cdp-explained/`, `/milan-cdp/`, `/careers/cities/rome/`, `/khazanah-explained/`, `/kl-khazanah/`, `/pic-explained/`, `/gepf/`, `/careers/cities/pretoria/`, `/brussels-apg/`, `/family-office/`, `/pggm/`, `/pfzw-netherlands/`, `/aimco-explained/`, `/psp-investments/`, `/niif/`, or `/korea-investment-corporation-kic/`. Inventing VBL, CDP, Khazanah, EPF, PIC, GEPF, APG, ADIA, QIA, SAFE, or FRR AUM. People/CEO pages. Dated news.
+
+**Next wake must:** Paste Wave 1 directory + cities + relocating, Wave 84–89 cities, Wave 81–83 hubs, then 5 → 79 keepers including `/new-york-city-crs/`. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another leftover synonym explainer. Next city/careers gap: `/careers/cities/madrid/` (confirm a named owner HQ), `/careers/cities/beijing/` (CIC relocated 3 June 2025 to Dongzhimenwai Xiejie — confirm contact page), `/careers/cities/helsinki/` (Keva Unioninkatu 43), `/careers/cities/santiago/` (Chile ESSF / Hacienda). Then podcast/advertiser rotation. Skip compensation until sourced. Highest-harm unpublished leftovers remain: GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn.
+
 ## 2026-08-26 — Wake 88: city pages — Seoul, Dublin, Luxembourg, Stockholm, Paris
 
 **Queries / URLs:** `/careers/cities/seoul/`, `/careers/cities/dublin/`, `/careers/cities/luxembourg/`, `/careers/cities/stockholm/`, `/careers/cities/paris/`.

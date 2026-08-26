@@ -43,4 +43,5 @@ Use official portals via [Careers](/careers/). Confirm on abp.nl and apg.nl.
 - [ABP, explained](/abp-netherlands-pension-fund-explained/)
 - [The Dutch pension system](/netherlands-pension-system-abp-pfzw/)
 - [Relocating to Amsterdam](/careers/cities/amsterdam/)
+- [Relocating to Brussels](/careers/cities/brussels/)
 - [Relocating for an asset-owner role](/careers/intelligence/relocating-for-an-asset-owner-role/)

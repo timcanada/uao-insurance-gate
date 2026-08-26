@@ -417,5 +417,10 @@ P1,ISIF jobs Dublin relocation,allocator,both,/careers/cities/dublin/,careers,un
 P1,AIMCo jobs Luxembourg relocation,allocator,both,/careers/cities/luxembourg/,careers,unknown,unknown,unknown,drafted-wave-88,Wave 88 city. AIMCo HQ is Edmonton. Do not mint /luxembourg-aimco/
 P1,AP3 AP4 jobs Stockholm relocation,allocator,both,/careers/cities/stockholm/,careers,unknown,unknown,unknown,drafted-wave-88,Wave 88 city. AP1 ceased. Do not mint /careers/cities/gothenburg/
 P1,FRR jobs Paris relocation,allocator,both,/careers/cities/paris/,careers,unknown,unknown,unknown,drafted-wave-88,Wave 88 city. FRR not a SWF. Do not mint /frr-explained/
+P1,VBL jobs Frankfurt relocation,allocator,both,/careers/cities/frankfurt/,careers,unknown,unknown,unknown,drafted-wave-89,Wave 89 city. VBL is Karlsruhe. Do not mint /careers/cities/karlsruhe/
+P1,CDP jobs Milan relocation,allocator,both,/careers/cities/milan/,careers,unknown,unknown,unknown,drafted-wave-89,Wave 89 city. CDP HQ is Rome. Do not mint /careers/cities/rome/
+P1,Khazanah jobs Kuala Lumpur relocation,allocator,both,/careers/cities/kuala-lumpur/,careers,unknown,unknown,unknown,drafted-wave-89,Wave 89 city. No USD AUM. Do not mint /khazanah-explained/
+P1,PIC jobs Johannesburg relocation,allocator,both,/careers/cities/johannesburg/,careers,unknown,unknown,unknown,drafted-wave-89,Wave 89 city. PIC HQ is Pretoria. Do not mint /careers/cities/pretoria/
+P1,APG jobs Brussels relocation,allocator,both,/careers/cities/brussels/,careers,unknown,unknown,unknown,drafted-wave-89,Wave 89 city. APG not a second AUM. Do not mint /brussels-apg/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

@@ -314,6 +314,11 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,explainer,newest-sovereign-wealth-funds-by-founding-year,Newest SWFs by founding year,allocator,brief,P1,refresh-drafted,Wave 25 overwrite (kills Vietnam SCIF 2024 $2bn and Indonesia $15bn/2023). Official INA Dec 2020 / IDR 146.2T. Do not mint /vietnam-scic/ or /indonesia-investment-authority/
 2,explainer,stabilisation-vs-heritage-fund-mandates,Stabilisation vs heritage mandates,allocator,brief,P1,refresh-drafted,Wave 25 overwrite (ESSF US$3.884bn June 2026 not $10.8bn; Future Fund A$269.1bn not A$219.3bn)
 2,explainer,palestine-investment-fund-explained,Palestine Investment Fund,allocator,brief,P1,refresh-drafted,Wave 25 overwrite (kills QIA $520bn / KIA $800bn). Official 2003 no AUM. Do not mint /palestine-investment-fund/
+2,explainer,pif-vs-qia,PIF vs QIA,allocator,brief,P1,refresh-drafted,Wave 26 overwrite (kills $800bn / PIF $925bn / QIA $550-650bn). Official PIF more than US$900bn; QIA no AUM. Do not 301 onto PIF vs ADIA
+2,explainer,singapore-vs-norway-reserve-model,Singapore vs Norway reserve model,allocator,brief,P1,refresh-drafted,Wave 26 overwrite (kills GIC $690bn / GPFG $1.368T). Official GIC no AUM; GPFG kroner
+2,explainer,sovereign-wealth-funds-in-asia,Asian SWFs,allocator,brief,P1,refresh-drafted,Wave 26 overwrite (kills $4T / SAFE $1.3T / GPIF-as-SWF). Do not mint /safe-china/
+2,explainer,gulf-cooperation-council-investment-strategy,GCC investment strategy,allocator,brief,P1,refresh-drafted,Wave 26 overwrite (kills $2T / ADIA $172.6bn / KIA $700bn). Do not 301 onto Oil Five
+2,explainer,how-sovereign-wealth-funds-make-money,How SWFs make money,allocator,brief,P1,refresh-drafted,Wave 26 overwrite (kills $13T / GPFG $1.8T). Do not mint explained twin
 2,explainer,how-do-central-bank-reserves-differ-from-swfs,Reserves vs SWFs (defend existing),allocator,brief,P1,needed,
 2,explainer,what-is-a-stabilization-fund,What is a stabilization fund?,allocator,brief,P1,needed,
 2,explainer,how-do-owners-use-secondaries,How do owners use secondaries?,allocator,brief,P1,needed,

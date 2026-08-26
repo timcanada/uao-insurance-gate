@@ -107,6 +107,11 @@ P1,Norway vs Gulf sovereign wealth models,allocator,both,/norway-vs-gulf-soverei
 P1,newest sovereign wealth funds,allocator,both,/newest-sovereign-wealth-funds-by-founding-year/,list,unknown,unknown,unknown,refresh-drafted,Live Vietnam SCIF 2024 $2bn/$10bn and Indonesia SWF 2023 $15bn. Official INA Dec 2020 / IDR 146.2T end-2025. Wave 25
 P1,stabilisation vs heritage fund,allocator,both,/stabilisation-vs-heritage-fund-mandates/,define,unknown,unknown,unknown,refresh-drafted,Live ESSF $10.8bn / Future Fund A$219.3bn / GPFG $1.3T AUD. Official ESSF US$3.884bn June 2026. Wave 25
 P1,Palestine Investment Fund,allocator,both,/palestine-investment-fund-explained/,entity,unknown,unknown,unknown,refresh-drafted,Live invents QIA $520bn / KIA $800bn. Official pif.ps 2003 no AUM. Wave 25. Do not mint short slug
+P1,PIF vs QIA,allocator,both,/pif-vs-qia/,compare,unknown,unknown,unknown,refresh-drafted,Live $800bn pile / PIF $925bn / QIA $550-650bn. Official PIF more than US$900bn; QIA no AUM. Wave 26. Do not 301 onto PIF vs ADIA
+P1,Singapore vs Norway reserve model,allocator,both,/singapore-vs-norway-reserve-model/,compare,unknown,unknown,unknown,refresh-drafted,Live GIC $690bn / GPFG $1.368T. Official GIC no AUM; GPFG 22683bn kroner. Wave 26
+P1,sovereign wealth funds in Asia,allocator,both,/sovereign-wealth-funds-in-asia/,list,unknown,unknown,unknown,refresh-drafted,Live $4T pile / SAFE $1.3T / GPIF as SWF. Official SAFE no AUM; GPIF is a pension. Wave 26. Do not mint /safe-china/
+P1,GCC investment strategy,allocator,both,/gulf-cooperation-council-investment-strategy/,list,unknown,unknown,unknown,refresh-drafted,Live $2T pile / ADIA $172.6bn / KIA $700bn. No official combined GCC AUM. Wave 26. Do not 301 onto Oil Five
+P1,how sovereign wealth funds make money,allocator,both,/how-sovereign-wealth-funds-make-money/,define,unknown,unknown,unknown,refresh-drafted,Live $13T pile / GPFG $1.8T. Official GPFG kroner. Wave 26. Do not mint explained twin
 P2,what is an OCIO,allocator,both,/what-is-an-ocio/,define,unknown,unknown,unknown,live-check,
 P2,single family office vs multi family office,allocator,both,/single-vs-multi-family-office/,define,unknown,unknown,unknown,live-check,
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,live-check,

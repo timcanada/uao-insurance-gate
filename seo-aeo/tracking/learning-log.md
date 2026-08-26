@@ -1,5 +1,29 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 26: PIF vs QIA $800bn; GIC $690bn; Asia $4T; GCC $2T; SWF $13T pile
+
+**Queries / URLs:** `/pif-vs-qia/`, `/singapore-vs-norway-reserve-model/`, `/sovereign-wealth-funds-in-asia/`, `/gulf-cooperation-council-investment-strategy/`, `/how-sovereign-wealth-funds-make-money/`.
+
+**What was wrong on the live site:**
+
+- PIF vs QIA invents **combined $800 billion**, PIF **$925 billion**, QIA **$550 / $650 billion**, GPFG **$1.3 trillion**, CPP **$450 billion**, Temasek **$398 billion**. Official: PIF **more than US$900 billion**. QIA **no AUM**. GPFG **22,683 billion kroner**. CPP **C$793.3 billion**. Temasek **S$518bn / US$401bn**.
+- Singapore vs Norway assigns GIC **$690 billion**, Temasek **$403 billion**, GPFG **$1.368 trillion**. Official: GIC **no AUM** (legal name **GIC Private Limited**). Temasek **S$518 billion** at **31 March 2026**. GPFG **kroner**.
+- Asia SWFs invent a **$4 trillion** pile, SAFE **$1.3T**, GPIF **$1.3T as a SWF**, CIC **$1.1T**, GIC **$673bn**, NPS **$673bn**. Official: SAFE **no AUM**. GPIF is a **pension** (yen). CIC **US$1.57T / US$1.37T**. NPS **KRW 1,848.7T**. Do not mint `/safe-china/` (404).
+- GCC strategy invents a **$2 trillion** pile, ADIA **$172.6 billion**, KIA **$700 billion**, QIA **$450 billion**, PIF **$925 billion**. Official: **no combined GCC AUM**. ADIA / KIA / QIA **no AUM**.
+- How SWFs make money invents GPFG **$1.8T / $2T**, a global **$13 trillion** pile, Gulf **$5T**, ADIA **$1.1T**, KIA **$1T**. Official method: quote the filing or say no AUM.
+
+**Confirmed still unpublished:** Waves 1–25. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Ghost key still missing. Mubadala / Future Fund / CalPERS / Temasek institution pages live already current.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx — do not ping support. Wallet still $0.00.
+
+**Shipped (Wave 26):** five overwrites. No new slugs. Publisher default waves now include 26. Queued synonym 301: `/abu-dhabi-investment-authority-adia/` (live still founded **2007** / **$152.5 billion**).
+
+**Refused:** ICD YE2025 PDF. Dollarizing Hassana, GPFG, or NPS. Another Mubadala / Future Fund / CalPERS / Temasek / GPIF-institution overwrite. Minting `/safe-china/` or an how-SWFs-make-money explained twin.
+
+**Access:** Secrets re-requested. `GHOST_ADMIN_API_KEY` and `GOOGLE_SERVICE_ACCOUNT_JSON` still UNSET.
+
+**Next wake must:** Paste 5 → 26. Then 301 `twins.csv` (P0 first; Wave 26 ADIA short twin; Wave 24 GOSI investment twin; Wave 21 EPF/AUM-estimate/per-capita twins). If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another PIF-vs-QIA / Singapore-vs-Norway / Asia-$4T / GCC-$2T / how-SWFs-make-money synonym. Highest-harm leftovers: `/abu-dhabi-investment-authority-adia/` until the 301; `/southeast-asia-sovereign-wealth-funds/` (GIC **$870bn** / **$1T** pile); `/norway-model-vs-canada-model/` (GPFG **$1.3T**, CPP **$475bn**, OTPP **$233bn**); ICD YE2025 once that PDF is readable; GPIF 15.83% (Wave 7, unpublished).
+
 ## 2026-08-26 — Wake 25: ADIA-as-smaller $157bn; GPFG $1.3T; INA $15bn-in-2023; ESSF $10.8bn; Palestine peer dollars
 
 **Queries / URLs:** `/smaller-gulf-sovereign-funds-compared/`, `/norway-vs-gulf-sovereign-wealth-models/`, `/newest-sovereign-wealth-funds-by-founding-year/`, `/stabilisation-vs-heritage-fund-mandates/`, `/palestine-investment-fund-explained/`.

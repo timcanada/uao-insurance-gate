@@ -1,5 +1,29 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 33: Canada $531.3bn; corporate CalPERS $469bn; TPA GPFG $1.38T; in-house $616bn; LatAm $2.7T
+
+**Queries / URLs:** `/canada-pension-system-explained/`, `/corporate-pension-funds-explained/`, `/endowment-model-vs-total-portfolio/`, `/in-house-vs-external-management-pensions/`, `/latin-american-pension-funds/`.
+
+**What was wrong on the live site:**
+
+- Canada system invents CPP **$500bn / $531.3bn**, OTPP+OMERS **$300bn**, OTPP **$236.9bn / $237bn**, OMERS **$110bn**, CDPQ **$370bn**, AIMCo **$160bn**, BCI **$210+bn**, stacked **$1.2T**, GPIF **$2T**. Official: CPP **C$793.3bn**. OTPP **C$303.2bn**. OMERS **$145.2bn**. CDPQ **CAD $517.3bn**. AIMCo **C$194.7bn**. BCI **$313.7bn gross / $265.4bn net**.
+- Corporate-pensions files CalPERS **$469bn** and CalSTRS **$315bn** as the corporate contrast, plus GPIF **$1.7T** and US DC **$9T**. Official: those houses are **public**. CalPERS **$637.1bn**. CalSTRS **$415.4bn**. GPIF **yen**.
+- Endowment vs TPA invents GPFG **$1.38T**, CalPERS **$478bn**, Harvard **$50.9bn**, Yale **$41.4bn**. Twin invents GPFG **$1.34T**, OTPP **$246bn**. Official: GPFG **kroner**. CalPERS **$637.1bn**. Harvard **$56.9bn**. Yale **$44.1bn**.
+- In-house vs external invents CalPERS **$465bn / 45%**, CalSTRS **$315bn**, CPP **$616bn / 70%**. Official AUM only. BCI’s own in-house line is nearly **85%**.
+- LatAm pensions invent **$2T / $2.7T**, Brazil EFPC **$650bn**, Previ **$85bn**. Twin invents **$2.3T / $1.8T**. No official combined LatAm AUM.
+
+**Confirmed still unpublished:** Waves 1–33. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00**. Do not ping support.
+
+**Shipped (Wave 33):** five overwrites. No new slugs. Publisher default waves now include 33. Queued 301s: endowment-vs-TPA approach twin; in-house `for-pensions` twin; LatAm overview twin.
+
+**Refused:** ICD YE2025 PDF. Dollarizing GPFG / GPIF. Overwriting OMERS / AIMCo / BCI / CDPQ / TPA define / Yale-model / Canada-model / Alaska / GPIF / CIC keepers. Minting `/psp-investments/`, `/aimco-explained/`, `/harvard-endowment-explained/`. Fetching Funpresp / Previ / AFOR / US DC **$9T**.
+
+**Access:** Secrets re-requested. `GHOST_ADMIN_API_KEY` and `GOOGLE_SERVICE_ACCOUNT_JSON` still UNSET.
+
+**Next wake must:** Paste 5 → 33. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another Canada-system / corporate-pensions / endowment-vs-TPA / in-house / LatAm-pile synonym. Highest-harm leftovers now: `/uk-pension-funds-overview/` (USS leftover **£88.2bn** vs official DB **£79.8bn**); `/asset-liability-management-pension/` (**$2.1T / $1.32T**); `/endowment-vs-foundation-investing/` (Yale **$41.4bn**); `/netherlands-pension-system-abp-pfzw/` (**€550bn / €200bn**); `/uk-lgps-pooling-megafunds/` (**£350bn**). GPIF **15.83%** / Alaska **$89bn** / CIC **$1.3T** remain unpublished keepers.
+
 ## 2026-08-26 — Wake 32: CalSTRS $315bn; CalPERS 83%; OTPP $227bn; Harvard $50.7bn; GPFG $1.07T
 
 **Queries / URLs:** `/teacher-pension-funds-usa/`, `/public-pension-funded-status-2026/`, `/otpp-vs-cpp-investments-vs-omers/`, `/pension-fund-vs-endowment-vs-foundation/`, `/how-we-rank-asset-owners-methodology/`.

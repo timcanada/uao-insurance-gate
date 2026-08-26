@@ -673,4 +673,9 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 32,explainer,otpp-vs-cpp-investments-vs-omers,OTPP vs CPP vs OMERS,allocator,brief,P1,refresh-drafted,Wave 32 overwrite. Live $227bn / $613bn / $252bn. Official C$303.2bn / C$793.3bn / $145.2bn. Do not overwrite OMERS. Do not 301 onto Canadian giants
 32,explainer,pension-fund-vs-endowment-vs-foundation,Pension vs endowment vs foundation,allocator,brief,P1,refresh-drafted,Wave 32 overwrite. Live Harvard $50.7bn / CalPERS $440bn. Official $56.9bn / $637.1bn. Do not mint /harvard-endowment-explained/
 32,explainer,how-we-rank-asset-owners-methodology,How we rank asset owners,allocator,brief,P1,refresh-drafted,Wave 32 overwrite. Live GPFG $1.07T / CalPERS $460bn. Official kroner. 301 methodology twin. Do not 301 onto world list
+33,explainer,canada-pension-system-explained,Canada pension system,allocator,brief,P1,refresh-drafted,Wave 33 overwrite. Live CPP $531.3bn / $1.2T. Official C$793.3bn. Do not 301 onto Canadian giants
+33,explainer,corporate-pension-funds-explained,Corporate pension funds,allocator,brief,P1,refresh-drafted,Wave 33 overwrite. Live CalPERS $469bn as corporate. Official public $637.1bn. Refuse $9T DC pile
+33,explainer,endowment-model-vs-total-portfolio,Endowment vs total portfolio,allocator,brief,P1,refresh-drafted,Wave 33 overwrite. Live GPFG $1.38T. Official kroner. 301 approach twin. Do not 301 onto TPA define
+33,explainer,in-house-vs-external-management-pensions,In-house vs external pensions,allocator,brief,P1,refresh-drafted,Wave 33 overwrite. Live CPP $616bn / CalPERS $465bn. Official C$793.3bn / $637.1bn. 301 for-pensions twin
+33,explainer,latin-american-pension-funds,Latin American pensions,allocator,brief,P1,refresh-drafted,Wave 33 overwrite. Live $2.7T pile. No official combined AUM. 301 overview twin
 2,careers,careers/intelligence/search-brief-for-a-real-assets-head,Writing a real-assets head search brief,both,careers-alert,P1,needed,

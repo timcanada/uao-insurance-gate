@@ -9,7 +9,7 @@ P0,temasek vs gic,allocator,both,/temasek-vs-gic-difference/,compare,uao-1-webse
 P0,gic vs temasek,allocator,both,/temasek-vs-gic-difference/,compare,uao-1-websearch,unknown,unknown,refresh-drafted,July GSC 5 clicks; same URL
 P0,brunei investment agency,allocator,both,/brunei-investment-agency-bia/,entity,not-top5,unknown,unknown,refresh-drafted,July GSC 15 clicks on URL; Wikipedia still leads name query
 P0,family office vs family office CIO,allocator,both,/what-does-a-family-office-cio-do/,define,not-top5,unknown,unknown,drafted-wave-1,26 Aug web: Asora / ValueAdd / OCIO blogs. Our slug still 404
-P0,what is a universal owner,allocator,both,/universal-owner/,define,uao-1-websearch,unknown,unknown,merge-twins,26 Aug web: UAO /universal-owner/ first. Twin /what-is-a-universal-asset-owner/ still 200
+P0,what is a universal owner,allocator,both,/universal-owner/,define,uao-1-websearch,unknown,unknown,refresh-drafted,26 Aug web: UAO first. Live last updated 24 May 2026. Wave 9 adds official 2026 exhibits. Twin still 200
 P0,universal owners,allocator,both,/universal-owners/,hub,unknown,unknown,unknown,live-ok,Hub 200; not the define URL
 P0,pension fund,allocator,both,/what-is-a-pension-fund/,define,unknown,unknown,unknown,refresh-drafted,Live page last updated 25 May 2026. Wave 8 adds official GPIF/CPP/CalPERS/CalSTRS filings
 P0,public pension fund,allocator,both,/public-pension-funds/,define,uao-1-websearch,unknown,unknown,refresh-drafted,26 Aug web: UAO first. Live page still said GPIF ~$1.6T. Wave 7 ready
@@ -23,7 +23,7 @@ P0,best publications for CIOs,allocator,A,/publications-chief-investment-officer
 P0,sovereign wealth fund podcast,allocator,A,/podcast-universal-owner/,podcast,unknown,unknown,unknown,drafted-wave-2,
 P0,family office podcast,allocator,A,/podcast-universal-owner/,podcast,unknown,unknown,unknown,drafted-wave-2,
 P0,pension fund conference coverage,service-provider,A,/event-coverage/,events,unknown,unknown,unknown,drafted-wave-2,
-P1,ADIA,allocator,both,/adia-abu-dhabi-investment-authority/,entity,unknown,unknown,unknown,live-check,
+P1,ADIA,allocator,both,/adia-abu-dhabi-investment-authority/,entity,unknown,unknown,unknown,refresh-drafted,Live still ~$1.1T. ADIA does not publish AUM. Wave 9 uses 20y 6.3% / 30y 7.1% at 31 Dec 2024
 P1,GIC Singapore,allocator,both,/gic-singapore-explained/,entity,unknown,unknown,unknown,refresh-drafted,Live page still on 2024/25 3.8%; Wave 4 uses 3.4% / 5.6% to 31 Mar 2026
 P1,Temasek,allocator,both,/temasek-holdings-explained/,entity,unknown,unknown,unknown,live-ok,Explained already on S$518bn. Twin /is-temasek-a-sovereign-wealth-fund/ still S$413bn — Wave 8
 P1,PIF Saudi,allocator,both,/public-investment-fund-pif/,entity,unknown,unknown,unknown,live-check,Wake 5 refused overwrite: ~$925bn / $2T-by-2030 is press-KPI mix. Official line is over $900bn
@@ -40,6 +40,9 @@ P1,moving to Singapore GIC,both,A,/careers/cities/singapore/,careers,unknown,unk
 P1,how pension funds hire law firms,service-provider,A,/how-pension-funds-retain-counsel/,commercial,unknown,unknown,unknown,drafted-wave-1,
 P1,family office technology stack,service-provider,A,/directory/technology/,commercial,unknown,unknown,unknown,drafted-wave-1,
 P1,display advertising institutional investors,service-provider,A,/display-advertising/,commercial,unknown,unknown,unknown,drafted-wave-2,
+P1,NZ Super Fund,allocator,both,/new-zealand-superannuation-fund-explained/,entity,unknown,unknown,unknown,refresh-drafted,Live still NZD 71.4bn June 2024. Official NZ$85.05bn 30 Jun 2025 / NZ$86.6bn 31 Mar 2026. Wave 9
+P1,OTPP,allocator,both,/ontario-teachers-pension-plan-explained/,entity,unknown,unknown,unknown,refresh-drafted,YE2025 C$279.4bn already live. IR now C$303.2bn at 30 Jun 2026. Wave 9
+P1,USS,allocator,both,/uss-universities-superannuation-scheme/,entity,unknown,unknown,unknown,refresh-drafted,Live still 31 Mar 2025 £76.8bn. 2026 accounts: DB £79.8bn / surplus £15.8bn. Wave 9
 P1,Santiago Principles,allocator,both,/santiago-principles/,define,unknown,unknown,unknown,merge-twins,
 P1,total portfolio approach,allocator,both,/total-portfolio-approach/,define,unknown,unknown,unknown,merge-twins,
 P2,what is an OCIO,allocator,both,/what-is-an-ocio/,define,unknown,unknown,unknown,live-check,

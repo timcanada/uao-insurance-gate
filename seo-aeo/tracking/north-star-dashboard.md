@@ -12,7 +12,7 @@ Update the **known** column only from real systems. Targets are locked in `GOALS
 | Google Search clicks (calendar month) | growing | **460** | 2026-07 | GSC July performance mail |
 | Google Search impressions (calendar month) | growing | **55.6K** | 2026-07 | GSC July performance mail |
 | Monthly site views | millions | not millions; see baseline | 2026-08-26 | GSC + GA4 `399677697` (API pending) |
-| Franchise queries at #1 or cited | all on keyword board | mixed: CIC *explained* twin still $1.3T (short URL already $1.57T); Temasek-is-SWF still S$413bn; CalSTRS funded status still 2023; SWF list still a twin; Wave 5–8 unpublished | 2026-08-26 | GSC July mail + 26 Aug web search (wake 6) |
+| Franchise queries at #1 or cited | all on keyword board | mixed: NZ Super live still NZ$71.4bn; ADIA live still ~$1.1T; USS live still FY2025; SWF list still a twin; Waves 3–9 unpublished | 2026-08-26 | GSC July mail + 26 Aug web search (wake 7) |
 | Press pickups (TTM) | growing | unknown | 2026-08-26 | Alerts |
 | Podcast downloads / ep | world-class | unknown | 2026-08-26 | Host |
 | Open sponsor conversations | enough to hit $1M mix | 0 logged | 2026-08-26 | `sponsors.csv` |

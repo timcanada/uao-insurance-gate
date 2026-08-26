@@ -1,5 +1,29 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 7: NZ Super still on 2024; ADIA still prints $1.1T
+
+**Queries / URLs:** `/new-zealand-superannuation-fund-explained/`, `/ontario-teachers-pension-plan-explained/`, `/adia-abu-dhabi-investment-authority/`, `/uss-universities-superannuation-scheme/`, `/universal-owner/`.
+
+**What was wrong on the live site:**
+
+- NZ Super explained still leads with **NZD 71.4 billion as of June 2024** and calls the fund “NZF.” Audited AR: **NZ$85.05 billion at 30 June 2025**. Stakeholder update (29 Apr 2026): **NZ$86.6 billion at 31 March 2026**. Performance page to 31 May 2026 is provisional (17.03% last 12 months) and does **not** print a May NAV — do not invent one from the NZ$11.37bn *change* line.
+- OTPP explained already had YE2025 **C$279.4bn / 6.7%**. OTPP IR now prints **C$303.2 billion at 30 June 2026**. Short twin still 200.
+- ADIA explained still says **roughly $1.1 trillion**. ADIA’s 2024 Review (published 17 Sep 2025) does **not** publish AUM. Official score: **6.3% / 7.1%** 20- / 30-year at 31 Dec 2024; 65% internal; “does not invest in the UAE.”
+- USS short keeper still on **31 March 2025** (£76.8bn / ~£10bn surplus / “over 400,000”). 27 Jul 2026 accounts: DB **£79.8bn**, surplus **£15.8bn**, DC **£4.2bn**, **599,000** members. Do not add DB+DC into a fake total AUM.
+- `/universal-owner/` still last updated **24 May 2026**. We already rank first. Twin still 200.
+
+**Podcast (rotation):** `/podcast-universal-owner/` still **404**. Live `/listen-universal-owner/` is a working player — do not overwrite it with an article. Podbean is live. Wave 2 hub remains the paste.
+
+**Confirmed still unpublished:** GPIF live return still 15.83%; CIC explained still $1.3T; Wave 1–2 slugs still 404. Ghost key still missing.
+
+**Shipped (Wave 9):** five overwrites. No new slugs. No new `*-explained` twins.
+
+**Refused:** inventing ADIA AUM. Inventing a May 2026 NZ Super NAV. Combining USS DB+DC. Overwriting the listen player. Another CIC/GPIF/Temasek synonym.
+
+**Access / MailAdx / GSC:** Unchanged. No newer click mail than **700 / 18 Aug**. Wallet still **$0.00**. Do not ping MailAdx support.
+
+**Next wake must:** Paste 5 → 6 → 7 → 8 → 9. After NZ Super / OTPP / USS / universal-owner pastes, 301 the twins in `twins.csv`. If the Ghost key lands, `publish_to_ghost.py` now includes wave 9 (drafts first). Do not draft another NZ Super or ADIA synonym. Do not write another `*-explained` for anything in `twins.csv`.
+
 ## 2026-08-26 — Wake 6: the $1.3T CIC twin and the S$413bn Temasek page
 
 **Queries / URLs:** `/china-investment-corporation-cic-explained/`, `/calstrs-explained/`, `/is-temasek-a-sovereign-wealth-fund/`, `/what-is-a-pension-fund/`, `/global-asset-owners/`.

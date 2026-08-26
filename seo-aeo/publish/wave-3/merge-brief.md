@@ -42,6 +42,8 @@ Do not write a third “explained” page for any of these.
 
 **CPP:** `/cpp-investments-explained/` already has C$793.3bn at 31 Mar 2026. The short `/cpp-investments/` still says “on the order of C$700 billion.” No new overwrite — **301 the short slug now**.
 
+**Wave 9:** Paste OTPP explained (adds C$303.2bn at 30 Jun 2026) then 301 `/ontario-teachers-pension-plan/`. Paste USS **short** keeper (2026 accounts) then 301 the two USS explained twins. Paste `/universal-owner/` then 301 `/what-is-a-universal-asset-owner/`.
+
 ## After 301
 
 Update `/llms/` so only the canonical is listed (`publish/wave-6/llms-canonical-patch.md`). Refresh the canonical’s answer block and as-of dates. Do not write a fourth “largest SWF 2027” page; update the one URL.

@@ -1,5 +1,29 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 39: leftover $1.5–5T private credit; CalPERS $477.9bn; GIC $915bn / $858bn; Temasek $1.13T; leftover LSTA $1.3T
+
+**Queries / URLs:** `/what-is-private-credit/`, `/private-credit-direct-lending/`, `/private-credit-strategies-types/`, `/direct-lending-vs-syndicated-loans/`, `/secondaries-market-size-2026/`.
+
+**What was wrong on the live site:**
+
+- Private-credit define invents leftover **$1.5 / $1.7 / $3 / $3.5 / $5 trillion**. Official: house AUM only. CalPERS **$637.1 billion**. CPP **C$793.3 billion**.
+- Direct lending invents CalPERS **$477.9 billion**, CPP **$618.3 billion**, GPFG **$1.417 trillion**, leftover OTPP “TorSO” **CAD $245 billion**, leftover GIC **$915 billion**, leftover ADIA **$164 billion**. Twin invents leftover **$1.5 trillion**, leftover Ares / Apollo / Blackstone manager piles, leftover CalPERS **$35 billion** PC, leftover APG **€650 billion**. Official: CalPERS **$637.1 billion**. CPP **C$793.3 billion**. OTPP **C$303.2 billion**. GIC and ADIA publish **no AUM**. GPFG is **kroner**.
+- Strategies invent leftover **$500 billion / $1.8–2.0 trillion**, leftover Yale **$51.2 billion in 2023**, leftover GIC **$858 billion**, leftover NBIM **$383 billion**. Official: Yale **$44.1 billion** at **30 June 2025**.
+- Direct vs syndicated invents leftover Ares **$360 billion**, leftover LSTA **$1.3 trillion**, CPP **$618 billion**. Twin invents leftover LSTA **$1.2 trillion**, CalPERS **$440 billion**, CPP **$520 billion**. Official: CalPERS **$637.1 billion**. CPP **C$793.3 billion**.
+- Secondaries invent leftover **$150–180 billion**, leftover Temasek **$1.13 trillion**, leftover PIF **$925 billion**. Official: Temasek **S$518 billion**. PIF **more than US$900 billion**.
+
+**Confirmed still unpublished:** Waves 1–39. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00**; newer zero-delivery alerts through **26 Aug 14:06 UTC**. Do not ping support.
+
+**Shipped (Wave 39):** five overwrites. No new slugs. Publisher default waves now include 39. Queued 301s: `/what-is-private-credit-direct-lending/` → direct-lending keeper; `/direct-lending-vs-broadly-syndicated-loans/` → syndicated-loans keeper.
+
+**Refused:** ICD YE2025 PDF. Dollarizing GPIF / GPFG. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / OMERS / CalPERS / Mubadala institution keepers. Minting `/strs-ohio-explained/`, `/texas-trs/`, or `/psp-investments/`. Fetching leftover Preqin / MS / LSTA / Ares / Apollo / Blackstone / Carlyle / Golub / MetLife / VBL / BPE piles. Another private-credit-allocation / PE-vs-credit / climate / bulk-annuity / PRT synonym. `/j-curve-private-equity/` and `/denominator-effect-explained/` (no leftover house AUM).
+
+**Access:** Secrets re-requested. `GHOST_ADMIN_API_KEY` and `GOOGLE_SERVICE_ACCOUNT_JSON` still UNSET.
+
+**Next wake must:** Paste 5 → 39. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another private-credit-define / direct-lending / strategies / BSL-compare / secondaries-2026 synonym. Highest-harm leftovers now: `/secondaries-continuation-fund/` and `/private-equity-secondaries-explained/` (score before any 301 onto them); `/physical-climate-risk-asset-owners/` and `/esg-backlash-and-pension-funds/` (lower leftover-AUM harm); then unpublished keepers (GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn).
+
 ## 2026-08-26 — Wake 38: CalPERS $440bn / $503bn; CPP CAD $621bn; GPFG $1.4T; leftover £1T buyout; leftover $100T climate
 
 **Queries / URLs:** `/pension-fund-private-credit-allocation-trends/`, `/private-equity-vs-private-credit-vs-infrastructure/`, `/climate-transition-risk-for-universal-owners/`, `/what-is-a-bulk-annuity/`, `/pension-risk-transfer-buyout/`.

@@ -357,5 +357,10 @@ P1,data center power demand grid institutions,allocator,both,/data-center-power-
 P1,brownfield vs greenfield infrastructure,allocator,both,/brownfield-vs-greenfield-infrastructure/,define,unknown,unknown,unknown,refresh-drafted,Live leftover Temasek $1.08T / leftover sleeve $180bn. Do not 301 onto listed-vs-unlisted. Wave 75
 P1,CLO institutional investors,allocator,both,/collateralized-loan-obligation-clo-institutional/,define,unknown,unknown,unknown,refresh-drafted,Live leftover CalPERS $300bn+ / leftover TIAA $370bn. Do not 301 onto private-credit. Wave 75
 P1,AI data center investing institutions,allocator,both,/ai-data-center-investing/,define,unknown,unknown,unknown,refresh-drafted,Live leftover invented GIC $770bn. Do not invent GIC AUM. Wave 75
+P1,HESTA superannuation,allocator,both,/hesta-superannuation-explained/,define,unknown,unknown,unknown,refresh-drafted,Live leftover HESTA A$72bn / leftover AUD $70bn / leftover Aware Super AUD $280bn / leftover Australian Super AUD $370bn. No official HESTA print. Wave 76
+P1,TIAA explained,allocator,both,/tiaa-explained/,define,unknown,unknown,unknown,refresh-drafted,Live leftover TIAA $1.5T. Twin leftover $1.3T. No official TIAA print. Wave 76
+P1,power and grid investment asset owners,allocator,both,/power-and-grid-investment-for-asset-owners/,define,unknown,unknown,unknown,refresh-drafted,Live leftover CDPQ $400bn / leftover REST $130bn. Official CAD $517.3bn. Do not 301 onto grid-infra. Wave 76
+P1,North Dakota Legacy Fund,allocator,both,/north-dakota-legacy-fund/,entity,unknown,unknown,unknown,refresh-drafted,Live leftover US$13bn. Official $15.04bn at 31 May 2026. Wave 76
+P1,New Mexico State Investment Council,allocator,both,/new-mexico-state-investment-council/,entity,unknown,unknown,unknown,refresh-drafted,Live leftover $64.0bn / leftover $70bn / leftover $71bn. Official more than $68bn. Wave 76
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

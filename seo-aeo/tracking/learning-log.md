@@ -1,5 +1,27 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 76: leftover HESTA A$72bn / AUD $70bn; leftover Aware Super AUD $280bn; leftover Australian Super AUD $370bn; leftover TIAA $1.5T / $1.3T; leftover CDPQ $400bn; leftover North Dakota US$13bn; leftover NMSIC $64.0bn / $70bn / $71bn
+
+**Queries / URLs:** `/hesta-superannuation-explained/`, `/tiaa-explained/`, `/power-and-grid-investment-for-asset-owners/`, `/north-dakota-legacy-fund/`, `/new-mexico-state-investment-council/`.
+
+**What was wrong on the live site:**
+
+- HESTA invent leftover **A$72 billion as of June 2024** / leftover **AUD $70 billion as of mid-2024**, leftover Aware Super **~AUD $280 billion**, leftover Australian Super **~AUD $370 billion**. Official: **no official HESTA AUM locked**. Aware Super **over $240 billion**. Australian Super **A$410 billion**.
+- TIAA invent leftover **roughly $1.5 trillion**. Twin invent leftover **approximately $1.3 trillion**. Official: **no official TIAA AUM locked**.
+- Power and grid invent leftover CDPQ **$400 billion** and leftover REST **$130 billion**. Official: CDPQ **CAD $517.3 billion**. **No official REST AUM locked.**
+- North Dakota Legacy Fund invent leftover **roughly US$13 billion**. Official: **$15,040,152,030** at **31 May 2026**.
+- NMSIC invent leftover **US$64.0 billion as of 30 June 2025** / leftover **roughly US$70 billion** / leftover **roughly US$71 billion**. Official: **more than $68 billion** (October 2025 Investment Holdings Report).
+
+**Confirmed still unpublished:** Waves 1–76. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00** through **26 Aug 15:52 UTC**. Do not ping support.
+
+**Shipped (Wave 76):** five overwrites. No new slugs. Publisher default waves now include 76. Queued 301: `/hesta-superannuation-australia-explained/`; `/teachers-insurance-annuity-association-tiaa/`; `/gulf-capital-energy-transition/`; `/cap-rate-explained-real-estate/`; `/reference-portfolio-definition/`; `/ncreif-index-explained-institutional/`; `/aptus-pension-fund-uk-explained/`; `/sofaz-azerbaijan-explained/`.
+
+**Refused:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ / USS. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / CDPQ / OMERS / CalPERS / CalSTRS / Mubadala / Temasek / Future Fund / Alaska / ADIA / GIC / BCI / GPIF / CPP / Texas TRS / PIF / QIA / Australian Super / Aware Super / KIC / UniSuper / CIC / ADQ / Cbus / AIMCo / NZ Super institution keepers. Overwriting `/endowment-model-explained/` (Wave 15) or `/yale-endowment-model/` (Wave 14). Another gulf-center / data-center-grid / brownfield / CLO / AI-data-center synonym. Minting `/harvard-endowment-explained/`, `/texas-trs/`, `/nssf-explained/`, `/safe-china/`, `/unisuper/`, `/temasek/`, `/adq-explained/`, `/samruk-kazyna/`, `/cbus-explained/`, `/aware-super/`, `/australian-super/`, `/aimco-explained/`, `/hesta/`, `/tiaa/`, `/power-and-grid/`, `/north-dakota-legacy/`, `/nmsic/`, `/gulf-center-of-gravity/`, `/data-center-grid/`, `/brownfield-vs-greenfield/`, `/clo-explained/`, or `/ai-data-centers/`. Inventing an ADIA, KIA, QIA, SAFE, NSSF, SWIB, HESTA, TIAA, REST, Florida SBA, Ohio PERS, Samruk, or GIC AUM. Inventing NMSIC **$74.799 billion**. `/data-center-power-demand/` (no leftover house AUM — do not 301). `/data-center-power-demand-grid-asset-owners/` (no leftover house AUM — do not 301). `/clo-explained-institutional-investors/` (no leftover house AUM — do not 301). `/gulf-capital/` (no leftover house AUM — do not 301). `/urbanisation-investment-theme/` (no leftover house AUM). `/factor-investing-explained/` (no leftover house AUM). `/water-risk-institutional-investors/` (no leftover house AUM). `/asset-owner-collaboration-initiatives/` (leftover combined **$3.5T+** pile). `/sovereign-wealth-funds-sports-investments/` (leftover PIF sports sleeve). `/mgx-abu-dhabi-ai-fund/` (leftover **$100 billion** goal). `/what-is-net-asset-value-nav-in-private-markets/` (leftover CalPERS PE sleeve — do not 301). `/norway-fiscal-rule-2026-06/` (dated news).
+
+**Next wake must:** Paste 5 → 76. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another gulf-center / data-center-grid / brownfield / CLO / AI-data-center / HESTA / TIAA / power-and-grid / North Dakota / NMSIC synonym. Highest-harm leftovers now: unpublished keepers (GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn). Rescore leftover twins not already queued.
+
 ## 2026-08-26 — Wake 75: leftover invented ADIA $1.1T; leftover PIF past the trillion-dollar mark; leftover CalPERS $459bn / $300bn+; leftover CalSTRS $318bn; leftover Mubadala $284bn; leftover Temasek $1.08T / leftover sleeve $180bn; leftover invented GIC $770bn; leftover TIAA $370bn
 
 **Queries / URLs:** `/gulf-capital-the-center-of-gravity/`, `/data-center-power-demand-grid/`, `/brownfield-vs-greenfield-infrastructure/`, `/collateralized-loan-obligation-clo-institutional/`, `/ai-data-center-investing/`.

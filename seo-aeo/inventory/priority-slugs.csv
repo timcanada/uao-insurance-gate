@@ -82,7 +82,7 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,alaska-permanent-fund-explained,Alaska Permanent Fund,allocator,brief,P0,refresh-drafted,SWF — Wave 12 ($91.3bn at 30 Jun 2026 unaudited)
 2,institution,alberta-heritage-fund,Alberta Heritage Savings Trust Fund,allocator,brief,P0,needed,SWF
 2,institution,texas-permanent-school-fund,Texas Permanent School Fund,allocator,brief,P0,needed,SWF-like
-2,institution,new-mexico-state-investment-council,NMSIC,allocator,brief,P0,needed,Public pension/SWF-like
+76,institution,new-mexico-state-investment-council,NMSIC,allocator,brief,P0,refresh-drafted,Wave 76 overwrite. Live leftover $64.0bn / leftover $70bn / leftover $71bn. Official more than $68bn (Oct 2025 IHR). Do not invent $74.799bn. Do not mint /nmsic/
 2,institution,irish-strategic-investment-fund,ISIF,allocator,brief,P0,needed,Strategic
 2,institution,bpifrance,Bpifrance,allocator,brief,P0,needed,Strategic
 2,institution,kfw-capital,KfW Capital,allocator,brief,P0,needed,Development
@@ -888,4 +888,8 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 75,explainer,brownfield-vs-greenfield-infrastructure,Brownfield vs greenfield infrastructure,allocator,brief,P1,refresh-drafted,Wave 75 overwrite. Live leftover Temasek $1.08T / leftover sleeve $180bn. Official S$518bn / US$401bn. Do not 301 onto listed-vs-unlisted
 75,explainer,collateralized-loan-obligation-clo-institutional,CLOs institutional,allocator,brief,P1,refresh-drafted,Wave 75 overwrite. Live leftover CalPERS $300bn+ / leftover TIAA $370bn. Official $637.1bn. No official TIAA print. Do not 301 onto private-credit
 75,explainer,ai-data-center-investing,AI data-center investing,allocator,brief,P1,refresh-drafted,Wave 75 overwrite. Live leftover invented GIC $770bn. Official GIC does not publish AUM. Do not 301 onto Wave 48 data-centers
+76,explainer,hesta-superannuation-explained,HESTA,allocator,brief,P1,refresh-drafted,Wave 76 overwrite. Live leftover HESTA A$72bn / leftover AUD $70bn / leftover Aware Super AUD $280bn / leftover Australian Super AUD $370bn. No official HESTA print. Twin leftover $67.3bn — 301. Do not mint /hesta/
+76,explainer,tiaa-explained,TIAA,allocator,brief,P1,refresh-drafted,Wave 76 overwrite. Live leftover TIAA $1.5T. Twin leftover $1.3T / leftover sleeve $40bn. No official TIAA print. 301 long twin. Do not mint /tiaa/
+76,explainer,power-and-grid-investment-for-asset-owners,Power and grid investment,allocator,brief,P1,refresh-drafted,Wave 76 overwrite. Live leftover CDPQ $400bn / leftover REST $130bn. Official CAD $517.3bn. Do not 301 onto grid-infra. Do not mint /power-and-grid/
+76,institution,north-dakota-legacy-fund,North Dakota Legacy Fund,allocator,brief,P1,refresh-drafted,Wave 76 overwrite. Live leftover US$13bn. Official $15,040,152,030 at 31 May 2026. Do not 301 onto Alaska. Do not mint /north-dakota-legacy/
 2,careers,careers/intelligence/search-brief-for-a-real-assets-head,Writing a real-assets head search brief,both,careers-alert,P1,needed,

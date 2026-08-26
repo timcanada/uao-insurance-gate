@@ -1,5 +1,24 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 92: Reykjavik, Istanbul, real-assets search brief, family-office CIO hire, SWF counsel
+
+**Queries / URLs:** `/careers/cities/reykjavik/`, `/careers/cities/istanbul/`, `/careers/intelligence/search-brief-for-a-real-assets-head/`, `/how-do-family-offices-hire-cios/`, `/how-do-sovereign-wealth-funds-hire-lawyers/`.
+
+**What was wrong on the live site:**
+
+- Leftover official-filing house-AUM keepers remain exhausted after Wave 80. Wave 91 shipped five city pages. Only two remaining city P1s locked a named official HQ this wake; both were live **404** (confirmed 26 Aug). Three unique careers/advertiser slugs were also **404**.
+- LSR official visit is Engjateigur 11, 105 Reykjavík (origins 28 Nov 1919 / Act 72/1919; three divisions). TVF official HQ is Muallim Naci Cad. No. 22, Ortaköy (Law 6741 accepted 19 Aug 2016 / published 26 Aug 2016). NSIA official HQ is Abuja, not Lagos. PREVI/Petros are Rio, not São Paulo. GSIS is Pasay; SSS is Quezon City; Maharlika is Taguig — not Manila proper.
+
+**Confirmed still unpublished:** Waves 1–92. `/directory/` **404**. Wave 1 + Wave 84–92 city pages still 404. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00**. Do not ping support.
+
+**Shipped (Wave 92):** two city pages plus three unique careers/explainer pages. Relocating hub now lists 48 drafted cities. Helsinki, Copenhagen, Stockholm and Oslo now link Reykjavik. Vienna, Warsaw and Dubai now link Istanbul. No leftover 301s. Publisher default waves now include 92.
+
+**Refused:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ / USS / ATP / Khazanah / HKMA Exchange Fund / NPS / EPF / Keva / VER / ÖBAG / TVF. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / CDPQ / OMERS / CalPERS / CalSTRS / Mubadala / Temasek / Future Fund / Alaska / ADIA / GIC / BCI / GPIF / CPP / Texas TRS / PIF / QIA / Australian Super / Aware Super / KIC / UniSuper / CIC / ADQ / Cbus / AIMCo / NZ Super / KIA / Khazanah / PSP / NYC CRS / ISIF / EPF / NIIF / TVF institution keepers. Another fiduciary-archive child or leftover synonym explainer. `/how-do-service-providers-advertise-to-asset-owners/` (twin of Wave 2 `/advertise-to-asset-owners/`). `/careers/intelligence/cio-compensation-public-plans/` (do not invent pay). Manila / Pasay / QC / Taguig; São Paulo / Rio; Lagos / Abuja; Nairobi (P.O. Box only); Tel Aviv; Cape Town / Pretoria; Shanghai; Perth. Minting `/lsr-explained/`, `/tvf-explained/`, `/family-office/`, `/niif/`, `/careers/cities/new-delhi/`, `/careers/cities/abuja/`, `/oebag-explained/`, `/pfr-explained/`, `/blf-explained/`, `/fmp-explained/`, `/fondo-de-reserva-explained/`, `/beijing-cic/`, `/keva-explained/`, `/essf-explained/`, `/danantara-explained/`, `/pggm/`, `/pfzw-netherlands/`, `/aimco-explained/`, `/psp-investments/`, or `/korea-investment-corporation-kic/`. Inventing LSR, TVF, ADIA, QIA, or GIC AUM. People/CEO pages. Dated news.
+
+**Next wake must:** Paste Wave 1 directory + cities + relocating, Wave 84–92 cities, Wave 81–83 hubs, Wave 92 careers/explainers, then 5 → 79 keepers including `/new-york-city-crs/`. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another leftover synonym explainer. Remaining city P1s are skip/weak until an official HQ street locks. Next rotation: podcast episode SEO + advertiser pages that are not twins of `/advertise-to-asset-owners/`. Skip compensation until sourced. Highest-harm unpublished leftovers remain: GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn.
+
 ## 2026-08-26 — Wake 91: city pages — Vienna, Warsaw, Taipei, Mexico City, Mumbai
 
 **Queries / URLs:** `/careers/cities/vienna/`, `/careers/cities/warsaw/`, `/careers/cities/taipei/`, `/careers/cities/mexico-city/`, `/careers/cities/mumbai/`.

@@ -41,6 +41,7 @@ Use official portals via [Careers](/careers/). Confirm on icd.gov.ae and the emp
 ## Related
 
 - [Investment Corporation of Dubai](/investment-corporation-of-dubai-icd-explained/)
+- [Relocating to Istanbul](/careers/cities/istanbul/)
 - [Relocating to Abu Dhabi](/careers/cities/abu-dhabi/)
 - [Dual-career moves to the Gulf](/careers/intelligence/dual-career-moves-gulf/)
 - [Relocating for an asset-owner role](/careers/intelligence/relocating-for-an-asset-owner-role/)

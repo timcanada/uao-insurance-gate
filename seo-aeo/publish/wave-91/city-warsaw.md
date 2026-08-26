@@ -42,6 +42,7 @@ Use official portals via [Careers](/careers/). Confirm on pfr.pl and the employe
 ## Related
 
 - [What is a strategic investment fund?](/strategic-investment-fund/)
+- [Relocating to Istanbul](/careers/cities/istanbul/)
 - [Relocating to Vienna](/careers/cities/vienna/)
 - [Relocating to Helsinki](/careers/cities/helsinki/)
 - [Relocating for an asset-owner role](/careers/intelligence/relocating-for-an-asset-owner-role/)

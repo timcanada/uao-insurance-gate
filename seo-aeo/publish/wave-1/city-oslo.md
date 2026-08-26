@@ -35,3 +35,4 @@ NBIM's vacancies are linked from [UAO Careers](/careers/) when we track the port
 
 - [Norges Bank Investment Management, explained](/norges-bank-investment-management-nbim/)
 - [The Norwegian model](/norwegian-model-investing/)
+- [Relocating to Reykjavik](/careers/cities/reykjavik/)

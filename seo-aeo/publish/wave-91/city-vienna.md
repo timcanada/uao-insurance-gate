@@ -41,6 +41,7 @@ Use official portals via [Careers](/careers/). Confirm on oebag.gv.at and the em
 ## Related
 
 - [What is a sovereign wealth fund?](/sovereign-wealth-fund/)
+- [Relocating to Istanbul](/careers/cities/istanbul/)
 - [Relocating to Zurich](/careers/cities/zurich/)
 - [Relocating to Frankfurt](/careers/cities/frankfurt/)
 - [Relocating to Brussels](/careers/cities/brussels/)

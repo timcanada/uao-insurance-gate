@@ -44,6 +44,7 @@ Use official portals via [Careers](/careers/). Confirm on keva.fi and ver.fi.
 
 - [The Nordic pension model](/nordic-pension-model-explained/)
 - [Public pension funds](/public-pension-funds/)
+- [Relocating to Reykjavik](/careers/cities/reykjavik/)
 - [Relocating to Warsaw](/careers/cities/warsaw/)
 - [Relocating to Stockholm](/careers/cities/stockholm/)
 - [Relocating to Copenhagen](/careers/cities/copenhagen/)

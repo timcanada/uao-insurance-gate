@@ -42,6 +42,7 @@ We write the owner's side. We also run a [legal directory hub](/directory/legal/
 
 ## Related
 
+- [How sovereign wealth funds hire lawyers](/how-do-sovereign-wealth-funds-hire-lawyers/)
 - [Fiduciary duty for asset owners](/what-is-fiduciary-duty-for-asset-owners/)
 - [Directory: legal](/directory/legal/)
 - [Advertise](/advertise/)

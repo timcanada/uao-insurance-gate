@@ -75,6 +75,7 @@ It is **not** a savings SWF that publishes a dollars-in-the-ground NAV. It is **
 
 ## Related
 
+- [Relocating to Istanbul](/careers/cities/istanbul/)
 - [Samruk-Kazyna](/samruk-kazyna-kazakhstan-explained/)
 - [Is Temasek a sovereign wealth fund?](/is-temasek-a-sovereign-wealth-fund/)
 - [What is a sovereign wealth fund?](/sovereign-wealth-fund/)

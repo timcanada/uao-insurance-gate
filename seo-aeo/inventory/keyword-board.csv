@@ -1,20 +1,20 @@
 priority,query,audience,lane,target_url,intent,google_rank,bing_rank,llm_cited,status,notes
 P0,sovereign wealth fund,allocator,both,/sovereign-wealth-fund/,define,not-top5,unknown,unknown,refresh-drafted,26 Aug web: IFSWF/Investopedia/Reuters/Wikipedia. Wave 3 refresh ready
 P0,what is a sovereign wealth fund,allocator,both,/sovereign-wealth-fund/,define,not-top5,unknown,unknown,refresh-drafted,Same SERP as above
-P0,largest sovereign wealth funds,allocator,both,/largest-sovereign-wealth-funds/,list,uao-present-twins,unknown,unknown,merge-twins,Three live UAO URLs still 200
-P0,largest pension funds in the world,allocator,both,/largest-pension-funds-in-the-world/,list,unknown,unknown,unknown,live-check,
-P0,largest asset owners in the world,allocator,both,/largest-asset-owners-in-the-world/,list,unknown,unknown,unknown,live-check,
+P0,largest sovereign wealth funds,allocator,both,/largest-sovereign-wealth-funds/,list,uao-twin-ranks,unknown,unknown,refresh-drafted,26 Aug web: Google surfaces /the-worlds-largest-sovereign-wealth-funds-2026/. Three twins still 200. Wave 5 keeper refresh ready; 301 after paste
+P0,largest pension funds in the world,allocator,both,/largest-pension-funds-in-the-world/,list,uao-1-websearch,unknown,unknown,refresh-drafted,26 Aug web: UAO first. Wave 5 refresh uses official GPIF yen + NBIM kroner
+P0,largest asset owners in the world,allocator,both,/largest-asset-owners-in-the-world/,list,uao-1-websearch,unknown,unknown,live-ok,26 Aug web: UAO first. Title still says 2025; refresh later if still stale
 P0,what is a family office,allocator,both,/what-is-a-family-office/,define,not-top5,unknown,unknown,refresh-drafted,26 Aug web: Investopedia/WSJ/banks. Wave 3 refresh ready
 P0,temasek vs gic,allocator,both,/temasek-vs-gic-difference/,compare,uao-1-websearch,unknown,unknown,refresh-drafted,July GSC 5 clicks; UAO first in 26 Aug web results; GIC 2025/26 numbers now in Wave 4
 P0,gic vs temasek,allocator,both,/temasek-vs-gic-difference/,compare,uao-1-websearch,unknown,unknown,refresh-drafted,July GSC 5 clicks; same URL
 P0,brunei investment agency,allocator,both,/brunei-investment-agency-bia/,entity,not-top5,unknown,unknown,refresh-drafted,July GSC 15 clicks on URL; Wikipedia still leads name query
-P0,family office vs family office CIO,allocator,both,/what-does-a-family-office-cio-do,define,unknown,unknown,unknown,drafted-wave-2,
-P0,what is a universal owner,allocator,both,/what-is-a-universal-asset-owner/,define,unknown,unknown,unknown,live-check,
-P0,universal owners,allocator,both,/universal-owners/,hub,unknown,unknown,unknown,live-check,
+P0,family office vs family office CIO,allocator,both,/what-does-a-family-office-cio-do/,define,not-top5,unknown,unknown,drafted-wave-1,26 Aug web: Asora / ValueAdd / OCIO blogs. Our slug still 404
+P0,what is a universal owner,allocator,both,/universal-owner/,define,uao-1-websearch,unknown,unknown,merge-twins,26 Aug web: UAO /universal-owner/ first. Twin /what-is-a-universal-asset-owner/ still 200
+P0,universal owners,allocator,both,/universal-owners/,hub,unknown,unknown,unknown,live-ok,Hub 200; not the define URL
 P0,pension fund,allocator,both,/what-is-a-pension-fund/,define,unknown,unknown,unknown,live-check,
-P0,royal family investment office,allocator,both,/royal-family-investment-offices/,define,unknown,unknown,unknown,drafted-wave-2,
-P0,royal family wealth fund,allocator,both,/royal-family-investment-offices/,define,unknown,unknown,unknown,drafted-wave-2,
-P0,how to advertise to sovereign wealth funds,service-provider,A,/advertise-to-asset-owners/,commercial,unknown,unknown,unknown,drafted-wave-2,
+P0,royal family investment office,allocator,both,/royal-family-investment-offices/,define,unknown,unknown,unknown,drafted-404,Wave 2 draft; live URL 404 as of 26 Aug
+P0,royal family wealth fund,allocator,both,/royal-family-investment-offices/,define,unknown,unknown,unknown,drafted-404,Same 404
+P0,how to advertise to sovereign wealth funds,service-provider,A,/advertise-to-asset-owners/,commercial,not-top5,unknown,unknown,drafted-404,26 Aug web: GP/LP guides + SWFI ads page. Our slug 404
 P0,how to advertise to family offices,service-provider,A,/advertise-to-asset-owners/,commercial,unknown,unknown,unknown,drafted-wave-2,
 P0,how to advertise to pension funds,service-provider,A,/advertise-to-asset-owners/,commercial,unknown,unknown,unknown,drafted-wave-2,
 P0,institutional investor newsletter,allocator,B,/,signup,unknown,unknown,unknown,live-check,Home + brief

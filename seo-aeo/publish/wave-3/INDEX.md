@@ -9,4 +9,4 @@ These are the pages that can move **rankings that already exist**. New slugs sti
 5. `korea-investment-corporation-kic.md` → `/korea-investment-corporation-kic/`
 6. `australian-super.md` → `/australian-super/`
 
-Then 301 the three “largest SWF” twins to `/largest-sovereign-wealth-funds/`.
+Then paste Wave 5 onto `/largest-sovereign-wealth-funds/` **before** 301ing the three “largest SWF” twins (Google is ranking the long year-stamped URL). See `../wave-5/INDEX.md`.

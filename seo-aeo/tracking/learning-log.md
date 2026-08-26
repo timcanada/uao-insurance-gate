@@ -1,5 +1,44 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 3: Google is ranking the wrong twin
+
+**Query we tried to own:** `largest sovereign wealth funds` / `largest sovereign wealth funds 2026`. Secondary: protect `largest pension funds in the world`.
+
+**What already ranks (26 Aug web search, not GSC positions):**
+
+- `largest sovereign wealth funds 2026` — UAO **#1**, but on `/the-worlds-largest-sovereign-wealth-funds-2026/`, not the keeper. Visual Capitalist / IE-ICEX / PipelineRoad also present.
+- `/largest-sovereign-wealth-funds/` still 200, last updated **24 May 2026**, still on end-2025 NBIM (21,268bn NOK) and tracker estimates.
+- `/largest-sovereign-wealth-funds-2026/` still 200 and **wrong**: treats GPIF as a SWF, quotes Norway ~$1.27T, says KIA was “created in 2003.”
+- `largest pension funds in the world` — UAO `/largest-pension-funds-in-the-world/` first. Lead still says “$1.7–1.9 trillion” while the body has GPIF ¥293.4T.
+- `largest asset owners in the world` — UAO first (title still “2025”).
+- `what is a universal owner` — UAO `/universal-owner/` first. Twin `/what-is-a-universal-asset-owner/` also 200.
+- `what is a family office CIO` / `how to advertise to sovereign wealth funds` — not us. Wave 1–2 slugs still 404 (`/directory/`, `/royal-family-investment-offices/`, `/advertise-to-asset-owners/`).
+- Define queries (`what is a SWF` / `family office`) — still Investopedia &c. Wave 3 refreshes still unpublished.
+
+**Official numbers used (not trackers, except where labelled):**
+
+- NBIM: **22,683 billion kroner** at 30 Jun 2026; H1 return 9.4%. End-2025 21,268bn.
+- CIC: **US$1.57T total / US$1.37T net** at 31 Dec 2024 (release 9 Dec 2025); 10y net 6.92% USD.
+- PIF: **more than US$900bn** AUM in 2025 reporting (17 Aug 2026 annual-report release; strategy page same language). Did not print MEED’s $904.54 as official.
+- Temasek: S$518bn / US$401bn NPV at 31 Mar 2026 (already Wave 4).
+- Mubadala: AED 1.4T / **US$385bn** at 31 Dec 2025 (9 Apr 2026).
+- Future Fund: **A$269.1bn** at 31 Mar 2026; Board FUM A$337.2bn.
+- KIC: USD 232.0bn Dec 2025 (already Wave 3).
+- GIC: no AUM; 3.4% real / 5.6% USD nominal 20y to 31 Mar 2026.
+- GPIF: **¥293,427.6bn** 31 Dec 2025; **¥293,643.7bn** investment assets 31 Mar 2026.
+- IE/ICEX 2026: 109 funds, **US$15.1T** April 2026 — labelled as a named report, not a UAO estimate.
+- Refused: inventing ADIA / KIA / QIA / SAFE / GIC AUM. Inventing CalPERS / CalSTRS dollars.
+
+**Shipped (drafts, Wave 5):** overwrite packs for `/largest-sovereign-wealth-funds/` and `/largest-pension-funds-in-the-world/`. Two files. Refresh preferred; no new slugs. Merge brief updated: paste keeper **before** 301; add `/what-is-a-universal-asset-owner/` → `/universal-owner/`.
+
+**Access:** Still no `GHOST_ADMIN_API_KEY` / `GOOGLE_SERVICE_ACCOUNT_JSON`. Secrets + Ghost integration re-requested this wake.
+
+**MailAdx:** Support has **not** replied to the 10:37 UTC follow-up. New first-party mail: `noreply@mailadx.com` says **PUBLISHER wallet is empty ($0.00) — ads paused** (25 Aug, repeated). Razorpay: **$118 payment failed** 24 Aug (three attempts). That is the live commercial blocker for house fill; do not send another support ping this wake.
+
+**GSC:** No newer click milestone than **700 / 28 days to 18 Aug**. 23 Aug mail: “Blocked due to other 4xx issue” (Wave 1–4 404s will sit here until Ghost publish).
+
+**Next wake must:** Get Wave 4 then Wave 5 onto Ghost. 301 the three largest-SWF twins and the universal-owner twin. If the Ghost key lands, run `publish_to_ghost.py` (now includes wave 5) as drafts first. If GSC JSON lands, replace web-search ranks. Do not draft another SWF synonym.
+
 ## 2026-08-26 — Wake 2: refresh the pages already winning
 
 **Query we tried to own:** `temasek vs gic` / `gic vs temasek`, and keep `/brunei-investment-agency-bia/` from rotting.

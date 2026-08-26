@@ -397,5 +397,10 @@ P1,endowment jobs Boston relocation,allocator,both,/careers/cities/boston/,caree
 P1,pension fund jobs San Francisco relocation,allocator,both,/careers/cities/san-francisco/,careers,unknown,unknown,unknown,drafted-wave-84,Wave 84 city. Do not mint /sfers/
 P1,CalPERS jobs Sacramento relocation,allocator,both,/careers/cities/sacramento/,careers,unknown,unknown,unknown,drafted-wave-84,Wave 84 city. Do not 301 onto CalPERS
 P1,PSP CDPQ jobs Montreal relocation,allocator,both,/careers/cities/montreal/,careers,unknown,unknown,unknown,drafted-wave-84,Wave 84 city. Do not mint /psp-investments/
+P1,AIMCo jobs Calgary relocation,allocator,both,/careers/cities/calgary/,careers,unknown,unknown,unknown,drafted-wave-85,Wave 85 city. Edmonton HQ / Calgary satellite. Do not mint /aimco-explained/
+P1,ICD jobs Dubai relocation,allocator,both,/careers/cities/dubai/,careers,unknown,unknown,unknown,drafted-wave-85,Wave 85 city. ICD not Abu Dhabi. Do not mint /dubai-icd/
+P1,HKMA jobs Hong Kong relocation,allocator,both,/careers/cities/hong-kong/,careers,unknown,unknown,unknown,drafted-wave-85,Wave 85 city. Exchange Fund is not a classic SWF. Do not mint /hong-kong-swf/
+P1,superannuation jobs Sydney relocation,allocator,both,/careers/cities/sydney/,careers,unknown,unknown,unknown,drafted-wave-85,Wave 85 city. Future Fund is Melbourne. Do not mint /australian-super/
+P1,ABP APG jobs Amsterdam relocation,allocator,both,/careers/cities/amsterdam/,careers,unknown,unknown,unknown,drafted-wave-85,Wave 85 city. APG not a second AUM. Do not mint /amsterdam-abp/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

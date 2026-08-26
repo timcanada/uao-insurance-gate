@@ -1,5 +1,24 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 85: city pages — Calgary, Dubai, Hong Kong, Sydney, Amsterdam
+
+**Queries / URLs:** `/careers/cities/calgary/`, `/careers/cities/dubai/`, `/careers/cities/hong-kong/`, `/careers/cities/sydney/`, `/careers/cities/amsterdam/`.
+
+**What was wrong on the live site:**
+
+- Leftover official-filing house-AUM keepers remain exhausted after Wave 80. Wave 84 shipped five North American city pages. The next five city P1s with locked HQ facts were still `needed` and live **404** (confirmed 26 Aug).
+- AIMCo official head office is Edmonton; Calgary is Fifth Avenue Place. ICD is Dubai, not Abu Dhabi. HKMA Exchange Fund is not a classic SWF. Future Fund and AustralianSuper are Melbourne-centred. Amsterdam is the Dutch markets floor; APG is not a second AUM.
+
+**Confirmed still unpublished:** Waves 1–85. `/directory/` **404**. Wave 1 + Wave 84 + Wave 85 city pages still 404. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00**. Do not ping support.
+
+**Shipped (Wave 85):** five city pages. Relocating hub now lists 16 drafted cities. No leftover 301s. Publisher default waves now include 85.
+
+**Refused:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ / USS / ATP / Khazanah / HKMA Exchange Fund. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / CDPQ / OMERS / CalPERS / CalSTRS / Mubadala / Temasek / Future Fund / Alaska / ADIA / GIC / BCI / GPIF / CPP / Texas TRS / PIF / QIA / Australian Super / Aware Super / KIC / UniSuper / CIC / ADQ / Cbus / AIMCo / NZ Super / KIA / Khazanah / PSP / NYC CRS institution keepers. Another fiduciary-archive child or leftover synonym explainer. `/careers/intelligence/cio-compensation-public-plans/` (do not invent pay). Minting `/aimco-explained/`, `/calgary-aimco/`, `/dubai-icd/`, `/hong-kong-swf/`, `/sydney-super/`, `/australian-super/`, `/amsterdam-abp/`, `/pggm/`, `/pfzw-netherlands/`, `/family-office/`, `/harvard-endowment-explained/`, `/psp-investments/`, `/niif/`, or `/khazanah-explained/`. Inventing AIMCo, ICD, HKMA, Aware, Cbus, ADIA, KIA, QIA, SAFE, or APG AUM. People/CEO pages. Dated news.
+
+**Next wake must:** Paste Wave 1 directory + cities + relocating, Wave 84–85 cities, Wave 81–83 hubs, then 5 → 79 keepers including `/new-york-city-crs/`. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another leftover synonym explainer. Next city/careers gap: `/careers/cities/vancouver/` (BCI: Victoria HQ, Vancouver office), `/careers/cities/melbourne/` (Future Fund + AustralianSuper), `/careers/cities/zurich/`, `/careers/cities/doha/`. Then podcast/advertiser rotation. Skip compensation until sourced. Highest-harm unpublished leftovers remain: GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn.
+
 ## 2026-08-26 — Wake 84: city pages — New York, Boston, San Francisco, Sacramento, Montréal
 
 **Queries / URLs:** `/careers/cities/new-york/`, `/careers/cities/boston/`, `/careers/cities/san-francisco/`, `/careers/cities/sacramento/`, `/careers/cities/montreal/`.

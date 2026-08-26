@@ -18,7 +18,7 @@ editor_status: draft
 
 The Pennsylvania Public School Employees’ Retirement System is Pennsylvania’s school-employee pension, not a second CalPERS page and not SERS Pennsylvania. The official [2025 Annual Comprehensive Financial Report](https://www.pa.gov/content/dam/copapwp-pagov/en/psers/documents/transparency/financial-reports/acfr/psers%20acfr%20fy2025.pdf) prints net position restricted for pension, defined-contribution, and postemployment healthcare benefits of **$83,728,862 thousand** (**$83.7 billion**) at **30 June 2025**. The Defined Benefit Plan is **$82,631,210 thousand**. The investment portfolio at fair value is **$81.4 billion**. Those three lines are not interchangeable. The time-weighted net return on investments was **9.67 percent**. This page is not a ranking and not advice.
 
-**Do not treat this page as a second CalPERS overwrite or a second OPERS overwrite.** Those keepers are `/calpers-explained-largest-us-pension-fund/` and `/ohio-opers/`. Do not mint `/psers/`, `/psers-explained/`, or `/pennsylvania-public-school-employees-retirement-system/`. Do not mint `/pennsylvania-sers/` as a second PSERS page. SERS Pennsylvania is a different legal person.
+**Do not treat this page as a second CalPERS overwrite or a second OPERS overwrite.** Those keepers are `/calpers-explained-largest-us-pension-fund/` and `/ohio-opers/`. Do not mint `/psers/`, `/psers-explained/`, or `/pennsylvania-public-school-employees-retirement-system/`. SERS Pennsylvania is a different legal person — that keeper is `/pennsylvania-sers/`.
 
 ## What is official (30 June 2025)
 
@@ -48,6 +48,7 @@ Do not 301 this page onto `/calpers-explained-largest-us-pension-fund/`, `/what-
 - [Public pension funds](/public-pension-funds/)
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [OPERS](/ohio-opers/)
+- [Pennsylvania SERS](/pennsylvania-sers/)
 - [Virginia Retirement System](/virginia-retirement-system/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

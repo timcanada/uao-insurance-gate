@@ -20,7 +20,7 @@ San Francisco is a city pension, a family-office city, and a window other owners
 
 ## Which owners sit here — and which do not
 
-- [San Francisco Employees' Retirement System](https://mysfers.org/) — the City and County’s own system. Read that site. Do not invent an SFERS AUM on this page. Do not mint `/sfers/`.
+- [SFERS](/san-francisco-sfers/) — the City and County’s own system. Official house numbers sit on that institution page. Do not reprint them here. Do not mint `/sfers/`.
 - [CalPERS](https://www.calpers.ca.gov/) and [CalSTRS](https://www.calstrs.com/) are Sacramento-corridor houses. If the desk is there, read the [Sacramento city page](/careers/cities/sacramento/).
 - Family offices and multi-family offices cluster here. The job is still [a family office](/what-is-a-family-office/), not a product shelf. Do not invent a family-office AUM. Do not mint `/family-office/`.
 
@@ -39,4 +39,5 @@ Use official portals via [Careers](/careers/). Confirm on mysfers.org and the em
 - [Relocating to Sacramento](/careers/cities/sacramento/)
 - [Relocating for an asset-owner role](/careers/intelligence/relocating-for-an-asset-owner-role/)
 - [What is a pension fund?](/what-is-a-pension-fund/)
+- [SFERS](/san-francisco-sfers/)
 - [What is a family office?](/what-is-a-family-office/)

@@ -52,6 +52,8 @@ Do not 301 this page onto `/massachusetts-prim/`, `/calpers-explained-largest-us
 - [Massachusetts PRIM](/massachusetts-prim/)
 - [OPERS](/ohio-opers/)
 - [PSERS](/pennsylvania-psers/)
+- [Pennsylvania SERS](/pennsylvania-sers/)
+- [Illinois TRS](/illinois-trs/)
 - [Oregon PERS](/oregon-pers/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

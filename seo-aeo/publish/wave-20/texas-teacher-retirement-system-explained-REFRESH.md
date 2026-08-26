@@ -61,6 +61,7 @@ TRS is a **teacher pension**, not a sovereign wealth fund. The score they will s
 ## Related
 
 - [CalSTRS](/calstrs-explained/)
+- [Illinois TRS](/illinois-trs/)
 - [CalPERS](/calpers-explained-largest-us-pension-fund/)
 - [New York State Common Retirement Fund](/new-york-state-common-retirement-fund-explained/)
 - [Texas Permanent School Fund](/texas-permanent-school-fund-explained/)

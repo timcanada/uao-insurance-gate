@@ -32,9 +32,14 @@ Last updated: 26 August 2026.
 | Oregon PERS | Fiduciary net position **$108,349,083,336** at **30 June 2025**. Defined Benefit Pension Plan **$88,622,013,732**. Regular Portfolio **5.1 percent**. | Leftover Oregon **$95 billion**; OIC stack **$148.1 billion** as PERS AUM |
 | North Carolina Treasurer | Pension Plan **$134,096,647 thousand** (**$134.1 billion**) at **30 June 2025**. One-year **9.94 percent**. External Investment Pool **$179,136,588 thousand**. | Mixing the Pool with the Pension Plan; leftover NYSCRF **$226.8 billion** |
 | LACERA | Fiduciary net position restricted for pension benefits **$86,187,617,883** at **30 June 2025**. Pension-plan net return **9.7 percent**. | Leftover CalPERS **$460 billion**; adding OPEB |
+| Pennsylvania SERS | Combined fiduciary net position **$48,443,614 thousand** at **31 December 2025**. Defined Benefit Plan **$42,610,475 thousand**. | Mixing SERS with PSERS |
+| Illinois TRS | Defined Benefit fiduciary net position **$77,263,331,616** at **30 June 2025**. Combined **$77,258,062,833**. Portfolio **9.7 percent** net. | Mixing Illinois TRS with Texas TRS or ISBI |
+| ISBI | Fiduciary net position **$28,581,051,604** at **30 June 2025**. Member Systems **$28,534,549,893**. | Adding Illinois TRS; later **$29.5 billion** minute as current |
+| SFERS | Fiduciary net position restricted for pension benefits **$37,450,095 thousand** at **30 June 2025**. Money-weighted **8.47 percent**. Trust Fund **7.87 percent**. | Adding deferred compensation; leftover CalPERS **$460 billion** |
+| MPSERS | Net position restricted for pension benefits and OPEB **$94,365,768 thousand** at **30 September 2025**. Pension book **$78,656,194 thousand**. | Adding OPEB a second time; inventing a SISTF combined AUM |
 | New York State Common / NYC constellation / Florida SBA / STRS Ohio | Not fetched as official this wake | **$241 billion**; **$267.6 billion**; **$250 billion**; **$230 billion** |
 
-Print the CalPERS and CalSTRS filings. OPERS, WSIB, PRIM, VRS, PSERS, New Jersey Division of Investment, Oregon PERS, the North Carolina Treasurer, and LACERA now have official institution pages. This desk did not fetch a current official print for New York State Common, the New York City constellation, Florida SBA, or STRS Ohio this wake. Do not reprint those leftovers as if they were today’s NAV. Do **not** mint `/florida-sba/` or `/texas-trs/` (404s). Do **not** mint `/opers/`, `/wsib/`, `/prim/`, `/vrs/`, `/psers/`, `/njdoi/`, `/operf/`, `/ncrs/`, or `/lacera-explained/`.
+Print the CalPERS and CalSTRS filings. OPERS, WSIB, PRIM, VRS, PSERS, New Jersey Division of Investment, Oregon PERS, the North Carolina Treasurer, LACERA, Pennsylvania SERS, Illinois TRS, ISBI, SFERS, and MPSERS now have official institution pages. This desk did not fetch a current official print for New York State Common, the New York City constellation, Florida SBA, STRS Ohio, or the Michigan Treasurer combined SISTF book this wake. Do not reprint those leftovers as if they were today’s NAV. Do **not** mint `/florida-sba/` or `/texas-trs/` (404s). Do **not** mint `/opers/`, `/wsib/`, `/prim/`, `/vrs/`, `/psers/`, `/njdoi/`, `/operf/`, `/ncrs/`, `/lacera-explained/`, `/sers-pennsylvania/`, `/trs-illinois/`, `/isbi/`, `/sfers/`, or `/mpsers/`.
 
 ## What the list can say
 
@@ -64,6 +69,11 @@ Print the CalPERS and CalSTRS filings. OPERS, WSIB, PRIM, VRS, PSERS, New Jersey
 - [Oregon PERS](/oregon-pers/)
 - [North Carolina Treasurer](/north-carolina-treasurer/)
 - [LACERA](/lacera/)
+- [Pennsylvania SERS](/pennsylvania-sers/)
+- [Illinois TRS](/illinois-trs/)
+- [Illinois State Board of Investment](/illinois-isbi/)
+- [SFERS](/san-francisco-sfers/)
+- [MPSERS](/michigan-mpsers/)
 - [Largest public pensions by country](/largest-public-pension-funds-by-country/)
 - [Largest pension funds in the world](/largest-pension-funds-in-the-world/)
 - [What is a pension fund?](/what-is-a-pension-fund/)

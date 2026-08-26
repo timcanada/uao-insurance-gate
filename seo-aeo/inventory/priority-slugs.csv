@@ -100,10 +100,13 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 106,institution,ohio-opers,OPERS,allocator,brief,P0,drafted-in-repo,Wave 106. Official $158,377,460,244 net position at 31 Dec 2025. Do not mint /opers/ or /opers-explained/
 2,institution,opers,OPERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 106 /ohio-opers/
 2,institution,ohio-str,STRS Ohio,allocator,brief,P0,needed,Skip this wake. Official glance page blocked; ACFR PDF not locked. Do not mint /strs-ohio-explained/
-2,institution,michigan-sistf,Michigan State Treasurer / SISTF,allocator,brief,P0,needed,Public pension
+2,institution,michigan-sistf,Michigan State Treasurer / SISTF,allocator,brief,P0,needed,Skip this wake. No official combined SISTF AUM locked. Do not add MPSERS to MSERS. Do not mint /michigan-sistf/ as a second /michigan-mpsers/ page
+108,institution,michigan-mpsers,MPSERS,allocator,brief,P0,drafted-in-repo,Wave 108. Official $94,365,768 thousand at 30 Sep 2025. Do not mint /mpsers/ or /mpsers-explained/
+2,institution,mpsers,MPSERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 108 /michigan-mpsers/
 107,institution,pennsylvania-psers,PSERS,allocator,brief,P0,drafted-in-repo,Wave 107. Official $83,728,862 thousand at 30 Jun 2025. Do not mint /psers/ or /psers-explained/
 2,institution,psers,PSERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 107 /pennsylvania-psers/
-2,institution,pennsylvania-sers,SERS Pennsylvania,allocator,brief,P0,needed,Public pension
+108,institution,pennsylvania-sers,SERS Pennsylvania,allocator,brief,P0,drafted-in-repo,Wave 108. Official Combined $48,443,614 thousand at 31 Dec 2025. Do not mint /sers-pennsylvania/ or /pennsylvania-sers-explained/
+2,institution,sers-pennsylvania,SERS Pennsylvania (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 108 /pennsylvania-sers/
 107,institution,new-jersey-division-of-investment,NJ Division of Investment,allocator,brief,P0,drafted-in-repo,Wave 107. Official Pension Fund $84,084 million at 30 Jun 2025. Do not mint /njdoi/
 2,institution,njdoi,NJDOI (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 107 /new-jersey-division-of-investment/
 107,institution,north-carolina-treasurer,North Carolina Treasurer,allocator,brief,P0,drafted-in-repo,Wave 107. Official Pension Plan $134,096,647 thousand at 30 Jun 2025. Do not mint /ncrs/
@@ -117,11 +120,14 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 106,institution,virginia-retirement-system,VRS,allocator,brief,P0,drafted-in-repo,Wave 106. Official $124,041,778 thousand at 30 Jun 2025. Do not mint /vrs/ or /vrs-explained/
 2,institution,vrs,VRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 106 /virginia-retirement-system/
 2,institution,georgia-trs,TRS Georgia,allocator,brief,P0,needed,Public pension
-2,institution,illinois-isbi,ISBI,allocator,brief,P0,needed,Public pension
-2,institution,illinois-trs,TRS Illinois,allocator,brief,P0,needed,Public pension
+108,institution,illinois-isbi,ISBI,allocator,brief,P0,drafted-in-repo,Wave 108. Official $28,581,051,604 at 30 Jun 2025. Do not mint /isbi/ or /isbi-explained/
+2,institution,isbi,ISBI (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 108 /illinois-isbi/
+108,institution,illinois-trs,TRS Illinois,allocator,brief,P0,drafted-in-repo,Wave 108. Official DB $77,263,331,616 at 30 Jun 2025. Do not mint /trs-illinois/ or /illinois-trs-explained/
+2,institution,trs-illinois,TRS Illinois (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 108 /illinois-trs/
 107,institution,lacera,LACERA,allocator,brief,P0,drafted-in-repo,Wave 107. Official $86,187,617,883 at 30 Jun 2025. Do not mint /lacera-explained/ or /los-angeles-lacroa/
 2,institution,los-angeles-lacroa,LACERA (typo slug),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 107 /lacera/
-2,institution,san-francisco-sfers,SFERS,allocator,brief,P0,needed,Public pension
+108,institution,san-francisco-sfers,SFERS,allocator,brief,P0,drafted-in-repo,Wave 108. Official $37,450,095 thousand at 30 Jun 2025. Do not mint /sfers/ or /sfers-explained/
+2,institution,sfers,SFERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 108 /san-francisco-sfers/
 2,institution,teacher-retirement-system-of-texas-cio,TRS Texas CIO office,allocator,brief,P0,needed,Public pension
 2,institution,cpp-vs-otpp-vs-cdpq,The Canadian large-plan triangle,allocator,brief,P0,needed,Comparison
 105,institution,unjspf,UNJSPF,allocator,brief,P0,drafted-in-repo,Wave 105. Official $107,533,052 thousand net assets at 31 Dec 2025. Do not mint /unjps-united-nations/ or /united-nations-joint-staff-pension-fund/

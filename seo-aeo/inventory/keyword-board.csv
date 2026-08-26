@@ -512,5 +512,10 @@ P1,New Jersey Division of Investment,allocator,both,/new-jersey-division-of-inve
 P1,Oregon PERS,allocator,both,/oregon-pers/,define,unknown,unknown,unknown,drafted-wave-107,Wave 107. Official $108,349,083,336 at 30 Jun 2025. Do not mint /oregon-pers-investments/ or /operf/
 P1,North Carolina Treasurer,allocator,both,/north-carolina-treasurer/,define,unknown,unknown,unknown,drafted-wave-107,Wave 107. Official Pension Plan $134,096,647 thousand at 30 Jun 2025. Do not mint /ncrs/
 P1,LACERA,allocator,both,/lacera/,define,unknown,unknown,unknown,drafted-wave-107,Wave 107. Official $86,187,617,883 at 30 Jun 2025. Do not mint /lacera-explained/
+P1,SERS Pennsylvania,allocator,both,/pennsylvania-sers/,define,unknown,unknown,unknown,drafted-wave-108,Wave 108. Official Combined $48,443,614 thousand at 31 Dec 2025. Do not mint /sers-pennsylvania/
+P1,TRS Illinois,allocator,both,/illinois-trs/,define,unknown,unknown,unknown,drafted-wave-108,Wave 108. Official DB $77,263,331,616 at 30 Jun 2025. Do not mint /trs-illinois/
+P1,ISBI Illinois,allocator,both,/illinois-isbi/,define,unknown,unknown,unknown,drafted-wave-108,Wave 108. Official $28,581,051,604 at 30 Jun 2025. Do not mint /isbi/
+P1,SFERS,allocator,both,/san-francisco-sfers/,define,unknown,unknown,unknown,drafted-wave-108,Wave 108. Official $37,450,095 thousand at 30 Jun 2025. Do not mint /sfers/
+P1,MPSERS Michigan,allocator,both,/michigan-mpsers/,define,unknown,unknown,unknown,drafted-wave-108,Wave 108. Official $94,365,768 thousand at 30 Sep 2025. Do not mint /mpsers/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

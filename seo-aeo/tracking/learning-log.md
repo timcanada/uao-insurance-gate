@@ -1,5 +1,24 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 90: city pages — Madrid, Beijing, Helsinki, Santiago, Jakarta
+
+**Queries / URLs:** `/careers/cities/madrid/`, `/careers/cities/beijing/`, `/careers/cities/helsinki/`, `/careers/cities/santiago/`, `/careers/cities/jakarta/`.
+
+**What was wrong on the live site:**
+
+- Leftover official-filing house-AUM keepers remain exhausted after Wave 80. Wave 89 shipped five city pages. The next five city P1s with locked HQ facts were still `needed` and live **404** (confirmed 26 Aug).
+- TGSS official address is C/ Astros, 5 y 7, 28007 Madrid; it administers the Fondo de Reserva. CIC official contact is Building 3, No. 9, Dongzhimenwai Xiejie after the 3 June 2025 move. Keva official visiting is Unioninkatu 43; VER is Mikonkatu 15 A. Hacienda Oficina de Partes is Teatinos 120. Danantara official headquarter is Wisma Danantara, Gatot Subroto Kav. 36-38.
+
+**Confirmed still unpublished:** Waves 1–90. `/directory/` **404**. Wave 1 + Wave 84–90 city pages still 404. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00**. Do not ping support.
+
+**Shipped (Wave 90):** five city pages. Relocating hub now lists 41 drafted cities. Paris now links Madrid. Stockholm and Copenhagen now link Helsinki. Hong Kong, Tokyo and New York now link Beijing. Singapore and Kuala Lumpur now link Jakarta. No leftover 301s. Publisher default waves now include 90.
+
+**Refused:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ / USS / ATP / Khazanah / HKMA Exchange Fund / NPS / EPF / Keva / VER. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / CDPQ / OMERS / CalPERS / CalSTRS / Mubadala / Temasek / Future Fund / Alaska / ADIA / GIC / BCI / GPIF / CPP / Texas TRS / PIF / QIA / Australian Super / Aware Super / KIC / UniSuper / CIC / ADQ / Cbus / AIMCo / NZ Super / KIA / Khazanah / PSP / NYC CRS / ISIF / EPF institution keepers. Another fiduciary-archive child or leftover synonym explainer. `/careers/intelligence/cio-compensation-public-plans/` (do not invent pay). Shanghai (CIC satellite is Hong Kong). Minting `/fondo-de-reserva-explained/`, `/madrid-swf/`, `/tgss-explained/`, `/beijing-cic/`, `/safe-china/`, `/nssf-explained/`, `/keva-explained/`, `/ver-finland/`, `/essf-explained/`, `/santiago-essf/`, `/danantara-explained/`, `/jakarta-danantara/`, `/indonesia-investment-authority/`, `/family-office/`, `/pggm/`, `/pfzw-netherlands/`, `/aimco-explained/`, `/psp-investments/`, `/niif/`, or `/korea-investment-corporation-kic/`. Inventing FRSS, CIC, SAFE, Keva, VER, ESSF, Danantara, INA, ADIA, QIA, or GIC AUM. People/CEO pages. Dated news.
+
+**Next wake must:** Paste Wave 1 directory + cities + relocating, Wave 84–90 cities, Wave 81–83 hubs, then 5 → 79 keepers including `/new-york-city-crs/`. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another leftover synonym explainer. Next city/careers gap: `/careers/cities/vienna/`, `/careers/cities/warsaw/`, `/careers/cities/taipei/`, `/careers/cities/mexico-city/` — each only after a named owner HQ is locked. Then podcast/advertiser rotation. Skip compensation until sourced. Highest-harm unpublished leftovers remain: GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn.
+
 ## 2026-08-26 — Wake 89: city pages — Frankfurt, Milan, Kuala Lumpur, Johannesburg, Brussels
 
 **Queries / URLs:** `/careers/cities/frankfurt/`, `/careers/cities/milan/`, `/careers/cities/kuala-lumpur/`, `/careers/cities/johannesburg/`, `/careers/cities/brussels/`.

@@ -42,6 +42,7 @@ Use official portals via [Careers](/careers/). Confirm on the employer site.
 
 ## Related
 
+- [Relocating to Beijing](/careers/cities/beijing/)
 - [Relocating for an asset-owner role](/careers/intelligence/relocating-for-an-asset-owner-role/)
 - [Why London satellites fail](/careers/intelligence/why-london-satellites-fail/)
 - [New York City Retirement Systems](/new-york-city-crs/)

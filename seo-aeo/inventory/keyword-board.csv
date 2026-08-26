@@ -422,5 +422,10 @@ P1,CDP jobs Milan relocation,allocator,both,/careers/cities/milan/,careers,unkno
 P1,Khazanah jobs Kuala Lumpur relocation,allocator,both,/careers/cities/kuala-lumpur/,careers,unknown,unknown,unknown,drafted-wave-89,Wave 89 city. No USD AUM. Do not mint /khazanah-explained/
 P1,PIC jobs Johannesburg relocation,allocator,both,/careers/cities/johannesburg/,careers,unknown,unknown,unknown,drafted-wave-89,Wave 89 city. PIC HQ is Pretoria. Do not mint /careers/cities/pretoria/
 P1,APG jobs Brussels relocation,allocator,both,/careers/cities/brussels/,careers,unknown,unknown,unknown,drafted-wave-89,Wave 89 city. APG not a second AUM. Do not mint /brussels-apg/
+P1,Fondo de Reserva jobs Madrid relocation,allocator,both,/careers/cities/madrid/,careers,unknown,unknown,unknown,drafted-wave-90,Wave 90 city. TGSS Astros 5 y 7. Do not mint /fondo-de-reserva-explained/
+P1,CIC jobs Beijing relocation,allocator,both,/careers/cities/beijing/,careers,unknown,unknown,unknown,drafted-wave-90,Wave 90 city. CIC Dongzhimenwai. Do not mint /beijing-cic/ or /safe-china/
+P1,Keva jobs Helsinki relocation,allocator,both,/careers/cities/helsinki/,careers,unknown,unknown,unknown,drafted-wave-90,Wave 90 city. Keva Unioninkatu 43 / VER Mikonkatu 15 A. Do not mint /keva-explained/
+P1,ESSF jobs Santiago relocation,allocator,both,/careers/cities/santiago/,careers,unknown,unknown,unknown,drafted-wave-90,Wave 90 city. Hacienda Teatinos 120. Do not mint /essf-explained/
+P1,Danantara jobs Jakarta relocation,allocator,both,/careers/cities/jakarta/,careers,unknown,unknown,unknown,drafted-wave-90,Wave 90 city. No official AUM. Do not mint /danantara-explained/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

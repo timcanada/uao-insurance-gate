@@ -41,6 +41,7 @@ Use official portals via [Careers](/careers/). Confirm on ap3.se, ap4.se and ap2
 ## Related
 
 - [The Nordic pension model](/nordic-pension-model-explained/)
+- [Relocating to Helsinki](/careers/cities/helsinki/)
 - [Relocating to Copenhagen](/careers/cities/copenhagen/)
 - [Relocating to Oslo](/careers/cities/oslo/)
 - [Relocating for an asset-owner role](/careers/intelligence/relocating-for-an-asset-owner-role/)

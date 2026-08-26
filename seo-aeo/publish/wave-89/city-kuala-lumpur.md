@@ -42,5 +42,6 @@ Use official portals via [Careers](/careers/). Confirm on khazanah.com.my and kw
 
 - [Khazanah Nasional, explained](/khazanah-nasional-malaysia-explained/)
 - [Is Khazanah a sovereign wealth fund?](/is-khazanah-a-sovereign-wealth-fund/)
+- [Relocating to Jakarta](/careers/cities/jakarta/)
 - [Relocating to Singapore](/careers/cities/singapore/)
 - [Relocating for an asset-owner role](/careers/intelligence/relocating-for-an-asset-owner-role/)

@@ -41,6 +41,7 @@ Use official portals via [Careers](/careers/). Confirm on hkma.gov.hk and the em
 ## Related
 
 - [HKMA Exchange Fund, explained](/hkma-exchange-fund-hong-kong-explained/)
+- [Relocating to Beijing](/careers/cities/beijing/)
 - [Relocating to Singapore](/careers/cities/singapore/)
 - [Why London satellites fail](/careers/intelligence/why-london-satellites-fail/)
 - [Relocating for an asset-owner role](/careers/intelligence/relocating-for-an-asset-owner-role/)

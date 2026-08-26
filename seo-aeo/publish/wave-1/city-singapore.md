@@ -43,6 +43,7 @@ Global pensions and endowments staff Singapore as a *window*, not always as HQ. 
 
 ## Related
 
+- [Relocating to Jakarta](/careers/cities/jakarta/)
 - [Relocating to Kuala Lumpur](/careers/cities/kuala-lumpur/)
 - [Relocating for an asset-owner role](/careers/intelligence/relocating-for-an-asset-owner-role/)
 - [Directory: legal](/directory/legal/) and [tax](/directory/accounting/) for the firms that sit around a relocation — labelled, not recommended.

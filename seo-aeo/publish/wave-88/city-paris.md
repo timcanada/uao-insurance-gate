@@ -43,5 +43,6 @@ Use official portals via [Careers](/careers/). Confirm on fondsdereserve.fr and 
 - [What is a pension fund?](/what-is-a-pension-fund/)
 - [Public pension funds](/public-pension-funds/)
 - [Relocating to Frankfurt](/careers/cities/frankfurt/)
+- [Relocating to Madrid](/careers/cities/madrid/)
 - [Relocating to London](/careers/cities/london/)
 - [Relocating for an asset-owner role](/careers/intelligence/relocating-for-an-asset-owner-role/)

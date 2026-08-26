@@ -41,6 +41,7 @@ Use official portals via [Careers](/careers/). Confirm on atp.dk.
 ## Related
 
 - [ATP, explained](/atp-denmark-pension-fund/)
+- [Relocating to Helsinki](/careers/cities/helsinki/)
 - [Relocating to Stockholm](/careers/cities/stockholm/)
 - [Relocating to Oslo](/careers/cities/oslo/)
 - [Why London satellites fail](/careers/intelligence/why-london-satellites-fail/)

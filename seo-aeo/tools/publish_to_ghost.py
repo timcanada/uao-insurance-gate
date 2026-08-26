@@ -253,7 +253,7 @@ def main() -> None:
             "GHOST_ADMIN_API_KEY is missing. In Ghost Admin: Settings → Integrations → "
             "Add custom integration → copy Admin API Key into this environment."
         )
-    waves = args.wave or ["1", "2", "3"]
+    waves = args.wave or ["1", "2", "3", "4"]
     files: list[Path] = []
     for w in waves:
         d = PUBLISH / f"wave-{w}"

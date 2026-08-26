@@ -18,7 +18,7 @@ Once those secrets are in, this agent publishes Wave 1–3 as Ghost drafts (or l
 4. 301 the twin explainers in `publish/wave-3/merge-brief.md`.
 5. Upgrade `/advertise/` and `/press-desk/` from the drafts (they overwrite thin live pages).
 6. Put `/llms/` patch live.
-7. Refresh `/temasek-vs-gic-difference/` and `/brunei-investment-agency-bia/` — they are already taking July clicks.
+7. Paste Wave 4 over the live GSC winners (`publish/wave-4/INDEX.md`) — Temasek vs GIC is stale on GIC’s 24 Jul 2026 report.
 8. Send the advertiser one-pager (`media/advertiser-packages.md`) as a PDF to the first ten firms that already buy IPE/P&I/Campden.
 9. MailAdx: fund the wallet they are nagging about if house fill is gated on it; otherwise wait on `support@mailadx.com` (thread sent 26 Aug).
 10. Decide when to stand up **Lane A** (public scale newsletter) so the 1M-subscriber goal has a list that is not the reviewed brief.

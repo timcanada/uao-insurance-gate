@@ -1,5 +1,31 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 2: refresh the pages already winning
+
+**Query we tried to own:** `temasek vs gic` / `gic vs temasek`, and keep `/brunei-investment-agency-bia/` from rotting.
+
+**What already ranks:**
+
+- `temasek vs gic` — UAO `/temasek-vs-gic-difference/` is first in 26 Aug web results. July GSC: 32 page clicks; 5+5 query clicks. **We already own this.** The live page was a year stale on GIC (3.8% real / 5.7% nominal to Mar 2025; old 51/26/23 mix; “41% Singapore TPCs”).
+- `brunei investment agency` — Wikipedia still leads the name query. Our URL took 15 July clicks anyway. Statute (Chapter 137) was under-used.
+- `what is a sovereign wealth fund` / `what is a family office` — still Investopedia / Reuters / WSJ. Wave 3 refreshes remain unpublished (Ghost 404 on new slugs; franchise URLs still the old copy).
+- Twin “largest SWF” URLs still all 200.
+
+**Official numbers used (not trackers):**
+
+- Temasek Review 2026 / 8 Jul 2026 release: NPV S$518bn (US$401bn) at 31 Mar 2026; prior S$469bn MTM; TSR 6.8% / 7.1% / 4.6% / 10.5%; TPCs 43%; 52% SG-headquartered / 27% underlying SG; invested 51 / divested 31.
+- GIC 24 Jul 2026: 20-year real **3.4%**, USD nominal 5.6% / 10y 6.2% / 5y 3.6%; geography Americas 53 / APAC 22 / EMEA 19 / global 6. Stop quoting 51/26/23 as current.
+- MOF reserves page (4 Mar 2026): GIC manages Government assets; Temasek owns its balance sheet.
+- BIA: Chapter 137 objects; Bridgewater ~20% is Bloomberg-via-Asia Asset (Aug 2025), not a filing.
+
+**Shipped (drafts, Wave 4):** overwrite packs for `/temasek-vs-gic-difference/`, `/gic-singapore-explained/`, `/brunei-investment-agency-bia/`. Three files. Refresh preferred; no new slugs.
+
+**Refused:** Printing a GIC AUM. Inventing a BIA CIO. Adding another “what is an SWF” twin.
+
+**Access:** Still no `GHOST_ADMIN_API_KEY` / `GOOGLE_SERVICE_ACCOUNT_JSON`. MailAdx support has not replied to the 10:37 UTC follow-up.
+
+**Next wake must:** Get Wave 3+4 onto Ghost (API or paste). 301 the three largest-SWF twins. If credentials land, run `tools/pull_search_analytics.py` and replace web-search ranks with GSC positions. Do not draft more explainers until the winning pages are live with 2026 numbers.
+
 ## 2026-08-26 — First-party GSC/GA (wake 1)
 
 **Correction:** Tim said the “no GSC / no GA” puzzle was a mistake. Both exist. Gmail on `info@universalassetowners.com` already receives the official reports.

@@ -1,10 +1,13 @@
 priority,query,audience,lane,target_url,intent,google_rank,bing_rank,llm_cited,status,notes
-P0,sovereign wealth fund,allocator,both,/sovereign-wealth-fund/,define,unknown,unknown,unknown,live-check,Defend franchise
-P0,what is a sovereign wealth fund,allocator,both,/sovereign-wealth-fund/,define,unknown,unknown,unknown,live-check,Merge twins if any
-P0,largest sovereign wealth funds,allocator,both,/largest-sovereign-wealth-funds/,list,unknown,unknown,unknown,live-check,
+P0,sovereign wealth fund,allocator,both,/sovereign-wealth-fund/,define,not-top5,unknown,unknown,refresh-drafted,26 Aug web: IFSWF/Investopedia/Reuters/Wikipedia. Wave 3 refresh ready
+P0,what is a sovereign wealth fund,allocator,both,/sovereign-wealth-fund/,define,not-top5,unknown,unknown,refresh-drafted,Same SERP as above
+P0,largest sovereign wealth funds,allocator,both,/largest-sovereign-wealth-funds/,list,uao-present-twins,unknown,unknown,merge-twins,Three live UAO URLs still 200
 P0,largest pension funds in the world,allocator,both,/largest-pension-funds-in-the-world/,list,unknown,unknown,unknown,live-check,
 P0,largest asset owners in the world,allocator,both,/largest-asset-owners-in-the-world/,list,unknown,unknown,unknown,live-check,
-P0,what is a family office,allocator,both,/what-is-a-family-office/,define,unknown,unknown,unknown,live-check,
+P0,what is a family office,allocator,both,/what-is-a-family-office/,define,not-top5,unknown,unknown,refresh-drafted,26 Aug web: Investopedia/WSJ/banks. Wave 3 refresh ready
+P0,temasek vs gic,allocator,both,/temasek-vs-gic-difference/,compare,uao-1-websearch,unknown,unknown,refresh-drafted,July GSC 5 clicks; UAO first in 26 Aug web results; GIC 2025/26 numbers now in Wave 4
+P0,gic vs temasek,allocator,both,/temasek-vs-gic-difference/,compare,uao-1-websearch,unknown,unknown,refresh-drafted,July GSC 5 clicks; same URL
+P0,brunei investment agency,allocator,both,/brunei-investment-agency-bia/,entity,not-top5,unknown,unknown,refresh-drafted,July GSC 15 clicks on URL; Wikipedia still leads name query
 P0,family office vs family office CIO,allocator,both,/what-does-a-family-office-cio-do,define,unknown,unknown,unknown,drafted-wave-2,
 P0,what is a universal owner,allocator,both,/what-is-a-universal-asset-owner/,define,unknown,unknown,unknown,live-check,
 P0,universal owners,allocator,both,/universal-owners/,hub,unknown,unknown,unknown,live-check,
@@ -20,8 +23,8 @@ P0,sovereign wealth fund podcast,allocator,A,/podcast-universal-owner/,podcast,u
 P0,family office podcast,allocator,A,/podcast-universal-owner/,podcast,unknown,unknown,unknown,drafted-wave-2,
 P0,pension fund conference coverage,service-provider,A,/event-coverage/,events,unknown,unknown,unknown,drafted-wave-2,
 P1,ADIA,allocator,both,/adia-abu-dhabi-investment-authority/,entity,unknown,unknown,unknown,live-check,
-P1,GIC Singapore,allocator,both,/gic-singapore-explained/,entity,unknown,unknown,unknown,live-check,
-P1,Temasek,allocator,both,/temasek-holdings-explained/,entity,unknown,unknown,unknown,live-check,
+P1,GIC Singapore,allocator,both,/gic-singapore-explained/,entity,unknown,unknown,unknown,refresh-drafted,Live page still on 2024/25 3.8%; Wave 4 uses 3.4% / 5.6% to 31 Mar 2026
+P1,Temasek,allocator,both,/temasek-holdings-explained/,entity,unknown,unknown,unknown,live-check,NPV S$518bn confirmed official 8 Jul 2026
 P1,PIF Saudi,allocator,both,/public-investment-fund-pif/,entity,unknown,unknown,unknown,live-check,
 P1,NBIM,allocator,both,/norges-bank-investment-management-nbim/,entity,unknown,unknown,unknown,live-check,
 P1,CalPERS,allocator,both,/calpers-explained-largest-us-pension-fund/,entity,unknown,unknown,unknown,live-check,

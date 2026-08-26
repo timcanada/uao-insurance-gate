@@ -38,6 +38,7 @@ Target inventory over the full build: **10,000–30,000 indexable pages**, each 
 | `publish/wave-1/` | First-wave articles ready for the newsroom |
 | `publish/wave-2/` | Scale/sponsor/podcast/events/royal-office hubs |
 | `publish/wave-3/` | Franchise refreshes (SWF, family office) + PSP / KIC / AustralianSuper |
+| `publish/wave-4/` | Overwrites for the GSC winners: Temasek vs GIC, GIC explained, BIA |
 | `tools/` | Ghost publisher + GSC/GA4 puller |
 | `media/` | Advertiser packages ($20k–$50k / month + display path) |
 | `tracking/` | First-party GSC/GA baseline, subscribers, sponsors, learning log — never invent numbers |

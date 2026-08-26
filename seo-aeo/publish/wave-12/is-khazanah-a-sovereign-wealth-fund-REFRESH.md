@@ -74,7 +74,7 @@ Those are nation-building lines. They are not a second NAV. Do not add them to R
 - **$47 billion USD is dead.** If a memo still uses it, the memo is not reading KAR 2026.
 - **RM105 billion is NAV. RM156 billion is total assets.** Pick the one you mean.
 - **Yes, it is a SWF — on Khazanah’s own stationery.** The interesting question is *which kind*.
-- **One UAO URL.** This Q&A is the keeper until a sourced institution page exists. Do not mint `/khazanah-explained/`.
+- **Two UAO URLs, two jobs.** This Q&A answers the SWF question. The institution page is [`/khazanah-nasional-malaysia-explained/`](/khazanah-nasional-malaysia-explained/) (Wave 17). Do **not** 301 them onto each other. Do not mint `/khazanah-explained/`.
 
 ## Related
 

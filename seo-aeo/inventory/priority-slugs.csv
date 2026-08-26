@@ -21,7 +21,7 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,adia-abu-dhabi-investment-authority,Abu Dhabi Investment Authority,allocator,brief,P1,live-check,SWF
 2,institution,mubadala-investment-company,Mubadala Investment Company,allocator,brief,P1,live-check,SWF
 2,institution,adq-abu-dhabi,ADQ,allocator,brief,P1,live-check,SWF
-2,institution,qatar-investment-authority-qia,Qatar Investment Authority,allocator,brief,P1,live-check,SWF
+2,institution,qatar-investment-authority-qia,Qatar Investment Authority,allocator,brief,P1,refresh-drafted,SWF — Wave 17 (no official AUM; live still $510–600bn). 301 short + portfolio twins after paste. Do not mint /qatar-investment-authority-qia-portfolio/
 2,institution,kuwait-investment-authority-kia,Kuwait Investment Authority,allocator,brief,P1,refresh-drafted,SWF — Wave 16 (no official AUM; live still $1.07T)
 2,institution,gic-singapore-explained,GIC,allocator,brief,P1,live-check,SWF
 2,institution,temasek-holdings-explained,Temasek,allocator,brief,P1,live-check,SWF/strategic
@@ -36,8 +36,8 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,cdpq-explained,CDPQ,allocator,brief,P0,refresh-drafted,Public pension — Wave 12 (CAD $517.3bn at 31 Dec 2025)
 2,institution,psp-investments,PSP Investments,allocator,brief,P0,refresh-drafted,Public pension — Wave 16 overwrites /psp-investments-canada-explained/ (C$320.6bn). Do not mint /psp-investments/
 2,institution,omers-explained,OMERS,allocator,brief,P0,needed,Public pension
-2,institution,aimco-explained,AIMCo,allocator,brief,P0,needed,Public pension
-2,institution,bcimc-bci,BCI,allocator,brief,P0,needed,Public pension
+2,institution,aimco-explained,AIMCo,allocator,brief,P0,refresh-drafted,Public pension — Wave 17 overwrites /aimco-alberta-investment-management-corporation/ (C$194.7bn at 31 Dec 2025). Do not mint /aimco-explained/
+2,institution,bcimc-bci,BCI,allocator,brief,P0,refresh-drafted,Public pension — Wave 17 overwrites /bci-british-columbia-investment-management/ ($313.7bn gross / $265.4bn net). 301 twins after paste
 2,institution,calpers-explained-largest-us-pension-fund,CalPERS,allocator,brief,P1,live-check,Public pension
 2,institution,calstrs-explained,CalSTRS,allocator,brief,P1,live-check,Public pension
 2,institution,wisconsin-investment-board-swib,SWIB,allocator,brief,P1,live-check,Public pension
@@ -58,16 +58,16 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,pic-south-africa,Public Investment Corporation,allocator,brief,P0,needed,Public pension
 2,institution,previ-brazil,Previ,allocator,brief,P0,needed,Public pension
 2,institution,afore-xxi-banorte,Afore XXI Banorte,allocator,brief,P0,needed,Pension
-2,institution,yale-investments-office,Yale Investments Office,allocator,brief,P0,needed,Endowment
-2,institution,harvard-management-company,Harvard Management Company,allocator,brief,P0,needed,Endowment
-2,institution,stanford-management-company,Stanford Management Company,allocator,brief,P0,needed,Endowment
-2,institution,princeton-investment-company,PRINCO,allocator,brief,P0,needed,Endowment
+2,institution,yale-investments-office,Yale Investments Office,allocator,brief,P0,refresh-drafted,Endowment — official $44.1bn / 11.1% at 30 Jun 2025 sits on Wave 14 Yale-model + Wave 15 category + Wave 17 list. Do not mint a third Yale synonym
+2,institution,harvard-management-company,Harvard Management Company,allocator,brief,P0,refresh-drafted,Endowment — official $56.9bn / 11.9% at 30 Jun 2025 on Wave 15 category + Wave 17 list. Do not mint /harvard-endowment-explained/
+2,institution,stanford-management-company,Stanford Management Company,allocator,brief,P0,refresh-drafted,Endowment — Wave 17 list: endowment $40.8bn at 31 Aug 2025; Merged Pool $47.7bn / 14.3% at 30 Jun 2025. Do not treat the pool as endowment AUM
+2,institution,princeton-investment-company,PRINCO,allocator,brief,P0,refresh-drafted,Endowment — Wave 17 list: PRINCO $36.4bn / 11.0% at 30 Jun 2025
 2,institution,mit-investment-management-company,MITIMCo,allocator,brief,P0,needed,Endowment
 2,institution,university-of-texas-imf,UTIMCO,allocator,brief,P0,needed,Endowment
 2,institution,wellcome-trust,Wellcome Trust,allocator,brief,P0,needed,Foundation
 2,institution,gates-foundation-trust,Gates Foundation Trust,allocator,brief,P0,needed,Foundation
 2,institution,ford-foundation,Ford Foundation,allocator,brief,P0,needed,Foundation
-2,institution,khazanah-explained,Khazanah,allocator,brief,P0,refresh-drafted,Keeper is /is-khazanah-a-sovereign-wealth-fund/ — Wave 12 (RM105bn NAV). Do not mint explained twin
+2,institution,khazanah-explained,Khazanah,allocator,brief,P0,refresh-drafted,Q&A /is-khazanah-a-sovereign-wealth-fund/ Wave 12; institution /khazanah-nasional-malaysia-explained/ Wave 17 (RM105bn NAV). Do not 301. Do not mint /khazanah-explained/
 2,institution,mumtalakat-bahrain,Mumtalakat,allocator,brief,P0,needed,SWF
 2,institution,qia-vs-adia,QIA vs ADIA,allocator,brief,P0,needed,Comparison
 2,institution,nbim-vs-gic,NBIM vs GIC,allocator,brief,P0,needed,Comparison
@@ -194,14 +194,14 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,person,people/allocator-class/wellcome-cio-current,Wellcome Trust CIO,allocator,brief,P0,needed,Verify current title from official source on the day of publish
 2,person,people/allocator-class/adia-managing-director,ADIA MD (verify at publish),allocator,brief,P0,needed,Verify current title from official source on the day of publish
 2,person,people/allocator-class/mubadala-ceo,Mubadala CEO (verify at publish),allocator,brief,P0,needed,Verify current title from official source on the day of publish
-2,person,people/allocator-class/qia-ceo,QIA CEO (verify at publish),allocator,brief,P0,needed,Verify current title from official source on the day of publish
+2,person,people/allocator-class/qia-ceo,QIA CEO (verify at publish),allocator,brief,P0,refresh-drafted,Mohammed Saif Al-Sowaidi named current CEO on QIA History. Do not mint a person URL until there is a third sourced fact-set
 2,person,people/allocator-class/kia-md,KIA managing director (verify at publish),allocator,brief,P0,needed,Verify current title from official source on the day of publish
 2,person,people/allocator-class/cic-chairman,CIC leadership (verify at publish),allocator,brief,P0,needed,Verify current title from official source on the day of publish
 2,person,people/allocator-class/nps-korea-cio,NPS Korea CIO (verify at publish),allocator,brief,P0,needed,Verify current title from official source on the day of publish
 2,person,people/allocator-class/australiansuper-cio,AustralianSuper CIO,allocator,brief,P0,needed,Verify current title from official source on the day of publish
 2,person,people/allocator-class/uss-cio,USS CIO,allocator,brief,P0,needed,Verify current title from official source on the day of publish
 2,person,people/allocator-class/swib-cio,SWIB CIO,allocator,brief,P0,needed,Verify current title from official source on the day of publish
-2,person,people/allocator-class/aimco-ceo,AIMCo CEO,allocator,brief,P0,needed,Verify current title from official source on the day of publish
+2,person,people/allocator-class/aimco-ceo,AIMCo CEO,allocator,brief,P0,refresh-drafted,Ray Gilmour named CEO on AIMCo 2025 results; Justin Lord CIO. Do not mint a person URL until there is a third sourced fact-set
 2,person,people/allocator-class/omers-cio,OMERS CIO,allocator,brief,P0,needed,Verify current title from official source on the day of publish
 2,city,careers/cities/new-york,Relocating to New York for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
 3,city,careers/cities/boston,Relocating to Boston for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice

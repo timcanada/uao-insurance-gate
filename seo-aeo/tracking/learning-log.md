@@ -1,5 +1,29 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 17: Khazanah USD 44bn; endowments $50bn; AIMCo $160bn; BCI $224.2bn; QIA $510–600bn
+
+**Queries / URLs:** `/khazanah-nasional-malaysia-explained/`, `/largest-university-endowments-2026/`, `/aimco-alberta-investment-management-corporation/`, `/bci-british-columbia-investment-management/`, `/qatar-investment-authority-qia/`.
+
+**What was wrong on the live site:**
+
+- Khazanah explained (21 June 2026) still says **USD 44 billion as of 2023**. Official KAR 2026: **RM105 billion NAV** / **RM156 billion** total assets at 31 December 2025; **5.2%** / **6.1%** seven-year. No USD AUM. Wave 12 already has the Q&A. Do **not** 301 the two onto each other. `/khazanah-explained/` **404s** — do not mint it.
+- Largest university endowments 2026 (4 July 2026) still Harvard “surpasses **$50 billion**,” a **$35–40 billion** Yale/Stanford/Princeton/MIT band, and a homemade pile. Official: Harvard **$56.9bn / 11.9%**; Yale **$44.1bn / 11.1%** at 30 June 2025; Stanford endowment **$40.8bn** at 31 August 2025 vs Merged Pool **$47.7bn / 14.3%** at 30 June 2025; PRINCO **$36.4bn / 11.0%**. Do not mint `/harvard-endowment-explained/` or a 2027 twin. Do not treat the Merged Pool as endowment AUM.
+- AIMCo (20 June 2026) still **CAD $160 billion** and “Canada’s largest.” Official: **C$194.7 billion** at 31 December 2025; Balanced Fund **7.6% / C$13.1 billion**; Total Fund **7.5%**; both **2.7 points below** benchmark. CEO **Ray Gilmour**; CIO **Justin Lord**. `/aimco-explained/` **404s**.
+- BCI (20 June 2026) still **$224.2 billion**. Official: **$313.7 billion gross / $265.4 billion net** at 31 March 2026. Funding Program **($30.3bn)** + other leverage **($18bn)**. Twins still **CAD 230 billion**.
+- QIA (11 June 2026) still **$510–600 billion**. qia.qa is up this wake and still has **no AUM**. Official: **Amiri Decision No. 22 of 2005**; **Amiri Decision No. 34 of 16 May 2023**; SCEAI chaired by the Amir; CEO **Mohammed Saif Al-Sowaidi**. Short twin invents **US$500–600bn**; portfolio twin invents **$450bn** and a fake **2013** founding.
+
+**Confirmed still unpublished:** Waves 1–16. Sitemap still **127 / 1,136**. GPIF live return still **15.83%**. CIC explained still $1.3T. Chile ESSF still $10.8bn. `/directory/` still 404. Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. MailAdx support already replied (26 Aug 11:28 UTC) — do not ping again. Wallet still the blocker. No new named Ghost signup after Konstantinos Angelakis.
+
+**Shipped (Wave 17):** five overwrites. No new slugs. No new `*-explained` twins. Publisher default waves now include 17.
+
+**Refused:** EPF (kwsp.gov.my still Cloudflare-blocked; press cites official **RM1,409 billion** at 31 Dec 2025). ICD (icd.gov.ae still blocked). ADQ (adq.ae has no official AUM; live invents $250–260bn). Another GPIF / CalPERS / PIF / OMERS / ABP overwrite (ABP live ~€530bn ≈ official €533bn). Dollarizing Khazanah. Inventing MIT / NACUBO 2026 / a $275bn endowment pile.
+
+**Access:** Secrets re-requested. `GHOST_ADMIN_API_KEY` and `GOOGLE_SERVICE_ACCOUNT_JSON` still UNSET.
+
+**Next wake must:** Paste 5 → 17. Then 301 `twins.csv` (P0 first; BCI twins; QIA short/portfolio; PFZW/PGGM; events-2026; TVF short; LDI what-is). If the Ghost key lands, drafts first. After wallet fund, paste the MailAdx `%%{email}%%` recipe and run a single-recipient test. Do not draft another Khazanah / endowments-2026 / AIMCo / BCI / QIA synonym. Do not mint the Wave 3 short slugs or `/aimco-explained/` / `/khazanah-explained/` / `/harvard-endowment-explained/`. Highest-harm leftovers: EPF once kwsp.gov.my is readable; ICD / ADQ only if they print an official AUM or a clear no-AUM filing; GPIF 15.83% (Wave 7, unpublished).
+
 ## 2026-08-26 — Wake 16: PSP CA$233bn; PFZW €35bn; KIC $190bn; NPS $997bn; KIA $1.07T
 
 **Queries / URLs:** `/psp-investments-canada-explained/`, `/pfzw-netherlands-pension-fund-explained/`, `/korea-investment-corporation-kic-explained/`, `/national-pension-service-korea-explained/`, `/kuwait-investment-authority-kia/`.

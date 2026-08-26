@@ -18,6 +18,10 @@ P1,/psp-investments-canada-explained/,/psp-investments/,institution,200/404,Wave
 P1,/korea-investment-corporation-kic-explained/,/korea-investment-corporation-kic/,institution,200/404,Wave 16 overwrites live keeper (USD 232.0bn at end-2025; live still $190bn). Wave 3 short slug 404 — do not mint it
 P1,/pfzw-netherlands-pension-fund-explained/,/pfzw-and-pggm-netherlands-explained/,institution,200/200,Wave 16 overwrites keeper (€252.0bn AUM at 31 Dec 2025; live still €35bn). 301 PGGM twins after paste
 P1,/pfzw-netherlands-pension-fund-explained/,/pfzw-pggm-netherlands/,institution,200/200,Second PFZW twin — 301 after Wave 16 paste
+P1,/bci-british-columbia-investment-management/,/bci-british-columbia-investment-explained/,institution,200/200,Wave 17 overwrites keeper ($313.7bn gross / $265.4bn net at 31 Mar 2026; live still $224.2bn). 301 twins after paste
+P1,/bci-british-columbia-investment-management/,/bcim-british-columbia-investment-management/,institution,200/200,Second BCI twin — 301 after Wave 17 paste
+P1,/qatar-investment-authority-qia/,/qatar-investment-authority/,institution,200/200,Wave 17 overwrites keeper (no official AUM; live invents $510–600bn). 301 short after paste
+P1,/qatar-investment-authority-qia/,/qatar-investment-authority-portfolio/,institution,200/200,Portfolio twin — 301 after Wave 17 paste. /qatar-investment-authority-qia-portfolio/ 404 — do not mint it
 P1,/australiansuper-explained/,/australian-super/,institution,200/404,Live already A$410bn at 31 Dec 2025. Wave 3 short slug 404 — do not mint it; 301 the largest-superannuation twin onto explained
 P1,/australiansuper-explained/,/australiansuper-explained-largest-superannuation/,institution,200/200,Stale 2.5 million twin — 301 after confirming keeper
 P1,/oman-investment-authority-explained/,/oman-investment-authority/,institution,200/200,Wave 11 overwrites explained (three official portfolios; live invented two fund names)

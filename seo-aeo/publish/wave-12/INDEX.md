@@ -7,7 +7,7 @@ Checked live **26 August 2026**. Ghost API still missing. Five URLs already retu
 2. **`sofaz-azerbaijan-state-oil-fund-explained-REFRESH.md`** → `/sofaz-azerbaijan-state-oil-fund-explained/`  
    Live still says **approximately $43 billion as of December 2023**. SOFAZ’s own recent-figures page: **USD 72,596.6 million at 30 June 2026**. The $43bn line is factually harmful.
 3. **`is-khazanah-a-sovereign-wealth-fund-REFRESH.md`** → `/is-khazanah-a-sovereign-wealth-fund/`  
-   Live leads with a **~$47 billion USD** tracker AUM and junk peer sizes (ADIA $143bn). Khazanah’s KAR 2026 does **not** print USD. Official: **RM105 billion** net assets and **RM156 billion** total assets at 31 Dec 2025. They call themselves Malaysia’s SWF.
+   Live leads with a **~$47 billion USD** tracker AUM and junk peer sizes (ADIA $143bn). Khazanah’s KAR 2026 does **not** print USD. Official: **RM105 billion** net assets and **RM156 billion** total assets at 31 Dec 2025. They call themselves Malaysia’s SWF. Wave 17 overwrites the separate institution URL `/khazanah-nasional-malaysia-explained/`. Do **not** 301 the two onto each other.
 4. **`isif-ireland-strategic-investment-fund-explained-REFRESH.md`** → `/isif-ireland-strategic-investment-fund-explained/`  
    Live still says **approximately €24 billion**. That overstates. NTMA 2024 called ISIF a **€16.6bn** fund. 2025 financial statements: Discretionary **€9.7bn**, Directed **€6.422bn**. Do not invent a new combined headline.
 5. **`alaska-permanent-fund-explained-REFRESH.md`** → `/alaska-permanent-fund-explained/`  

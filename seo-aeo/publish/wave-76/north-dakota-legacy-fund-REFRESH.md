@@ -42,6 +42,7 @@ The Alaska job already sits on [`/alaska-permanent-fund-corporation-explained/`]
 ## Related on Universal Asset Owners
 
 - [North Dakota PERS](/north-dakota-pers/)
+- [North Dakota TFFR](/north-dakota-tffr/)
 - [New Mexico State Investment Council](/new-mexico-state-investment-council/)
 - [Alaska Permanent Fund](/alaska-permanent-fund-corporation-explained/)
 - [Texas Permanent School Fund](/texas-permanent-school-fund-explained/)

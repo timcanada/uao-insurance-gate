@@ -36,7 +36,7 @@ This is a new institution keeper. There is no live leftover to overwrite. Do not
 | CIO | **Monte Tarbox** | 12 Aug 2026 | Same |
 | Comptroller rank claim | Collectively “the third largest public pension system in the nation” | 12 Aug 2026 | Comptroller’s words. **Attribute. Do not invent a ranking table.** |
 
-Print the **$326.3 billion** FY2026 combined figure. Do not invent a per-system AUM for TRS, NYCERS, Police, Fire, or BERS. Do not dollarize a later dashboard widget onto this year-end print.
+Print the **$326.3 billion** FY2026 combined figure. Do not invent a per-system AUM for NYCERS, Police, Fire, or BERS from this card. The house [New York City Teachers](/nyc-teachers/) FY2025 ACFR is a different vintage and a different book. Do not dollarize a later dashboard widget onto this year-end print.
 
 ## How the year-end book sat
 
@@ -84,6 +84,7 @@ This is a US public pension cluster, not a sovereign wealth fund. Compare it wit
 
 ## Related
 
+- [New York City Teachers](/nyc-teachers/)
 - [New York State Common Retirement Fund](/new-york-state-common-retirement-fund-explained/)
 - [CalPERS](/calpers-explained-largest-us-pension-fund/)
 - [CalSTRS](/calstrs-explained/)

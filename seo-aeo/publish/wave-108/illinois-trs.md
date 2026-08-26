@@ -48,6 +48,7 @@ Do not 301 this page onto `/texas-teacher-retirement-system-explained/`, `/illin
 - [Public pension funds](/public-pension-funds/)
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Texas TRS](/texas-teacher-retirement-system-explained/)
+- [Chicago Teachers’ Pension Fund](/chicago-teachers/)
 - [Illinois State Board of Investment](/illinois-isbi/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

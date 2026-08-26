@@ -54,7 +54,7 @@ Last updated: 26 August 2026.
 | MOSERS | Fiduciary activities **$9,565,800,614** at **30 June 2025**. Missouri State Employees’ Plan **$9,354,041,911**. | Leftover MassPRIM **$73 billion** |
 | New York State Common / NYC constellation / Florida SBA / STRS Ohio | Not fetched as official this wake | **$241 billion**; **$267.6 billion**; **$250 billion**; **$230 billion** |
 
-Print the CalPERS and CalSTRS filings. OPERS, WSIB, PRIM, VRS, PSERS, New Jersey Division of Investment, Oregon PERS, the North Carolina Treasurer, LACERA, Pennsylvania SERS, Illinois TRS, ISBI, SFERS, MPSERS, Colorado PERA, TCRS, INPRS, Maryland SRPS, IPERS, Kentucky TRS, the South Carolina Retirement Systems, Minnesota SBI, Nevada PERS, Utah Retirement Systems, Texas ERS, Ohio SERS, Louisiana TRSL, Oklahoma OPERS, and MOSERS now have official institution pages. This desk did not fetch a current official print for New York State Common, the New York City constellation, Florida SBA, STRS Ohio, or the Michigan Treasurer combined SISTF book this wake. Do not reprint those leftovers as if they were today’s NAV. Do **not** mint `/florida-sba/` or `/texas-trs/` (404s). Do **not** mint `/opers/`, `/wsib/`, `/prim/`, `/vrs/`, `/psers/`, `/njdoi/`, `/operf/`, `/ncrs/`, `/lacera-explained/`, `/sers-pennsylvania/`, `/trs-illinois/`, `/isbi/`, `/sfers/`, `/mpsers/`, `/pera/`, `/tcrs/`, `/inprs/`, `/srps/`, `/ipers/`, `/kentucky-trs-explained/`, `/south-carolina-rsic/`, `/msbi/`, `/nvpers/`, `/utah-urs/`, `/texas-ers-explained/`, `/ohio-sers-explained/`, `/trsl/`, `/oklahoma-opers-explained/`, or `/mosers/`.
+Print the CalPERS and CalSTRS filings. OPERS, WSIB, PRIM, VRS, PSERS, New Jersey Division of Investment, Oregon PERS, the North Carolina Treasurer, LACERA, Pennsylvania SERS, Illinois TRS, ISBI, SFERS, MPSERS, Colorado PERA, TCRS, INPRS, Maryland SRPS, IPERS, Kentucky TRS, the South Carolina Retirement Systems, Minnesota SBI, Nevada PERS, Utah Retirement Systems, Texas ERS, Ohio SERS, Louisiana TRSL, Oklahoma OPERS, MOSERS, Arizona PSPRS, New York City Teachers, North Dakota TFFR, Chicago Teachers, and LACERS now have official institution pages. This desk did not fetch a current official print for New York State Common, the New York City five-system constellation as a combined FY2026 book, Florida SBA, STRS Ohio, or the Michigan Treasurer combined SISTF book this wake. New York City Teachers is the house FY2025 ACFR, not the Comptroller’s FY2026 five-system card. Do not reprint those leftovers as if they were today’s NAV. Do **not** mint `/florida-sba/` or `/texas-trs/` (404s). Do **not** mint `/opers/`, `/wsib/`, `/prim/`, `/vrs/`, `/psers/`, `/njdoi/`, `/operf/`, `/ncrs/`, `/lacera-explained/`, `/sers-pennsylvania/`, `/trs-illinois/`, `/isbi/`, `/sfers/`, `/mpsers/`, `/pera/`, `/tcrs/`, `/inprs/`, `/srps/`, `/ipers/`, `/kentucky-trs-explained/`, `/south-carolina-rsic/`, `/msbi/`, `/nvpers/`, `/utah-urs/`, `/texas-ers-explained/`, `/ohio-sers-explained/`, `/trsl/`, `/oklahoma-opers-explained/`, `/mosers/`, `/psprs/`, `/nyc-trs/`, `/tffr/`, `/ctpf/`, or `/lacers-explained/`.
 
 ## What the list can say
 
@@ -124,6 +124,11 @@ Print the CalPERS and CalSTRS filings. OPERS, WSIB, PRIM, VRS, PSERS, New Jersey
 - [Delaware DPERS](/delaware-dpers/)
 - [Montana MPERA](/montana-mpera/)
 - [Texas Municipal Retirement System](/texas-tmrs/)
+- [Arizona PSPRS](/arizona-psprs/)
+- [New York City Teachers](/nyc-teachers/)
+- [North Dakota TFFR](/north-dakota-tffr/)
+- [Chicago Teachers’ Pension Fund](/chicago-teachers/)
+- [LACERS](/lacers/)
 - [Largest public pensions by country](/largest-public-pension-funds-by-country/)
 - [Largest pension funds in the world](/largest-pension-funds-in-the-world/)
 - [What is a pension fund?](/what-is-a-pension-fund/)
@@ -133,4 +138,4 @@ Print the CalPERS and CalSTRS filings. OPERS, WSIB, PRIM, VRS, PSERS, New Jersey
 
 - CalPERS PERF: $637.1 billion / 14.8% / 85% at 30 June 2026 (13 July 2026 CalPERS release; live institution page)
 - CalSTRS: $415.4 billion at 30 June 2026; FY2025–26 13.9%; funded 79.3% at 30 June 2025 (Wave 8 keeper)
-- Florida SBA / NY Common / NYC constellation: not fetched as official this wake — refuse
+- Florida SBA / NY Common / NYC five-system constellation: not fetched as a combined official FY2026 print this wake — refuse. NYC Teachers house FY2025 ACFR is a different book.

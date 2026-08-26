@@ -552,5 +552,10 @@ P1,Delaware Public Employees Retirement System,allocator,both,/delaware-dpers/,d
 P1,Montana Public Employee Retirement Administration,allocator,both,/montana-mpera/,define,unknown,unknown,unknown,drafted-wave-115,Wave 115. Official DB $10,563,079 thousand at 30 Jun 2025. Do not mint /mpera/
 P1,Texas Municipal Retirement System,allocator,both,/texas-tmrs/,define,unknown,unknown,unknown,drafted-wave-115,Wave 115. Official FNP $49,405,467,577 at 31 Dec 2025. Do not mint /tmrs/
 P1,CERN Pension Fund,allocator,both,/cern-pension-fund/,define,unknown,unknown,unknown,drafted-wave-115,Wave 115. Official 4,619,835 thousand Swiss francs at 31 Dec 2024. Do not mint /cern-pf/
+P1,Arizona Public Safety Personnel Retirement System,allocator,both,/arizona-psprs/,define,unknown,unknown,unknown,drafted-wave-116,Wave 116. Official combined FNP $24,293,113 thousand at 30 Jun 2025. Do not mint /psprs/
+P1,New York City Teachers’ Retirement System,allocator,both,/nyc-teachers/,define,unknown,unknown,unknown,drafted-wave-116,Wave 116. Official combined $134,906,818 thousand at 30 Jun 2025. Do not mint /nyc-trs/
+P1,North Dakota Teachers’ Fund for Retirement,allocator,both,/north-dakota-tffr/,define,unknown,unknown,unknown,drafted-wave-116,Wave 116. Official pension-trust FNP $3,648,749,437 at 30 Jun 2025. Do not mint /tffr/
+P1,Chicago Teachers’ Pension Fund,allocator,both,/chicago-teachers/,define,unknown,unknown,unknown,drafted-wave-116,Wave 116. Official FNP $13,657,637,993 at 30 Jun 2025. Do not mint /ctpf/
+P1,Los Angeles City Employees’ Retirement System,allocator,both,/lacers/,define,unknown,unknown,unknown,drafted-wave-116,Wave 116. Official combined FNP $25,375,319 thousand at 30 Jun 2025. Do not mint /lacers-explained/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

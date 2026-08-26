@@ -201,6 +201,16 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,unjps-united-nations,UNJSPF (typo slug),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 105 /unjspf/
 115,institution,cern-pension-fund,CERN Pension Fund,allocator,brief,P0,drafted-in-repo,Wave 115. Official net assets 4,619,835 thousand Swiss francs at 31 Dec 2024. Do not mint /cern-pension/ or /cern-pf/
 2,institution,cern-pf,CERN Pension Fund (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 115 /cern-pension-fund/
+116,institution,arizona-psprs,Arizona Public Safety Personnel Retirement System,allocator,brief,P0,drafted-in-repo,Wave 116. Official combined FNP $24,293,113 thousand at 30 Jun 2025. Do not mint /psprs/ or /arizona-psprs-explained/
+2,institution,psprs,PSPRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 116 /arizona-psprs/
+116,institution,nyc-teachers,New York City Teachers’ Retirement System,allocator,brief,P0,drafted-in-repo,Wave 116. Official combined $134,906,818 thousand at 30 Jun 2025. Do not mint /nyc-trs/ or /trsnyc/
+2,institution,nyc-trs,NYC TRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 116 /nyc-teachers/
+116,institution,north-dakota-tffr,North Dakota Teachers’ Fund for Retirement,allocator,brief,P0,drafted-in-repo,Wave 116. Official pension-trust FNP $3,648,749,437 at 30 Jun 2025. Do not mint /tffr/ or /nd-tffr/
+2,institution,tffr,TFFR (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 116 /north-dakota-tffr/
+116,institution,chicago-teachers,Chicago Teachers’ Pension Fund,allocator,brief,P0,drafted-in-repo,Wave 116. Official FNP $13,657,637,993 at 30 Jun 2025. Do not mint /ctpf/ or /chicago-teachers-pension-fund/
+2,institution,ctpf,CTPF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 116 /chicago-teachers/
+116,institution,lacers,Los Angeles City Employees’ Retirement System,allocator,brief,P0,drafted-in-repo,Wave 116. Official combined FNP $25,375,319 thousand at 30 Jun 2025. Do not mint /lacers-explained/ or /los-angeles-city-employees/
+2,institution,lacers-explained,LACERS (explained twin),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 116 /lacers/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

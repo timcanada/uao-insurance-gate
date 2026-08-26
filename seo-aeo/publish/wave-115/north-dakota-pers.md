@@ -47,6 +47,7 @@ Do not 301 this page onto `/north-dakota-legacy-fund/`, `/minnesota-sbi/`, or `/
 - [Public pension funds](/public-pension-funds/)
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [North Dakota Legacy Fund](/north-dakota-legacy-fund/)
+- [North Dakota TFFR](/north-dakota-tffr/)
 - [Wyoming Retirement System](/wyoming-retirement-system/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

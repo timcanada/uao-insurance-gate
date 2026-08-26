@@ -1,0 +1,22 @@
+# Wave 55 — leftover CalPERS $473bn / $438bn / $475bn / $490bn / $440bn / $470bn; leftover USS £78.4bn; leftover CalSTRS $313bn / $314bn; leftover GPFG $1.35T; leftover GPIF $1.7T; leftover Harvard $50.9bn / $53.2bn; leftover Yale $41bn; leftover CPP $619bn / CAD $548bn
+
+Checked live **26 August 2026**. Ghost API still missing. Five URLs already return 200. No new slugs.
+
+Wave 54 leftovers: do not overwrite ODD / activism / deforestation / proxy / stewardship-codes again. Do not overwrite `/endowment-model-explained/` (Wave 15) or `/yale-endowment-model/` (Wave 14). Do not overwrite NYSCRF (Wave 10), USS (Wave 9), PFZW (Wave 16), ABP (Wave 35), CDPQ (Wave 12), GPIF (Wave 7), CIC (Wave 8), Alaska (Wave 12), LDI (Wave 15), BCI (Wave 17), Future Fund, ADIA (Wave 9), GIC, CalPERS institution, Mubadala, Temasek, or the already-current `/canadian-pension-giants-compared/` headlines.
+
+1. **`long-horizon-investing-explained-REFRESH.md`** → `/long-horizon-investing-explained/`  
+   Live invents leftover CalPERS **$473 billion**, leftover USS **£78.4 billion**, leftover CalSTRS **$313 billion**. Twin `/what-is-long-horizon-investing/` (Ghost collection URL `/fiduciary/what-is-long-horizon-investing/`) invents leftover CalPERS **USD 440 billion**, leftover Yale **USD 41 billion**, leftover CPP **CAD 548 billion**. Official: CalPERS **$637.1 billion**. USS DB **£79.8 billion**. CalSTRS **$415.4 billion**. Yale **$44.1 billion**. CPP **C$793.3 billion**. **301 the twin after paste.** Do not overwrite USS. Do not 301 onto endowment-model or Yale-model.
+2. **`risk-management-framework-institutional-REFRESH.md`** → `/risk-management-framework-institutional/`  
+   Live invents leftover GPFG **$1.35 trillion**, leftover CalPERS **$438 billion**, leftover CalSTRS **$314 billion**. Official: GPFG **kroner**. CalPERS **$637.1 billion**. CalSTRS **$415.4 billion**. Do not 301 onto risk-parity or diversification.
+3. **`benchmarking-institutional-portfolios-REFRESH.md`** → `/benchmarking-institutional-portfolios/`  
+   Live invents leftover GPIF **$1.7 trillion**, leftover CalPERS **$475 billion**, leftover Harvard **$50.9 billion**. Official: GPIF **yen**. CalPERS **$637.1 billion**. Harvard **$56.9 billion**. Do not dollarize GPIF. Do not overwrite GPIF. Do not mint `/harvard-endowment-explained/`.
+4. **`commodities-as-asset-class-institutional-REFRESH.md`** → `/commodities-as-asset-class-institutional/`  
+   Live invents leftover CPP **$619 billion**, leftover CalPERS **$490 billion**. Twin `/commodities-asset-class-institutional/` invents leftover CalPERS **USD 470 billion**. Official: CPP **C$793.3 billion**. CalPERS **$637.1 billion**. **301 the twin after paste.** Do not 301 onto real-assets-vs-PE.
+5. **`carbon-pricing-institutional-investors-REFRESH.md`** → `/carbon-pricing-institutional-investors/`  
+   Live invents leftover CalPERS **$440 billion**, leftover Harvard **$53.2 billion**. Official: CalPERS **$637.1 billion**. Harvard **$56.9 billion**. A carbon price is not house AUM. Do not 301 onto TCFD or climate-scenario. Do not mint `/harvard-endowment-explained/`.
+
+**Queued 301 this wake:** `/what-is-long-horizon-investing/` → `/long-horizon-investing-explained/`; `/commodities-asset-class-institutional/` → `/commodities-as-asset-class-institutional/`. Prior queue still stands through Wave 54.
+
+**Paste after Waves 5–54.** Then 301 `twins.csv`.
+
+**Refused this wake:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / CDPQ / OMERS / CalPERS / Mubadala / Temasek / Future Fund / Alaska / ADIA / GIC / BCI / GPIF institution keepers. Overwriting `/endowment-model-explained/` (Wave 15) or `/yale-endowment-model/` (Wave 14). Another ODD / activism / deforestation / proxy / stewardship-codes synonym. Minting `/harvard-endowment-explained/`, `/long-horizon-investing/`, `/risk-management-framework/`, `/benchmarking-institutional/`, `/commodities-as-an-asset-class/`, or `/carbon-pricing/`. Fetching leftover IEA / ETS / Brookfield / BlackRock ETF piles. `/issb-standards-explained/` (only leftover CalPERS **$440 billion**). `/illiquidity-premium-private-markets/` (leftover CalPERS **$440 billion** / leftover Yale **$41.4 billion**). `/stewardship-codes-uk-japan-explained/` leftover twin of Wave 54 (leftover GPIF **$1.6 trillion** / leftover CDPQ **$443 billion** / leftover CPP **$550 billion**) — 301 after Wave 54 paste, do not overwrite as a second keeper.

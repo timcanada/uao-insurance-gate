@@ -2,11 +2,12 @@
 
 Editor reviews every file. Suggested live order:
 
-1. `directory-hub.md` → `/directory/`
+1. `directory-hub.md` → `/directory/` (category list now includes Wave 81 verticals)
 2. `directory-legal.md` → `/directory/legal/`
 3. `directory-accounting.md` → `/directory/accounting/`
 4. `directory-technology.md` → `/directory/technology/`
 5. `directory-investment-banking.md` → `/directory/investment-banking/`
+   Then Wave 81: consulting-ocio, executive-search, custody-administration, data-and-index, cybersecurity.
 6. `how-pensions-retain-counsel.md` → `/how-pension-funds-retain-counsel/`
 7. `family-offices-as-owners.md` → `/family-offices-as-universal-owners/`
 8. `what-does-a-family-office-cio-do.md` → `/what-does-a-family-office-cio-do/`

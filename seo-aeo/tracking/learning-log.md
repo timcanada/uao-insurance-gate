@@ -1,5 +1,24 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 81: directory verticals (consulting/OCIO, executive search, custody, data and index, cybersecurity)
+
+**Queries / URLs:** `/directory/consulting-ocio/`, `/directory/executive-search/`, `/directory/custody-administration/`, `/directory/data-and-index/`, `/directory/cybersecurity/`.
+
+**What was wrong on the live site:**
+
+- Leftover official-filing house-AUM keepers on undrafted sitemap 200s are exhausted after Wave 80. Remaining leftover hits are piles, people, news, or already-current institution pages. No new leftover twins with official-filing house AUM.
+- `/directory/` still **404**. Wave 1 hub already named consulting/OCIO, executive search, and custody as next and left them unlinked. Those five P1 directory verticals were still `needed`. Live 404s confirmed 26 Aug.
+
+**Confirmed still unpublished:** Waves 1–81. `/directory/` **404**. Six Wave 1 city pages still 404 under `/careers/cities/`. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00**. Do not ping support.
+
+**Shipped (Wave 81):** five new directory hubs. No leftover 301s. Publisher default waves now include 80–81. Wave 1 directory hub category list now links the five verticals. Placement-agents left for next wake.
+
+**Refused:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ / USS / ATP / Khazanah. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / CDPQ / OMERS / CalPERS / CalSTRS / Mubadala / Temasek / Future Fund / Alaska / ADIA / GIC / BCI / GPIF / CPP / Texas TRS / PIF / QIA / Australian Super / Aware Super / KIC / UniSuper / CIC / ADQ / Cbus / AIMCo / NZ Super / KIA / Khazanah institution keepers. Overwriting Wave 12 Alaska or Wave 20 NIIF again. Another fiduciary-archive child or leftover synonym explainer. Minting `/harvard-endowment-explained/`, `/texas-trs/`, `/niif/`, `/khazanah-explained/`, `/what-are-investment-data-providers/`, `/investment-data-providers/`, or `/directory/placement-agents/`. Inventing an ADIA, KIA, QIA, SAFE, NSSF, SWIB, HESTA, TIAA, REST, Florida SBA, Ohio PERS, Samruk, APG, GIC, or Iran NDF AUM. Listing unsourced directory firms. `/impact-investing-private-markets/` / `/policy-portfolio-vs-total-portfolio-approach/` / `/solvency-ii-explained-insurers/` / `/what-is-stewardship-in-investing/` / `/natural-capital-biodiversity-investors/` (no leftover official-filing house AUM — do not 301). `/calpers-explained-largest-us-pension-fund/` already current. `/canadian-pension-giants-compared/` already current. `/mubadala-investment-company/` already current. People/CEO pages. Dated news.
+
+**Next wake must:** Paste Wave 1 directory hub + four Wave 1 verticals, then Wave 81 verticals, then 5 → 79 keepers. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another leftover synonym explainer. Next commercial gap: `/directory/placement-agents/` (P1 needed). Then careers-intelligence P1s or NYC CRS if official filings lock. Highest-harm unpublished leftovers remain: GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn.
+
 ## 2026-08-26 — Wake 80: leftover NIIF $8.5bn / leftover invented seed $650m; leftover Alaska corporation $84.4bn; leftover GPFG $1.38T
 
 **Queries / URLs:** `/niif-india-infrastructure-fund/` → `/india-niif-explained/`; `/alaska-permanent-fund-corporation-explained/` → `/alaska-permanent-fund-explained/`.

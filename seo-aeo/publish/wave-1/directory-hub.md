@@ -38,9 +38,11 @@ The Directory sits beside the newsroom, not inside it. A profile here is not a r
 - [Accounting, tax and audit](/directory/accounting/)
 - [Technology and data](/directory/technology/)
 - [Investment banking and capital markets](/directory/investment-banking/)
-- Consulting and OCIO *(Wave 2)*
-- Executive search *(see also [Careers](/careers/))*
-- Custody, administration and operations *(Wave 2)*
+- [Consulting and OCIO](/directory/consulting-ocio/)
+- [Executive search](/directory/executive-search/)
+- [Custody, administration and operations](/directory/custody-administration/)
+- [Data and index](/directory/data-and-index/)
+- [Cybersecurity](/directory/cybersecurity/)
 
 ## How listings work
 

@@ -377,5 +377,10 @@ P1,does NZ Super have a fiduciary duty,allocator,both,/does-nz-super-have-a-fidu
 P1,does KIA have a fiduciary duty,allocator,both,/does-kia-have-a-fiduciary-duty/,define,unknown,unknown,unknown,refresh-drafted,Live leftover KIA $183bn / leftover Temasek $433bn / leftover GPFG $1.3T. KIA does not publish AUM. Wave 79
 P1,does Khazanah have a fiduciary duty,allocator,both,/does-khazanah-have-a-fiduciary-duty/,define,unknown,unknown,unknown,refresh-drafted,Live leftover Khazanah USD 32–35bn / leftover Temasek USD 375–400bn. Official RM105bn NAV. No USD AUM. Wave 79
 P1,does APG have a fiduciary duty,allocator,both,/does-apg-have-a-fiduciary-duty/,define,unknown,unknown,unknown,refresh-drafted,Live leftover APG €597bn / leftover 3 million beneficiaries / leftover GPFG €1.3T. APG is not a second AUM. Wave 79
+P1,OCIO for asset owners,allocator,both,/directory/consulting-ocio/,directory,unknown,unknown,unknown,drafted-wave-81,Wave 81 hub. Do not 301 onto /what-is-an-ocio/
+P1,executive search asset owners,service-provider,A,/directory/executive-search/,directory,unknown,unknown,unknown,drafted-wave-81,Wave 81 hub. Do not 301 onto /careers/
+P1,pension fund custodian,allocator,both,/directory/custody-administration/,directory,unknown,unknown,unknown,drafted-wave-81,Wave 81 hub
+P1,institutional investment data providers,allocator,both,/directory/data-and-index/,directory,unknown,unknown,unknown,drafted-wave-81,Wave 81 hub. Do not mint /investment-data-providers/
+P1,family office cybersecurity,allocator,both,/directory/cybersecurity/,directory,unknown,unknown,unknown,drafted-wave-81,Wave 81 hub. Do not 301 onto /directory/technology/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

@@ -628,11 +628,11 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 3,theme,themes/secondaries/family-offices,Secondaries for family offices,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
 3,theme,themes/secondaries/endowments,Secondaries for endowments,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
 3,theme,themes/secondaries/insurers,Secondaries for insurers,allocator,brief,P2,needed,"Requires a UAO judgment, not a Wikipedia rewrite"
-2,directory,directory/consulting-ocio,Consulting Ocio,both,advertiser-call,P1,needed,Hub first; firms only with three sourced facts
-2,directory,directory/executive-search,Executive Search,both,advertiser-call,P1,needed,Hub first; firms only with three sourced facts
-2,directory,directory/custody-administration,Custody Administration,both,advertiser-call,P1,needed,Hub first; firms only with three sourced facts
-2,directory,directory/data-and-index,Data And Index,both,advertiser-call,P1,needed,Hub first; firms only with three sourced facts
-2,directory,directory/cybersecurity,Cybersecurity,both,advertiser-call,P1,needed,Hub first; firms only with three sourced facts
+2,directory,directory/consulting-ocio,Consulting Ocio,both,advertiser-call,P1,drafted-in-repo,Wave 81 hub. Do not 301 onto /what-is-an-ocio/. Firms only with three sourced facts
+2,directory,directory/executive-search,Executive Search,both,advertiser-call,P1,drafted-in-repo,Wave 81 hub. Do not 301 onto /careers/. Firms only with three sourced facts
+2,directory,directory/custody-administration,Custody Administration,both,advertiser-call,P1,drafted-in-repo,Wave 81 hub. Do not 301 onto technology. Firms only with three sourced facts
+2,directory,directory/data-and-index,Data And Index,both,advertiser-call,P1,drafted-in-repo,Wave 81 hub. Do not 301 onto /directory/technology/. Do not mint /investment-data-providers/
+2,directory,directory/cybersecurity,Cybersecurity,both,advertiser-call,P1,drafted-in-repo,Wave 81 hub. Do not 301 onto /directory/technology/. Firms only with three sourced facts
 2,directory,directory/placement-agents,Placement Agents,both,advertiser-call,P1,needed,Hub first; firms only with three sourced facts
 2,careers,careers/intelligence/cio-compensation-public-plans,CIO compensation in public plans (sourced),both,careers-alert,P1,needed,
 2,careers,careers/intelligence/first-year-inside-a-family-office,First year inside a family office,both,careers-alert,P1,needed,

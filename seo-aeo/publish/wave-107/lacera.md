@@ -55,6 +55,7 @@ Do not 301 this page onto `/calpers-explained-largest-us-pension-fund/`, `/calst
 - [VCERA](/vcera/)
 - [KCERA](/kcera/)
 - [FCERA](/fcera/)
+- [SJCERA](/sjcera/)
 - [CalPERS](/calpers-explained-largest-us-pension-fund/)
 - [SFERS](/san-francisco-sfers/)
 - [Relocating to San Francisco](/careers/cities/san-francisco/)

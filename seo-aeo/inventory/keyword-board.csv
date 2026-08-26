@@ -582,5 +582,10 @@ P1,Ventura County Employees’ Retirement Association,allocator,both,/vcera/,def
 P1,Kern County Employees’ Retirement Association,allocator,both,/kcera/,define,unknown,unknown,unknown,drafted-wave-121,Wave 121. Official FNP $6,522,001 thousand at 30 Jun 2025. Do not mint /kern-kcera/
 P1,Fresno County Employees’ Retirement Association,allocator,both,/fcera/,define,unknown,unknown,unknown,drafted-wave-121,Wave 121. Official FNP $7,380,434 thousand at 30 Jun 2025. Do not mint /fresno-fcera/
 P1,Minnesota Teachers Retirement Association,allocator,both,/minnesota-tra/,define,unknown,unknown,unknown,drafted-wave-121,Wave 121. Official FNP $31,261,375 thousand at 30 Jun 2025. Do not mint /mntra/
+P1,Minnesota Public Employees Retirement Association,allocator,both,/minnesota-pera/,define,unknown,unknown,unknown,drafted-wave-122,Wave 122. Official combined FNP $47,438,420 thousand at 30 Jun 2025. Do not mint /pera/
+P1,Minnesota State Retirement System,allocator,both,/minnesota-msrs/,define,unknown,unknown,unknown,drafted-wave-122,Wave 122. Official combined FNP $37,048,298 thousand at 30 Jun 2025. Do not mint /msrs/
+P1,San Joaquin County Employees’ Retirement Association,allocator,both,/sjcera/,define,unknown,unknown,unknown,drafted-wave-122,Wave 122. Official FNP $5,286,842 thousand at 31 Dec 2025. Do not mint /san-joaquin-sjcera/
+P1,Washington Department of Retirement Systems,allocator,both,/washington-drs/,define,unknown,unknown,unknown,drafted-wave-122,Wave 122. Official combined FNP $197,122,522 thousand at 30 Jun 2025. Do not mint /drs/
+P1,Alaska Public Employees’ Retirement System,allocator,both,/alaska-pers/,define,unknown,unknown,unknown,drafted-wave-122,Wave 122. Official combined FNP $26,772,591 thousand at 30 Jun 2025. Do not mint /pers-alaska/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

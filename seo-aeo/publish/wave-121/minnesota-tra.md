@@ -29,13 +29,13 @@ The statement of fiduciary net position is the sourced line (in thousands):
 
 The Minnesota State Board of Investment manages this book inside the Combined Funds with MSRS and PERA. That Combined Funds line is not a second Teachers Retirement Association AUM.
 
-Do not flatten the Teachers Retirement Association into [Minnesota SBI](/minnesota-sbi/), [Illinois TRS](/illinois-trs/), [Georgia TRS](/georgia-trs/), or [Texas Teacher Retirement System](/texas-teacher-retirement-system-explained/). Minnesota SBI is the statutory investor. This is **one Minnesota teacher file**.
+Do not flatten the Teachers Retirement Association into [Minnesota SBI](/minnesota-sbi/), [Minnesota PERA](/minnesota-pera/), [Minnesota MSRS](/minnesota-msrs/), [Illinois TRS](/illinois-trs/), [Georgia TRS](/georgia-trs/), or [Texas Teacher Retirement System](/texas-teacher-retirement-system-explained/). Minnesota SBI is the statutory investor. PERA is the public-employee plan. MSRS is the state-employee plan. This is **one Minnesota teacher file**.
 
 ## What an owner is actually buying
 
 Counsel selling “Minnesota TRA AUM” has to name the book. The **$31,261,375 thousand** line is fiduciary net position. The **$32,422,884 thousand** line is cash and investments. The **$31,248.6 million** line is the Combined Funds participation. Those are not the same mandate.
 
-Do not 301 this page onto `/minnesota-sbi/`, `/illinois-trs/`, `/texas-teacher-retirement-system-explained/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/minnesota-sbi/`, `/minnesota-pera/`, `/minnesota-msrs/`, `/illinois-trs/`, `/texas-teacher-retirement-system-explained/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -49,6 +49,8 @@ Do not 301 this page onto `/minnesota-sbi/`, `/illinois-trs/`, `/texas-teacher-r
 - [Public pension funds](/public-pension-funds/)
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Minnesota SBI](/minnesota-sbi/)
+- [Minnesota PERA](/minnesota-pera/)
+- [Minnesota MSRS](/minnesota-msrs/)
 - [Illinois TRS](/illinois-trs/)
 - [Georgia TRS](/georgia-trs/)
 - [Advertise](/advertise/)

@@ -73,6 +73,7 @@ Three APFC benchmarks, as the performance page defines them: a **passive** stock
 - **POMV is 5% of a smoothed average, not 5% of today’s NAV.** FY27’s $4.0 billion sits on a $79.9 billion five-year average, not on $91.3 billion.
 - **Principal is locked. ERA is the politics.** If you cannot explain the two-account split, you are not covering this fund.
 - **The PFD is not the Fund’s return.** $1,000 in 2025 is a budget choice.
+- **Alaska PERS is a different legal person.** Do not flatten this savings file onto [Alaska PERS](/alaska-pers/) combined fiduciary net position **$26,772,591 thousand** at **30 June 2025**.
 
 ## Related
 
@@ -81,6 +82,7 @@ Three APFC benchmarks, as the performance page defines them: a **passive** stock
 - [Texas Permanent School Fund](/texas-permanent-school-fund-explained/)
 - [Largest sovereign wealth funds](/largest-sovereign-wealth-funds/)
 - [NBIM](/norges-bank-investment-management-nbim/)
+- [Alaska PERS](/alaska-pers/)
 
 ## Sources
 

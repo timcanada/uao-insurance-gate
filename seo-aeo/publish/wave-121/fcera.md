@@ -27,7 +27,7 @@ The statement of fiduciary net position is the sourced line (in thousands):
 2. **GASB funded cards.** Total pension liability **$7,899,761 thousand**. The required-supplementary-information print **$7,899,761,247** is the same liability in full dollars, not a second book. Net pension liability **$519,327 thousand**. Fiduciary net position as a percentage of total pension liability **93.43 percent**. The actuarial funded ratio **85.94 percent** is from the **30 June 2024** valuation — it is not a 30 June 2025 funding card. Those funded cards are not interchangeable.
 3. **Returns.** Time-weighted net-of-fees portfolio return **11.4 percent** versus the assumed rate **6.50 percent**. Annual money-weighted return **11.67 percent** net of pension-plan investment expense. The house says those two official one-year prints are not interchangeable.
 
-Do not flatten FCERA into [LACERA](/lacera/), [KCERA](/kcera/), [SBCERA](/sbcera/), or [CalPERS](/calpers-explained-largest-us-pension-fund/). LACERA is the Los Angeles **County** file. KCERA is the Kern **County** file. This is **one Fresno County employee file**.
+Do not flatten FCERA into [LACERA](/lacera/), [KCERA](/kcera/), [SBCERA](/sbcera/), [SJCERA](/sjcera/), or [CalPERS](/calpers-explained-largest-us-pension-fund/). LACERA is the Los Angeles **County** file. KCERA is the Kern **County** file. SJCERA is the San Joaquin **County** file. This is **one Fresno County employee file**.
 
 ## What an owner is actually buying
 
@@ -49,5 +49,6 @@ Do not 301 this page onto `/lacera/`, `/kcera/`, `/sbcera/`, `/calpers-explained
 - [KCERA](/kcera/)
 - [SBCERA](/sbcera/)
 - [LACERA](/lacera/)
+- [SJCERA](/sjcera/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -28,13 +28,13 @@ The March 2026 quarterly is the sourced split:
 2. **Commingled Trust Fund** **$187,429,848,897**. Fiscal-year market-value change **$8,142,366,897**. That CTF line is the defined-benefit retirement pool. It is not the whole WSIB book.
 3. **Forty funds.** **18** retirement funds; **6** Labor and Industries insurance funds for injured workers; **7** permanent funds; **9** other funds. Retirement funds (CTF, VFFRO, and defined contribution) **$203.9 billion** (**87.2 percent**). Labor and Industries **$22.7 billion**. Other funds **$5.8 billion**. Permanent funds **$1.5 billion**. Do not add those four sleeves to invent a second AUM.
 
-Do not flatten WSIB into [OPERS](/ohio-opers/) or [PRIM](/massachusetts-prim/). OPERS is one Ohio system. PRIM is one Massachusetts PRIT file. This is **one Washington multi-fund office**.
+Do not flatten WSIB into [OPERS](/ohio-opers/), [PRIM](/massachusetts-prim/), or [Washington DRS](/washington-drs/). OPERS is one Ohio system. PRIM is one Massachusetts PRIT file. DRS administers the plans. This is **one Washington multi-fund office**.
 
 ## What an owner is actually buying
 
 Counsel selling “Washington pension AUM” is selling a **40-fund investment board**, not a leftover September 2025 dollar table. The CTF is the largest named book. It is not the total.
 
-Do not 301 this page onto `/ohio-opers/`, `/calpers-explained-largest-us-pension-fund/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/ohio-opers/`, `/washington-drs/`, `/calpers-explained-largest-us-pension-fund/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -49,5 +49,6 @@ Do not 301 this page onto `/ohio-opers/`, `/calpers-explained-largest-us-pension
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [OPERS](/ohio-opers/)
 - [Massachusetts PRIM](/massachusetts-prim/)
+- [Washington DRS](/washington-drs/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

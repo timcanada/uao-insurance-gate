@@ -53,5 +53,6 @@ Do not 301 this page onto `/sdcers/`, `/ocers/`, `/samcera/`, `/lacera/`, or `/l
 - [VCERA](/vcera/)
 - [KCERA](/kcera/)
 - [FCERA](/fcera/)
+- [SJCERA](/sjcera/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -261,6 +261,16 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,fresno-fcera,FCERA (long twin),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 121 /fcera/
 121,institution,minnesota-tra,Minnesota TRA,allocator,brief,P0,drafted-in-repo,Wave 121. Official FNP $31,261,375 thousand at 30 Jun 2025. Do not mint /mntra/ or /minnesota-tra-explained/
 2,institution,mntra,Minnesota TRA (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 121 /minnesota-tra/
+122,institution,minnesota-pera,Minnesota PERA,allocator,brief,P0,drafted-in-repo,Wave 122. Official combined FNP $47,438,420 thousand at 30 Jun 2025. Do not mint /pera/ (Colorado) or /mnpera/
+2,institution,mnpera,Minnesota PERA (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 122 /minnesota-pera/. /pera/ is Colorado
+122,institution,minnesota-msrs,Minnesota MSRS,allocator,brief,P0,drafted-in-repo,Wave 122. Official combined FNP $37,048,298 thousand at 30 Jun 2025. Do not mint /msrs/ or /minnesota-msrs-explained/
+2,institution,msrs,MSRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 122 /minnesota-msrs/
+122,institution,sjcera,SJCERA,allocator,brief,P0,drafted-in-repo,Wave 122. Official FNP $5,286,842 thousand at 31 Dec 2025. Do not mint /san-joaquin-sjcera/ or /sjcera-explained/
+2,institution,san-joaquin-sjcera,SJCERA (long twin),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 122 /sjcera/
+122,institution,washington-drs,Washington DRS,allocator,brief,P0,drafted-in-repo,Wave 122. Official combined FNP $197,122,522 thousand at 30 Jun 2025. Do not mint /drs/ or /washington-drs-explained/
+2,institution,drs,DRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 122 /washington-drs/
+122,institution,alaska-pers,Alaska PERS,allocator,brief,P0,drafted-in-repo,Wave 122. Official combined FNP $26,772,591 thousand at 30 Jun 2025. Do not mint /pers-alaska/ or /alaska-pers-explained/
+2,institution,pers-alaska,Alaska PERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 122 /alaska-pers/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

@@ -44,6 +44,7 @@ The [consulting-OCIO directory](/directory/consulting-ocio/) is the category map
 
 ## Related
 
+- [What is a regulated asset base?](/what-is-a-regulated-asset-base/)
 - [Listed vs unlisted infrastructure](/listed-vs-unlisted-infrastructure/)
 - [Infrastructure equity vs debt](/what-is-infrastructure-equity-vs-infrastructure-debt/)
 - [Infrastructure as an asset class](/infrastructure-as-an-asset-class/)

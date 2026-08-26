@@ -44,6 +44,7 @@ The [legal directory](/directory/legal/) is the category map for counsel that ke
 
 ## Related
 
+- [What is principal protection for a family?](/what-is-principal-protection-for-a-family/)
 - [What is a family office?](/what-is-a-family-office/)
 - [What is a family constitution?](/what-is-a-family-constitution/)
 - [How endowments set spending rules](/how-do-endowments-set-spending-rules/)

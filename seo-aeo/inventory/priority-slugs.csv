@@ -261,7 +261,7 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,explainer,how-do-endowments-pay-cios,How are endowment CIOs paid? (sourced ranges only),allocator,brief,P1,needed,
 94,explainer,what-is-a-strategic-council-membership-for-asset-owners,What is a strategic research membership?,allocator,brief,P1,drafted-in-repo,Wave 94. Live /membership/ from $175k/year. Do not 301 onto /advertise/
 93,explainer,how-to-get-quoted-as-an-asset-owner-publication,How newsrooms quote allocator publications,allocator,brief,P1,drafted-in-repo,Wave 93. Do not mint /quote-uao/. Do not overwrite /press-desk/
-2,explainer,what-is-the-canadian-pension-model,What is the Canadian pension model?,allocator,brief,P1,needed,Do not mint. Wave 35 keeper is /canadian-pension-model/. 301 /canadian-model-pension-investing/ after paste
+2,explainer,what-is-the-canadian-pension-model,What is the Canadian pension model?,allocator,brief,P1,do-not-mint,Do not mint. Wave 35 keeper is /canadian-pension-model/. 301 /canadian-model-pension-investing/ after paste
 98,explainer,what-is-a-development-finance-institution,What is a DFI vs a SWF?,allocator,brief,P1,drafted-in-repo,Wave 98. IFSWF vs DFC BUILD Act. Do not invent DFI AUM
 98,explainer,how-do-insurers-invest-differently-from-pensions,How do insurers invest differently from pensions?,allocator,brief,P1,drafted-in-repo,Wave 98. Solvency II vs named members. Do not reprint leftover CalSTRS $341bn
 2,explainer,what-is-an-investment-committee,What is an investment committee?,allocator,brief,P1,do-not-mint,Twin of Wave 64/83 investment-committee keepers. Do not mint
@@ -333,7 +333,8 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,explainer,what-is-carried-interest-inside-an-asset-owner,Carry inside an asset owner,allocator,brief,P1,needed,
 97,explainer,how-do-owners-handle-personal-trading,Personal trading policies,allocator,brief,P1,drafted-in-repo,Wave 97. 17 CFR 275.204A-1. Do not overwrite /ethics/
 97,explainer,what-is-a-code-of-ethics-for-an-investment-office,Investment-office code of ethics,allocator,brief,P1,drafted-in-repo,Wave 97. 204A-1 five minimums. Do not mint /what-is-a-stewardship-code/
-2,explainer,how-do-owners-disclose-climate-votes,Climate vote disclosure,allocator,brief,P1,needed,
+103,explainer,how-do-owners-disclose-climate-votes,Climate vote disclosure,allocator,brief,P1,drafted-in-repo,Wave 103. N-PX Environment or climate + TPR SIP + SRD II. Not proxy overwrite. Do not mint /climate-vote-disclosure/
+103,explainer,what-is-an-implementation-statement,What is an implementation statement?,allocator,brief,P1,drafted-in-repo,Wave 103. TPR IS annual vehicle. Not climate-votes or journey-plan. Do not mint /what-is-a-sip-for-a-uk-pension/
 2,explainer,what-is-a-stewardship-code,What is a stewardship code?,allocator,brief,P1,do-not-mint,Twin of Wave 54 /stewardship-codes-uk-japan-explained/. Do not mint
 2,explainer,how-do-japanese-pensions-steward,Stewardship in Japanese pensions,allocator,brief,P1,do-not-mint,Twin of Wave 54 stewardship codes. Do not mint
 2,explainer,what-is-the-uk-stewardship-code,UK Stewardship Code for owners,allocator,brief,P1,do-not-mint,Twin of Wave 54 /stewardship-codes-uk-japan-explained/. Do not mint
@@ -341,18 +342,19 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,explainer,what-is-impact-alongside-a-universal-owner-book,Impact vs universal ownership,allocator,brief,P1,do-not-mint,Twin of Wave 58 impact / Wave 65 externalities. Do not mint
 2,explainer,how-do-owners-underwrite-data-centers,Underwriting data centers,allocator,brief,P1,do-not-mint,Twin of Wave 48/74/75 data-center keepers. Do not mint
 102,explainer,how-do-owners-underwrite-ports,Underwriting ports,allocator,advertiser-call,P1,drafted-in-repo,Wave 102. UNCTAD 920m TEU 2024 + landlord >60%. Do not mint /ports-underwriting/
+103,explainer,what-is-a-regulated-asset-base,What is a regulated asset base?,allocator,advertiser-call,P1,drafted-in-repo,Wave 103. Ofgem RAV/RIIO CPIH. Not ports overwrite. Do not mint /rab-explained/
 2,explainer,how-do-owners-underwrite-grids,Underwriting grids,allocator,brief,P1,do-not-mint,Twin of Wave 48/74/75 grid keepers. Do not mint
 102,explainer,what-is-a-chokepoint-for-a-universal-owner,What is a chokepoint?,allocator,brief,P1,drafted-in-repo,Wave 102. EIA 1H25 Malacca 23.2 / Hormuz 20.9. Not PD overwrite. Do not mint /chokepoint-explained/
 102,explainer,how-does-insurance-close-a-strait,Insurance as a chokepoint (refresh Hormuz research),allocator,advertiser-call,P1,drafted-in-repo,Wave 102. JWC JWLA-034 29 Jul 2026. Not chokepoint volume. Do not mint /hormuz-insurance/
-2,explainer,what-is-the-capital-stage-ledger,Capital Stage Ledger (refresh),allocator,brief,P1,needed,
+2,explainer,what-is-the-capital-stage-ledger,Capital Stage Ledger (refresh),allocator,brief,P1,do-not-mint,No first-party definition on live /methodology/. Do not invent. Do not mint
 95,explainer,how-to-read-a-probability-desk-scenario,How to read a Probability Desk scenario,allocator,brief,P1,drafted-in-repo,Wave 95. Do not mint /probability-desk-explained/. Not a forecast
 95,explainer,what-is-a-tripwire-in-scenario-analysis,What is a tripwire?,allocator,brief,P1,drafted-in-repo,Wave 95. Do not mint /what-is-a-tripwire/. Do not 301 onto PD how-to
 2,explainer,how-do-boards-use-scenario-weights,How boards use scenario weights,allocator,brief,P1,do-not-mint,Twin of Wave 95 PD scenario + tripwire. Do not mint
-2,explainer,what-publications-do-cios-read,What publications do CIOs read?,allocator,brief,P1,needed,Do not mint. Synonym twin of Wave 2 /publications-chief-investment-officers-read/
+2,explainer,what-publications-do-cios-read,What publications do CIOs read?,allocator,brief,P1,do-not-mint,Do not mint. Synonym twin of Wave 2 /publications-chief-investment-officers-read/
 93,explainer,who-covers-sovereign-wealth-funds,Who covers sovereign wealth funds?,allocator,brief,P1,drafted-in-repo,Wave 93. Do not mint /what-publications-do-cios-read/
 93,explainer,ipe-vs-pensions-and-investments-vs-uao,IPE vs P&I vs UAO (honest comparison),allocator,brief,P1,drafted-in-repo,Wave 93. Do not invent IPE/P&I circulation
 93,explainer,what-is-swfi-vs-a-newsroom,SWFI vs a newsroom,allocator,brief,P1,drafted-in-repo,Wave 93. Do not mint /swfi-explained/. No SWFI AUM
-2,explainer,how-do-service-providers-advertise-to-asset-owners,How service providers advertise to owners,both,brief,P1,needed,Do not mint. Synonym twin of Wave 2 /advertise-to-asset-owners/. 301 after that paste
+2,explainer,how-do-service-providers-advertise-to-asset-owners,How service providers advertise to owners,both,brief,P1,do-not-mint,Do not mint. Synonym twin of Wave 2 /advertise-to-asset-owners/. 301 after that paste
 93,explainer,what-does-a-20k-a-month-media-buy-get-you,What a $20k/month institutional media buy is,both,brief,P1,drafted-in-repo,Wave 93. Live advertise from $20k/program. Do not 301 onto /advertise-to-asset-owners/
 94,explainer,how-do-recruiters-reach-sovereign-fund-talent,How recruiters reach SWF talent,both,advertiser-call,P1,drafted-in-repo,Wave 94. Do not mint /how-recruiters-reach-swf-talent/. Do not invent pay
 94,explainer,what-is-an-institutional-talent-desk,What is an Institutional Talent Desk?,allocator,careers-alert,P1,drafted-in-repo,Wave 94. First-party on live /careers/. Do not overwrite /careers/
@@ -367,18 +369,18 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 94,explainer,how-do-owners-pick-a-custodian,How owners pick a custodian,allocator,advertiser-call,P1,drafted-in-repo,Wave 94. OCC settlement/safekeeping/reporting. Do not 301 onto custody directory
 96,explainer,what-is-an-administrator-for-a-pension-plan,Pension administrators,allocator,advertiser-call,P1,drafted-in-repo,Wave 96. ERISA 1002(16) vs fund admin vs OCC custody
 98,explainer,how-do-cyber-insurers-underwrite-family-offices,Cyber insurance for family offices,allocator,advertiser-call,P1,drafted-in-repo,Wave 98. NAIC 2023-05BWG. No invented premiums
-2,explainer,what-is-principal-protection-for-a-family,Principal protection (non-advice),allocator,brief,P1,needed,
+103,explainer,what-is-principal-protection-for-a-family,Principal protection (non-advice),allocator,brief,P1,drafted-in-repo,Wave 103. SEC/FINRA 2 Jun 2011 issuer credit. Not advice. Do not mint /principal-protection-explained/
 2,explainer,how-do-next-gen-members-join-an-ic,Next-gen on the investment committee,allocator,brief,P1,do-not-mint,Twin of Wave 83 boarding-IC. Do not mint
 2,explainer,what-is-a-family-investment-committee,Family investment committee,allocator,brief,P1,do-not-mint,Twin of Wave 83 /careers/intelligence/boarding-an-investment-committee/. Do not mint
-2,explainer,how-do-single-family-offices-unbundle,How SFOs unbundle,allocator,brief,P1,needed,
+2,explainer,how-do-single-family-offices-unbundle,How SFOs unbundle,allocator,brief,P1,do-not-mint,Family-office-rule reprint risk. Do not mint
 2,explainer,what-is-a-multi-family-office-fee,MFO fees (sourced only),allocator,brief,P1,needed,
 94,explainer,how-do-pensions-use-placement-agents,Pensions and placement agents,allocator,advertiser-call,P1,drafted-in-repo,Wave 94. Cal. CCR 2-559. Do not 301 onto co-investment
 96,explainer,what-is-a-capital-introduction,What is cap intro for an owner?,allocator,advertiser-call,P1,drafted-in-repo,Wave 96. Do not 301 onto placement-agent keeper
 102,explainer,how-do-owners-think-about-ipo-allocations,IPO allocations for owners,allocator,advertiser-call,P1,drafted-in-repo,Wave 102. FINRA 5130/5131. Do not mint /ipo-allocation-explained/ or /finra-5130/
-2,explainer,what-is-a-sovereign-co-invest-in-infrastructure,Sovereign co-invests in infrastructure,allocator,brief,P1,needed,
-2,explainer,how-do-gulf-funds-invest-in-sports,Gulf funds and sports assets,allocator,brief,P1,needed,
+2,explainer,what-is-a-sovereign-co-invest-in-infrastructure,Sovereign co-invests in infrastructure,allocator,brief,P1,do-not-mint,Twin of Wave 42 SWF co-invest. Do not mint
+103,explainer,how-do-gulf-funds-invest-in-sports,Gulf funds and sports assets,allocator,brief,P1,drafted-in-repo,Wave 103. NUFC 2021 + PGA/LIV 2023 + QSI/PSG. No PIF/QIA AUM. Do not mint /gulf-sports-explained/
 2,explainer,how-do-gulf-funds-invest-in-ai,Gulf funds and AI,allocator,brief,P1,do-not-mint,Twin of Wave 68/42 Gulf-AI. Do not mint
-2,explainer,what-is-patriotic-capital,What is patriotic capital?,allocator,brief,P1,needed,
+2,explainer,what-is-patriotic-capital,What is patriotic capital?,allocator,brief,P1,do-not-mint,No official definition. Do not invent. Do not mint
 2,explainer,how-do-owners-treat-defense-as-an-asset-class,Defense as an asset class,allocator,brief,P1,do-not-mint,Twin of Wave 63 defense. Do not mint
 101,explainer,what-is-a-national-security-screen-on-a-deal,National security screens,allocator,brief,P1,drafted-in-repo,Wave 101. UK NSI Act 4 Jan 2022 / 17 areas / void. Do not 301 onto CFIUS
 2,explainer,how-do-cfius-and-peers-affect-swfs,CFIUS and SWFs,allocator,brief,P1,do-not-mint,Twin of Wave 70 /foreign-investment-regulations-cfius/. Do not mint

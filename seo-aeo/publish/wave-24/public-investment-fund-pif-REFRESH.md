@@ -43,6 +43,7 @@ A writer who needs a more precise current dollar than “more than US$900 billio
 
 ## Related on Universal Asset Owners
 
+- [How Gulf funds invest in sports](/how-do-gulf-funds-invest-in-sports/)
 - [PIF vs ADIA](/pif-vs-adia/)
 - [PIF vs Mubadala](/pif-vs-mubadala/)
 - [PIF’s $2 trillion KPI](/saudi-pif-s-road-to-2-trillion-by-2030/)

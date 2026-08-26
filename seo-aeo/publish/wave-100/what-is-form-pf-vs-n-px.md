@@ -48,6 +48,7 @@ We write the owner’s side of the filing. See [Advertise](/advertise/) if you s
 
 ## Related
 
+- [How owners disclose climate votes](/how-do-owners-disclose-climate-votes/)
 - [How public pensions publish holdings](/how-do-public-pensions-publish-holdings/)
 - [What is a fund-of-one?](/what-is-a-fund-of-one/)
 - [What is a consultant database?](/what-is-a-consultant-database/)

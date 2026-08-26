@@ -42,6 +42,7 @@ The infra equity-vs-debt job already sits on [`/what-is-infrastructure-equity-vs
 
 ## Related on Universal Asset Owners
 
+- [What is a regulated asset base?](/what-is-a-regulated-asset-base/)
 - [How owners underwrite ports](/how-do-owners-underwrite-ports/)
 - [Infrastructure equity vs debt](/what-is-infrastructure-equity-vs-infrastructure-debt/)
 - [Infrastructure as an asset class](/infrastructure-as-an-asset-class/)

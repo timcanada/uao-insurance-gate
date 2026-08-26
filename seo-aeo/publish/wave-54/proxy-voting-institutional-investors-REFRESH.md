@@ -47,6 +47,7 @@ The stewardship job already sits on [`/what-is-stewardship-in-institutional-inve
 
 ## Related on Universal Asset Owners
 
+- [How owners disclose climate votes](/how-do-owners-disclose-climate-votes/)
 - [Stewardship](/what-is-stewardship-in-institutional-investing/)
 - [Fiduciary duty](/fiduciary-duty-explained-institutional/)
 - [ESG integration](/esg-integration-institutional/)

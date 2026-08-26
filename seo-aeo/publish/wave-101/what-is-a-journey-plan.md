@@ -46,6 +46,7 @@ The [consulting-OCIO directory](/directory/consulting-ocio/) is the category map
 
 ## Related
 
+- [What is an implementation statement?](/what-is-an-implementation-statement/)
 - [Liability-driven investing](/liability-driven-investing-explained/)
 - [Pension-fund de-risking](/pension-fund-de-risking-strategy/)
 - [Pension risk transfer](/pension-risk-transfer-buyout/)

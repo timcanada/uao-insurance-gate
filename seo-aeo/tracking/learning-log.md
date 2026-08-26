@@ -1,5 +1,29 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 35: ABP €532bn; Nordic ATP DKK 435bn / GPFG $1.4T; Maple 8 $680bn; PE 11.5%; CalPERS $600bn
+
+**Queries / URLs:** `/abp-netherlands-pension-fund-explained/`, `/nordic-pension-model-explained/`, `/canadian-pension-model/`, `/how-pension-funds-invest-in-private-markets/`, `/funded-status-pension-plan/`.
+
+**What was wrong on the live site:**
+
+- ABP institution invents **€532 billion**, **€543 billion** including APG clients, **2.8 million** members, current funding **121.7%**. Official Q1 2026 press: available assets **€530 billion** at **31 March 2026**; current funding **119.1%**; policy **119.9%**; Q1 return **−0.5%**. Jaarverslag 2025: **€533.134 billion**; **3,201,054** participants.
+- Nordic model invents ATP **DKK 435 billion**, GPFG **$1.4 trillion** / **70 / 25 / 5**, PensionDanmark **DKK 130 billion**, AP funds **SEK 400 billion**. Twin `/atp-denmark-pension/` invents **DKK 900 billion** / **€80 billion**. Official: ATP **DKK 694 billion**. GPFG **kroner**.
+- Canadian-model twin invents CPP **$680 billion CAD**, OTPP **C$279 billion**, CDPQ **C$473 billion**, PSP **$280 billion**, AIMCo **$175 billion**, BCI **$250 billion**, OPTrust **$23 billion**, stacked **$1.5 trillion CAD**. Official: CPP **C$793.3 billion**. OTPP **C$303.2 billion**. CDPQ **CAD $517.3 billion**. PSP **C$320.6 billion**. AIMCo **C$194.7 billion**. BCI **$313.7 billion gross / $265.4 billion net**.
+- Private-markets invents PE **11.5% / 8.2%**, CPP **C$700 billion**, OTPP **C$250 billion**, OMERS **C$130 billion**, NBIM **$2 trillion**, private credit **US$1.7 trillion**. Official house AUM only. GPFG **kroner**.
+- Funded-status invents CalPERS **$600 billion** / “well below 100%” and Milliman **109%**. Official: CalPERS **$637.1 billion / 85%**.
+
+**Confirmed still unpublished:** Waves 1–35. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00**; newer zero-delivery alerts through **26 Aug 13:51 UTC**. Do not ping support.
+
+**Shipped (Wave 35):** five overwrites. No new slugs. Publisher default waves now include 35. First official ABP institution overwrite (Q1 2026 press + Jaarverslag 2025). Queued 301s: `/canadian-model-pension-investing/` → Canadian-model keeper; `/atp-denmark-pension/` → Wave 13 ATP keeper.
+
+**Refused:** ICD YE2025 PDF. Dollarizing GPIF / GPFG. Overwriting USS / PFZW / ATP / LDI / Yale-model / Alaska / GPIF / CIC / OMERS / CalPERS institution keepers. Minting `/psp-investments/` or `/harvard-endowment-explained/`. Fetching PensionDanmark / AP-funds / OPTrust / Milliman leftover piles. Another UK-overview / ALM / endowment-vs-foundation / Dutch-system / LGPS-pooling synonym.
+
+**Access:** Secrets re-requested. `GHOST_ADMIN_API_KEY` and `GOOGLE_SERVICE_ACCOUNT_JSON` still UNSET.
+
+**Next wake must:** Paste 5 → 35. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another ABP-institution / Nordic-model / Canadian-model / PE-average / funded-status-define synonym. Highest-harm leftovers now: `/discount-rate-pension-liabilities/` (Milliman leftover rates); `/local-pensions-partnership-explained/` (**£26.5bn** unfetched); `/how-endowments-and-foundations-invest/` (fetch timed out — score next); then unpublished keepers (GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn).
+
 ## 2026-08-26 — Wake 34: UK £2.8T; ALM GPIF $2.1T; Yale $41.4bn; Dutch €550bn; LGPS £350bn
 
 **Queries / URLs:** `/uk-pension-funds-overview/`, `/asset-liability-management-pension/`, `/endowment-vs-foundation-investing/`, `/netherlands-pension-system-abp-pfzw/`, `/uk-lgps-pooling-megafunds/`.

@@ -43,7 +43,7 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,calstrs-explained,CalSTRS,allocator,brief,P1,live-check,Public pension
 2,institution,wisconsin-investment-board-swib,SWIB,allocator,brief,P1,live-check,Public pension
 2,institution,gpif-japan-explained,GPIF,allocator,brief,P1,live-check,Public pension
-2,institution,abp-netherlands-pension-fund-explained,ABP,allocator,brief,P1,live-check,Public pension
+2,institution,abp-netherlands-pension-fund-explained,ABP,allocator,brief,P1,refresh-drafted,Public pension — Wave 35 overwrite. Live €532bn / €543bn / 2.8m. Official €530bn at 31 Mar 2026 / YE2025 €533.134bn / 3,201,054 participants. Do not 301 onto Dutch system
 2,institution,pfzw-netherlands,PFZW,allocator,brief,P0,refresh-drafted,Public pension — Wave 16 (€252.0bn AUM at 31 Dec 2025; live still €35bn)
 2,institution,atp-denmark,ATP,allocator,brief,P0,refresh-drafted,Public pension — Wave 13 keeper /atp-denmark-pension-fund/. 301 /atp-denmark-explained/ after paste
 2,institution,alecta-sweden,Alecta,allocator,brief,P0,needed,Public pension
@@ -261,7 +261,7 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,explainer,how-do-endowments-pay-cios,How are endowment CIOs paid? (sourced ranges only),allocator,brief,P1,needed,
 2,explainer,what-is-a-strategic-council-membership-for-asset-owners,What is a strategic research membership?,allocator,brief,P1,needed,
 2,explainer,how-to-get-quoted-as-an-asset-owner-publication,How newsrooms quote allocator publications,allocator,brief,P1,needed,
-2,explainer,what-is-the-canadian-pension-model,What is the Canadian pension model?,allocator,brief,P1,needed,
+2,explainer,what-is-the-canadian-pension-model,What is the Canadian pension model?,allocator,brief,P1,needed,Do not mint. Wave 35 keeper is /canadian-pension-model/. 301 /canadian-model-pension-investing/ after paste
 2,explainer,what-is-a-development-finance-institution,What is a DFI vs a SWF?,allocator,brief,P1,needed,
 2,explainer,how-do-insurers-invest-differently-from-pensions,How do insurers invest differently from pensions?,allocator,brief,P1,needed,
 2,explainer,what-is-an-investment-committee,What is an investment committee?,allocator,brief,P1,needed,
@@ -683,4 +683,9 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 34,explainer,endowment-vs-foundation-investing,Endowment vs foundation,allocator,brief,P1,refresh-drafted,Wave 34 overwrite. Live Yale $41.4bn / Princeton $35.9bn. Official $44.1bn / $36.4bn / Harvard $56.9bn. Do not 301 onto three-form page
 34,explainer,netherlands-pension-system-abp-pfzw,Dutch pensions ABP PFZW,allocator,brief,P1,refresh-drafted,Wave 34 overwrite. Live ABP €550bn+ / PFZW €200bn+. Official ABP €530bn / PFZW €252036m. 301 explained twin. Do not overwrite ABP or PFZW institution
 34,explainer,uk-lgps-pooling-megafunds,UK LGPS pooling,allocator,brief,P1,refresh-drafted,Wave 34 overwrite. Live £350bn / £100bn megafunds / Kent £20bn. No official combined LGPS AUM. Do not 301 onto UK overview
+35,institution,abp-netherlands-pension-fund-explained,ABP,allocator,brief,P1,refresh-drafted,Wave 35 overwrite. Live €532bn / €543bn / 2.8m. Official €530bn at 31 Mar 2026 / YE2025 €533.134bn / 3,201,054 participants. Do not 301 onto Dutch system
+35,explainer,nordic-pension-model-explained,Nordic pension model,allocator,brief,P1,refresh-drafted,Wave 35 overwrite. Live ATP DKK 435bn / GPFG $1.4T. Official ATP DKK 694bn / GPFG kroner. 301 /atp-denmark-pension/. Do not 301 onto ATP or NBIM
+35,explainer,canadian-pension-model,Canadian pension model,allocator,brief,P1,refresh-drafted,Wave 35 overwrite. Twin invents CPP $680bn / $1.5T Maple pile. Official CPP C$793.3bn. 301 /canadian-model-pension-investing/. Do not 301 onto Canadian giants
+35,explainer,how-pension-funds-invest-in-private-markets,Pension private markets,allocator,brief,P1,refresh-drafted,Wave 35 overwrite. Live 11.5% PE / CPP C$700bn / NBIM $2T. Official house AUM / kroner. Do not 301 onto in-house
+35,explainer,funded-status-pension-plan,Pension funded status,allocator,brief,P1,refresh-drafted,Wave 35 overwrite. Live CalPERS $600bn / well below 100% / Milliman 109%. Official $637.1bn / 85%. Do not 301 onto public-2026
 2,careers,careers/intelligence/search-brief-for-a-real-assets-head,Writing a real-assets head search brief,both,careers-alert,P1,needed,

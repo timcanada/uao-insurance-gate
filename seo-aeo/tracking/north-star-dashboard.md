@@ -12,7 +12,7 @@ Update the **known** column only from real systems. Targets are locked in `GOALS
 | Google Search clicks (calendar month) | growing | **460** | 2026-07 | GSC July performance mail |
 | Google Search impressions (calendar month) | growing | **55.6K** | 2026-07 | GSC July performance mail |
 | Monthly site views | millions | not millions; see baseline | 2026-08-26 | GSC + GA4 `399677697` (API pending) |
-| Franchise queries at #1 or cited | all on keyword board | mixed: GPIF live still 15.83%; ABP institution still €532bn; UK overview still £2.8T / USS £88.2bn; ALM still GPIF $2.1T; endowment-vs-foundation still Yale $41.4bn; Dutch system still €550bn; LGPS still £350bn; Waves 1–34 unpublished | 2026-08-26 | GSC July mail + 26 Aug live HTTP (wake 34) |
+| Franchise queries at #1 or cited | all on keyword board | mixed: GPIF live still 15.83%; ABP institution still €532bn (Wave 35 drafted); Nordic still ATP DKK 435bn / GPFG $1.4T; Maple twin still CPP $680bn; PE page still 11.5%; funded-status still CalPERS $600bn; Waves 1–35 unpublished | 2026-08-26 | GSC July mail + 26 Aug live HTTP (wake 35) |
 | Press pickups (TTM) | growing | unknown | 2026-08-26 | Alerts |
 | Podcast downloads / ep | world-class | unknown | 2026-08-26 | Host |
 | Open sponsor conversations | enough to hit $1M mix | 0 logged | 2026-08-26 | `sponsors.csv` |

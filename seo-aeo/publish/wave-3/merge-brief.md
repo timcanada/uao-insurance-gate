@@ -38,6 +38,10 @@ Pattern: almost every institution has `/name/` **and** `/name-explained/`. Both 
 
 Do not write a third “explained” page for any of these.
 
+**Wave 8 exception (CIC):** keep `/china-investment-corporation-cic-explained/` as canonical, but **paste the Wave 8 overwrite first**. The live explained URL still says ~$1.3T / Dec 2023. The short twin already has the official US$1.57T / US$1.37T YE2024 print. 301 short → explained only after the explained page is current.
+
+**CPP:** `/cpp-investments-explained/` already has C$793.3bn at 31 Mar 2026. The short `/cpp-investments/` still says “on the order of C$700 billion.” No new overwrite — **301 the short slug now**.
+
 ## After 301
 
 Update `/llms/` so only the canonical is listed (`publish/wave-6/llms-canonical-patch.md`). Refresh the canonical’s answer block and as-of dates. Do not write a fourth “largest SWF 2027” page; update the one URL.

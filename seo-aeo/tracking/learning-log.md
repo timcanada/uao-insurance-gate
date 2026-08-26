@@ -1,5 +1,40 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 6: the $1.3T CIC twin and the S$413bn Temasek page
+
+**Queries / URLs:** `/china-investment-corporation-cic-explained/`, `/calstrs-explained/`, `/is-temasek-a-sovereign-wealth-fund/`, `/what-is-a-pension-fund/`, `/global-asset-owners/`.
+
+**What was wrong on the live site:**
+
+- CIC *explained* still leads with **~$1.3 trillion as of December 2023** and invents two subsidiary names. Official 9 Dec 2025 release: **US$1.57T total / US$1.37T net** at 31 Dec 2024; 10-year net **6.92% USD**; Huijin **CNY 6.87T**. The short twin `/china-investment-corporation-cic/` already has the 2024 print. Web search for the name is already surfacing the short URL.
+- CalSTRS size ($415.4bn at 30 Jun 2026) matches the 4 Aug 2026 release. Funded status on the live page is still **75.9% at 30 June 2023**. Official is **79.3% at 30 June 2025**. FY net return **13.9%**. Next valuation May 2027 — do not invent a 2026 funded ratio.
+- `/is-temasek-a-sovereign-wealth-fund/` still prints **SGD 413 billion / ~USD 310 billion at end-2024**, “majority-owned,” and an unsourced 8% real target. Official NPV **S$518bn (US$401bn)** at 31 Mar 2026. MOF: Government is the **sole** equity shareholder. Temasek explained is already current — this Q&A was the rot.
+- `/what-is-a-pension-fund/` last updated **25 May 2026**. `/global-asset-owners/` last updated **24 May 2026**. Both still 200; both needed official 2026 filings.
+
+**What already ranks / is already current (do not twin):**
+
+- `/temasek-holdings-explained/` already on S$518bn.
+- `/calpers-explained-largest-us-pension-fund/` already on $637.1bn / 14.8% / 85%.
+- `/cpp-investments-explained/` already on C$793.3bn. Short `/cpp-investments/` still says C$700bn — **301, do not overwrite into a second profile**.
+- `/future-fund-australia-explained/` already on A$269.1bn. `/mubadala-investment-company/` already on AED 1.4T / US$385bn.
+- Wave 1–2 slugs (`/directory/`, `/royal-family-investment-offices/`) still **404**.
+- Wave 3–7 still unpublished. GPIF live return still **15.83%**. Asset-owners title still **(2025)**.
+
+**Official numbers used (not new inventions):**
+
+- CIC: US$1.57T / 1.37T YE2024; 6.92% 10y USD; Huijin CNY 6.87T; three official subsidiaries only (CIC International, CIC Capital, Central Huijin).
+- CalSTRS: $415.4bn / 13.9% / 9.4% 10y at 30 Jun 2026; funded **79.3% at 30 Jun 2025**; CEO Cassandra Lichnock; CIO Scott Chan — all from the 4 Aug 2026 release.
+- Temasek / MOF / GIC: same S$518bn / sole shareholder / 3.4% real set as Wave 4.
+- GPIF / CPP / CalPERS / NBIM: same official set as Waves 5–7.
+
+**Shipped (Wave 8):** five overwrites. No new slugs.
+
+**Refused:** full overwrite of `/cpp-investments/` (would twin a correct explained page). Another PIF overwrite. Inventing CalPERS sleeve dollars. Inventing SAFE / ADIA / KIA / QIA / GIC AUM. Inventing a 30 Jun 2026 CalSTRS funded ratio.
+
+**Access / MailAdx / GSC:** Still no `GHOST_ADMIN_API_KEY` / `GOOGLE_SERVICE_ACCOUNT_JSON`. No newer Search Impact mail than **700 / 28 days to 18 Aug**. MailAdx support has not replied to the 26 Aug 10:37 UTC thread; wallet mail still says **$0.00 — ads paused**. Do not ping support again. Granola: no UAO meetings.
+
+**Next wake must:** Paste 5 → 6 → 7 → 8. After CIC explained is current, 301 `/china-investment-corporation-cic/`. 301 `/cpp-investments/` now. If the Ghost key lands, `publish_to_ghost.py` now includes wave 8 (drafts first). Do not draft another CIC or Temasek synonym. Do not write another `*-explained` for anything in `twins.csv`.
+
 ## 2026-08-26 — Wake 5: the 15.83% error and the $1.6T ghost
 
 **Queries / URLs:** `/public-pension-funds/` (UAO first for “what is a public pension fund”), `/gpif-japan-explained/`, `/norges-bank-investment-management-nbim/`.

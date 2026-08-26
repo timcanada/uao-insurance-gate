@@ -162,14 +162,14 @@ def people_from_infobox(
         leader = fields.get(f"leader_name{idx}")
         title = fields.get(f"leader_title{idx}")
         if leader:
-            person = _plain_name(leader)
-            role = normalize_title(title) if title else "Chief Executive Officer"
+            person, inferred = _name_and_title(leader)
+            role = normalize_title(title) if title else inferred
             if person:
                 found.append((person, role))
         chief = fields.get(f"chief{idx}_name") if idx else None
         if idx and chief:
-            person = _plain_name(chief)
-            role = normalize_title(fields.get(f"chief{idx}_position") or "") or "Chief Executive Officer"
+            person, inferred = _name_and_title(chief)
+            role = normalize_title(fields.get(f"chief{idx}_position") or "") or inferred
             if person:
                 found.append((person, role))
     people: list[dict[str, Any]] = []
@@ -317,12 +317,14 @@ def _people_from_key_people(value: str) -> list[tuple[str, str]]:
 
 
 ROLE_SUFFIX = re.compile(
-    r",\s*(chairman|chairperson|chairwoman|chair|ceo|cio|cfo|coo|governor|"
-    r"president|managing director|executive director|group ceo|co-ceo).*$",
+    r"(?:,|\s[-–]\s)\s*(chairman|chairperson|chairwoman|chair(?: of the board)?|"
+    r"ceo|cio|cfo|coo|governor|president|managing director|executive director|"
+    r"group ceo|co-ceo|minister of finance|chief executive officer|"
+    r"chief investment officer|chief operating officer|deputy ceo(?: and cio)?).*$",
     re.I,
 )
 HONORIFIC_PREFIX = re.compile(
-    r"^(president|prime minister|sheikh|shaikh|prince|dr\.?)\s+",
+    r"^(president|prime minister|sheikh|shaikh|prince|h\.?s\.?h\.?|dr\.?)\s+",
     re.I,
 )
 
@@ -335,7 +337,7 @@ def _name_and_title(item: str) -> tuple[str, str]:
     suffix = ROLE_SUFFIX.search(text)
     if suffix:
         name = _plain_name(text[: suffix.start()])
-        return name, normalize_title(suffix.group(1))
+        return HONORIFIC_PREFIX.sub("", name).strip(), normalize_title(suffix.group(1))
     return HONORIFIC_PREFIX.sub("", text).strip(), "Chief Executive Officer"
 
 

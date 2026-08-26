@@ -70,6 +70,16 @@ def test_wikipedia_infobox_key_people_and_chiefs():
     assert names["Mohammed bin Salman"] == "Chairperson"
     assert names["Yasir Al-Rumayyan"] == "Governor"
 
+    nzsuper = """
+{{Infobox
+| key_people = Nicola Willis - Minister of Finance | Stephen Gilmore - Chief Investment Officer
+}}
+"""
+    people = people_from_infobox(nzsuper, org_name="New Zealand Superannuation Fund", org_type="swf", country="NZ")
+    names = {row["name"]: row["title"] for row in people}
+    assert names["Nicola Willis"] == "Minister of Finance"
+    assert names["Stephen Gilmore"] == "Chief Investment Officer"
+
 
 def test_wikipedia_minister_table_skips_list_links():
     wikitext = """

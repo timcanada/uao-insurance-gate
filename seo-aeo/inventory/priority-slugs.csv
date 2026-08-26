@@ -637,12 +637,12 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,careers,careers/intelligence/cio-compensation-public-plans,CIO compensation in public plans (sourced),both,careers-alert,P1,needed,
 82,careers,careers/intelligence/first-year-inside-a-family-office,First year inside a family office,both,careers-alert,P1,drafted-in-repo,Wave 82 careers. Do not 301 onto /what-is-a-family-office/. Do not mint /family-office/
 82,careers,careers/intelligence/leaving-a-sovereign-fund,Leaving a sovereign fund,both,careers-alert,P1,drafted-in-repo,Wave 82 careers. Do not 301 onto moving-into playbook
-2,careers,careers/intelligence/dual-career-moves-gulf,Dual-career moves to the Gulf,both,careers-alert,P1,needed,
-2,careers,careers/intelligence/boarding-an-investment-committee,Joining an investment committee,both,careers-alert,P1,needed,
+83,careers,careers/intelligence/dual-career-moves-gulf,Dual-career moves to the Gulf,both,careers-alert,P1,drafted-in-repo,Wave 83 careers. Do not 301 onto relocating or city pages. Do not mint /dual-career-gulf/
+83,careers,careers/intelligence/boarding-an-investment-committee,Joining an investment committee,both,careers-alert,P1,drafted-in-repo,Wave 83 careers. Do not 301 onto /investment-committee-governance/. Do not mint /what-is-an-investment-committee/
 82,careers,careers/intelligence/internal-vs-external-cio-office,Building vs renting a CIO office,both,careers-alert,P1,drafted-in-repo,Wave 82 careers. Do not 301 onto /what-is-an-ocio/ or /directory/consulting-ocio/
-2,careers,careers/intelligence/why-london-satellites-fail,Why London satellites fail,both,careers-alert,P1,needed,
-2,careers,careers/intelligence/onboarding-a-deputy-cio,Onboarding a deputy CIO,both,careers-alert,P1,needed,
-2,careers,careers/intelligence/succession-inside-a-public-plan,Succession inside a public plan,both,careers-alert,P1,needed,
+83,careers,careers/intelligence/why-london-satellites-fail,Why London satellites fail,both,careers-alert,P1,drafted-in-repo,Wave 83 careers. Do not 301 onto /careers/cities/london/
+83,careers,careers/intelligence/onboarding-a-deputy-cio,Onboarding a deputy CIO,both,careers-alert,P1,drafted-in-repo,Wave 83 careers. Do not 301 onto internal-vs-external CIO or /what-is-an-ocio/
+83,careers,careers/intelligence/succession-inside-a-public-plan,Succession inside a public plan,both,careers-alert,P1,drafted-in-repo,Wave 83 careers. Do not 301 onto CalPERS or CalSTRS. Do not write a people page
 27,explainer,southeast-asia-sovereign-wealth-funds,Southeast Asian sovereign wealth funds,allocator,brief,P1,refresh-drafted,Wave 27 overwrite. Live $1T / GIC $870bn / SIC $47bn. Official GIC no AUM; INA IDR 146.2T. Do not mint /indonesia-investment-authority/ or /vietnam-scic/
 27,explainer,norway-model-vs-canada-model,Norway model vs Canada model,allocator,brief,P1,refresh-drafted,Wave 27 overwrite. Live GPFG $1.3T / CPP $475bn / OTPP $233bn. Official kroner + C$
 27,explainer,singapore-investment-landscape-gic-temasek-mas,Singapore GIC Temasek MAS landscape,allocator,brief,P1,refresh-drafted,Wave 27 overwrite. Live GIC $810bn / MAS $1.08T. Official GIC no AUM; MAS OFR S$549.3bn end-Jul 2026

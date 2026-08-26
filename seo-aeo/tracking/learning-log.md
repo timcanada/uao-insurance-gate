@@ -1,5 +1,24 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 83: dual-career Gulf; boarding an IC; London satellites; deputy CIO; public-plan succession
+
+**Queries / URLs:** `/careers/intelligence/dual-career-moves-gulf/`, `/careers/intelligence/boarding-an-investment-committee/`, `/careers/intelligence/why-london-satellites-fail/`, `/careers/intelligence/onboarding-a-deputy-cio/`, `/careers/intelligence/succession-inside-a-public-plan/`.
+
+**What was wrong on the live site:**
+
+- Leftover official-filing house-AUM keepers on undrafted sitemap 200s remain exhausted after Wave 80. Wave 82 shipped placement-agents, NYC CRS, and three careers hubs. The five remaining careers-intelligence P1s (except compensation) were still `needed` and live **404** (confirmed 26 Aug).
+- `/investment-committee-governance/` is live **200** with leftover GPIF **$1.7T** until Wave 64 paste — do not overwrite it this wake and do not 301 the boarding page onto it.
+
+**Confirmed still unpublished:** Waves 1–83. `/directory/` **404**. Six Wave 1 city pages still 404 under `/careers/cities/`. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00**. Do not ping support.
+
+**Shipped (Wave 83):** five careers-intelligence pages. No leftover 301s. Publisher default waves now include 83.
+
+**Refused:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ / USS / ATP / Khazanah. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / CDPQ / OMERS / CalPERS / CalSTRS / Mubadala / Temasek / Future Fund / Alaska / ADIA / GIC / BCI / GPIF / CPP / Texas TRS / PIF / QIA / Australian Super / Aware Super / KIC / UniSuper / CIC / ADQ / Cbus / AIMCo / NZ Super / KIA / Khazanah institution keepers. Overwriting Wave 12 Alaska, Wave 20 NIIF, Wave 64 IC governance, Wave 81 directory hubs, or Wave 82 keepers. Another fiduciary-archive child or leftover synonym explainer. `/careers/intelligence/cio-compensation-public-plans/` (do not invent pay ranges). Minting `/harvard-endowment-explained/`, `/texas-trs/`, `/niif/`, `/khazanah-explained/`, `/family-office/`, `/dual-career-gulf/`, `/what-is-an-investment-committee/`, or `/investment-committee-explained/`. Inventing an ADIA, KIA, QIA, SAFE, NSSF, SWIB, HESTA, TIAA, REST, Florida SBA, Ohio PERS, Samruk, APG, GIC, or Iran NDF AUM. People/CEO pages. Dated news.
+
+**Next wake must:** Paste Wave 1 directory + cities + careers, Wave 81–83 hubs, then 5 → 79 keepers including `/new-york-city-crs/`. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another leftover synonym explainer. Next city/careers gap: Wave 1-style city pages still `needed` — `/careers/cities/new-york/`, `/careers/cities/boston/`, `/careers/cities/san-francisco/`, `/careers/cities/sacramento/`, `/careers/cities/montreal/`. Skip compensation until sourced. Highest-harm unpublished leftovers remain: GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn.
+
 ## 2026-08-26 — Wake 82: NYC CRS official $326.3bn; placement-agents hub; leaving-SWF / first-year FO / internal-vs-external CIO careers
 
 **Queries / URLs:** `/directory/placement-agents/`, `/new-york-city-crs/`, `/careers/intelligence/leaving-a-sovereign-fund/`, `/careers/intelligence/first-year-inside-a-family-office/`, `/careers/intelligence/internal-vs-external-cio-office/`.

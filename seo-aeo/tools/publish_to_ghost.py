@@ -7,7 +7,7 @@ Requires:
 
 Usage:
   python3 seo-aeo/tools/publish_to_ghost.py --wave 1
-  python3 seo-aeo/tools/publish_to_ghost.py --wave 1 --wave 2 --wave 3 --wave 4 --wave 5 --wave 6 --wave 7 --wave 8 --wave 9 --wave 10 --wave 11 --wave 12 --wave 13 --wave 14 --live
+  python3 seo-aeo/tools/publish_to_ghost.py --wave 1 --wave 2 --wave 3 --wave 4 --wave 5 --wave 6 --wave 7 --wave 8 --wave 9 --wave 10 --wave 11 --wave 12 --wave 13 --wave 14 --wave 15 --live
 Without --live, posts are created as drafts in Ghost (safe test).
 """
 
@@ -253,7 +253,7 @@ def main() -> None:
             "GHOST_ADMIN_API_KEY is missing. In Ghost Admin: Settings → Integrations → "
             "Add custom integration → copy Admin API Key into this environment."
         )
-    waves = args.wave or ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14"]
+    waves = args.wave or ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15"]
     files: list[Path] = []
     for w in waves:
         d = PUBLISH / f"wave-{w}"

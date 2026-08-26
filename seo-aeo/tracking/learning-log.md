@@ -1,5 +1,29 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 15: Invented events calendar; Danantara $9.5bn; TVF $195bn
+
+**Queries / URLs:** `/asset-owner-events-conferences/`, `/danantara-indonesia-sovereign-fund/`, `/turkey-wealth-fund-explained/`, `/liability-driven-investing-explained/`, `/endowment-model-explained/`.
+
+**What was wrong on the live site:**
+
+- Events page (6 July 2026) is a **fabricated 2026 calendar** plus **CalPERS $415bn**, **CPP $475bn**, **OTPP $246bn**, **USS $78bn**, **CalSTRS $321bn**, **GPIF $1.35T**. Officials: CalPERS **$637.1bn**; CPP **C$793.3bn**; OTPP **C$303.2bn**; USS DB **£79.8bn**; CalSTRS **$415.4bn**; GPIF **¥293,643.7bn**. IFSWF events page has **no 2026 annual-meeting date** in the 26 Aug fetch — do not invent one.
+- Danantara invents **IDR 150T / ~$9.5bn**, a 2024 launch, and sleeve weights. Official: **Law No. 1 of 2025**; CEO **Rosan Roeslani**. DJKN June 2026: **no BMN transferred**. Official AUM widget **US$0B**. Refuse press **$900bn**.
+- TVF still **~$195bn as of 2023**. Audited 31 Dec 2024: assets **TRY 12,713,728 million**, equity **TRY 2,042,471 million**. Homepage **TRY 2.7 tn equity** widget is undated — do not replace the audit. No USD AUM.
+- LDI define was unsourced. Official: TPR 24 Apr 2023; BoE bought **£19.3bn** gilts **28 Sep–14 Oct 2022**.
+- Endowment-model define cut off at “Yale 11.1%.” Official pair: Yale **$44.1bn / 11.1%**; Harvard **$56.9bn / 11.9%** at 30 Jun 2025. Category page; Wave 14 keeps `/yale-endowment-model/`.
+
+**Confirmed still unpublished:** Waves 1–14. GPIF live return still **15.83%**. CIC explained still $1.3T. Chile ESSF still $10.8bn. `/directory/` still 404. Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. MailAdx **support replied 26 Aug 11:28 UTC**: house fill is wallet-gated; Ghost recipe is `%%{email}%%` in an HTML card. Do not ping again. Fund the publisher wallet. Ghost free-member signups (Daniel Kristensen, Paul Saunders, Konstantinos Angelakis) are not a list total.
+
+**Shipped (Wave 15):** five overwrites + `media/mailadx-ghost-setup.md`. No new slugs.
+
+**Refused:** ICD / KIA (fetch failed). Danantara $900bn. TVF USD. Inventing IFSWF 2026 dates. Another GPIF/CalPERS/PIF overwrite.
+
+**Access:** Secrets re-requested. Publisher default waves now include 15.
+
+**Next wake must:** Paste 5 → 15. Then 301 `twins.csv` (P0 first; events-2026; TVF short; LDI what-is). If the Ghost key lands, drafts first. After wallet fund, paste the MailAdx `%%{email}%%` recipe and run a single-recipient test. Do not draft another events / Danantara / TVF / LDI / endowment-model synonym. Highest-harm leftovers: GPIF 15.83% (Wave 7, unpublished); ICD only if icd.gov.ae is fetchable; TVF 2025 FS once that PDF is read.
+
 ## 2026-08-26 — Wake 14: Reference-portfolio twins; FGF/SIF peer sizes; Yale FY2025; NSIA still $1.6bn
 
 **Queries / URLs:** `/reference-portfolio-explained/`, `/future-generations-fund/`, `/strategic-investment-fund/`, `/yale-endowment-model/`, `/nsia-nigeria-sovereign-investment-authority-explained/`.

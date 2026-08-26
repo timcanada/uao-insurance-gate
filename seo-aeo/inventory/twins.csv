@@ -13,7 +13,7 @@ P1,/wisconsin-investment-board-swib-explained/,/wisconsin-investment-board-swib/
 P1,/wisconsin-investment-board-swib-explained/,/wisconsin-swib/,institution,200/200,Third twin — 301 after Wave 10 paste
 P1,/uss-universities-superannuation-scheme/,/uss-universities-superannuation-scheme-explained/,institution,200/200,Keep short; Wave 9 uses 31 Mar 2026 accounts. 301 explained + uk-explained
 P1,/uss-universities-superannuation-scheme/,/uss-universities-superannuation-scheme-uk-explained/,institution,200/200,
-P1,/investment-corporation-of-dubai-icd-explained/,/investment-corporation-of-dubai-icd/,institution,200/200,ICD official 2025 still unfetched
+P1,/investment-corporation-of-dubai-icd-explained/,/investment-corporation-of-dubai-icd/,institution,200/200,Wave 19 overwrites keeper (AED 1,468,169m total assets at 31 Dec 2024; live homemade ~$400bn). 301 short after paste. YE2025 PDF still unread
 P1,/psp-investments-canada-explained/,/psp-investments/,institution,200/404,Wave 16 overwrites live keeper (C$320.6bn at 31 Mar 2026; live still CA$233bn). Wave 3 short slug 404 — do not mint it
 P1,/korea-investment-corporation-kic-explained/,/korea-investment-corporation-kic/,institution,200/404,Wave 16 overwrites live keeper (USD 232.0bn at end-2025; live still $190bn). Wave 3 short slug 404 — do not mint it
 P1,/pfzw-netherlands-pension-fund-explained/,/pfzw-and-pggm-netherlands-explained/,institution,200/200,Wave 16 overwrites keeper (€252.0bn AUM at 31 Dec 2025; live still €35bn). 301 PGGM twins after paste
@@ -52,4 +52,6 @@ P2,/private-credit-direct-lending/,/what-is-private-credit-direct-lending/,defin
 P2,/private-credit-market-size/,/what-is-private-credit-market-size/,define,200/200,
 P2,/secondaries-continuation-fund/,/what-is-a-secondaries-continuation-fund/,define,200/200,
 P2,/asset-owner-events-conferences/,/asset-owner-events-conferences-2026/,events,200/200,Wave 15 overwrites keeper (kills invented 2026 calendar + CalPERS $415bn); do not mint a 2027 twin — 301 year-stamp after paste
+P2,/african-sovereign-wealth-funds/,/african-sovereign-wealth-funds-overview/,cluster,200/200,Wave 19 overwrites keeper (kills $200bn / 16 funds pile). 301 overview after paste
+P2,/biggest-sovereign-wealth-fund-deals-2026/,/biggest-sovereign-wealth-fund-deals-of-2026/,list,200/200,Wave 19 overwrites keeper (kills GIC $796bn / PIF $925bn / GPFG $1.4T / $18bn). Do not mint a 2027 twin — 301 of-2026 after paste
 P3,/asset-owner-vs-asset-manager-explained/,/careers/intelligence/asset-owner-vs-asset-manager/,careers,200/200,Different templates; 301 only if the careers URL is a thin copy

@@ -21,6 +21,7 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,adia-abu-dhabi-investment-authority,Abu Dhabi Investment Authority,allocator,brief,P1,live-check,SWF
 2,institution,mubadala-investment-company,Mubadala Investment Company,allocator,brief,P1,live-ok,SWF — live already AED 1.4T / US$385bn YE2025. Skip overwrite. Cluster map is Wave 18 /abu-dhabi-three-sovereign-funds/
 2,institution,adq-abu-dhabi,ADQ,allocator,brief,P1,refresh-drafted,SWF — Wave 18 (AED 921.7bn total assets at 31 Dec 2024; live still $250–260bn). Do not mint /adq-explained/
+2,institution,investment-corporation-of-dubai-icd-explained,Investment Corporation of Dubai,allocator,brief,P1,refresh-drafted,SWF — Wave 19 (AED 1,468,169m total assets at 31 Dec 2024; live homemade ~$400bn). 301 /investment-corporation-of-dubai-icd/ after paste
 2,institution,qatar-investment-authority-qia,Qatar Investment Authority,allocator,brief,P1,refresh-drafted,SWF — Wave 17 (no official AUM; live still $510–600bn). 301 short + portfolio twins after paste. Do not mint /qatar-investment-authority-qia-portfolio/
 2,institution,kuwait-investment-authority-kia,Kuwait Investment Authority,allocator,brief,P1,refresh-drafted,SWF — Wave 16 (no official AUM; live still $1.07T)
 2,institution,gic-singapore-explained,GIC,allocator,brief,P1,live-check,SWF
@@ -124,10 +125,10 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,kazakhstan-samruk-kazyna,Samruk-Kazyna,allocator,brief,P0,needed,SWF
 2,institution,azerbaijan-sofar,SOFAZ,allocator,brief,P0,needed,SWF
 2,institution,timor-leste-petroleum-fund,Timor-Leste Petroleum Fund,allocator,brief,P0,needed,SWF
-2,institution,botswana-pula-fund,Pula Fund,allocator,brief,P0,needed,SWF
+2,institution,botswana-pula-fund,Pula Fund,allocator,brief,P0,refresh-drafted,SWF — Wave 19 overwrites /botswana-pula-fund-explained/ (P30,818.706m at 30 Jun 2026; live $6.0bn). Do not mint /botswana-pula-fund/
 2,institution,ghana-petroleum-funds,Ghana Petroleum Funds,allocator,brief,P0,needed,SWF
 2,institution,nsia-nigeria,Nigeria Sovereign Investment Authority,allocator,brief,P0,needed,SWF
-2,institution,angola-fsdea,FSDEA,allocator,brief,P0,needed,SWF
+2,institution,angola-fsdea,FSDEA,allocator,brief,P0,refresh-drafted,SWF — Wave 19 overwrites /angola-sovereign-fund-fsdea/ (no current AUM; live $5–8bn / fake name). Do not mint /angola-fsdea/
 2,institution,egypt-tsfe,Egypt TSFE,allocator,brief,P0,needed,SWF
 2,institution,morocco-iqtisadi,Moroccan strategic funds,allocator,brief,P0,needed,SWF
 2,institution,indonesia-danantara-inia,Indonesia sovereign/strategic vehicles,allocator,brief,P0,needed,SWF
@@ -287,10 +288,10 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,explainer,what-is-a-superannuation-trustee,What is a superannuation trustee?,allocator,brief,P1,needed,
 2,explainer,how-do-latam-pension-afps-invest,How do Latin American AFPs invest?,allocator,brief,P1,needed,
 2,explainer,what-is-an-afore,What is an Afore?,allocator,brief,P1,needed,
-2,explainer,how-do-african-sovereign-funds-differ,How do African sovereign funds differ?,allocator,brief,P1,needed,
+2,explainer,how-do-african-sovereign-funds-differ,How do African sovereign funds differ?,allocator,brief,P1,refresh-drafted,Do not mint this slug. Wave 19 overwrites live /african-sovereign-wealth-funds/ (kills $200bn pile). 301 /african-sovereign-wealth-funds-overview/ after paste
 2,explainer,what-is-the-nigeria-sovereign-investment-authority,NSIA explained,allocator,brief,P1,needed,
-2,explainer,what-is-the-angola-fsdea,FSDEA explained,allocator,brief,P1,needed,
-2,explainer,what-is-pula-fund,Pula Fund explained,allocator,brief,P1,needed,
+2,explainer,what-is-the-angola-fsdea,FSDEA explained,allocator,brief,P1,refresh-drafted,Do not mint this slug. Live keeper is /angola-sovereign-fund-fsdea/ (Wave 19)
+2,explainer,what-is-pula-fund,Pula Fund explained,allocator,brief,P1,refresh-drafted,Do not mint this slug. Live keeper is /botswana-pula-fund-explained/ (Wave 19)
 2,explainer,how-do-central-bank-reserves-differ-from-swfs,Reserves vs SWFs (defend existing),allocator,brief,P1,needed,
 2,explainer,what-is-a-stabilization-fund,What is a stabilization fund?,allocator,brief,P1,needed,
 2,explainer,how-do-owners-use-secondaries,How do owners use secondaries?,allocator,brief,P1,needed,

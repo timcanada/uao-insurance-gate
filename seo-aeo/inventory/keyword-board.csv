@@ -69,6 +69,14 @@ P1,Aware Super,allocator,both,/aware-super-explained/,entity,unknown,unknown,unk
 P1,Cbus,allocator,both,/cbus-superannuation-explained/,entity,unknown,unknown,unknown,refresh-drafted,Live $60bn / 2.5m. Official more than $115bn / 935k at 30 Jun 2026. Wave 18
 P1,Libyan Investment Authority,allocator,both,/libyan-investment-authority-explained/,entity,unknown,unknown,unknown,refresh-drafted,Live invents 2016 founding / $67bn current. Official 28 Aug 2006; Law 13/2010. Wave 18
 P1,Abu Dhabi sovereign funds,allocator,both,/abu-dhabi-three-sovereign-funds/,compare,unknown,unknown,unknown,refresh-drafted,Live ADIA $150bn / $800–900bn pile. Official: ADIA no AUM; Mubadala AED 1.4T; ADQ AED 921.7bn; SCFEA names L’IMAD. Wave 18
+P1,Investment Corporation of Dubai,allocator,both,/investment-corporation-of-dubai-icd-explained/,entity,unknown,unknown,unknown,refresh-drafted,Live homemade ~$400bn. Official AED 1,468,169m total assets at 31 Dec 2024. Wave 19. 301 short after paste
+P1,ICD Dubai,allocator,both,/investment-corporation-of-dubai-icd-explained/,entity,unknown,unknown,unknown,refresh-drafted,Same URL as ICD
+P1,Pula Fund,allocator,both,/botswana-pula-fund-explained/,entity,unknown,unknown,unknown,refresh-drafted,Live $6.0bn / 50-30-20. Official P30,818.706m at 30 Jun 2026. Wave 19. Do not mint /botswana-pula-fund/
+P1,Botswana sovereign wealth fund,allocator,both,/botswana-pula-fund-explained/,entity,unknown,unknown,unknown,refresh-drafted,Same URL as Pula Fund
+P1,FSDEA,allocator,both,/angola-sovereign-fund-fsdea/,entity,unknown,unknown,unknown,refresh-drafted,Live fake legal name / 2012 / $5–8bn. Official Fundo Soberano de Angola; no current AUM. Wave 19. Do not mint /angola-fsdea/
+P1,Angola sovereign wealth fund,allocator,both,/angola-sovereign-fund-fsdea/,entity,unknown,unknown,unknown,refresh-drafted,Same URL as FSDEA
+P1,African sovereign wealth funds,allocator,both,/african-sovereign-wealth-funds/,list,unknown,unknown,unknown,refresh-drafted,Live $200bn / 16 funds. No combined pile. Wave 19. 301 overview after paste
+P1,sovereign wealth fund deals 2026,allocator,both,/biggest-sovereign-wealth-fund-deals-2026/,list,unknown,unknown,unknown,refresh-drafted,Live GIC $796bn / PIF $925bn / GPFG $1.4T / $18bn. Wave 19 cleanup. Do not mint 2027
 P2,what is an OCIO,allocator,both,/what-is-an-ocio/,define,unknown,unknown,unknown,live-check,
 P2,single family office vs multi family office,allocator,both,/single-vs-multi-family-office/,define,unknown,unknown,unknown,live-check,
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,live-check,

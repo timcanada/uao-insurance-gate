@@ -1,5 +1,29 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 19: ICD ~$400bn; Pula $6bn sleeves; FSDEA fake name / $5–8bn; Africa $200bn; deals GIC $796bn
+
+**Queries / URLs:** `/investment-corporation-of-dubai-icd-explained/`, `/botswana-pula-fund-explained/`, `/angola-sovereign-fund-fsdea/`, `/african-sovereign-wealth-funds/`, `/biggest-sovereign-wealth-fund-deals-2026/`.
+
+**What was wrong on the live site:**
+
+- ICD (13 July 2026) converts official **AED 1,468 billion** into homemade **“roughly $400 billion.”** Signed YE2024 FS: established **3 May 2006**, **Law No. 11 of 2006**; **total assets AED 1,468,169 million**; revenue **AED 349,636 million**; profit **AED 67,539 million**; equity attributable **AED 278,786 million**. Board approved **11 April 2025**. HTML / reporting.icd.gov.ae still 403. YE2025 PDF still unread. Twin still 200.
+- Pula Fund invents **$6.0 billion** and **50/30/20** sleeves. Official June 2026 monthly statement (P'000): foreign-assets Pula Fund **30,818,706** at **30 June 2026**. GIA Pula Fund **2,628,503** is a different line. BoB page says **1994**; IFSWF says **1993** / **1996** Act; **not a separate legal entity**. `/botswana-pula-fund/` **404s**.
+- FSDEA invents “**para Ativos do Estado**,” a **2012** founding, and **$5–8 billion as of 2023**. Official IFSWF name: **Fundo Soberano de Angola**. Decree **48/11** (9 Mar 2011) as Fundo Petrolífero; renamed **89/13** (19 Jun 2013). No current official AUM. `/angola-fsdea/` **404s**.
+- African SWFs invent **$200 billion / 16 funds** and **$180–220 billion / 18 funds**, plus LIA **$66 billion / 2016**. Only reprint NSIA / Pula / FSDEA / LIA official lines. No combined pile. Overview twin still 200.
+- 2026 deals invent GIC **$796 billion**, PIF **$925 billion**, GPFG **$1.4 trillion**, and GIC+PIF **$18 billion**. Official: GIC **no AUM**; PIF **more than US$900 billion**; GPFG **22,683 billion kroner**. No invented deal table. Of-2026 twin still 200.
+
+**Confirmed still unpublished:** Waves 1–18. Sitemap leftovers unchanged: `/directory/` **404**. GPIF live return still **15.83%**. CIC explained still $1.3T. Chile ESSF still $10.8bn. Ghost key still missing. Mubadala live already current. Future Fund live already A$269.1bn.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. No new named Ghost signup after Konstantinos Angelakis. MailAdx — do not ping support. Wallet still $0.00.
+
+**Shipped (Wave 19):** five overwrites. No new slugs. Publisher default waves now include 19.
+
+**Refused:** EPF (kwsp.gov.my still 403). ICD HTML / a readable YE2025 PDF. Dollarizing ICD or the Pula Fund. Wikipedia / Global SWF / ANGOP FSDEA **$3.99 billion**. Another Mubadala / Future Fund / GPIF / CalPERS / PIF overwrite. Minting `/botswana-pula-fund/`, `/angola-fsdea/`, `/limad-explained/`, `/adq-explained/`, or the Wave 3 404 short slugs.
+
+**Access:** Secrets re-requested. `GHOST_ADMIN_API_KEY` and `GOOGLE_SERVICE_ACCOUNT_JSON` still UNSET.
+
+**Next wake must:** Paste 5 → 19. Then 301 `twins.csv` (P0 first; ICD short; African-overview; deals-of-2026; Aware/Cbus; Abu Dhabi cluster; BCI; QIA short/portfolio; PFZW/PGGM). If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another ICD / Pula / FSDEA / African-SWF / 2026-deals synonym. Highest-harm leftovers: EPF once kwsp.gov.my is readable; ICD YE2025 once that PDF is readable; GPIF 15.83% (Wave 7, unpublished).
+
 ## 2026-08-26 — Wake 18: ADQ $250–260bn; Aware $16bn; Cbus $60bn; LIA 2016; ADIA $150bn pile
 
 **Queries / URLs:** `/adq-abu-dhabi/`, `/aware-super-explained/`, `/cbus-superannuation-explained/`, `/libyan-investment-authority-explained/`, `/abu-dhabi-three-sovereign-funds/`.

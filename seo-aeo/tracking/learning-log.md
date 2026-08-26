@@ -1,5 +1,29 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 28: SWF vs reserves $15T; Gulf PE fiction; country $10.7T; PE allocation pile; Harvard $50.9bn
+
+**Queries / URLs:** `/sovereign-wealth-fund-vs-central-bank-reserves/`, `/how-gulf-funds-are-reshaping-private-markets/`, `/sovereign-wealth-funds-by-country/`, `/largest-sovereign-wealth-funds-by-private-markets-allocation/`, `/endowment-model-vs-canada-model/`.
+
+**What was wrong on the live site:**
+
+- SWF vs reserves invents **1,000 SWFs / $15 trillion**, GPFG **$1.4 trillion**, ADIA **$170 billion**, an invented **ADSWF $174 billion**, ICD **$183 billion**, KIA **$712 billion**, SAFE **$1.0–1.2T**, GIC **$688 billion**. Official: GPFG **kroner**. ADIA / KIA / GIC / SAFE **no AUM**. ICD **AED 1,468,169 million**. There is **no ADSWF** filing.
+- Gulf private markets invents **$200 billion** deployed since 2018, PIF–KKR **$40 billion**, **Giga Fund $50 billion**, ADQ **$145 billion**, **$120–150 billion** a year. Official: PIF **more than US$900 billion**. ADQ **AED 921,741 million**. KIA **no AUM**. No official PIF page fetched for those deal tickets.
+- SWFs by country invents **$10.7 trillion**, ADIA **$950 billion**, an Emirati leftover **SGRF $15 billion**, SAFE **$940 billion**, a homemade China **$2 trillion**, KIA **$870 billion**, Vietnam **$23 billion (2021)**. Official method: quote the filing or say no AUM. SGRF is **Oman leftover**.
+- Private-markets allocation invents GPFG **$1.7 trillion**, SAFE **$940 billion**, CPP **$630 billion** as a SWF, GIC+Temasek **$1.1 trillion**. Official: GPFG **kroner** and **72.1%** listed equities. CPP is a **pension** (**C$793.3 billion**).
+- Endowment vs Canada uses Harvard **$50.9 billion (June 2023)**, CPP **CAD $600 billion (March 2024)**, OTPP **CAD $245 billion (December 2023)**. Official: Harvard **$56.9 billion / 11.9%** at **30 June 2025**. CPP **C$793.3 billion**. OTPP **C$303.2 billion**.
+
+**Confirmed still unpublished:** Waves 1–28. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Ghost key still missing. CPP vs CalPERS and Canadian-pension-giants headlines already current — skipped.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx — do not ping support. Wallet still $0.00.
+
+**Shipped (Wave 28):** five overwrites. No new slugs. Publisher default waves now include 28. Queued 301s: NSIA short twins; ISIF short; Mumtalakat sovereign-wealth-fund twin; SWF-definition twin; PIF strategy-2030 twin; SWF-vs-pension horizon twins; Gulf PE short twin; private-markets-allocation short twin.
+
+**Refused:** ICD YE2025 PDF. Dollarizing GPFG, ADIA, KIA, SAFE, GIC, or ADQ. Overwriting ADIA short / QIA portfolio / NSIA / ISIF / Mumtalakat keepers. Minting `/harvard-endowment-explained/` or `/limad-explained/`.
+
+**Access:** Secrets re-requested. `GHOST_ADMIN_API_KEY` and `GOOGLE_SERVICE_ACCOUNT_JSON` still UNSET.
+
+**Next wake must:** Paste 5 → 28. Then 301 `twins.csv` (P0 first; Wave 28 NSIA/ISIF/Mumtalakat/definition/PIF-2030/horizon/Gulf-PE/PE-allocation twins; Wave 26 ADIA short after Wave 9; Wave 17 QIA portfolio). If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another SWF-vs-reserves / Gulf-PE / country-$10.7T / PE-allocation / endowment-vs-Canada synonym. Highest-harm leftovers: `/what-is-a-reserve-fund/` (GPFG **$1.4T**); `/pif-investment-strategy-2030/` until the 301; `/what-is-a-sovereign-wealth-fund-definition/` until the 301; ICD YE2025 once that PDF is readable; GPIF 15.83% (Wave 7, unpublished).
+
 ## 2026-08-26 — Wake 27: SE Asia $1T; Norway/Canada stale $; MAS $1.08T; types AUM farm; GPFG $2T
 
 **Queries / URLs:** `/southeast-asia-sovereign-wealth-funds/`, `/norway-model-vs-canada-model/`, `/singapore-investment-landscape-gic-temasek-mas/`, `/types-of-sovereign-wealth-funds/`, `/sovereign-wealth-fund-vs-pension-fund/`.

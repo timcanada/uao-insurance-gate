@@ -648,4 +648,9 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 27,explainer,singapore-investment-landscape-gic-temasek-mas,Singapore GIC Temasek MAS landscape,allocator,brief,P1,refresh-drafted,Wave 27 overwrite. Live GIC $810bn / MAS $1.08T. Official GIC no AUM; MAS OFR S$549.3bn end-Jul 2026
 27,explainer,types-of-sovereign-wealth-funds,Types of sovereign wealth funds,allocator,brief,P1,refresh-drafted,Wave 27 overwrite. Live tracker dollars on every type. Official: quote filing or no AUM
 27,explainer,sovereign-wealth-fund-vs-pension-fund,SWF vs pension fund,allocator,brief,P1,refresh-drafted,Wave 27 overwrite. Live GPFG more than $2T. Official 22683bn kroner. GPIF is the pension
+28,explainer,sovereign-wealth-fund-vs-central-bank-reserves,SWF vs central bank reserves,allocator,brief,P1,refresh-drafted,Wave 28 overwrite. Live $15T / invented ADSWF. Official kroner; no ADSWF. Do not mint /limad-explained/
+28,explainer,how-gulf-funds-are-reshaping-private-markets,Gulf funds private markets,allocator,brief,P1,refresh-drafted,Wave 28 overwrite. Live $200bn / PIF-KKR $40bn / ADQ $145bn. 301 /gulf-funds-private-markets/
+28,explainer,sovereign-wealth-funds-by-country,SWFs by country,allocator,brief,P1,refresh-drafted,Wave 28 overwrite. Live $10.7T / Emirati SGRF $15bn. SGRF is Oman leftover
+28,explainer,largest-sovereign-wealth-funds-by-private-markets-allocation,SWFs by private markets allocation,allocator,brief,P1,refresh-drafted,Wave 28 overwrite. Live $1.7T / $1.1T Singapore stack. 301 short twin
+28,explainer,endowment-model-vs-canada-model,Endowment model vs Canada model,allocator,brief,P1,refresh-drafted,Wave 28 overwrite. Live Harvard $50.9bn. Official $56.9bn. Do not mint /harvard-endowment-explained/
 2,careers,careers/intelligence/search-brief-for-a-real-assets-head,Writing a real-assets head search brief,both,careers-alert,P1,needed,

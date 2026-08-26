@@ -1,5 +1,27 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 50: leftover CalPERS $438bn / $448bn / $450bn / $469bn / $495bn / $440bn; leftover GIC $880bn; leftover OTPP $227bn; leftover GPFG $1.35T / $1.3T; leftover Yale $41bn / $41.4bn; leftover CalSTRS $315bn; leftover PIF $700bn; leftover Future Fund $261bn
+
+**Queries / URLs:** `/investment-beliefs-asset-owners/`, `/direct-investment-private-equity-institutional/`, `/diversification-institutional-portfolios/`, `/esg-integration-institutional/`, `/manager-selection-institutional/`.
+
+**What was wrong on the live site:**
+
+- Investment beliefs invent leftover CalPERS **$438 billion**, leftover GIC **$880 billion**, leftover OTPP **$227 billion**, leftover GPFG **$1.35 trillion**, leftover Yale **$41 billion**, leftover PIF **$700bn**, leftover CalSTRS **$315 billion**. Twin invent leftover GPFG **$1.3 trillion**, leftover CalPERS **$448 billion**, leftover Future Fund **$261 billion**. Official: CalPERS **$637.1 billion**. CalSTRS **$415.4 billion**. OTPP **C$303.2 billion**. Yale **$44.1 billion**. GPFG **kroner**. GIC **no AUM**. PIF **more than US$900 billion**. Future Fund **A$269.1 billion**.
+- Direct PE invent leftover CalPERS **$450 billion** with leftover sleeve **$35 billion**, leftover Brookfield **$750 billion**. Official: CalPERS **$637.1 billion**.
+- Diversification invent leftover CalPERS **$495 billion**, leftover Yale **$41.4 billion**. Official: CalPERS **$637.1 billion**. Yale **$44.1 billion**.
+- ESG integration invent leftover CalPERS **$440 billion**, leftover GPFG **$1.3 trillion**, leftover Vanguard **$8.6 trillion**. Official: CalPERS **$637.1 billion**. GPFG **kroner**.
+- Manager selection invent leftover CalPERS **$469 billion**, leftover BlackRock **$10 trillion**. Official: CalPERS **$637.1 billion**.
+
+**Confirmed still unpublished:** Waves 1–50. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00**; newer zero-delivery and empty-wallet alerts through **26 Aug 15:07 UTC**. Razorpay **$118** failed again **26 Aug 14:32 / 14:34 UTC**. Do not ping support.
+
+**Shipped (Wave 50):** five overwrites. No new slugs. Publisher default waves now include 50. Queued 301: `/what-is-an-investment-belief/`.
+
+**Refused:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / CDPQ / OMERS / CalPERS / Mubadala / Temasek / Future Fund / Alaska / ADIA / GIC institution keepers. Overwriting `/endowment-model-explained/` (Wave 15) or `/yale-endowment-model/` (Wave 14). Another infra-returns / risk-parity / alternatives / portable-alpha / stagflation synonym. Minting `/harvard-endowment-explained/`, `/investment-beliefs/`, `/direct-investment-private-equity/`, `/diversification/`, `/esg-integration/`, or `/manager-selection/`. Fetching leftover Brookfield / Vanguard / BlackRock / PEI / EC piles. `/operational-due-diligence-private-equity/` (only leftover CalPERS **$440 billion**). `/what-is-liability-driven-investing/` leftover CalPERS **$487 billion** (already a Wave 15 301). `/investment-policy-statement-explained/` (leftover CalPERS **$440 billion** / leftover GPFG **$2 trillion**).
+
+**Next wake must:** Paste 5 → 50. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another investment-beliefs / direct-PE / diversification / ESG / manager-selection synonym. Highest-harm leftovers now: `/investment-policy-statement-explained/` (leftover CalPERS **$440 billion** / leftover GPFG **$2 trillion**); `/operational-due-diligence-private-equity/` (leftover CalPERS **$440 billion**); unpublished keepers (GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn).
+
 ## 2026-08-26 — Wake 49: leftover CalPERS $511bn / $453bn / $460bn; leftover CPP $540bn / $515bn; leftover CDPQ $370bn; leftover OTPP $227bn / $232bn; leftover GPFG $1.3T / $1.4T; leftover Yale $41.4bn / $41bn
 
 **Queries / URLs:** `/infrastructure-returns-benchmarks/`, `/risk-parity-explained/`, `/alternative-investments-institutional/`, `/portable-alpha-explained/`, `/stagflation-risk-institutional/`.

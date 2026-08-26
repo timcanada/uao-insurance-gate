@@ -157,6 +157,11 @@ P1,Nordic pension model,allocator,both,/nordic-pension-model-explained/,define,u
 P1,Canadian pension model,allocator,both,/canadian-pension-model/,define,unknown,unknown,unknown,refresh-drafted,Twin invents CPP $680bn / $1.5T Maple pile. Official CPP C$793.3bn. 301 canadian-model-pension-investing. Wave 35
 P1,how pension funds invest in private markets,allocator,both,/how-pension-funds-invest-in-private-markets/,define,unknown,unknown,unknown,refresh-drafted,Live 11.5% PE / CPP C$700bn / NBIM $2T. Official house AUM / kroner. Wave 35
 P1,pension funded status,allocator,both,/funded-status-pension-plan/,define,unknown,unknown,unknown,refresh-drafted,Live CalPERS $600bn / well below 100% / Milliman 109%. Official $637.1bn / 85%. Do not 301 onto public-2026. Wave 35
+P1,Local Pensions Partnership,allocator,both,/local-pensions-partnership-explained/,entity,unknown,unknown,unknown,refresh-drafted,Live £26.5bn / 600k. Official LPPI ~£60bn at 30 Jun 2026 / nine funds. Do not 301 onto LGPS pooling. Wave 36
+P1,pension de-risking,allocator,both,/pension-fund-de-risking-strategy/,define,unknown,unknown,unknown,refresh-drafted,Live PFZW €200bn / CDPQ €384bn / BT £60bn. Official PFZW €252036m / CDPQ CAD $517.3bn. Do not 301 onto LDI. Wave 36
+P1,longevity risk pension funds,allocator,both,/longevity-risk-pension-funds/,define,unknown,unknown,unknown,refresh-drafted,Live CalPERS $469bn / USS £78bn / TRS $307bn / GPIF $1.7T. Official $637.1bn / £79.8bn DB / $225.3bn / yen. Wave 36
+P1,pension fund governance,allocator,both,/pension-fund-governance-best-practices/,define,unknown,unknown,unknown,refresh-drafted,Live CPP $496bn / CalPERS $470bn / GPIF $1.4T / ADIA $172bn. Official C$793.3bn / $637.1bn / yen / no ADIA AUM. Wave 36
+P1,pension discount rate,allocator,both,/discount-rate-pension-liabilities/,define,unknown,unknown,unknown,refresh-drafted,Live Milliman 5.3-5.5% / 109%. Official CalPERS $637.1bn / 85%. Do not 301 onto funded-status or LDI. Wave 36
 P2,what is an OCIO,allocator,both,/what-is-an-ocio/,define,unknown,unknown,unknown,live-check,
 P2,single family office vs multi family office,allocator,both,/single-vs-multi-family-office/,define,unknown,unknown,unknown,live-check,
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,live-check,

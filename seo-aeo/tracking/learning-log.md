@@ -1,5 +1,29 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 36: LPP £26.5bn; de-risking PFZW €200bn / CDPQ €384bn; longevity CalPERS $469bn; governance CPP $496bn; Milliman 109%
+
+**Queries / URLs:** `/local-pensions-partnership-explained/`, `/pension-fund-de-risking-strategy/`, `/longevity-risk-pension-funds/`, `/pension-fund-governance-best-practices/`, `/discount-rate-pension-liabilities/`.
+
+**What was wrong on the live site:**
+
+- LPP invents LPPI **£26.5 billion as of 2025**, **600,000** members, **1,900** employers. Official LPPI About page: **approximately £60 billion** at **30 June 2026**; **nine** named partner funds. The 2024–25 accounts’ **£26.5 billion** was the **three-fund** book. 12 May 2026 news: **approximately £55 billion** from **1 April 2026** after six new partners.
+- De-risking invents PFZW **€200 billion / 2.8 million / 70% FI**, CDPQ **€384 billion**, BT **£60 billion**, leftover PPF **£15 billion** and an **€1 trillion** LDI shift. Official: PFZW **€252,036 million**. CDPQ **CAD $517.3 billion**.
+- Longevity invents CalPERS **$469 billion as of June 2024**, USS **£78 billion**, Texas TRS **$307 billion**, GPIF **$1.7 trillion**. Official: CalPERS **$637.1 billion**. USS DB **£79.8 billion**. Texas TRS **$225.3 billion**. GPIF **yen**.
+- Governance invents CPP **CAD $496 billion / $368 billion USD**, CalPERS **$470 billion**, GPIF **$1.4 trillion / 35-25-20-20**, ADIA **$172 billion**, CalSTRS **$316 billion**. Official: CPP **C$793.3 billion**. CalPERS **$637.1 billion**. GPIF **yen**. ADIA **no AUM**. CalSTRS **$415.4 billion**.
+- Discount-rate invents Milliman **5.3–5.5%** and **109% / 103%**. Official public-plan exhibit: CalPERS **$637.1 billion / 85%**.
+
+**Confirmed still unpublished:** Waves 1–36. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00**. Do not ping support.
+
+**Shipped (Wave 36):** five overwrites. No new slugs. Publisher default waves now include 36. First official LPPI fetch on this desk (**~£60 billion** at 30 June 2026). No new 301s this wake.
+
+**Refused:** ICD YE2025 PDF. Dollarizing GPIF / GPFG. Overwriting USS / PFZW / ATP / LDI / ABP / OMERS / CalPERS / Mubadala institution keepers. Minting `/texas-trs/` or `/harvard-endowment-explained/`. Fetching BT / PPF / Milliman leftover piles. Another ABP / Nordic / Canadian-model / PE-average / funded-status synonym.
+
+**Access:** Secrets re-requested. `GHOST_ADMIN_API_KEY` and `GOOGLE_SERVICE_ACCOUNT_JSON` still UNSET.
+
+**Next wake must:** Paste 5 → 36. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another LPP / de-risking / longevity / governance / discount-rate synonym. Highest-harm leftovers now: `/pension-risk-transfer-buyout/` (leftover survey % / “hundreds of billions”); `/interest-rate-risk-pension-funds/` (fetch timed out — score next); `/how-endowments-and-foundations-invest/` (no leftover AUM — skip unless a twin appears); then unpublished keepers (GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn).
+
 ## 2026-08-26 — Wake 35: ABP €532bn; Nordic ATP DKK 435bn / GPFG $1.4T; Maple 8 $680bn; PE 11.5%; CalPERS $600bn
 
 **Queries / URLs:** `/abp-netherlands-pension-fund-explained/`, `/nordic-pension-model-explained/`, `/canadian-pension-model/`, `/how-pension-funds-invest-in-private-markets/`, `/funded-status-pension-plan/`.

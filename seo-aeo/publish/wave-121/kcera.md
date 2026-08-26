@@ -27,7 +27,7 @@ The statement of fiduciary net position is the sourced line (in thousands):
 2. **GASB funded cards.** Total pension liability **$8,735,607,348**. Net pension liability **$2,213,606,327**. Fiduciary net position as a percentage of total pension liability **74.66 percent**. The actuarial-value funded ratio **72.3 percent** uses actuarial assets **$6,279,025,000** and actuarial liabilities **$8,685,408,000**. Those two funded cards are not interchangeable.
 3. **Returns.** Time-weighted return **10.9 percent** net of fees versus the actuarial assumed rate **7.00 percent**. Annual money-weighted return **10.9 percent** net of pension investment expenses. Those two official one-year prints are not interchangeable even where they round to the same first decimal.
 
-Do not flatten KCERA into [LACERA](/lacera/), [SBCERA](/sbcera/), [FCERA](/fcera/), [SJCERA](/sjcera/), [SBCERS](/sbcers/), [Sonoma SCERA](/sonoma-scera/), or [CalPERS](/calpers-explained-largest-us-pension-fund/). LACERA is the Los Angeles **County** file. SBCERA is the San Bernardino **County** file. FCERA is the Fresno **County** file. SJCERA is the San Joaquin **County** file. SBCERS is the Santa Barbara **County** file. This is **one Kern County employee file**.
+Do not flatten KCERA into [LACERA](/lacera/), [SBCERA](/sbcera/), [FCERA](/fcera/), [SJCERA](/sjcera/), [SBCERS](/sbcers/), [Sonoma SCERA](/sonoma-scera/), [ICERS](/icers/), [MercedCERA](/mercedcera/), or [CalPERS](/calpers-explained-largest-us-pension-fund/). LACERA is the Los Angeles **County** file. SBCERA is the San Bernardino **County** file. FCERA is the Fresno **County** file. SJCERA is the San Joaquin **County** file. SBCERS is the Santa Barbara **County** file. This is **one Kern County employee file**.
 
 ## What an owner is actually buying
 
@@ -52,5 +52,7 @@ Do not 301 this page onto `/lacera/`, `/sbcera/`, `/fcera/`, `/calpers-explained
 - [SJCERA](/sjcera/)
 - [SBCERS](/sbcers/)
 - [Sonoma SCERA](/sonoma-scera/)
+- [ICERS](/icers/)
+- [MercedCERA](/mercedcera/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

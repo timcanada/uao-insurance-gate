@@ -27,7 +27,7 @@ The statement of fiduciary net position is the sourced line (in thousands):
 2. **GASB funded cards.** Total pension liability **$18,296,112 thousand**. Net pension liability **$1,863,893 thousand**. Fiduciary net position as a percentage of total pension liability **89.81 percent**. The MD&A **89.8 percent** card is the same ratio rounded. The actuarial valuation-value funded percentage **88.8 percent** is not the GASB card. The house says recognizing the deferred gain immediately would move that valuation-value print to **89.8 percent**. Those funded cards are not interchangeable.
 3. **Returns.** House net-of-fees investment return **8.7 percent**. Annual money-weighted return **8.7 percent** net of investment expense. The required-supplementary-information money-weighted print **8.71 percent** is not the note’s **8.7 percent** card. Five-year annualized net-of-fees **10.7 percent**. Those official prints are not interchangeable.
 
-Do not flatten SBCERA into [LACERA](/lacera/), [CalPERS](/calpers-explained-largest-us-pension-fund/), [OCERS](/ocers/), [Sacramento County](/sacramento-scers/), [SJCERA](/sjcera/), [SBCERS](/sbcers/), or [Sonoma SCERA](/sonoma-scera/). LACERA is the Los Angeles **County** file. SJCERA is the San Joaquin **County** file. SBCERS is the Santa Barbara **County** file. This is **one San Bernardino County employee file**.
+Do not flatten SBCERA into [LACERA](/lacera/), [CalPERS](/calpers-explained-largest-us-pension-fund/), [OCERS](/ocers/), [Sacramento County](/sacramento-scers/), [SJCERA](/sjcera/), [SBCERS](/sbcers/), [Sonoma SCERA](/sonoma-scera/), [ICERS](/icers/), or [MercedCERA](/mercedcera/). LACERA is the Los Angeles **County** file. SJCERA is the San Joaquin **County** file. SBCERS is the Santa Barbara **County** file. This is **one San Bernardino County employee file**.
 
 ## What an owner is actually buying
 
@@ -52,5 +52,7 @@ Do not 301 this page onto `/lacera/`, `/ocers/`, `/calpers-explained-largest-us-
 - [SJCERA](/sjcera/)
 - [SBCERS](/sbcers/)
 - [Sonoma SCERA](/sonoma-scera/)
+- [ICERS](/icers/)
+- [MercedCERA](/mercedcera/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

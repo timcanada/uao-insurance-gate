@@ -281,6 +281,16 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,caat,CAAT (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 123 /caat-pension/
 123,institution,optrust,OPTrust,allocator,brief,P0,drafted-in-repo,Wave 123. Official net assets C$27,223 million at 31 Dec 2025. Do not mint /optrust-explained/ or /opseu-pension/
 2,institution,optrust-explained,OPTrust (long twin),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 123 /optrust/
+124,institution,icers,Imperial ICERS,allocator,brief,P0,drafted-in-repo,Wave 124. Official FNP $1,308,837,826 at 30 Jun 2025. Do not mint /imperial-icers/ or /icers-explained/
+2,institution,imperial-icers,Imperial ICERS (long twin),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 124 /icers/
+124,institution,san-jose-federated,San Jose Federated,allocator,brief,P0,drafted-in-repo,Wave 124. Official combined FNP $3,947,899 thousand at 30 Jun 2025. Do not mint /sj-federated/ or /federated-sj/
+2,institution,sj-federated,San Jose Federated (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 124 /san-jose-federated/
+124,institution,san-jose-police-fire,San Jose Police and Fire,allocator,brief,P0,drafted-in-repo,Wave 124. Official combined FNP $5,966,077 thousand at 30 Jun 2025. Do not mint /sjpf/ or /sjpfrs/
+2,institution,sjpf,San Jose Police and Fire (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 124 /san-jose-police-fire/
+124,institution,mercedcera,MercedCERA,allocator,brief,P0,drafted-in-repo,Wave 124. Official FNP $1,378,701,813 at 30 Jun 2025. Do not mint /merced-cera/ or /mcera/
+2,institution,merced-cera,MercedCERA (long twin),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 124 /mercedcera/. /mcera/ is Marin
+124,institution,phoenix-copers,Phoenix COPERS,allocator,brief,P0,drafted-in-repo,Wave 124. Official FNP $3,913,124 thousand at 30 Jun 2025. Do not mint /copers/ or /phoenix-employees/
+2,institution,copers,Phoenix COPERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 124 /phoenix-copers/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

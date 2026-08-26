@@ -27,7 +27,7 @@ The statement of fiduciary net position is the sourced line (in thousands):
 2. **GASB funded cards.** Total pension liability **$15,597,205 thousand**. Net pension liability **$1,019,746 thousand**. Fiduciary net position as a percentage of total pension liability **93.5 percent**. Those three cards are not a second investment book.
 3. **Returns.** Time-weighted total-fund return **10.8 percent** net of investment management fees, against the house policy benchmark **9.9 percent** and the **6.75 percent** actuarial objective. Annual money-weighted return **11.10 percent** net of pension-plan investment expenses. Those two official one-year prints are not interchangeable.
 
-Do not flatten Sacramento County into [SDCERS](/sdcers/), [OCERS](/ocers/), [SamCERA](/samcera/), [LACERA](/lacera/), or [Sonoma SCERA](/sonoma-scera/). SDCERS is the San Diego **city** file. Sonoma SCERA is a different 1937-Act file — do not mint `/scera/` or reuse `/scers/` for Sonoma. This is **one Sacramento County employee file**. Seattle City Employees’ Retirement System is a different legal person — that is why `/scers/` stays unminted.
+Do not flatten Sacramento County into [SDCERS](/sdcers/), [OCERS](/ocers/), [SamCERA](/samcera/), [LACERA](/lacera/), [Sonoma SCERA](/sonoma-scera/), [ICERS](/icers/), or [MercedCERA](/mercedcera/). SDCERS is the San Diego **city** file. Sonoma SCERA is a different 1937-Act file — do not mint `/scera/` or reuse `/scers/` for Sonoma. This is **one Sacramento County employee file**. Seattle City Employees’ Retirement System is a different legal person — that is why `/scers/` stays unminted.
 
 ## What an owner is actually buying
 
@@ -56,5 +56,7 @@ Do not 301 this page onto `/sdcers/`, `/ocers/`, `/samcera/`, `/lacera/`, or `/l
 - [SJCERA](/sjcera/)
 - [Sonoma SCERA](/sonoma-scera/)
 - [SBCERS](/sbcers/)
+- [ICERS](/icers/)
+- [MercedCERA](/mercedcera/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

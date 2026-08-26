@@ -28,7 +28,7 @@ The statement of fiduciary net position is the sourced line (in thousands):
 2. **Named books on the same statement.** Pension Benefit Trust **$4,813,621 thousand**. OPEB Trust **$90,672 thousand**. Those two lines are not interchangeable. Do not treat the pension book as the combined book. GASB pension fiduciary net position **$4,813,619 thousand** is the same pension book in a rounded GASB print, not a second AUM.
 3. **Returns and funded cards.** Time-weighted return **9.77 percent** net of fees. The investment-section **9.8 percent** card is the same time-weighted print rounded. Money-weighted return **9.77 percent** net of plan investment expense. Pension total pension liability **$5,311,727 thousand**. Pension fiduciary net position / total pension liability **90.62 percent**. Those official one-year prints and funded cards are not interchangeable.
 
-Do not flatten SBCERS into [SBCERA](/sbcera/), [LACERA](/lacera/), [SJCERA](/sjcera/), or [OCERS](/ocers/). SBCERA is San Bernardino **County**. LACERA is Los Angeles **County**. This is **one Santa Barbara County employee file**.
+Do not flatten SBCERS into [SBCERA](/sbcera/), [LACERA](/lacera/), [SJCERA](/sjcera/), [OCERS](/ocers/), [ICERS](/icers/), or [MercedCERA](/mercedcera/). SBCERA is San Bernardino **County**. LACERA is Los Angeles **County**. This is **one Santa Barbara County employee file**.
 
 ## What an owner is actually buying
 
@@ -50,6 +50,8 @@ Do not 301 this page onto `/sbcera/`, `/lacera/`, `/sjcera/`, or `/largest-us-pu
 - [SBCERA](/sbcera/)
 - [SJCERA](/sjcera/)
 - [Sonoma SCERA](/sonoma-scera/)
+- [ICERS](/icers/)
+- [MercedCERA](/mercedcera/)
 - [LACERA](/lacera/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

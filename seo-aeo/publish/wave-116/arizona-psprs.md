@@ -27,13 +27,13 @@ The combined statement of fiduciary net position is the sourced line (in thousan
 2. **Named books.** PSPRS pension **$18,210,345 thousand**. PSPRS health insurance **$455,488 thousand**. Elected Officials’ Retirement Plan pension **$474,451 thousand**. EORP health insurance **$30,314 thousand**. Corrections Officer Retirement Plan pension **$4,115,311 thousand**. CORP health insurance **$157,809 thousand**. CORP-AOC pension **$831,485 thousand**. CORP-AOC health insurance **$17,910 thousand**. Those eight lines are not interchangeable. Health-insurance books are not the pension books.
 3. **Returns and funded status.** Time-weighted return **11.1 percent** net of fees. Ten-year annualized time-weighted **7.7 percent** net of fees. Money-weighted return **11.13 percent**. Those three official prints are not interchangeable. House Tiers 1 and 2 actuarial-value funded status, pension and OPEB, as of **30 June 2025**: PSPRS **71.3 percent**. CORP **91.7 percent**. EORP **45.9 percent**. Those three funded cards are not interchangeable. PSPRS and CORP are agent multiple-employer plans — the house says an aggregate funded card does not replace each employer’s own funding level.
 
-Do not flatten PSPRS into leftover Arizona State Retirement System or [CalPERS](/calpers-explained-largest-us-pension-fund/). Arizona State Retirement System is a different legal person. This is **one Arizona public-safety administrator file**.
+Do not flatten PSPRS into leftover Arizona State Retirement System, leftover [Phoenix COPERS](/phoenix-copers/), or [CalPERS](/calpers-explained-largest-us-pension-fund/). Arizona State Retirement System is a different legal person. Phoenix COPERS is the civilian city file. This is **one Arizona public-safety administrator file**.
 
 ## What an owner is actually buying
 
 Counsel selling “Arizona PSPRS AUM” has to name the book. The **$24,293,113 thousand** line is the combined fiduciary book. The **$18,210,345 thousand** line is the PSPRS pension book. The **$23,396,653 thousand** line is combined investments. Those are not the same mandate.
 
-Do not 301 this page onto leftover Arizona State Retirement System, `/calpers-explained-largest-us-pension-fund/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto leftover Arizona State Retirement System, `/phoenix-copers/`, `/calpers-explained-largest-us-pension-fund/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -48,5 +48,6 @@ Do not 301 this page onto leftover Arizona State Retirement System, `/calpers-ex
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [CalPERS](/calpers-explained-largest-us-pension-fund/)
 - [Nevada PERS](/nevada-pers/)
+- [Phoenix COPERS](/phoenix-copers/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

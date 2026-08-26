@@ -592,5 +592,10 @@ P1,Santa Barbara County Employees’ Retirement System,allocator,both,/sbcers/,d
 P1,Sonoma County Employees’ Retirement Association,allocator,both,/sonoma-scera/,define,unknown,unknown,unknown,drafted-wave-123,Wave 123. Official FNP $4,330,832 thousand at 31 Dec 2025. Do not mint /scera/
 P1,CAAT Pension Plan,allocator,both,/caat-pension/,define,unknown,unknown,unknown,drafted-wave-123,Wave 123. Official net assets C$25,447 million at 31 Dec 2025. Do not mint /caat/
 P1,OPTrust,allocator,both,/optrust/,define,unknown,unknown,unknown,drafted-wave-123,Wave 123. Official net assets C$27,223 million at 31 Dec 2025. Do not mint /optrust-explained/
+P1,Imperial County Employees’ Retirement System,allocator,both,/icers/,define,unknown,unknown,unknown,drafted-wave-124,Wave 124. Official FNP $1,308,837,826 at 30 Jun 2025. Do not mint /imperial-icers/
+P1,San José Federated City Employees’ Retirement System,allocator,both,/san-jose-federated/,define,unknown,unknown,unknown,drafted-wave-124,Wave 124. Official combined FNP $3,947,899 thousand at 30 Jun 2025. Do not mint /sj-federated/
+P1,San José Police and Fire Department Retirement Plan,allocator,both,/san-jose-police-fire/,define,unknown,unknown,unknown,drafted-wave-124,Wave 124. Official combined FNP $5,966,077 thousand at 30 Jun 2025. Do not mint /sjpf/
+P1,Merced County Employees’ Retirement Association,allocator,both,/mercedcera/,define,unknown,unknown,unknown,drafted-wave-124,Wave 124. Official FNP $1,378,701,813 at 30 Jun 2025. Do not mint /merced-cera/ or /mcera/
+P1,City of Phoenix Employees’ Retirement System,allocator,both,/phoenix-copers/,define,unknown,unknown,unknown,drafted-wave-124,Wave 124. Official FNP $3,913,124 thousand at 30 Jun 2025. Do not mint /copers/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

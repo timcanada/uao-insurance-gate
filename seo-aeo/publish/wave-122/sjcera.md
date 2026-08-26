@@ -28,7 +28,7 @@ The statement of fiduciary net position is the sourced line (in thousands):
 2. **GASB funded cards.** Total pension liability **$6,312,524 thousand**. Net pension liability **$1,025,682 thousand**. Fiduciary net position as a percentage of total pension liability **83.8 percent**. The **31 December 2024** valuation (not the 2025 GASB card) prints market-value funded **76.5 percent** and actuarial-value funded **77.9 percent**. Those 2024 valuation cards are not 2025 funding prints. Those funded cards are not interchangeable.
 3. **Returns.** Net-of-fees / money-weighted return **11.56 percent** against an assumed rate of **6.75 percent**. Three-, five-, and ten-year net returns **10.1 percent**, **7.3 percent**, and **7.7 percent**. Those official prints are not interchangeable.
 
-Do not flatten SJCERA into [LACERA](/lacera/), [OCERS](/ocers/), [SBCERA](/sbcera/), [SBCERS](/sbcers/), [Sonoma SCERA](/sonoma-scera/), or [SamCERA](/samcera/). LACERA is the Los Angeles **County** file. OCERS is the Orange **County** file. SBCERA is the San Bernardino **County** file. SBCERS is the Santa Barbara **County** file. Sonoma SCERA is the Sonoma **County** file. SamCERA is the San Mateo **County** file. This is **one San Joaquin County employee file**.
+Do not flatten SJCERA into [LACERA](/lacera/), [OCERS](/ocers/), [SBCERA](/sbcera/), [SBCERS](/sbcers/), [Sonoma SCERA](/sonoma-scera/), [SamCERA](/samcera/), [ICERS](/icers/), or [MercedCERA](/mercedcera/). LACERA is the Los Angeles **County** file. OCERS is the Orange **County** file. SBCERA is the San Bernardino **County** file. SBCERS is the Santa Barbara **County** file. Sonoma SCERA is the Sonoma **County** file. SamCERA is the San Mateo **County** file. This is **one San Joaquin County employee file**.
 
 ## What an owner is actually buying
 
@@ -53,5 +53,7 @@ Do not 301 this page onto `/lacera/`, `/ocers/`, `/sbcera/`, `/samcera/`, or `/l
 - [SBCERS](/sbcers/)
 - [Sonoma SCERA](/sonoma-scera/)
 - [SamCERA](/samcera/)
+- [ICERS](/icers/)
+- [MercedCERA](/mercedcera/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

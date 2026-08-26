@@ -27,7 +27,7 @@ The statement of fiduciary net position is the sourced line (in thousands):
 2. **GASB versus actuarial funded cards.** Total pension liability **$4,069,702 thousand**. Fiduciary net position as a percentage of total pension liability **106.42 percent**. The actuarial funded ratio **94.6 percent** uses a different methodology. Those two funded cards are not interchangeable.
 3. **Returns.** Time-weighted return **18.22 percent** against an assumed rate of **6.75 percent**. Money-weighted return **16.67 percent** net of pension-plan investment expense. Those two official one-year prints are not interchangeable.
 
-Do not flatten Sonoma SCERA into [Sacramento County](/sacramento-scers/), [SBCERS](/sbcers/), [SBCERA](/sbcera/), or [SJCERA](/sjcera/). Sacramento County is a different 1937-Act file. SBCERS is Santa Barbara **County**. This is **one Sonoma County employee file**.
+Do not flatten Sonoma SCERA into [Sacramento County](/sacramento-scers/), [SBCERS](/sbcers/), [SBCERA](/sbcera/), [SJCERA](/sjcera/), [ICERS](/icers/), or [MercedCERA](/mercedcera/). Sacramento County is a different 1937-Act file. SBCERS is Santa Barbara **County**. This is **one Sonoma County employee file**.
 
 ## What an owner is actually buying
 
@@ -49,5 +49,7 @@ Do not 301 this page onto `/sacramento-scers/`, `/sbcers/`, `/sjcera/`, or `/lar
 - [Sacramento County](/sacramento-scers/)
 - [SBCERS](/sbcers/)
 - [SJCERA](/sjcera/)
+- [ICERS](/icers/)
+- [MercedCERA](/mercedcera/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

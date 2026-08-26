@@ -177,6 +177,9 @@ P1,private credit direct lending,allocator,both,/private-credit-direct-lending/,
 P1,private credit strategies types,allocator,both,/private-credit-strategies-types/,define,unknown,unknown,unknown,refresh-drafted,Live $1.8-2.0T / Yale $51.2bn / GIC $858bn. Official Yale $44.1bn / no GIC AUM. Wave 39
 P1,direct lending vs syndicated loans,allocator,both,/direct-lending-vs-syndicated-loans/,compare,unknown,unknown,unknown,refresh-drafted,Live Ares $360bn / LSTA $1.3T. Twin invents CalPERS $440bn. Official $637.1bn. 301 BSL twin. Wave 39
 P1,secondaries market size 2026,allocator,both,/secondaries-market-size-2026/,define,unknown,unknown,unknown,refresh-drafted,Live $150-180bn / Temasek $1.13T / PIF $925bn. Official Temasek S$518bn. Do not mint 2027 twin. Wave 39
-P2,what is an OCIO,allocator,both,/what-is-an-ocio/,define,unknown,unknown,unknown,live-check,
-P2,single family office vs multi family office,allocator,both,/single-vs-multi-family-office/,define,unknown,unknown,unknown,live-check,
+P1,secondaries continuation fund,allocator,both,/secondaries-continuation-fund/,define,unknown,unknown,unknown,refresh-drafted,Live CalPERS $468bn / Yale $41.4bn / USS $70bn. Twin invents GPIF $1.1T. Official $637.1bn / $44.1bn / yen. 301 what-is twin. Wave 40
+P1,private equity secondaries,allocator,both,/private-equity-secondaries-explained/,define,unknown,unknown,unknown,refresh-drafted,Live leftover $225-240bn / $327bn / $477bn. Official house AUM. Wave 40
+P1,GP-led secondaries,allocator,both,/gp-led-secondaries-explained/,define,unknown,unknown,unknown,refresh-drafted,Live leftover $45bn / CPP 4-5%. Official $637.1bn / C$793.3bn. Wave 40
+P1,what is an OCIO,allocator,both,/what-is-an-ocio/,define,unknown,unknown,unknown,refresh-drafted,Live leftover $2.5T / $5.8T / Russell $355bn. Official house AUM. Wave 40
+P1,single family office vs multi family office,allocator,both,/single-vs-multi-family-office/,define,unknown,unknown,unknown,refresh-drafted,Live leftover $5.2T MFO. No official FO AUM. Wave 40
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,live-check,

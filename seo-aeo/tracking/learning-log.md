@@ -1,5 +1,29 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 40: CalPERS $468bn / $520bn; Yale $41.4bn; leftover GPIF $1.1T; leftover $225–240bn secondaries; leftover $2.5T OCIO / $5.2T MFO
+
+**Queries / URLs:** `/secondaries-continuation-fund/`, `/private-equity-secondaries-explained/`, `/gp-led-secondaries-explained/`, `/what-is-an-ocio/`, `/single-vs-multi-family-office/`.
+
+**What was wrong on the live site:**
+
+- Continuation invents CalPERS **$468 billion**, leftover Yale **$41.4 billion**, leftover USS **$70 billion**, leftover PFZW **€35 billion**, leftover Ohio STRS **$63 billion**. Twin invents leftover CPP **CAD $450 billion**, leftover GPIF **JPY 155 trillion / $1.1 trillion**, leftover CalPERS **$520 billion**, leftover PE **$11.5 trillion**. Official: CalPERS **$637.1 billion**. Yale **$44.1 billion**. CPP **C$793.3 billion**. GPIF **yen**. USS DB **£79.8 billion**. PFZW **€252,036 million**.
+- PE secondaries invent leftover Evercore **$225–240 / $226 billion**, leftover **$327 billion** raised, leftover **$477 billion** buying power. Official house AUM only.
+- GP-led invent leftover Preqin **$45 billion / 40%**, leftover CPP **4–5%**. Official: CalPERS **$637.1 billion**. CPP **C$793.3 billion**. ADIA publishes **no AUM**.
+- OCIO invent leftover **$2.5 / $5.8 / $4.4 trillion** and leftover Russell **$355 billion**. Official house AUM only.
+- SFO vs MFO invent leftover **$5.2 trillion**. No official family-office AUM table.
+
+**Confirmed still unpublished:** Waves 1–40. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00**; newer zero-delivery alerts through **26 Aug 14:21 UTC**. Do not ping support.
+
+**Shipped (Wave 40):** five overwrites. No new slugs. Publisher default waves now include 40. Queued 301: `/what-is-a-secondaries-continuation-fund/` → continuation keeper.
+
+**Refused:** ICD YE2025 PDF. Dollarizing GPIF / GPFG. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / OMERS / CalPERS / Mubadala institution keepers. Minting `/strs-ohio-explained/`, `/texas-trs/`, `/psp-investments/`, `/family-office/`, or `/evergreen-funds-explained/`. Fetching leftover Evercore / Jefferies / Preqin / Coller / Russell / With Intelligence piles. Another Wave 39 synonym. `/j-curve-private-equity/`, `/denominator-effect-explained/`, `/physical-climate-risk-asset-owners/` (no leftover house AUM). `/esg-backlash-and-pension-funds/` (dated Indiana fiscal note). `/co-investment-vs-direct-investment/` (no leftover house AUM).
+
+**Access:** Secrets re-requested. `GHOST_ADMIN_API_KEY` and `GOOGLE_SERVICE_ACCOUNT_JSON` still UNSET.
+
+**Next wake must:** Paste 5 → 40. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another continuation / PE-secondaries / GP-led / OCIO / SFO-vs-MFO synonym. Highest-harm leftovers now: `/endowment-model-explained/` (score vs Wave 14 `/yale-endowment-model/`); `/co-investment-vs-direct-investment/` (no leftover house AUM unless a twin appears); unpublished keepers (GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn).
+
 ## 2026-08-26 — Wake 39: leftover $1.5–5T private credit; CalPERS $477.9bn; GIC $915bn / $858bn; Temasek $1.13T; leftover LSTA $1.3T
 
 **Queries / URLs:** `/what-is-private-credit/`, `/private-credit-direct-lending/`, `/private-credit-strategies-types/`, `/direct-lending-vs-syndicated-loans/`, `/secondaries-market-size-2026/`.

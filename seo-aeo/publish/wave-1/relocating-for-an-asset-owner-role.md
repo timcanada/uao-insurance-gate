@@ -5,7 +5,7 @@ type: careers
 desk: careers
 audience: both
 primary_keyword: "relocating for sovereign wealth fund job"
-answer_block: "Moving city for a sovereign fund, public pension, endowment or family office is not a banking posting with a different logo. The horizon, the accountability and the reason the institution sits where it sits all change. This Careers Intelligence briefing is the umbrella for Universal Asset Owners' city pages — Abu Dhabi, Singapore, Oslo, Toronto, London, Riyadh and the desks that follow. It is not immigration or tax advice."
+answer_block: "Moving city for a sovereign fund, public pension, endowment or family office is not a banking posting with a different logo. The horizon, the accountability and the reason the institution sits where it sits all change. This Careers Intelligence briefing is the umbrella for Universal Asset Owners' city pages — Abu Dhabi, Singapore, Oslo, Toronto, London, Riyadh, New York, Boston, San Francisco, Sacramento, Montréal and the desks that follow. It is not immigration or tax advice."
 sources:
   - https://www.universalassetowners.com/careers/intelligence/moving-into-a-sovereign-wealth-fund/
   - https://www.ifswf.org/
@@ -15,7 +15,7 @@ editor_status: draft
 
 # Relocating for an asset-owner role — what actually changes
 
-Moving city for a sovereign fund, public pension, endowment or family office is not a banking posting with a different logo. The horizon, the accountability and the reason the institution sits where it sits all change. This Careers Intelligence briefing is the umbrella for Universal Asset Owners' city pages — Abu Dhabi, Singapore, Oslo, Toronto, London, Riyadh and the desks that follow. It is not immigration or tax advice.
+Moving city for a sovereign fund, public pension, endowment or family office is not a banking posting with a different logo. The horizon, the accountability and the reason the institution sits where it sits all change. This Careers Intelligence briefing is the umbrella for Universal Asset Owners' city pages — Abu Dhabi, Singapore, Oslo, Toronto, London, Riyadh, New York, Boston, San Francisco, Sacramento, Montréal and the desks that follow. It is not immigration or tax advice.
 
 ## The move is part of the mandate
 
@@ -39,6 +39,11 @@ If you treat the city as a lifestyle upgrade, you will misread the job. Owners a
 - [Toronto](/careers/cities/toronto/)
 - [London](/careers/cities/london/)
 - [Riyadh](/careers/cities/riyadh/)
+- [New York](/careers/cities/new-york/)
+- [Boston](/careers/cities/boston/)
+- [San Francisco](/careers/cities/san-francisco/)
+- [Sacramento](/careers/cities/sacramento/)
+- [Montréal](/careers/cities/montreal/)
 
 ## For employers and search firms
 

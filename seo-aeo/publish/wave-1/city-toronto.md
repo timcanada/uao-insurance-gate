@@ -23,7 +23,7 @@ Toronto is the headquarters city of the Canadian pension model people keep tryin
 - [CPP Investments](https://www.cppinvestments.com/) — Toronto HQ; global offices.
 - [Ontario Teachers' Pension Plan](https://www.otpp.com/) — Toronto HQ; London and other offices.
 
-PSP Investments is Montreal-centred. AIMCo is Alberta-centred. Do not tell a candidate “Toronto” if the desk is elsewhere. OMERS and others belong on the institution graph as they are profiled — link official sites, not rumours.
+PSP Investments has its headquarters in Ottawa and its principal business office in [Montréal](/careers/cities/montreal/). AIMCo is Alberta-centred. Do not tell a candidate “Toronto” if the desk is elsewhere. OMERS and others belong on the institution graph as they are profiled — link official sites, not rumours.
 
 ## Why the move has prestige — and friction
 
@@ -37,3 +37,4 @@ Canadian plans pay for people who can sit on both sides of a co-invest. Housing 
 
 - [Is CPP Investments a sovereign wealth fund?](/is-cpp-investments-a-sovereign-wealth-fund/)
 - [CPP Investments, explained](/cpp-investments-explained/)
+- [Relocating to Montréal](/careers/cities/montreal/)

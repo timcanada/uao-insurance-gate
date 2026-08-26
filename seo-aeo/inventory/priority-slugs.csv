@@ -204,11 +204,11 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,person,people/allocator-class/swib-cio,SWIB CIO,allocator,brief,P0,needed,Verify current title from official source on the day of publish
 2,person,people/allocator-class/aimco-ceo,AIMCo CEO,allocator,brief,P0,refresh-drafted,Ray Gilmour named CEO on AIMCo 2025 results; Justin Lord CIO. Do not mint a person URL until there is a third sourced fact-set
 2,person,people/allocator-class/omers-cio,OMERS CIO,allocator,brief,P0,needed,Verify current title from official source on the day of publish
-2,city,careers/cities/new-york,Relocating to New York for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
-3,city,careers/cities/boston,Relocating to Boston for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
-3,city,careers/cities/san-francisco,Relocating to San Francisco for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
-3,city,careers/cities/sacramento,Relocating to Sacramento for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
-3,city,careers/cities/montreal,Relocating to Montréal for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+84,city,careers/cities/new-york,Relocating to New York for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 84 city. Do not 301 onto NYC CRS or NYSCRF. Do not mint /new-york-city/. Public rules only
+84,city,careers/cities/boston,Relocating to Boston for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 84 city. Do not mint /harvard-endowment-explained/. Public rules only
+84,city,careers/cities/san-francisco,Relocating to San Francisco for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 84 city. Do not 301 onto CalPERS. Do not mint /sfers/. Public rules only
+84,city,careers/cities/sacramento,Relocating to Sacramento for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 84 city. Do not 301 onto CalPERS or CalSTRS. Public rules only
+84,city,careers/cities/montreal,Relocating to Montréal for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 84 city. Do not mint /psp-investments/. Public rules only
 3,city,careers/cities/calgary,Relocating to Calgary for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
 3,city,careers/cities/vancouver,Relocating to Vancouver for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
 2,city,careers/cities/dubai,Relocating to Dubai for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice

@@ -1,5 +1,24 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 84: city pages — New York, Boston, San Francisco, Sacramento, Montréal
+
+**Queries / URLs:** `/careers/cities/new-york/`, `/careers/cities/boston/`, `/careers/cities/san-francisco/`, `/careers/cities/sacramento/`, `/careers/cities/montreal/`.
+
+**What was wrong on the live site:**
+
+- Leftover official-filing house-AUM keepers remain exhausted after Wave 80. Wave 83 shipped the five remaining careers-intelligence P1s. The five Wave 1-style city pages were still `needed` and live **404** (confirmed 26 Aug). Six Wave 1 cities remain unpublished.
+- Toronto Wave 1 draft still said PSP was “Montreal-centred.” Official Wave 16: Ottawa HQ, Montréal principal business office. Corrected this wake.
+
+**Confirmed still unpublished:** Waves 1–84. `/directory/` **404**. Wave 1 + Wave 84 city pages still 404. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00**. Do not ping support.
+
+**Shipped (Wave 84):** five city pages. Relocating hub now lists them. No leftover 301s. Publisher default waves now include 84.
+
+**Refused:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ / USS / ATP / Khazanah. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / CDPQ / OMERS / CalPERS / CalSTRS / Mubadala / Temasek / Future Fund / Alaska / ADIA / GIC / BCI / GPIF / CPP / Texas TRS / PIF / QIA / Australian Super / Aware Super / KIC / UniSuper / CIC / ADQ / Cbus / AIMCo / NZ Super / KIA / Khazanah / PSP / NYC CRS institution keepers. Another fiduciary-archive child or leftover synonym explainer. `/careers/intelligence/cio-compensation-public-plans/` (do not invent pay). `/careers/cities/calgary/` (next city). Minting `/harvard-endowment-explained/`, `/harvard-management-company/`, `/psp-investments/`, `/aimco-explained/`, `/family-office/`, `/sfers/`, `/new-york-city/`, `/niif/`, or `/khazanah-explained/`. Inventing SFERS, PRIM, ADIA, KIA, QIA, SAFE, or AIMCo AUM. People/CEO pages. Dated news.
+
+**Next wake must:** Paste Wave 1 directory + cities + relocating, Wave 84 cities, Wave 81–83 hubs, then 5 → 79 keepers including `/new-york-city-crs/`. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another leftover synonym explainer. Next city/careers gap: `/careers/cities/calgary/` (AIMCo Alberta — do not mint `/aimco-explained/`), then remaining Wave 3 city P1s if any, then podcast/advertiser rotation. Skip compensation until sourced. Highest-harm unpublished leftovers remain: GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn.
+
 ## 2026-08-26 — Wake 83: dual-career Gulf; boarding an IC; London satellites; deputy CIO; public-plan succession
 
 **Queries / URLs:** `/careers/intelligence/dual-career-moves-gulf/`, `/careers/intelligence/boarding-an-investment-committee/`, `/careers/intelligence/why-london-satellites-fail/`, `/careers/intelligence/onboarding-a-deputy-cio/`, `/careers/intelligence/succession-inside-a-public-plan/`.

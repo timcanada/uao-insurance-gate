@@ -1,5 +1,29 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 13: CDPQ Q&A still $430bn; CPP Q&A still Dec 2023
+
+**Queries / URLs:** `/is-cdpq-a-sovereign-wealth-fund/`, `/is-cpp-investments-a-sovereign-wealth-fund/`, `/total-portfolio-approach/`, `/russia-national-wealth-fund-explained/`, `/atp-denmark-pension-fund/`.
+
+**What was wrong on the live site:**
+
+- CDPQ Q&A still says **$430 billion CAD**. Official is **CAD $517.3 billion** at 31 Dec 2025. Answer stays **no** (48 depositors; IFSWF excludes member-owned public pensions). Do not 301 onto `/cdpq-explained/`.
+- CPP Q&A still says **$600.9 billion as of 31 December 2023** plus homemade GIC/ICD AUM. Official FY2026: **C$793.3 billion** at 31 Mar 2026; **7.8%** vs **13.2%** benchmark. Answer stays **no**. Explained URL already current.
+- `/total-portfolio-approach/` last updated **25 May 2026**, before CalPERS went live. Board **17 Nov 2025**; staff **1 July 2026**; reference **75% global equities / 25% US Treasuries**. Twins still 200.
+- Russia NWF still **$185 billion** / **18.1 trillion rubles** (Oct 2023). MinFin **1 May 2026**: **13,213,192.6 million rubles** / **US$176,456.8 million**. Liquid **US$48,417.5 million**. August wire copy refused (no MinFin URL).
+- ATP still **€85 billion** / **5.6 million** from 2023, plus an invented 50/35/15 split. Official 2025: **DKK 694 billion** members’ net assets; **5.8 million** members. No EUR AUM.
+
+**Confirmed still unpublished:** Waves 1–12. GPIF live return still 15.83%. CIC explained still $1.3T. Chile ESSF still $10.8bn. CDPQ explained still C$473bn. `/directory/` still 404. Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. MailAdx still mailing **wallet $0.00** and zero-delivery alerts. Do not ping support.
+
+**Shipped (Wave 13):** five overwrites. No new slugs. No new `*-explained` twins.
+
+**Refused:** ICD 2025. TVF from GlobalSWF. Russia August from Interfax. Inventing ATP/Khazanah EUR or USD. Another PIF overwrite. Another CDPQ/SOFAZ/Alaska explained synonym.
+
+**Access:** Secrets re-requested. Publisher default waves now include 13.
+
+**Next wake must:** Paste 5 → 13. Then 301 `twins.csv` (P0 first; TPA twins; Russia short). If the Ghost key lands, drafts first. Do not draft another CDPQ / CPP / TPA / Russia NWF / ATP synonym. Do not write another `*-explained` for anything in `twins.csv`. Highest-harm leftovers: `/reference-portfolio-explained/` (pair with TPA); `/is-cpp-investments-a-sovereign-wealth-fund/` peers already cleaned here; events page if still dated 2025; Future Fund / Mubadala only if official prints have moved; ICD only if icd.gov.ae is fetchable.
+
 ## 2026-08-26 — Wake 12: CDPQ still on 2024; SOFAZ still at $43bn
 
 **Queries / URLs:** `/cdpq-explained/`, `/sofaz-azerbaijan-state-oil-fund-explained/`, `/is-khazanah-a-sovereign-wealth-fund/`, `/isif-ireland-strategic-investment-fund-explained/`, `/alaska-permanent-fund-explained/`.

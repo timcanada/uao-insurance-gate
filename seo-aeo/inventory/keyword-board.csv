@@ -3,7 +3,7 @@ P0,sovereign wealth fund,allocator,both,/sovereign-wealth-fund/,define,not-top5,
 P0,what is a sovereign wealth fund,allocator,both,/sovereign-wealth-fund/,define,not-top5,unknown,unknown,refresh-drafted,Same SERP as above
 P0,largest sovereign wealth funds,allocator,both,/largest-sovereign-wealth-funds/,list,uao-twin-ranks,unknown,unknown,refresh-drafted,26 Aug web: Google surfaces /the-worlds-largest-sovereign-wealth-funds-2026/. Three twins still 200. Wave 5 keeper refresh ready; 301 after paste
 P0,largest pension funds in the world,allocator,both,/largest-pension-funds-in-the-world/,list,uao-1-websearch,unknown,unknown,refresh-drafted,26 Aug web: UAO first. Wave 5 refresh uses official GPIF yen + NBIM kroner
-P0,largest asset owners in the world,allocator,both,/largest-asset-owners-in-the-world/,list,uao-1-websearch,unknown,unknown,live-ok,26 Aug web: UAO first. Title still says 2025; refresh later if still stale
+P0,largest asset owners in the world,allocator,both,/largest-asset-owners-in-the-world/,list,uao-1-websearch,unknown,unknown,refresh-drafted,26 Aug web: UAO first. Live title still (2025). Wave 6 overwrite ready
 P0,what is a family office,allocator,both,/what-is-a-family-office/,define,not-top5,unknown,unknown,refresh-drafted,26 Aug web: Investopedia/WSJ/banks. Wave 3 refresh ready
 P0,temasek vs gic,allocator,both,/temasek-vs-gic-difference/,compare,uao-1-websearch,unknown,unknown,refresh-drafted,July GSC 5 clicks; UAO first in 26 Aug web results; GIC 2025/26 numbers now in Wave 4
 P0,gic vs temasek,allocator,both,/temasek-vs-gic-difference/,compare,uao-1-websearch,unknown,unknown,refresh-drafted,July GSC 5 clicks; same URL

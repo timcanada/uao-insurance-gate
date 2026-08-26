@@ -1,0 +1,37 @@
+priority,keep,redirect,cluster,live_check_2026-08-26,notes
+P0,/largest-sovereign-wealth-funds/,/the-worlds-largest-sovereign-wealth-funds-2026/,swf-list,200/200,Google is ranking the twin
+P0,/largest-sovereign-wealth-funds/,/largest-sovereign-wealth-funds-2026/,swf-list,200/200,Factually harmful (GPIF as SWF)
+P0,/universal-owner/,/what-is-a-universal-asset-owner/,define,200/200,Short slug already owns the query
+P0,/santiago-principles/,/santiago-principles-explained/,define,200/200,Both listed on /llms/
+P0,/total-portfolio-approach/,/total-portfolio-approach-investing/,define,200/200,Both listed on /llms/
+P0,/total-portfolio-approach/,/what-is-the-total-portfolio-approach/,define,200/200,
+P1,/gic-singapore-explained/,/gic-singapore/,institution,200/200,Wave 4 overwrites the explained URL
+P1,/cpp-investments-explained/,/cpp-investments/,institution,200/200,Explained already has FY2026 C$793.3bn
+P1,/china-investment-corporation-cic-explained/,/china-investment-corporation-cic/,institution,200/200,
+P1,/ontario-teachers-pension-plan-explained/,/ontario-teachers-pension-plan/,institution,200/200,
+P1,/wisconsin-investment-board-swib-explained/,/wisconsin-investment-board-swib/,institution,200/200,
+P1,/wisconsin-investment-board-swib-explained/,/wisconsin-swib/,institution,200/200,Third twin
+P1,/uss-universities-superannuation-scheme/,/uss-universities-superannuation-scheme-explained/,institution,200/200,Keep short; 301 explained + uk-explained
+P1,/uss-universities-superannuation-scheme/,/uss-universities-superannuation-scheme-uk-explained/,institution,200/200,
+P1,/investment-corporation-of-dubai-icd-explained/,/investment-corporation-of-dubai-icd/,institution,200/200,
+P1,/oman-investment-authority-explained/,/oman-investment-authority/,institution,200/200,
+P1,/turkey-wealth-fund-explained/,/turkey-wealth-fund/,institution,200/200,
+P1,/samruk-kazyna-kazakhstan-explained/,/samruk-kazyna-kazakhstan/,institution,200/200,
+P1,/new-zealand-superannuation-fund-explained/,/new-zealand-superannuation-fund/,institution,200/200,
+P1,/mumtalakat-bahrain-explained/,/mumtalakat-bahrain/,institution,200/200,
+P1,/hkma-exchange-fund-hong-kong-explained/,/hkma-exchange-fund-hong-kong/,institution,200/200,
+P1,/chile-economic-and-social-stabilization-fund-explained/,/chile-economic-and-social-stabilization-fund/,institution,200/200,
+P1,/russia-national-wealth-fund-explained/,/russia-national-wealth-fund/,institution,200/200,
+P1,/australian-retirement-trust-explained/,/australian-retirement-trust/,institution,200/200,
+P1,/new-york-state-common-retirement-fund-explained/,/new-york-state-common-retirement-fund/,institution,200/200,
+P1,/texas-permanent-school-fund-explained/,/texas-permanent-school-fund/,institution,200/200,
+P2,/reference-portfolio-explained/,/what-is-a-reference-portfolio/,define,200/200,/reference-portfolio/ already 404
+P2,/yale-endowment-model/,/what-is-the-yale-endowment-model/,define,200/200,
+P2,/liability-driven-investing-explained/,/what-is-liability-driven-investing/,define,200/200,
+P2,/future-generations-fund/,/what-is-a-future-generations-fund/,define,200/200,/future-generations-funds/ (plural) is 404 and still listed on /llms/
+P2,/strategic-investment-fund/,/what-is-a-strategic-investment-fund/,define,200/200,/strategic-investment-funds/ (plural) is 404 and still listed on /llms/
+P2,/private-credit-direct-lending/,/what-is-private-credit-direct-lending/,define,200/200,
+P2,/private-credit-market-size/,/what-is-private-credit-market-size/,define,200/200,
+P2,/secondaries-continuation-fund/,/what-is-a-secondaries-continuation-fund/,define,200/200,
+P2,/asset-owner-events-conferences/,/asset-owner-events-conferences-2026/,events,200/200,Do not mint a 2027 twin; update the keeper
+P3,/asset-owner-vs-asset-manager-explained/,/careers/intelligence/asset-owner-vs-asset-manager/,careers,200/200,Different templates; 301 only if the careers URL is a thin copy

@@ -14,8 +14,8 @@ Once those secrets are in, this agent publishes Wave 1–5 as Ghost drafts (or l
 
 1. Read `prompts/v4-FINAL.md` once. That is now the standing brief for every growth agent.
 2. Editor pass on `publish/wave-1/` — especially visa/tax language and any institution name that has moved.
-3. If Ghost API is not in yet, paste in this order: **Wave 5 keeper** (`/largest-sovereign-wealth-funds/`) → **then** 301 the twins → Wave 4 GSC winners → Wave 3 define refreshes → Wave 1–2 new slugs. Prefer the API (`tools/publish_to_ghost.py`).
-4. 301 the twin explainers in `publish/wave-3/merge-brief.md`. Highest cost: the year-stamped SWF URLs (Google is ranking the long twin) and `/what-is-a-universal-asset-owner/` → `/universal-owner/`.
+3. If Ghost API is not in yet, paste in this order: **Wave 5 keeper** (`/largest-sovereign-wealth-funds/`) → **then** 301 the twins → **Wave 6** (`/largest-asset-owners-in-the-world/` — drop the 2025 title) → Wave 4 GSC winners → Wave 3 define refreshes → Wave 1–2 new slugs. Prefer the API (`tools/publish_to_ghost.py`).
+4. 301 the twin explainers in `inventory/twins.csv` / `publish/wave-3/merge-brief.md`. Highest cost: the year-stamped SWF URLs (Google is ranking the long twin) and `/what-is-a-universal-asset-owner/` → `/universal-owner/`. Then the institution `*-explained` vs short-slug farm. Strip losers from `/llms/` (`publish/wave-6/llms-canonical-patch.md`) — the live TOC lists twins **and** two 404 plurals.
 5. Upgrade `/advertise/` and `/press-desk/` from the drafts (they overwrite thin live pages).
 6. Put `/llms/` patch live.
 7. Paste Wave 4 over the live GSC winners (`publish/wave-4/INDEX.md`) — Temasek vs GIC is stale on GIC’s 24 Jul 2026 report.

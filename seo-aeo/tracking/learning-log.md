@@ -1,5 +1,33 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 4: the (2025) title and the twin farm
+
+**Query we tried to own:** `largest asset owners in the world`. Secondary: stop teaching answer engines two URLs per entity.
+
+**What already ranks (26 Aug web search):**
+
+- `largest asset owners in the world` — UAO **#1** on `/largest-asset-owners-in-the-world/`. Live **title still says (2025)**. Body still quotes GPIF “~$1.6T”, CIC as an estimate (official is US$1.57T total / 1.37T net YE2024), and NBIM “Q1 ~NOK 20T” (official H1 is 22,683bn NOK at 30 Jun 2026).
+- CPP Investments *explained* page is already on C$793.3bn FY2026 — do not twin it. Short `/cpp-investments/` is also 200.
+- Yahoo/Bing web search for `what is a universal owner` did not return UAO in this environment (Yahoo finance noise). Google still does. Do not invent a Bing rank.
+
+**Sitemap twin farm (127 pages + 1,136 posts):**
+
+Institution pattern is systematic: `/name/` and `/name-explained/` both 200 for CIC, GIC, CPP, OTPP, ICD, OIA, Turkey, Samruk, NZ Super, Mumtalakat, HKMA, Chile ESSF, Russia NWF, ART, NY Common, Texas PSF, plus **three** USS URLs and **three** SWIB URLs. Franchise twins from wake 3 still 200.
+
+`/llms/` currently lists **both** Santiago URLs, **both** TPA URLs, **both** universal-owner URLs, and two **404** plurals (`/future-generations-funds/`, `/strategic-investment-funds/`). That is an AEO own-goal.
+
+**Official numbers reused (not new inventions):**
+
+- Same NBIM / GPIF / CIC / PIF / Temasek / Mubadala / Future Fund / KIC / PSP set as Wave 5.
+- CPP Investments: **C$793.3 billion** net assets at 31 Mar 2026; +C$78.9bn (C$56.9bn income + C$22.0bn transfers); 7.8% FY net; 10-year 8.8%. Source: 20 May 2026 CNW release. Live explained page already has this.
+- TAI AO100: US$29.3T at **end-2024** — keep the vintage on the page so the title cannot say 2025.
+
+**Shipped:** Wave 6 overwrite for the asset-owners keeper; `inventory/twins.csv`; `/llms/` canonical patch. One new public draft. No new slugs.
+
+**Access / MailAdx:** Unchanged. No Ghost key. No MailAdx support reply. No newer GSC click mail than 700 / 18 Aug.
+
+**Next wake must:** Paste Wave 5 then Wave 6. 301 P0 twins. Strip `/llms/`. If the Ghost key lands, publish drafts. Do not write another `*-explained` twin for any institution already in `twins.csv`.
+
 ## 2026-08-26 — Wake 3: Google is ranking the wrong twin
 
 **Query we tried to own:** `largest sovereign wealth funds` / `largest sovereign wealth funds 2026`. Secondary: protect `largest pension funds in the world`.

@@ -7,7 +7,7 @@ Requires:
 
 Usage:
   python3 seo-aeo/tools/publish_to_ghost.py --wave 1
-  python3 seo-aeo/tools/publish_to_ghost.py --wave 1 --wave 2 --wave 3 --wave 4 --wave 5 --live
+  python3 seo-aeo/tools/publish_to_ghost.py --wave 1 --wave 2 --wave 3 --wave 4 --wave 5 --wave 6 --live
 Without --live, posts are created as drafts in Ghost (safe test).
 """
 
@@ -28,7 +28,7 @@ except ImportError:
 
 ROOT = Path(__file__).resolve().parents[1]
 PUBLISH = ROOT / "publish"
-SKIP = {"INDEX.md", "llms-patch.md", "merge-brief.md"}
+SKIP = {"INDEX.md", "llms-patch.md", "llms-canonical-patch.md", "merge-brief.md"}
 
 
 def token(admin_key: str) -> str:
@@ -253,7 +253,7 @@ def main() -> None:
             "GHOST_ADMIN_API_KEY is missing. In Ghost Admin: Settings → Integrations → "
             "Add custom integration → copy Admin API Key into this environment."
         )
-    waves = args.wave or ["1", "2", "3", "4", "5"]
+    waves = args.wave or ["1", "2", "3", "4", "5", "6"]
     files: list[Path] = []
     for w in waves:
         d = PUBLISH / f"wave-{w}"

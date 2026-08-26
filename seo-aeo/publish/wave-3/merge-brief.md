@@ -28,8 +28,16 @@ Rechecked live 26 August 2026 (wake 3). All of these still return HTTP 200 unles
 
 ## Already resolved
 
-- `/reference-portfolio/` is **404**. Keep `/reference-portfolio-explained/` as canonical (or 301 the explained slug to a shorter URL later — one move, not two).
+- `/reference-portfolio/` is **404**. Keep `/reference-portfolio-explained/` as canonical (or 301 the explained slug to a shorter URL later — one move, not two). `/what-is-a-reference-portfolio/` is still 200 — 301 that too.
+
+## Institution twins (P1 — after the franchise 301s)
+
+Sitemap scan 26 Aug 2026 (127 pages + 1,136 posts). Full machine list: `inventory/twins.csv`.
+
+Pattern: almost every institution has `/name/` **and** `/name-explained/`. Both 200. Keep the URL already on `/llms/` (usually `*-explained`). 301 the short duplicate. Same for USS (three URLs) and SWIB (three URLs).
+
+Do not write a third “explained” page for any of these.
 
 ## After 301
 
-Update `/llms/` so only the canonical is listed. Refresh the canonical’s answer block and as-of dates. Do not write a fourth “largest SWF 2027” page; update the one URL.
+Update `/llms/` so only the canonical is listed (`publish/wave-6/llms-canonical-patch.md`). Refresh the canonical’s answer block and as-of dates. Do not write a fourth “largest SWF 2027” page; update the one URL.

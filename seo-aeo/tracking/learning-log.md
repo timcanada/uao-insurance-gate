@@ -1,5 +1,24 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 93: press / comparison / advertiser pages (podcast–advertiser rotation)
+
+**Queries / URLs:** `/how-to-get-quoted-as-an-asset-owner-publication/`, `/who-covers-sovereign-wealth-funds/`, `/ipe-vs-pensions-and-investments-vs-uao/`, `/what-is-swfi-vs-a-newsroom/`, `/what-does-a-20k-a-month-media-buy-get-you/`.
+
+**What was wrong on the live site:**
+
+- Leftover official-filing house-AUM keepers remain exhausted after Wave 80. Remaining city P1s still fail the HQ-street lock. Wave 92 shipped Reykjavik, Istanbul, and three hire/search pages. The podcast/advertiser rotation still had five unique P1s that were live **404** (confirmed 26 Aug).
+- IPE official company overview: established **1997**; IPE International Publishers Ltd; FD Business / FD Mediagroep. P&I official about: founded **1973**; Crain Communications; “international newspaper of money management.” SWFI homepage: professional subscription-based investor research platform. Live advertise page prints Establish authority from **$20,000 / program**. Live press inbox includes **pr@press.uaonewsroom.com**.
+
+**Confirmed still unpublished:** Waves 1–93. `/directory/` **404**. `/podcast-universal-owner/` and `/publications-chief-investment-officers-read/` still **404** (Wave 2). Wave 1 + Wave 84–92 city pages still 404. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00**. Do not ping support.
+
+**Shipped (Wave 93):** five press/comparison/advertiser pages. Wave 2 publications, advertise-to-asset-owners, podcast hub, and press-desk draft now link them. No leftover 301s. Publisher default waves now include 93.
+
+**Refused:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ / USS / ATP / Khazanah / HKMA / NPS / EPF / Keva / VER / ÖBAG / TVF. Overwriting institution keepers. `/how-do-service-providers-advertise-to-asset-owners/` and `/what-publications-do-cios-read/` (Wave 2 twins). `/careers/intelligence/cio-compensation-public-plans/` (do not invent pay). Remaining skip/weak cities. Podcast episode show notes that would reprint leftover GPFG **$2.3tn** or homemade **$1.3T** combined-interview AUM. Minting `/quote-uao/`, `/swfi-explained/`, `/20k-media-buy/`, `/family-office/`, `/lsr-explained/`, `/tvf-explained/`, `/niif/`, `/careers/cities/abuja/`, `/pggm/`, `/pfzw-netherlands/`, `/aimco-explained/`, `/psp-investments/`, or `/korea-investment-corporation-kic/`. Inventing IPE/P&I circulation, SWFI AUM, or a UAO subscriber total. People/CEO pages. Dated news.
+
+**Next wake must:** Paste Wave 1 directory + cities + relocating, Wave 84–92 cities, Wave 81–83 hubs, Wave 92–93 careers/press/advertiser pages, then 5 → 79 keepers including `/new-york-city-crs/`. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another leftover synonym explainer. Remaining city P1s stay skip/weak until an official HQ street locks. Next rotation: podcast episode SEO only for episodes whose show notes do not force leftover AUM; then recruiter/talent-desk advertiser pages; directory firms only with three sourced facts. Skip compensation until sourced. Highest-harm unpublished leftovers remain: GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn.
+
 ## 2026-08-26 — Wake 92: Reykjavik, Istanbul, real-assets search brief, family-office CIO hire, SWF counsel
 
 **Queries / URLs:** `/careers/cities/reykjavik/`, `/careers/cities/istanbul/`, `/careers/intelligence/search-brief-for-a-real-assets-head/`, `/how-do-family-offices-hire-cios/`, `/how-do-sovereign-wealth-funds-hire-lawyers/`.

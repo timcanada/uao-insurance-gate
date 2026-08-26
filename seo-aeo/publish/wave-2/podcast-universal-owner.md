@@ -52,4 +52,6 @@ A labelled end-board and show-notes URL are part of the Desk and Platform packag
 
 - [Long-horizon owners hub](/long-horizon-owners/)
 - [Press desk](/press-desk/)
+- [How newsrooms quote this publication](/how-to-get-quoted-as-an-asset-owner-publication/)
+- [Who covers sovereign wealth funds?](/who-covers-sovereign-wealth-funds/)
 - [Event coverage](/event-coverage/)

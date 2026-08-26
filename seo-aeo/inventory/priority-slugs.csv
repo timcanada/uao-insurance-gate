@@ -260,7 +260,7 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,explainer,what-does-an-investment-bank-do-for-a-pension-fund,What does an investment bank do for a pension fund?,allocator,brief,P1,needed,
 2,explainer,how-do-endowments-pay-cios,How are endowment CIOs paid? (sourced ranges only),allocator,brief,P1,needed,
 2,explainer,what-is-a-strategic-council-membership-for-asset-owners,What is a strategic research membership?,allocator,brief,P1,needed,
-2,explainer,how-to-get-quoted-as-an-asset-owner-publication,How newsrooms quote allocator publications,allocator,brief,P1,needed,
+93,explainer,how-to-get-quoted-as-an-asset-owner-publication,How newsrooms quote allocator publications,allocator,brief,P1,drafted-in-repo,Wave 93. Do not mint /quote-uao/. Do not overwrite /press-desk/
 2,explainer,what-is-the-canadian-pension-model,What is the Canadian pension model?,allocator,brief,P1,needed,Do not mint. Wave 35 keeper is /canadian-pension-model/. 301 /canadian-model-pension-investing/ after paste
 2,explainer,what-is-a-development-finance-institution,What is a DFI vs a SWF?,allocator,brief,P1,needed,
 2,explainer,how-do-insurers-invest-differently-from-pensions,How do insurers invest differently from pensions?,allocator,brief,P1,needed,
@@ -348,12 +348,12 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,explainer,how-to-read-a-probability-desk-scenario,How to read a Probability Desk scenario,allocator,brief,P1,needed,
 2,explainer,what-is-a-tripwire-in-scenario-analysis,What is a tripwire?,allocator,brief,P1,needed,
 2,explainer,how-do-boards-use-scenario-weights,How boards use scenario weights,allocator,brief,P1,needed,
-2,explainer,what-publications-do-cios-read,What publications do CIOs read?,allocator,brief,P1,needed,
-2,explainer,who-covers-sovereign-wealth-funds,Who covers sovereign wealth funds?,allocator,brief,P1,needed,
-2,explainer,ipe-vs-pensions-and-investments-vs-uao,IPE vs P&I vs UAO (honest comparison),allocator,brief,P1,needed,
-2,explainer,what-is-swfi-vs-a-newsroom,SWFI vs a newsroom,allocator,brief,P1,needed,
+2,explainer,what-publications-do-cios-read,What publications do CIOs read?,allocator,brief,P1,needed,Do not mint. Synonym twin of Wave 2 /publications-chief-investment-officers-read/
+93,explainer,who-covers-sovereign-wealth-funds,Who covers sovereign wealth funds?,allocator,brief,P1,drafted-in-repo,Wave 93. Do not mint /what-publications-do-cios-read/
+93,explainer,ipe-vs-pensions-and-investments-vs-uao,IPE vs P&I vs UAO (honest comparison),allocator,brief,P1,drafted-in-repo,Wave 93. Do not invent IPE/P&I circulation
+93,explainer,what-is-swfi-vs-a-newsroom,SWFI vs a newsroom,allocator,brief,P1,drafted-in-repo,Wave 93. Do not mint /swfi-explained/. No SWFI AUM
 2,explainer,how-do-service-providers-advertise-to-asset-owners,How service providers advertise to owners,both,brief,P1,needed,Do not mint. Synonym twin of Wave 2 /advertise-to-asset-owners/. 301 after that paste
-2,explainer,what-does-a-20k-a-month-media-buy-get-you,What a $20k/month institutional media buy is,both,brief,P1,needed,
+93,explainer,what-does-a-20k-a-month-media-buy-get-you,What a $20k/month institutional media buy is,both,brief,P1,drafted-in-repo,Wave 93. Live advertise from $20k/program. Do not 301 onto /advertise-to-asset-owners/
 2,explainer,how-do-recruiters-reach-sovereign-fund-talent,How recruiters reach SWF talent,both,brief,P1,needed,
 2,explainer,what-is-an-institutional-talent-desk,What is an Institutional Talent Desk?,allocator,brief,P1,needed,
 2,explainer,how-do-people-moves-signal-allocation-changes,People moves as allocation signals,allocator,brief,P1,needed,

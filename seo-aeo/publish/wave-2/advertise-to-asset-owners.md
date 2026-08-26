@@ -45,4 +45,12 @@ Readership proof sits on [Readership](/readership/). The audit method is availab
 
 ## Start
 
-Email info@universalassetowners.com or use the 15-minute call on [Advertise](/advertise/). Read [Ethics](/ethics/) first if you were about to ask for an exception.
+Email info@universalassetowners.com or use the 15-minute call on [Advertise](/advertise/). For what the public **$20,000** line actually buys, see [what a $20,000 institutional media buy is](/what-does-a-20k-a-month-media-buy-get-you/). Read [Ethics](/ethics/) first if you were about to ask for an exception.
+
+## Related
+
+- [What a $20,000 institutional media buy is](/what-does-a-20k-a-month-media-buy-get-you/)
+- [IPE vs P&I vs UAO](/ipe-vs-pensions-and-investments-vs-uao/)
+- [Display advertising](/display-advertising/)
+- [Advertise](/advertise/)
+- [Editorial ethics](/ethics/)

@@ -50,3 +50,10 @@ Independent editorial platform. Founder and publisher: Tim Peters. Standards: [E
 ## Commercial vs press
 
 Sponsorship and advertising are a different inbox path ([Advertise](/advertise/)). If you are a reporter, do not use the sales form. If you are sales, do not promise a reporter.
+
+## Related
+
+- [How newsrooms quote this publication](/how-to-get-quoted-as-an-asset-owner-publication/)
+- [Who covers sovereign wealth funds?](/who-covers-sovereign-wealth-funds/)
+- [Editorial ethics](/ethics/)
+- [The Universal Owner podcast](/podcast-universal-owner/)

@@ -1,5 +1,29 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 27: SE Asia $1T; Norway/Canada stale $; MAS $1.08T; types AUM farm; GPFG $2T
+
+**Queries / URLs:** `/southeast-asia-sovereign-wealth-funds/`, `/norway-model-vs-canada-model/`, `/singapore-investment-landscape-gic-temasek-mas/`, `/types-of-sovereign-wealth-funds/`, `/sovereign-wealth-fund-vs-pension-fund/`.
+
+**What was wrong on the live site:**
+
+- Southeast Asia invents a combined **>$1 trillion**, GIC **$671B / $870 billion**, Temasek **$403 billion**, Indonesia **State Investment Committee $47 billion**, SCIC **$35 billion**, Khazanah **~$84 billion**, Maharlika **$10 billion**. Official: GIC **no AUM**. Temasek **S$518 billion / US$401 billion**. INA **IDR 146.2 trillion**. Khazanah **RM105 billion NAV**. Maharlika authorized capital **PHP 500 billion**. Do not mint `/indonesia-investment-authority/` or `/vietnam-scic/` (404).
+- Norway vs Canada assigns GPFG **$1.3 trillion**, CPP **$475 billion as of June 2023**, OTPP **$233 billion as of December 2023**. Official: GPFG **22,683 billion kroner**. CPP **C$793.3 billion**. OTPP **C$303.2 billion** at **30 June 2026** / audited **C$279.4 billion** at **31 December 2025**.
+- Singapore landscape expands GIC as **“Government of Singapore Investment Company”** at **$810 billion**, Temasek **$403 billion**, MAS **$1.08 trillion**. Official: **GIC Private Limited**, **no AUM**. Temasek **S$518 billion**. MAS OFR **S$549.3 billion / US$427.9 billion** at end-**July 2026** (preliminary; MAS last update 7 August 2026).
+- Types of SWFs assigns GPFG **$1.4 trillion**, Temasek **$416 billion**, GIC **$810 billion**, Oman SGRF **$20 billion**, KIC **$200 billion**, PIF **$925 billion**, QIA **$650 billion**. Official method: quote the filing or say no AUM. OIA, not leftover SGRF.
+- SWF vs pension prints GPFG **more than $2 trillion**. Official: **22,683 billion kroner**. TAI/WTW top-300 **~US$24.4 trillion at end-2024** is a study vintage, not a reason to dollarize GPFG.
+
+**Confirmed still unpublished:** Waves 1–27. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Ghost key still missing. Mubadala / Future Fund / CalPERS / Temasek institution pages live already current.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx — do not ping support. Wallet still $0.00.
+
+**Shipped (Wave 27):** five overwrites. No new slugs. Publisher default waves now include 27. No new 301s. ADIA short twin and QIA portfolio twin stay queued.
+
+**Refused:** ICD YE2025 PDF. Dollarizing GPFG, MAS into $1.08T, INA, Khazanah, or Maharlika. Another Mubadala / Future Fund / CalPERS / Temasek / GPIF-institution overwrite. Overwriting `/abu-dhabi-investment-authority-adia/` or `/qia-portfolio-strategy/`. Minting `/indonesia-investment-authority/` or `/vietnam-scic/`.
+
+**Access:** Secrets re-requested. `GHOST_ADMIN_API_KEY` and `GOOGLE_SERVICE_ACCOUNT_JSON` still UNSET.
+
+**Next wake must:** Paste 5 → 27. Then 301 `twins.csv` (P0 first; Wave 26 ADIA short twin after Wave 9; Wave 17 QIA portfolio twin; Wave 24 GOSI investment twin; Wave 21 EPF/AUM-estimate/per-capita twins). If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another SE-Asia-$1T / Norway-vs-Canada / Singapore-landscape / types-AUM / SWF-vs-pension synonym. Highest-harm leftovers: `/sovereign-wealth-fund-vs-central-bank-reserves/` (GPFG **$1.4T**, invented **ADSWF $174bn**, **1,000 SWFs / $15T**); `/how-gulf-funds-are-reshaping-private-markets/` (PIF–KKR **$40bn** / Giga **$50bn** / ADQ **$145bn**); `/qia-portfolio-strategy/` until the 301; `/abu-dhabi-investment-authority-adia/` until the 301; ICD YE2025 once that PDF is readable; GPIF 15.83% (Wave 7, unpublished).
+
 ## 2026-08-26 — Wake 26: PIF vs QIA $800bn; GIC $690bn; Asia $4T; GCC $2T; SWF $13T pile
 
 **Queries / URLs:** `/pif-vs-qia/`, `/singapore-vs-norway-reserve-model/`, `/sovereign-wealth-funds-in-asia/`, `/gulf-cooperation-council-investment-strategy/`, `/how-sovereign-wealth-funds-make-money/`.

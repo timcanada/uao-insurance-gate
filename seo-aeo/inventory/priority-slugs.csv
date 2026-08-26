@@ -643,4 +643,9 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,careers,careers/intelligence/why-london-satellites-fail,Why London satellites fail,both,careers-alert,P1,needed,
 2,careers,careers/intelligence/onboarding-a-deputy-cio,Onboarding a deputy CIO,both,careers-alert,P1,needed,
 2,careers,careers/intelligence/succession-inside-a-public-plan,Succession inside a public plan,both,careers-alert,P1,needed,
+27,explainer,southeast-asia-sovereign-wealth-funds,Southeast Asian sovereign wealth funds,allocator,brief,P1,refresh-drafted,Wave 27 overwrite. Live $1T / GIC $870bn / SIC $47bn. Official GIC no AUM; INA IDR 146.2T. Do not mint /indonesia-investment-authority/ or /vietnam-scic/
+27,explainer,norway-model-vs-canada-model,Norway model vs Canada model,allocator,brief,P1,refresh-drafted,Wave 27 overwrite. Live GPFG $1.3T / CPP $475bn / OTPP $233bn. Official kroner + C$
+27,explainer,singapore-investment-landscape-gic-temasek-mas,Singapore GIC Temasek MAS landscape,allocator,brief,P1,refresh-drafted,Wave 27 overwrite. Live GIC $810bn / MAS $1.08T. Official GIC no AUM; MAS OFR S$549.3bn end-Jul 2026
+27,explainer,types-of-sovereign-wealth-funds,Types of sovereign wealth funds,allocator,brief,P1,refresh-drafted,Wave 27 overwrite. Live tracker dollars on every type. Official: quote filing or no AUM
+27,explainer,sovereign-wealth-fund-vs-pension-fund,SWF vs pension fund,allocator,brief,P1,refresh-drafted,Wave 27 overwrite. Live GPFG more than $2T. Official 22683bn kroner. GPIF is the pension
 2,careers,careers/intelligence/search-brief-for-a-real-assets-head,Writing a real-assets head search brief,both,careers-alert,P1,needed,

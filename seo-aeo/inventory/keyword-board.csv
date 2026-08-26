@@ -26,7 +26,7 @@ P0,pension fund conference coverage,service-provider,A,/event-coverage/,events,u
 P1,ADIA,allocator,both,/adia-abu-dhabi-investment-authority/,entity,unknown,unknown,unknown,refresh-drafted,Live still ~$1.1T. ADIA does not publish AUM. Wave 9 uses 20y 6.3% / 30y 7.1% at 31 Dec 2024
 P1,GIC Singapore,allocator,both,/gic-singapore-explained/,entity,unknown,unknown,unknown,refresh-drafted,Live page still on 2024/25 3.8%; Wave 4 uses 3.4% / 5.6% to 31 Mar 2026
 P1,Temasek,allocator,both,/temasek-holdings-explained/,entity,unknown,unknown,unknown,live-ok,Explained already on S$518bn. Twin /is-temasek-a-sovereign-wealth-fund/ still S$413bn — Wave 8
-P1,PIF Saudi,allocator,both,/public-investment-fund-pif/,entity,unknown,unknown,unknown,live-check,Wake 5 refused overwrite: ~$925bn / $2T-by-2030 is press-KPI mix. Official line is over $900bn
+P1,PIF Saudi,allocator,both,/public-investment-fund-pif/,entity,unknown,unknown,unknown,refresh-drafted,Official current language more than US$900bn. Wave 20 overwrites the $2T-by-2030 KPI page. Do not treat $1.21T / $2.67T as current AUM
 P1,NBIM,allocator,both,/norges-bank-investment-management-nbim/,entity,unknown,unknown,unknown,refresh-drafted,Live page still Q1 NOK 20T. Wave 7 uses 22,683bn at 30 Jun 2026
 P1,GPIF,allocator,both,/gpif-japan-explained/,entity,unknown,unknown,unknown,refresh-drafted,Live FY2025 return 15.83% is wrong; official is 16.47%. Wave 7
 P1,CalPERS,allocator,both,/calpers-explained-largest-us-pension-fund/,entity,unknown,unknown,unknown,live-ok,Live already has $637.1bn / 14.8% / 85% from 13 Jul 2026 CalPERS release
@@ -77,6 +77,11 @@ P1,FSDEA,allocator,both,/angola-sovereign-fund-fsdea/,entity,unknown,unknown,unk
 P1,Angola sovereign wealth fund,allocator,both,/angola-sovereign-fund-fsdea/,entity,unknown,unknown,unknown,refresh-drafted,Same URL as FSDEA
 P1,African sovereign wealth funds,allocator,both,/african-sovereign-wealth-funds/,list,unknown,unknown,unknown,refresh-drafted,Live $200bn / 16 funds. No combined pile. Wave 19. 301 overview after paste
 P1,sovereign wealth fund deals 2026,allocator,both,/biggest-sovereign-wealth-fund-deals-2026/,list,unknown,unknown,unknown,refresh-drafted,Live GIC $796bn / PIF $925bn / GPFG $1.4T / $18bn. Wave 19 cleanup. Do not mint 2027
+P1,Texas Teacher Retirement System,allocator,both,/texas-teacher-retirement-system-explained/,entity,unknown,unknown,unknown,refresh-drafted,Live $295bn / 89.4% / 1.6m as of Aug 2023. Official $225.3bn / 9.77% / 2,102,992 / 77.5% at 31 Aug 2025. Wave 20. Do not mint /texas-trs/
+P1,NIIF India,allocator,both,/india-niif-explained/,entity,unknown,unknown,unknown,refresh-drafted,Live AUM exceeding $9bn. Official About USD 4.9B+. GoI INR 60,000 crore is allocation not AUM. Wave 20. Do not mint /niif/
+P1,Government Pension Fund Thailand,allocator,both,/thailand-gpf-government-pension-fund/,entity,unknown,unknown,unknown,refresh-drafted,Live ฿1.8T / USD 50+bn / 1979. Official Act 1996; NAV incl reserves THB 1,575,529,445,951.16 at 24 Aug 2026. No USD AUM. Wave 20
+P1,Gulf sovereign wealth funds,allocator,both,/the-oil-five-gulf-sovereign-wealth-funds-explained/,list,unknown,unknown,unknown,refresh-drafted,Live $3.9T pile plus invented house AUM. ADIA/KIA/QIA no AUM; PIF more than US$900bn; Mumtalakat profit not AUM. Wave 20
+P1,PIF 2 trillion 2030,allocator,both,/saudi-pif-s-road-to-2-trillion-by-2030/,entity,unknown,unknown,unknown,refresh-drafted,Live $1.21T current / $2.67T 2030. Official more than US$900bn. 2030 figure is a KPI. Wave 20. Do not mint 2031
 P2,what is an OCIO,allocator,both,/what-is-an-ocio/,define,unknown,unknown,unknown,live-check,
 P2,single family office vs multi family office,allocator,both,/single-vs-multi-family-office/,define,unknown,unknown,unknown,live-check,
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,live-check,

@@ -17,7 +17,7 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 1,press,press-desk,Press desk — quote UAO,press,press-quote,P0,drafted-in-repo,Wave 1 publish pack
 1,advertiser,advertise,Advertise packages,service-provider,advertiser-call,P0,drafted-in-repo,Wave 1 publish pack
 2,institution,norges-bank-investment-management-nbim,Norges Bank Investment Management,allocator,brief,P1,live-check,SWF/reserve
-2,institution,public-investment-fund-pif,Public Investment Fund (Saudi Arabia),allocator,brief,P1,live-check,SWF
+2,institution,public-investment-fund-pif,Public Investment Fund (Saudi Arabia),allocator,brief,P1,refresh-drafted,SWF — Wave 20 overwrites /saudi-pif-s-road-to-2-trillion-by-2030/ (kills $1.21T current / $2.67T 2030). Official current language more than US$900bn. Do not mint a 2031 twin
 2,institution,adia-abu-dhabi-investment-authority,Abu Dhabi Investment Authority,allocator,brief,P1,live-check,SWF
 2,institution,mubadala-investment-company,Mubadala Investment Company,allocator,brief,P1,live-ok,SWF — live already AED 1.4T / US$385bn YE2025. Skip overwrite. Cluster map is Wave 18 /abu-dhabi-three-sovereign-funds/
 2,institution,adq-abu-dhabi,ADQ,allocator,brief,P1,refresh-drafted,SWF — Wave 18 (AED 921.7bn total assets at 31 Dec 2024; live still $250–260bn). Do not mint /adq-explained/
@@ -31,7 +31,7 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,hkma-exchange-fund,HKMA Exchange Fund,allocator,brief,P0,needed,Reserve
 2,institution,korea-investment-corporation-kic,Korea Investment Corporation,allocator,brief,P0,refresh-drafted,SWF — Wave 16 overwrites /korea-investment-corporation-kic-explained/ (USD 232.0bn). Do not mint short slug
 2,institution,future-fund-australia-explained,Future Fund,allocator,brief,P1,live-check,SWF
-2,institution,nz-super-fund-explained,NZ Super Fund,allocator,brief,P0,needed,SWF/pension-reserve
+2,institution,nz-super-fund-explained,NZ Super Fund,allocator,brief,P0,refresh-drafted,SWF/pension-reserve — Wave 9 keeper is /new-zealand-superannuation-fund-explained/. 301 /nz-super-fund-explained/ after paste. Do not mint a third slug
 2,institution,cpp-investments-explained,CPP Investments,allocator,brief,P1,live-check,Public pension
 2,institution,ontario-teachers-pension-plan,Ontario Teachers' Pension Plan,allocator,brief,P0,needed,Public pension
 2,institution,cdpq-explained,CDPQ,allocator,brief,P0,refresh-drafted,Public pension — Wave 12 (CAD $517.3bn at 31 Dec 2025)
@@ -45,7 +45,7 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,gpif-japan-explained,GPIF,allocator,brief,P1,live-check,Public pension
 2,institution,abp-netherlands-pension-fund-explained,ABP,allocator,brief,P1,live-check,Public pension
 2,institution,pfzw-netherlands,PFZW,allocator,brief,P0,refresh-drafted,Public pension — Wave 16 (€252.0bn AUM at 31 Dec 2025; live still €35bn)
-2,institution,atp-denmark,ATP,allocator,brief,P0,needed,Public pension
+2,institution,atp-denmark,ATP,allocator,brief,P0,refresh-drafted,Public pension — Wave 13 keeper /atp-denmark-pension-fund/. 301 /atp-denmark-explained/ after paste
 2,institution,alecta-sweden,Alecta,allocator,brief,P0,needed,Public pension
 2,institution,uss-universities-superannuation-scheme,USS,allocator,brief,P1,live-check,Public pension
 2,institution,uss-explained-merge,USS canonical merge,allocator,brief,P1,merge,Public pension
@@ -69,7 +69,7 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,gates-foundation-trust,Gates Foundation Trust,allocator,brief,P0,needed,Foundation
 2,institution,ford-foundation,Ford Foundation,allocator,brief,P0,needed,Foundation
 2,institution,khazanah-explained,Khazanah,allocator,brief,P0,refresh-drafted,Q&A /is-khazanah-a-sovereign-wealth-fund/ Wave 12; institution /khazanah-nasional-malaysia-explained/ Wave 17 (RM105bn NAV). Do not 301. Do not mint /khazanah-explained/
-2,institution,mumtalakat-bahrain,Mumtalakat,allocator,brief,P0,needed,SWF
+2,institution,mumtalakat-bahrain,Mumtalakat,allocator,brief,P0,refresh-drafted,SWF — Wave 11 keeper /mumtalakat-bahrain-explained/. 301 /bahrain-mumtalakat-holding-explained/ after paste
 2,institution,qia-vs-adia,QIA vs ADIA,allocator,brief,P0,needed,Comparison
 2,institution,nbim-vs-gic,NBIM vs GIC,allocator,brief,P0,needed,Comparison
 2,institution,cpp-vs-calpers,CPP Investments vs CalPERS,allocator,brief,P0,needed,Comparison
@@ -92,7 +92,7 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,new-york-state-common-retirement,NYS Common Retirement Fund,allocator,brief,P0,needed,Public pension
 2,institution,new-york-city-crs,NYC Retirement Systems,allocator,brief,P0,needed,Public pension
 2,institution,florida-sba,Florida State Board of Administration,allocator,brief,P0,needed,Public pension
-2,institution,texas-trs,Teacher Retirement System of Texas,allocator,brief,P0,needed,Public pension
+2,institution,texas-trs,Teacher Retirement System of Texas,allocator,brief,P0,refresh-drafted,Public pension — Wave 20 overwrites /texas-teacher-retirement-system-explained/ ($225.3bn at 31 Aug 2025; live still $295bn / 89.4%). Do not mint /texas-trs/
 2,institution,calstrs-vs-calpers,CalSTRS vs CalPERS,allocator,brief,P0,needed,Comparison
 2,institution,ohio-opers,OPERS,allocator,brief,P0,needed,Public pension
 2,institution,ohio-str,STRS Ohio,allocator,brief,P0,needed,Public pension
@@ -118,7 +118,7 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic
 2,institution,oman-investment-authority,Oman Investment Authority,allocator,brief,P0,needed,SWF
-2,institution,bahrain-mumtalakat-refresh,Mumtalakat (full profile),allocator,brief,P0,needed,SWF
+2,institution,bahrain-mumtalakat-refresh,Mumtalakat (full profile),allocator,brief,P0,refresh-drafted,SWF — Wave 11 keeper /mumtalakat-bahrain-explained/. 301 /bahrain-mumtalakat-holding-explained/ after paste. Do not mint a third slug
 2,institution,libya-lia,Libyan Investment Authority,allocator,brief,P0,refresh-drafted,SWF — Wave 18 overwrites /libyan-investment-authority-explained/ (2006 / Law 13/2010; live invents 2016 / $67bn). Do not mint short slug
 2,institution,turkey-tvf,Turkey Wealth Fund,allocator,brief,P0,needed,SWF
 2,institution,russia-nwf-historical,Russian NWF — historical/context only,allocator,brief,P0,needed,SWF
@@ -131,11 +131,11 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,angola-fsdea,FSDEA,allocator,brief,P0,refresh-drafted,SWF — Wave 19 overwrites /angola-sovereign-fund-fsdea/ (no current AUM; live $5–8bn / fake name). Do not mint /angola-fsdea/
 2,institution,egypt-tsfe,Egypt TSFE,allocator,brief,P0,needed,SWF
 2,institution,morocco-iqtisadi,Moroccan strategic funds,allocator,brief,P0,needed,SWF
-2,institution,indonesia-danantara-inia,Indonesia sovereign/strategic vehicles,allocator,brief,P0,needed,SWF
-2,institution,india-nco-ninf,India NIIF,allocator,brief,P0,needed,Strategic
+2,institution,indonesia-danantara-inia,Indonesia sovereign/strategic vehicles,allocator,brief,P0,refresh-drafted,SWF — Wave 15 keeper /danantara-indonesia-sovereign-fund/. 301 /indonesia-danantara-explained/ after paste. Do not mint /danantara-explained/
+2,institution,india-nco-ninf,India NIIF,allocator,brief,P0,refresh-drafted,Strategic — Wave 20 overwrites /india-niif-explained/ (USD 4.9B+ AUM; live still $9bn). Do not mint /niif/
 2,institution,philippines-maharlika,Maharlika Investment Fund,allocator,brief,P0,needed,SWF
 2,institution,vietnam-scic,SCIC,allocator,brief,P0,needed,SWF
-2,institution,thailand-gic-not,GPF Thailand,allocator,brief,P0,needed,Public pension
+2,institution,thailand-gic-not,GPF Thailand,allocator,brief,P0,refresh-drafted,Public pension — Wave 20 overwrites /thailand-gpf-government-pension-fund/ (THB NAV at 24 Aug 2026; live ฿1.8T / USD 50+bn / 1979). No USD AUM
 2,institution,hong-kong-mpfa-system,Hong Kong MPF system,allocator,brief,P0,needed,Pension
 2,institution,singapore-cpf,CPF vs GIC vs Temasek,allocator,brief,P0,needed,Comparison
 2,institution,japan-gpif-vs-pension-funds,GPIF vs smaller Japanese plans,allocator,brief,P0,needed,Comparison
@@ -288,10 +288,12 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,explainer,what-is-a-superannuation-trustee,What is a superannuation trustee?,allocator,brief,P1,needed,
 2,explainer,how-do-latam-pension-afps-invest,How do Latin American AFPs invest?,allocator,brief,P1,needed,
 2,explainer,what-is-an-afore,What is an Afore?,allocator,brief,P1,needed,
-2,explainer,how-do-african-sovereign-funds-differ,How do African sovereign funds differ?,allocator,brief,P1,refresh-drafted,Do not mint this slug. Wave 19 overwrites live /african-sovereign-wealth-funds/ (kills $200bn pile). 301 /african-sovereign-wealth-funds-overview/ after paste
+2,explainer,how-do-african-sovereign-funds-differ,How do African sovereign funds differ?,allocator,brief,P1,refresh-drafted,Do not mint this slug. Wave 19 overwrites live /african-sovereign-wealth-funds/ (kills $200bn pile). 301 /african-sovereign-wealth-funds-overview/ and /sovereign-wealth-funds-in-africa/ after paste
 2,explainer,what-is-the-nigeria-sovereign-investment-authority,NSIA explained,allocator,brief,P1,needed,
 2,explainer,what-is-the-angola-fsdea,FSDEA explained,allocator,brief,P1,refresh-drafted,Do not mint this slug. Live keeper is /angola-sovereign-fund-fsdea/ (Wave 19)
 2,explainer,what-is-pula-fund,Pula Fund explained,allocator,brief,P1,refresh-drafted,Do not mint this slug. Live keeper is /botswana-pula-fund-explained/ (Wave 19)
+2,explainer,the-oil-five-gulf-sovereign-wealth-funds-explained,Oil Five Gulf SWFs,allocator,brief,P1,refresh-drafted,Wave 20 overwrite (kills $3.9T pile). ADIA/KIA/QIA no AUM. Do not mint a Gulf-total twin
+2,explainer,saudi-pif-s-road-to-2-trillion-by-2030,PIF $2T by 2030 KPI,allocator,brief,P1,refresh-drafted,Wave 20 overwrite. 2030 figure is a KPI not current AUM. Do not mint a 2031 twin
 2,explainer,how-do-central-bank-reserves-differ-from-swfs,Reserves vs SWFs (defend existing),allocator,brief,P1,needed,
 2,explainer,what-is-a-stabilization-fund,What is a stabilization fund?,allocator,brief,P1,needed,
 2,explainer,how-do-owners-use-secondaries,How do owners use secondaries?,allocator,brief,P1,needed,

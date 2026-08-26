@@ -12,7 +12,7 @@ Update the **known** column only from real systems. Targets are locked in `GOALS
 | Google Search clicks (calendar month) | growing | **460** | 2026-07 | GSC July performance mail |
 | Google Search impressions (calendar month) | growing | **55.6K** | 2026-07 | GSC July performance mail |
 | Monthly site views | millions | not millions; see baseline | 2026-08-26 | GSC + GA4 `399677697` (API pending) |
-| Franchise queries at #1 or cited | all on keyword board | mixed: GPIF live still 15.83%; ICD still ~$400bn; Pula still $6bn; FSDEA still $5–8bn; Africa still $200bn pile; 2026 deals still GIC $796bn; SWF list still a twin; Waves 1–19 unpublished | 2026-08-26 | GSC July mail + 26 Aug live HTTP (wake 19) |
+| Franchise queries at #1 or cited | all on keyword board | mixed: GPIF live still 15.83%; TRS still $295bn; NIIF still $9bn; GPF still ฿1.8T; Oil Five still $3.9T; PIF 2T page still $1.21T; SWF list still a twin; Waves 1–20 unpublished | 2026-08-26 | GSC July mail + 26 Aug live HTTP (wake 20) |
 | Press pickups (TTM) | growing | unknown | 2026-08-26 | Alerts |
 | Podcast downloads / ep | world-class | unknown | 2026-08-26 | Host |
 | Open sponsor conversations | enough to hit $1M mix | 0 logged | 2026-08-26 | `sponsors.csv` |

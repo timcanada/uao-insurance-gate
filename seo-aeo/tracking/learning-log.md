@@ -1,5 +1,29 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 20: TRS $295bn; NIIF $9bn; GPF ฿1.8T / $50bn; Oil Five $3.9T; PIF $1.21T / $2.67T
+
+**Queries / URLs:** `/texas-teacher-retirement-system-explained/`, `/india-niif-explained/`, `/thailand-gpf-government-pension-fund/`, `/the-oil-five-gulf-sovereign-wealth-funds-explained/`, `/saudi-pif-s-road-to-2-trillion-by-2030/`.
+
+**What was wrong on the live site:**
+
+- Texas TRS still prints **$295 billion / 89.4% / 1.6 million** as of August 2023. Official Fund Insights / financial highlights: pension trust **$225.3 billion** (investments table **$225.275 billion**) at **31 August 2025**; FY return **9.77%**; membership **2,102,992**; funded **77.5%**. Founded **1937**. Do not mint `/texas-trs/`.
+- NIIF still prints **AUM exceeding $9 billion as of 2024** and a homemade Defence/Aerospace fund. Official About widget: **USD 4.9 billion+** AUM across funds; founded **2015**. 29 June 2026 GoI release is an additional **INR 30,000 crore** allocation (total allocation **INR 60,000 crore**), not a second AUM. CEO **Sanjiv Aggarwal**. Do not mint `/niif/`.
+- Thailand GPF still prints **฿1.8 trillion / USD 50+ billion**, a **1979** founding, and a defined-benefit story. Official: **Government Pension Fund Act B.E. 2539 (1996)**; mandatory after **27 March 1997**. Value-of-funds page fetched **24 August 2026**: NAV excluding reserves **THB 611,583,713,730.69**; including reserves **THB 1,575,529,445,951.16**; reserves **THB 963,945,732,220.47**. **No USD AUM.**
+- Oil Five (20 July 2026) still piles **$3.9 trillion** and FAQ-assigns ADIA **$1.1T**, PIF **$1.21T**, KIA **$1.03T**, QIA **$557bn**, Mumtalakat **$28bn**. Official: ADIA / KIA / QIA **do not publish AUM**. PIF **more than US$900 billion**. Mumtalakat prints **BHD 592.7 million** profit, not AUM.
+- PIF $2T page still treats **$1.21 trillion** as end-2025 AUM and raises the 2030 target to **$2.67 trillion**. Official current language is **more than US$900 billion**. A Vision 2030 KPI is not a current filing. Do **not** mint a 2031 twin. pif.gov.sa Cloudflare-blocked this wake; the official clause is in the Google-indexed release text.
+
+**Confirmed still unpublished:** Waves 1–19. Sitemap leftovers unchanged: `/directory/` **404**. GPIF live return still **15.83%**. CIC explained still $1.3T. Chile ESSF still $10.8bn. Ghost key still missing. Mubadala live already current. Future Fund live already A$269.1bn.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup: **Brett Morgan (26 Aug 12:24 UTC)**, after Konstantinos Angelakis. MailAdx — do not ping support. Wallet still $0.00.
+
+**Shipped (Wave 20):** five overwrites. No new slugs. Publisher default waves now include 20. Queued synonym 301s: Mumtalakat holding; NZ Super short; Danantara explained; ATP explained; Africa-in-Africa.
+
+**Refused:** EPF (kwsp.gov.my still 403). Florida SBA (sbafla.com still 403). ICD YE2025 PDF. Palestine PIF homepage widgets. Dollarizing GPF or NIIF’s rupee allocation. Another Mubadala / Future Fund / GPIF / CalPERS overwrite. Minting the Wave 3 404 short slugs or `/texas-trs/` / `/niif/` / a 2031 twin.
+
+**Access:** Secrets re-requested. `GHOST_ADMIN_API_KEY` and `GOOGLE_SERVICE_ACCOUNT_JSON` still UNSET.
+
+**Next wake must:** Paste 5 → 20. Then 301 `twins.csv` (P0 first; Wave 20 synonym twins; ICD short; African-overview; deals-of-2026; Aware/Cbus; Abu Dhabi cluster; BCI; QIA short/portfolio; PFZW/PGGM). If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another TRS / NIIF / GPF / Oil Five / PIF-2T synonym. Highest-harm leftovers: EPF once kwsp.gov.my is readable; ICD YE2025 once that PDF is readable; GPIF 15.83% (Wave 7, unpublished); then `/nbim-vs-gpif/`, `/how-sovereign-wealth-fund-aum-is-estimated/`, `/largest-sovereign-wealth-funds-per-capita/` if official filings still contradict the live copy.
+
 ## 2026-08-26 — Wake 19: ICD ~$400bn; Pula $6bn sleeves; FSDEA fake name / $5–8bn; Africa $200bn; deals GIC $796bn
 
 **Queries / URLs:** `/investment-corporation-of-dubai-icd-explained/`, `/botswana-pula-fund-explained/`, `/angola-sovereign-fund-fsdea/`, `/african-sovereign-wealth-funds/`, `/biggest-sovereign-wealth-fund-deals-2026/`.

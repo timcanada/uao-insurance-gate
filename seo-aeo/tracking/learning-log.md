@@ -1,5 +1,27 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 72: leftover CalPERS $521bn / $471.4bn / $438bn / $474bn; leftover Yale $41.4bn; leftover GPIF $1.6T; leftover CPP $666bn / C$502bn / CAD $616bn; leftover GPFG $1.37T / €1.3T; leftover CalSTRS $314bn / $346bn; leftover PIF $925bn; leftover ADIA $140bn
+
+**Queries / URLs:** `/strategic-asset-allocation-vs-tactical/`, `/sovereign-ai-funds-explained/`, `/value-factor-investing-explained/`, `/quality-factor-investing-explained/`, `/multi-factor-investing-institutional/`.
+
+**What was wrong on the live site:**
+
+- SAA vs TAA invent leftover CalPERS **$521 billion** as of June 2024, leftover Yale **$41.4 billion** as of June 2023, leftover GPIF **$1.6 trillion**, leftover CPP **$666 billion** as of December 2023. Official: CalPERS **$637.1 billion**. Yale **$44.1 billion**. GPIF **yen**. CPP **C$793.3 billion**.
+- Sovereign AI invent leftover CPP **C$502 billion** as of 2023, leftover PIF **$925 billion**. Official: CPP **C$793.3 billion**. PIF **more than US$900 billion**.
+- Value factor invent leftover GPFG **$1.37 trillion**, leftover Yale **$41.4 billion**, leftover CalPERS **$471.4 billion**, leftover CalSTRS **$314 billion**. Official: GPFG **kroner**. Yale **$44.1 billion**. CalPERS **$637.1 billion**. CalSTRS **$415.4 billion**.
+- Quality factor invent leftover CalSTRS **$346 billion** as of 2024, leftover CalPERS **$438 billion**. Official: CalSTRS **$415.4 billion**. CalPERS **$637.1 billion**.
+- Multi-factor invent leftover GPFG **€1.3 trillion**, leftover CPP **CAD $616 billion**, leftover ADIA **approximately USD $140 billion**, leftover CalPERS **USD $474 billion**. Official: GPFG **kroner**. CPP **C$793.3 billion**. ADIA **does not publish AUM**. CalPERS **$637.1 billion**.
+
+**Confirmed still unpublished:** Waves 1–72. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00** through **26 Aug 15:52 UTC**. Do not ping support.
+
+**Shipped (Wave 72):** five overwrites. No new slugs. Publisher default waves now include 72. Queued 301: `/inflation-long-term-portfolio-institutional/`; `/tnfd-nature-related-financial-disclosures/`; `/tcfd-explained-institutional-investors/`; `/fiduciary-duty-asset-owners/`; `/home-bias-portfolio-institutional/`; `/portfolio-rebalancing-institutional-strategies/`; `/passive-vs-active-management-institutions/`.
+
+**Refused:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ / USS. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / CDPQ / OMERS / CalPERS / CalSTRS / Mubadala / Temasek / Future Fund / Alaska / ADIA / GIC / BCI / GPIF / CPP / Texas TRS / PIF / QIA / Australian Super / Aware Super / KIC / UniSuper / CIC / ADQ / Cbus / AIMCo institution keepers. Overwriting `/endowment-model-explained/` (Wave 15) or `/yale-endowment-model/` (Wave 14). Another asset-allocation / machine-learning / energy-security / supply-chain / deglobalisation synonym. Minting `/harvard-endowment-explained/`, `/texas-trs/`, `/nssf-explained/`, `/safe-china/`, `/unisuper/`, `/temasek/`, `/adq-explained/`, `/samruk-kazyna/`, `/cbus-explained/`, `/aware-super/`, `/australian-super/`, `/aimco-explained/`, `/strategic-asset-allocation/`, `/sovereign-ai-funds/`, `/value-factor-investing/`, `/quality-factor-investing/`, or `/multi-factor-investing/`. Inventing an ADIA, KIA, QIA, SAFE, NSSF, SWIB, HESTA, Florida SBA, Ohio PERS, or Samruk AUM. `/esg-regulation-eu-taxonomy/` (one leftover GPFG plus leftover BlackRock). `/urbanisation-investment-theme-institutional/` (leftover ABP **€200 billion** / leftover OTPP **$227 billion**). `/water-risk-institutional-investors/` (no leftover house AUM). `/norwegian-model-investing/` (leftover GPFG **$2 trillion**). `/factor-investing-explained/` (no leftover house AUM). `/ai-data-center-investing/` (leftover program piles). `/gulf-capital-energy-transition/` (no leftover house AUM).
+
+**Next wake must:** Paste 5 → 72. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another SAA-vs-TAA / sovereign-AI / value-factor / quality-factor / multi-factor synonym. Highest-harm leftovers now: `/urbanisation-investment-theme-institutional/` (leftover ABP **€200 billion** / leftover OTPP **$227 billion**); `/esg-regulation-eu-taxonomy/` (leftover GPFG **$1.4 trillion** plus leftover BlackRock **$10.5 trillion**); unpublished keepers (GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn).
+
 ## 2026-08-26 — Wake 71: leftover CalPERS $440bn / $510bn / $475bn; leftover ABP $525bn; leftover Harvard $50.7bn; leftover GPFG $1.32T / $1.3T / $1.4T / $1.38T; leftover AIMCo $170bn; leftover USS £75bn; leftover ADIA $171bn; leftover CPP C$460bn
 
 **Queries / URLs:** `/asset-allocation-framework-institutional/`, `/machine-learning-portfolio-management/`, `/energy-security-investment-theme/`, `/supply-chain-risk-investors/`, `/deglobalisation-investment-implications/`.

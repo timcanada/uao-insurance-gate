@@ -41,6 +41,7 @@ Use official portals via [Careers](/careers/). Confirm on gpif.go.jp and the emp
 ## Related
 
 - [GPIF, explained](/gpif-japan-explained/)
+- [Relocating to Seoul](/careers/cities/seoul/)
 - [Relocating to Singapore](/careers/cities/singapore/)
 - [Why London satellites fail](/careers/intelligence/why-london-satellites-fail/)
 - [Relocating for an asset-owner role](/careers/intelligence/relocating-for-an-asset-owner-role/)

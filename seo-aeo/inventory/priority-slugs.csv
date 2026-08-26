@@ -216,20 +216,20 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 87,city,careers/cities/kuwait-city,Relocating to Kuwait City for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 87 city. KIA no official AUM. Do not mint /kia-explained/. Public rules only
 85,city,careers/cities/hong-kong,Relocating to Hong Kong for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 85 city. HKMA Exchange Fund is not a classic SWF. Do not mint /hong-kong-swf/. Public rules only
 86,city,careers/cities/tokyo,Relocating to Tokyo for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 86 city. GPIF not a SWF. Do not mint /tokyo-gpif/. Public rules only
-3,city,careers/cities/seoul,Relocating to Seoul for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+88,city,careers/cities/seoul,Relocating to Seoul for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 88 city. KIC Seoul HQ / NPS Jeonju. Do not mint /korea-investment-corporation-kic/. Public rules only
 85,city,careers/cities/sydney,Relocating to Sydney for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 85 city. Future Fund/AustralianSuper are Melbourne. Do not mint /australian-super/. Public rules only
 86,city,careers/cities/melbourne,Relocating to Melbourne for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 86 city. Future Fund 447 Collins. Do not mint /australian-super/. Public rules only
 87,city,careers/cities/wellington,Relocating to Wellington for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 87 city. NZ Super is Auckland. Do not mint /auckland-nz-super/ or /careers/cities/auckland/. Public rules only
 85,city,careers/cities/amsterdam,Relocating to Amsterdam for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 85 city. APG not a second AUM. Do not mint /amsterdam-abp/. Public rules only
 87,city,careers/cities/the-hague,Relocating to The Hague for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 87 city. APG offices are Heerlen/Amsterdam. Do not mint /the-hague-abp/. Public rules only
-3,city,careers/cities/stockholm,Relocating to Stockholm for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+88,city,careers/cities/stockholm,Relocating to Stockholm for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 88 city. AP1 ceased. Do not mint /careers/cities/gothenburg/. Public rules only
 87,city,careers/cities/copenhagen,Relocating to Copenhagen for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 87 city. ATP HQ is Hillerød. Do not mint /copenhagen-atp/. Public rules only
 86,city,careers/cities/zurich,Relocating to Zurich for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 86 city. PUBLICA is Bern. Do not mint /zurich-pension/. Public rules only
 87,city,careers/cities/geneva,Relocating to Geneva for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 87 city. compenswiss Geneva / PUBLICA Bern. Do not mint /geneva-compenswiss/. Public rules only
 3,city,careers/cities/frankfurt,Relocating to Frankfurt for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
-3,city,careers/cities/paris,Relocating to Paris for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
-3,city,careers/cities/dublin,Relocating to Dublin for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
-3,city,careers/cities/luxembourg,Relocating to Luxembourg for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
+88,city,careers/cities/paris,Relocating to Paris for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 88 city. FRR 56 Rue de Lille. Do not mint /frr-explained/. Public rules only
+88,city,careers/cities/dublin,Relocating to Dublin for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 88 city. ISIF two books. Do not mint /dublin-isif/. Public rules only
+88,city,careers/cities/luxembourg,Relocating to Luxembourg for an asset-owner role,both,careers-alert,P1,drafted-in-repo,Wave 88 city. AIMCo HQ Edmonton. Do not mint /luxembourg-aimco/. Public rules only
 3,city,careers/cities/milan,Relocating to Milan for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
 3,city,careers/cities/madrid,Relocating to Madrid for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice
 3,city,careers/cities/johannesburg,Relocating to Johannesburg for an asset-owner role,both,careers-alert,P1,needed,Public rules only; no immigration advice

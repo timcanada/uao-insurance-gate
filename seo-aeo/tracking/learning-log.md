@@ -1,5 +1,24 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 88: city pages — Seoul, Dublin, Luxembourg, Stockholm, Paris
+
+**Queries / URLs:** `/careers/cities/seoul/`, `/careers/cities/dublin/`, `/careers/cities/luxembourg/`, `/careers/cities/stockholm/`, `/careers/cities/paris/`.
+
+**What was wrong on the live site:**
+
+- Leftover official-filing house-AUM keepers remain exhausted after Wave 80. Wave 87 shipped five city pages. The next five city P1s with locked HQ facts were still `needed` and live **404** (confirmed 26 Aug).
+- KIC official HQ is State Tower Namsan, Seoul; NPS official HQ is Jeonju. ISIF/NTMA official contact is Treasury Dock, Dublin. AIMCo lists Luxembourg at 11 Rue Aldringen; head office is Edmonton. AP1 ceased end-2025; AP2 is Gothenburg. FRR official siège is 56 Rue de Lille.
+
+**Confirmed still unpublished:** Waves 1–88. `/directory/` **404**. Wave 1 + Wave 84–88 city pages still 404. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00**. Do not ping support.
+
+**Shipped (Wave 88):** five city pages. Relocating hub now lists 31 drafted cities. Tokyo now links Seoul. Calgary now links Luxembourg. Copenhagen now links Stockholm. No leftover 301s. Publisher default waves now include 88.
+
+**Refused:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ / USS / ATP / Khazanah / HKMA Exchange Fund / NPS. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / CDPQ / OMERS / CalPERS / CalSTRS / Mubadala / Temasek / Future Fund / Alaska / ADIA / GIC / BCI / GPIF / CPP / Texas TRS / PIF / QIA / Australian Super / Aware Super / KIC / UniSuper / CIC / ADQ / Cbus / AIMCo / NZ Super / KIA / Khazanah / PSP / NYC CRS / ISIF institution keepers. Another fiduciary-archive child or leftover synonym explainer. `/careers/intelligence/cio-compensation-public-plans/` (do not invent pay). Frankfurt (weaker owner-HQ lock). Minting `/korea-investment-corporation-kic/`, `/kic-explained/`, `/seoul-kic/`, `/nps-korea/`, `/careers/cities/jeonju/`, `/dublin-isif/`, `/ntma-explained/`, `/luxembourg-aimco/`, `/fdc-explained/`, `/fdc-luxembourg/`, `/aimco-explained/`, `/stockholm-ap1/`, `/ap1-explained/`, `/careers/cities/gothenburg/`, `/frr-explained/`, `/paris-frr/`, `/fonds-de-reserve/`, `/family-office/`, `/pggm/`, `/pfzw-netherlands/`, `/psp-investments/`, `/niif/`, or `/khazanah-explained/`. Inventing KIC, NPS, ISIF, AIMCo, FDC, AP1, AP3, AP4, FRR, ADIA, QIA, SAFE, or APG AUM. People/CEO pages. Dated news.
+
+**Next wake must:** Paste Wave 1 directory + cities + relocating, Wave 84–88 cities, Wave 81–83 hubs, then 5 → 79 keepers including `/new-york-city-crs/`. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another leftover synonym explainer. Next city/careers gap: `/careers/cities/frankfurt/` (confirm a named owner HQ before drafting), `/careers/cities/milan/`, `/careers/cities/madrid/`. Then podcast/advertiser rotation. Skip compensation until sourced. Highest-harm unpublished leftovers remain: GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn.
+
 ## 2026-08-26 — Wake 87: city pages — Wellington, Kuwait City, The Hague, Geneva, Copenhagen
 
 **Queries / URLs:** `/careers/cities/wellington/`, `/careers/cities/kuwait-city/`, `/careers/cities/the-hague/`, `/careers/cities/geneva/`, `/careers/cities/copenhagen/`.

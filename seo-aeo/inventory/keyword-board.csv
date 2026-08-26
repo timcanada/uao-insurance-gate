@@ -412,5 +412,10 @@ P1,KIA jobs Kuwait City relocation,allocator,both,/careers/cities/kuwait-city/,c
 P1,ABP jobs The Hague relocation,allocator,both,/careers/cities/the-hague/,careers,unknown,unknown,unknown,drafted-wave-87,Wave 87 city. APG offices are Heerlen/Amsterdam. Do not mint /the-hague-abp/
 P1,Geneva compenswiss jobs relocation,allocator,both,/careers/cities/geneva/,careers,unknown,unknown,unknown,drafted-wave-87,Wave 87 city. compenswiss Geneva / PUBLICA Bern. Do not mint /geneva-compenswiss/
 P1,ATP jobs Copenhagen relocation,allocator,both,/careers/cities/copenhagen/,careers,unknown,unknown,unknown,drafted-wave-87,Wave 87 city. ATP HQ is Hillerød. Do not mint /copenhagen-atp/
+P1,KIC jobs Seoul relocation,allocator,both,/careers/cities/seoul/,careers,unknown,unknown,unknown,drafted-wave-88,Wave 88 city. NPS HQ is Jeonju. Do not mint /korea-investment-corporation-kic/
+P1,ISIF jobs Dublin relocation,allocator,both,/careers/cities/dublin/,careers,unknown,unknown,unknown,drafted-wave-88,Wave 88 city. Two books. Do not mint /dublin-isif/
+P1,AIMCo jobs Luxembourg relocation,allocator,both,/careers/cities/luxembourg/,careers,unknown,unknown,unknown,drafted-wave-88,Wave 88 city. AIMCo HQ is Edmonton. Do not mint /luxembourg-aimco/
+P1,AP3 AP4 jobs Stockholm relocation,allocator,both,/careers/cities/stockholm/,careers,unknown,unknown,unknown,drafted-wave-88,Wave 88 city. AP1 ceased. Do not mint /careers/cities/gothenburg/
+P1,FRR jobs Paris relocation,allocator,both,/careers/cities/paris/,careers,unknown,unknown,unknown,drafted-wave-88,Wave 88 city. FRR not a SWF. Do not mint /frr-explained/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

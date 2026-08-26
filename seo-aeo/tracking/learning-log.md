@@ -1,5 +1,25 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 49: leftover CalPERS $511bn / $453bn / $460bn; leftover CPP $540bn / $515bn; leftover CDPQ $370bn; leftover OTPP $227bn / $232bn; leftover GPFG $1.3T / $1.4T; leftover Yale $41.4bn / $41bn
+
+**Queries / URLs:** `/infrastructure-returns-benchmarks/`, `/risk-parity-explained/`, `/alternative-investments-institutional/`, `/portable-alpha-explained/`, `/stagflation-risk-institutional/`.
+
+**What was wrong on the live site:**
+
+- Infrastructure returns invent leftover CDPQ **$370 billion**, leftover GPFG **$1.3 trillion**, leftover OTPP **$227 billion** with leftover infra sleeve **$15 billion**, leftover listed **$2 trillion**, leftover Cambridge **$700 billion**. Official: CDPQ **CAD $517.3 billion**. OTPP **C$303.2 billion**. GPFG **kroner**.
+- Risk parity invent leftover CalPERS **$511 billion**, leftover GPFG **$1.3 trillion**, leftover Yale **$41.4 billion**, leftover pile **$500 billion–$1 trillion**. Official: CalPERS **$637.1 billion**. Yale **$44.1 billion**. GPFG **kroner**.
+- Alternatives invent leftover Yale **$41 billion**, leftover GPFG **$1.3 trillion**, leftover CalPERS **$453 billion**. Official: Yale **$44.1 billion**. CalPERS **$637.1 billion**. GPFG **kroner**.
+- Portable alpha invent leftover GPFG **$1.3 trillion**, leftover CPP **$540 billion**. Official: GPFG **kroner**. CPP **C$793.3 billion**.
+- Stagflation invent leftover GPFG **$1.4 trillion**, leftover CalPERS **$460 billion**. Official: GPFG **kroner**. CalPERS **$637.1 billion**.
+
+**Confirmed still unpublished:** Waves 1–49. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00**. Do not ping support.
+
+**Shipped (Wave 49):** five overwrites. No new slugs. Publisher default waves now include 49. Queued 301: `/real-estate-risk-return-spectrum/` → Wave 47 `/core-plus-value-add-opportunistic-real-estate/`.
+
+**Refused:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / CDPQ / OMERS / CalPERS / Mubadala / Temasek / Future Fund / Alaska / ADIA / GIC institution keepers. Overwriting `/endowment-model-explained/` (Wave 15) or `/yale-endowment-model/` (Wave 14). Overwriting `/core-plus-value-add-opportunistic-real-estate/` (Wave 47) — 301 the spectrum twin instead. Minting `/harvard-endowment-explained/`, `/risk-parity/`, `/portable-alpha/`, `/stagflation-risk/`, `/infrastructure-returns/`, or `/fiduciary-duty-for-universal-owners/`. Fetching leftover Cambridge / Preqin / Brookfield / BlackRock / Vanguard piles. Another fiduciary / grid-infra / data-centers / home-bias / FX-overlay synonym. `/direct-investment-private-equity-institutional/` (leftover CalPERS **$450 billion** / leftover Brookfield **$750 billion**). `/operational-due-diligence-private-equity/` (only leftover CalPERS **$440 billion**). `/diversification-institutional-portfolios/` (leftover CalPERS **$495 billion** / leftover Yale **$41.4 billion**). `/esg-integration-institutional/` (leftover CalPERS **$440 billion** / leftover GPFG **$1.3 trillion**). `/manager-selection-institutional/` (leftover CalPERS **$469 billion**).
+
 ## 2026-08-26 — Wake 48: leftover CalPERS $470bn / $460bn / $450bn / $442bn / $440bn; leftover CPP $473bn / $675bn / $650bn; leftover GPFG $1.35T / $1.3T / $1.5T; leftover Yale $41bn; leftover Harvard $50.7bn; leftover Temasek $403bn; leftover Future Fund $280bn; leftover ABP €600bn; leftover GIC $847bn / $880bn; leftover ADIA $150bn; leftover CalSTRS $316bn; leftover NYS $280bn / $221bn
 
 **Queries / URLs:** `/fiduciary-duty-explained-institutional/`, `/grid-infrastructure-institutional-capital/`, `/data-centers-as-an-institutional-asset-class/`, `/home-bias-institutional-portfolios/`, `/fx-overlay-explained/`.

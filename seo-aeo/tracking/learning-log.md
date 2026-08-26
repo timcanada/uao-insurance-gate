@@ -1,5 +1,27 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 65: leftover CalPERS $440bn / $457.8bn / $469bn; leftover CPP $616bn / $512bn; leftover GPIF $1.6T / leftover $1.38T; leftover GPFG $1.48T / $1.44T / $1.3T / $1.29T; leftover ABP €500bn; leftover USS £67bn; leftover CalSTRS $315bn / $349.7bn; leftover CIC $1.3T; leftover NSSF $460bn; leftover Harvard $50.7bn; leftover PIF $930bn; leftover Texas TRS $227bn
+
+**Queries / URLs:** `/universal-owner-market-externalities/`, `/investment-data-providers-institutional/`, `/china-institutional-investors-explained/`, `/internal-rate-of-return-institutional/`, `/in-state-investment-programs-public-funds/`.
+
+**What was wrong on the live site:**
+
+- Universal-owner externalities invent leftover CalPERS **$440 billion**, leftover CalSTRS **$315 billion**, leftover GPFG **$1.48 trillion**, leftover GPIF **$1.38 trillion**, leftover ABP **€500 billion**, leftover USS **£67 billion**. Twin invent leftover CalPERS **USD 457.8 billion** and leftover CalSTRS **USD 349.7 billion**. Official: CalPERS **$637.1 billion**. CalSTRS **$415.4 billion**. GPFG **kroner**. GPIF **yen**. ABP **€530 billion**. USS **£79.8 billion DB**.
+- Investment-data providers invent leftover CalPERS **$440 billion**, leftover CPP **$616 billion**, leftover GPIF **$1.6 trillion**, leftover GPFG **$1.44 trillion**. Official: CalPERS **$637.1 billion**. CPP **C$793.3 billion**. GPIF **yen**. GPFG **kroner**.
+- China institutional investors invent leftover CIC **approximately $1.3 trillion**, leftover NSSF **approximately $460 billion**, leftover CIC+NSSF **over $1.7 trillion**, leftover combined pile **roughly $2 trillion**, leftover CIC outbound quota **$200 billion**. Official CIC: **US$1.57 trillion** total / **US$1.37 trillion** net at **31 December 2024**. SAFE does not publish AUM. No official NSSF AUM locked this wake.
+- IRR invent leftover CalPERS **$469 billion**, leftover CPP **$512 billion**, leftover Harvard **$50.7 billion**, leftover GPFG **$1.3 trillion**. Official: CalPERS **$637.1 billion**. CPP **C$793.3 billion**. Harvard **$56.9 billion**. GPFG **kroner**.
+- In-state programs invent leftover CalPERS **$469 billion**, leftover PIF **$930 billion**, leftover Texas TRS **$227 billion**, leftover GPFG **$1.29 trillion**. Official: CalPERS **$637.1 billion**. PIF **more than US$900 billion**. Texas TRS **$225.3 billion**. GPFG **kroner**.
+
+**Confirmed still unpublished:** Waves 1–65. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00** through **26 Aug 15:52 UTC**. Do not ping support.
+
+**Shipped (Wave 65):** five overwrites. No new slugs. Publisher default waves now include 65. Queued 301: `/universal-owner-externalities/`; `/alternative-investments-institutional-portfolio/`; `/critical-minerals-investment-sovereign-funds/`.
+
+**Refused:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ / USS. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / CDPQ / OMERS / CalPERS / CalSTRS / Mubadala / Temasek / Future Fund / Alaska / ADIA / GIC / BCI / GPIF / CPP / Texas TRS / PIF / QIA / Australian Super / KIC / UniSuper / CIC institution keepers. Overwriting `/endowment-model-explained/` (Wave 15) or `/yale-endowment-model/` (Wave 14). Another UniSuper / investment-committee / infra-debt / NCREIF / commodity-supercycle synonym. Minting `/harvard-endowment-explained/`, `/texas-trs/`, `/nssf-explained/`, `/safe-china/`, `/unisuper/`, or `/cbus-explained/`. Inventing an ADIA, QIA, SAFE, or NSSF AUM. `/estimated-sustainable-income-rule-explained/` and `/hong-kongs-family-office-moment/` (no leftover house AUM). `/best-institutional-investor-publications/` (leftover CalPERS **$515 billion** — media list, weaker). `/data-centers-institutional-asset-class/` (Wave 48 twin).
+
+**Next wake must:** Paste 5 → 65. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another externalities / data-providers / China-cluster / IRR-define / in-state synonym. Highest-harm leftovers now: `/stakeholder-capitalism-investor/` (leftover CalPERS **$440 billion** / leftover CalSTRS **$314 billion** / leftover CDPQ **$295 billion**); `/un-pri-principles-responsible-investment/` (leftover CalPERS **$450 billion** / leftover GPIF **$1.8 trillion**); `/asset-owners-and-stablecoins/` (leftover CalPERS **$440 billion** / leftover Yale **$41 billion**); unpublished keepers (GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn).
+
 ## 2026-08-26 — Wake 64: leftover UniSuper A$70bn / leftover AUD $195bn; leftover CalPERS $440bn / $469bn / $470bn; leftover GPIF $1.7T; leftover OTPP $250bn; leftover CalSTRS $312bn; leftover Yale $41.4bn / leftover $41bn; leftover Harvard $50.7bn; leftover Mubadala $284bn; leftover CPP CAD $609bn; leftover KIC $214bn
 
 **Queries / URLs:** `/unisuper-explained/`, `/investment-committee-governance/`, `/infrastructure-debt-explained-asset-owners/`, `/ncreif-index-explained/`, `/commodity-supercycle-institutional/`.

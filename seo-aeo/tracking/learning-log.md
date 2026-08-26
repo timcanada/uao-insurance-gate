@@ -1,5 +1,27 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 54: leftover CalPERS $440bn / $505bn / $450bn / $460bn / $500bn; leftover GPFG $1.3T / $1.4T; leftover CalSTRS $314bn; leftover GPIF ¥180T / leftover $1.2T; leftover Yale $41.4bn; leftover Harvard $53.2bn; leftover Princeton $34.1bn; leftover CPP $618bn
+
+**Queries / URLs:** `/operational-due-diligence-private-equity/`, `/shareholder-activism-institutional/`, `/deforestation-risk-portfolios/`, `/proxy-voting-institutional-investors/`, `/stewardship-codes-explained/`.
+
+**What was wrong on the live site:**
+
+- Operational DD invent leftover CalPERS **$440 billion** (2024). Official: CalPERS **$637.1 billion**.
+- Shareholder activism invent leftover CalPERS **$505 billion** (June 2024), leftover **$500 billion**, leftover ISS **$100 trillion**, leftover ICCR **$65 billion**. Official: CalPERS **$637.1 billion**.
+- Deforestation invent leftover CalPERS **$450 billion**, leftover GPFG **$1.3 trillion**, leftover Robeco **$290 billion**. Official: CalPERS **$637.1 billion**. GPFG **kroner**.
+- Proxy voting invent leftover CalPERS **$460 billion**, leftover CalSTRS **$314 billion**, leftover Vanguard **$8.2 trillion**. Twin invent leftover CalPERS **$500 billion**, leftover GPFG **$1.4 trillion**, leftover Yale **$41.4 billion**, leftover Harvard **$53.2 billion**, leftover Princeton **$34.1 billion**, leftover CPP **$618 billion**. Official: CalPERS **$637.1 billion**. CalSTRS **$415.4 billion**. GPFG **kroner**. Yale **$44.1 billion**. Harvard **$56.9 billion**. Princeton **$36.4 billion**. CPP **C$793.3 billion**.
+- Stewardship codes invent leftover GPIF **¥180 trillion** / leftover **$1.2 trillion** (2024). Official: GPIF **¥293,643.7 billion**.
+
+**Confirmed still unpublished:** Waves 1–54. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00**; empty-wallet alerts through **26 Aug 15:22 UTC**. Do not ping support.
+
+**Shipped (Wave 54):** five overwrites. No new slugs. Publisher default waves now include 54. Queued 301: `/proxy-voting-explained/`.
+
+**Refused:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / CDPQ / OMERS / CalPERS / Mubadala / Temasek / Future Fund / Alaska / ADIA / GIC / BCI / GPIF institution keepers. Overwriting `/endowment-model-explained/` (Wave 15) or `/yale-endowment-model/` (Wave 14). Another rebalancing / Paris-aligned / transition-finance / CA100+ / TNFD synonym. Minting `/harvard-endowment-explained/`, `/princeton-endowment/`, `/operational-due-diligence/`, `/shareholder-activism/`, `/deforestation-risk/`, `/proxy-voting/`, or `/stewardship-codes/`. Fetching leftover ISS / ICCR / Robeco / Vanguard / BlackRock piles.
+
+**Next wake must:** Paste 5 → 54. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another ODD / activism / deforestation / proxy / stewardship-codes synonym. Highest-harm leftovers now: unpublished keepers (GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn). Score the next leftover-AUM explainer that is not already in Waves 1–54.
+
 ## 2026-08-26 — Wake 53: leftover CalPERS $440bn / $469bn / $470bn; leftover USS £70bn / $88bn; leftover GPFG $1.3T / $1.15T / leftover NOK 12.1T; leftover ABP €550bn / €515bn / $560bn / $540bn; leftover GPIF $1.2T; leftover CalSTRS $310bn
 
 **Queries / URLs:** `/portfolio-rebalancing-institutional/`, `/paris-aligned-investment-explained/`, `/transition-finance-explained/`, `/climate-action-100-explained/`, `/tnfd-explained-institutional/`.

@@ -182,4 +182,10 @@ P1,private equity secondaries,allocator,both,/private-equity-secondaries-explain
 P1,GP-led secondaries,allocator,both,/gp-led-secondaries-explained/,define,unknown,unknown,unknown,refresh-drafted,Live leftover $45bn / CPP 4-5%. Official $637.1bn / C$793.3bn. Wave 40
 P1,what is an OCIO,allocator,both,/what-is-an-ocio/,define,unknown,unknown,unknown,refresh-drafted,Live leftover $2.5T / $5.8T / Russell $355bn. Official house AUM. Wave 40
 P1,single family office vs multi family office,allocator,both,/single-vs-multi-family-office/,define,unknown,unknown,unknown,refresh-drafted,Live leftover $5.2T MFO. No official FO AUM. Wave 40
-P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,live-check,
+P1,sovereign wealth fund co-investment,allocator,both,/sovereign-wealth-fund-co-investment-models/,define,unknown,unknown,unknown,refresh-drafted,Live leftover CPP $460bn / GPFG $1.4T / GIC $849bn / ADIA $172.5bn. Official C$793.3bn / kroner / no GIC or ADIA AUM. Wave 41
+P1,what is a GP stake,allocator,both,/what-is-a-gp-stake-gp-stakes-investing/,define,unknown,unknown,unknown,refresh-drafted,Live leftover CalPERS $440bn / Yale $41.4bn / USS $75bn. Twin invents Texas TRS $370bn / GPFG $1.3T. 301 short twin. Wave 41
+P1,semi-liquid evergreen fund,allocator,both,/what-is-semi-liquid-evergreen-fund-structure/,define,unknown,unknown,unknown,refresh-drafted,Live leftover CalPERS $443bn / Harvard $50.9bn / Temasek $403bn / CIC $1.45T. Official $637.1bn / $56.9bn / S$518bn / US$1.57T. Wave 41
+P1,Gulf sovereign wealth funds data centers,allocator,both,/gulf-sovereign-wealth-funds-and-data-centers/,define,unknown,unknown,unknown,refresh-drafted,Live leftover PIF $925bn / ADQ $167bn / KIA $716bn. Official more than US$900bn / AED / no KIA AUM. Wave 41
+P1,public vs private equity returns,allocator,both,/public-vs-private-equity-returns/,compare,unknown,unknown,unknown,refresh-drafted,Live leftover CalPERS $490.7bn / Stanford $36.3bn / Yale $41.4bn. Official $637.1bn / $40.8bn / $44.1bn. Wave 41
+P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
+

@@ -1,5 +1,29 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 41: leftover CPP $460bn / $625bn; GPFG $1.4T / $1.3T; leftover GIC $849bn; leftover ADIA $172.5bn / $170bn; leftover Yale $41.4bn; leftover PIF $925bn / KIA $716bn
+
+**Queries / URLs:** `/sovereign-wealth-fund-co-investment-models/`, `/what-is-a-gp-stake-gp-stakes-investing/`, `/what-is-semi-liquid-evergreen-fund-structure/`, `/gulf-sovereign-wealth-funds-and-data-centers/`, `/public-vs-private-equity-returns/`.
+
+**What was wrong on the live site:**
+
+- SWF co-invest invents leftover CPP **$460 billion**, leftover GPFG **$1.4 trillion / $100 billion**, leftover Temasek **$439 billion**, leftover ADIA **$172.5 billion**, leftover CalPERS **$494 billion**, leftover GIC **$849 billion**. Official: CPP **C$793.3 billion**. GPFG **kroner**. Temasek **S$518 billion**. ADIA and GIC publish **no AUM**. CalPERS **$637.1 billion**.
+- GP stakes invent leftover CalPERS **$440 billion**, leftover OTPP **$241 billion**, leftover CPP **$625 billion**, leftover Yale **$41.4 billion**, leftover USS **$75 billion**, leftover APG **€77 billion**. Twin invents leftover CalPERS **$500+ billion**, leftover Texas TRS **$370 billion**, leftover GPFG **$1.3 trillion**, leftover ADIA **$170 billion**. Official: CalPERS **$637.1 billion**. OTPP **C$303.2 billion**. CPP **C$793.3 billion**. Yale **$44.1 billion**. USS DB **£79.8 billion**. Texas TRS **$225.3 billion**. APG is the administrator, not a second AUM.
+- Evergreen invent leftover CalPERS **$443 billion**, leftover Harvard **$50.9 billion**, leftover Temasek **$403 billion**, leftover CIC **$1.45 trillion**, leftover Preqin **$150–180 billion**. Official: CalPERS **$637.1 billion**. Harvard **$56.9 billion**. Temasek **S$518 billion**. CIC **US$1.57T / US$1.37T**.
+- Gulf data centers invent leftover PIF **$925 billion**, leftover ADQ **$167 billion**, leftover KIA **$716 billion**, leftover GPFG **$1.3 trillion**. Official: PIF **more than US$900 billion**. ADQ **AED 921,741 million**. KIA publishes **no AUM**.
+- Public vs PE invent leftover CalPERS **$490.7 billion**, leftover Stanford **$36.3 billion**, leftover Yale **$41.4 billion**, leftover Cambridge **$4.1 trillion**. Official: CalPERS **$637.1 billion**. Stanford endowment **$40.8 billion**. Yale **$44.1 billion**.
+
+**Confirmed still unpublished:** Waves 1–41. `/directory/` **404**. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00**; newer zero-delivery alerts through **26 Aug 14:21 UTC**. Do not ping support.
+
+**Shipped (Wave 41):** five overwrites. No new slugs. Publisher default waves now include 41. Queued 301: `/gp-stakes-investing/` → GP-stakes keeper.
+
+**Refused:** ICD YE2025 PDF. Dollarizing GPIF / GPFG / ADQ. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / OMERS / CalPERS / Mubadala / Temasek institution keepers. Overwriting `/endowment-model-explained/` (Wave 15) or `/yale-endowment-model/` (Wave 14). Minting `/strs-ohio-explained/`, `/texas-trs/`, `/psp-investments/`, `/family-office/`, `/harvard-endowment-explained/`, `/evergreen-funds-explained/`, or `/adq-explained/`. Fetching leftover Preqin / Cambridge / Bain / Horizon / OMFIF piles. Another continuation / PE-secondaries / GP-led / OCIO / SFO-vs-MFO synonym. `/j-curve-private-equity/`, `/denominator-effect-explained/`, `/physical-climate-risk-asset-owners/`, `/co-investment-vs-direct-investment/` (no leftover house AUM). `/esg-backlash-and-pension-funds/` (dated Indiana fiscal note). `/infrastructure-as-an-asset-class/` (consultant fundraising pile). `/gulf-sovereign-wealth-funds-and-ai-investment/` (score next).
+
+**Access:** Secrets re-requested. `GHOST_ADMIN_API_KEY` and `GOOGLE_SERVICE_ACCOUNT_JSON` still UNSET.
+
+**Next wake must:** Paste 5 → 41. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another SWF-co-invest / GP-stakes / evergreen / Gulf-data-center / public-vs-PE synonym. Highest-harm leftovers now: `/gulf-sovereign-wealth-funds-and-ai-investment/` (leftover ADIA **$163 billion** / PIF **$925 billion** / QIA **$450 billion**); `/ai-infrastructure-as-an-asset-class/` (leftover CalPERS **$500 billion** / CPP **$650 billion**); `/what-is-co-investment-in-private-equity/` (leftover CalPERS **$469 billion** / CalSTRS **$340 billion**); unpublished keepers (GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn).
+
 ## 2026-08-26 — Wake 40: CalPERS $468bn / $520bn; Yale $41.4bn; leftover GPIF $1.1T; leftover $225–240bn secondaries; leftover $2.5T OCIO / $5.2T MFO
 
 **Queries / URLs:** `/secondaries-continuation-fund/`, `/private-equity-secondaries-explained/`, `/gp-led-secondaries-explained/`, `/what-is-an-ocio/`, `/single-vs-multi-family-office/`.

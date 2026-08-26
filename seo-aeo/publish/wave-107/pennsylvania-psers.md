@@ -50,5 +50,6 @@ Do not 301 this page onto `/calpers-explained-largest-us-pension-fund/`, `/what-
 - [OPERS](/ohio-opers/)
 - [Pennsylvania SERS](/pennsylvania-sers/)
 - [Virginia Retirement System](/virginia-retirement-system/)
+- [Georgia ERS](/georgia-ers/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

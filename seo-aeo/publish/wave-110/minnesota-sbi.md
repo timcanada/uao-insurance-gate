@@ -49,5 +49,6 @@ Do not 301 this page onto `/wisconsin-investment-board-swib-explained/`, `/illin
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Wisconsin Investment Board](/wisconsin-investment-board-swib-explained/)
 - [Illinois State Board of Investment](/illinois-isbi/)
+- [South Dakota Retirement System](/south-dakota-retirement-system/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

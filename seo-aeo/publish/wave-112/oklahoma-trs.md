@@ -48,5 +48,6 @@ Do not 301 this page onto `/texas-teacher-retirement-system-explained/`, `/oklah
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Texas TRS](/texas-teacher-retirement-system-explained/)
 - [Oklahoma OPERS](/oklahoma-opers/)
+- [Arkansas Teacher Retirement](/arkansas-teacher-retirement/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

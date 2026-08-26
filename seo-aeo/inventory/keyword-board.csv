@@ -537,5 +537,10 @@ P1,Mississippi PERS,allocator,both,/mississippi-pers/,define,unknown,unknown,unk
 P1,Idaho PERSI,allocator,both,/idaho-persi/,define,unknown,unknown,unknown,drafted-wave-112,Wave 112. Official Combined pension-restricted $24,797,083,283 at 30 Jun 2025. Do not mint /persi/
 P1,LASERS,allocator,both,/louisiana-lasers/,define,unknown,unknown,unknown,drafted-wave-112,Wave 112. Official $17,223,211,406 at 30 Jun 2025. Do not mint /lasers/
 P1,Oklahoma TRS,allocator,both,/oklahoma-trs/,define,unknown,unknown,unknown,drafted-wave-112,Wave 112. Official Combined $25,181,260,433 at 30 Jun 2025. Do not mint /oklahoma-trs-explained/
+P1,Arkansas Teacher Retirement,allocator,both,/arkansas-teacher-retirement/,define,unknown,unknown,unknown,drafted-wave-113,Wave 113. Official FNP $23,741,135,860 at 30 Jun 2025. Do not mint /atrs/
+P1,Missouri PSRS PEERS,allocator,both,/missouri-psrs-peers/,define,unknown,unknown,unknown,drafted-wave-113,Wave 113. Official Combined $63,124,090,036 at 30 Jun 2025. Do not mint /psrs-peers/
+P1,South Dakota Retirement System,allocator,both,/south-dakota-retirement-system/,define,unknown,unknown,unknown,drafted-wave-113,Wave 113. Official FNP $15,271,517,603 at 30 Jun 2025. Do not mint /sdrs/
+P1,Georgia ERS,allocator,both,/georgia-ers/,define,unknown,unknown,unknown,drafted-wave-113,Wave 113. Official Combined $26,469,880 thousand at 30 Jun 2025. Do not mint /ersga/
+P1,New Hampshire Retirement System,allocator,both,/new-hampshire-retirement-system/,define,unknown,unknown,unknown,drafted-wave-113,Wave 113. Official Combined $13,447,973 thousand at 30 Jun 2025. Do not mint /nhrs/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

@@ -55,5 +55,6 @@ Do not 301 this page onto `/massachusetts-prim/`, `/illinois-isbi/`, or `/larges
 - [MOSERS](/missouri-mosers/)
 - [Idaho PERSI](/idaho-persi/)
 - [Arkansas PERS](/arkansas-pers/)
+- [South Dakota Retirement System](/south-dakota-retirement-system/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -168,6 +168,16 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,lasers,LASERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 112 /louisiana-lasers/
 112,institution,oklahoma-trs,Oklahoma TRS,allocator,brief,P0,drafted-in-repo,Wave 112. Official Combined $25,181,260,433 at 30 Jun 2025. Do not mint /oklahoma-trs-explained/ or /oktrs/
 2,institution,oklahoma-trs-explained,Oklahoma TRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 112 /oklahoma-trs/
+113,institution,arkansas-teacher-retirement,Arkansas Teacher Retirement,allocator,brief,P0,drafted-in-repo,Wave 113. Official FNP $23,741,135,860 at 30 Jun 2025. Do not mint /atrs/ or /arkansas-trs/
+2,institution,atrs,ATRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 113 /arkansas-teacher-retirement/
+113,institution,missouri-psrs-peers,Missouri PSRS PEERS,allocator,brief,P0,drafted-in-repo,Wave 113. Official Combined $63,124,090,036 at 30 Jun 2025. Do not mint /psrs-peers/ or /missouri-psrs/
+2,institution,psrs-peers,PSRS PEERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 113 /missouri-psrs-peers/
+113,institution,south-dakota-retirement-system,South Dakota Retirement System,allocator,brief,P0,drafted-in-repo,Wave 113. Official FNP $15,271,517,603 at 30 Jun 2025. Do not mint /sdrs/ or /south-dakota-retirement-system-explained/
+2,institution,sdrs,SDRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 113 /south-dakota-retirement-system/
+113,institution,georgia-ers,Georgia ERS,allocator,brief,P0,drafted-in-repo,Wave 113. Official Combined $26,469,880 thousand at 30 Jun 2025. Do not mint /ersga/ or /georgia-ers-explained/
+2,institution,ersga,ERSGA (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 113 /georgia-ers/
+113,institution,new-hampshire-retirement-system,New Hampshire Retirement System,allocator,brief,P0,drafted-in-repo,Wave 113. Official Combined $13,447,973 thousand at 30 Jun 2025. Do not mint /nhrs/ or /new-hampshire-retirement-system-explained/
+2,institution,nhrs,NHRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 113 /new-hampshire-retirement-system/
 2,institution,teacher-retirement-system-of-texas-cio,TRS Texas CIO office,allocator,brief,P0,needed,Public pension
 2,institution,cpp-vs-otpp-vs-cdpq,The Canadian large-plan triangle,allocator,brief,P0,needed,Comparison
 105,institution,unjspf,UNJSPF,allocator,brief,P0,drafted-in-repo,Wave 105. Official $107,533,052 thousand net assets at 31 Dec 2025. Do not mint /unjps-united-nations/ or /united-nations-joint-staff-pension-fund/

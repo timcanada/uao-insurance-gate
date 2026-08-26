@@ -48,5 +48,6 @@ Do not 301 this page onto `/illinois-isbi/`, `/iowa-ipers/`, or `/largest-us-pub
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Illinois State Board of Investment](/illinois-isbi/)
 - [Iowa IPERS](/iowa-ipers/)
+- [Missouri PSRS and PEERS](/missouri-psrs-peers/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

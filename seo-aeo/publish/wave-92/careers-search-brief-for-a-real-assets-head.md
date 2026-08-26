@@ -44,6 +44,8 @@ Owners already use [Careers](/careers/) when they are hiring a real-assets head,
 
 - [Real assets vs private equity](/real-assets-vs-private-equity-allocation/)
 - [Infrastructure as an asset class](/infrastructure-as-an-asset-class/)
+- [How recruiters reach sovereign-fund talent](/how-do-recruiters-reach-sovereign-fund-talent/)
+- [What is an Institutional Talent Desk?](/what-is-an-institutional-talent-desk/)
 - [Directory: executive search](/directory/executive-search/)
 - [Succession inside a public plan](/careers/intelligence/succession-inside-a-public-plan/)
 - [Building vs renting a CIO office](/careers/intelligence/internal-vs-external-cio-office/)

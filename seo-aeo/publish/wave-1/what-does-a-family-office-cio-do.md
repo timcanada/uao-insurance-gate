@@ -29,7 +29,7 @@ You will rarely see a 13F that tells the whole story. Judge what *is* public: sp
 
 ## Careers
 
-Family-office seats are often unadvertised. That is why [Careers](/careers/) and the Institutional Talent Desk exist. Candidate information is not shared without consent.
+Family-office seats are often unadvertised. That is why [Careers](/careers/) and the [Institutional Talent Desk](/what-is-an-institutional-talent-desk/) exist. Candidate information is not shared without consent.
 
 ## Related
 

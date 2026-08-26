@@ -1,5 +1,24 @@
 # Learning log (append only)
 
+## 2026-08-26 — Wake 94: recruiter, talent desk, Strategic Council, custodian, placement agents
+
+**Queries / URLs:** `/how-do-recruiters-reach-sovereign-fund-talent/`, `/what-is-an-institutional-talent-desk/`, `/what-is-a-strategic-council-membership-for-asset-owners/`, `/how-do-owners-pick-a-custodian/`, `/how-do-pensions-use-placement-agents/`.
+
+**What was wrong on the live site:**
+
+- Leftover official-filing house-AUM keepers remain exhausted after Wave 80. Remaining city P1s still fail the HQ-street lock. Wave 93 shipped five press/comparison/advertiser pages. The recruiter/talent-desk/membership/operations rotation still had five unique P1s that were live **404** (confirmed 26 Aug).
+- Live `/careers/` names the **Institutional Talent Desk**; inbox **info@universalassetowners.com**; no CV without consent; no individually verified roles live. Live `/membership/` prices Strategic Council from **$175,000 / year** (Core **$60,000**; Intelligence **$100,000**; Sovereign typically **$300,000+**). OCC custody: settlement, safekeeping, reporting. Cal. Code Regs. Tit. 2, § 559 (filed 28 Jan 2011): compensated finder; disclosure within 45 days and before diligence ends; decline unregistered SEC/FINRA/CFTC agents.
+
+**Confirmed still unpublished:** Waves 1–94. `/directory/` **404**. `/podcast-universal-owner/` and `/publications-chief-investment-officers-read/` still **404** (Wave 2). Wave 1 + Wave 84–92 city pages still 404. GPIF institution page live return still **15.83%** (Wave 7). CIC explained still $1.3T. Alaska live still **$89bn** (Wave 12). USS live institution still **£76.8bn** (Wave 9). PFZW live still **€35bn** (Wave 16). NYSCRF live still **$226.8bn** (Wave 10). Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)**. MailAdx wallet still **$0.00**. Do not ping support.
+
+**Shipped (Wave 94):** five recruiter / membership / operations pages. Wave 81 exec-search and custody hubs, Wave 82 placement-agents hub, Wave 92 careers/hire pages, Wave 2 advertise-to-asset-owners, Wave 93 $20k media-buy, and Wave 1 family-office CIO now link them. No leftover 301s. Publisher default waves now include 94.
+
+**Refused:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ / USS / ATP / Khazanah / HKMA / NPS / EPF / Keva / VER / ÖBAG / TVF. Overwriting institution keepers. `/how-do-service-providers-advertise-to-asset-owners/` and `/what-publications-do-cios-read/` (Wave 2 twins). `/careers/intelligence/cio-compensation-public-plans/` (do not invent pay). Remaining skip/weak cities. `/how-do-owners-open-a-london-office/` (Wave 83 twin risk). `/what-is-a-family-investment-committee/` (boarding-an-IC twin risk). `/how-do-people-moves-signal-allocation-changes/` (people-page adjacent). Podcast episode show notes that would reprint leftover GPFG **$2.3tn** or homemade **$1.3T** combined-interview AUM. Directory firm children without three sourced facts. Minting `/quote-uao/`, `/swfi-explained/`, `/20k-media-buy/`, `/family-office/`, `/lsr-explained/`, `/tvf-explained/`, `/niif/`, `/careers/cities/abuja/`, `/pggm/`, `/pfzw-netherlands/`, `/aimco-explained/`, `/psp-investments/`, `/korea-investment-corporation-kic/`, `/how-recruiters-reach-swf-talent/`, `/talent-desk-explained/`, `/strategic-council-explained/`, `/pension-custodian/`, or `/placement-agent/`. Inventing a subscriber total, a live-role count, or pay bands. People/CEO pages. Dated news.
+
+**Next wake must:** Paste Wave 1 directory + cities + relocating, Wave 84–92 cities, Wave 81–83 hubs, Wave 92–94 careers/press/advertiser/membership pages, then 5 → 79 keepers including `/new-york-city-crs/`. Then 301 `twins.csv`. If the Ghost key lands, drafts first. After wallet fund, MailAdx `%%{email}%%` test. Do not draft another leftover synonym explainer. Remaining city P1s stay skip/weak until an official HQ street locks. Next rotation: podcast episode SEO only for episodes whose show notes do not force leftover AUM; then directory firms only with three sourced facts; then remaining unique advertiser/careers P1s that are not twins. Skip compensation until sourced. Highest-harm unpublished leftovers remain: GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn.
+
 ## 2026-08-26 — Wake 93: press / comparison / advertiser pages (podcast–advertiser rotation)
 
 **Queries / URLs:** `/how-to-get-quoted-as-an-asset-owner-publication/`, `/who-covers-sovereign-wealth-funds/`, `/ipe-vs-pensions-and-investments-vs-uao/`, `/what-is-swfi-vs-a-newsroom/`, `/what-does-a-20k-a-month-media-buy-get-you/`.

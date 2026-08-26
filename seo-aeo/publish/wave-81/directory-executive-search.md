@@ -47,6 +47,8 @@ See [Advertise](/advertise/) and the [Directory](/directory/).
 
 ## Related on Universal Asset Owners
 
+- [How recruiters reach sovereign-fund talent](/how-do-recruiters-reach-sovereign-fund-talent/)
+- [What is an Institutional Talent Desk?](/what-is-an-institutional-talent-desk/)
 - [Careers](/careers/)
 - [What is an asset owner?](/what-is-an-asset-owner/)
 - [Advertise](/advertise/)

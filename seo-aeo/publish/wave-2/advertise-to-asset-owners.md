@@ -50,6 +50,7 @@ Email info@universalassetowners.com or use the 15-minute call on [Advertise](/ad
 ## Related
 
 - [What a $20,000 institutional media buy is](/what-does-a-20k-a-month-media-buy-get-you/)
+- [What is a Strategic Council membership?](/what-is-a-strategic-council-membership-for-asset-owners/)
 - [IPE vs P&I vs UAO](/ipe-vs-pensions-and-investments-vs-uao/)
 - [Display advertising](/display-advertising/)
 - [Advertise](/advertise/)

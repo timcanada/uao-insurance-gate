@@ -51,6 +51,7 @@ We write the owner's side. We also run a [legal directory hub](/directory/legal/
 ## Related
 
 - [How pension funds retain counsel](/how-pension-funds-retain-counsel/)
+- [How recruiters reach sovereign-fund talent](/how-do-recruiters-reach-sovereign-fund-talent/)
 - [Directory: legal](/directory/legal/)
 - [What is a sovereign wealth fund?](/sovereign-wealth-fund/)
 - [Santiago Principles](/santiago-principles/)

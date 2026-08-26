@@ -49,6 +49,7 @@ See [Advertise](/advertise/) and the [Directory](/directory/).
 
 ## Related on Universal Asset Owners
 
+- [How owners pick a custodian](/how-do-owners-pick-a-custodian/)
 - [What is an asset owner?](/what-is-an-asset-owner/)
 - [Fiduciary duty](/fiduciary-duty-explained-institutional/)
 - [Advertise](/advertise/)

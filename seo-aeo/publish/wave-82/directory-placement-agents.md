@@ -49,6 +49,7 @@ See [Advertise](/advertise/) and the [Directory](/directory/).
 
 ## Related on Universal Asset Owners
 
+- [How pensions use placement agents](/how-do-pensions-use-placement-agents/)
 - [What is co-investment in private equity?](/what-is-co-investment-in-private-equity/)
 - [What is an asset owner?](/what-is-an-asset-owner/)
 - [Advertise](/advertise/)

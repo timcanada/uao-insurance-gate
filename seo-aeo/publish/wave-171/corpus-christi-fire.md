@@ -50,5 +50,7 @@ Do not 301 this page onto `/texas-tmrs/`, `/texas-ers/`, `/houston-hfrrf/`, `/cc
 - [Texas ERS](/texas-ers/)
 - [Houston Firefighters](/houston-hfrrf/)
 - [Texas Emergency Services Retirement System](/texas-tesrs/)
+- [McAllen Firemen’s Relief and Retirement Fund](/mcallen-fire/)
+- [Denison Firemen’s Relief and Retirement Fund](/denison-fire/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

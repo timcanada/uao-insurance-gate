@@ -624,6 +624,16 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,ladwp,LADWP (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 173 /wperp/
 2,institution,la-water-power,LA Water and Power (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 173 /wperp/
 2,institution,wperp-explained,WPERP (explained twin),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 173 /wperp/
+174,institution,mcallen-fire,McAllen Firemens Relief and Retirement Fund,allocator,brief,P0,drafted-in-repo,Wave 174. Official FNP $70,136,002 at 30 Sep 2025. Investments $69,389,804 are not FNP. GASB 65.6%. Notes MWR 7.14%. Do not mint /mfrrf/ or /mcallen/. Not leftover TMRS or leftover Corpus Christi Fire
+2,institution,mcallen-firemen,McAllen Firemen (long twin),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 174 /mcallen-fire/
+2,institution,mfrrf,MFRRF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 174 /mcallen-fire/
+2,institution,mcallen-frrf,McAllen FRRF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 174 /mcallen-fire/
+2,institution,mcallen,McAllen (city short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 174 /mcallen-fire/
+174,institution,denison-fire,Denison Firemens Relief and Retirement Fund,allocator,brief,P0,drafted-in-repo,Wave 174. Official FNP $26,731,832 at 31 Dec 2025. Investments $26,392,120 are not FNP. GASB 79.4%. RSI MWR 11.60%. Do not mint /denison-frrf/ or /denison/. Not leftover McAllen Fire or leftover Corpus Christi Fire
+2,institution,denison-frrf,Denison FRRF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 174 /denison-fire/
+2,institution,denison-firemen,Denison Firemen (long twin),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 174 /denison-fire/
+2,institution,dfrrf,DFRRF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 174 /denison-fire/
+2,institution,denison,Denison (city short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 174 /denison-fire/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

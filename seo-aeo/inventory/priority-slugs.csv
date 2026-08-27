@@ -755,6 +755,11 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,fairfax-erfc-explained,Fairfax ERFC explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 179 /fairfax-erfc/
 2,institution,erfc,ERFC (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 179 /fairfax-erfc/
 2,institution,fairfax-schools,Fairfax schools (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 179 /fairfax-erfc/
+179,institution,boynton-beach-fire,City of Boynton Beach Municipal Firefighters Pension Trust Fund,allocator,brief,P0,drafted-in-repo,Wave 179. Official FNP $208,743,318 at 30 Sep 2025. Do not mint /boynton-beach/ or /bbffp/ or /pfrs/. Not leftover West Palm Beach Fire
+2,institution,boynton-beach-fire-explained,Boynton Beach Fire explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 179 /boynton-beach-fire/
+2,institution,boynton-beach-firefighters,Boynton Beach firefighters (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 179 /boynton-beach-fire/
+2,institution,boynton-beach,Boynton Beach (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 179 /boynton-beach-fire/
+2,institution,bbffp,BBFFP (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 179 /boynton-beach-fire/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

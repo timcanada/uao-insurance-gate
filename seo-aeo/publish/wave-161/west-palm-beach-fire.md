@@ -27,7 +27,7 @@ The statement of fiduciary net position, Note 7, Note 13, and the money-weighted
 2. **GASB cards.** Total pension liability **$431,983,864**. City net pension liability **$95,748,725**. Plan fiduciary net position as a percentage of total pension liability **77.84 percent** (2024 **79.01 percent**). Do not treat **$431,983,864** as AUM. Covered payroll **$26,792,161**. Employer **$9,172,082** plus state excise tax rebate **$2,533,778** plus plan-member **$4,149,217** plus BackDROP **$1,186,578**. The RSI actual-contribution line **$11,705,860** is the employer-and-state combined card, not the employer-only line.
 3. **Returns and cash flow.** Notes money-weighted return **7.65 percent** net of investment expense for the year ended **30 September 2025** (2024 **17.39 percent**). Net investment income **$23,159,318**. Age-and-service benefits **$12,552,614**. Share-account payments **$2,513,398**. BackDROP-account payments **$5,584,996**. Administrative expenses **$234,549**. Total deductions **$21,650,836**. The independent auditor’s report is dated **5 February 2026**, Tampa, Florida.
 
-Do not flatten the West Palm Beach Firefighters’ Pension Fund into [West Palm Beach Police Pension Fund](/west-palm-beach-police/), [West Palm Beach Restated Employees Defined Benefit Retirement System](/west-palm-beach-employees/), [City of Palm Beach Gardens Firefighters’ Pension Fund](/palm-beach-gardens-fire/), or [City of Boca Raton Police and Firefighters’ Retirement System](/boca-raton-police-fire/). West Palm Beach Police is the police file. West Palm Beach Employees is the closed civilian file. Palm Beach Gardens Fire is a Palm Beach Gardens file. Boca Police and Fire is a Boca Raton file. This is **one West Palm Beach firefighter file**.
+Do not flatten the West Palm Beach Firefighters’ Pension Fund into [West Palm Beach Police Pension Fund](/west-palm-beach-police/), [West Palm Beach Restated Employees Defined Benefit Retirement System](/west-palm-beach-employees/), [City of Palm Beach Gardens Firefighters’ Pension Fund](/palm-beach-gardens-fire/), [City of Boynton Beach Municipal Firefighters Pension Trust Fund](/boynton-beach-fire/), or [City of Boca Raton Police and Firefighters’ Retirement System](/boca-raton-police-fire/). West Palm Beach Police is the police file. West Palm Beach Employees is the closed civilian file. Palm Beach Gardens Fire is a Palm Beach Gardens file. Boynton Beach Fire is a Boynton Beach firefighter file. Boca Police and Fire is a Boca Raton file. This is **one West Palm Beach firefighter file**.
 
 ## What an owner is actually buying
 
@@ -49,6 +49,7 @@ Do not 301 this page onto `/west-palm-beach-police/`, `/west-palm-beach-employee
 - [West Palm Beach Police Pension Fund](/west-palm-beach-police/)
 - [West Palm Beach Restated Employees Defined Benefit Retirement System](/west-palm-beach-employees/)
 - [City of Palm Beach Gardens Firefighters’ Pension Fund](/palm-beach-gardens-fire/)
+- [City of Boynton Beach Municipal Firefighters Pension Trust Fund](/boynton-beach-fire/)
 - [Palm Beach Gardens Police Officers’ Pension Fund](/palm-beach-gardens-police/)
 - [Town of Jupiter Police Officers’ Retirement Fund](/jupiter-police/)
 - [Lantana Police Relief and Pension Fund](/lantana-police/)

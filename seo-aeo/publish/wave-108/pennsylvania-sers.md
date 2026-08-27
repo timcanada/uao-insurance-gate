@@ -55,5 +55,6 @@ Do not 301 this page onto `/pennsylvania-psers/`, `/calpers-explained-largest-us
 - [Pittsburgh Firemen’s Relief and Pension Plan](/pittsburgh-fire/)
 - [City of Philadelphia Municipal Pension Fund](/philadelphia-municipal/)
 - [Philadelphia Gas Works Retirement Reserve](/philadelphia-pgw/)
+- [Pennsylvania Municipal Retirement System](/pennsylvania-pmrs/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

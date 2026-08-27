@@ -47,6 +47,7 @@ Do not 301 this page onto `/colorado-pera/`, `/phoenix-copers/`, or `/largest-us
 - [Public pension funds](/public-pension-funds/)
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Colorado PERA](/colorado-pera/)
+- [Fire and Police Pension Association of Colorado](/colorado-fppa/)
 - [Phoenix COPERS](/phoenix-copers/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

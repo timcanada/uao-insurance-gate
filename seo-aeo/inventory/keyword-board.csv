@@ -676,5 +676,10 @@ P1,Municipal Employees’ Retirement System of Michigan,allocator,both,/michigan
 P1,Municipal Fire and Police Retirement System of Iowa,allocator,both,/iowa-mfprsi/,define,unknown,unknown,unknown,drafted-wave-140,Wave 140. Official FNP $3,496,382,132 at 30 Jun 2025. Do not mint /mfprsi/
 P1,Vermont State Retirement System,allocator,both,/vermont-vsers/,define,unknown,unknown,unknown,drafted-wave-140,Wave 140. Official FNP $2,944,071,052 at 30 Jun 2025. Do not mint /vsers/
 P1,Vermont State Teachers’ Retirement System,allocator,both,/vermont-vstrs/,define,unknown,unknown,unknown,drafted-wave-140,Wave 140. Official FNP $3,136,315,717 at 30 Jun 2025. Do not mint /vstrs/
+P1,Vermont Municipal Employees’ Retirement System,allocator,both,/vermont-vmers/,define,unknown,unknown,unknown,drafted-wave-141,Wave 141. Official DB FNP $1,121,818,646 at 30 Jun 2025. Do not mint /vmers/
+P1,Fire and Police Pension Association of Colorado,allocator,both,/colorado-fppa/,define,unknown,unknown,unknown,drafted-wave-141,Wave 141. Official combined FNP $9,337,353,230 at 31 Dec 2025. Do not mint /fppa/
+P1,Pennsylvania Municipal Retirement System,allocator,both,/pennsylvania-pmrs/,define,unknown,unknown,unknown,drafted-wave-141,Wave 141. Official FNP $3,964,321,928 at 31 Dec 2025. Do not mint /pmrs/
+P1,Baton Rouge CPERS Trust,allocator,both,/baton-rouge-employees/,define,unknown,unknown,unknown,drafted-wave-141,Wave 141. Official CPERS Trust FNP $1,439,791,602 at 31 Dec 2025. Do not mint /cpers/
+P1,Baton Rouge Police Guarantee Trust,allocator,both,/baton-rouge-pgt/,define,unknown,unknown,unknown,drafted-wave-141,Wave 141. Official PGT FNP $28,572,231 at 31 Dec 2025. Do not mint /pgt/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

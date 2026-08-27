@@ -449,6 +449,16 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,vsers,Vermont VSERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 140 /vermont-vsers/
 140,institution,vermont-vstrs,Vermont State Teachers Retirement System,allocator,brief,P0,drafted-in-repo,Wave 140. Official FNP $3,136,315,717 at 30 Jun 2025. Do not mint /vstrs/
 2,institution,vstrs,Vermont VSTRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 140 /vermont-vstrs/
+141,institution,vermont-vmers,Vermont Municipal Employees Retirement System,allocator,brief,P0,drafted-in-repo,Wave 141. Official DB FNP $1,121,818,646 at 30 Jun 2025. Do not mint /vmers/ or /mers/
+2,institution,vmers,Vermont VMERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 141 /vermont-vmers/
+141,institution,colorado-fppa,Fire and Police Pension Association of Colorado,allocator,brief,P0,drafted-in-repo,Wave 141. Official combined FNP $9,337,353,230 at 31 Dec 2025. Do not mint /fppa/
+2,institution,fppa,Colorado FPPA (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 141 /colorado-fppa/
+141,institution,pennsylvania-pmrs,Pennsylvania Municipal Retirement System,allocator,brief,P0,drafted-in-repo,Wave 141. Official FNP $3,964,321,928 at 31 Dec 2025. Do not mint /pmrs/
+2,institution,pmrs,Pennsylvania PMRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 141 /pennsylvania-pmrs/
+141,institution,baton-rouge-employees,Baton Rouge CPERS Trust,allocator,brief,P0,drafted-in-repo,Wave 141. Official CPERS Trust FNP $1,439,791,602 at 31 Dec 2025. Do not mint /cpers/
+2,institution,cpers,Baton Rouge CPERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 141 /baton-rouge-employees/
+141,institution,baton-rouge-pgt,Baton Rouge Police Guarantee Trust,allocator,brief,P0,drafted-in-repo,Wave 141. Official PGT FNP $28,572,231 at 31 Dec 2025. Do not mint /pgt/
+2,institution,pgt,Baton Rouge PGT (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 141 /baton-rouge-pgt/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

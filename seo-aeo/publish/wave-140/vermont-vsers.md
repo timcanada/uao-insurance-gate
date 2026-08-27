@@ -17,7 +17,7 @@ editor_status: draft
 
 Vermont State Retirement System is Vermont’s state-employee pension, not leftover Vermont Teachers, leftover Vermont Municipal Employees, and not leftover ERSRI. The official [30 June 2025 State of Vermont Annual Comprehensive Financial Report](https://auditor.vermont.gov/sites/auditor/files/Fiscal%20Year%202025%C2%A0Annual%20Comprehensive%20Financial%20Report.pdf) prints defined-benefit fiduciary net position of **$2,944,071,052** at **30 June 2025**. State defined-contribution **$93,063,986** is not this book. Money-weighted return was **10.65 percent** net of pension-plan investment expense. Plan-reporting net pension liability was **$985,495 thousand** at the **7.00 percent** discount. Employer-reporting **70.99 percent** at **30 June 2024** is not the 2025 plan card. This page is not a ranking and not advice.
 
-**Do not treat this page as a leftover ERSRI overwrite.** Do not mint `/vsers/`, `/vsrs/`, `/vermont-vsers-explained/`, or `/vermont-state-employees/`. Later Vermont municipal employees sit in leftover Vermont Municipal Employees’ Retirement System if a later page locks. Do not invent a combined Vermont AUM.
+**Do not treat this page as a leftover ERSRI overwrite.** Do not mint `/vsers/`, `/vsrs/`, `/vermont-vsers-explained/`, or `/vermont-state-employees/`. Later Vermont municipal employees sit in [Vermont Municipal Employees’ Retirement System](/vermont-vmers/). Do not invent a combined Vermont AUM.
 
 ## What is official (30 June 2025)
 
@@ -27,7 +27,7 @@ The defined-benefit combining statements and the GASB 67 notes are the sourced l
 2. **GASB cards.** Plan-reporting net pension liability **$985,495 thousand** at the **7.00 percent** discount (**6.00 percent** sensitivity **$1,481,268 thousand**; **8.00 percent** **$576,099 thousand**). Employer-reporting fiduciary net position **$2,663,840 thousand** / **70.99 percent** at the **30 June 2024** measurement is not the 2025 plan card. This page does not invent a 2025 GASB funded ratio that the combining statement does not print.
 3. **Returns.** Notes money-weighted return **10.65 percent** net of pension-plan investment expense for the year ended **30 June 2025** (2024 **10.16 percent**). Teachers **10.76 percent** and Municipal Employees **10.69 percent** are not this card.
 
-Do not flatten the Vermont State Retirement System into [Vermont State Teachers’ Retirement System](/vermont-vstrs/), [Employees’ Retirement System of Rhode Island](/rhode-island-ersri/), [MainePERS](/maine-pers/), or [New Hampshire Retirement System](/new-hampshire-retirement-system/). Teachers is the Vermont educator file. ERSRI is Rhode Island. This is **one Vermont state-employee file**.
+Do not flatten the Vermont State Retirement System into [Vermont State Teachers’ Retirement System](/vermont-vstrs/), [Vermont Municipal Employees’ Retirement System](/vermont-vmers/), [Employees’ Retirement System of Rhode Island](/rhode-island-ersri/), [MainePERS](/maine-pers/), or [New Hampshire Retirement System](/new-hampshire-retirement-system/). Teachers is the Vermont educator file. Municipal Employees is the Vermont municipal-employee file. ERSRI is Rhode Island. This is **one Vermont state-employee file**.
 
 ## What an owner is actually buying
 
@@ -47,6 +47,7 @@ Do not 301 this page onto `/vermont-vstrs/`, `/rhode-island-ersri/`, `/vsers/`, 
 - [Public pension funds](/public-pension-funds/)
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Vermont State Teachers’ Retirement System](/vermont-vstrs/)
+- [Vermont Municipal Employees’ Retirement System](/vermont-vmers/)
 - [Employees’ Retirement System of Rhode Island](/rhode-island-ersri/)
 - [MainePERS](/maine-pers/)
 - [New Hampshire Retirement System](/new-hampshire-retirement-system/)

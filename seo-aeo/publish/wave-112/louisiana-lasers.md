@@ -48,6 +48,8 @@ Do not 301 this page onto `/louisiana-trsl/`, `/kentucky-trs/`, or `/largest-us-
 - [Public pension funds](/public-pension-funds/)
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Louisiana TRSL](/louisiana-trsl/)
+- [Employees’ Retirement System of the City of Baton Rouge and Parish of East Baton Rouge](/baton-rouge-employees/)
+- [Police Guarantee Trust](/baton-rouge-pgt/)
 - [Kentucky TRS](/kentucky-trs/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

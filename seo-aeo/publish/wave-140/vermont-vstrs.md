@@ -27,7 +27,7 @@ The defined-benefit combining statements and the GASB 67 notes are the sourced l
 2. **GASB cards.** Plan-reporting net pension liability **$1,625,927 thousand** at the **7.00 percent** discount (**6.00 percent** sensitivity **$2,203,732 thousand**; **8.00 percent** **$1,143,940 thousand**). Employer-reporting fiduciary net position **$2,817,686 thousand** / **61.65 percent** at the **30 June 2024** measurement is not the 2025 plan card. This page does not invent a 2025 GASB funded ratio that the combining statement does not print.
 3. **Returns.** Notes money-weighted return **10.76 percent** net of pension-plan investment expense for the year ended **30 June 2025** (2024 **10.23 percent**). State Employees **10.65 percent** and Municipal Employees **10.69 percent** are not this card.
 
-Do not flatten the Vermont State Teachers’ Retirement System into [Vermont State Retirement System](/vermont-vsers/), [Employees’ Retirement System of Rhode Island](/rhode-island-ersri/), [MainePERS](/maine-pers/), or [New Hampshire Retirement System](/new-hampshire-retirement-system/). State Employees is the Vermont state-employee file. ERSRI is Rhode Island. This is **one Vermont educator file**.
+Do not flatten the Vermont State Teachers’ Retirement System into [Vermont State Retirement System](/vermont-vsers/), [Vermont Municipal Employees’ Retirement System](/vermont-vmers/), [Employees’ Retirement System of Rhode Island](/rhode-island-ersri/), [MainePERS](/maine-pers/), or [New Hampshire Retirement System](/new-hampshire-retirement-system/). State Employees is the Vermont state-employee file. Municipal Employees is the Vermont municipal-employee file. ERSRI is Rhode Island. This is **one Vermont educator file**.
 
 ## What an owner is actually buying
 
@@ -47,6 +47,7 @@ Do not 301 this page onto `/vermont-vsers/`, `/rhode-island-ersri/`, `/vstrs/`, 
 - [Public pension funds](/public-pension-funds/)
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Vermont State Retirement System](/vermont-vsers/)
+- [Vermont Municipal Employees’ Retirement System](/vermont-vmers/)
 - [Employees’ Retirement System of Rhode Island](/rhode-island-ersri/)
 - [MainePERS](/maine-pers/)
 - [New Hampshire Retirement System](/new-hampshire-retirement-system/)

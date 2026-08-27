@@ -57,5 +57,6 @@ Do not 301 this page onto `/calpers-explained-largest-us-pension-fund/`, `/what-
 - [Pittsburgh Firemen’s Relief and Pension Plan](/pittsburgh-fire/)
 - [City of Philadelphia Municipal Pension Fund](/philadelphia-municipal/)
 - [Philadelphia Gas Works Retirement Reserve](/philadelphia-pgw/)
+- [Pennsylvania Municipal Retirement System](/pennsylvania-pmrs/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

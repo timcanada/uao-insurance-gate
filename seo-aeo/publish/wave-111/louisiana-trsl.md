@@ -49,5 +49,7 @@ Do not 301 this page onto `/texas-teacher-retirement-system-explained/`, `/kentu
 - [Texas TRS](/texas-teacher-retirement-system-explained/)
 - [Kentucky TRS](/kentucky-trs/)
 - [LASERS](/louisiana-lasers/)
+- [Employees’ Retirement System of the City of Baton Rouge and Parish of East Baton Rouge](/baton-rouge-employees/)
+- [Police Guarantee Trust](/baton-rouge-pgt/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

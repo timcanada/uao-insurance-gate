@@ -52,5 +52,6 @@ Do not 301 this page onto `/providence-employees/`, `/maine-pers/`, `/new-hampsh
 - [Massachusetts PRIM](/massachusetts-prim/)
 - [Vermont State Retirement System](/vermont-vsers/)
 - [Vermont State Teachers’ Retirement System](/vermont-vstrs/)
+- [Vermont Municipal Employees’ Retirement System](/vermont-vmers/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

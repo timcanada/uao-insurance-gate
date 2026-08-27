@@ -50,5 +50,6 @@ Do not 301 this page onto `/palm-beach-gardens-police/`, `/jupiter-police/`, `/w
 - [Town of Jupiter Police Officers’ Retirement Fund](/jupiter-police/)
 - [City of Boca Raton Police and Firefighters’ Retirement System](/boca-raton-police-fire/)
 - [City of Palm Beach Gardens Firefighters’ Pension Fund](/palm-beach-gardens-fire/)
+- [City of Sunrise Police Officers’ Retirement Plan](/sunrise-police/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

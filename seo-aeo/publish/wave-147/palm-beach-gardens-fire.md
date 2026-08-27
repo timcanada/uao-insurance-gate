@@ -50,5 +50,6 @@ Do not 301 this page onto `/palm-beach-gardens-police/`, `/pompano-beach-police-
 - [City of Boca Raton Police and Firefighters’ Retirement System](/boca-raton-police-fire/)
 - [West Palm Beach Police Pension Fund](/west-palm-beach-police/)
 - [Pompano Beach Police and Firefighters’ Retirement System](/pompano-beach-police-fire/)
+- [City of Fort Lauderdale Police and Firefighters’ Retirement System](/fort-lauderdale-police-fire/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

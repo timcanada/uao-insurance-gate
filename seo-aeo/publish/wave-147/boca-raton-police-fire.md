@@ -50,5 +50,6 @@ Do not 301 this page onto `/boca-raton-employees/`, `/palm-beach-gardens-police/
 - [Palm Beach Gardens Police Officers’ Pension Fund](/palm-beach-gardens-police/)
 - [City of Palm Beach Gardens Firefighters’ Pension Fund](/palm-beach-gardens-fire/)
 - [West Palm Beach Police Pension Fund](/west-palm-beach-police/)
+- [City of Fort Lauderdale Police and Firefighters’ Retirement System](/fort-lauderdale-police-fire/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

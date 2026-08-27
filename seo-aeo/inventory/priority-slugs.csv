@@ -519,6 +519,10 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,wpb-police,West Palm Beach Police (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 147 /west-palm-beach-police/
 147,institution,jupiter-police,Jupiter Police Officers Retirement Fund,allocator,brief,P0,drafted-in-repo,Wave 147. Official FNP $121,341,553 at 30 Sep 2025. Do not mint /jupiter-pors/ or /ers/
 2,institution,jupiter-pors,Jupiter Police (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 147 /jupiter-police/
+148,institution,sunrise-police,Sunrise Police Officers Retirement Plan,allocator,brief,P0,drafted-in-repo,Wave 148. Official FNP $254,102,126 at 30 Sep 2025. Do not mint /sunrise-pors/ or /sunrise/ or /ers/
+2,institution,sunrise-pors,Sunrise Police (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 148 /sunrise-police/
+148,institution,fort-lauderdale-police-fire,Fort Lauderdale Police and Firefighters Retirement System,allocator,brief,P0,drafted-in-repo,Wave 148. Official combined FNP $1,288,290,405 at 30 Sep 2025. Do not mint /flpfrs/ or /pfrs/ or /gers/
+2,institution,flpfrs,Fort Lauderdale Police and Fire (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 148 /fort-lauderdale-police-fire/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

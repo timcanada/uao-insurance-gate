@@ -711,5 +711,7 @@ P1,Boca Raton Police and Firefighters Retirement System,allocator,both,/boca-rat
 P1,Palm Beach Gardens Firefighters Pension Fund,allocator,both,/palm-beach-gardens-fire/,define,unknown,unknown,unknown,drafted-wave-147,Wave 147. Official FNP $178,150,007 at 30 Sep 2025. Do not mint /pbg-fire/ or /ers/
 P1,West Palm Beach Police Pension Fund,allocator,both,/west-palm-beach-police/,define,unknown,unknown,unknown,drafted-wave-147,Wave 147. Official FNP $528,055,662 at 30 Sep 2025. Do not mint /wpb-police/ or /wpbppf/ or /ers/
 P1,Jupiter Police Officers Retirement Fund,allocator,both,/jupiter-police/,define,unknown,unknown,unknown,drafted-wave-147,Wave 147. Official FNP $121,341,553 at 30 Sep 2025. Do not mint /jupiter-pors/ or /ers/
+P1,Sunrise Police Officers Retirement Plan,allocator,both,/sunrise-police/,define,unknown,unknown,unknown,drafted-wave-148,Wave 148. Official FNP $254,102,126 at 30 Sep 2025. Do not mint /sunrise-pors/ or /ers/
+P1,Fort Lauderdale Police and Firefighters Retirement System,allocator,both,/fort-lauderdale-police-fire/,define,unknown,unknown,unknown,drafted-wave-148,Wave 148. Official combined FNP $1,288,290,405 at 30 Sep 2025. Do not mint /flpfrs/ or /pfrs/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

@@ -53,5 +53,6 @@ Do not 301 this page onto `/miami-fire-police/`, `/miami-gese/`, `/lakeland-empl
 - [City of Largo Municipal Police Officers’ and Firefighters’ Retirement Plan](/largo-police-fire/)
 - [Palm Beach Gardens Police Officers’ Pension Fund](/palm-beach-gardens-police/)
 - [City of Fort Lauderdale General Employees’ Retirement System](/fort-lauderdale-employees/)
+- [City of Fort Lauderdale Police and Firefighters’ Retirement System](/fort-lauderdale-police-fire/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

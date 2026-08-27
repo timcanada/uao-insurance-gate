@@ -308,6 +308,8 @@ On a beneficiary definition: **GPIF**. On a “largest book with pension in the 
 - [City of Palm Beach Gardens Firefighters’ Pension Fund](/palm-beach-gardens-fire/)
 - [West Palm Beach Police Pension Fund](/west-palm-beach-police/)
 - [Town of Jupiter Police Officers’ Retirement Fund](/jupiter-police/)
+- [City of Sunrise Police Officers’ Retirement Plan](/sunrise-police/)
+- [City of Fort Lauderdale Police and Firefighters’ Retirement System](/fort-lauderdale-police-fire/)
 - [SWF vs pension](/sovereign-wealth-fund-vs-pension-fund/)
 - [GPIF](/gpif-japan-explained/)
 - [CPP Investments](/cpp-investments-explained/)

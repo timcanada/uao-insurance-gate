@@ -300,6 +300,8 @@ No. Some SWFs pre-fund future public pensions. That still does not make GPFG, [C
 - [City of Palm Beach Gardens Firefighters’ Pension Fund](/palm-beach-gardens-fire/)
 - [West Palm Beach Police Pension Fund](/west-palm-beach-police/)
 - [Town of Jupiter Police Officers’ Retirement Fund](/jupiter-police/)
+- [City of Sunrise Police Officers’ Retirement Plan](/sunrise-police/)
+- [City of Fort Lauderdale Police and Firefighters’ Retirement System](/fort-lauderdale-police-fire/)
 - [Largest pension funds](/largest-pension-funds-in-the-world/)
 - [GPIF](/gpif-japan-explained/)
 - [CalPERS](/calpers-explained-largest-us-pension-fund/)

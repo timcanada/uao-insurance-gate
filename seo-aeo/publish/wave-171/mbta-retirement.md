@@ -49,5 +49,6 @@ Do not 301 this page onto `/massachusetts-prim/`, `/boston-retirement/`, `/mbtar
 - [MassPRIM](/massachusetts-prim/)
 - [Boston Retirement System](/boston-retirement/)
 - [Falmouth Contributory Retirement System](/falmouth-retirement/)
+- [Medford Contributory Retirement System](/medford-retirement/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

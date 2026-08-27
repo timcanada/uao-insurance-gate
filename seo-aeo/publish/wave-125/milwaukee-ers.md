@@ -27,7 +27,7 @@ The statement of fiduciary net position is the sourced line (in thousands):
 2. **GASB funded cards.** Total pension liability **$8,185,181 thousand**. Net pension liability **$1,820,626 thousand**. Pension fiduciary net position / total pension liability **77.8 percent**. Do not treat the combined **$6,458,509 thousand** line as the pension-only GASB book.
 3. **Returns.** Time-weighted return **12.9 percent** net of fees against an assumed **6.8 percent**, underperforming the benchmark by **112 basis points**. Money-weighted return **12.8 percent** net of investment expense. Those two official one-year prints are not interchangeable.
 
-Do not flatten Milwaukee ERS into [State of Wisconsin Investment Board](/wisconsin-investment-board-swib-explained/). SWIB is the state investment board file. This is **one Milwaukee city employee file**.
+Do not flatten Milwaukee ERS into [State of Wisconsin Investment Board](/wisconsin-investment-board-swib-explained/) or [Employees’ Retirement System of the County of Milwaukee](/milwaukee-county-ers/). SWIB is the state investment board file. Milwaukee County ERS is the county employee file. This is **one Milwaukee city employee file**.
 
 ## What an owner is actually buying
 
@@ -47,5 +47,6 @@ Do not 301 this page onto `/wisconsin-investment-board-swib-explained/` or `/lar
 - [Public pension funds](/public-pension-funds/)
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [State of Wisconsin Investment Board](/wisconsin-investment-board-swib-explained/)
+- [Employees’ Retirement System of the County of Milwaukee](/milwaukee-county-ers/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

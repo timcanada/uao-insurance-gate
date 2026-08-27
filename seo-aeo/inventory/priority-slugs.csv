@@ -687,6 +687,21 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,singerman,Singerman (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 176 /north-miami-employees/
 2,institution,clair-t-singerman,Clair T Singerman (long twin),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 176 /north-miami-employees/
 2,institution,north-miami,North Miami (city short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 176 /north-miami-police/ and /north-miami-employees/
+177,institution,milwaukee-county-ers,Milwaukee County ERS,allocator,brief,P0,drafted-in-repo,Wave 177. Official FNP $1,853,329,110 at 31 Dec 2025. Investments $1,805,789,491 are not FNP. GASB 76.7%. Notes/RSI MWR 13.8%. MD&A 6.89% is FNP increase. Never mint /cmers/. Not leftover Milwaukee City ERS
+2,institution,milwaukee-county-ers-explained,Milwaukee County ERS explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 177 /milwaukee-county-ers/
+2,institution,milwaukee-county,Milwaukee County (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 177 /milwaukee-county-ers/. /cmers/ remains Milwaukee City
+2,institution,mke-county-ers,MKE County ERS (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 177 /milwaukee-county-ers/
+177,institution,medford-retirement,Medford Contributory Retirement System,allocator,brief,P0,drafted-in-repo,Wave 177. Official FNP $293,651,697 at 31 Dec 2025. Investments $291,996,335 are not FNP. GASB 76.8%. RSI MWR 13.96%. Notes/MD&A 14.0% is rounded. MD&A 12% is FNP increase. Do not mint /mcrs/. Not leftover Boston Retirement
+2,institution,medford-retirement-explained,Medford Retirement explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 177 /medford-retirement/
+2,institution,medford-crs,Medford CRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 177 /medford-retirement/
+2,institution,mcrs,MCRS (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 177 /medford-retirement/. /brs/ remains Boston
+2,institution,medford,Medford (city short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 177 /medford-retirement/
+177,institution,new-castle-county-employees,New Castle County Delaware Employees Pension Program,allocator,brief,P0,drafted-in-repo,Wave 177. Official FNP $574,460,128 at 30 Jun 2025. Investments $564,505,378 are not FNP. GASB 74.7%. Notes MWR 10.3%. RSI 10.30%. Never mint /dpers/. Not leftover DPERS
+2,institution,new-castle-county-employees-explained,New Castle County Employees explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 177 /new-castle-county-employees/
+2,institution,ncc-pension,NCC Pension (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 177 /new-castle-county-employees/
+2,institution,nccers,NCCERS (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 177 /new-castle-county-employees/. /dpers/ remains Delaware PERS
+2,institution,newcastle,Newcastle (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 177 /new-castle-county-employees/
+2,institution,new-castle,New Castle (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 177 /new-castle-county-employees/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

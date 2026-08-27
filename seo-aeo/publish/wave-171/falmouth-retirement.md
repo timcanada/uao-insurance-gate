@@ -27,7 +27,7 @@ The statement of fiduciary net position, the GASB note, and the money-weighted p
 2. **GASB cards.** Notes total pension liability **$298,146 thousand**. Plan fiduciary net position **$237,006 thousand**. Net pension liability **$61,140 thousand**. Plan fiduciary net position as a percentage of total pension liability **79.5 percent**. Notes dollar amounts are in thousands. Do not treat **$298,146 thousand** as AUM. Discount rate **7.0 percent**.
 3. **Returns and cash flow.** RSI money-weighted return **11.46 percent** for **2025** (2024 **5.54 percent**). Notes “approximately **11.5 percent**” is that card rounded, not a second return. MD&A **12.1 percent** is the fiduciary-net-position increase, not money-weighted. Employer contributions **$13,032,242**. Employee contributions **$5,014,208**. Other contributions **$1,894,468**. Total contributions **$19,940,918**. Total net investment income **$24,260,343**. Benefits to retirees and survivors **$16,789,170**. Member refunds **$379,835**. Transfers and reimbursements **$913,689**. Administrative expenses **$505,978**. Total deductions **$18,588,672**. Roselli, Clark & Associates issued an unmodified opinion dated **15 May 2026**.
 
-Do not flatten Falmouth Contributory Retirement System into leftover [MassPRIM](/massachusetts-prim/), leftover [Boston Retirement System](/boston-retirement/), leftover [MBTA Retirement Fund](/mbta-retirement/), leftover [NYSCRF](/new-york-state-common-retirement-fund-explained/), or leftover [NYC Retirement Systems](/new-york-city-crs/). MassPRIM is the Massachusetts PRIM file. Boston Retirement is the City of Boston file. MBTA is the transit file. This is **one Falmouth town file**.
+Do not flatten Falmouth Contributory Retirement System into leftover [MassPRIM](/massachusetts-prim/), leftover [Boston Retirement System](/boston-retirement/), leftover [MBTA Retirement Fund](/mbta-retirement/), leftover [Medford Contributory Retirement System](/medford-retirement/), leftover [NYSCRF](/new-york-state-common-retirement-fund-explained/), or leftover [NYC Retirement Systems](/new-york-city-crs/). MassPRIM is the Massachusetts PRIM file. Boston Retirement is the City of Boston file. MBTA is the transit file. Medford is a different city file. This is **one Falmouth town file**.
 
 ## What an owner is actually buying
 
@@ -49,5 +49,6 @@ Do not 301 this page onto `/massachusetts-prim/`, `/boston-retirement/`, `/falmo
 - [MassPRIM](/massachusetts-prim/)
 - [Boston Retirement System](/boston-retirement/)
 - [MBTA Retirement Fund](/mbta-retirement/)
+- [Medford Contributory Retirement System](/medford-retirement/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

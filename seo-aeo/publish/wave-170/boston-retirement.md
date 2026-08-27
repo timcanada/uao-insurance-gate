@@ -49,6 +49,7 @@ Do not 301 this page onto `/massachusetts-prim/`, `/new-york-city-crs/`, `/brs/`
 - [MassPRIM](/massachusetts-prim/)
 - [MBTA Retirement Fund](/mbta-retirement/)
 - [Falmouth Contributory Retirement System](/falmouth-retirement/)
+- [Medford Contributory Retirement System](/medford-retirement/)
 - [NYC Retirement Systems](/new-york-city-crs/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

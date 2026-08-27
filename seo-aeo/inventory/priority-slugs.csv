@@ -619,6 +619,11 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 172,institution,stancera,Stanislaus County Employees Retirement Association,allocator,brief,P0,drafted-in-repo,Wave 172. Official FNP $3,122,107 thousand at 30 Jun 2025. Investments $3,145,462 thousand are not FNP. GASB 80.6%. Notes MWR 9.13%. Do not mint /stanislaus-cera/. Not leftover MercedCERA or leftover SDCERA
 2,institution,stanislaus-cera,StanCERA (long twin),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 172 /stancera/
 2,institution,stanislaus-retirement,Stanislaus Retirement (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 172 /stancera/
+173,institution,wperp,Los Angeles Water and Power Employees Retirement Plan,allocator,brief,P0,drafted-in-repo,Wave 173. Official Retirement Fund FNP $19,486,774,079 at 30 Jun 2025. Investments $20,258,656,488 are not FNP. GASB 103.57% is a net pension asset. Do not mint /ladwp-retirement/ or /ladwp/. Not leftover LACERS
+2,institution,ladwp-retirement,LADWP Retirement (long twin),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 173 /wperp/
+2,institution,ladwp,LADWP (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 173 /wperp/
+2,institution,la-water-power,LA Water and Power (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 173 /wperp/
+2,institution,wperp-explained,WPERP (explained twin),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 173 /wperp/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

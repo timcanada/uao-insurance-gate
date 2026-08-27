@@ -54,5 +54,7 @@ Do not 301 this page onto `/fort-lauderdale-police-fire/`, `/pembroke-pines-poli
 - [City of Palm Bay Police and Firefighters’ Retirement System](/palm-bay-police-fire/)
 - [City of Miramar Firefighters Retirement Plan](/miramar-fire/)
 - [City of Parkland Police Officers Retirement Plan](/parkland-police/)
+- [North Miami Police Pension Plan](/north-miami-police/)
+- [Clair T. Singerman Employees’ Retirement System](/north-miami-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -48,6 +48,8 @@ Do not 301 this page onto `/miami-fire-police/`, `/miami-beach-employees/`, `/fi
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Miami Beach Employees’ Retirement Plan](/miami-beach-employees/)
 - [City of Miami Firefighters’ and Police Officers’ Retirement Trust](/miami-fire-police/)
+- [North Miami Police Pension Plan](/north-miami-police/)
+- [Clair T. Singerman Employees’ Retirement System](/north-miami-employees/)
 - [City Pension Fund for Firefighters and Police Officers in the City of Pembroke Pines](/pembroke-pines-police-fire/)
 - [City of Miami General Employees’ and Sanitation Employees’ Retirement Trust](/miami-gese/)
 - [Advertise](/advertise/)

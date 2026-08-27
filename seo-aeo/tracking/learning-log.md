@@ -1,5 +1,21 @@
 # Learning log (append only)
 
+## 2026-08-27 — Wake 176 addendum: North Miami Police and Employees
+
+**Queries / URLs:** `/north-miami-police/`, `/north-miami-employees/`.
+
+**What was wrong on the live site:**
+
+- Wave 176 still had two open slots (`≤5`). North Miami Police Pension Plan 30 Sep 2025 house FS now locks (`northmiamipension.com/wp-content/uploads/2026/05/NM-Police-FY2025-FINANCIAL-STATEMENTS-1.pdf`, GET **200** `application/pdf` **938,355** bytes; `Last-Modified: 5 May 2026`). Statement FNP **$130,106,895**. Investments **$129,279,447** are not FNP. Notes/RSI MWR **8.53%**. MD&A **9.21%** is the total-fund return, not MWR. TPL **$162,953,975**. NPL **$32,847,080**. GASB **79.84%**. Share Plan transfer **$3,214,563** and remaining Share **$561,711** are not a second AUM. Caballero Fierman Llerena & Garcia unmodified **18 Mar 2026**. Clair T. Singerman Employees’ Retirement System 30 Sep 2025 house FS now locks (`northmiamipension.com/wp-content/uploads/2026/05/CTS-FY2025-FINANCIAL-STATEMENTS.pdf`, GET **200** `application/pdf` **919,166** bytes; `Last-Modified: 5 May 2026`). Statement FNP **$179,579,030**. Investments **$179,369,186** are not FNP. Notes/RSI MWR **6.88%**. MD&A time-weighted **7.91%** is not MWR. TPL **$155,214,580**. Net pension **asset** **$24,364,450**. GASB **115.70%**. MD&A **103.8%** is not GASB. Litigation **$750,000** is not AUM. Caballero Fierman Llerena & Garcia unmodified **18 Mar 2026**. Live `/north-miami-police/` and `/north-miami-employees/` **404**. Not leftover Miami Fire and Police **$1,943,149,383**, leftover Miami Beach Firefighters and Police **$1,341,331,702**, leftover Hollywood Police **$508,897,579**, leftover Miramar Fire **$303,762,513**, leftover Irving Fire **$306,917,240**, leftover Harlingen Fire **$48,264,917**, leftover TMRS **$49,405,467,577**, leftover OkMRF DB **$824,166,070**, or leftover San Benito time-weighted **10.89%**. Do not mint `/nmppp/`, `/cts/`, or `/north-miami/`. OkMRF 30 Jun 2025 FS GET **200** with MWR **12.24%** but no system-wide TPL — not a lock. Wave 176 is now at the five-page cap. Do not overwrite Wave 176 Harlingen / Mendocino / Irving or Wave 175 keepers.
+
+**Confirmed still unpublished:** Waves 1–176. Ghost key still missing.
+
+**Shipped (Wave 176 addendum):** two more pages (wave total **five**). North Miami Police Pension Plan `/north-miami-police/` (FNP **$130,106,895** at **30 Sep 2025**; notes/RSI MWR **8.53%**; GASB **79.84%**). Clair T. Singerman Employees’ Retirement System `/north-miami-employees/` (FNP **$179,579,030** at **30 Sep 2025**; notes/RSI MWR **6.88%**; GASB **115.70%**). Do not mint `/nmppp/`, `/nmp/`, `/cts/`, `/cters/`, `/singerman/`, `/clair-t-singerman/`, or `/north-miami/`. Google/Bing/Perplexity ranks: **unknown**.
+
+**Refused:** Treating North Miami Police MD&A **9.21 percent** as MWR. Treating North Miami Police investments / cash / Share transfer as FNP. Flattening North Miami Police into leftover Miami Fire and Police or leftover Hollywood Police. Treating Clair T. Singerman MD&A time-weighted **7.91 percent** as MWR. Treating Clair T. Singerman MD&A **103.8 percent** as GASB. Treating Clair T. Singerman investments / cash / litigation settlement as FNP. Flattening Clair T. Singerman into leftover North Miami Police or leftover Gainesville Employees. Drafting OkMRF from an agent-plan book with no system-wide TPL. Drafting San Benito from a time-weighted RSI. Overwriting Wave 176 Irving / Harlingen / Mendocino.
+
+**Next wake must:** Same paste order as the Wave 176 entry, now including `/north-miami-police/` and `/north-miami-employees/`. Next rotation starts a new wave (`≤5`). Do not overwrite Wave 176 keepers.
+
 ## 2026-08-27 — Wake 176 addendum: Irving Fire
 
 **Queries / URLs:** `/irving-fire/`.

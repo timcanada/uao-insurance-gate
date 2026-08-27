@@ -677,6 +677,16 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,ifrrf,IFRRF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 176 /irving-fire/
 2,institution,irfrrf,IRFRRF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 176 /irving-fire/
 2,institution,irving,Irving (city short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 176 /irving-fire/
+176,institution,north-miami-police,North Miami Police Pension Plan,allocator,brief,P0,drafted-in-repo,Wave 176. Official FNP $130,106,895 at 30 Sep 2025. Investments $129,279,447 are not FNP. GASB 79.84%. Notes/RSI MWR 8.53%. MD&A 9.21% is total-fund return. Do not mint /nmppp/ or /north-miami/. Not leftover Miami Fire and Police
+2,institution,nmppp,NMPPP (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 176 /north-miami-police/
+2,institution,nmp,NMP (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 176 /north-miami-police/
+2,institution,north-miami-police-explained,North Miami Police explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 176 /north-miami-police/
+176,institution,north-miami-employees,Clair T Singerman Employees Retirement System,allocator,brief,P0,drafted-in-repo,Wave 176. Official FNP $179,579,030 at 30 Sep 2025. Investments $179,369,186 are not FNP. GASB 115.70%. Notes/RSI MWR 6.88%. MD&A time-weighted 7.91% is not MWR. MD&A 103.8% is not GASB. Do not mint /cts/ or /north-miami/. Not leftover North Miami Police
+2,institution,cts,CTS (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 176 /north-miami-employees/
+2,institution,cters,CTERS (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 176 /north-miami-employees/
+2,institution,singerman,Singerman (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 176 /north-miami-employees/
+2,institution,clair-t-singerman,Clair T Singerman (long twin),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 176 /north-miami-employees/
+2,institution,north-miami,North Miami (city short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 176 /north-miami-police/ and /north-miami-employees/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

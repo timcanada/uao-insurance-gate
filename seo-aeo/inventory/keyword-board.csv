@@ -768,5 +768,7 @@ P1,Galveston Firefighters Pension Fund,allocator,both,/galveston-fire/,define,un
 P1,Harlingen Firemens Relief and Retirement Fund,allocator,both,/harlingen-fire/,define,unknown,unknown,unknown,drafted-wave-176,Wave 176. Official FNP $48,264,917 at 30 Sep 2025. Do not mint /hfrrf/. Not leftover TMRS or leftover McAllen Fire
 P1,Mendocino County Employees Retirement Association,allocator,both,/mendocino-mcera/,define,unknown,unknown,unknown,drafted-wave-176,Wave 176. Official FNP $793,440,285 at 30 Jun 2025. Never mint /mcera/. Not leftover CCCERA or leftover SLOCPT
 P1,Irving Firemens Relief and Retirement Fund,allocator,both,/irving-fire/,define,unknown,unknown,unknown,drafted-wave-176,Wave 176. Official FNP $306,917,240 at 31 Dec 2025. Do not mint /ifrrf/. Not leftover TMRS or leftover Dallas Police and Fire
+P1,North Miami Police Pension Plan,allocator,both,/north-miami-police/,define,unknown,unknown,unknown,drafted-wave-176,Wave 176. Official FNP $130,106,895 at 30 Sep 2025. Do not mint /nmppp/. Not leftover Miami Fire and Police
+P1,Clair T Singerman Employees Retirement System,allocator,both,/north-miami-employees/,define,unknown,unknown,unknown,drafted-wave-176,Wave 176. Official FNP $179,579,030 at 30 Sep 2025. Do not mint /cts/. Not leftover North Miami Police
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

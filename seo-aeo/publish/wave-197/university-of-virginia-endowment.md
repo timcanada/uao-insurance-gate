@@ -45,5 +45,6 @@ Do not 301 this page onto `/university-of-washington-endowment/`, `/washington-u
 - [The endowment model, explained](/endowment-model-explained/)
 - [Duke University endowment](/duke-university-endowment/)
 - [University of Washington endowment](/university-of-washington-endowment/)
+- [UNC Chapel Hill endowment](/unc-chapel-hill-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

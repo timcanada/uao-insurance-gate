@@ -46,5 +46,6 @@ Do not 301 this page onto `/duke-university-endowment/`, `/vanderbilt-endowment/
 - [The endowment model, explained](/endowment-model-explained/)
 - [Duke University endowment](/duke-university-endowment/)
 - [Vanderbilt University endowment](/vanderbilt-endowment/)
+- [Georgia Tech endowment](/georgia-tech-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

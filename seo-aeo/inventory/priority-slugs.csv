@@ -1062,6 +1062,31 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 197,institution,mcgill-endowment,McGill University endowment,allocator,brief,P0,drafted-in-repo,Wave 197. Official externally restricted endowment C$2,136,081 thousand at 30 Apr 2025. Print CAD. Report C$2.2 billion / 10.2% is a different book. Do not mint /mcgill/
 2,institution,mcgill-endowment-explained,McGill endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 197 /mcgill-endowment/
 2,institution,mcgill,McGill (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 197 /mcgill-endowment/
+198,institution,rice-endowment,Rice University endowment,allocator,brief,P0,drafted-in-repo,Wave 198. Official endowment net assets $8,389,936 thousand at 30 Jun 2025. Report $8.5 billion / RMC $7.9 billion / 11.4% is a different book. Do not mint /rice/
+2,institution,rice-endowment-explained,Rice endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 198 /rice-endowment/
+2,institution,rice,Rice (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 198 /rice-endowment/
+198,institution,unc-chapel-hill-endowment,UNC Chapel Hill endowment,allocator,brief,P0,drafted-in-repo,Wave 198. Official endowment investments $3,695,036,314 at 30 Jun 2025. CHIF $6,063.6 million is a wider pool. Do not mint /unc/ or /chapel-hill/
+2,institution,unc-chapel-hill-endowment-explained,UNC Chapel Hill endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 198 /unc-chapel-hill-endowment/
+2,institution,unc-endowment,UNC endowment (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 198 /unc-chapel-hill-endowment/
+2,institution,unc,UNC (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 198 /unc-chapel-hill-endowment/
+2,institution,chapel-hill,Chapel Hill (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 198 /unc-chapel-hill-endowment/
+2,institution,uncif,UNCIF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 198 /unc-chapel-hill-endowment/
+2,institution,chif,CHIF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 198 /unc-chapel-hill-endowment/
+198,institution,georgia-tech-endowment,Georgia Tech endowment,allocator,brief,P0,drafted-in-repo,Wave 198. Official GTF endowed net assets $2,432,334 thousand at 30 Jun 2025. IPEDS $3,507,394,840 is a different book. Do not mint /gatech/ /gt/ /gtf/
+2,institution,georgia-tech-endowment-explained,Georgia Tech endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 198 /georgia-tech-endowment/
+2,institution,georgia-tech-foundation,Georgia Tech Foundation (long twin),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 198 /georgia-tech-endowment/
+2,institution,gatech,Georgia Tech (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 198 /georgia-tech-endowment/
+2,institution,gt,GT (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 198 /georgia-tech-endowment/
+2,institution,gtf,GTF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 198 /georgia-tech-endowment/
+198,institution,boston-university-endowment,Boston University endowment,allocator,brief,P0,drafted-in-repo,Wave 198. Official endowment net assets $3,974,604 thousand at 30 Jun 2025. Assets $4,045,503,000 / 14.2% is a different line. Do not mint /bu/
+2,institution,boston-university-endowment-explained,Boston University endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 198 /boston-university-endowment/
+2,institution,bu,BU (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 198 /boston-university-endowment/
+198,institution,indiana-university-endowment,Indiana University endowment,allocator,brief,P0,drafted-in-repo,Wave 198. Official IUF endowment $3,481,201 thousand at 30 Jun 2025. Do not invent a percent. Do not mint /indiana/ /iu/ /iuf/
+2,institution,indiana-university-endowment-explained,Indiana University endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 198 /indiana-university-endowment/
+2,institution,indiana-university-foundation,Indiana University Foundation (long twin),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 198 /indiana-university-endowment/
+2,institution,indiana,Indiana (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 198 /indiana-university-endowment/
+2,institution,iu,IU (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 198 /indiana-university-endowment/
+2,institution,iuf,IUF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 198 /indiana-university-endowment/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

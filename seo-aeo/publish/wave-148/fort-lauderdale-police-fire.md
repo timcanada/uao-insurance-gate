@@ -52,5 +52,6 @@ Do not 301 this page onto `/fort-lauderdale-employees/`, `/boca-raton-police-fir
 - [Pompano Beach Police and Firefighters’ Retirement System](/pompano-beach-police-fire/)
 - [City of Hialeah Employees’ Retirement System](/hialeah-employees/)
 - [City Pension Fund for Firefighters and Police Officers in the City of Pembroke Pines](/pembroke-pines-police-fire/)
+- [Portland Fire and Police Disability and Retirement Funds](/portland-fpdr/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

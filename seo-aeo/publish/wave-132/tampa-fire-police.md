@@ -54,5 +54,6 @@ Do not 301 this page onto `/tampa-general-employees/`, `/jacksonville-police-fir
 - [City of Miami Firefighters’ and Police Officers’ Retirement Trust](/miami-fire-police/)
 - [City of Largo Municipal Police Officers’ and Firefighters’ Retirement Plan](/largo-police-fire/)
 - [Pompano Beach Police and Firefighters’ Retirement System](/pompano-beach-police-fire/)
+- [Portland Fire and Police Disability and Retirement Funds](/portland-fpdr/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

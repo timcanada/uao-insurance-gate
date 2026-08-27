@@ -51,6 +51,8 @@ Do not 301 this page onto `/michigan-mpsers/`, `/detroit-police-fire/`, `/detroi
 - [General Retirement System of the City of Detroit](/detroit-grs/)
 - [City of Ann Arbor Employees’ Retirement System](/ann-arbor-employees/)
 - [City of St. Joseph Employees’ Retirement System](/st-joseph-employees/)
+- [City of Grand Rapids General Retirement System](/grand-rapids-employees/)
+- [City of Grand Rapids Police and Fire Retirement System](/grand-rapids-police-fire/)
 - [Missouri LAGERS](/missouri-lagers/)
 - [Municipal Fire and Police Retirement System of Iowa](/iowa-mfprsi/)
 - [Advertise](/advertise/)

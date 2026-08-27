@@ -50,5 +50,6 @@ Do not 301 this page onto `/miami-fire-police/`, `/tampa-fire-police/`, `/jackso
 - [Tampa Fire and Police](/tampa-fire-police/)
 - [City of Largo Municipal Police Officers’ and Firefighters’ Retirement Plan](/largo-police-fire/)
 - [Jacksonville Police and Fire](/jacksonville-police-fire/)
+- [City of Hialeah Employees’ Retirement System](/hialeah-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

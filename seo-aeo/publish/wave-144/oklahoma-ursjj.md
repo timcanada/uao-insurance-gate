@@ -50,5 +50,6 @@ Do not 301 this page onto `/oklahoma-opers/`, `/oklahoma-firefighters/`, `/oklah
 - [Oklahoma Firefighters Pension and Retirement System](/oklahoma-firefighters/)
 - [Oklahoma Police Pension and Retirement System](/oklahoma-police/)
 - [Oklahoma TRS](/oklahoma-trs/)
+- [Oklahoma Law Enforcement Retirement System](/oklahoma-olers/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

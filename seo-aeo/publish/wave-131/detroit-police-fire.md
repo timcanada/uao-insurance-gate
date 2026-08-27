@@ -51,5 +51,6 @@ Do not 301 this page onto `/detroit-grs/`, `/michigan-mpsers/`, `/ohio-police-fi
 - [Ohio Police & Fire](/ohio-police-fire/)
 - [Baltimore Fire and Police](/baltimore-fire-police/)
 - [Jacksonville Police and Fire](/jacksonville-police-fire/)
+- [City of Grand Rapids Police and Fire Retirement System](/grand-rapids-police-fire/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

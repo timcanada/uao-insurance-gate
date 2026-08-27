@@ -49,5 +49,6 @@ Do not 301 this page onto `/michigan-mers/`, `/ann-arbor-employees/`, `/detroit-
 - [City of Ann Arbor Employees’ Retirement System](/ann-arbor-employees/)
 - [Municipal Employees’ Retirement System of Michigan](/michigan-mers/)
 - [General Retirement System of the City of Detroit](/detroit-grs/)
+- [City of Grand Rapids General Retirement System](/grand-rapids-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

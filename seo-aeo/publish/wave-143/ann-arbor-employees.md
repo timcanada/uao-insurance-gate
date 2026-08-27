@@ -50,5 +50,6 @@ Do not 301 this page onto `/michigan-mers/`, `/detroit-grs/`, `/detroit-police-f
 - [General Retirement System of the City of Detroit](/detroit-grs/)
 - [Police and Fire Retirement System of the City of Detroit](/detroit-police-fire/)
 - [City of St. Joseph Employees’ Retirement System](/st-joseph-employees/)
+- [City of Grand Rapids General Retirement System](/grand-rapids-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -51,5 +51,6 @@ Do not 301 this page onto `/tampa-fire-police/`, `/miami-fire-police/`, `/jackso
 - [Jacksonville Police and Fire](/jacksonville-police-fire/)
 - [Pompano Beach Police and Firefighters’ Retirement System](/pompano-beach-police-fire/)
 - [City of North Port Police Officers’ Pension–Local Option Trust Fund](/north-port-police/)
+- [City of Hialeah Employees’ Retirement System](/hialeah-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -53,5 +53,6 @@ Do not 301 this page onto `/miami-gese/`, `/tampa-fire-police/`, `/jacksonville-
 - [Houston Police](/houston-hpops/)
 - [Pompano Beach Police and Firefighters’ Retirement System](/pompano-beach-police-fire/)
 - [City of Largo Municipal Police Officers’ and Firefighters’ Retirement Plan](/largo-police-fire/)
+- [City of Hialeah Employees’ Retirement System](/hialeah-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -50,5 +50,6 @@ Do not 301 this page onto `/tampa-fire-police/`, `/miami-fire-police/`, `/jackso
 - [City of Sarasota General Employees’ Defined Benefit Pension Plan](/sarasota-employees/)
 - [Tampa Fire and Police](/tampa-fire-police/)
 - [Pompano Beach Police and Firefighters’ Retirement System](/pompano-beach-police-fire/)
+- [City of Hialeah Employees’ Retirement System](/hialeah-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

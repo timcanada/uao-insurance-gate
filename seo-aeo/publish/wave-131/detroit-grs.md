@@ -53,5 +53,6 @@ Do not 301 this page onto `/detroit-police-fire/`, `/michigan-mpsers/`, `/ohio-o
 - [Chicago LABF](/chicago-labf/)
 - [City of Ann Arbor Employees’ Retirement System](/ann-arbor-employees/)
 - [City of St. Joseph Employees’ Retirement System](/st-joseph-employees/)
+- [City of Grand Rapids General Retirement System](/grand-rapids-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

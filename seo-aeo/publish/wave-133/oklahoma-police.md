@@ -51,5 +51,6 @@ Do not 301 this page onto `/oklahoma-opers/`, `/oklahoma-trs/`, `/oklahoma-firef
 - [Oklahoma Firefighters Pension and Retirement System](/oklahoma-firefighters/)
 - [Ohio Police & Fire](/ohio-police-fire/)
 - [Uniform Retirement System for Justices and Judges](/oklahoma-ursjj/)
+- [Oklahoma Law Enforcement Retirement System](/oklahoma-olers/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

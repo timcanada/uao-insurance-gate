@@ -54,5 +54,6 @@ Do not 301 this page onto `/tampa-fire-police/`, `/jacksonville-police-fire/`, `
 - [City of Miami General Employees’ and Sanitation Employees’ Retirement Trust](/miami-gese/)
 - [Employees’ Pension Plan of the City of Gainesville](/gainesville-employees/)
 - [City of Sarasota General Employees’ Defined Benefit Pension Plan](/sarasota-employees/)
+- [City of Lakeland Employees’ Pension and Retirement System](/lakeland-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

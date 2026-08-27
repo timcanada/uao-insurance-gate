@@ -52,5 +52,7 @@ Do not 301 this page onto `/oklahoma-opers/`, `/oklahoma-trs/`, `/oklahoma-polic
 - [Ohio Police & Fire](/ohio-police-fire/)
 - [Uniform Retirement System for Justices and Judges](/oklahoma-ursjj/)
 - [Oklahoma Law Enforcement Retirement System](/oklahoma-olers/)
+- [Employees’ Retirement System of Tulsa County](/tulsa-county-ers/)
+- [Employees’ Retirement System of Oklahoma County](/oklahoma-county-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

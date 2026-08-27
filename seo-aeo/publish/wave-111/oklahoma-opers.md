@@ -53,5 +53,7 @@ Do not 301 this page onto `/ohio-opers/`, `/iowa-ipers/`, or `/largest-us-public
 - [Oklahoma Police Pension and Retirement System](/oklahoma-police/)
 - [Uniform Retirement System for Justices and Judges](/oklahoma-ursjj/)
 - [Oklahoma Law Enforcement Retirement System](/oklahoma-olers/)
+- [Employees’ Retirement System of Tulsa County](/tulsa-county-ers/)
+- [Employees’ Retirement System of Oklahoma County](/oklahoma-county-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

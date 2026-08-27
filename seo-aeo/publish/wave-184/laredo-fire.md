@@ -54,5 +54,6 @@ Do not 301 this page onto `/texas-tmrs/`, `/irving-fire/`, `/corpus-christi-fire
 - [Harlingen Firemen’s Relief and Retirement Fund](/harlingen-fire/)
 - [Longview Firemen’s Relief and Retirement Fund](/longview-fire/)
 - [Galveston Firefighters’ Pension Fund](/galveston-fire/)
+- [Travis County ESD No. 6 Firefighters’ Relief and Retirement Fund](/travis-county-esd6-fire/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

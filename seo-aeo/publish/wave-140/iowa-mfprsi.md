@@ -28,7 +28,7 @@ The statement of fiduciary net position, the notes money-weighted line, and the 
 2. **GASB funded cards.** Total pension liability **$4,142,002,011**. Net pension liability **$645,619,879**. Fiduciary net position / total pension liability **84.41 percent** at the **7.5 percent** discount. The annual-report cover actuarial about-**85 percent** card is not the GASB card.
 3. **Returns.** Notes money-weighted return **9.30 percent** net of pension-plan investment expense for the year ended **30 June 2025** (2024 **7.93 percent**). This filing does not print a separate official one-year time-weighted house card used on this page.
 
-Do not flatten MFPRSI into [Iowa IPERS](/iowa-ipers/), [Nebraska School Employees Retirement Plan](/nebraska-school/), or [Omaha School Employees Retirement Plan](/omaha-osers/). IPERS is Iowa’s statewide civilian file. Nebraska School is Nebraska statewide school. OSERS is Omaha Class V. This is **one Iowa municipal sworn file**.
+Do not flatten MFPRSI into leftover [Iowa IPERS](/iowa-ipers/), leftover [Iowa Peace Officers’ Retirement, Accident and Disability System](/iowa-pors/), leftover [Iowa Judicial Retirement System](/iowa-judicial/), [Nebraska School Employees Retirement Plan](/nebraska-school/), or [Omaha School Employees Retirement Plan](/omaha-osers/). IPERS is Iowa’s statewide civilian file. Iowa PORS is the statewide peace-officer file. Iowa Judicial is the judge file. Nebraska School is Nebraska statewide school. OSERS is Omaha Class V. This is **one Iowa municipal sworn file**.
 
 ## What an owner is actually buying
 
@@ -52,5 +52,7 @@ Do not 301 this page onto `/iowa-ipers/`, `/nebraska-school/`, `/omaha-osers/`, 
 - [Omaha School Employees Retirement Plan](/omaha-osers/)
 - [Missouri LAGERS](/missouri-lagers/)
 - [Municipal Employees’ Retirement System of Michigan](/michigan-mers/)
+- [Iowa Peace Officers’ Retirement, Accident and Disability System](/iowa-pors/)
+- [Iowa Judicial Retirement System](/iowa-judicial/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

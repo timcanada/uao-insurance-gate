@@ -49,5 +49,6 @@ Do not 301 this page onto `/illinois-sers/`, `/illinois-trs/`, `/illinois-isbi/`
 - [Illinois SERS](/illinois-sers/)
 - [Illinois GARS](/illinois-gars/)
 - [Illinois State Board of Investment](/illinois-isbi/)
+- [Iowa Judicial Retirement System](/iowa-judicial/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

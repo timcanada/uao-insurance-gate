@@ -52,5 +52,6 @@ Do not 301 this page onto `/coaers/`, `/austin-police-retirement/`, `/texas-ers/
 - [Texas Municipal Retirement System](/texas-tmrs/)
 - [Houston Firefighters](/houston-hfrrf/)
 - [San Antonio Fire and Police](/san-antonio-fire-police/)
+- [Travis County ESD No. 6 Firefighters’ Relief and Retirement Fund](/travis-county-esd6-fire/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

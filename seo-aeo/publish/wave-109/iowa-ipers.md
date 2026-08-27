@@ -28,7 +28,7 @@ The allocation of net position is the sourced split (dollars, not thousands):
 2. **Named books on the same allocation.** Regular members **$43,084,817,851**. Sheriffs and Deputies **$1,075,495,083**. Protection Occupation members **$2,580,239,241**. Net investment portfolio assets **$46.682 billion**. Those four lines are not interchangeable. Do not add the three membership groups a second time.
 3. **Returns and funding.** Time-weighted net-of-fees return **9.87 percent**. Money-weighted net return **9.81 percent**. Policy benchmark **9.85 percent**. Assumed return **7 percent**. Total pension liability **$49,063,230,575**. Net pension liability **$2,322,678,401**. Fiduciary net position as a percentage of total pension liability **95.27 percent**. Those return and GASB lines are not interchangeable.
 
-Do not flatten IPERS into [Illinois ISBI](/illinois-isbi/), [Massachusetts PRIM](/massachusetts-prim/), [Nebraska School Employees Retirement Plan](/nebraska-school/), or [Omaha School Employees Retirement Plan](/omaha-osers/). ISBI is Illinois. PRIM is Massachusetts. Nebraska School is Nebraska statewide school. OSERS is Omaha Class V. This is **one Iowa statewide file**.
+Do not flatten IPERS into leftover [Iowa Peace Officers’ Retirement, Accident and Disability System](/iowa-pors/), leftover [Iowa Judicial Retirement System](/iowa-judicial/), leftover [Municipal Fire and Police Retirement System of Iowa](/iowa-mfprsi/), [Illinois ISBI](/illinois-isbi/), [Massachusetts PRIM](/massachusetts-prim/), [Nebraska School Employees Retirement Plan](/nebraska-school/), or [Omaha School Employees Retirement Plan](/omaha-osers/). Iowa PORS is the peace-officer file. Iowa Judicial is the judge file. MFPRSI is Iowa’s municipal sworn file. ISBI is Illinois. PRIM is Massachusetts. Nebraska School is Nebraska statewide school. OSERS is Omaha Class V. This is **one Iowa statewide public-employee file**.
 
 ## What an owner is actually buying
 
@@ -59,5 +59,7 @@ Do not 301 this page onto `/massachusetts-prim/`, `/illinois-isbi/`, `/nebraska-
 - [Nebraska School Employees Retirement Plan](/nebraska-school/)
 - [Omaha School Employees Retirement Plan](/omaha-osers/)
 - [Municipal Fire and Police Retirement System of Iowa](/iowa-mfprsi/)
+- [Iowa Peace Officers’ Retirement, Accident and Disability System](/iowa-pors/)
+- [Iowa Judicial Retirement System](/iowa-judicial/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

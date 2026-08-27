@@ -55,5 +55,6 @@ Do not 301 this page onto `/texas-tmrs/`, `/mcallen-fire/`, `/corpus-christi-fir
 - [Galveston Firefighters’ Pension Fund](/galveston-fire/)
 - [Irving Firemen’s Relief and Retirement Fund](/irving-fire/)
 - [Laredo Firefighters Retirement System](/laredo-fire/)
+- [Travis County ESD No. 6 Firefighters’ Relief and Retirement Fund](/travis-county-esd6-fire/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

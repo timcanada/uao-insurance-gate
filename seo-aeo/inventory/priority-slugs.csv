@@ -831,6 +831,23 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,strs,STRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 184 /ohio-strs/
 2,institution,strs-ohio,STRS Ohio (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 184 /ohio-strs/
 2,institution,strs-ohio-explained,STRS Ohio explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 184 /ohio-strs/
+185,institution,travis-county-esd6-fire,Travis County ESD No 6 Firefighters Relief and Retirement Fund,allocator,brief,P0,drafted-in-repo,Wave 185. Official FNP $68,112,299 at 31 Dec 2025. Do not mint /tcesd6/ or /frs/. Not leftover Austin Firefighters
+2,institution,travis-county-esd6-fire-explained,Travis County ESD6 explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 185 /travis-county-esd6-fire/
+2,institution,tcesd6,TCESD6 (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 185 /travis-county-esd6-fire/
+2,institution,travis-county,Travis County (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 185 /travis-county-esd6-fire/
+185,institution,tulsa-county-ers,Employees Retirement System of Tulsa County,allocator,brief,P0,drafted-in-repo,Wave 185. Official FNP $362,539,381 at 30 Jun 2025. Do not mint /tcers/ or /ers/. Not leftover Oklahoma OPERS
+2,institution,tulsa-county-ers-explained,Tulsa County ERS explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 185 /tulsa-county-ers/
+2,institution,tcers,TCERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 185 /tulsa-county-ers/. Not Tulare TCERA
+2,institution,tulsa,Tulsa (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 185 /tulsa-county-ers/
+185,institution,oklahoma-county-employees,Employees Retirement System of Oklahoma County,allocator,brief,P0,drafted-in-repo,Wave 185. Official FNP $6,472,964 at 30 Jun 2025. Do not mint /ocers/. Not leftover Tulsa County ERS
+2,institution,oklahoma-county-employees-explained,Oklahoma County employees explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 185 /oklahoma-county-employees/
+2,institution,oklahoma-county,Oklahoma County (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 185 /oklahoma-county-employees/
+185,institution,iowa-pors,Iowa Peace Officers Retirement Accident and Disability System,allocator,brief,P0,drafted-in-repo,Wave 185. Official FNP $817,716,339 at 30 Jun 2025. Do not mint /pors/ or /iowa/. Not leftover IPERS
+2,institution,iowa-pors-explained,Iowa PORS explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 185 /iowa-pors/
+2,institution,pors,PORS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 185 /iowa-pors/
+185,institution,iowa-judicial,Iowa Judicial Retirement System,allocator,brief,P0,drafted-in-repo,Wave 185. Official FNP $300,885,184 at 30 Jun 2025. Do not mint /jrs/. /jrs/ remains Illinois JRS
+2,institution,iowa-judicial-explained,Iowa Judicial explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 185 /iowa-judicial/
+2,institution,iowa,Iowa (short),allocator,brief,P0,do-not-mint,Do not mint. Flattens IPERS vs PORS vs Judicial vs MFPRSI
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

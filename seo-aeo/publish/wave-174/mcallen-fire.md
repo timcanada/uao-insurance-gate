@@ -54,5 +54,6 @@ Do not 301 this page onto `/texas-tmrs/`, `/texas-ers/`, `/houston-hfrrf/`, `/co
 - [Denison Firemen’s Relief and Retirement Fund](/denison-fire/)
 - [Longview Firemen’s Relief and Retirement Fund](/longview-fire/)
 - [Galveston Firefighters’ Pension Fund](/galveston-fire/)
+- [Harlingen Firemen’s Relief and Retirement Fund](/harlingen-fire/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

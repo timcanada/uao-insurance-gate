@@ -52,5 +52,6 @@ Do not 301 this page onto `/cccera/`, `/stancera/`, `/scers/`, `/sdcers/`, `/mce
 - [ACERA](/acera/)
 - [MercedCERA](/mercedcera/)
 - [Sacramento County Employees’ Retirement System](/sacramento-scers/)
+- [Mendocino County Employees’ Retirement Association](/mendocino-mcera/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

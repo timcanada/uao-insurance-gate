@@ -664,6 +664,14 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,galveston-frrf,Galveston FRRF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 175 /galveston-fire/
 2,institution,gfrrf,Galveston FRRF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 175 /galveston-fire/
 2,institution,galveston,Galveston (city short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 175 /galveston-fire/
+176,institution,harlingen-fire,Harlingen Firemens Relief and Retirement Fund,allocator,brief,P0,drafted-in-repo,Wave 176. Official FNP $48,264,917 at 30 Sep 2025. Investments $48,226,612 are not FNP. GASB 70.52%. Notes/RSI MWR 10.90%. MD&A 8.53% is FNP increase. Do not mint /hfrrf/ or /harlingen/. Not leftover TMRS or leftover McAllen Fire
+2,institution,harlingen-frrf,Harlingen FRRF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 176 /harlingen-fire/. /hfrrf/ must not be minted for Houston Fire
+2,institution,hfrrf,HFRRF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 176 /harlingen-fire/. Houston remains /houston-hfrrf/
+2,institution,harlingen,Harlingen (city short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 176 /harlingen-fire/
+176,institution,mendocino-mcera,Mendocino County Employees Retirement Association,allocator,brief,P0,drafted-in-repo,Wave 176. Official FNP $793,440,285 at 30 Jun 2025. Investments $793,339,532 are not FNP. GASB 79.6%. Notes/RSI MWR 12.25%. MD&A time-weighted 12.33% is not MWR. Never mint /mcera/. Not leftover CCCERA or leftover SLOCPT
+2,institution,mendocino-mcera-explained,Mendocino MCERA explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 176 /mendocino-mcera/
+2,institution,mendocino-cera,Mendocino CERA (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 176 /mendocino-mcera/. /mcera/ remains Marin reserved
+2,institution,mendocino,Mendocino (county short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 176 /mendocino-mcera/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

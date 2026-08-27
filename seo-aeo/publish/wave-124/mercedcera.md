@@ -53,5 +53,6 @@ Do not 301 this page onto `/sjcera/`, leftover `/stancera/`, leftover Marin `/mc
 - [SBCERS](/sbcers/)
 - [Sonoma SCERA](/sonoma-scera/)
 - [San Luis Obispo County Pension Trust](/slocpt/)
+- [Mendocino County Employees’ Retirement Association](/mendocino-mcera/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

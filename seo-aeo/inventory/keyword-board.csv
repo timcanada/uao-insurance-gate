@@ -767,5 +767,6 @@ P1,Longview Firemens Relief and Retirement Fund,allocator,both,/longview-fire/,d
 P1,Galveston Firefighters Pension Fund,allocator,both,/galveston-fire/,define,unknown,unknown,unknown,drafted-wave-175,Wave 175. Official FNP $66,318,847 at 31 Dec 2025. Do not mint /gfrrf/. Not leftover Longview Fire or leftover McAllen Fire
 P1,Harlingen Firemens Relief and Retirement Fund,allocator,both,/harlingen-fire/,define,unknown,unknown,unknown,drafted-wave-176,Wave 176. Official FNP $48,264,917 at 30 Sep 2025. Do not mint /hfrrf/. Not leftover TMRS or leftover McAllen Fire
 P1,Mendocino County Employees Retirement Association,allocator,both,/mendocino-mcera/,define,unknown,unknown,unknown,drafted-wave-176,Wave 176. Official FNP $793,440,285 at 30 Jun 2025. Never mint /mcera/. Not leftover CCCERA or leftover SLOCPT
+P1,Irving Firemens Relief and Retirement Fund,allocator,both,/irving-fire/,define,unknown,unknown,unknown,drafted-wave-176,Wave 176. Official FNP $306,917,240 at 31 Dec 2025. Do not mint /ifrrf/. Not leftover TMRS or leftover Dallas Police and Fire
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

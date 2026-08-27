@@ -672,6 +672,11 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,mendocino-mcera-explained,Mendocino MCERA explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 176 /mendocino-mcera/
 2,institution,mendocino-cera,Mendocino CERA (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 176 /mendocino-mcera/. /mcera/ remains Marin reserved
 2,institution,mendocino,Mendocino (county short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 176 /mendocino-mcera/
+176,institution,irving-fire,Irving Firemens Relief and Retirement Fund,allocator,brief,P0,drafted-in-repo,Wave 176. Official FNP $306,917,240 at 31 Dec 2025. Investments $302,908,423 are not FNP. GASB 92.35%. RSI MWR 12.35%. MD&A 9.96% is FNP increase. Do not mint /ifrrf/ or /irving/. Not leftover TMRS or leftover Dallas Police and Fire
+2,institution,irving-frrf,Irving FRRF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 176 /irving-fire/
+2,institution,ifrrf,IFRRF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 176 /irving-fire/
+2,institution,irfrrf,IRFRRF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 176 /irving-fire/
+2,institution,irving,Irving (city short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 176 /irving-fire/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

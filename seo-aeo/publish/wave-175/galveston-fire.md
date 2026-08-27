@@ -53,5 +53,6 @@ Do not 301 this page onto `/texas-tmrs/`, `/mcallen-fire/`, `/longview-fire/`, `
 - [Denison Firemen’s Relief and Retirement Fund](/denison-fire/)
 - [Longview Firemen’s Relief and Retirement Fund](/longview-fire/)
 - [Harlingen Firemen’s Relief and Retirement Fund](/harlingen-fire/)
+- [Irving Firemen’s Relief and Retirement Fund](/irving-fire/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

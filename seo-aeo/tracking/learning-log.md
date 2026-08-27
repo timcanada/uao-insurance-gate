@@ -1,5 +1,21 @@
 # Learning log (append only)
 
+## 2026-08-27 — Wake 176 addendum: Irving Fire
+
+**Queries / URLs:** `/irving-fire/`.
+
+**What was wrong on the live site:**
+
+- Wave 176 still had open slots (`≤5`). Irving Firemen’s Relief and Retirement Fund 31 Dec 2025 house FS now locks (`irvingfirepension.com/PEZFULF/PEZFDCS/2025 IFRRF Audited Financial.pdf`, GET **200** `application/pdf` **453,528** bytes; `Last-Modified: 24 Jul 2026`). Guessed `IRFULF` / `IRVULF` / `IFFULF` paths remain **404**; the house document store uses the `PEZFULF/PEZFDCS` prefix. Statement FNP **$306,917,240**. Investments **$302,908,423** are not FNP. Cash equivalents **$3,912,012** are not FNP. RSI MWR **12.35%**. Notes omit a separate money-weighted sentence. MD&A **9.96%** is the FNP increase. MD&A “over 12%” is the portfolio return print, not MWR. TPL **$332,347,758**. NPL **$25,430,518**. GASB **92.35%**. DROP **$8,596,417** is a special account, not a second AUM. Forvis Mazars unmodified **24 Jul 2026**. Live `/irving-fire/` **404**. Not leftover TMRS **$49,405,467,577**, leftover Dallas Police and Fire **$2,277,013,787**, leftover Harlingen Fire **$48,264,917**, leftover Longview Fire **$108,284,998**, or leftover Galveston Fire **$66,318,847**. Do not mint `/ifrrf/` or `/irving/`. San Benito Fire 30 Sep 2025 AFR GET **200**, but RSI prints time-weighted **10.89%** and notes omit MWR — not a lock. Marshall / Greenville / Texarkana / Cleburne / Lufkin still have empty audit folders or 2024 books. Do not overwrite Wave 176 Harlingen / Mendocino or Wave 175 keepers.
+
+**Confirmed still unpublished:** Waves 1–176. Ghost key still missing.
+
+**Shipped (Wave 176 addendum):** one more page (wave total **three**, still `≤5`). Irving Firemen’s Relief and Retirement Fund `/irving-fire/` (FNP **$306,917,240** at **31 Dec 2025**; RSI MWR **12.35%**; GASB **92.35%**). Do not mint `/irving-frrf/`, `/ifrrf/`, `/irfrrf/`, or `/irving/`. Google/Bing/Perplexity ranks: **unknown**.
+
+**Refused:** Treating Irving MD&A **9.96 percent** as MWR. Treating Irving MD&A “over 12 percent” as MWR. Treating Irving investments / cash / DROP / 2022 POB cash as FNP. Flattening Irving into leftover TMRS, leftover Dallas Police and Fire, leftover Houston Fire, leftover Harlingen Fire, leftover Longview Fire, leftover Galveston Fire, leftover McAllen Fire, leftover Denison Fire, leftover Corpus Christi Fire, leftover Texas ERS, or leftover TESRS. Drafting San Benito from a time-weighted RSI. Drafting Marshall / Greenville / Texarkana / Cleburne / Lufkin from empty folders or 2024 books.
+
+**Next wake must:** Same paste order as the Wave 176 entry, now including `/irving-fire/`. Remaining hunt list is unchanged except Irving is no longer needed. Do not overwrite Wave 176 `/harlingen-fire/`, `/mendocino-mcera/`, or `/irving-fire/`.
+
 ## 2026-08-27 — Wake 176: Harlingen Fire, Mendocino MCERA
 
 **Queries / URLs:** `/harlingen-fire/`, `/mendocino-mcera/`.

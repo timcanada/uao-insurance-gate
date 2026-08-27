@@ -51,5 +51,6 @@ Do not 301 this page onto `/kansas-city-police/`, `/kansas-city-fire/`, `/kansas
 - [Civilian Employees’ Retirement System of the Police Department of Kansas City](/kansas-city-police-civilian/)
 - [MOSERS](/missouri-mosers/)
 - [Employees Retirement System of the City of St. Louis](/st-louis-ers/)
+- [Jackson County, Missouri Revised Pension Plan](/jackson-county-pension/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

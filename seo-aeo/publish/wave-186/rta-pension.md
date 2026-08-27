@@ -51,6 +51,8 @@ Do not 301 this page onto `/mbta-retirement/`, `/cta/`, `/rta/`, `/chicago-rta/`
 - [Santa Clara Valley Transportation Authority ATU Pension Plan](/vta-atu/)
 - [Bi-State Development ATU 788 Employees’ Pension Plan](/bi-state-atu-788/)
 - [Bi-State Development IBEW Employees’ Pension Plan](/bi-state-ibew/)
+- [Bi-State Development Salaried Employees’ Pension Plan](/bi-state-salaried/)
+- [DART Employees’ Defined Benefit Retirement Plan](/dart-employees/)
 - [Cook County Pension Fund](/cook-county-pension/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

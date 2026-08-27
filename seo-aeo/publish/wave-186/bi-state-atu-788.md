@@ -47,6 +47,7 @@ Do not 301 this page onto `/bi-state-ibew/`, `/sacrt-atu/`, `/vta-atu/`, `/bi-st
 - [Public pension funds](/public-pension-funds/)
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Bi-State Development IBEW Employees’ Pension Plan](/bi-state-ibew/)
+- [Bi-State Development Salaried Employees’ Pension Plan](/bi-state-salaried/)
 - [Retirement Plan for Sacramento Regional Transit District Employees who are Members of ATU Local 256](/sacrt-atu/)
 - [Santa Clara Valley Transportation Authority ATU Pension Plan](/vta-atu/)
 - [Regional Transportation Authority Pension Plan](/rta-pension/)

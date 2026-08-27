@@ -53,6 +53,7 @@ Do not 301 this page onto `/houston-hfrrf/`, `/houston-hpops/`, `/san-antonio-fi
 - [Austin Police Retirement System](/austin-police-retirement/)
 - [Texas ERS](/texas-ers/)
 - [Dallas ERF](/dallas-erf/)
+- [DART Employees’ Defined Benefit Retirement Plan](/dart-employees/)
 - [El Paso Firemen and Policemen’s Pension Fund](/el-paso-fire-police/)
 - [El Paso Policemen Division](/el-paso-police/)
 - [University Health System Pension Plan](/university-health-pension/)

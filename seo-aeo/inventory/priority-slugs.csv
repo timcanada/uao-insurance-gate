@@ -866,6 +866,21 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,bi-state,Bi-State (short),allocator,brief,P0,do-not-mint,Do not mint. Flattens Wave 186 /bi-state-ibew/ vs /bi-state-atu-788/
 2,institution,atu,ATU (short),allocator,brief,P0,do-not-mint,Do not mint. Flattens VTA ATU, SacRT ATU, and Wave 186 /bi-state-atu-788/
 2,institution,metro-st-louis,Metro St Louis (short),allocator,brief,P0,do-not-mint,Do not mint. Flattens Wave 186 Bi-State books. Do not mint /metro/
+187,institution,bi-state-salaried,Bi-State Development Salaried Employees Pension Plan,allocator,brief,P0,drafted-in-repo,Wave 187. Official FNP $109,394,806 at 31 May 2025. Do not mint /salaried/ or /bi-state/. Not leftover Bi-State ATU 788
+2,institution,bi-state-salaried-explained,Bi-State Salaried explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 187 /bi-state-salaried/
+2,institution,salaried,Salaried (short),allocator,brief,P0,do-not-mint,Do not mint. Flattens SacRT Salaried and Wave 187 /bi-state-salaried/
+187,institution,jackson-county-pension,Jackson County Missouri Revised Pension Plan,allocator,brief,P0,drafted-in-repo,Wave 187. Official FNP $401,369,097 at 30 Jun 2025. Do not mint /jackson/ or /ers/. Not leftover MOSERS
+2,institution,jackson-county-pension-explained,Jackson County pension explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 187 /jackson-county-pension/
+2,institution,jackson,Jackson (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 187 /jackson-county-pension/
+2,institution,jcpers,JCPERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 187 /jackson-county-pension/
+187,institution,dart-employees,DART Employees Defined Benefit Retirement Plan,allocator,brief,P0,drafted-in-repo,Wave 187. Official FNP $226,521 thousand at 30 Sep 2025. Do not mint /dart/. Not leftover Dallas Police and Fire
+2,institution,dart-employees-explained,DART Employees explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 187 /dart-employees/
+2,institution,dart,DART (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 187 /dart-employees/
+187,institution,port-houston-pension,Port of Houston Authority Restated Retirement Plan,allocator,brief,P0,drafted-in-repo,Wave 187. Official FNP $233,137,483 at 31 Jul 2025. Do not mint /pha/ or /houston/. Not leftover Houston HMEPS
+2,institution,port-houston-pension-explained,Port Houston pension explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 187 /port-houston-pension/
+2,institution,pha,PHA (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 187 /port-houston-pension/
+2,institution,port,Port (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 187 /port-houston-pension/
+2,institution,houston,Houston (short),allocator,brief,P0,do-not-mint,Do not mint. Flattens Houston HMEPS / Fire / Police and Wave 187 /port-houston-pension/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

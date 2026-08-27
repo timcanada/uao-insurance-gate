@@ -1,6 +1,7 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { useCallback, useEffect, useState } from 'react';
-import { Pressable, ScrollView, StyleSheet, Text, TextInput, View } from 'react-native';
+import { Linking, Pressable, ScrollView, StyleSheet, Text, TextInput, View } from 'react-native';
+import { useRouter } from 'expo-router';
 
 import { Screen } from '@/src/components/Ui';
 import {
@@ -9,6 +10,8 @@ import {
   NOTE_MAX,
   SEATS,
   admitMember,
+  applicationError,
+  applicationMailto,
   canMintPeer,
   canPost,
   consumerInbox,
@@ -25,10 +28,13 @@ import {
 import { colors, fonts } from '@/src/theme';
 
 export default function RoomScreen() {
+  const router = useRouter();
   const [member, setMember] = useState<Member | null>(null);
   const [ready, setReady] = useState(false);
   const [code, setCode] = useState('');
+  const [name, setName] = useState('');
   const [email, setEmail] = useState('');
+  const [phone, setPhone] = useState('');
   const [institution, setInstitution] = useState('');
   const [role, setRole] = useState('');
   const [why, setWhy] = useState('');
@@ -73,15 +79,26 @@ export default function RoomScreen() {
   }
 
   async function apply() {
-    if (!email.trim() || !institution.trim() || !role.trim() || !why.trim()) {
-      setError('Email, institution, role, and why this desk.');
-      return;
-    }
-    const next: Member = {
+    const app = {
+      name: name.trim(),
       email: email.trim(),
+      phone: phone.trim(),
       institution: institution.trim(),
       role: role.trim(),
       why: why.trim(),
+    };
+    const problem = applicationError(app);
+    if (problem) {
+      setError(problem);
+      return;
+    }
+    const next: Member = {
+      name: app.name,
+      email: app.email,
+      phone: app.phone,
+      institution: app.institution,
+      role: app.role,
+      why: app.why,
       via: 'application',
       at: Date.now(),
       status: 'pending',
@@ -89,6 +106,12 @@ export default function RoomScreen() {
     await admitMember(next);
     setMember(next);
     setError('');
+    try {
+      await Linking.openURL(applicationMailto(app));
+    } catch {
+      /* the record is already on this device */
+    }
+    router.push('/(tabs)/book');
   }
 
   async function post() {
@@ -117,11 +140,11 @@ export default function RoomScreen() {
         <ScrollView contentContainerStyle={styles.scroll}>
           <Text style={styles.folio}>The house · seat review</Text>
           <Text style={styles.kicker}>Walled garden · invite only</Text>
-          <Text style={styles.title}>The brief is complimentary. The room is not open.</Text>
+          <Text style={styles.title}>Apply for the house. The newspaper stays complimentary.</Text>
           <Text style={styles.lede}>
-            You may read the newspaper. You may not speak in the house until the desk has taken
-            your seat — or someone already seated has passed you a code. Chatham House Rule
-            inside. Sovereigns, pensions, endowments, insurers, family offices.
+            Name, work email, direct line. Then: verified roles, the briefing diary, the
+            research book, in-app audio, and the studio. The floor in The Room stays closed
+            until a seat is confirmed.
           </Text>
           <Text style={styles.kicker}>I have an invite</Text>
           <TextInput
@@ -137,6 +160,14 @@ export default function RoomScreen() {
           </Pressable>
           <Text style={styles.kicker}>Request a seat</Text>
           <TextInput
+            value={name}
+            onChangeText={setName}
+            autoComplete="name"
+            placeholder="Name — as the IC would say it"
+            placeholderTextColor={colors.muted}
+            style={styles.input}
+          />
+          <TextInput
             value={email}
             onChangeText={setEmail}
             keyboardType="email-address"
@@ -148,6 +179,15 @@ export default function RoomScreen() {
           {consumerInbox(email) ? (
             <Text style={styles.warn}>Consumer inboxes are reviewed last. A work address sits first.</Text>
           ) : null}
+          <TextInput
+            value={phone}
+            onChangeText={setPhone}
+            keyboardType="phone-pad"
+            autoComplete="tel"
+            placeholder="Direct line — +1 416 …"
+            placeholderTextColor={colors.muted}
+            style={styles.input}
+          />
           <TextInput
             value={institution}
             onChangeText={setInstitution}
@@ -174,7 +214,8 @@ export default function RoomScreen() {
             <Text style={styles.primaryLabel}>Submit for desk review</Text>
           </Pressable>
           <Text style={styles.meta}>
-            An application does not open the floor. The desk will write. The brief stays complimentary.
+            The desk confirms. An application does not open the floor in The Room. LIVE and the
+            jobs book open once we have a record on you. The brief stays complimentary.
           </Text>
           {error ? <Text style={styles.err}>{error}</Text> : null}
         </ScrollView>

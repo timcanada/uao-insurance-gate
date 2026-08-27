@@ -37,17 +37,10 @@ export default function TabLayout() {
         }}
       />
       <Tabs.Screen
-        name="brief"
+        name="live"
         options={{
-          title: 'Brief',
-          tabBarIcon: ({ color }) => <TabMark label="BRIEF" color={color} />,
-        }}
-      />
-      <Tabs.Screen
-        name="desk"
-        options={{
-          title: 'Desk',
-          tabBarIcon: ({ color }) => <TabMark label="DESK" color={color} />,
+          title: 'Live',
+          tabBarIcon: ({ color }) => <TabMark label="LIVE" color={color} />,
         }}
       />
       <Tabs.Screen
@@ -58,19 +51,16 @@ export default function TabLayout() {
         }}
       />
       <Tabs.Screen
-        name="research"
+        name="book"
         options={{
-          title: 'Charts',
-          href: null,
+          title: 'Book',
+          tabBarIcon: ({ color }) => <TabMark label="BOOK" color={color} />,
         }}
       />
-      <Tabs.Screen
-        name="more"
-        options={{
-          title: 'Watch',
-          tabBarIcon: ({ color }) => <TabMark label="WATCH" color={color} />,
-        }}
-      />
+      <Tabs.Screen name="brief" options={{ href: null }} />
+      <Tabs.Screen name="desk" options={{ href: null }} />
+      <Tabs.Screen name="research" options={{ href: null }} />
+      <Tabs.Screen name="more" options={{ href: null }} />
     </Tabs>
   );
 }

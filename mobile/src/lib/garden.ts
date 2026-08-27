@@ -10,7 +10,9 @@ export const NOTE_KEEP = 80;
 export type SeatStatus = 'seated' | 'pending';
 
 export type Member = {
+  name?: string;
   email: string;
+  phone?: string;
   institution: string;
   role: string;
   via: string;
@@ -18,6 +20,15 @@ export type Member = {
   status: SeatStatus;
   why?: string;
   peerCode?: string;
+};
+
+export type Application = {
+  name: string;
+  email: string;
+  phone: string;
+  institution: string;
+  role: string;
+  why: string;
 };
 
 export type RoomNote = {
@@ -124,8 +135,42 @@ export function seatStatus(member: Member | null | undefined): SeatStatus | null
   return validInvite(member.via || '') ? 'seated' : 'pending';
 }
 
+export function canEnterHouse(member: Member | null | undefined): boolean {
+  return seatStatus(member) === 'pending' || seatStatus(member) === 'seated';
+}
+
 export function canPost(member: Member | null | undefined): boolean {
   return seatStatus(member) === 'seated';
+}
+
+export function validPhone(phone: string): boolean {
+  return phone.replace(/\D/g, '').length >= 8;
+}
+
+export function applicationError(app: Partial<Application>): string | null {
+  if (!app.name?.trim()) return 'Name, work email, and phone.';
+  if (!app.email?.trim() || !app.email.includes('@')) return 'A work email sits first.';
+  if (!validPhone(app.phone || '')) return 'A direct line — the desk does not leave voicemail theatre.';
+  if (!app.institution?.trim() || !app.role?.trim()) return 'Institution and role.';
+  if (!app.why?.trim()) return 'Why this desk — one sentence the IC would recognise.';
+  return null;
+}
+
+export function applicationMailto(app: Application): string {
+  const body = [
+    `Name: ${app.name}`,
+    `Email: ${app.email}`,
+    `Phone: ${app.phone}`,
+    `Institution: ${app.institution}`,
+    `Role: ${app.role}`,
+    `Why: ${app.why}`,
+  ].join('\n');
+  return (
+    'mailto:info@universalassetowners.com?subject=' +
+    encodeURIComponent('Seat application — UAO Terminal') +
+    '&body=' +
+    encodeURIComponent(body)
+  );
 }
 
 export function canMintPeer(member: Member | null | undefined): boolean {

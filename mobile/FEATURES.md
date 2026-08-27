@@ -99,3 +99,5 @@ Academic work on what funds actually read (Ben-Rephael, Da, Israelsen and follow
 ## What we just shipped
 
 **WIRE** — streaming UAO desk + Fed/ECB/SEC/BIS official prints + name-level allocator scan (junk filtered), 30-second tick, JUST IN only when a timestamp exists. **PD meters** now print the live desk split (42/36/22 as of 22 Aug) instead of empty theatre. This is the spine for 1, 2, 7 and 10.
+
+**HOUSE** — apply with name, work email and a direct line. Pending unlocks **LIVE** (in-app podcasts + YouTube live / just-missed / recent shows) and **BOOK** (tracked employer portals, Talent Desk, diary / briefing request, who-moved, research). The Room floor stays seated-only. No invented job listings: when the careers site has no individually verified roles live, the book says so.

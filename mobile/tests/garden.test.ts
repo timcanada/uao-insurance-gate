@@ -2,6 +2,7 @@ import assert from 'node:assert/strict';
 import { describe, it } from 'node:test';
 
 import {
+  canEnterHouse,
   canMintPeer,
   canPost,
   consumerInbox,
@@ -66,6 +67,9 @@ describe('seats', () => {
     assert.equal(canPost(seated), true);
     assert.equal(canPost(null), false);
     assert.equal(seatStatus(pending), 'pending');
+    assert.equal(canEnterHouse(pending), true);
+    assert.equal(canEnterHouse(seated), true);
+    assert.equal(canEnterHouse(null), false);
   });
 
   it('legacy house-code records still seat', () => {

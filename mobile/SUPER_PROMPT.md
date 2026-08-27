@@ -10,7 +10,7 @@ This is not a news app. It is not fintech. It is not LinkedIn with a navy theme.
 
 ## One sentence
 
-The brief is complimentary. The room is not open.
+Apply for the house. The newspaper stays complimentary. The Room floor is seated-only.
 
 ## Who we serve
 
@@ -26,17 +26,17 @@ Not retail. Not a twenty-eight-year-old with a brokerage app. Not a growth-loop 
 
 ## What the product is
 
-Two desks, four formats, a live official-print wire, and a members’ room:
+Two desks, four formats, a live official-print wire, a studio, a jobs book, and a members’ room:
 
 | Surface | Who may enter | What it is |
 |---|---|---|
 | **TERM** | Anyone | Morning edition. Manifesto. Cover brief. Probability Desk. Charts. Partner plate. |
 | **WIRE** | Anyone | Streaming UAO desk + Fed / ECB / SEC / BIS + allocator scan. JUST IN. |
-| **DESK** | Anyone | Afternoon scenario book. Base / upside / tail. |
-| **WATCH** | Anyone | Saved briefs, institutions, advertise. |
-| **ROOM** | Invite or desk review | Four chambers. Desk spine + member notes. Chatham House. |
+| **LIVE** | Applied (`pending`) or seated | In-app podcasts. Watch live. Just missed. Recent YouTube shows. |
+| **ROOM** | Invite or desk review | Four chambers. Desk spine + member notes. Chatham House. Pending may read; only seated may post. |
+| **BOOK** | Applied (`pending`) or seated | Tracked employer portals, Talent Desk, diary / briefing request, who-moved, research. |
 
-Complimentary intelligence stays open. The garden is **The Room**, not the newspaper.
+Complimentary intelligence stays open. **LIVE** and **BOOK** are the house. The Room floor is still seated-only. Do not invent job listings or a public dated calendar — the careers site currently has **no individually verified roles live**.
 
 ---
 
@@ -48,8 +48,8 @@ Complimentary intelligence stays open. The garden is **The Room**, not the newsp
 4. No public usernames, likes, follows, streaks, badges, or “247 members online.”
 5. Do not invent named CIOs. Roster is by **mandate**, never by person.
 6. **Chatham House Rule** in every chamber: members may use the information; they may not name who said it, or their institution, outside the garden.
-7. Work email, institution, role, why this desk. Consumer inboxes (`gmail`, `yahoo`, `hotmail`, `outlook`, `icloud`) are reviewed last — warn, do not mock, do not auto-seat.
-8. **Application does not seat.** Application = `pending`. Only a house or peer invite (or a later desk approval) sets `seated`. Pending may *see* the chambers and the desk spine. Pending may **not** post.
+7. Apply with **name, work email, phone**, institution, role, why this desk. Consumer inboxes (`gmail`, `yahoo`, `hotmail`, `outlook`, `icloud`) are reviewed last — warn, do not mock, do not auto-seat.
+8. **Application does not open The Room floor.** Application = `pending`. Pending may enter **LIVE** and **BOOK** (jobs, diary, reports, in-app audio, just-missed). Only a house or peer invite (or a later desk approval) sets `seated` and may post. Pending may *see* the chambers and the desk spine. Pending may **not** post.
 9. Brand: navy `#0B1F3A` / `#07131f`, gold `#C9A24B`, cream `#F4EFE6`. Serif headlines. Terminal density. Print quality. Institutional, dry, specific.
 10. Same Ghost Content API and YouTube live probe as the website.
 11. Subscribe = request the daily brief via the Ghost portal. Advertise = disclosed briefing-partner inventory, `info@universalassetowners.com`.
@@ -72,21 +72,22 @@ Peer codes (seat immediately, format-valid until a server can revoke):
 - `UAO-PEER-` + four chars from `ABCDEFGHJKLMNPQRSTUVWXYZ23456789`
 - A seated member may mint **one** peer code to pass by hand. The desk can revoke later.
 
-Application (does **not** seat):
+Application (does **not** seat the Room floor; **does** unlock LIVE / BOOK):
 
-- Work email, institution, role, why this desk
+- Name, work email, phone, institution, role, why this desk
 - Status `pending`
-- Copy: “The desk will write. The brief stays complimentary.”
+- Local record + `mailto:info@universalassetowners.com` subject `Seat application — UAO Terminal`
+- Copy: “The desk confirms. An application does not open the floor. The brief stays complimentary.”
 
-URL admit: `?invite=UAO-DESK` seats and opens ROOM.
+URL admit: `?invite=UAO-DESK` seats immediately and opens ROOM.
 
-Garden overlay appears when someone without a record tries **ROOM** or **THE ROOM**. It must offer:
+Garden overlay appears when someone without a record tries **ROOM**, **LIVE**, **BOOK**, or **THE ROOM**. It must offer:
 
 1. Enter with an invite
-2. Request a seat (pending)
+2. Request a seat (pending — name, work email, phone)
 3. **Continue with the complimentary brief** (close garden, stay on TERM)
 
-Do **not** hide TERM / WIRE / DESK on first launch. That would lie about “the brief is complimentary.”
+Do **not** hide TERM / WIRE on first launch. That would lie about “the brief is complimentary.”
 
 ---
 
@@ -114,19 +115,29 @@ Rules of speech:
 
 ## Information architecture
 
-- **TERM** — edition, manifesto, morning cover, Probability Desk, charts, Room teaser, partner plate, access.
+- **TERM** — edition, manifesto, morning cover, Probability Desk, charts, Studio / Book / Room teasers, partner plate, access.
 - **WIRE** — UAO + official prints + allocator scan. 30s tick. JUST IN < 30 minutes.
+- **LIVE** — members’ studio: watch live, just missed, recent YouTube, in-app Podbean audio for *The Universal Owner* and *The Probability Desk*.
 - **ROOM** — garden or chambers as above.
-- **DESK** — afternoon scenario book.
-- **WATCH / HOUSE** — watchlist, institutions, advertise, application status, peer invite once seated.
+- **BOOK** — jobs the desk verified (or honest empty), tracked houses, Talent Desk, diary, briefing request, who-moved, research reports.
 
-Native tabs: TERM · WIRE · BRIEF · DESK · ROOM. Charts stay reachable, not a sixth tab.
+Native / HTML tabs: **TERM · WIRE · LIVE · ROOM · BOOK**. DESK / WATCH / listen stay reachable from TERM, not a sixth tab. Members tapping Listen land in LIVE.
+
+Podcasts must play **in the app**. Do not bounce seated people to Apple as the only player.
+
+Jobs: deep-link the careers site and the employer portals UAO already tracks. If the site says no individually verified roles are live, the app says the same. Never invent openings.
+
+Appointments: weekday desk ritual + “request a briefing” mailto. Not a scraped public calendar. Briefings page is invite-only conversations.
 
 ## Live and subscribe (already shipped — keep)
 
 - Ghost: `https://universal-asset-owners.ghost.io/ghost/api/content` key `4cb0118527b7b2a473e665856a`
 - Filters: `hash-daily-brief`, `hash-probability-desk`, `hash-research`, `hash-chart`, `hash-video-briefing`, `hash-podcast`
 - Live probe: `https://uao-live-production.up.railway.app/` → `youtube-nocookie.com/embed/{videoId}?autoplay=1&mute=1&playsinline=1&rel=0&modestbranding=1`
+- YouTube channel `@UniversalOwners` / `UCN7F2P9H29cIxwWyIIq7BxQ` atom via rss2json for just-missed
+- Podcasts (in-app): `https://feed.podbean.com/universalassetowners/feed.xml` and `https://feed.podbean.com/probabilitydesk/feed.xml`
+- Careers (real pages only): `/careers/`, `/careers/intelligence/`, `/jobs/` — do not invent listings
+- Briefings: `/briefings/` — request a conversation, not a public diary
 - Daily-brief toast: first id silent; next id pops. `?demo=brief` for preview.
 - Bundle id: `com.universalassetowners.app`
 - Preview the human taps: `mobile/public/app.html` copied to `mobile/dist/app.html` **and** `mobile/dist/index.html`. Serve `dist` on :8080. Public URL is a Cloudflare quick tunnel, not Cursor Ports.

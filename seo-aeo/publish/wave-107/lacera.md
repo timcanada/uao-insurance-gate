@@ -28,13 +28,13 @@ The GASB 67 statement and the PAFR are the sourced split:
 2. **Returns.** Official PAFR: pension-plan net return **9.7 percent** for the fiscal year ended **30 June 2025**; five-year annualized net return **9.8 percent**. Los Angeles County established the pension trust in **1937**. LACERA was introduced in **1938**. The Board of Investments was created in **1971**.
 3. **What this is not.** LACERA is the largest county retirement system in the United States on its own official language. It is not CalPERS and not CalSTRS. Those are Sacramento-corridor state books. It is not [SFERS](/san-francisco-sfers/). SFERS is the City and County of San Francisco. LACERA also manages OPEB trusts. Do not add OPEB to the pension line.
 
-Do not flatten LACERA into [CalPERS](/calpers-explained-largest-us-pension-fund/) or [CalSTRS](/calstrs-explained/). CalPERS and CalSTRS sit in the Sacramento corridor. This is **one Los Angeles County file**.
+Do not flatten LACERA into [CalPERS](/calpers-explained-largest-us-pension-fund/), [CalSTRS](/calstrs-explained/), [LACERS](/lacers/), or [Los Angeles Fire and Police Pensions](/lafpp/). CalPERS and CalSTRS sit in the Sacramento corridor. LACERS is the Los Angeles **civilian** city file. LAFPP is the Los Angeles **sworn fire-and-police** file. This is **one Los Angeles County file**.
 
 ## What an owner is actually buying
 
 Counsel selling “Los Angeles pension AUM” has to name the legal person. The **$86.2 billion** line is LACERA’s pension fiduciary net position. CalPERS PERF is a different filing. Those are not the same mandate.
 
-Do not 301 this page onto `/calpers-explained-largest-us-pension-fund/`, `/calstrs-explained/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/calpers-explained-largest-us-pension-fund/`, `/calstrs-explained/`, `/lacers/`, `/lafpp/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -48,6 +48,7 @@ Do not 301 this page onto `/calpers-explained-largest-us-pension-fund/`, `/calst
 - [Public pension funds](/public-pension-funds/)
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [LACERS](/lacers/)
+- [Los Angeles Fire and Police Pensions](/lafpp/)
 - [SDCERS](/sdcers/)
 - [OCERS](/ocers/)
 - [SamCERA](/samcera/)

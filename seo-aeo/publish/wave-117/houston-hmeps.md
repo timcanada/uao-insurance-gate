@@ -27,13 +27,13 @@ The statement of fiduciary net position is the sourced line:
 2. **Named books.** The pension book is the **$4,723,001,002** line. The OPEB trust fiduciary net position **$10,926,725** is not the pension book. Combined pension-plus-OPEB fiduciary net position **$4,733,927,727** is not the pension book. Combined investments **$4,756,652,347** is not fiduciary net position. Those four lines are not interchangeable.
 3. **Returns and funded status.** Gross rate of return **11.8 percent**. Pension-plan money-weighted return **11.77 percent** net of investment expenses. OPEB-trust money-weighted return **11.50 percent** net of investment fees. Those three official one-year prints are not interchangeable. Total pension liability **$5,932,875,171**. Net pension liability **$1,209,874,169**. Fiduciary net position as a percentage of total pension liability **79.61 percent**. Actuarial-value funded ratio **72.7 percent** is as of **1 July 2024** — do not invent a 1 July 2025 actuarial-value card. Those two funded cards are not interchangeable.
 
-Do not flatten Houston municipal employees into [Texas TRS](/texas-teacher-retirement-system-explained/), [Texas ERS](/texas-ers/), or [Texas Municipal Retirement System](/texas-tmrs/). This is **one Houston municipal-employee file**.
+Do not flatten Houston municipal employees into [Texas TRS](/texas-teacher-retirement-system-explained/), [Texas ERS](/texas-ers/), [Texas Municipal Retirement System](/texas-tmrs/), or [City of Austin Employees’ Retirement System](/coaers/). COAERS is a different legal person. This is **one Houston municipal-employee file**.
 
 ## What an owner is actually buying
 
 Counsel selling “HMEPS AUM” has to name the book. The **$4,723,001,002** line is pension fiduciary net position. The **$4,745,525,757** line is investments. The OPEB trust is not the pension book.
 
-Do not 301 this page onto `/texas-teacher-retirement-system-explained/`, `/texas-ers/`, `/texas-tmrs/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/texas-teacher-retirement-system-explained/`, `/texas-ers/`, `/texas-tmrs/`, `/coaers/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -51,5 +51,6 @@ Do not 301 this page onto `/texas-teacher-retirement-system-explained/`, `/texas
 - [Texas Municipal Retirement System](/texas-tmrs/)
 - [Houston Firefighters](/houston-hfrrf/)
 - [Houston Police](/houston-hpops/)
+- [City of Austin Employees’ Retirement System](/coaers/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -291,6 +291,16 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,merced-cera,MercedCERA (long twin),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 124 /mercedcera/. /mcera/ is Marin
 124,institution,phoenix-copers,Phoenix COPERS,allocator,brief,P0,drafted-in-repo,Wave 124. Official FNP $3,913,124 thousand at 30 Jun 2025. Do not mint /copers/ or /phoenix-employees/
 2,institution,copers,Phoenix COPERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 124 /phoenix-copers/
+125,institution,lafpp,Los Angeles Fire and Police Pensions,allocator,brief,P0,drafted-in-repo,Wave 125. Official combined NP $34,110,601,276 at 30 Jun 2025. Do not mint /la-fire-police/ or /lafpp-explained/
+2,institution,la-fire-police,LAFPP (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 125 /lafpp/
+125,institution,coaers,City of Austin Employees Retirement System,allocator,brief,P0,drafted-in-repo,Wave 125. Official combined FNP $4,085,942,671 at 31 Dec 2025. Do not mint /austin-employees/ or /coaers-explained/
+2,institution,austin-employees,COAERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 125 /coaers/
+125,institution,san-antonio-fire-police,San Antonio Fire and Police,allocator,brief,P0,drafted-in-repo,Wave 125. Official FNP $4,493,776 thousand at 31 Dec 2025. Do not mint /safppf/ or /san-antonio-fp/
+2,institution,safppf,San Antonio Fire and Police (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 125 /san-antonio-fire-police/
+125,institution,milwaukee-ers,Milwaukee ERS,allocator,brief,P0,drafted-in-repo,Wave 125. Official combined NP $6,458,509 thousand at 31 Dec 2025. Do not mint /cmers/ or /milwaukee-ers-explained/
+2,institution,cmers,Milwaukee ERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 125 /milwaukee-ers/
+125,institution,austin-police-retirement,Austin Police Retirement System,allocator,brief,P0,drafted-in-repo,Wave 125. Official statement FNP $1,211,262,982 at 31 Dec 2025. Do not mint /aprs/ or /austin-police/
+2,institution,aprs,Austin Police Retirement (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 125 /austin-police-retirement/. Generic / ham-radio collision
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

@@ -28,13 +28,13 @@ The statement of plan net position is the sourced line (in thousands):
 2. **Named books on the same statement.** Pension **$5,568,979 thousand**. Healthcare **$397,098 thousand**. Those two lines are not interchangeable. Do not treat the pension book as the combined book.
 3. **Returns and funded cards.** Pension time-weighted return **10.0 percent** net of fees against a policy benchmark **10.3 percent** and an assumed rate of **6.625 percent**. Healthcare time-weighted return **11.1 percent** is not the pension return. Pension total pension liability **$6,324,487 thousand**. Pension net pension liability **$755,508 thousand**. Pension fiduciary net position / total pension liability **88.1 percent**. Those official one-year prints and funded cards are not interchangeable.
 
-Do not flatten Police and Fire into [San José Federated](/san-jose-federated/), [Houston Firefighters](/houston-hfrrf/), [Houston Police](/houston-hpops/), or [SFERS](/san-francisco-sfers/). Federated is the civilian San José file. Houston fire and Houston police are different legal persons. This is **one San José sworn police-and-fire file**.
+Do not flatten Police and Fire into [San José Federated](/san-jose-federated/), [Houston Firefighters](/houston-hfrrf/), [Houston Police](/houston-hpops/), [San Antonio Fire and Police](/san-antonio-fire-police/), [Los Angeles Fire and Police Pensions](/lafpp/), or [SFERS](/san-francisco-sfers/). Federated is the civilian San José file. Houston fire, Houston police, San Antonio Fire and Police, and LAFPP are different legal persons. This is **one San José sworn police-and-fire file**.
 
 ## What an owner is actually buying
 
 Counsel selling “San José Police and Fire AUM” has to name the book. The **$5,966,077 thousand** line is combined plan net position. The **$5,568,979 thousand** line is pension fiduciary net position. The **$5,685,796 thousand** line is pension investments. The house **$6.0 billion** card is the combined book rounded.
 
-Do not 301 this page onto `/san-jose-federated/`, `/houston-hfrrf/`, `/houston-hpops/`, `/san-francisco-sfers/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/san-jose-federated/`, `/houston-hfrrf/`, `/houston-hpops/`, `/san-antonio-fire-police/`, `/lafpp/`, `/san-francisco-sfers/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -50,6 +50,8 @@ Do not 301 this page onto `/san-jose-federated/`, `/houston-hfrrf/`, `/houston-h
 - [San José Federated](/san-jose-federated/)
 - [Houston Firefighters](/houston-hfrrf/)
 - [Houston Police](/houston-hpops/)
+- [San Antonio Fire and Police](/san-antonio-fire-police/)
+- [Los Angeles Fire and Police Pensions](/lafpp/)
 - [SFERS](/san-francisco-sfers/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

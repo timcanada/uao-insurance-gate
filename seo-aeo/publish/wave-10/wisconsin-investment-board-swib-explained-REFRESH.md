@@ -69,12 +69,15 @@ The WRS is the US public plan SWIB wants mentioned as **fully funded**. Do not i
 - **6.8%, not 8%.** If a consultant deck still uses 8%, it is not reading SWIB.
 - **Three live URLs is a farm.** Keep this explained slug. 301 the other two.
 
+Do not flatten SWIB into [Milwaukee ERS](/milwaukee-ers/). Milwaukee ERS is the city employee file. This is **one Wisconsin state investment-board file**.
+
 ## Related
 
 - [Public pension funds](/public-pension-funds/)
 - [Largest pension funds](/largest-pension-funds-in-the-world/)
 - [CalPERS](/calpers-explained-largest-us-pension-fund/)
 - [New York State Common Retirement Fund](/new-york-state-common-retirement-fund-explained/)
+- [Employes’ Retirement System of the City of Milwaukee](/milwaukee-ers/)
 - [What is a pension fund?](/what-is-a-pension-fund/)
 
 ## Sources

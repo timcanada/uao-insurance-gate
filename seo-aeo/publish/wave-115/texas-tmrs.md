@@ -27,13 +27,13 @@ The statement of fiduciary net position is the sourced line:
 2. **Cash flows on the same report.** City contributions **$1,608.2 million**. Member contributions **$678.9 million**. Retirement benefits paid **$2,197.9 million**. Member account refunds **$90.7 million**.
 3. **Returns and funded status.** Time-weighted net investment return **13.75 percent**. Three-year **12.01 percent**. Five-year **8.00 percent**. Ten-year **8.07 percent**. Money-weighted return on Pension Trust Fund assets, net of investment expenses, **13.70 percent**. Those two official one-year prints are not interchangeable. Actuarial investment-return assumption **6.75 percent**. System-wide funded ratio **90.4 percent**. Participating cities **943**.
 
-Do not flatten TMRS into [Texas TRS](/texas-teacher-retirement-system-explained/) or [Texas ERS](/texas-ers/). Texas TRS is the teacher file. Texas ERS is the state-employee file. This is **one Texas municipal cash-balance file**.
+Do not flatten TMRS into [Texas TRS](/texas-teacher-retirement-system-explained/), [Texas ERS](/texas-ers/), [City of Austin Employees’ Retirement System](/coaers/), [Austin Police Retirement System](/austin-police-retirement/), or [San Antonio Fire and Police](/san-antonio-fire-police/). Texas TRS is the teacher file. Texas ERS is the state-employee file. COAERS, Austin Police, and San Antonio Fire and Police are different legal persons. This is **one Texas municipal cash-balance file**.
 
 ## What an owner is actually buying
 
 Counsel selling “Texas municipal AUM” has to name the book. The **$49,405,467,577** line is net position restricted for pensions. The **$49,126,197,726** line is investments. The **$23,566,196** line is the Supplemental Death Benefits Fund. Those are not the same mandate.
 
-Do not 301 this page onto `/texas-teacher-retirement-system-explained/`, `/texas-ers/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/texas-teacher-retirement-system-explained/`, `/texas-ers/`, `/coaers/`, `/austin-police-retirement/`, `/san-antonio-fire-police/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -51,5 +51,8 @@ Do not 301 this page onto `/texas-teacher-retirement-system-explained/`, `/texas
 - [Houston Municipal Employees](/houston-hmeps/)
 - [Houston Firefighters](/houston-hfrrf/)
 - [Houston Police](/houston-hpops/)
+- [City of Austin Employees’ Retirement System](/coaers/)
+- [Austin Police Retirement System](/austin-police-retirement/)
+- [San Antonio Fire and Police](/san-antonio-fire-police/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

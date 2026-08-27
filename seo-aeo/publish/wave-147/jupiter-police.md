@@ -51,5 +51,6 @@ Do not 301 this page onto `/west-palm-beach-police/`, `/palm-beach-gardens-polic
 - [City of North Port Police Officers’ Pension–Local Option Trust Fund](/north-port-police/)
 - [City of Boca Raton Police and Firefighters’ Retirement System](/boca-raton-police-fire/)
 - [City of Sunrise Police Officers’ Retirement Plan](/sunrise-police/)
+- [Lantana Police Relief and Pension Fund](/lantana-police/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

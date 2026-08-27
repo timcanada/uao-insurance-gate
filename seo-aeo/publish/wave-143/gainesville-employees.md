@@ -55,6 +55,7 @@ Do not 301 this page onto `/jacksonville-police-fire/`, `/tampa-general-employee
 - [City of Lakeland Employees’ Pension and Retirement System](/lakeland-employees/)
 - [City of Hialeah Employees’ Retirement System](/hialeah-employees/)
 - [Miami Beach Employees’ Retirement Plan](/miami-beach-employees/)
+- [St. Johns River Power Park System Employees’ Retirement Plan](/jacksonville-sjrpp/)
 - [City of Sarasota Police Officers’ Pension Fund](/sarasota-police/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

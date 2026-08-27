@@ -56,5 +56,6 @@ Do not 301 this page onto `/houston-hfrrf/`, `/houston-hpops/`, `/san-jose-polic
 - [City of Miami Firefighters’ and Police Officers’ Retirement Trust](/miami-fire-police/)
 - [City of St. Augustine Municipal Firefighters’ Pension Trust Fund](/st-augustine-firefighters/)
 - [Pompano Beach Police and Firefighters’ Retirement System](/pompano-beach-police-fire/)
+- [St. Johns River Power Park System Employees’ Retirement Plan](/jacksonville-sjrpp/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

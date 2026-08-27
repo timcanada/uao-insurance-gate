@@ -28,13 +28,13 @@ The statements are in thousands. The FY2025 ACFR is the sourced split:
 2. **Return.** The PRIT Fund returned **9.62 percent** net of fees in fiscal year 2025 (2024: **9.46 percent**). Net investment income **$10,199,405 thousand**. Official PRIM: all seven major asset classes posted positive returns for the first time in six years.
 3. **Flows.** Contributions **$4,177,647 thousand**. Redemptions **$4,141,434 thousand**. Investments at fair value **$121,695,725 thousand**. That investment line sits above net position because liabilities sit on the same statement. It is not a second AUM.
 
-Do not flatten PRIM into [CalPERS](/calpers-explained-largest-us-pension-fund/) or [WSIB](/washington-state-investment-board/). CalPERS is one California PERF file. WSIB is a 40-fund Washington office. This is **one Massachusetts PRIT file**.
+Do not flatten PRIM into [CalPERS](/calpers-explained-largest-us-pension-fund/), [WSIB](/washington-state-investment-board/), [Employees’ Retirement System of Rhode Island](/rhode-island-ersri/), or [Employees’ Retirement System of the City of Providence](/providence-employees/). CalPERS is one California PERF file. WSIB is a 40-fund Washington office. ERSRI is the Rhode Island statewide file. Providence is a Rhode Island city file. This is **one Massachusetts PRIT file**.
 
 ## What an owner is actually buying
 
 Counsel selling “MassPRIM AUM” is selling the **PRIT pooled trust**, not a leftover **$73 billion** table. PRIM is the board. PRIT is the fund. Do not mint a second slug for the fund.
 
-Do not 301 this page onto `/calpers-explained-largest-us-pension-fund/`, `/ohio-opers/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/calpers-explained-largest-us-pension-fund/`, `/ohio-opers/`, `/rhode-island-ersri/`, `/providence-employees/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -50,5 +50,7 @@ Do not 301 this page onto `/calpers-explained-largest-us-pension-fund/`, `/ohio-
 - [Relocating to Boston](/careers/cities/boston/)
 - [WSIB](/washington-state-investment-board/)
 - [New Hampshire Retirement System](/new-hampshire-retirement-system/)
+- [Employees’ Retirement System of Rhode Island](/rhode-island-ersri/)
+- [Employees’ Retirement System of the City of Providence](/providence-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

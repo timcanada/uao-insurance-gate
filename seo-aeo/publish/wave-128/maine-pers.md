@@ -27,13 +27,13 @@ The combining statement of fiduciary net position is the sourced split:
 2. **Named books on the same statement.** State Employee and Teacher Plan **$16,888,911,440**. Judicial Plan **$92,775,619**. Legislative Plan **$18,658,033**. PLD Consolidated Plan **$4,401,452,107**. PLD Agent Plan **$6,918,236**. Those five defined-benefit columns sum to **$21,408,715,435**, which is the transmittal **$21.3 billion** defined-benefit portfolio rounded, not the combined book. Defined Contribution **$81,907,554**. Group Life Insurance **$10,414,329**. Group Life Retired SETP **$187,594,721**. Group Life Retired PLD **$26,671,712**. MainePERS OPEB Trust **$20,496,526**. Retiree Health Insurance Trust State **$600,531,767**. Retiree Health Insurance Trust Teachers **$130,415,008**. Those lines are not interchangeable. Do not invent a combined funded ratio.
 3. **Returns.** Notes money-weighted return on all defined-benefit plan investments **9.3 percent** net of investment expenses. OPEB-plan money-weighted return **5.54 percent**. Transmittal group-life return **13.1 percent**. Investment-section time-weighted return **9.4 percent** net of investment management fees and expenses. Those official one-year prints are not interchangeable.
 
-Do not flatten MainePERS into [New Hampshire Retirement System](/new-hampshire-retirement-system/), [Massachusetts PRIM](/massachusetts-prim/), [Maryland SRPS](/maryland-srps/), or [Ohio OPERS](/ohio-opers/). New Hampshire is a different legal person. PRIM is one Massachusetts PRIT file. This is **one Maine System file**.
+Do not flatten MainePERS into [New Hampshire Retirement System](/new-hampshire-retirement-system/), [Massachusetts PRIM](/massachusetts-prim/), [Maryland SRPS](/maryland-srps/), [Ohio OPERS](/ohio-opers/), [Employees’ Retirement System of Rhode Island](/rhode-island-ersri/), or [Employees’ Retirement System of the City of Providence](/providence-employees/). New Hampshire is a different legal person. PRIM is one Massachusetts PRIT file. ERSRI is the Rhode Island statewide file. Providence is a Rhode Island city file. This is **one Maine System file**.
 
 ## What an owner is actually buying
 
 Counsel selling “MainePERS AUM” has to name the book. The **$22,466,747,053** line is combined fiduciary net position. The **$16,888,911,440** line is the State Employee and Teacher Plan. The **$21.3 billion** card is the defined-benefit portfolio rounded. The **9.3 percent** card is the defined-benefit money-weighted return. The **9.4 percent** card is the time-weighted return. Those are not the same mandate.
 
-Do not 301 this page onto `/new-hampshire-retirement-system/`, `/massachusetts-prim/`, `/maryland-srps/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/new-hampshire-retirement-system/`, `/massachusetts-prim/`, `/maryland-srps/`, `/rhode-island-ersri/`, `/providence-employees/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -49,5 +49,7 @@ Do not 301 this page onto `/new-hampshire-retirement-system/`, `/massachusetts-p
 - [New Hampshire Retirement System](/new-hampshire-retirement-system/)
 - [Massachusetts PRIM](/massachusetts-prim/)
 - [Maryland SRPS](/maryland-srps/)
+- [Employees’ Retirement System of Rhode Island](/rhode-island-ersri/)
+- [Employees’ Retirement System of the City of Providence](/providence-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

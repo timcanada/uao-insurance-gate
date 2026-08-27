@@ -28,13 +28,13 @@ The combining statement is the sourced split (dollar amounts in thousands):
 2. **Named books on the same statement.** Defined Benefit Plan **$82,631,210 thousand**; Defined Contribution Plan **$557,477 thousand**; Premium Assistance **$133,377 thousand**; Health Options Program **$406,798 thousand**. The investment portfolio at fair value is **$81.4 billion**. Do not add those lines a second time.
 3. **Returns and members.** Time-weighted net return **9.67 percent**. Ten-year annualized time-weighted return **7.48 percent**, above the **7.00 percent** long-term assumption. Money-weighted net return on pension-plan investments **9.65 percent**. Fair-value funded ratio **68.04 percent**. About **262,000** active members; about **255,000** retirees and beneficiaries; disbursements **$7.9 billion**. Established **1917**; operations **1919**. Act 5 of **2017** added the defined-contribution book from **1 July 2019**.
 
-Do not flatten PSERS into [CalPERS](/calpers-explained-largest-us-pension-fund/), [SERS leftovers](/largest-us-public-pension-funds/), [Pittsburgh Comprehensive Municipal Pension Trust Fund](/pittsburgh-cmptf/), [Pittsburgh Municipal Pension Plan](/pittsburgh-municipal/), [Pittsburgh Policemen’s Relief and Pension Plan](/pittsburgh-police/), or [Pittsburgh Firemen’s Relief and Pension Plan](/pittsburgh-fire/). CalPERS is California. SERS Pennsylvania is the state-employee book. The four Pittsburgh books are Pittsburgh city files. This is **one Pennsylvania school-employee file**.
+Do not flatten PSERS into [CalPERS](/calpers-explained-largest-us-pension-fund/), [SERS leftovers](/largest-us-public-pension-funds/), [Pittsburgh Comprehensive Municipal Pension Trust Fund](/pittsburgh-cmptf/), [Pittsburgh Municipal Pension Plan](/pittsburgh-municipal/), [Pittsburgh Policemen’s Relief and Pension Plan](/pittsburgh-police/), [Pittsburgh Firemen’s Relief and Pension Plan](/pittsburgh-fire/), [City of Philadelphia Municipal Pension Fund](/philadelphia-municipal/), or [Philadelphia Gas Works Retirement Reserve](/philadelphia-pgw/). CalPERS is California. SERS Pennsylvania is the state-employee book. The four Pittsburgh books are Pittsburgh city files. Philadelphia Municipal and Gas Works are Philadelphia city files. This is **one Pennsylvania school-employee file**.
 
 ## What an owner is actually buying
 
 Counsel selling “Pennsylvania pension AUM” has to name the book. The **$83.7 billion** line is pension, defined contribution, and healthcare. The **$82.6 billion** line is the Defined Benefit Plan. The **$81.4 billion** line is the investment portfolio. Those are not the same mandate.
 
-Do not 301 this page onto `/calpers-explained-largest-us-pension-fund/`, `/what-is-a-pension-fund/`, `/pittsburgh-cmptf/`, `/pittsburgh-municipal/`, `/pittsburgh-police/`, `/pittsburgh-fire/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/calpers-explained-largest-us-pension-fund/`, `/what-is-a-pension-fund/`, `/pittsburgh-cmptf/`, `/pittsburgh-municipal/`, `/pittsburgh-police/`, `/pittsburgh-fire/`, `/philadelphia-municipal/`, `/philadelphia-pgw/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -55,5 +55,7 @@ Do not 301 this page onto `/calpers-explained-largest-us-pension-fund/`, `/what-
 - [Pittsburgh Municipal Pension Plan](/pittsburgh-municipal/)
 - [Pittsburgh Policemen’s Relief and Pension Plan](/pittsburgh-police/)
 - [Pittsburgh Firemen’s Relief and Pension Plan](/pittsburgh-fire/)
+- [City of Philadelphia Municipal Pension Fund](/philadelphia-municipal/)
+- [Philadelphia Gas Works Retirement Reserve](/philadelphia-pgw/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

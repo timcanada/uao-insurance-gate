@@ -52,5 +52,8 @@ Do not 301 this page onto `/mit-investment-management-company/`, `/utimco/`, `/n
 - [Duke University endowment](/duke-university-endowment/)
 - [UC Investments](/uc-investments/)
 - [Yale endowment model](/yale-endowment-model/)
+- [University of Pennsylvania endowment](/university-of-pennsylvania-endowment/)
+- [University of Michigan endowment](/university-of-michigan-endowment/)
+- [Cambridge University Endowment Fund](/cambridge-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -48,5 +48,8 @@ Do not 301 this page onto `/notre-dame-endowment/`, `/columbia-endowment/`, `/no
 - [Notre Dame endowment](/notre-dame-endowment/)
 - [Columbia University endowment](/columbia-endowment/)
 - [MITIMCo](/mit-investment-management-company/)
+- [University of Pennsylvania endowment](/university-of-pennsylvania-endowment/)
+- [University of Michigan endowment](/university-of-michigan-endowment/)
+- [USC endowment](/usc-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -54,5 +54,8 @@ Do not 301 this page onto `/largest-university-endowments-2026/`, `/yale-endowme
 - [UC Investments](/uc-investments/)
 - [Endowment vs foundation investing](/endowment-vs-foundation-investing/)
 - [Relocating to Boston](/careers/cities/boston/)
+- [University of Pennsylvania endowment](/university-of-pennsylvania-endowment/)
+- [University of Michigan endowment](/university-of-michigan-endowment/)
+- [Cambridge University Endowment Fund](/cambridge-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

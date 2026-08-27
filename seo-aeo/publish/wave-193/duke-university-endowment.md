@@ -48,5 +48,8 @@ Do not 301 this page onto `/northwestern-endowment/`, `/notre-dame-endowment/`, 
 - [Northwestern endowment](/northwestern-endowment/)
 - [Notre Dame endowment](/notre-dame-endowment/)
 - [Columbia University endowment](/columbia-endowment/)
+- [University of Pennsylvania endowment](/university-of-pennsylvania-endowment/)
+- [USC endowment](/usc-endowment/)
+- [Cambridge University Endowment Fund](/cambridge-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -57,5 +57,6 @@ Do not 301 this page onto `/pennsylvania-psers/`, `/calpers-explained-largest-us
 - [Philadelphia Gas Works Retirement Reserve](/philadelphia-pgw/)
 - [Pennsylvania Municipal Retirement System](/pennsylvania-pmrs/)
 - [Michigan State Employees’ Retirement System](/michigan-sers/)
+- [University of Pennsylvania endowment](/university-of-pennsylvania-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

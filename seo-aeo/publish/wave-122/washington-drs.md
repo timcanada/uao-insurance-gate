@@ -51,5 +51,6 @@ Do not 301 this page onto `/washington-state-investment-board/`, `/ohio-opers/`,
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Washington State Investment Board](/washington-state-investment-board/)
 - [OPERS](/ohio-opers/)
+- [University of Washington endowment](/university-of-washington-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

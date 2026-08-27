@@ -48,5 +48,7 @@ Do not 301 this page onto `/ucrp/`, `/calpers-explained-largest-us-pension-fund/
 - [CalPERS](/calpers-explained-largest-us-pension-fund/)
 - [Notre Dame endowment](/notre-dame-endowment/)
 - [Columbia University endowment](/columbia-endowment/)
+- [University of Michigan endowment](/university-of-michigan-endowment/)
+- [University of Washington endowment](/university-of-washington-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

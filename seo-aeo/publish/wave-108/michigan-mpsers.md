@@ -58,5 +58,6 @@ Do not 301 this page onto `/pennsylvania-psers/`, `/ohio-opers/`, or `/largest-u
 - [Michigan State Police Retirement System](/michigan-state-police/)
 - [Michigan Judges’ Retirement System](/michigan-judges/)
 - [Michigan Military Retirement Provisions](/michigan-military/)
+- [University of Michigan endowment](/university-of-michigan-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

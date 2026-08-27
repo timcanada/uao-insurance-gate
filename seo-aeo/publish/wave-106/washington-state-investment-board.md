@@ -50,5 +50,6 @@ Do not 301 this page onto `/ohio-opers/`, `/washington-drs/`, `/calpers-explaine
 - [OPERS](/ohio-opers/)
 - [Massachusetts PRIM](/massachusetts-prim/)
 - [Washington DRS](/washington-drs/)
+- [University of Washington endowment](/university-of-washington-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -28,13 +28,13 @@ The combining statement is the sourced split:
 2. **Named books on the same statement:** Traditional Pension Plan **$116,657,784,303**; Member-Directed Plan **$2,480,971,430**; Health Care Trust **$14,796,856,488**; Ohio Deferred Compensation **$24,441,848,023**. Pension plus health care is the letter’s **$133.9 billion**. ODC is the rest. Do not add the books a second time.
 3. **Returns and cash flows.** Total OPERS investment return **14.95 percent**. Defined Benefit **14.74 percent** against an assumed rate of **6.90 percent**. Health Care **16.40 percent**. Defined Contribution **15.57 percent**. Member contributions **$2.0 billion**; employer contributions **$2.8 billion**; plan expenses **$10.8 billion**. More than **1.3 million** members; more than **223,000** retirees and beneficiaries.
 
-Do not flatten OPERS into [CalPERS](/calpers-explained-largest-us-pension-fund/) or [STRS Ohio leftovers](/largest-us-public-pension-funds/). CalPERS is California. STRS Ohio is the teacher book. This is **one Ohio public-employees file**.
+Do not flatten OPERS into [CalPERS](/calpers-explained-largest-us-pension-fund/), [STRS Ohio leftovers](/largest-us-public-pension-funds/), or [Cincinnati Retirement System](/cincinnati-retirement/). CalPERS is California. STRS Ohio is the teacher book. Cincinnati Retirement is a city civilian file. This is **one Ohio public-employees file**.
 
 ## What an owner is actually buying
 
 Counsel selling “Ohio pension AUM” has to name the book. The **$158.4 billion** line includes deferred compensation. The **$133.9 billion** line is pension and health care. Those are not the same mandate.
 
-Do not 301 this page onto `/calpers-explained-largest-us-pension-fund/`, `/ohio-police-fire/`, `/what-is-a-pension-fund/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/calpers-explained-largest-us-pension-fund/`, `/ohio-police-fire/`, `/cincinnati-retirement/`, `/what-is-a-pension-fund/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -52,5 +52,6 @@ Do not 301 this page onto `/calpers-explained-largest-us-pension-fund/`, `/ohio-
 - [Ohio SERS](/ohio-sers/)
 - [Ohio Police & Fire](/ohio-police-fire/)
 - [Oklahoma OPERS](/oklahoma-opers/)
+- [Cincinnati Retirement System](/cincinnati-retirement/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

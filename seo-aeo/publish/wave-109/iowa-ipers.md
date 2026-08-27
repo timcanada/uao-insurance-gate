@@ -28,13 +28,13 @@ The allocation of net position is the sourced split (dollars, not thousands):
 2. **Named books on the same allocation.** Regular members **$43,084,817,851**. Sheriffs and Deputies **$1,075,495,083**. Protection Occupation members **$2,580,239,241**. Net investment portfolio assets **$46.682 billion**. Those four lines are not interchangeable. Do not add the three membership groups a second time.
 3. **Returns and funding.** Time-weighted net-of-fees return **9.87 percent**. Money-weighted net return **9.81 percent**. Policy benchmark **9.85 percent**. Assumed return **7 percent**. Total pension liability **$49,063,230,575**. Net pension liability **$2,322,678,401**. Fiduciary net position as a percentage of total pension liability **95.27 percent**. Those return and GASB lines are not interchangeable.
 
-Do not flatten IPERS into [Illinois ISBI](/illinois-isbi/) or [Massachusetts PRIM](/massachusetts-prim/). ISBI is Illinois. PRIM is Massachusetts. This is **one Iowa statewide file**.
+Do not flatten IPERS into [Illinois ISBI](/illinois-isbi/), [Massachusetts PRIM](/massachusetts-prim/), [Nebraska School Employees Retirement Plan](/nebraska-school/), or [Omaha School Employees Retirement Plan](/omaha-osers/). ISBI is Illinois. PRIM is Massachusetts. Nebraska School is Nebraska statewide school. OSERS is Omaha Class V. This is **one Iowa statewide file**.
 
 ## What an owner is actually buying
 
 Counsel selling “Iowa pension AUM” has to name the book. The **$46.7 billion** line is IPERS fiduciary net position. The **$43.1 billion** line is Regular members. Those are not the same mandate.
 
-Do not 301 this page onto `/massachusetts-prim/`, `/illinois-isbi/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/massachusetts-prim/`, `/illinois-isbi/`, `/nebraska-school/`, `/omaha-osers/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -56,5 +56,7 @@ Do not 301 this page onto `/massachusetts-prim/`, `/illinois-isbi/`, or `/larges
 - [Idaho PERSI](/idaho-persi/)
 - [Arkansas PERS](/arkansas-pers/)
 - [South Dakota Retirement System](/south-dakota-retirement-system/)
+- [Nebraska School Employees Retirement Plan](/nebraska-school/)
+- [Omaha School Employees Retirement Plan](/omaha-osers/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

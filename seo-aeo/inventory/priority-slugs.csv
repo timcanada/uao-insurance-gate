@@ -421,6 +421,16 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,el-paso-policemen,El Paso Police (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 137 /el-paso-police/
 137,institution,baltimore-county-ers,Employees Retirement System of Baltimore County,allocator,brief,P0,drafted-in-repo,Wave 137. Official combined FNP $3,317,788 thousand at 30 Jun 2025. Do not mint /baltimore-county/. Do not mint /bcers/ (Baltimore City twin)
 2,institution,baltimore-county,Baltimore County ERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 137 /baltimore-county-ers/
+138,institution,nebraska-school,Nebraska School Employees Retirement Plan,allocator,brief,P0,drafted-in-repo,Wave 138. Official FNP $18,532,685,257 at 30 Jun 2025. Do not mint /npers/ or /nsers/
+2,institution,nsers,Nebraska School (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 138 /nebraska-school/. Do not mint /npers/ (Nevada PERS twin)
+138,institution,nebraska-judges,Nebraska Judges Retirement Plan,allocator,brief,P0,drafted-in-repo,Wave 138. Official FNP $285,310,148 at 30 Jun 2025. Do not mint /njrs/
+2,institution,njrs,Nebraska Judges (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 138 /nebraska-judges/
+138,institution,nebraska-state-patrol,Nebraska State Patrol Retirement Plan,allocator,brief,P0,drafted-in-repo,Wave 138. Official FNP $647,545,587 at 30 Jun 2025. Do not mint /nebraska-patrol/
+2,institution,nebraska-patrol,Nebraska State Patrol (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 138 /nebraska-state-patrol/
+138,institution,omaha-osers,Omaha School Employees Retirement Plan,allocator,brief,P0,drafted-in-repo,Wave 138. Official FNP $1,970,571,740 at 31 Dec 2025. Do not mint /osers/
+2,institution,osers,Omaha OSERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 138 /omaha-osers/
+138,institution,cincinnati-retirement,Cincinnati Retirement System,allocator,brief,P0,drafted-in-repo,Wave 138. Official pension FNP $1,800,352 thousand at 30 Jun 2025. Do not mint /cincinnati-crs/ or /crs/
+2,institution,cincinnati-crs,Cincinnati Retirement (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 138 /cincinnati-retirement/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

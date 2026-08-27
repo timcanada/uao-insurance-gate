@@ -662,5 +662,10 @@ P1,El Paso Firemen and Policemen Pension Fund,allocator,both,/el-paso-fire-polic
 P1,El Paso Firemen Division,allocator,both,/el-paso-fire/,define,unknown,unknown,unknown,drafted-wave-137,Wave 137. Official Firemen FNP $854,452,647 at 31 Dec 2025. Do not mint /el-paso-firemen/
 P1,El Paso Policemen Division,allocator,both,/el-paso-police/,define,unknown,unknown,unknown,drafted-wave-137,Wave 137. Official Policemen FNP $1,214,553,790 at 31 Dec 2025. Do not mint /el-paso-policemen/
 P1,Employees Retirement System of Baltimore County,allocator,both,/baltimore-county-ers/,define,unknown,unknown,unknown,drafted-wave-137,Wave 137. Official combined FNP $3,317,788 thousand at 30 Jun 2025. Do not mint /bcers/
+P1,Nebraska School Employees Retirement Plan,allocator,both,/nebraska-school/,define,unknown,unknown,unknown,drafted-wave-138,Wave 138. Official FNP $18,532,685,257 at 30 Jun 2025. Do not mint /npers/
+P1,Nebraska Judges Retirement Plan,allocator,both,/nebraska-judges/,define,unknown,unknown,unknown,drafted-wave-138,Wave 138. Official FNP $285,310,148 at 30 Jun 2025. Do not mint /njrs/
+P1,Nebraska State Patrol Retirement Plan,allocator,both,/nebraska-state-patrol/,define,unknown,unknown,unknown,drafted-wave-138,Wave 138. Official FNP $647,545,587 at 30 Jun 2025. Do not mint /nebraska-patrol/
+P1,Omaha School Employees Retirement Plan,allocator,both,/omaha-osers/,define,unknown,unknown,unknown,drafted-wave-138,Wave 138. Official FNP $1,970,571,740 at 31 Dec 2025. Do not mint /osers/
+P1,Cincinnati Retirement System,allocator,both,/cincinnati-retirement/,define,unknown,unknown,unknown,drafted-wave-138,Wave 138. Official pension FNP $1,800,352 thousand at 30 Jun 2025. Do not mint /cincinnati-crs/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

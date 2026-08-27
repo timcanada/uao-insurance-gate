@@ -29,13 +29,13 @@ The statement of fiduciary net position is the sourced line (in thousands):
 
 The Minnesota State Board of Investment manages this book inside the Combined Funds with MSRS and PERA. That Combined Funds line is not a second Teachers Retirement Association AUM.
 
-Do not flatten the Teachers Retirement Association into [Minnesota SBI](/minnesota-sbi/), [Minnesota PERA](/minnesota-pera/), [Minnesota MSRS](/minnesota-msrs/), [Illinois TRS](/illinois-trs/), [Georgia TRS](/georgia-trs/), [Texas Teacher Retirement System](/texas-teacher-retirement-system-explained/), or [St. Paul Teachers’ Retirement Fund Association](/st-paul-teachers/). Minnesota SBI is the statutory investor. PERA is the public-employee plan. MSRS is the state-employee plan. St. Paul Teachers is a different Minnesota teacher file. This is **one Minnesota statewide teacher file**.
+Do not flatten the Teachers Retirement Association into [Minnesota SBI](/minnesota-sbi/), [Minnesota PERA](/minnesota-pera/), [Minnesota MSRS](/minnesota-msrs/), [Illinois TRS](/illinois-trs/), [Georgia TRS](/georgia-trs/), [Texas Teacher Retirement System](/texas-teacher-retirement-system-explained/), [St. Paul Teachers’ Retirement Fund Association](/st-paul-teachers/), [Nebraska School Employees Retirement Plan](/nebraska-school/), or [Omaha School Employees Retirement Plan](/omaha-osers/). Minnesota SBI is the statutory investor. PERA is the public-employee plan. MSRS is the state-employee plan. St. Paul Teachers is a different Minnesota teacher file. Nebraska School and OSERS are Nebraska files. This is **one Minnesota statewide teacher file**.
 
 ## What an owner is actually buying
 
 Counsel selling “Minnesota TRA AUM” has to name the book. The **$31,261,375 thousand** line is fiduciary net position. The **$32,422,884 thousand** line is cash and investments. The **$31,248.6 million** line is the Combined Funds participation. Those are not the same mandate.
 
-Do not 301 this page onto `/minnesota-sbi/`, `/minnesota-pera/`, `/minnesota-msrs/`, `/illinois-trs/`, `/texas-teacher-retirement-system-explained/`, `/st-paul-teachers/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/minnesota-sbi/`, `/minnesota-pera/`, `/minnesota-msrs/`, `/illinois-trs/`, `/texas-teacher-retirement-system-explained/`, `/st-paul-teachers/`, `/nebraska-school/`, `/omaha-osers/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -54,5 +54,7 @@ Do not 301 this page onto `/minnesota-sbi/`, `/minnesota-pera/`, `/minnesota-msr
 - [Illinois TRS](/illinois-trs/)
 - [Georgia TRS](/georgia-trs/)
 - [St. Paul Teachers’ Retirement Fund Association](/st-paul-teachers/)
+- [Nebraska School Employees Retirement Plan](/nebraska-school/)
+- [Omaha School Employees Retirement Plan](/omaha-osers/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

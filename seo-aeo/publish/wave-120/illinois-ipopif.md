@@ -49,6 +49,7 @@ Do not 301 this page onto `/illinois-sers/`, `/illinois-imrf/`, `/illinois-fpif/
 - [Illinois FPIF](/illinois-fpif/)
 - [Springfield Police Pension Fund](/springfield-police/)
 - [Village of Grayslake Police Pension Fund](/grayslake-police/)
+- [Champaign Police Pension Fund](/champaign-police/)
 - [IMRF](/illinois-imrf/)
 - [Houston Police](/houston-hpops/)
 - [Cook County Pension](/cook-county-pension/)

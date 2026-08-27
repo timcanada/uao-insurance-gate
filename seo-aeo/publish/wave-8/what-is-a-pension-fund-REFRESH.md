@@ -308,6 +308,7 @@ No. Some SWFs pre-fund future public pensions. That still does not make GPFG, [C
 - [Portland Fire and Police Disability and Retirement Funds](/portland-fpdr/)
 - [Springfield Police Pension Fund](/springfield-police/)
 - [Village of Grayslake Police Pension Fund](/grayslake-police/)
+- [Champaign Police Pension Fund](/champaign-police/)
 - [City of Fort Lauderdale Police and Firefighters’ Retirement System](/fort-lauderdale-police-fire/)
 - [City Pension Fund for Firefighters and Police Officers in the City of Pembroke Pines](/pembroke-pines-police-fire/)
 - [City Pension Fund for Firefighters and Police Officers in the City of Miami Beach](/miami-beach-police-fire/)

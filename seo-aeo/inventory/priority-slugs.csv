@@ -543,6 +543,8 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,spd-pension,Springfield Police (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 156 /springfield-police/. Not Springfield MA or MO
 157,institution,grayslake-police,Village of Grayslake Police Pension Fund,allocator,brief,P0,drafted-in-repo,Wave 157. Official net position $35,863,900 at 30 Apr 2025. Do not mint /grayslake/ or /gppf/
 2,institution,gppf,Grayslake Police (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 157 /grayslake-police/
+158,institution,champaign-police,Champaign Police Pension Fund,allocator,brief,P0,drafted-in-repo,Wave 158. Official plan net position $185,698,617 at 30 Jun 2025. Do not mint /cppf/ or /champaign/
+2,institution,cppf,Champaign Police (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 158 /champaign-police/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

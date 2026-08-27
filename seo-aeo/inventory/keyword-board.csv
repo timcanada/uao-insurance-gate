@@ -642,5 +642,10 @@ P1,City of Miami Firefighters’ and Police Officers’ Retirement Trust,allocat
 P1,City of Miami General Employees’ and Sanitation Employees’ Retirement Trust,allocator,both,/miami-gese/,define,unknown,unknown,unknown,drafted-wave-133,Wave 133. Official GESE Trust FNP $1,138,368,633 at 30 Sep 2025. Do not mint /gese/
 P1,Oklahoma Firefighters Pension and Retirement System,allocator,both,/oklahoma-firefighters/,define,unknown,unknown,unknown,drafted-wave-133,Wave 133. Official FNP $3,696,332,045 at 30 Jun 2025. Do not mint /ofprs/
 P1,Oklahoma Police Pension and Retirement System,allocator,both,/oklahoma-police/,define,unknown,unknown,unknown,drafted-wave-133,Wave 133. Official FNP $3,449,729 thousand at 30 Jun 2025. Do not mint /opprs/
+P1,City of Knoxville Pension System,allocator,both,/knoxville-pension/,define,unknown,unknown,unknown,drafted-wave-134,Wave 134. Official FNP $758,195,199 at 30 Jun 2025. Do not mint /cokpension/
+P1,St. Paul Teachers’ Retirement Fund Association,allocator,both,/st-paul-teachers/,define,unknown,unknown,unknown,drafted-wave-134,Wave 134. Official FNP $1,433,936,404 at 30 Jun 2025. Do not mint /sptrfa/
+P1,Police Retirement System of Kansas City,allocator,both,/kansas-city-police/,define,unknown,unknown,unknown,drafted-wave-134,Wave 134. Official FNP $1,028,622,529 at 30 Apr 2025. Do not mint /kcpers/
+P1,Civilian Employees’ Retirement System of the Police Department of Kansas City,allocator,both,/kansas-city-police-civilian/,define,unknown,unknown,unknown,drafted-wave-134,Wave 134. Official FNP $183,870,569 at 30 Apr 2025. Do not mint /kcpers-civilian/
+P1,Newport News Employees’ Retirement Fund,allocator,both,/newport-news-employees/,define,unknown,unknown,unknown,drafted-wave-134,Wave 134. Official FNP $1,150,643,142 at 30 Jun 2025. Do not mint /nnerf/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

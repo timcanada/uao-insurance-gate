@@ -381,6 +381,16 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,ofprs,Oklahoma Firefighters (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 133 /oklahoma-firefighters/
 133,institution,oklahoma-police,Oklahoma Police Pension and Retirement System,allocator,brief,P0,drafted-in-repo,Wave 133. Official FNP $3,449,729 thousand at 30 Jun 2025. Do not mint /opprs/
 2,institution,opprs,Oklahoma Police (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 133 /oklahoma-police/
+134,institution,knoxville-pension,City of Knoxville Pension System,allocator,brief,P0,drafted-in-repo,Wave 134. Official FNP $758,195,199 at 30 Jun 2025. Do not mint /cokpension/ or /knoxville-pension-explained/
+2,institution,cokpension,Knoxville Pension (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 134 /knoxville-pension/
+134,institution,st-paul-teachers,St. Paul Teachers’ Retirement Fund Association,allocator,brief,P0,drafted-in-repo,Wave 134. Official FNP $1,433,936,404 at 30 Jun 2025. Do not mint /sptrfa/ or /st-paul-teachers-explained/
+2,institution,sptrfa,St. Paul Teachers (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 134 /st-paul-teachers/
+134,institution,kansas-city-police,Police Retirement System of Kansas City,allocator,brief,P0,drafted-in-repo,Wave 134. Official FNP $1,028,622,529 at 30 Apr 2025. Do not mint /kcpers/ or /kansas-city-police-explained/
+2,institution,kcpers,Kansas City Police (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 134 /kansas-city-police/
+134,institution,kansas-city-police-civilian,Civilian Employees’ Retirement System of the Police Department of Kansas City,allocator,brief,P0,drafted-in-repo,Wave 134. Official FNP $183,870,569 at 30 Apr 2025. Do not mint /kcpers-civilian/ or /kansas-city-civilian/
+2,institution,kcpers-civilian,Kansas City Police Civilian (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 134 /kansas-city-police-civilian/
+134,institution,newport-news-employees,Newport News Employees’ Retirement Fund,allocator,brief,P0,drafted-in-repo,Wave 134. Official FNP $1,150,643,142 at 30 Jun 2025. Do not mint /nnerf/ or /newport-news-employees-explained/
+2,institution,nnerf,Newport News Employees (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 134 /newport-news-employees/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

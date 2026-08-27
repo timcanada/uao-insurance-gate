@@ -27,13 +27,13 @@ The statement of plan fiduciary net position is the sourced line (in thousands):
 2. **GASB funded cards.** Total pension liability **$1,568,398 thousand**. Net pension liability **$155,418 thousand**. Fiduciary net position / total pension liability **90.1 percent** (2024 **84.6 percent**). Actuarial funded **87.8 percent** is not the GASB card.
 3. **Returns.** Transmittal time-weighted return **11.5 percent** for fiscal 2025. Notes money-weighted return **11.50 percent** net of investment expenses. Those official one-year prints are not interchangeable.
 
-Do not flatten Norfolk Employees’ Retirement System into [Virginia Retirement System](/virginia-retirement-system/), [Richmond Retirement System](/richmond-retirement/), [Fairfax ERS](/fairfax-ers/), [Fairfax PORS](/fairfax-pors/), or [Fairfax URS](/fairfax-urs/). VRS is the statewide file, and Norfolk employees hired or rehired on or after **1 January 2022** sit there if applicable. Richmond is a different Virginia city file. This is **one Norfolk city pension-trust file**.
+Do not flatten Norfolk Employees’ Retirement System into [Virginia Retirement System](/virginia-retirement-system/), [Richmond Retirement System](/richmond-retirement/), [Fairfax ERS](/fairfax-ers/), [Fairfax PORS](/fairfax-pors/), [Fairfax URS](/fairfax-urs/), or [Newport News Employees’ Retirement Fund](/newport-news-employees/). VRS is the statewide file, and Norfolk employees hired or rehired on or after **1 January 2022** sit there if applicable. Richmond and Newport News are different Virginia city files. This is **one Norfolk city pension-trust file**.
 
 ## What an owner is actually buying
 
 Counsel selling “Norfolk NERS AUM” has to name the book. The **$1,412,980 thousand** line is plan net position restricted for pensions. The **$1,411,051 thousand** line is statement investments. The **$1,415,536 thousand** line is total assets. The **$67.0 million** line is the Section 115 trust, not this book. The **90.1 percent** card is the GASB ratio. The **87.8 percent** card is the actuarial ratio. The **11.5 percent** card is the time-weighted return. The **11.50 percent** card is the money-weighted return. Those are not the same mandate.
 
-Do not 301 this page onto `/virginia-retirement-system/`, `/richmond-retirement/`, `/fairfax-ers/`, `/fairfax-pors/`, `/fairfax-urs/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/virginia-retirement-system/`, `/richmond-retirement/`, `/fairfax-ers/`, `/fairfax-pors/`, `/fairfax-urs/`, `/newport-news-employees/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -51,5 +51,6 @@ Do not 301 this page onto `/virginia-retirement-system/`, `/richmond-retirement/
 - [Fairfax ERS](/fairfax-ers/)
 - [Fairfax PORS](/fairfax-pors/)
 - [Fairfax URS](/fairfax-urs/)
+- [Newport News Employees’ Retirement Fund](/newport-news-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

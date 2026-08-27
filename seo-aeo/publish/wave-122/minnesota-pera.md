@@ -30,13 +30,13 @@ The statement of fiduciary net position is the sourced line (in thousands):
 
 The Minnesota State Board of Investment manages this book inside the Combined Funds with MSRS and TRA. That Combined Funds line is not a second Public Employees Retirement Association AUM.
 
-Do not flatten Minnesota PERA into [Colorado PERA](/colorado-pera/), [Minnesota SBI](/minnesota-sbi/), [Minnesota TRA](/minnesota-tra/), or [Illinois IMRF](/illinois-imrf/). Colorado PERA is a different legal person. Minnesota SBI is the statutory investor. TRA is the teacher plan. This is **one Minnesota public-employee file**.
+Do not flatten Minnesota PERA into [Colorado PERA](/colorado-pera/), [Minnesota SBI](/minnesota-sbi/), [Minnesota TRA](/minnesota-tra/), [Illinois IMRF](/illinois-imrf/), or [St. Paul Teachers’ Retirement Fund Association](/st-paul-teachers/). Colorado PERA is a different legal person. Minnesota SBI is the statutory investor. TRA is the statewide teacher plan. St. Paul Teachers is a different Minnesota teacher file. This is **one Minnesota public-employee file**.
 
 ## What an owner is actually buying
 
 Counsel selling “Minnesota PERA AUM” has to name the book. The **$47,438,420 thousand** line is combined fiduciary net position. The **$47,322,534 thousand** line is defined-benefit fiduciary net position. The **$46,076,325 thousand** line is investments. The **$32,618.9 million** line is the Combined Funds General Employees participation. Those are not the same mandate.
 
-Do not 301 this page onto `/colorado-pera/`, `/minnesota-sbi/`, `/minnesota-tra/`, `/illinois-imrf/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/colorado-pera/`, `/minnesota-sbi/`, `/minnesota-tra/`, `/illinois-imrf/`, `/st-paul-teachers/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -53,5 +53,6 @@ Do not 301 this page onto `/colorado-pera/`, `/minnesota-sbi/`, `/minnesota-tra/
 - [Minnesota TRA](/minnesota-tra/)
 - [Minnesota MSRS](/minnesota-msrs/)
 - [Colorado PERA](/colorado-pera/)
+- [St. Paul Teachers’ Retirement Fund Association](/st-paul-teachers/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

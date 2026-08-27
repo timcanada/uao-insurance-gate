@@ -27,13 +27,13 @@ The statement of fiduciary net position is the sourced line:
 2. **GASB funded cards.** Total pension liability **$450,965,617**. Net pension liability **$8,531,070**. GASB fiduciary net position / total pension liability **98.11 percent** (2024 **94.72 percent**). That ratio uses the **$442,434,547** print, not the statement **$446,256,821** line.
 3. **Returns.** Notes money-weighted return **12.08 percent** net of investment expenses for the year ended **30 September 2025** (2024 **16.79 percent**). Do not invent a one-year time-weighted card.
 
-Do not flatten St. Louis Firemen’s into [St. Louis ERS](/st-louis-ers/), [MOSERS](/missouri-mosers/), [Chicago Fire FABF](/chicago-fire-fabf/), [Tampa Fire and Police](/tampa-fire-police/), [Jacksonville Police and Fire](/jacksonville-police-fire/), [Houston Firefighters](/houston-hfrrf/), or [Austin Firefighters](/austin-firefighters/). St. Louis ERS is the **civilian** city file. MOSERS is the **state** file. Canonical MOSERS slug is `/missouri-mosers/`. This is **one closed St. Louis sworn firefighter file**.
+Do not flatten St. Louis Firemen’s into [St. Louis ERS](/st-louis-ers/), [MOSERS](/missouri-mosers/), [Chicago Fire FABF](/chicago-fire-fabf/), [Tampa Fire and Police](/tampa-fire-police/), [Jacksonville Police and Fire](/jacksonville-police-fire/), [Houston Firefighters](/houston-hfrrf/), [Austin Firefighters](/austin-firefighters/), [Police Retirement System of Kansas City](/kansas-city-police/), or [Civilian Employees’ Retirement System of the Police Department of Kansas City](/kansas-city-police-civilian/). St. Louis ERS is the **civilian** city file. MOSERS is the **state** file. Canonical MOSERS slug is `/missouri-mosers/`. Kansas City Police and Kansas City Police Civilian are Kansas City files. This is **one closed St. Louis sworn firefighter file**.
 
 ## What an owner is actually buying
 
 Counsel selling “St. Louis fire AUM” has to name the book. The **$446,256,821** line is statement net position restricted for pensions. The **$442,434,547** line is GASB fiduciary net position after excluding the Future Benefit Fund. The **$442,731,360** line is statement investments. The **98.11 percent** card is the GASB ratio on the excluded print. The **12.08 percent** card is the money-weighted return. Those are not the same mandate.
 
-Do not 301 this page onto `/st-louis-ers/`, `/missouri-mosers/`, `/chicago-fire-fabf/`, `/tampa-fire-police/`, `/jacksonville-police-fire/`, `/houston-hfrrf/`, `/austin-firefighters/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/st-louis-ers/`, `/missouri-mosers/`, `/chicago-fire-fabf/`, `/tampa-fire-police/`, `/jacksonville-police-fire/`, `/houston-hfrrf/`, `/austin-firefighters/`, `/kansas-city-police/`, `/kansas-city-police-civilian/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -51,5 +51,7 @@ Do not 301 this page onto `/st-louis-ers/`, `/missouri-mosers/`, `/chicago-fire-
 - [Chicago Fire FABF](/chicago-fire-fabf/)
 - [Tampa Fire and Police](/tampa-fire-police/)
 - [Jacksonville Police and Fire](/jacksonville-police-fire/)
+- [Police Retirement System of Kansas City](/kansas-city-police/)
+- [Civilian Employees’ Retirement System of the Police Department of Kansas City](/kansas-city-police-civilian/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -27,13 +27,13 @@ The statement of fiduciary net position is the sourced line:
 2. **GASB funded cards.** Total pension liability **$1,184,544,961**. Employers’ net pension liability **$247,215,427**. Fiduciary net position / total pension liability **79.13 percent** (2024 **75.35 percent**). Actuarial funded **76.1 percent** at **1 October** is not the GASB card.
 3. **Returns.** Notes money-weighted return **9.8 percent** for the year ended **30 September 2025**, net of pension-plan investment expenses (2024 **18.46 percent**). MD&A “net return” **9.8 percent** is that money-weighted print. This filing does not print a separate official one-year time-weighted house card.
 
-Do not flatten St. Louis ERS into [MOSERS](/missouri-mosers/), [Illinois Municipal Retirement Fund](/illinois-imrf/), [Cook County Pension Fund](/cook-county-pension/), [Chicago LABF](/chicago-labf/), or [Denver Employees](/denver-employees/). MOSERS is the statewide Missouri file. IMRF and Cook County are Illinois files. This is **one St. Louis civilian city file**.
+Do not flatten St. Louis ERS into [MOSERS](/missouri-mosers/), [Illinois Municipal Retirement Fund](/illinois-imrf/), [Cook County Pension Fund](/cook-county-pension/), [Chicago LABF](/chicago-labf/), [Denver Employees](/denver-employees/), [Police Retirement System of Kansas City](/kansas-city-police/), or [Civilian Employees’ Retirement System of the Police Department of Kansas City](/kansas-city-police-civilian/). MOSERS is the statewide Missouri file. IMRF and Cook County are Illinois files. Kansas City Police and Kansas City Police Civilian are Kansas City files. This is **one St. Louis civilian city file**.
 
 ## What an owner is actually buying
 
 Counsel selling “St. Louis ERS AUM” has to name the book. The **$937,329,534** line is net position restricted for pension benefits. The **$935,914,715** line is statement investments. The **$938.3 million** card is MD&A total assets. The **79.13 percent** card is the GASB ratio. The **76.1 percent** card is the October actuarial ratio. The **9.8 percent** card is the money-weighted return. Those are not the same mandate.
 
-Do not 301 this page onto `/missouri-mosers/`, `/illinois-imrf/`, `/cook-county-pension/`, `/chicago-labf/`, `/denver-employees/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/missouri-mosers/`, `/illinois-imrf/`, `/cook-county-pension/`, `/chicago-labf/`, `/denver-employees/`, `/kansas-city-police/`, `/kansas-city-police-civilian/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -52,5 +52,7 @@ Do not 301 this page onto `/missouri-mosers/`, `/illinois-imrf/`, `/cook-county-
 - [Chicago LABF](/chicago-labf/)
 - [Denver Employees](/denver-employees/)
 - [Firemen’s Retirement System of St. Louis](/st-louis-firemen/)
+- [Police Retirement System of Kansas City](/kansas-city-police/)
+- [Civilian Employees’ Retirement System of the Police Department of Kansas City](/kansas-city-police-civilian/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

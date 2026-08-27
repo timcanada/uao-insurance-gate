@@ -50,6 +50,7 @@ Do not 301 this page onto `/lacera/`, `/sbcera/`, `/sjcera/`, `/ocers/`, or `/la
 - [SBCERA](/sbcera/)
 - [SJCERA](/sjcera/)
 - [OCERS](/ocers/)
+- [StanCERA](/stancera/)
 - [MercedCERA](/mercedcera/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

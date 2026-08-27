@@ -47,6 +47,7 @@ Do not 301 this page onto `/sjcera/`, leftover `/stancera/`, leftover Marin `/mc
 - [What is a pension fund?](/what-is-a-pension-fund/)
 - [Public pension funds](/public-pension-funds/)
 - [Largest US public pensions](/largest-us-public-pension-funds/)
+- [StanCERA](/stancera/)
 - [SJCERA](/sjcera/)
 - [ICERS](/icers/)
 - [SBCERS](/sbcers/)

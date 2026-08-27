@@ -49,6 +49,7 @@ Do not 301 this page onto `/sdcers/`, `/lacera/`, `/samcera/`, `/sdcera-explaine
 - [San Diego City Employees’ Retirement System](/sdcers/)
 - [LACERA](/lacera/)
 - [SamCERA](/samcera/)
+- [StanCERA](/stancera/)
 - [Sacramento County Employees’ Retirement System](/sacramento-scers/)
 - [SFERS](/san-francisco-sfers/)
 - [Advertise](/advertise/)

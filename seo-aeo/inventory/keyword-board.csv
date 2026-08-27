@@ -753,5 +753,6 @@ P1,Falmouth Contributory Retirement System,allocator,both,/falmouth-retirement/,
 P1,San Diego County Employees Retirement Association,allocator,both,/sdcera/,define,unknown,unknown,unknown,drafted-wave-171,Wave 171. Official pension FNP $19,661,907 thousand at 30 Jun 2025. Do not mint /sdcers/. Not leftover San Diego City SDCERS
 P1,Tacoma Employees Retirement System,allocator,both,/tacoma-employees/,define,unknown,unknown,unknown,drafted-wave-171,Wave 171. Official FNP $2,423,438,168 at 31 Dec 2025. Do not mint /ters/. Not leftover Seattle
 P1,Corpus Christi Firefighters Retirement System,allocator,both,/corpus-christi-fire/,define,unknown,unknown,unknown,drafted-wave-171,Wave 171. Official FNP $218,380,053 at 31 Dec 2025. Do not mint /ccffrs/. Not leftover TMRS
+P1,Stanislaus County Employees Retirement Association,allocator,both,/stancera/,define,unknown,unknown,unknown,drafted-wave-172,Wave 172. Official FNP $3,122,107 thousand at 30 Jun 2025. Do not mint /stanislaus-cera/. Not leftover MercedCERA or leftover SDCERA
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

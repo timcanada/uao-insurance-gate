@@ -50,6 +50,7 @@ Do not 301 this page onto `/jupiter-police/`, `/west-palm-beach-police/`, `/lant
 - [West Palm Beach Police Pension Fund](/west-palm-beach-police/)
 - [West Palm Beach Restated Employees Defined Benefit Retirement System](/west-palm-beach-employees/)
 - [City of Lake Worth Beach General Employees’ Retirement System](/lake-worth-beach-employees/)
+- [City of Lake Worth Beach Police Officers’ Retirement System](/lake-worth-beach-police/)
 - [City of Boca Raton Police and Firefighters’ Retirement System](/boca-raton-police-fire/)
 - [Palm Beach Gardens Police Officers’ Pension Fund](/palm-beach-gardens-police/)
 - [Advertise](/advertise/)

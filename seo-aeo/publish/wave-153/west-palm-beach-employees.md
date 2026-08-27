@@ -53,5 +53,6 @@ Do not 301 this page onto `/west-palm-beach-police/`, `/west-palm-beach-fire/`, 
 - [City of Boca Raton General Employees’ Pension Plan](/boca-raton-employees/)
 - [City of Sunrise General Employees’ Retirement Plan](/sunrise-employees/)
 - [City of Lake Worth Beach General Employees’ Retirement System](/lake-worth-beach-employees/)
+- [City of Pinellas Park General Employees’ Pension Plan](/pinellas-park-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

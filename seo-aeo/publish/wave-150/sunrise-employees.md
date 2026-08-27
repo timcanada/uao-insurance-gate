@@ -53,5 +53,6 @@ Do not 301 this page onto `/sunrise-police/`, `/fort-lauderdale-employees/`, `/s
 - [St. Johns River Power Park System Employees’ Retirement Plan](/jacksonville-sjrpp/)
 - [West Palm Beach Restated Employees Defined Benefit Retirement System](/west-palm-beach-employees/)
 - [City of Lake Worth Beach General Employees’ Retirement System](/lake-worth-beach-employees/)
+- [City of Pinellas Park General Employees’ Pension Plan](/pinellas-park-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -51,5 +51,6 @@ Do not 301 this page onto `/jacksonville-police-fire/`, `/tampa-fire-police/`, `
 - [Pompano Beach Police and Firefighters’ Retirement System](/pompano-beach-police-fire/)
 - [Tampa Fire and Police](/tampa-fire-police/)
 - [City of Hialeah Employees’ Retirement System](/hialeah-employees/)
+- [City of Pinellas Park Firefighters’ Pension Plan](/pinellas-park-fire/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -712,6 +712,24 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,lake-worth,Lake Worth (city short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 177 /lake-worth-beach-employees/
 2,institution,lwbers,LWBERS (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 177 /lake-worth-beach-employees/
 2,institution,lwb-ge,LWB GE (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 177 /lake-worth-beach-employees/. /gepp/ is Jacksonville. /gers/ unused Fort Lauderdale
+178,institution,lake-worth-beach-police,Lake Worth Beach Police Officers Retirement System,allocator,brief,P0,drafted-in-repo,Wave 178. Official FNP $50,986,992 at 30 Sep 2025. Do not mint /lwbpors/ or /gepp/ or /gers/. Not leftover Lake Worth Beach Employees
+2,institution,lake-worth-beach-police-explained,Lake Worth Beach Police explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 178 /lake-worth-beach-police/
+2,institution,lwb-police,LWB Police (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 178 /lake-worth-beach-police/
+2,institution,lwbpors,LWBPORS (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 178 /lake-worth-beach-police/
+2,institution,lake-worth-police,Lake Worth Police (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 178 /lake-worth-beach-police/
+178,institution,pinellas-park-police,Pinellas Park Police Officers Pension Plan,allocator,brief,P0,drafted-in-repo,Wave 178. Official FNP $100,407,145 at 30 Sep 2025. Do not mint /pinellas-park/ or /pfrs/. Not leftover Tampa Fire and Police
+2,institution,pinellas-park-police-explained,Pinellas Park Police explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 178 /pinellas-park-police/
+2,institution,pppop,PPPOP (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 178 /pinellas-park-police/
+2,institution,pp-police,PP Police (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 178 /pinellas-park-police/
+178,institution,pinellas-park-fire,Pinellas Park Firefighters Pension Plan,allocator,brief,P0,drafted-in-repo,Wave 178. Official FNP $93,150,597 at 30 Sep 2025. Do not mint /pinellas-park/ or /pfrs/. Not leftover Pinellas Park Police
+2,institution,pinellas-park-fire-explained,Pinellas Park Fire explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 178 /pinellas-park-fire/
+2,institution,ppff,PPFF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 178 /pinellas-park-fire/
+2,institution,pp-fire,PP Fire (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 178 /pinellas-park-fire/
+178,institution,pinellas-park-employees,Pinellas Park General Employees Pension Plan,allocator,brief,P0,drafted-in-repo,Wave 178. Official FNP $124,238,068 at 30 Sep 2025. Do not mint /gepp/ or /gers/ or /pinellas-park/. Not leftover Pinellas Park Police
+2,institution,pinellas-park-employees-explained,Pinellas Park Employees explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 178 /pinellas-park-employees/
+2,institution,ppge,PPGE (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 178 /pinellas-park-employees/. /gepp/ is Jacksonville
+2,institution,pinellas-park-ge,Pinellas Park GE (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 178 /pinellas-park-employees/
+2,institution,pinellas-park,Pinellas Park (city short),allocator,brief,P0,do-not-mint,Do not mint. Twin that would flatten Wave 178 Pinellas Park Police / Fire / Employees
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

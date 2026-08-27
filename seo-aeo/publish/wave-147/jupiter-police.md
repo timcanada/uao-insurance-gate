@@ -52,6 +52,7 @@ Do not 301 this page onto `/west-palm-beach-police/`, `/palm-beach-gardens-polic
 - [City of Boca Raton Police and Firefighters’ Retirement System](/boca-raton-police-fire/)
 - [City of Sunrise Police Officers’ Retirement Plan](/sunrise-police/)
 - [Lantana Police Relief and Pension Fund](/lantana-police/)
+- [City of Lake Worth Beach Police Officers’ Retirement System](/lake-worth-beach-police/)
 - [West Palm Beach Restated Employees Defined Benefit Retirement System](/west-palm-beach-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

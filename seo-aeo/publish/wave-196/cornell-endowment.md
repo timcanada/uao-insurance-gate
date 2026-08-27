@@ -46,6 +46,7 @@ Do not 301 this page onto `/johns-hopkins-endowment/`, `/university-of-pennsylva
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Johns Hopkins University endowment](/johns-hopkins-endowment/)
+- [Syracuse University endowment](/syracuse-endowment/)
 - [University of Pennsylvania endowment](/university-of-pennsylvania-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

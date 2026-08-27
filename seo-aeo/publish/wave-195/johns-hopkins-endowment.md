@@ -45,6 +45,7 @@ Do not 301 this page onto `/university-of-pennsylvania-endowment/`, `/notre-dame
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Pennsylvania endowment](/university-of-pennsylvania-endowment/)
+- [George Washington University endowment](/george-washington-endowment/)
 - [Notre Dame endowment](/notre-dame-endowment/)
 - [Cornell University endowment](/cornell-endowment/)
 - [Advertise](/advertise/)

@@ -45,6 +45,7 @@ Do not 301 this page onto `/boston-university-endowment/`, `/mit-investment-mana
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Boston University endowment](/boston-university-endowment/)
+- [Northeastern University endowment](/northeastern-endowment/)
 - [MITIMCo](/mit-investment-management-company/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

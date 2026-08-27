@@ -45,6 +45,7 @@ Do not 301 this page onto `/rice-endowment/`, `/emory-endowment/`, `/tulane/`, o
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Rice University endowment](/rice-endowment/)
+- [University of Miami endowment](/university-of-miami-endowment/)
 - [Emory University endowment](/emory-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

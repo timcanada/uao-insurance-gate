@@ -1106,6 +1106,25 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,cwru,CWRU (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 199 /case-western-reserve-endowment/
 2,institution,case,Case (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 199 /case-western-reserve-endowment/
 2,institution,case-western,Case Western (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 199 /case-western-reserve-endowment/
+200,institution,syracuse-endowment,Syracuse University endowment,allocator,brief,P0,drafted-in-repo,Wave 200. Official endowment net assets $2,246,893 thousand at 30 Jun 2025. Managed Endowment 10.2% is a different book. Do not mint /syracuse/ /su/
+2,institution,syracuse-endowment-explained,Syracuse endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 200 /syracuse-endowment/
+2,institution,syracuse,Syracuse (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 200 /syracuse-endowment/
+2,institution,su,SU (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 200 /syracuse-endowment/
+200,institution,baylor-endowment,Baylor University endowment,allocator,brief,P0,drafted-in-repo,Wave 200. Official endowment net assets $2,174,802 thousand at 31 May 2025. Long-term investments $2.3 billion is a wider book. Do not mint /baylor/
+2,institution,baylor-endowment-explained,Baylor endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 200 /baylor-endowment/
+2,institution,baylor,Baylor (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 200 /baylor-endowment/
+200,institution,northeastern-endowment,Northeastern University endowment,allocator,brief,P0,drafted-in-repo,Wave 200. Official endowment and similar $2,110,242 thousand at 30 Jun 2025, including MMC $33,662 thousand. Do not mint /northeastern/ /neu/
+2,institution,northeastern-endowment-explained,Northeastern endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 200 /northeastern-endowment/
+2,institution,northeastern,Northeastern (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 200 /northeastern-endowment/
+2,institution,neu,NEU (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 200 /northeastern-endowment/
+200,institution,george-washington-endowment,George Washington University endowment,allocator,brief,P0,drafted-in-repo,Wave 200. Official endowment net assets $2,812,559 thousand at 30 Jun 2025. Stewardship $2.813 billion is the same card, rounded. Do not mint /gw/ /gwu/ /george-washington/
+2,institution,george-washington-endowment-explained,GW endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 200 /george-washington-endowment/
+2,institution,gw,GW (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 200 /george-washington-endowment/
+2,institution,gwu,GWU (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 200 /george-washington-endowment/
+2,institution,george-washington,George Washington (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 200 /george-washington-endowment/
+200,institution,university-of-miami-endowment,University of Miami endowment,allocator,brief,P0,drafted-in-repo,Wave 200. Official endowment net assets $1,712.8 million at 31 May 2025. Not leftover Miami Fire and Police. Do not mint /miami/
+2,institution,university-of-miami-endowment-explained,University of Miami endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 200 /university-of-miami-endowment/
+2,institution,miami,Miami (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 200 /university-of-miami-endowment/. Also collides with leftover Miami Fire and Police
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

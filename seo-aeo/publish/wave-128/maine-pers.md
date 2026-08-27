@@ -53,5 +53,7 @@ Do not 301 this page onto `/new-hampshire-retirement-system/`, `/massachusetts-p
 - [Employees’ Retirement System of the City of Providence](/providence-employees/)
 - [Vermont State Retirement System](/vermont-vsers/)
 - [Vermont State Teachers’ Retirement System](/vermont-vstrs/)
+- [Municipal Police Employees’ Retirement System](/louisiana-mpers/)
+- [Missouri MoDOT and Highway Patrol Employees’ Retirement System](/missouri-mpers/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

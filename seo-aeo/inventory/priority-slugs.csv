@@ -459,6 +459,16 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,cpers,Baton Rouge CPERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 141 /baton-rouge-employees/
 141,institution,baton-rouge-pgt,Baton Rouge Police Guarantee Trust,allocator,brief,P0,drafted-in-repo,Wave 141. Official PGT FNP $28,572,231 at 31 Dec 2025. Do not mint /pgt/
 2,institution,pgt,Baton Rouge PGT (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 141 /baton-rouge-pgt/
+142,institution,louisiana-mpers,Louisiana Municipal Police Employees Retirement System,allocator,brief,P0,drafted-in-repo,Wave 142. Official FNP $3,133,488,618 at 30 Jun 2025. Do not mint /mpers/
+2,institution,lampers,Louisiana MPERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 142 /louisiana-mpers/. /mpers/ is leftover MainePERS
+142,institution,louisiana-frs,Louisiana Firefighters Retirement System,allocator,brief,P0,drafted-in-repo,Wave 142. Official FNP $2,808,100,816 at 30 Jun 2025. Do not mint /frs/
+2,institution,frs,Louisiana FRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 142 /louisiana-frs/
+142,institution,missouri-mpers,Missouri MoDOT and Highway Patrol Employees Retirement System,allocator,brief,P0,drafted-in-repo,Wave 142. Official FNP $4,088,465,006 at 30 Jun 2025. Do not mint /mpers/
+2,institution,modot-mpers,Missouri MPERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 142 /missouri-mpers/. /mpers/ is leftover MainePERS
+142,institution,louisiana-parochial,Parochial Employees Retirement System of Louisiana,allocator,brief,P0,drafted-in-repo,Wave 142. Official combined FNP $6,321,950,751 at 31 Dec 2025. Do not mint /persla/ or /louisiana-pers/
+2,institution,persla,Louisiana Parochial (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 142 /louisiana-parochial/
+142,institution,louisiana-lsers,Louisiana School Employees Retirement System,allocator,brief,P0,drafted-in-repo,Wave 142. Official FNP $2,411,550,113 at 30 Jun 2025. Do not mint /lsers/
+2,institution,lsers,Louisiana LSERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 142 /louisiana-lsers/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

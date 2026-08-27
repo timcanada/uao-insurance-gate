@@ -49,5 +49,7 @@ Do not 301 this page onto `/baton-rouge-employees/`, `/louisiana-trsl/`, `/louis
 - [Baton Rouge City-Parish Employees’ Retirement System](/baton-rouge-employees/)
 - [Louisiana TRSL](/louisiana-trsl/)
 - [LASERS](/louisiana-lasers/)
+- [Municipal Police Employees’ Retirement System](/louisiana-mpers/)
+- [Louisiana Firefighters’ Retirement System](/louisiana-frs/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

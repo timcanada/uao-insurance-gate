@@ -51,5 +51,6 @@ Do not 301 this page onto `/missouri-mosers/`, `/missouri-psrs-peers/`, `/iowa-i
 - [Iowa IPERS](/iowa-ipers/)
 - [Municipal Employees’ Retirement System of Michigan](/michigan-mers/)
 - [Municipal Fire and Police Retirement System of Iowa](/iowa-mfprsi/)
+- [Missouri MoDOT and Highway Patrol Employees’ Retirement System](/missouri-mpers/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

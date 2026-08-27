@@ -51,5 +51,6 @@ Do not 301 this page onto `/missouri-mosers/`, `/missouri-lagers/`, `/illinois-t
 - [Nebraska School Employees Retirement Plan](/nebraska-school/)
 - [Omaha School Employees Retirement Plan](/omaha-osers/)
 - [Missouri LAGERS](/missouri-lagers/)
+- [Missouri MoDOT and Highway Patrol Employees’ Retirement System](/missouri-mpers/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

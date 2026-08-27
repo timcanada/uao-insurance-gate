@@ -49,5 +49,7 @@ Do not 301 this page onto `/louisiana-trsl/`, `/louisiana-lasers/`, `/baton-roug
 - [Baton Rouge Police Guarantee Trust](/baton-rouge-pgt/)
 - [Louisiana TRSL](/louisiana-trsl/)
 - [LASERS](/louisiana-lasers/)
+- [Municipal Police Employees’ Retirement System](/louisiana-mpers/)
+- [Louisiana Firefighters’ Retirement System](/louisiana-frs/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

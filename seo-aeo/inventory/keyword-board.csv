@@ -612,5 +612,10 @@ P1,Cook County Forest Preserve Pension,allocator,both,/cook-forest-preserve/,def
 P1,Denver Employees Retirement Plan,allocator,both,/denver-employees/,define,unknown,unknown,unknown,drafted-wave-127,Wave 127. Official combined FNP $2,994,725,181 at 31 Dec 2025. Do not mint /derp/
 P1,Dallas Police and Fire Pension System,allocator,both,/dallas-police-fire/,define,unknown,unknown,unknown,drafted-wave-127,Wave 127. Official combined FNP $2,277,013,787 at 31 Dec 2025. Do not mint /dpfp/
 P1,Fairfax County Employees’ Retirement System,allocator,both,/fairfax-ers/,define,unknown,unknown,unknown,drafted-wave-127,Wave 127. Official FNP $5,387,233,149 at 30 Jun 2025. Do not mint /fcers/
+P1,Fairfax County Police Officers Retirement System,allocator,both,/fairfax-pors/,define,unknown,unknown,unknown,drafted-wave-128,Wave 128. Official FNP $1,966,417,163 at 30 Jun 2025. Do not mint /pors/
+P1,Fairfax County Uniformed Retirement System,allocator,both,/fairfax-urs/,define,unknown,unknown,unknown,drafted-wave-128,Wave 128. Official FNP $2,360,138,201 at 30 Jun 2025. Do not mint /urs/
+P1,Maine Public Employees Retirement System,allocator,both,/maine-pers/,define,unknown,unknown,unknown,drafted-wave-128,Wave 128. Official combined FNP $22,466,747,053 at 30 Jun 2025. Do not mint /mainepers/
+P1,Ohio Police & Fire Pension Fund,allocator,both,/ohio-police-fire/,define,unknown,unknown,unknown,drafted-wave-128,Wave 128. Official combined FNP $21,256,675,219 at 31 Dec 2025. Do not mint /opf/
+P1,Montgomery County Employee Retirement Plans,allocator,both,/montgomery-erp/,define,unknown,unknown,unknown,drafted-wave-128,Wave 128. Official ERS FNP $5,109,687,492 at 30 Jun 2025. Do not mint /mcerp/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

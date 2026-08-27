@@ -34,7 +34,7 @@ Do not flatten OPERS into [CalPERS](/calpers-explained-largest-us-pension-fund/)
 
 Counsel selling “Ohio pension AUM” has to name the book. The **$158.4 billion** line includes deferred compensation. The **$133.9 billion** line is pension and health care. Those are not the same mandate.
 
-Do not 301 this page onto `/calpers-explained-largest-us-pension-fund/`, `/what-is-a-pension-fund/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/calpers-explained-largest-us-pension-fund/`, `/ohio-police-fire/`, `/what-is-a-pension-fund/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -50,6 +50,7 @@ Do not 301 this page onto `/calpers-explained-largest-us-pension-fund/`, `/what-
 - [CalPERS](/calpers-explained-largest-us-pension-fund/)
 - [UNJSPF](/unjspf/)
 - [Ohio SERS](/ohio-sers/)
+- [Ohio Police & Fire](/ohio-police-fire/)
 - [Oklahoma OPERS](/oklahoma-opers/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

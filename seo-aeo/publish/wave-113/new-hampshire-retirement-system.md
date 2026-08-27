@@ -33,7 +33,7 @@ Do not flatten NHRS into [Massachusetts PRIM](/massachusetts-prim/) or [Iowa IPE
 
 Counsel selling “New Hampshire pension AUM” has to name the book. The **$13.45 billion** line is the combined restricted total. The **$13.39 billion** line is the Pension Plan. The **$54.7 million** line is the OPEB Plan. Those are not the same mandate.
 
-Do not 301 this page onto `/massachusetts-prim/`, `/iowa-ipers/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/massachusetts-prim/`, `/maine-pers/`, `/iowa-ipers/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -47,6 +47,7 @@ Do not 301 this page onto `/massachusetts-prim/`, `/iowa-ipers/`, or `/largest-u
 - [Public pension funds](/public-pension-funds/)
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Massachusetts PRIM](/massachusetts-prim/)
+- [MainePERS](/maine-pers/)
 - [Iowa IPERS](/iowa-ipers/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -27,13 +27,13 @@ The combining statement is the sourced split:
 2. **Named books on the same report.** Pension Trust Fund **$19,771,601,672**. Medicare B Fund **$333,234,410**. Death Benefit Fund **$36,917,804**. QEBA **$165,648**. Fiduciary net position restricted for pension benefits **$20,141,919,534**. Health Care Fund / other postemployment benefits **$939,812,471**. Those lines are not interchangeable. Do not add the Health Care Fund to the Pension Trust Fund a second time and call the sum a second AUM.
 3. **Returns.** Time-weighted return **11.2 percent** net, **1.1 percentage points** over the policy benchmark. Investment portfolio fair value **$20.7 billion**. Pension-plan money-weighted return **10.87 percent**. Those two return lines are not interchangeable.
 
-Do not flatten Ohio SERS into [Ohio OPERS](/ohio-opers/), [Pennsylvania SERS](/pennsylvania-sers/), or [Illinois SERS](/illinois-sers/). OPERS is Ohio’s public-employee file. Pennsylvania SERS is Pennsylvania. Illinois SERS is Illinois. This is **one Ohio school-employee file**.
+Do not flatten Ohio SERS into [Ohio OPERS](/ohio-opers/), [Ohio Police & Fire](/ohio-police-fire/), [Pennsylvania SERS](/pennsylvania-sers/), or [Illinois SERS](/illinois-sers/). OPERS is Ohio’s public-employee file. Ohio Police & Fire is the statewide sworn file. Pennsylvania SERS is Pennsylvania. Illinois SERS is Illinois. This is **one Ohio school-employee file**.
 
 ## What an owner is actually buying
 
 Counsel selling “Ohio school AUM” has to name the book. The **$21.08 billion** line is Total fiduciary net position. The **$19.77 billion** line is the Pension Trust Fund. The **$939.8 million** line is the Health Care Fund. Those are not the same mandate.
 
-Do not 301 this page onto `/ohio-opers/`, `/pennsylvania-sers/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/ohio-opers/`, `/ohio-police-fire/`, `/pennsylvania-sers/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -47,6 +47,7 @@ Do not 301 this page onto `/ohio-opers/`, `/pennsylvania-sers/`, or `/largest-us
 - [Public pension funds](/public-pension-funds/)
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Ohio OPERS](/ohio-opers/)
+- [Ohio Police & Fire](/ohio-police-fire/)
 - [Pennsylvania SERS](/pennsylvania-sers/)
 - [Illinois SERS](/illinois-sers/)
 - [Advertise](/advertise/)

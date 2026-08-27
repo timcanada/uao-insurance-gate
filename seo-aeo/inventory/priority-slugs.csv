@@ -640,6 +640,10 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 174,institution,battle-creek-police-fire,Battle Creek Police and Fire Retirement System,allocator,brief,P0,drafted-in-repo,Wave 174. Official total NP $201,672,609 at 30 Jun 2025. Pension-restricted $201,616,252. Investments $197,932,472 are not FNP. GASB 83.43%. Notes MWR 11.45%. Do not mint /bcpfrs/ or /cmers/. Not leftover Grand Rapids Police and Fire
 2,institution,bcpfrs,Battle Creek Police and Fire (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 174 /battle-creek-police-fire/. /cmers/ remains Milwaukee City
 2,institution,battle-creek,Battle Creek (city short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 174 /battle-creek-police-fire/
+174,institution,farmington-hills-employees,Farmington Hills Employees Retirement System,allocator,brief,P0,drafted-in-repo,Wave 174. Official FNP $191,391,814 at 30 Jun 2025. Investments $188,839,315 are not FNP. GASB 71.45%. Notes MWR 9.62%. Do not mint /fhers/ or /farmington-hills/. Not leftover Michigan MERS or leftover Battle Creek
+2,institution,fhers,Farmington Hills ERS (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 174 /farmington-hills-employees/
+2,institution,farmington-hills-ers,Farmington Hills ERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 174 /farmington-hills-employees/
+2,institution,farmington-hills,Farmington Hills (city short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 174 /farmington-hills-employees/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

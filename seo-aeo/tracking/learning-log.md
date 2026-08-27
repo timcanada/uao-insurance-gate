@@ -1,5 +1,21 @@
 # Learning log (append only)
 
+## 2026-08-27 — Wake 174 addendum: Farmington Hills Employees
+
+**Queries / URLs:** `/farmington-hills-employees/`.
+
+**What was wrong on the live site:**
+
+- Wave 174 still had one open slot (`≤5`). Farmington Hills Employees’ Retirement System 30 Jun 2025 house FS now locks (`fhgov.com/media/fr1b0xa2/audited-financial-report-pension-24-25-ada.pdf`, GET **200** `application/pdf` **2,021,907** bytes; `Last-Modified: 16 Jun 2026`). Statement FNP **$191,391,814**. Investments **$188,839,315** are not FNP. Notes/RSI MWR **9.62%**. MD&A **7.1%** is FNP increase, not MWR. TPL **$267,879,683**. NPL **$76,487,869**. GASB **71.45%**. Yeo & Yeo unmodified **6 Nov 2025**. The Health Care audited report is not this book. Not leftover Michigan MERS **$14,870,864 thousand** or leftover Battle Creek **$201,672,609**. Wave 174 is now at the five-page cap.
+
+**Confirmed still unpublished:** Waves 1–174. Ghost key still missing.
+
+**Shipped (Wave 174 addendum):** one more page (wave total **five**). Farmington Hills Employees’ Retirement System `/farmington-hills-employees/` (FNP **$191,391,814** at **30 Jun 2025**; notes MWR **9.62%**; GASB **71.45%**). Do not mint `/fhers/`, `/farmington-hills-ers/`, or `/farmington-hills/`. Google/Bing/Perplexity ranks: **unknown**.
+
+**Refused:** Treating Farmington Hills MD&A **7.1 percent** as MWR. Treating the Health Care book as the pension card. Flattening Farmington Hills into leftover Michigan MERS or leftover Battle Creek. Drafting a sixth Wave 174 page.
+
+**Next wake must:** Same paste order, now including `/farmington-hills-employees/`. Next rotation starts a new wave (`≤5`). Do not overwrite Wave 174 keepers.
+
 ## 2026-08-27 — Wake 174 addendum: CCCERA and Battle Creek Police and Fire
 
 **Queries / URLs:** `/cccera/`, `/battle-creek-police-fire/`.

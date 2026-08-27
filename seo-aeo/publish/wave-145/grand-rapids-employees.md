@@ -48,6 +48,7 @@ Do not 301 this page onto `/michigan-mers/`, `/detroit-grs/`, `/grand-rapids-pol
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Municipal Employees’ Retirement System of Michigan](/michigan-mers/)
 - [City of Grand Rapids Police and Fire Retirement System](/grand-rapids-police-fire/)
+- [Farmington Hills Employees’ Retirement System](/farmington-hills-employees/)
 - [City of Ann Arbor Employees’ Retirement System](/ann-arbor-employees/)
 - [City of St. Joseph Employees’ Retirement System](/st-joseph-employees/)
 - [General Retirement System of the City of Detroit](/detroit-grs/)

@@ -48,6 +48,7 @@ Do not 301 this page onto `/grand-rapids-police-fire/`, `/michigan-mers/`, `/bcp
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Grand Rapids Police and Fire](/grand-rapids-police-fire/)
 - [Grand Rapids Employees](/grand-rapids-employees/)
+- [Farmington Hills Employees’ Retirement System](/farmington-hills-employees/)
 - [Municipal Employees’ Retirement System of Michigan](/michigan-mers/)
 - [Michigan MPSERS](/michigan-mpsers/)
 - [Detroit Police and Fire](/detroit-police-fire/)

@@ -45,6 +45,11 @@ Fiscal years are not aligned. Harvard, Yale and Princeton close the investment y
 | USC endowment | **$8,774,280 thousand** | Note 7 endowment net assets. Brochure **$9.03 billion** is a different book | Note 7 dollar return **$1,059,153 thousand**. Brochure **14.0%** is the brochure book. Do not flatten | 30 Jun 2025 | [2025 FS](https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/d/791/files/2026/02/2025-USC-Financial-Report.pdf) / [endowment brochure](https://giving.usc.edu/wp-content/uploads/2026/02/USC-Endowment-Brochure.pdf) — keeper [`/usc-endowment/`](/usc-endowment/) |
 | University of Washington CEF | **$5,963 million** | Consolidated Endowment Fund. Operating sleeve **$1,223 million** sits inside the CEF. CEF report **$6.0 billion** is the same card, rounded | **12.4%**. Passive **13.2%** is not the CEF card | 30 Jun 2025 | [2025 annual report](https://finance.uw.edu/uwar/annualreport2025.pdf) / [2025 CEF report](https://finance.uw.edu/treasury/files/CEF/2025CEF.pdf) — keeper [`/university-of-washington-endowment/`](/university-of-washington-endowment/) |
 | Cambridge University Endowment Fund | **£4,606.8 million** | CUEF NAV. Group share **£4,141.9 million** is not the whole fund. Print pounds. Do not dollarize | **5.6%** net for the year ended **30 Jun 2025**. FS values are **31 Jul** | 31 Jul 2025 (NAV); 30 Jun 2025 (return) | [2025 FS](https://www.admin.cam.ac.uk/reporter/2025-26/weekly/6833/Annual_Reports_Financial_Statements-2025.pdf) — keeper [`/cambridge-endowment/`](/cambridge-endowment/) |
+| Johns Hopkins University endowment | **$13,734,964 thousand** | Endowment net assets. Interests held by others **$147,619 thousand** are not that card | Investment return **$1,628,492 thousand**. Do not invent a percent. Operating payout **$656,086 thousand** | 30 Jun 2025 | [FY2025 Uniform Guidance package](https://fdpclearinghouse.org/file/get?id=4836) — keeper [`/johns-hopkins-endowment/`](/johns-hopkins-endowment/) |
+| NYU endowment | **$7,440,454 thousand** | Investment-pool net assets on the endowment-funds table. Fiscal year ends **31 Aug** | Investment-pool return **$753,225 thousand**. Do not invent a one-year percent. Distribution **$269,487 thousand** | 31 Aug 2025 | [FY2025 Uniform Guidance package](https://fdpclearinghouse.org/file/get?id=4863) — keeper [`/nyu-endowment/`](/nyu-endowment/) |
+| Oxford Endowment Fund | **£6.7 billion** | OEF assets. Print pounds. Do not dollarize. Not leftover Cambridge CUEF | **10.9%** net. Distribution **£253.4 million** | 31 Dec 2025 | [OEF Report 2025](https://www.ouem.co.uk/wp-content/uploads/2026/05/OEF-Report-2025.pdf) — keeper [`/oxford-endowment/`](/oxford-endowment/) |
+| NUS endowment | **S$6,450,698 thousand** | Group Endowment Funds. Print Singapore dollars. Do not dollarize. Company **S$6,450,063 thousand** is not the Group card | Dollar return **S$255,444 thousand**. Do not invent a percent | 31 Mar 2025 | [2025 financial report](https://nus.edu.sg/docs/default-source/annual-report/nus-financial-report-2025.pdf) — keeper [`/nus-endowment/`](/nus-endowment/) |
+| University of Toronto endowment | **C$4,480 million** | Endowments. LTCAP **C$5.31 billion** is the wider pool. Print Canadian dollars. Do not dollarize. Leftover 2025 **C$3,933 million** is dead | LTCAP **14.3%** net. Payout **C$144 million** | 30 Apr 2026 | [Financial Report 2025-26](https://finance.utoronto.ca/wp-content/uploads/Financial-Report-2026.pdf) — keeper [`/university-of-toronto-endowment/`](/university-of-toronto-endowment/) |
 
 Those later official prints are not a ranking against Harvard, Yale, Stanford, or Princeton. Do **not** treat Stanford’s **$47.7 billion** Merged Pool as the endowment. The university said so: the pool also holds health-system capital reserves. The endowment disbursed **$1.9 billion** in fiscal 2025 (nearly double the **$1.1 billion** disbursed in 2015). Stanford expects **$2.0 billion** to flow from the investment portfolio to the operating budget in fiscal 2026. About **75%** of endowment payout is restricted. CEO of Stanford Management Company named on the release: **Robert Wallace**.
 
@@ -62,11 +67,11 @@ Princeton’s endowment provides **roughly two-thirds** of the university’s op
 - **NACUBO 2026** as if UAO had the study. We do not. Stanford cited a **preliminary** Cambridge Associates median of **10.9%** for the year — that is Stanford’s citation, not a licence to invent everyone else’s NAV.
 - Minting `/harvard-endowment-explained/`, `/stanford-endowment-explained/`, or a **2027** year-stamp. Category define stays on [`/endowment-model-explained/`](/endowment-model-explained/). Named Yale model stays on [`/yale-endowment-model/`](/yale-endowment-model/).
 
-Houses we will add when they print an official figure we can fetch: Chicago. MIT, Texas (UTIMCO), Notre Dame, Columbia, UC Investments, Northwestern, Duke University, Penn, Michigan, USC, Washington, and Cambridge now have keepers — do not estimate them here. Until the others print, they are absent, not estimated. Cambridge prints sterling — do not dollarize that row into a homemade US-dollar rank.
+Houses we will add when they print an official figure we can fetch: Chicago. Cornell and Vanderbilt official FY2025 filings locked this wake and were left after the five-page cap — do not estimate them here. MIT, Texas (UTIMCO), Notre Dame, Columbia, UC Investments, Northwestern, Duke University, Penn, Michigan, USC, Washington, Cambridge, Johns Hopkins, NYU, Oxford, NUS, and Toronto now have keepers. Oxford, NUS, and Toronto print pounds, Singapore dollars, and Canadian dollars — do not dollarize those rows into a homemade US-dollar rank.
 
 ## How a peer should read it
 
-This is not a league table of “who won the endowment model.” It is official stationery lines and a warning about Stanford’s two books. Notre Dame’s pool, Columbia’s endowment, Penn, Michigan, USC, Washington, and Cambridge are later official prints, not a rank. Do not invent a Penn percent. [CalPERS](/calpers-explained-largest-us-pension-fund/) PERF is **$637.1 billion** at 30 June 2026. That is a public pension, not an endowment — do not drop it into this list.
+This is not a league table of “who won the endowment model.” It is official stationery lines and a warning about Stanford’s two books. Notre Dame’s pool, Columbia’s endowment, Penn, Michigan, USC, Washington, Cambridge, Johns Hopkins, NYU, Oxford, NUS, and Toronto are later official prints, not a rank. Do not invent a Penn or NYU percent. Do not flatten leftover 2025 Toronto **C$3.933 billion** onto the 2026 card. [CalPERS](/calpers-explained-largest-us-pension-fund/) PERF is **$637.1 billion** at 30 June 2026. That is a public pension, not an endowment — do not drop it into this list.
 
 ## Related
 
@@ -83,6 +88,11 @@ This is not a league table of “who won the endowment model.” It is official 
 - [USC endowment](/usc-endowment/)
 - [University of Washington endowment](/university-of-washington-endowment/)
 - [Cambridge University Endowment Fund](/cambridge-endowment/)
+- [Johns Hopkins University endowment](/johns-hopkins-endowment/)
+- [NYU endowment](/nyu-endowment/)
+- [Oxford Endowment Fund](/oxford-endowment/)
+- [NUS endowment](/nus-endowment/)
+- [University of Toronto endowment](/university-of-toronto-endowment/)
 - [Yale endowment model](/yale-endowment-model/)
 - [Texas Permanent School Fund](/texas-permanent-school-fund-explained/)
 - [Universal owner](/universal-owner/)
@@ -110,5 +120,10 @@ This is not a league table of “who won the endowment model.” It is official 
 - University of Washington, [2025 annual report](https://finance.uw.edu/uwar/annualreport2025.pdf) — CEF $5,963 million; 12.4% at 30 Jun 2025
 - University of Washington, [2025 CEF report](https://finance.uw.edu/treasury/files/CEF/2025CEF.pdf) — $6.0 billion is the same card, rounded
 - University of Cambridge, [financial statements year ended 31 July 2025](https://www.admin.cam.ac.uk/reporter/2025-26/weekly/6833/Annual_Reports_Financial_Statements-2025.pdf) — CUEF NAV £4,606.8 million; 5.6% net to 30 Jun 2025. Print pounds
+- Johns Hopkins University, [FY2025 Uniform Guidance package](https://fdpclearinghouse.org/file/get?id=4836) — endowment net assets $13,734,964 thousand; investment return $1,628,492 thousand at 30 Jun 2025. Do not invent a percent
+- New York University, [FY2025 Uniform Guidance package](https://fdpclearinghouse.org/file/get?id=4863) — investment-pool $7,440,454 thousand; pool return $753,225 thousand at 31 Aug 2025. Do not invent a one-year percent
+- OU Endowment Management, [Oxford Endowment Fund Report 2025](https://www.ouem.co.uk/wp-content/uploads/2026/05/OEF-Report-2025.pdf) — OEF £6.7 billion; 10.9% net; distribution £253.4 million at 31 Dec 2025. Print pounds
+- National University of Singapore, [financial report 2025](https://nus.edu.sg/docs/default-source/annual-report/nus-financial-report-2025.pdf) — Group Endowment Funds S$6,450,698 thousand; dollar return S$255,444 thousand at 31 Mar 2025. Print Singapore dollars
+- University of Toronto, [Financial Report year ended 30 April 2026](https://finance.utoronto.ca/wp-content/uploads/Financial-Report-2026.pdf) — endowments C$4,480 million; LTCAP 14.3% net; payout C$144 million. Print Canadian dollars
 
 Universal Asset Owners is a journalistic research desk. This page is information, not investment, legal, tax, or fiduciary advice.

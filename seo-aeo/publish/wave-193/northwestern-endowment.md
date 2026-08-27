@@ -51,5 +51,6 @@ Do not 301 this page onto `/notre-dame-endowment/`, `/columbia-endowment/`, `/no
 - [University of Pennsylvania endowment](/university-of-pennsylvania-endowment/)
 - [University of Michigan endowment](/university-of-michigan-endowment/)
 - [USC endowment](/usc-endowment/)
+- [Johns Hopkins University endowment](/johns-hopkins-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

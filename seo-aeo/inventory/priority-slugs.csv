@@ -988,6 +988,26 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,cambridge,Cambridge (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 194 /cambridge-endowment/
 2,institution,cuef,CUEF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 194 /cambridge-endowment/
 2,institution,ucim,UCIM (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 194 /cambridge-endowment/
+195,institution,university-of-toronto-endowment,University of Toronto endowment,allocator,brief,P0,drafted-in-repo,Wave 195. Official endowments C$4,480 million at 30 Apr 2026. Print CAD. Do not mint /toronto/ or /uoft/
+2,institution,university-of-toronto-endowment-explained,Toronto endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 195 /university-of-toronto-endowment/
+2,institution,toronto,Toronto (short),allocator,brief,P0,do-not-mint,Do not mint. Reserved. Toronto endowment keeper is Wave 195 /university-of-toronto-endowment/. City file remains /careers/cities/toronto/
+2,institution,uoft,UofT (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 195 /university-of-toronto-endowment/
+2,institution,uoft-endowment,UofT endowment (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 195 /university-of-toronto-endowment/
+195,institution,oxford-endowment,Oxford Endowment Fund,allocator,brief,P0,drafted-in-repo,Wave 195. Official OEF 6.7 billion pounds at 31 Dec 2025. Print pounds. Do not mint /oxford/ or /oef/
+2,institution,oxford-endowment-explained,Oxford endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 195 /oxford-endowment/
+2,institution,oxford,Oxford (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 195 /oxford-endowment/. Not leftover Cambridge CUEF
+2,institution,oef,OEF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 195 /oxford-endowment/
+2,institution,ouem,OUem (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 195 /oxford-endowment/
+2,institution,johns-hopkins-endowment-explained,Johns Hopkins endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 195 /johns-hopkins-endowment/
+2,institution,hopkins,Hopkins (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 195 /johns-hopkins-endowment/
+2,institution,jhu,JHU (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 195 /johns-hopkins-endowment/
+2,institution,hopkins-endowment,Hopkins endowment (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 195 /johns-hopkins-endowment/
+2,institution,nyu-endowment-explained,NYU endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 195 /nyu-endowment/
+2,institution,nyu,NYU (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 195 /nyu-endowment/
+2,institution,new-york-university-endowment,NYU endowment (long),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 195 /nyu-endowment/
+2,institution,nus-endowment-explained,NUS endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 195 /nus-endowment/
+2,institution,nus,NUS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 195 /nus-endowment/. Not leftover Temasek
+2,institution,national-university-of-singapore-endowment,NUS endowment (long),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 195 /nus-endowment/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic
@@ -1024,18 +1044,18 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,upenn-investment-office,Penn investment office,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 194 /university-of-pennsylvania-endowment/
 2,institution,chicago-endowment,University of Chicago endowment,allocator,brief,P0,needed,Endowment
 193,institution,northwestern-endowment,Northwestern endowment,allocator,brief,P0,drafted-in-repo,Wave 193. Official Long-Term Balanced Pool $15,263 million at 31 Aug 2025. Do not mint /northwestern/
-2,institution,johns-hopkins-endowment,Johns Hopkins endowment,allocator,brief,P0,needed,Endowment
-2,institution,nyu-endowment,NYU endowment,allocator,brief,P0,needed,Endowment
+195,institution,johns-hopkins-endowment,Johns Hopkins endowment,allocator,brief,P0,drafted-in-repo,Wave 195. Official endowment net assets $13,734,964 thousand at 30 Jun 2025. Do not invent a percent. Do not mint /hopkins/ or /jhu/
+195,institution,nyu-endowment,NYU endowment,allocator,brief,P0,drafted-in-repo,Wave 195. Official investment-pool $7,440,454 thousand at 31 Aug 2025. Do not invent a one-year percent. Do not mint /nyu/
 194,institution,usc-endowment,USC endowment,allocator,brief,P0,drafted-in-repo,Wave 194. Official endowment net assets $8,774,280 thousand at 30 Jun 2025. Brochure $9.03 billion / 14.0% is a different book. Do not mint /usc/
 2,institution,university-of-california-regents,UC Investments (long),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 193 /uc-investments/. /ucrp/ remains the pension file
 194,institution,university-of-michigan-endowment,University of Michigan endowment,allocator,brief,P0,drafted-in-repo,Wave 194. Official endowment investments $21,201 million / UEF $21.2 billion at 30 Jun 2025. LTP 15.5% net. Do not mint /michigan/
 2,institution,utimco-vs-texas-trs,UTIMCO vs TRS Texas,allocator,brief,P0,needed,Comparison
 2,institution,canadian-university-endowments-hub,Canadian university endowments,allocator,brief,P0,needed,Endowment
-2,institution,oxford-endowment-ousl,Oxford endowments,allocator,brief,P0,needed,Endowment
+2,institution,oxford-endowment-ousl,Oxford endowments,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 195 /oxford-endowment/
 194,institution,cambridge-endowment,Cambridge University Endowment Fund,allocator,brief,P0,drafted-in-repo,Wave 194. Official CUEF NAV 4606.8 million pounds at 31 Jul 2025. Print pounds. Do not mint /cambridge/ or /cuef/
 2,institution,eth-zurich-foundation,ETH Foundation,allocator,brief,P0,needed,Endowment
 2,institution,kaust-endowment,KAUST endowment,allocator,brief,P0,needed,Skip. No official endowment FS. Unofficial $23.5bn refused. Do not mint /kaust-endowment-explained/
-2,institution,nus-endowment,NUS endowment,allocator,brief,P0,needed,Endowment
+195,institution,nus-endowment,NUS endowment,allocator,brief,P0,drafted-in-repo,Wave 195. Official Group Endowment Funds 6,450,698 thousand Singapore dollars at 31 Mar 2025. Print SGD. Do not mint /nus/
 2,institution,allianz-investment-management,Allianz investment book,allocator,brief,P0,needed,Insurer
 2,institution,axa-investment-managers-owner-side,AXA as owner,allocator,brief,P0,needed,Insurer
 2,institution,prudential-pgim-owner-side,Prudential as owner,allocator,brief,P0,needed,Insurer

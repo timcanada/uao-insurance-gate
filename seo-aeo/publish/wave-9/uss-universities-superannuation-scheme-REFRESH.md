@@ -65,6 +65,8 @@ The DB growth portfolio returned **9.5% p.a.** over three years to 31 March 2026
 - [Largest pension funds](/largest-pension-funds-in-the-world/)
 - [Liability-driven investing](/liability-driven-investing-explained/)
 
+- [Oxford Endowment Fund](/oxford-endowment/)
+- [Cambridge University Endowment Fund](/cambridge-endowment/)
 ## Sources
 
 - USS, [annual report highlights, 27 July 2026](https://www.uss.co.uk/news-and-views/latest-news/2026/07/07272026_uss-annual-report-highlights-strong-funding-position-value-and-member-trust) — £79.8bn DB; £15.8bn surplus; £4.2bn DC; 599,000 members

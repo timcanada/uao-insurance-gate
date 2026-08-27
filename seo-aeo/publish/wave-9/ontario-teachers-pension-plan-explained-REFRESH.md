@@ -66,6 +66,7 @@ OTPP said 2025 was a good outcome in a hard year that missed the 7% annual targe
 - [Total portfolio approach](/total-portfolio-approach/)
 - [What is a pension fund?](/what-is-a-pension-fund/)
 
+- [University of Toronto endowment](/university-of-toronto-endowment/)
 ## Sources
 
 - Ontario Teachers’, [“announces positive 2025 results”](https://www.otpp.com/en-ca/about-us/news-and-insights/2026/ontario-teachers-announces-positive-2025-results/) — C$279.4bn; 6.7%; C$18.5bn income; C$31.2bn surplus; 346,000 members

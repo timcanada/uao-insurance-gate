@@ -48,5 +48,7 @@ Do not 301 this page onto `/uss-universities-superannuation-scheme/`, `/notre-da
 - [USS](/uss-universities-superannuation-scheme/)
 - [University of Pennsylvania endowment](/university-of-pennsylvania-endowment/)
 - [Notre Dame endowment](/notre-dame-endowment/)
+- [Oxford Endowment Fund](/oxford-endowment/)
+- [NUS endowment](/nus-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

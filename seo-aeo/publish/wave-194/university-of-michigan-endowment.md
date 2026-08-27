@@ -48,5 +48,7 @@ Do not 301 this page onto `/michigan-sers/`, `/michigan-mpsers/`, `/michigan/`, 
 - [University of Pennsylvania endowment](/university-of-pennsylvania-endowment/)
 - [Notre Dame endowment](/notre-dame-endowment/)
 - [Michigan State Employees’ Retirement System](/michigan-sers/)
+- [Johns Hopkins University endowment](/johns-hopkins-endowment/)
+- [University of Toronto endowment](/university-of-toronto-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

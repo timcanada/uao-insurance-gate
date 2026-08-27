@@ -47,5 +47,7 @@ Do not 301 this page onto `/pennsylvania-sers/`, `/notre-dame-endowment/`, `/pen
 - [Notre Dame endowment](/notre-dame-endowment/)
 - [Columbia University endowment](/columbia-endowment/)
 - [Pennsylvania SERS](/pennsylvania-sers/)
+- [Johns Hopkins University endowment](/johns-hopkins-endowment/)
+- [NYU endowment](/nyu-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -55,5 +55,7 @@ Do not 301 this page onto `/mit-investment-management-company/`, `/utimco/`, `/n
 - [University of Pennsylvania endowment](/university-of-pennsylvania-endowment/)
 - [University of Michigan endowment](/university-of-michigan-endowment/)
 - [Cambridge University Endowment Fund](/cambridge-endowment/)
+- [Johns Hopkins University endowment](/johns-hopkins-endowment/)
+- [Oxford Endowment Fund](/oxford-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -54,5 +54,7 @@ Do not 301 this page onto `/notre-dame-endowment/`, `/mit-investment-management-
 - [Yale endowment model](/yale-endowment-model/)
 - [University of Pennsylvania endowment](/university-of-pennsylvania-endowment/)
 - [USC endowment](/usc-endowment/)
+- [NYU endowment](/nyu-endowment/)
+- [Johns Hopkins University endowment](/johns-hopkins-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

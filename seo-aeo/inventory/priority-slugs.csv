@@ -391,6 +391,16 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,kcpers-civilian,Kansas City Police Civilian (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 134 /kansas-city-police-civilian/
 134,institution,newport-news-employees,Newport News Employees’ Retirement Fund,allocator,brief,P0,drafted-in-repo,Wave 134. Official FNP $1,150,643,142 at 30 Jun 2025. Do not mint /nnerf/ or /newport-news-employees-explained/
 2,institution,nnerf,Newport News Employees (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 134 /newport-news-employees/
+135,institution,roanoke-pension,City of Roanoke Pension Plan,allocator,brief,P0,drafted-in-repo,Wave 135. Official FNP $498,374,571 at 30 Jun 2025. Do not mint /crpp/ or /roanoke-pension-explained/
+2,institution,crpp,Roanoke Pension (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 135 /roanoke-pension/
+135,institution,nashville-employees,Metropolitan Employees’ Benefit Trust,allocator,brief,P0,drafted-in-repo,Wave 135. Official FNP $4,360,675,155 at 30 Jun 2025. Do not mint /mebs/ or /nashville-employees-explained/
+2,institution,mebs,Nashville Employees (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 135 /nashville-employees/
+135,institution,atlanta-firefighters,City of Atlanta Firefighters’ Pension Plan,allocator,brief,P0,drafted-in-repo,Wave 135. Official FNP $948,512 thousand at 30 Jun 2025. Do not mint /atlanta-fire/ or /atlanta-firefighters-explained/
+2,institution,atlanta-fire,Atlanta Firefighters (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 135 /atlanta-firefighters/
+135,institution,atlanta-police,City of Atlanta Police Officers’ Pension Plan,allocator,brief,P0,drafted-in-repo,Wave 135. Official FNP $1,614,945 thousand at 30 Jun 2025. Do not mint /atlanta-police-explained/ or /coa-police/
+2,institution,atlanta-police-explained,Atlanta Police (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 135 /atlanta-police/
+135,institution,atlanta-general-employees,City of Atlanta General Employees’ Pension Plan,allocator,brief,P0,drafted-in-repo,Wave 135. Official FNP $1,992,291 thousand at 30 Jun 2025. Do not mint /atlanta-ge/ or /atlanta-employees/
+2,institution,atlanta-ge,Atlanta General Employees (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 135 /atlanta-general-employees/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

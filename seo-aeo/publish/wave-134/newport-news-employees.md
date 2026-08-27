@@ -27,13 +27,13 @@ The statement of fiduciary net position is the sourced line:
 2. **GASB funded cards.** Total pension liability **$1,537,620,795**. Fiduciary net position / total pension liability **74.83 percent**. MD&A **74.8 percent** is the rounded card, not a second ratio. Net pension liability **$386,977,653**. Those official prints are not interchangeable with the OPEB funded card.
 3. **Returns.** Required-supplementary-information money-weighted return **11.10 percent** net of investment fees for the year ended **30 June 2025**. Investment-section time-weighted total-fund **10.9 percent** net / **11.1 percent** gross. Those official prints are not interchangeable. The RSI footnote **11.5 percent** is the prior-year net time-weighted card, not 2025.
 
-Do not flatten Newport News Employees’ Retirement Fund into [Virginia Retirement System](/virginia-retirement-system/), [Fairfax ERS](/fairfax-ers/), [Fairfax PORS](/fairfax-pors/), [Fairfax URS](/fairfax-urs/), [Richmond Retirement System](/richmond-retirement/), [Norfolk Employees’ Retirement System](/norfolk-employees/), or [City of Knoxville Pension System](/knoxville-pension/). VRS is the later Newport News hire book. This is **one closed Newport News city file**.
+Do not flatten Newport News Employees’ Retirement Fund into [Virginia Retirement System](/virginia-retirement-system/), [Fairfax ERS](/fairfax-ers/), [Fairfax PORS](/fairfax-pors/), [Fairfax URS](/fairfax-urs/), [Richmond Retirement System](/richmond-retirement/), [Norfolk Employees’ Retirement System](/norfolk-employees/), [City of Knoxville Pension System](/knoxville-pension/), or [City of Roanoke Pension Plan](/roanoke-pension/). VRS is the later Newport News hire book. Roanoke is an open Virginia city file. This is **one closed Newport News city file**.
 
 ## What an owner is actually buying
 
 Counsel selling “Newport News pension AUM” has to name the book. The **$1,150,643,142** line is net position restricted for pension benefits. The **$1,133,721,587** line is statement investments. The **$57,894,943** line is the OPEB Fund. The **74.83 percent** card is the GASB ratio. The **10.9 percent** card is time-weighted net. The **11.10 percent** card is money-weighted. Those are not the same mandate.
 
-Do not 301 this page onto `/virginia-retirement-system/`, `/fairfax-ers/`, `/richmond-retirement/`, `/norfolk-employees/`, `/knoxville-pension/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/virginia-retirement-system/`, `/fairfax-ers/`, `/richmond-retirement/`, `/norfolk-employees/`, `/knoxville-pension/`, `/roanoke-pension/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -50,5 +50,6 @@ Do not 301 this page onto `/virginia-retirement-system/`, `/fairfax-ers/`, `/ric
 - [Fairfax PORS](/fairfax-pors/)
 - [Richmond Retirement System](/richmond-retirement/)
 - [Norfolk Employees’ Retirement System](/norfolk-employees/)
+- [City of Roanoke Pension Plan](/roanoke-pension/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

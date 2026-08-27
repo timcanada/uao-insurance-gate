@@ -27,13 +27,13 @@ The statements are in **thousands**:
 2. **Cash flows on the same report.** Employer contributions **$3,464,704 thousand**. Member contributions **$1,031,027 thousand**. Net investment income **$12,715,602 thousand**. Benefit payments **$6,504,379 thousand**.
 3. **Returns and funded status.** Time-weighted return **12.2 percent** (Daily Valuation Method). Equity sleeve **14.4 percent**. Private-equity sleeve **12.7 percent**. Fixed-income sleeve **6.0 percent**. Five-year annualized **10.1 percent**. Money-weighted return **10.1 percent**. Those return lines are not interchangeable. Plan fiduciary net position as a percentage of total pension liability **84.65 percent**.
 
-Do not flatten Georgia TRS into [Georgia ERS](/georgia-ers/) or [Texas TRS](/texas-teacher-retirement-system-explained/). Georgia ERS is the Georgia public-employee administrator. This is **one Georgia teacher file**.
+Do not flatten Georgia TRS into [Georgia ERS](/georgia-ers/), [Texas TRS](/texas-teacher-retirement-system-explained/), [Atlanta Firefighters’ Pension Plan](/atlanta-firefighters/), [Atlanta Police Officers’ Pension Plan](/atlanta-police/), or [Atlanta General Employees’ Pension Plan](/atlanta-general-employees/). Georgia ERS is the Georgia public-employee administrator. The three Atlanta city books are different legal persons. This is **one Georgia teacher file**.
 
 ## What an owner is actually buying
 
 Counsel selling “Georgia teacher AUM” has to name the book. The **$116,767,912 thousand** line is net position restricted for pensions. The **$114,060,435 thousand** line is investments. Those are not the same mandate.
 
-Do not 301 this page onto `/georgia-ers/`, `/texas-teacher-retirement-system-explained/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/georgia-ers/`, `/texas-teacher-retirement-system-explained/`, `/atlanta-firefighters/`, `/atlanta-police/`, `/atlanta-general-employees/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -47,6 +47,9 @@ Do not 301 this page onto `/georgia-ers/`, `/texas-teacher-retirement-system-exp
 - [Public pension funds](/public-pension-funds/)
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Georgia ERS](/georgia-ers/)
+- [Atlanta Firefighters’ Pension Plan](/atlanta-firefighters/)
+- [Atlanta Police Officers’ Pension Plan](/atlanta-police/)
+- [Atlanta General Employees’ Pension Plan](/atlanta-general-employees/)
 - [Arkansas Teacher Retirement](/arkansas-teacher-retirement/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

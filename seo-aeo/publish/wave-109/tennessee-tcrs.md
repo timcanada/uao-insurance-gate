@@ -28,13 +28,13 @@ The combining statement is the sourced split:
 2. **Named books on the same statement (thousands).** Public Employee Retirement Plan **$39,821,340 thousand**. Teacher Legacy Pension Plan **$33,595,527 thousand**. Teacher Retirement Plan **$1,493,174 thousand**. Investment in the Tennessee Retiree Group Trust **$74,784,288 thousand**. TCRS owns **98.72 percent** of TRGT. Do not call a later TRGT-only line the TCRS fiduciary net position.
 3. **Returns and cash flows.** Time-weighted portfolio return **10.20 percent**. Net investment income **$7,034,606,453**. Contributions **$1,833,764,195**. Benefits and refunds **$3.5 billion**. The assumed return used on the valuation is **6.75 percent**. Those return and assumption lines are not interchangeable.
 
-Do not flatten TCRS into [CalPERS](/calpers-explained-largest-us-pension-fund/), [North Carolina Treasurer](/north-carolina-treasurer/), or [City of Knoxville Pension System](/knoxville-pension/). North Carolina’s Treasurer book is a different legal person. Knoxville is a Tennessee city file. Later Knoxville teachers sit here; the City of Knoxville Pension System is a different legal person. This is **one Tennessee consolidated file**.
+Do not flatten TCRS into [CalPERS](/calpers-explained-largest-us-pension-fund/), [North Carolina Treasurer](/north-carolina-treasurer/), [City of Knoxville Pension System](/knoxville-pension/), or [Metropolitan Employees’ Benefit Trust](/nashville-employees/). North Carolina’s Treasurer book is a different legal person. Knoxville and Nashville are Tennessee city files. Later Knoxville teachers and later Nashville certificated teachers sit here; the City of Knoxville Pension System and the Metropolitan Employees’ Benefit Trust are different legal persons. This is **one Tennessee consolidated file**.
 
 ## What an owner is actually buying
 
 Counsel selling “Tennessee pension AUM” has to name the book. The **$74.9 billion** line is TCRS fiduciary net position. The **$74.8 billion** line is TCRS’s investment in TRGT. Those are not the same mandate.
 
-Do not 301 this page onto `/calpers-explained-largest-us-pension-fund/`, `/knoxville-pension/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/calpers-explained-largest-us-pension-fund/`, `/knoxville-pension/`, `/nashville-employees/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -50,5 +50,6 @@ Do not 301 this page onto `/calpers-explained-largest-us-pension-fund/`, `/knoxv
 - [North Carolina Treasurer](/north-carolina-treasurer/)
 - [Virginia Retirement System](/virginia-retirement-system/)
 - [City of Knoxville Pension System](/knoxville-pension/)
+- [Metropolitan Employees’ Benefit Trust](/nashville-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

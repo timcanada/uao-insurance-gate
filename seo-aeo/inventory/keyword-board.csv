@@ -647,5 +647,10 @@ P1,St. Paul Teachers’ Retirement Fund Association,allocator,both,/st-paul-teac
 P1,Police Retirement System of Kansas City,allocator,both,/kansas-city-police/,define,unknown,unknown,unknown,drafted-wave-134,Wave 134. Official FNP $1,028,622,529 at 30 Apr 2025. Do not mint /kcpers/
 P1,Civilian Employees’ Retirement System of the Police Department of Kansas City,allocator,both,/kansas-city-police-civilian/,define,unknown,unknown,unknown,drafted-wave-134,Wave 134. Official FNP $183,870,569 at 30 Apr 2025. Do not mint /kcpers-civilian/
 P1,Newport News Employees’ Retirement Fund,allocator,both,/newport-news-employees/,define,unknown,unknown,unknown,drafted-wave-134,Wave 134. Official FNP $1,150,643,142 at 30 Jun 2025. Do not mint /nnerf/
+P1,City of Roanoke Pension Plan,allocator,both,/roanoke-pension/,define,unknown,unknown,unknown,drafted-wave-135,Wave 135. Official FNP $498,374,571 at 30 Jun 2025. Do not mint /crpp/
+P1,Metropolitan Employees’ Benefit Trust,allocator,both,/nashville-employees/,define,unknown,unknown,unknown,drafted-wave-135,Wave 135. Official FNP $4,360,675,155 at 30 Jun 2025. Do not mint /mebs/
+P1,City of Atlanta Firefighters’ Pension Plan,allocator,both,/atlanta-firefighters/,define,unknown,unknown,unknown,drafted-wave-135,Wave 135. Official FNP $948,512 thousand at 30 Jun 2025. Do not mint /atlanta-fire/
+P1,City of Atlanta Police Officers’ Pension Plan,allocator,both,/atlanta-police/,define,unknown,unknown,unknown,drafted-wave-135,Wave 135. Official FNP $1,614,945 thousand at 30 Jun 2025. Do not mint /atlanta-police-explained/
+P1,City of Atlanta General Employees’ Pension Plan,allocator,both,/atlanta-general-employees/,define,unknown,unknown,unknown,drafted-wave-135,Wave 135. Official FNP $1,992,291 thousand at 30 Jun 2025. Do not mint /atlanta-ge/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

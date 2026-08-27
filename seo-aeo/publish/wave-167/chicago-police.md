@@ -50,6 +50,7 @@ Do not 301 this page onto `/chicago-fire-fabf/`, `/chicago-labf/`, `/chicago-tea
 - [Chicago LABF](/chicago-labf/)
 - [Chicago Teachers](/chicago-teachers/)
 - [Municipal Employees’ Annuity and Benefit Fund of Chicago](/chicago-meabf/)
+- [Park Employees’ Annuity and Benefit Fund of Chicago](/chicago-park-employees/)
 - [Cook County Pension](/cook-county-pension/)
 - [Illinois IPOPIF](/illinois-ipopif/)
 - [Advertise](/advertise/)

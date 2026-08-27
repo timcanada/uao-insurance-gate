@@ -54,5 +54,6 @@ Do not 301 this page onto `/chicago-teachers/`, `/cook-county-pension/`, `/illin
 - [Chicago LABF](/chicago-labf/)
 - [Policemen’s Annuity and Benefit Fund of Chicago](/chicago-police/)
 - [Municipal Employees’ Annuity and Benefit Fund of Chicago](/chicago-meabf/)
+- [Park Employees’ Annuity and Benefit Fund of Chicago](/chicago-park-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -593,6 +593,11 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,meabf,Chicago MEABF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 168 /chicago-meabf/. Not leftover Chicago Police /chicago-police/
 2,institution,chicago-municipal,Chicago Municipal (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 168 /chicago-meabf/
 2,institution,chicago-employees,Chicago Employees (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 168 /chicago-meabf/
+169,institution,chicago-park-employees,Park Employees Annuity and Benefit Fund of Chicago,allocator,brief,P0,drafted-in-repo,Wave 169. Official FNP $451,189,364 at 31 Dec 2025. Investment lines $418,638,177 are not FNP. GASB 33.4% is not actuarial-value 33.2%. Do not mint /peabf/ or /chicago-park/. Not leftover Chicago Police or Chicago MEABF
+2,institution,peabf,Chicago Park Employees (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 169 /chicago-park-employees/. /pabf/ remains Chicago Police
+2,institution,chicago-park,Chicago Park (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 169 /chicago-park-employees/
+2,institution,chicago-parks,Chicago Parks (plural),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 169 /chicago-park-employees/
+2,institution,chicago-park-pension,Chicago Park Pension (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 169 /chicago-park-employees/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

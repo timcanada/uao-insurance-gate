@@ -50,6 +50,7 @@ Do not 301 this page onto `/chicago-teachers/`, `/chicago-fire-fabf/`, `/cook-co
 - [Chicago Fire FABF](/chicago-fire-fabf/)
 - [Policemen’s Annuity and Benefit Fund of Chicago](/chicago-police/)
 - [Municipal Employees’ Annuity and Benefit Fund of Chicago](/chicago-meabf/)
+- [Park Employees’ Annuity and Benefit Fund of Chicago](/chicago-park-employees/)
 - [Cook County Pension](/cook-county-pension/)
 - [Cook County Forest Preserve](/cook-forest-preserve/)
 - [IMRF](/illinois-imrf/)

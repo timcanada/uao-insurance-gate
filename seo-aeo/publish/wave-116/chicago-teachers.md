@@ -55,6 +55,7 @@ Do not 301 this page onto `/illinois-trs/`, `/illinois-isbi/`, `/cook-county-pen
 - [Chicago LABF](/chicago-labf/)
 - [Policemen’s Annuity and Benefit Fund of Chicago](/chicago-police/)
 - [Municipal Employees’ Annuity and Benefit Fund of Chicago](/chicago-meabf/)
+- [Park Employees’ Annuity and Benefit Fund of Chicago](/chicago-park-employees/)
 - [Cook County Forest Preserve](/cook-forest-preserve/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

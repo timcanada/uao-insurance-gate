@@ -53,6 +53,13 @@ This wake locked **four** unique official 2025 house FS PDFs. Employees’ Retir
 - Coral Gables: latest house FS still YE 30 Sep 2024.
 - Toledo: leftover Ohio OP&F / OPERS, not a city house book.
 - Jersey City: 2025 city regulatory audit is not a pension-trust house FS.
+- Howard County Retirement remains Wave 129 — do not overwrite.
+- MWRA 2025 financial statements are the Authority ACFR (business-type plus fiduciary), not a standalone plan book.
+- New Britain CT 2025 city ACFR embeds pension-trust schedules; no discrete plan-only opinion.
+- Allegheny County ERS FY2025 house audit still unpublished.
+- Prince George’s MD house paths remain domain-wide **403**.
+- Louisiana Sheriffs LLA GET **200** remains the GASB 68 employer-allocation schedule, not the standalone FS.
+- Georgia Peace Officers still glossy annual only.
 - City/county ACFRs ≠ standalone house pension FS.
 - Statewide/pooled substitutes are not leftover city locks.
 - Already-current keepers: Wave 167–176.

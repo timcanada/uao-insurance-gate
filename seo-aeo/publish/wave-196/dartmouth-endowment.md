@@ -46,6 +46,7 @@ Do not 301 this page onto `/brown-endowment/`, `/cornell-endowment/`, `/dartmout
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Brown University endowment](/brown-endowment/)
+- [Tufts University endowment](/tufts-endowment/)
 - [Cornell University endowment](/cornell-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

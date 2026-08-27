@@ -47,6 +47,7 @@ Do not 301 this page onto `/emory-endowment/`, `/vanderbilt-endowment/`, `/rice/
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Vanderbilt University endowment](/vanderbilt-endowment/)
+- [Tulane University endowment](/tulane-endowment/)
 - [Emory University endowment](/emory-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

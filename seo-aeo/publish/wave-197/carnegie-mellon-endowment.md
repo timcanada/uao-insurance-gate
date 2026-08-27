@@ -45,6 +45,7 @@ Do not 301 this page onto `/caltech-endowment/`, `/mit-investment-management-com
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Caltech endowment](/caltech-endowment/)
+- [Case Western Reserve University endowment](/case-western-reserve-endowment/)
 - [MITIMCo](/mit-investment-management-company/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

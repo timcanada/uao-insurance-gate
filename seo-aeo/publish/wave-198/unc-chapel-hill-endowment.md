@@ -44,6 +44,7 @@ Do not 301 this page onto `/duke-university-endowment/`, `/university-of-virgini
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Duke University endowment](/duke-university-endowment/)
+- [Wake Forest University endowment](/wake-forest-endowment/)
 - [University of Virginia endowment](/university-of-virginia-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -1087,6 +1087,25 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,indiana,Indiana (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 198 /indiana-university-endowment/
 2,institution,iu,IU (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 198 /indiana-university-endowment/
 2,institution,iuf,IUF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 198 /indiana-university-endowment/
+199,institution,boston-college-endowment,Boston College endowment,allocator,brief,P0,drafted-in-repo,Wave 199. Official endowment net assets $4,309,996 thousand at 31 May 2025. Do not invent a percent. Do not mint /bc/. Not leftover Boston University
+2,institution,boston-college-endowment-explained,Boston College endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 199 /boston-college-endowment/
+2,institution,bc,BC (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 199 /boston-college-endowment/
+199,institution,tulane-endowment,Tulane University endowment,allocator,brief,P0,drafted-in-repo,Wave 199. Official total endowment funds $2,470,044 thousand at 30 Jun 2025. University-wide return $246,475 thousand is a different line. Do not mint /tulane/
+2,institution,tulane-endowment-explained,Tulane endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 199 /tulane-endowment/
+2,institution,tulane,Tulane (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 199 /tulane-endowment/
+199,institution,wake-forest-endowment,Wake Forest University endowment,allocator,brief,P0,drafted-in-repo,Wave 199. Official Reynolda endowment $1,235,785 thousand at 30 Jun 2025. WFUHS $913,904 thousand is a different book. Do not mint /wfu/ /wake/ /verger/
+2,institution,wake-forest-endowment-explained,Wake Forest endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 199 /wake-forest-endowment/
+2,institution,wfu,WFU (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 199 /wake-forest-endowment/
+2,institution,wake,Wake (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 199 /wake-forest-endowment/
+2,institution,verger,Verger (pool short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 199 /wake-forest-endowment/. Verger Fund I/II are pool vehicles
+199,institution,tufts-endowment,Tufts University endowment,allocator,brief,P0,drafted-in-repo,Wave 199. Official endowment net assets $2,760,867 thousand at 30 Jun 2025. TRP 10.0% / $2.9 billion is a different book. Do not mint /tufts/
+2,institution,tufts-endowment-explained,Tufts endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 199 /tufts-endowment/
+2,institution,tufts,Tufts (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 199 /tufts-endowment/
+199,institution,case-western-reserve-endowment,Case Western Reserve University endowment,allocator,brief,P0,drafted-in-repo,Wave 199. Official endowment and similar funds $2,169,059 thousand at 30 Jun 2025. Combined MD&A $2.5 billion / 5.1% is unaudited. Do not mint /cwru/ /case/ /case-western/
+2,institution,case-western-reserve-endowment-explained,CWRU endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 199 /case-western-reserve-endowment/
+2,institution,cwru,CWRU (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 199 /case-western-reserve-endowment/
+2,institution,case,Case (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 199 /case-western-reserve-endowment/
+2,institution,case-western,Case Western (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 199 /case-western-reserve-endowment/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

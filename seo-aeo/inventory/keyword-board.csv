@@ -833,3 +833,8 @@ P1,Michigan Judges Retirement System,allocator,both,/michigan-judges/,define,unk
 P1,Michigan Military Retirement Provisions,allocator,both,/michigan-military/,define,unknown,unknown,unknown,drafted-wave-190,Wave 190. Official pension FNP $75,173 thousand at 30 Sep 2025. Do not mint /mmrp/. Not leftover Michigan SERS
 P1,New York State Teachers Retirement System,allocator,both,/nystrs/,define,unknown,unknown,unknown,drafted-wave-191,Wave 191. Official FNP $154,193,125 thousand at 30 Jun 2025. Do not mint /trs/. Not leftover NYC Teachers
 P1,New Mexico PERA,allocator,both,/new-mexico-pera/,define,unknown,unknown,unknown,drafted-wave-191,Wave 191. Official PERA Fund FNP $18,630,230,548 at 30 Jun 2025. Do not mint /pera/. Not leftover New Mexico ERB
+P1,Sheriffs Retirement Fund of Georgia,allocator,both,/georgia-sheriffs/,define,unknown,unknown,unknown,drafted-wave-192,Wave 192. Official FNP $131,709,981 at 30 Jun 2025. Do not mint /srf/. Not leftover Georgia ERS
+P1,Montana Teachers Retirement System,allocator,both,/montana-trs/,define,unknown,unknown,unknown,drafted-wave-192,Wave 192. Official FNP $5,416,892,548 at 30 Jun 2025. Do not mint /trs/. Not leftover Montana MPERA
+P1,GEPF,allocator,both,/gepf/,define,unknown,unknown,unknown,drafted-wave-192,Wave 192. Official funds and reserves R2,651,120,439 thousand at 31 Mar 2025. Print rand. Do not mint /pic/
+P1,Notre Dame endowment,allocator,both,/notre-dame-endowment/,define,unknown,unknown,unknown,drafted-wave-192,Wave 192. Official NDEP $25,434,616 thousand at 30 Jun 2025. Do not mint /ndep/
+P1,Columbia University endowment,allocator,both,/columbia-endowment/,define,unknown,unknown,unknown,drafted-wave-192,Wave 192. Official endowment $15,917,490 thousand at 30 Jun 2025. Do not mint /columbia/

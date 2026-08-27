@@ -27,13 +27,13 @@ The combining statements are in **thousands**. The sourced split is:
 2. **Named books on the defined-benefit combining statement.** Employees’ Retirement System **$18,637,570 thousand**. Public School Employees Retirement System **$1,314,006 thousand**. Legislative Retirement System **$44,534 thousand**. Georgia Judicial Retirement System **$638,760 thousand**. Georgia Military Pension Fund **$52,580 thousand**. State Employees’ Assurance Department OPEB **$1,709,232 thousand**. Defined-benefit plans total **$22,396,690 thousand**. The Georgia Defined Contribution Plan **$160,570 thousand**, 401(k) Plan **$2,812,736 thousand**, and 457 Plan **$828,249 thousand** sit on the wider pensions-and-OPEB combining total. Those lines are not interchangeable. Georgia PSERS here is the Georgia public-school-employee book for members who are **not** in [Georgia TRS](/georgia-trs/). Do not flatten it onto [Pennsylvania PSERS](/pennsylvania-psers/) or [Georgia TRS](/georgia-trs/).
 3. **Returns.** Time-weighted return **12.0 percent**. Money-weighted return **12.6 percent**. Equity sleeve **14.5 percent**. Those three return lines are not interchangeable.
 
-Do not flatten Georgia ERS into [Pennsylvania PSERS](/pennsylvania-psers/), [Ohio SERS](/ohio-sers/), [Atlanta Firefighters’ Pension Plan](/atlanta-firefighters/), [Atlanta Police Officers’ Pension Plan](/atlanta-police/), or [Atlanta General Employees’ Pension Plan](/atlanta-general-employees/). Pennsylvania PSERS is the Pennsylvania school file. The three Atlanta city books are different legal persons. This is **one Georgia public-employee administrator file**.
+Do not flatten Georgia ERS into [Pennsylvania PSERS](/pennsylvania-psers/), [Ohio SERS](/ohio-sers/), [Georgia Firefighters’ Pension Fund](/georgia-firefighters/), [Sheriffs’ Retirement Fund of Georgia](/georgia-sheriffs/), [Atlanta Firefighters’ Pension Plan](/atlanta-firefighters/), [Atlanta Police Officers’ Pension Plan](/atlanta-police/), or [Atlanta General Employees’ Pension Plan](/atlanta-general-employees/). Pennsylvania PSERS is the Pennsylvania school file. Georgia Sheriffs is the statewide sheriffs file. The three Atlanta city books are different legal persons. This is **one Georgia public-employee administrator file**.
 
 ## What an owner is actually buying
 
 Counsel selling “Georgia employees’ AUM” has to name the book. The **$26.47 billion** line is combined fiduciary net position. The **$18.64 billion** line is the Employees’ Retirement System defined-benefit plan. The **$1.31 billion** line is Georgia PSERS. Those are not the same mandate.
 
-Do not 301 this page onto `/pennsylvania-psers/`, `/georgia-trs/`, `/atlanta-firefighters/`, `/atlanta-police/`, `/atlanta-general-employees/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/pennsylvania-psers/`, `/georgia-trs/`, `/georgia-sheriffs/`, `/atlanta-firefighters/`, `/atlanta-police/`, `/atlanta-general-employees/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -48,6 +48,7 @@ Do not 301 this page onto `/pennsylvania-psers/`, `/georgia-trs/`, `/atlanta-fir
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Georgia TRS](/georgia-trs/)
 - [Georgia Firefighters’ Pension Fund](/georgia-firefighters/)
+- [Sheriffs’ Retirement Fund of Georgia](/georgia-sheriffs/)
 - [Atlanta Firefighters’ Pension Plan](/atlanta-firefighters/)
 - [Atlanta Police Officers’ Pension Plan](/atlanta-police/)
 - [Atlanta General Employees’ Pension Plan](/atlanta-general-employees/)

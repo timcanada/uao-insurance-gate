@@ -27,13 +27,13 @@ The statement of fiduciary net position, the GASB net-pension-liability note, an
 2. **GASB cards.** Total pension liability **$1,897,062,210**. Plan fiduciary net position **$1,396,760,413**. Employers’ and nonemployers’ net pension liability **$500,301,797**. Plan fiduciary net position as a percentage of total pension liability **73.63 percent**. The transmittal actuarial funded ratio **86.7 percent** is a different card. Do not treat **$1,897,062,210** as AUM. Discount rate / expected return **5.75 percent**. Securities loaned **$93,801,030** are not a second AUM.
 3. **Returns and cash flow.** Notes money-weighted return **11.8 percent** net of investment expense for the year ended **30 June 2025** (2024 **11.4 percent**). Time-weighted return **11.7 percent**. Nonemployer insurance-premium-tax contributions **$63,941,068**. Member contributions **$4,292,174**. Other fees **$817,875**. Net investment income **$145,389,089**. Total additions **$214,440,206**. Benefit payments **$71,733,960**. Refunds of member contributions **$1,167,131**. Administrative expenses, net **$1,822,326**. Total deductions **$74,723,417**. Greg S. Griffin, State Auditor, dated the independent auditor’s report **5 June 2026**.
 
-Do not flatten the Georgia Firefighters’ Pension Fund into [Georgia ERS](/georgia-ers/), [Georgia TRS](/georgia-trs/), [Atlanta Firefighters’ Pension Plan](/atlanta-firefighters/), [Illinois FPIF](/illinois-fpif/), or [Bloomington Firemen’s Pension Fund](/bloomington-fire/). Georgia ERS is the statewide public-employee administrator. Georgia TRS is the teacher file. Atlanta Firefighters is one city book. FPIF is Illinois’s Article 4 investment pool. Bloomington Fire is one Illinois city book. This is **one Georgia statewide supplemental firefighter file**.
+Do not flatten the Georgia Firefighters’ Pension Fund into [Georgia ERS](/georgia-ers/), [Georgia TRS](/georgia-trs/), [Sheriffs’ Retirement Fund of Georgia](/georgia-sheriffs/), [Atlanta Firefighters’ Pension Plan](/atlanta-firefighters/), [Illinois FPIF](/illinois-fpif/), or [Bloomington Firemen’s Pension Fund](/bloomington-fire/). Georgia ERS is the statewide public-employee administrator. Georgia TRS is the teacher file. Georgia Sheriffs is the statewide sheriffs file. Atlanta Firefighters is one city book. FPIF is Illinois’s Article 4 investment pool. Bloomington Fire is one Illinois city book. This is **one Georgia statewide supplemental firefighter file**.
 
 ## What an owner is actually buying
 
 Counsel selling “Georgia firefighter AUM” has to name the book. The **$1,396,760,413** line is plan net position at **30 June 2025**. The **$1,316,532,705** line is investments. The **$1,897,062,210** line is total pension liability, not assets. The **11.8 percent** card is money-weighted. The **86.7 percent** card is actuarial funded status, not GASB. Those are not leftover Georgia ERS Combined **$26,469,880 thousand**.
 
-Do not 301 this page onto `/georgia-ers/`, `/georgia-trs/`, `/atlanta-firefighters/`, `/illinois-fpif/`, `/gfpf/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/georgia-ers/`, `/georgia-trs/`, `/georgia-sheriffs/`, `/atlanta-firefighters/`, `/illinois-fpif/`, `/gfpf/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -48,6 +48,7 @@ Do not 301 this page onto `/georgia-ers/`, `/georgia-trs/`, `/atlanta-firefighte
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Georgia ERS](/georgia-ers/)
 - [Georgia TRS](/georgia-trs/)
+- [Sheriffs’ Retirement Fund of Georgia](/georgia-sheriffs/)
 - [Atlanta Firefighters’ Pension Plan](/atlanta-firefighters/)
 - [Bloomington Firemen’s Pension Fund](/bloomington-fire/)
 - [Advertise](/advertise/)

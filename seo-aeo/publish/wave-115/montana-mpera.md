@@ -17,7 +17,7 @@ editor_status: draft
 
 The Montana Public Employees’ Retirement Board is Montana’s combined public-employee administrator, not leftover Minnesota SBI and not leftover Montana Teachers’ Retirement System. The official [fiscal year 2025 financial statements](https://archive.legmt.gov/content/Committees/Administration/audit/2025-26/Meetings/April-2026/25-08.pdf) print defined-benefit fiduciary net position restricted of **$10,563,079 thousand** at **30 June 2025**. The PERS defined-benefit book was **$7,631,553 thousand**. The defined-contribution book was **$578,928 thousand**. The 457(b) book was **$692,256 thousand**. Those four lines are not interchangeable. PERS net return was **9.46 percent**. PERS money-weighted return was **9.45 percent**. This page is not a ranking and not advice.
 
-**Do not treat this page as a leftover Minnesota SBI overwrite or a Montana Teachers’ Retirement System page.** Montana TRS is a different legal person. Do not mint `/montana-pers/`, `/mpera/`, or `/montana-mpera-explained/`. Do not mint `/montana-trs/`.
+**Do not treat this page as a leftover Minnesota SBI overwrite or a Montana Teachers’ Retirement System page.** The teacher keeper is now [Montana Teachers’ Retirement System](/montana-trs/). Do not mint `/montana-pers/`, `/mpera/`, or `/montana-mpera-explained/`.
 
 ## What is official (30 June 2025)
 
@@ -27,13 +27,13 @@ The statements are in **thousands**. The Legislative Audit Division issued an un
 2. **Named defined-benefit books.** PERS-DBRP **$7,631,553 thousand**. Judges’ Retirement System **$147,235 thousand**. Highway Patrol Officers’ **$238,886 thousand**. Sheriffs’ **$611,333 thousand**. Game Wardens’ and Peace Officers’ **$383,859 thousand**. Municipal Police Officers’ **$690,179 thousand**. Firefighters’ Unified **$787,155 thousand**. Volunteer Firefighters’ Compensation Act **$60,399 thousand**. PERS-DCRP Disability OPEB **$12,480 thousand**. Those lines are not interchangeable.
 3. **Returns.** PERS realized a **9.46 percent** net return in fiscal year 2025. Since-inception annualized net **7.81 percent**, against the **7.30 percent** assumed rate. Annual money-weighted returns, net of investment expense: PERS-DBRP **9.45 percent**. Judges’ **9.46 percent**. Highway Patrol Officers’ **9.45 percent**. Sheriffs’ **9.46 percent**. Those two official PERS prints are not interchangeable. GASB 67 fiduciary net position as a percentage of total pension liability for PERS-DBRP **76.32 percent**.
 
-Do not flatten MPERA into [Minnesota SBI](/minnesota-sbi/) or [Wyoming Retirement System](/wyoming-retirement-system/). Minnesota SBI is the Minnesota investment-board file. This is **one Montana public-employee administrator file**.
+Do not flatten MPERA into [Minnesota SBI](/minnesota-sbi/), [Wyoming Retirement System](/wyoming-retirement-system/), [Montana Teachers’ Retirement System](/montana-trs/), or leftover [Sheriffs’ Retirement Fund of Georgia](/georgia-sheriffs/). Minnesota SBI is the Minnesota investment-board file. Montana TRS is the teacher file. Georgia Sheriffs is a Georgia book, not the MPERA sheriffs sleeve. This is **one Montana public-employee administrator file**.
 
 ## What an owner is actually buying
 
 Counsel selling “Montana PERS AUM” has to name the book. The **$10,563,079 thousand** line is the combined defined-benefit fiduciary book. The **$7,631,553 thousand** line is PERS-DBRP. The **$578,928 thousand** line is defined contribution. Those are not the same mandate.
 
-Do not 301 this page onto `/minnesota-sbi/`, `/wyoming-retirement-system/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/minnesota-sbi/`, `/wyoming-retirement-system/`, `/montana-trs/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -47,6 +47,7 @@ Do not 301 this page onto `/minnesota-sbi/`, `/wyoming-retirement-system/`, or `
 - [Public pension funds](/public-pension-funds/)
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Wyoming Retirement System](/wyoming-retirement-system/)
+- [Montana Teachers’ Retirement System](/montana-trs/)
 - [Idaho PERSI](/idaho-persi/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

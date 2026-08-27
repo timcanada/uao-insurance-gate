@@ -47,6 +47,8 @@ Do not 301 this page onto `/largest-university-endowments-2026/`, `/yale-endowme
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [Yale endowment model](/yale-endowment-model/)
 - [UTIMCO](/utimco/)
+- [Notre Dame endowment](/notre-dame-endowment/)
+- [Columbia University endowment](/columbia-endowment/)
 - [Endowment vs foundation investing](/endowment-vs-foundation-investing/)
 - [Relocating to Boston](/careers/cities/boston/)
 - [Advertise](/advertise/)

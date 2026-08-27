@@ -55,7 +55,7 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,nps-korea,National Pension Service (Korea),allocator,brief,P0,refresh-drafted,Public pension — Wave 16 overwrites /national-pension-service-korea-explained/ (KRW 1,848.7tn at end-May 2026)
 2,institution,epfo-india,EPFO (India),allocator,brief,P0,needed,Public pension
 2,institution,employees-provident-fund-malaysia,EPF Malaysia,allocator,brief,P0,refresh-drafted,Public pension — Wave 21 overwrites /epf-malaysia-employees-provident-fund-explained/ (RM1,409bn at 31 Dec 2025; live RM950bn / USD 190bn). 301 /epf-malaysia/ after paste. No USD AUM
-2,institution,gepf-south-africa,GEPF,allocator,brief,P0,needed,Public pension
+2,institution,gepf-south-africa,GEPF South Africa (long),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 192 /gepf/
 2,institution,pic-south-africa,Public Investment Corporation,allocator,brief,P0,needed,Public pension
 104,institution,previ-brazil,Previ,allocator,brief,P0,drafted-in-repo,Wave 104. Official R$ 302 billion order. Print reais. Do not mint /previ/
 2,institution,afore-xxi-banorte,Afore XXI Banorte,allocator,brief,P0,needed,Do not mint this short of Wave 101 /what-is-an-afore/. Institution page later needs a longer slug + three sourced facts. No invented house AUM
@@ -937,6 +937,24 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 191,institution,new-mexico-pera,New Mexico PERA,allocator,brief,P0,drafted-in-repo,Wave 191. Official PERA Fund FNP $18,630,230,548 at 30 Jun 2025. Do not mint /pera/ or /nmpera/. Not leftover New Mexico ERB
 2,institution,new-mexico-pera-explained,New Mexico PERA explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 191 /new-mexico-pera/
 2,institution,nmpera,NMPERA (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 191 /new-mexico-pera/. /pera/ remains Colorado PERA
+192,institution,georgia-sheriffs,Georgia Sheriffs Retirement Fund,allocator,brief,P0,drafted-in-repo,Wave 192. Official FNP $131,709,981 at 30 Jun 2025. Do not mint /srf/ or /gsrf/. Not leftover Georgia ERS
+2,institution,georgia-sheriffs-explained,Georgia Sheriffs explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 192 /georgia-sheriffs/
+2,institution,gsrf,GSRF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 192 /georgia-sheriffs/
+2,institution,srf,SRF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 192 /georgia-sheriffs/
+2,institution,sheriffs,Sheriffs (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 192 /georgia-sheriffs/
+192,institution,montana-trs,Montana Teachers Retirement System,allocator,brief,P0,drafted-in-repo,Wave 192. Official FNP $5,416,892,548 at 30 Jun 2025. Do not mint /trs/ or /montana-teachers/. Not leftover Montana MPERA
+2,institution,montana-trs-explained,Montana TRS explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 192 /montana-trs/
+2,institution,montana-teachers,Montana Teachers (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 192 /montana-trs/. /trs/ remains reserved
+192,institution,gepf,GEPF,allocator,brief,P0,drafted-in-repo,Wave 192. Official funds and reserves R2,651,120,439 thousand at 31 Mar 2025. Print rand. Do not mint /pic/ or /gepf-south-africa/
+2,institution,gepf-explained,GEPF explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 192 /gepf/
+2,institution,pic,PIC (short),allocator,brief,P0,do-not-mint,Do not mint. Reserved. PIC is a different legal person from Wave 192 /gepf/. Draft PIC later on a longer slug if official AUM locks
+192,institution,columbia-endowment,Columbia University endowment,allocator,brief,P0,drafted-in-repo,Wave 192. Official endowment $15,917,490 thousand at 30 Jun 2025. Do not mint /columbia/ or /cimc/
+2,institution,columbia-endowment-explained,Columbia endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 192 /columbia-endowment/
+2,institution,columbia,Columbia (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 192 /columbia-endowment/
+2,institution,cimc,CIMC (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 192 /columbia-endowment/
+2,institution,notre-dame-endowment-explained,Notre Dame endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 192 /notre-dame-endowment/
+2,institution,ndep,NDEP (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 192 /notre-dame-endowment/
+2,institution,notre-dame,Notre Dame (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 192 /notre-dame-endowment/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic
@@ -967,9 +985,9 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,yale-endowment-model-merge,Yale model — merge twins,allocator,brief,P1,merge,merge
 2,institution,harvard-vs-yale-endowment,Harvard vs Yale endowment,allocator,brief,P0,needed,Comparison
 2,institution,princeton-vs-stanford-endowment,Princeton vs Stanford,allocator,brief,P0,needed,Comparison
-2,institution,notre-dame-endowment,Notre Dame endowment,allocator,brief,P0,needed,Endowment
+192,institution,notre-dame-endowment,Notre Dame endowment,allocator,brief,P0,drafted-in-repo,Wave 192. Official NDEP $25,434,616 thousand at 30 Jun 2025. Do not mint /ndep/ or /notre-dame/
 2,institution,duke-endowment-vs-duke-university,Duke (disambiguation),allocator,brief,P0,needed,Endowment
-2,institution,columbia-investment-management,Columbia IMC,allocator,brief,P0,needed,Endowment
+2,institution,columbia-investment-management,Columbia IMC,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 192 /columbia-endowment/
 2,institution,upenn-investment-office,Penn investment office,allocator,brief,P0,needed,Endowment
 2,institution,chicago-endowment,University of Chicago endowment,allocator,brief,P0,needed,Endowment
 2,institution,northwestern-endowment,Northwestern endowment,allocator,brief,P0,needed,Endowment

@@ -27,7 +27,7 @@ The statements of plan net position, the GASB note, and the money-weighted print
 2. **GASB cards.** Notes IBEW total pension liability **$108,157,974**. IBEW net pension liability **$16,262,547**. IBEW plan fiduciary net position as a percentage of total pension liability **84.96 percent**. ATU **84.70 percent**, Salaried **79.88 percent**, and combined MD&A **82.9 percent** are not the IBEW card. Do not treat **$108,157,974** or **$16,262,547** as AUM. Discount rate **6.75 percent**. The **6.75 percent** discount is not the money-weighted card.
 3. **Returns and cash flow.** Notes annual money-weighted return **11.90 percent** net of pension-plan investment expense for the year ended **30 June 2025**. RSI **11.90 percent** is the same card (2024 **10.97 percent**). Notes say assets are commingled for economies of scale — that shared-pool print is still the official money-weighted card. MD&A gross **12.38 percent** versus benchmark **12.08 percent** is not money-weighted. Combined MD&A employer contributions are not the IBEW column. Crowe LLP, Sacramento, California, dated the unmodified opinion **2 December 2025**.
 
-Do not flatten the IBEW Local 1245 plan into leftover [Retirement Plan for Sacramento Regional Transit District Employees who are Members of ATU Local 256](/sacrt-atu/), leftover [Sacramento Regional Transit District Retirement Plan for AFSCME, AEA, and Non-Represented Employees](/sacrt-salaried/), leftover [Sacramento County Employees’ Retirement System](/sacramento-scers/), leftover [CalPERS](/calpers-explained-largest-us-pension-fund/). ATU is a different SacRT bargaining-unit file. This is **one SacRT IBEW plan file**.
+Do not flatten the IBEW Local 1245 plan into leftover [Retirement Plan for Sacramento Regional Transit District Employees who are Members of ATU Local 256](/sacrt-atu/), leftover [Sacramento Regional Transit District Retirement Plan for AFSCME, AEA, and Non-Represented Employees](/sacrt-salaried/), leftover [Sacramento County Employees’ Retirement System](/sacramento-scers/), leftover [CalPERS](/calpers-explained-largest-us-pension-fund/), leftover [Bi-State Development IBEW Employees’ Pension Plan](/bi-state-ibew/). ATU is a different SacRT bargaining-unit file. Bi-State IBEW is a Metro St. Louis file. This is **one SacRT IBEW plan file**.
 
 ## What an owner is actually buying
 
@@ -51,5 +51,6 @@ Do not 301 this page onto `/sacrt-atu/`, `/sacrt-salaried/`, `/sacramento-scers/
 - [Sacramento County Employees’ Retirement System](/sacramento-scers/)
 - [Santa Clara Valley Transportation Authority ATU Pension Plan](/vta-atu/)
 - [CalPERS](/calpers-explained-largest-us-pension-fund/)
+- [Bi-State Development IBEW Employees’ Pension Plan](/bi-state-ibew/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

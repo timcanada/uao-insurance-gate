@@ -848,6 +848,24 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 185,institution,iowa-judicial,Iowa Judicial Retirement System,allocator,brief,P0,drafted-in-repo,Wave 185. Official FNP $300,885,184 at 30 Jun 2025. Do not mint /jrs/. /jrs/ remains Illinois JRS
 2,institution,iowa-judicial-explained,Iowa Judicial explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 185 /iowa-judicial/
 2,institution,iowa,Iowa (short),allocator,brief,P0,do-not-mint,Do not mint. Flattens IPERS vs PORS vs Judicial vs MFPRSI
+186,institution,rta-pension,Regional Transportation Authority Pension Plan,allocator,brief,P0,drafted-in-repo,Wave 186. Official FNP $517,819,947 at 31 Dec 2025. Do not mint /rta/ or /cta/. Not leftover MBTA
+2,institution,rta-pension-explained,RTA Pension explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 186 /rta-pension/
+2,institution,rta,RTA (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 186 /rta-pension/
+2,institution,chicago-rta,Chicago RTA (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 186 /rta-pension/
+2,institution,cta,CTA (short),allocator,brief,P0,do-not-mint,Do not mint. Flattens unpublished CTA Employees Retirement onto Wave 186 /rta-pension/. CTA is a different legal person
+186,institution,st-louis-police,Police Retirement System of St. Louis,allocator,brief,P0,drafted-in-repo,Wave 186. Official FNP $998,763,980 at 30 Sep 2025. Do not mint /stlprs/ or /prs/. Not leftover St. Louis ERS
+2,institution,st-louis-police-explained,St Louis Police explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 186 /st-louis-police/
+2,institution,stlprs,STLPRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 186 /st-louis-police/
+2,institution,st-louis-prs,St Louis PRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 186 /st-louis-police/
+2,institution,prs,PRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 186 /st-louis-police/
+186,institution,bi-state-ibew,Bi-State Development IBEW Employees Pension Plan,allocator,brief,P0,drafted-in-repo,Wave 186. Official FNP $7,898,501 at 31 Mar 2025. Do not mint /ibew/ or /bi-state/. Not leftover Bi-State ATU 788
+2,institution,bi-state-ibew-explained,Bi-State IBEW explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 186 /bi-state-ibew/
+2,institution,ibew,IBEW (short),allocator,brief,P0,do-not-mint,Do not mint. Flattens SacRT IBEW and Wave 186 /bi-state-ibew/
+186,institution,bi-state-atu-788,Bi-State Development ATU 788 Employees Pension Plan,allocator,brief,P0,drafted-in-repo,Wave 186. Official FNP $177,976,162 at 31 Mar 2025. Do not mint /atu/ or /bi-state/. Not leftover Bi-State IBEW
+2,institution,bi-state-atu-788-explained,Bi-State ATU 788 explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 186 /bi-state-atu-788/
+2,institution,bi-state,Bi-State (short),allocator,brief,P0,do-not-mint,Do not mint. Flattens Wave 186 /bi-state-ibew/ vs /bi-state-atu-788/
+2,institution,atu,ATU (short),allocator,brief,P0,do-not-mint,Do not mint. Flattens VTA ATU, SacRT ATU, and Wave 186 /bi-state-atu-788/
+2,institution,metro-st-louis,Metro St Louis (short),allocator,brief,P0,do-not-mint,Do not mint. Flattens Wave 186 Bi-State books. Do not mint /metro/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

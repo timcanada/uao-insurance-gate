@@ -51,6 +51,8 @@ Do not 301 this page onto `/illinois-isbi/`, `/iowa-ipers/`, `/missouri-lagers/`
 - [Missouri PSRS and PEERS](/missouri-psrs-peers/)
 - [St. Louis ERS](/st-louis-ers/)
 - [Firemen’s Retirement System of St. Louis](/st-louis-firemen/)
+- [Police Retirement System of St. Louis](/st-louis-police/)
+- [Bi-State Development ATU 788 Employees’ Pension Plan](/bi-state-atu-788/)
 - [Police Retirement System of Kansas City](/kansas-city-police/)
 - [Civilian Employees’ Retirement System of the Police Department of Kansas City](/kansas-city-police-civilian/)
 - [City of Kansas City, Missouri The Employees’ Retirement System](/kansas-city-employees/)

@@ -49,5 +49,6 @@ Do not 301 this page onto `/virginia-retirement-system/`, `/newport-news-employe
 - [Virginia Retirement System](/virginia-retirement-system/)
 - [Newport News Employees’ Retirement Fund](/newport-news-employees/)
 - [Richmond Retirement System](/richmond-retirement/)
+- [Employees’ Retirement System of the City of Danville, Virginia](/danville-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

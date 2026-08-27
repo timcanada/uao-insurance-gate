@@ -51,5 +51,6 @@ Do not 301 this page onto `/virginia-retirement-system/`, `/fairfax-ers/`, `/ric
 - [Richmond Retirement System](/richmond-retirement/)
 - [Norfolk Employees’ Retirement System](/norfolk-employees/)
 - [City of Roanoke Pension Plan](/roanoke-pension/)
+- [Employees’ Retirement System of the City of Danville, Virginia](/danville-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

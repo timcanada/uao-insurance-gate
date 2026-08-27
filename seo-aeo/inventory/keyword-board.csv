@@ -773,5 +773,6 @@ P1,Clair T Singerman Employees Retirement System,allocator,both,/north-miami-emp
 P1,Employees Retirement System of the County of Milwaukee,allocator,both,/milwaukee-county-ers/,define,unknown,unknown,unknown,drafted-wave-177,Wave 177. Official FNP $1,853,329,110 at 31 Dec 2025. Never mint /cmers/. Not leftover Milwaukee City ERS
 P1,Medford Contributory Retirement System,allocator,both,/medford-retirement/,define,unknown,unknown,unknown,drafted-wave-177,Wave 177. Official FNP $293,651,697 at 31 Dec 2025. Do not mint /mcrs/. Not leftover Boston Retirement
 P1,New Castle County Delaware Employees Pension Program,allocator,both,/new-castle-county-employees/,define,unknown,unknown,unknown,drafted-wave-177,Wave 177. Official FNP $574,460,128 at 30 Jun 2025. Never mint /dpers/. Not leftover DPERS
+P1,Employees Retirement System of the City of Danville Virginia,allocator,both,/danville-employees/,define,unknown,unknown,unknown,drafted-wave-177,Wave 177. Official FNP $310,940,889 at 30 Jun 2025. Never mint /hers/ or /ers/. Not leftover VRS
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

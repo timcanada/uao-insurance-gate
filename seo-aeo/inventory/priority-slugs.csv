@@ -702,6 +702,10 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,nccers,NCCERS (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 177 /new-castle-county-employees/. /dpers/ remains Delaware PERS
 2,institution,newcastle,Newcastle (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 177 /new-castle-county-employees/
 2,institution,new-castle,New Castle (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 177 /new-castle-county-employees/
+177,institution,danville-employees,Danville VA Employees Retirement System,allocator,brief,P0,drafted-in-repo,Wave 177. Official FNP $310,940,889 at 30 Jun 2025. Investments $310,264,177 are not FNP. GASB 100.7%. Notes/RSI MWR 10.88%. Investment-section 11.60% is time-weighted gross. Never mint /hers/ or /ers/. Not leftover VRS
+2,institution,danville-employees-explained,Danville Employees explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 177 /danville-employees/
+2,institution,danville-ers,Danville ERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 177 /danville-employees/. /ers/ remains Texas ERS
+2,institution,danville,Danville (city short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 177 /danville-employees/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

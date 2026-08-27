@@ -47,6 +47,7 @@ Do not 301 this page onto `/illinois-sers/`, `/illinois-imrf/`, `/illinois-ipopi
 - [Public pension funds](/public-pension-funds/)
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Illinois IPOPIF](/illinois-ipopif/)
+- [Bloomington Firemen’s Pension Fund](/bloomington-fire/)
 - [IMRF](/illinois-imrf/)
 - [Houston Firefighters](/houston-hfrrf/)
 - [Cook County Pension](/cook-county-pension/)

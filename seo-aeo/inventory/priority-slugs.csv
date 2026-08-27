@@ -545,6 +545,12 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,gppf,Grayslake Police (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 157 /grayslake-police/
 158,institution,champaign-police,Champaign Police Pension Fund,allocator,brief,P0,drafted-in-repo,Wave 158. Official plan net position $185,698,617 at 30 Jun 2025. Do not mint /cppf/ or /champaign/
 2,institution,cppf,Champaign Police (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 158 /champaign-police/
+159,institution,bloomington-police,Bloomington Police Pension Fund,allocator,brief,P0,drafted-in-repo,Wave 159. Official plan net position $126,172,229 at 30 Apr 2025. Do not mint /bloomington/ or /bppf/
+2,institution,bppf,Bloomington Police (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 159 /bloomington-police/. Not Bloomington IN
+159,institution,bloomington-fire,Bloomington Firemen's Pension Fund,allocator,brief,P0,drafted-in-repo,Wave 159. Official plan net position $109,795,018 at 30 Apr 2025. Do not mint /bloomington/ or /bfpf/
+2,institution,bfpf,Bloomington Fire (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 159 /bloomington-fire/. Not Bloomington IN
+159,institution,georgia-firefighters,Georgia Firefighters' Pension Fund,allocator,brief,P0,drafted-in-repo,Wave 159. Official FNP $1,396,760,413 at 30 Jun 2025. Do not mint /gfpf/ or /gffpf/ or /frs/
+2,institution,gfpf,Georgia Firefighters (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 159 /georgia-firefighters/. /frs/ is Louisiana FRS
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

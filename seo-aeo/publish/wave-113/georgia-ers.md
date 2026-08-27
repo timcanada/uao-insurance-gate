@@ -47,6 +47,7 @@ Do not 301 this page onto `/pennsylvania-psers/`, `/georgia-trs/`, `/atlanta-fir
 - [Public pension funds](/public-pension-funds/)
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Georgia TRS](/georgia-trs/)
+- [Georgia Firefighters’ Pension Fund](/georgia-firefighters/)
 - [Atlanta Firefighters’ Pension Plan](/atlanta-firefighters/)
 - [Atlanta Police Officers’ Pension Plan](/atlanta-police/)
 - [Atlanta General Employees’ Pension Plan](/atlanta-general-employees/)

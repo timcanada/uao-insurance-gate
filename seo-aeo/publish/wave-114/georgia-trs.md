@@ -47,6 +47,7 @@ Do not 301 this page onto `/georgia-ers/`, `/texas-teacher-retirement-system-exp
 - [Public pension funds](/public-pension-funds/)
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Georgia ERS](/georgia-ers/)
+- [Georgia Firefighters’ Pension Fund](/georgia-firefighters/)
 - [Atlanta Firefighters’ Pension Plan](/atlanta-firefighters/)
 - [Atlanta Police Officers’ Pension Plan](/atlanta-police/)
 - [Atlanta General Employees’ Pension Plan](/atlanta-general-employees/)

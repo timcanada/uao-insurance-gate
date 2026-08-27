@@ -48,6 +48,7 @@ Do not 301 this page onto `/springfield-police/`, `/illinois-ipopif/`, `/graysla
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Springfield Police Pension Fund](/springfield-police/)
 - [Champaign Police Pension Fund](/champaign-police/)
+- [Bloomington Police Pension Fund](/bloomington-police/)
 - [Illinois IPOPIF](/illinois-ipopif/)
 - [Jacksonville Police and Fire Pension Fund](/jacksonville-police-fire/)
 - [Portland Fire and Police Disability and Retirement Funds](/portland-fpdr/)

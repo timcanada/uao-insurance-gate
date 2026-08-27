@@ -48,6 +48,7 @@ Do not 301 this page onto `/georgia-ers/`, `/georgia-trs/`, `/atlanta-police/`, 
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Atlanta Police Officers’ Pension Plan](/atlanta-police/)
 - [Atlanta General Employees’ Pension Plan](/atlanta-general-employees/)
+- [Georgia Firefighters’ Pension Fund](/georgia-firefighters/)
 - [Georgia ERS](/georgia-ers/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -52,5 +52,6 @@ Do not 301 this page onto `/illinois-ipopif/`, `/jacksonville-police-fire/`, `/s
 - [Portland Fire and Police Disability and Retirement Funds](/portland-fpdr/)
 - [Village of Grayslake Police Pension Fund](/grayslake-police/)
 - [Champaign Police Pension Fund](/champaign-police/)
+- [Bloomington Police Pension Fund](/bloomington-police/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -48,6 +48,8 @@ Do not 301 this page onto `/springfield-police/`, `/grayslake-police/`, `/illino
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Springfield Police Pension Fund](/springfield-police/)
 - [Village of Grayslake Police Pension Fund](/grayslake-police/)
+- [Bloomington Police Pension Fund](/bloomington-police/)
+- [Bloomington Firemen’s Pension Fund](/bloomington-fire/)
 - [Illinois IPOPIF](/illinois-ipopif/)
 - [SURS](/illinois-surs/)
 - [Advertise](/advertise/)

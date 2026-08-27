@@ -724,5 +724,8 @@ P1,Portland Fire and Police Disability and Retirement Funds,allocator,both,/port
 P1,Springfield Police Pension Fund,allocator,both,/springfield-police/,define,unknown,unknown,unknown,drafted-wave-156,Wave 156. Official plan net position $230,239,333 at 28 Feb 2025. Do not mint /spd-pension/ or /springfield-police-explained/ or /springfield/
 P1,Village of Grayslake Police Pension Fund,allocator,both,/grayslake-police/,define,unknown,unknown,unknown,drafted-wave-157,Wave 157. Official net position $35,863,900 at 30 Apr 2025. Do not mint /grayslake/ or /gppf/
 P1,Champaign Police Pension Fund,allocator,both,/champaign-police/,define,unknown,unknown,unknown,drafted-wave-158,Wave 158. Official plan net position $185,698,617 at 30 Jun 2025. Do not mint /cppf/ or /champaign/
+P1,Bloomington Police Pension Fund,allocator,both,/bloomington-police/,define,unknown,unknown,unknown,drafted-wave-159,Wave 159. Official plan net position $126,172,229 at 30 Apr 2025. Do not mint /bloomington/ or /bppf/
+P1,Bloomington Firemen's Pension Fund,allocator,both,/bloomington-fire/,define,unknown,unknown,unknown,drafted-wave-159,Wave 159. Official plan net position $109,795,018 at 30 Apr 2025. Do not mint /bloomington/ or /bfpf/
+P1,Georgia Firefighters' Pension Fund,allocator,both,/georgia-firefighters/,define,unknown,unknown,unknown,drafted-wave-159,Wave 159. Official FNP $1,396,760,413 at 30 Jun 2025. Do not mint /gfpf/ or /gffpf/ or /frs/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

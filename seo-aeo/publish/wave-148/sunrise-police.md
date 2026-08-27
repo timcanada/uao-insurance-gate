@@ -46,6 +46,7 @@ Do not 301 this page onto `/fort-lauderdale-police-fire/`, `/boca-raton-police-f
 - [What is a pension fund?](/what-is-a-pension-fund/)
 - [Public pension funds](/public-pension-funds/)
 - [Largest US public pensions](/largest-us-public-pension-funds/)
+- [City of Sunrise General Employees’ Retirement Plan](/sunrise-employees/)
 - [City of Fort Lauderdale Police and Firefighters’ Retirement System](/fort-lauderdale-police-fire/)
 - [City of Fort Lauderdale General Employees’ Retirement System](/fort-lauderdale-employees/)
 - [City of Boca Raton Police and Firefighters’ Retirement System](/boca-raton-police-fire/)

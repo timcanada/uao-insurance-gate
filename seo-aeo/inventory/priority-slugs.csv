@@ -529,6 +529,8 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,mbfp,Miami Beach Police and Fire (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 149 /miami-beach-police-fire/
 149,institution,miami-beach-employees,Miami Beach Employees Retirement Plan,allocator,brief,P0,drafted-in-repo,Wave 149. Official FNP $949,449,272 at 30 Sep 2025. Do not mint /mberp/ or /gepp/ or /ers/
 2,institution,mberp,Miami Beach Employees (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 149 /miami-beach-employees/
+150,institution,sunrise-employees,Sunrise General Employees Retirement Plan,allocator,brief,P0,drafted-in-repo,Wave 150. Official FNP $357,434,561 at 30 Sep 2025. Do not mint /sunrise-ge/ or /sunrise-gers/ or /gers/ or /gepp/
+2,institution,sunrise-ge,Sunrise Employees (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 150 /sunrise-employees/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

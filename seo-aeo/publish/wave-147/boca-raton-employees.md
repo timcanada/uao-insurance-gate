@@ -48,6 +48,7 @@ Do not 301 this page onto `/boca-raton-police-fire/`, `/fort-lauderdale-employee
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [City of Boca Raton Police and Firefighters’ Retirement System](/boca-raton-police-fire/)
 - [City of Fort Lauderdale General Employees’ Retirement System](/fort-lauderdale-employees/)
+- [City of Sunrise General Employees’ Retirement Plan](/sunrise-employees/)
 - [City of Hialeah Employees’ Retirement System](/hialeah-employees/)
 - [City of Lakeland Employees’ Pension and Retirement System](/lakeland-employees/)
 - [Advertise](/advertise/)

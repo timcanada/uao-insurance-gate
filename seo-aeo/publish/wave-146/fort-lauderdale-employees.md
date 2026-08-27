@@ -51,6 +51,7 @@ Do not 301 this page onto `/hialeah-employees/`, `/miami-gese/`, `/gers/`, or `/
 - [City of Lakeland Employees’ Pension and Retirement System](/lakeland-employees/)
 - [Palm Beach Gardens Police Officers’ Pension Fund](/palm-beach-gardens-police/)
 - [City of Boca Raton General Employees’ Pension Plan](/boca-raton-employees/)
+- [City of Sunrise General Employees’ Retirement Plan](/sunrise-employees/)
 - [Pompano Beach Police and Firefighters’ Retirement System](/pompano-beach-police-fire/)
 - [City of Fort Lauderdale Police and Firefighters’ Retirement System](/fort-lauderdale-police-fire/)
 - [Advertise](/advertise/)

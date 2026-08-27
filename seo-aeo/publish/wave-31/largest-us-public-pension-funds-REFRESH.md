@@ -334,6 +334,7 @@ Print the CalPERS and CalSTRS filings. OPERS, WSIB, PRIM, VRS, PSERS, New Jersey
 - [West Palm Beach Police Pension Fund](/west-palm-beach-police/)
 - [Town of Jupiter Police Officers’ Retirement Fund](/jupiter-police/)
 - [City of Sunrise Police Officers’ Retirement Plan](/sunrise-police/)
+- [City of Sunrise General Employees’ Retirement Plan](/sunrise-employees/)
 - [City of Fort Lauderdale Police and Firefighters’ Retirement System](/fort-lauderdale-police-fire/)
 - [City Pension Fund for Firefighters and Police Officers in the City of Pembroke Pines](/pembroke-pines-police-fire/)
 - [City Pension Fund for Firefighters and Police Officers in the City of Miami Beach](/miami-beach-police-fire/)

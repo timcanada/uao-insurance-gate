@@ -50,5 +50,6 @@ Do not 301 this page onto `/miami-gese/`, `/miami-beach-police-fire/`, `/mberp/`
 - [City of Miami General Employees’ and Sanitation Employees’ Retirement Trust](/miami-gese/)
 - [Employees’ Pension Plan of the City of Gainesville](/gainesville-employees/)
 - [City of Hialeah Employees’ Retirement System](/hialeah-employees/)
+- [City of Sunrise General Employees’ Retirement Plan](/sunrise-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

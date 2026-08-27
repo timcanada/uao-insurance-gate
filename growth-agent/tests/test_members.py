@@ -32,6 +32,7 @@ def test_members_are_blocked_by_email_and_name_org(tmp_path):
         == "name_org"
     )
     assert index.match({"email": "new.cio@calpers.ca.gov", "name": "Pat Morgan"}) is None
+    assert index.match({"name": "Alex Rivera"}) == "name"
 
 
 def test_discover_never_keeps_a_loaded_member(tmp_path, monkeypatch):

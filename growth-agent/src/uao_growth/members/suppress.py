@@ -146,6 +146,9 @@ class SuppressionIndex:
         key = person.get("person_org_key") or person_org_key(person.get("name"), person.get("org_name"))
         if key and key in self.person_org:
             return "name_org"
+        name_key = person.get("name_key") or normalize_name(person.get("name"))
+        if name_key and " " in name_key and name_key in self.name_keys:
+            return "name"
         return None
 
     def __len__(self) -> int:

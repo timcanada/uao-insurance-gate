@@ -27,13 +27,13 @@ The statement of fiduciary net position is the sourced line:
 2. **GASB funded cards.** Total pension liability **$4,741,590,099**. Net pension liability **$1,274,381,002**. Fiduciary net position / total pension liability **73.1 percent** (2024 **71.8 percent**). The market funded **73.1 percent** print is that GASB card. Actuarial funded **72.4 percent** is not the GASB card.
 3. **Returns.** Investment-section and MD&A time-weighted return **10.9 percent** for the year ended **30 June 2025**. Notes money-weighted return **10.53 percent** net of investment expenses. Those official one-year prints are not interchangeable.
 
-Do not flatten Baltimore Fire and Police into [Baltimore City Employees’ Retirement System](/baltimore-city-ers/), [Maryland SRPS](/maryland-srps/), [Montgomery County Employee Retirement Plans](/montgomery-erp/), [Howard County Police and Fire](/howard-county-police-fire/), [Employees’ Retirement System of Baltimore County](/baltimore-county-ers/), or [District of Columbia Retirement Board](/dcrb/). Baltimore City ERS is the **civilian** city file. Maryland SRPS is the statewide file. Baltimore County is a different county file. This is **one Baltimore sworn fire-and-police file**.
+Do not flatten Baltimore Fire and Police into [Baltimore City Employees’ Retirement System](/baltimore-city-ers/), [Elected Officials’ Retirement System of the City of Baltimore](/baltimore-eos/), [Maryland SRPS](/maryland-srps/), [Montgomery County Employee Retirement Plans](/montgomery-erp/), [Howard County Police and Fire](/howard-county-police-fire/), [Employees’ Retirement System of Baltimore County](/baltimore-county-ers/), or [District of Columbia Retirement Board](/dcrb/). Baltimore City ERS is the **civilian** city file. Baltimore EOS is the elected-official city file. Maryland SRPS is the statewide file. Baltimore County is a different county file. This is **one Baltimore sworn fire-and-police file**.
 
 ## What an owner is actually buying
 
 Counsel selling “Baltimore fire-and-police AUM” has to name the book. The **$3,467,209,097** line is fiduciary net position restricted for pension benefits. The **$3,428,496,166** line is statement investments. The **$3.49 billion** card is the chairman rounding. The **73.1 percent** card is the GASB ratio. The **72.4 percent** card is the actuarial ratio. The **10.9 percent** card is the time-weighted return. The **10.53 percent** card is the money-weighted return. Those are not the same mandate.
 
-Do not 301 this page onto `/baltimore-city-ers/`, `/maryland-srps/`, `/montgomery-erp/`, `/howard-county-police-fire/`, `/dcrb/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/baltimore-city-ers/`, `/baltimore-eos/`, `/maryland-srps/`, `/montgomery-erp/`, `/howard-county-police-fire/`, `/dcrb/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -47,6 +47,7 @@ Do not 301 this page onto `/baltimore-city-ers/`, `/maryland-srps/`, `/montgomer
 - [Public pension funds](/public-pension-funds/)
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Baltimore City Employees’ Retirement System](/baltimore-city-ers/)
+- [Elected Officials’ Retirement System of the City of Baltimore](/baltimore-eos/)
 - [Maryland SRPS](/maryland-srps/)
 - [Montgomery County Employee Retirement Plans](/montgomery-erp/)
 - [Howard County Police and Fire](/howard-county-police-fire/)

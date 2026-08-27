@@ -27,7 +27,7 @@ The combined statement of fiduciary net position is the sourced line:
 2. **GASB funded cards.** Combined total pension liability **$5,579,031 thousand**. Combined net pension liability **$2,261,243 thousand**. Combined fiduciary net position / total pension liability **59.47 percent** (2024 **56.59 percent**). Plan A **57.74 percent** and Plan B **75.65 percent** are plan cards. Actuarial funded **58.2 percent** as of **1 July 2024** is not the GASB card.
 3. **Returns.** Required-supplementary money-weighted return **10.57 percent** net of investment expense for the year ended **30 June 2025** (2024 **9.80 percent**). MD&A time-weighted return **10.6 percent** is **gross of fees**. Those official one-year prints are not interchangeable.
 
-Do not flatten the Employees’ Retirement System of Baltimore County into [Maryland SRPS](/maryland-srps/), [Employees’ Retirement System of the City of Baltimore](/baltimore-city-ers/), [Baltimore Fire and Police](/baltimore-fire-police/), [Montgomery County Employee Retirement Plans](/montgomery-erp/), or [Howard County Retirement Plan](/howard-county-retirement/). Maryland SRPS is the statewide file. Baltimore City ERS and Baltimore Fire and Police are city files. This is **one Baltimore County file**.
+Do not flatten the Employees’ Retirement System of Baltimore County into [Maryland SRPS](/maryland-srps/), [Employees’ Retirement System of the City of Baltimore](/baltimore-city-ers/), [Baltimore Fire and Police](/baltimore-fire-police/), [Elected Officials’ Retirement System of the City of Baltimore](/baltimore-eos/), [Montgomery County Employee Retirement Plans](/montgomery-erp/), or [Howard County Retirement Plan](/howard-county-retirement/). Maryland SRPS is the statewide file. Baltimore City ERS, Baltimore Fire and Police, and Baltimore EOS are city files. This is **one Baltimore County file**.
 
 ## What an owner is actually buying
 
@@ -49,6 +49,7 @@ Do not 301 this page onto `/maryland-srps/`, `/baltimore-city-ers/`, `/baltimore
 - [Maryland SRPS](/maryland-srps/)
 - [Employees’ Retirement System of the City of Baltimore](/baltimore-city-ers/)
 - [Baltimore Fire and Police](/baltimore-fire-police/)
+- [Elected Officials’ Retirement System of the City of Baltimore](/baltimore-eos/)
 - [Montgomery County Employee Retirement Plans](/montgomery-erp/)
 - [Howard County Retirement Plan](/howard-county-retirement/)
 - [Advertise](/advertise/)

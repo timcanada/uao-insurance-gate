@@ -746,6 +746,11 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,university-health,University Health (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 179 /university-health-pension/
 2,institution,uhs,UHS (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 179 /university-health-pension/
 2,institution,bexar-pension,Bexar pension (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 179 /university-health-pension/
+179,institution,baltimore-eos,Elected Officials Retirement System of the City of Baltimore,allocator,brief,P0,drafted-in-repo,Wave 179. Official FNP $29,738,459 at 30 Jun 2025. Do not mint /eos/ or /bcers/ or /baltimore-ers/. Not leftover Baltimore City ERS
+2,institution,baltimore-eos-explained,Baltimore EOS explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 179 /baltimore-eos/
+2,institution,eos,EOS (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 179 /baltimore-eos/
+2,institution,baltimore-elected,Baltimore elected (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 179 /baltimore-eos/
+2,institution,baltimore-city-eos,Baltimore City EOS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 179 /baltimore-eos/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

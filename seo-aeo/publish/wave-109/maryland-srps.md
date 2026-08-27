@@ -52,6 +52,7 @@ Do not 301 this page onto `/montgomery-erp/`, `/baltimore-city-ers/`, `/baltimor
 - [MNCPPC Employees’ Retirement System](/mncppc-ers/)
 - [Baltimore City Employees’ Retirement System](/baltimore-city-ers/)
 - [Baltimore Fire and Police](/baltimore-fire-police/)
+- [Elected Officials’ Retirement System of the City of Baltimore](/baltimore-eos/)
 - [Howard County Retirement Plan](/howard-county-retirement/)
 - [Howard County Police and Fire](/howard-county-police-fire/)
 - [Employees’ Retirement System of Baltimore County](/baltimore-county-ers/)

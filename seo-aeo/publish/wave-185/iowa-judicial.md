@@ -50,5 +50,6 @@ Do not 301 this page onto `/iowa-ipers/`, `/iowa-pors/`, `/illinois-jrs/`, `/jrs
 - [Municipal Fire and Police Retirement System of Iowa](/iowa-mfprsi/)
 - [Iowa Peace Officers’ Retirement, Accident and Disability System](/iowa-pors/)
 - [Illinois Judges’ Retirement System](/illinois-jrs/)
+- [Michigan Judges’ Retirement System](/michigan-judges/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

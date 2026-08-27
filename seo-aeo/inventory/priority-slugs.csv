@@ -915,6 +915,19 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,michigan-sers-explained,Michigan SERS explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 189 /michigan-sers/
 2,institution,msers,MSERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 189 /michigan-sers/
 2,institution,sers,SERS (short),allocator,brief,P0,do-not-mint,Do not mint. Reserved against Wave 108 /pennsylvania-sers/. Not Michigan SERS. Not Illinois SERS
+190,institution,michigan-state-police,Michigan State Police Retirement System,allocator,brief,P0,drafted-in-repo,Wave 190. Official pension FNP $2,221,134 thousand at 30 Sep 2025. Do not mint /msprs/. Not leftover Michigan SERS
+2,institution,michigan-state-police-explained,Michigan State Police explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 190 /michigan-state-police/
+2,institution,michigan-msprs,Michigan MSPRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 190 /michigan-state-police/
+2,institution,msprs,MSPRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 190 /michigan-state-police/
+190,institution,michigan-judges,Michigan Judges Retirement System,allocator,brief,P0,drafted-in-repo,Wave 190. Official pension FNP $274,627 thousand at 30 Sep 2025. Do not mint /jrs/. /jrs/ remains Illinois JRS
+2,institution,michigan-judges-explained,Michigan Judges explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 190 /michigan-judges/
+2,institution,michigan-jrs,Michigan JRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 190 /michigan-judges/. /jrs/ remains Illinois JRS
+2,institution,mjrs,MJRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 190 /michigan-judges/
+190,institution,michigan-military,Michigan Military Retirement Provisions,allocator,brief,P0,drafted-in-repo,Wave 190. Official pension FNP $75,173 thousand at 30 Sep 2025. Do not mint /mmrp/ or /mrp/. Not leftover Michigan SERS
+2,institution,michigan-military-explained,Michigan Military explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 190 /michigan-military/
+2,institution,michigan-mmrp,Michigan MMRP (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 190 /michigan-military/
+2,institution,mmrp,MMRP (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 190 /michigan-military/
+2,institution,mrp,MRP (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 190 /michigan-military/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

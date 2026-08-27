@@ -49,5 +49,8 @@ Do not 301 this page onto `/michigan-mpsers/`, `/pennsylvania-sers/`, `/sers/`, 
 - [Pennsylvania SERS](/pennsylvania-sers/)
 - [Municipal Employees’ Retirement System of Michigan](/michigan-mers/)
 - [Kansas Public Employees Retirement System](/kansas-kpers/)
+- [Michigan State Police Retirement System](/michigan-state-police/)
+- [Michigan Judges’ Retirement System](/michigan-judges/)
+- [Michigan Military Retirement Provisions](/michigan-military/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

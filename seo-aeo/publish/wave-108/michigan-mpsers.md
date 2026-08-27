@@ -55,5 +55,8 @@ Do not 301 this page onto `/pennsylvania-psers/`, `/ohio-opers/`, or `/largest-u
 - [General Retirement System of the City of Detroit](/detroit-grs/)
 - [Municipal Employees’ Retirement System of Michigan](/michigan-mers/)
 - [Michigan State Employees’ Retirement System](/michigan-sers/)
+- [Michigan State Police Retirement System](/michigan-state-police/)
+- [Michigan Judges’ Retirement System](/michigan-judges/)
+- [Michigan Military Retirement Provisions](/michigan-military/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

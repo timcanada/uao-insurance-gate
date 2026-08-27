@@ -657,5 +657,10 @@ P1,Pittsburgh Municipal Pension Plan,allocator,both,/pittsburgh-municipal/,defin
 P1,Pittsburgh Policemen’s Relief and Pension Plan,allocator,both,/pittsburgh-police/,define,unknown,unknown,unknown,drafted-wave-136,Wave 136. Official allocated FNP $260,940,968 at 31 Dec 2025. Do not mint /pgh-police/
 P1,Pittsburgh Firemen’s Relief and Pension Plan,allocator,both,/pittsburgh-fire/,define,unknown,unknown,unknown,drafted-wave-136,Wave 136. Official allocated FNP $348,541,109 at 31 Dec 2025. Do not mint /pgh-fire/
 P1,City of Memphis Retirement System,allocator,both,/memphis-retirement/,define,unknown,unknown,unknown,drafted-wave-136,Wave 136. Official GASB FNP $2,583,300 thousand at 30 Jun 2025. Do not mint /memphis-pension/
+P1,City of El Paso Employees Retirement Trust,allocator,both,/el-paso-cert/,define,unknown,unknown,unknown,drafted-wave-137,Wave 137. Official FNP $1,060,641,134 at 31 Aug 2025. Do not mint /cert/
+P1,El Paso Firemen and Policemen Pension Fund,allocator,both,/el-paso-fire-police/,define,unknown,unknown,unknown,drafted-wave-137,Wave 137. Official combined FNP $2,070,958,626 at 31 Dec 2025. Do not mint /fppf/
+P1,El Paso Firemen Division,allocator,both,/el-paso-fire/,define,unknown,unknown,unknown,drafted-wave-137,Wave 137. Official Firemen FNP $854,452,647 at 31 Dec 2025. Do not mint /el-paso-firemen/
+P1,El Paso Policemen Division,allocator,both,/el-paso-police/,define,unknown,unknown,unknown,drafted-wave-137,Wave 137. Official Policemen FNP $1,214,553,790 at 31 Dec 2025. Do not mint /el-paso-policemen/
+P1,Employees Retirement System of Baltimore County,allocator,both,/baltimore-county-ers/,define,unknown,unknown,unknown,drafted-wave-137,Wave 137. Official combined FNP $3,317,788 thousand at 30 Jun 2025. Do not mint /bcers/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

@@ -27,7 +27,7 @@ The statement of fiduciary net position is the sourced line (in thousands):
 2. **GASB funded cards.** Total pension liability **$5,142,169 thousand**. Fiduciary net position / total pension liability **87.39 percent**. Those two lines are not interchangeable.
 3. **Returns.** Money-weighted return **11.9 percent** net of investment costs (2024 **8.5 percent**). The house audit does not print a time-weighted return. Do not invent one.
 
-Do not flatten San Antonio Fire and Police into [Houston Firefighters](/houston-hfrrf/), [Houston Police](/houston-hpops/), [San José Police and Fire](/san-jose-police-fire/), [Los Angeles Fire and Police Pensions](/lafpp/), or [Jacksonville Police and Fire](/jacksonville-police-fire/). Houston fire, Houston police, San José sworn, LAFPP, and Jacksonville Police and Fire are different legal persons. This is **one San Antonio sworn fire-and-police file**.
+Do not flatten San Antonio Fire and Police into [Houston Firefighters](/houston-hfrrf/), [Houston Police](/houston-hpops/), [San José Police and Fire](/san-jose-police-fire/), [Los Angeles Fire and Police Pensions](/lafpp/), [Jacksonville Police and Fire](/jacksonville-police-fire/), or [El Paso Firemen and Policemen’s Pension Fund](/el-paso-fire-police/). Houston fire, Houston police, San José sworn, LAFPP, Jacksonville Police and Fire, and El Paso Firemen and Policemen are different legal persons. This is **one San Antonio sworn fire-and-police file**.
 
 ## What an owner is actually buying
 
@@ -52,5 +52,8 @@ Do not 301 this page onto `/houston-hfrrf/`, `/houston-hpops/`, `/san-jose-polic
 - [Los Angeles Fire and Police Pensions](/lafpp/)
 - [Jacksonville Police and Fire](/jacksonville-police-fire/)
 - [Dallas Police and Fire](/dallas-police-fire/)
+- [El Paso Firemen and Policemen’s Pension Fund](/el-paso-fire-police/)
+- [El Paso Firemen Division](/el-paso-fire/)
+- [El Paso Policemen Division](/el-paso-police/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

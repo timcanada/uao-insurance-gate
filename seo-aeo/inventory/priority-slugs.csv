@@ -411,6 +411,16 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,pgh-fire,Pittsburgh Fire (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 136 /pittsburgh-fire/
 136,institution,memphis-retirement,City of Memphis Retirement System,allocator,brief,P0,drafted-in-repo,Wave 136. Official GASB FNP $2,583,300 thousand at 30 Jun 2025. Do not mint /memphis-pension/
 2,institution,memphis-pension,Memphis Retirement (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 136 /memphis-retirement/
+137,institution,el-paso-cert,City of El Paso Employees Retirement Trust,allocator,brief,P0,drafted-in-repo,Wave 137. Official FNP $1,060,641,134 at 31 Aug 2025. Do not mint /cert/ or /el-paso-employees/
+2,institution,cert,El Paso CERT (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 137 /el-paso-cert/
+137,institution,el-paso-fire-police,El Paso Firemen and Policemen Pension Fund,allocator,brief,P0,drafted-in-repo,Wave 137. Official combined FNP $2,070,958,626 at 31 Dec 2025. Do not mint /fppf/
+2,institution,fppf,El Paso Fire and Police (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 137 /el-paso-fire-police/
+137,institution,el-paso-fire,El Paso Firemen Division,allocator,brief,P0,drafted-in-repo,Wave 137. Official Firemen FNP $854,452,647 at 31 Dec 2025. Do not mint /el-paso-firemen/
+2,institution,el-paso-firemen,El Paso Fire (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 137 /el-paso-fire/
+137,institution,el-paso-police,El Paso Policemen Division,allocator,brief,P0,drafted-in-repo,Wave 137. Official Policemen FNP $1,214,553,790 at 31 Dec 2025. Do not mint /el-paso-policemen/
+2,institution,el-paso-policemen,El Paso Police (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 137 /el-paso-police/
+137,institution,baltimore-county-ers,Employees Retirement System of Baltimore County,allocator,brief,P0,drafted-in-repo,Wave 137. Official combined FNP $3,317,788 thousand at 30 Jun 2025. Do not mint /baltimore-county/. Do not mint /bcers/ (Baltimore City twin)
+2,institution,baltimore-county,Baltimore County ERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 137 /baltimore-county-ers/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

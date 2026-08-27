@@ -27,7 +27,7 @@ The statement of fiduciary net position is the sourced line:
 2. **Liability cards.** Total pension liability **$5,800,379 thousand**. Net pension liability **$1,272 thousand**. Fiduciary net position as a percentage of total pension liability **99.98 percent**. Those three lines are not interchangeable.
 3. **Returns.** Management-discussion total return **11.88 percent** gross and **11.84 percent** net. Investment-section time-weighted total portfolio **11.9 percent** gross. Annual money-weighted return **11.79 percent** net of investment expense. Those four official one-year prints are not interchangeable. The newsletter **11.9 percent** card is the rounded time-weighted print, not a second money-weighted card.
 
-Do not flatten Houston firefighters into [Houston Municipal Employees](/houston-hmeps/), [Houston Police](/houston-hpops/), [San José Police and Fire](/san-jose-police-fire/), [San Antonio Fire and Police](/san-antonio-fire-police/), [Los Angeles Fire and Police Pensions](/lafpp/), [Jacksonville Police and Fire](/jacksonville-police-fire/), [Texas TRS](/texas-teacher-retirement-system-explained/), [Texas ERS](/texas-ers/), or [Illinois FPIF](/illinois-fpif/). Illinois FPIF is the Illinois Article 4 investment trust. San José Police and Fire, San Antonio Fire and Police, LAFPP, and Jacksonville Police and Fire are different legal persons. This is **one Houston firefighter file**.
+Do not flatten Houston firefighters into [Houston Municipal Employees](/houston-hmeps/), [Houston Police](/houston-hpops/), [San José Police and Fire](/san-jose-police-fire/), [San Antonio Fire and Police](/san-antonio-fire-police/), [Los Angeles Fire and Police Pensions](/lafpp/), [Jacksonville Police and Fire](/jacksonville-police-fire/), [El Paso Firemen and Policemen’s Pension Fund](/el-paso-fire-police/), [Texas TRS](/texas-teacher-retirement-system-explained/), [Texas ERS](/texas-ers/), or [Illinois FPIF](/illinois-fpif/). Illinois FPIF is the Illinois Article 4 investment trust. San José Police and Fire, San Antonio Fire and Police, LAFPP, Jacksonville Police and Fire, and El Paso Firemen and Policemen are different legal persons. This is **one Houston firefighter file**.
 
 ## What an owner is actually buying
 
@@ -52,6 +52,8 @@ Do not 301 this page onto `/houston-hmeps/`, `/houston-hpops/`, `/san-jose-polic
 - [Los Angeles Fire and Police Pensions](/lafpp/)
 - [Jacksonville Police and Fire](/jacksonville-police-fire/)
 - [Dallas Police and Fire](/dallas-police-fire/)
+- [El Paso Firemen and Policemen’s Pension Fund](/el-paso-fire-police/)
+- [El Paso Firemen Division](/el-paso-fire/)
 - [Texas TRS](/texas-teacher-retirement-system-explained/)
 - [Texas ERS](/texas-ers/)
 - [Illinois FPIF](/illinois-fpif/)

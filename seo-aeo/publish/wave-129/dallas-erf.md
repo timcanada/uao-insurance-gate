@@ -27,7 +27,7 @@ The statement of fiduciary net position is the sourced line:
 2. **GASB funded cards.** Total pension liability **$5,686,269 thousand**. Net pension liability **$1,715,636 thousand**. Fiduciary net position / total pension liability **69.83 percent** (2024 **66.92 percent**). MD&A **69.80 percent** is not the notes card. Actuarial funded **67.4 percent** is not the GASB card. Unfunded actuarial accrued liability **$1,852 million** is not net pension liability.
 3. **Returns.** Required-supplementary money-weighted return **11.89 percent** for calendar 2025, net of investment fees. Investment-section / glance time-weighted return **11.77 percent**. Those official one-year prints are not interchangeable.
 
-Do not flatten Dallas ERF into [Dallas Police and Fire](/dallas-police-fire/), [Texas ERS](/texas-ers/), [Texas Municipal Retirement System](/texas-tmrs/), or [Houston Municipal Employees](/houston-hmeps/). Dallas Police and Fire is the sworn book. Texas ERS is the statewide employee file. This is **one Dallas civilian file**.
+Do not flatten Dallas ERF into [Dallas Police and Fire](/dallas-police-fire/), [Texas ERS](/texas-ers/), [Texas Municipal Retirement System](/texas-tmrs/), [Houston Municipal Employees](/houston-hmeps/), or [City of El Paso Employees Retirement Trust](/el-paso-cert/). Dallas Police and Fire is the sworn book. Texas ERS is the statewide employee file. El Paso CERT is a different civilian city file. This is **one Dallas civilian file**.
 
 ## What an owner is actually buying
 
@@ -51,5 +51,6 @@ Do not 301 this page onto `/dallas-police-fire/`, `/texas-ers/`, `/texas-tmrs/`,
 - [Texas Municipal Retirement System](/texas-tmrs/)
 - [Houston Municipal Employees](/houston-hmeps/)
 - [City of Austin Employees’ Retirement System](/coaers/)
+- [City of El Paso Employees Retirement Trust](/el-paso-cert/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

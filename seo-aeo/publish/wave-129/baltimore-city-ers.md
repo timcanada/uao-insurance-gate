@@ -27,7 +27,7 @@ The statement of fiduciary net position is the sourced line:
 2. **GASB funded cards.** Total pension liability **$2,816,160,718**. Net pension liability **$551,169,928**. Fiduciary net position / total pension liability **80.40 percent** (2024 **76.50 percent**). MD&A fair-value funded **80.4 percent** is that GASB card. Actuarial funded **82.0 percent** is not the GASB card. The transmittal “market value funded **82.0 percent**” print matches the actuarial card, not market value.
 3. **Returns.** Required-supplementary money-weighted return **10.6 percent** for fiscal 2025, net of investment expense. MD&A time-weighted return **9.5 percent**. Those official one-year prints are not interchangeable.
 
-Do not flatten Baltimore City ERS into [Maryland SRPS](/maryland-srps/), [Montgomery County Employee Retirement Plans](/montgomery-erp/), [Howard County Retirement Plan](/howard-county-retirement/), [Baltimore Fire and Police](/baltimore-fire-police/), or [District of Columbia Retirement Board](/dcrb/). Maryland SRPS is the statewide file. Montgomery County is one county house file. Baltimore Fire and Police is the sworn city file. This is **one Baltimore civilian file**.
+Do not flatten Baltimore City ERS into [Maryland SRPS](/maryland-srps/), [Montgomery County Employee Retirement Plans](/montgomery-erp/), [Howard County Retirement Plan](/howard-county-retirement/), [Baltimore Fire and Police](/baltimore-fire-police/), [Employees’ Retirement System of Baltimore County](/baltimore-county-ers/), or [District of Columbia Retirement Board](/dcrb/). Maryland SRPS is the statewide file. Montgomery County is one county house file. Baltimore Fire and Police is the sworn city file. Baltimore County is a different county file. This is **one Baltimore civilian file**.
 
 ## What an owner is actually buying
 
@@ -50,6 +50,7 @@ Do not 301 this page onto `/maryland-srps/`, `/montgomery-erp/`, `/howard-county
 - [Montgomery County Employee Retirement Plans](/montgomery-erp/)
 - [Howard County Retirement Plan](/howard-county-retirement/)
 - [Baltimore Fire and Police](/baltimore-fire-police/)
+- [Employees’ Retirement System of Baltimore County](/baltimore-county-ers/)
 - [District of Columbia Retirement Board](/dcrb/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

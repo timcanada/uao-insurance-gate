@@ -27,7 +27,7 @@ The combining statement of fiduciary net position is the sourced line:
 2. **GASB funded cards.** Combined Pension Plan total pension liability **$5,766,994 thousand**. Combined GASB fiduciary net position **$2,251,125 thousand**. Combined net pension liability **$3,515,869 thousand**. Combined fiduciary net position / total pension liability **39.0 percent** (2024 **36.1 percent**). Supplemental Plan fiduciary net position / total pension liability **52.9 percent** is not the Combined card. January 1, 2026 actuarial-value funded **35.2 percent** is not the GASB card.
 3. **Returns.** Group Trust money-weighted return **16.47 percent** net of fees (2024 **8.30 percent**). The house consultant uses a one-quarter lag on private-asset fair-value adjustments. The house ACFR does not give this page a separate official time-weighted card to quote as the money-weighted substitute. Do not invent one.
 
-Do not flatten Dallas Police and Fire into [Houston Firefighters](/houston-hfrrf/), [Houston Police](/houston-hpops/), [San Antonio Fire and Police](/san-antonio-fire-police/), [Jacksonville Police and Fire](/jacksonville-police-fire/), [Austin Police Retirement System](/austin-police-retirement/), [San José Police and Fire](/san-jose-police-fire/), [Los Angeles Fire and Police Pensions](/lafpp/), [Texas ERS](/texas-ers/), [TMRS](/texas-tmrs/), or [Dallas ERF](/dallas-erf/). Those are different legal persons. Dallas ERF is the civilian file. This is **one Dallas sworn police-and-fire file**.
+Do not flatten Dallas Police and Fire into [Houston Firefighters](/houston-hfrrf/), [Houston Police](/houston-hpops/), [San Antonio Fire and Police](/san-antonio-fire-police/), [Jacksonville Police and Fire](/jacksonville-police-fire/), [Austin Police Retirement System](/austin-police-retirement/), [San José Police and Fire](/san-jose-police-fire/), [Los Angeles Fire and Police Pensions](/lafpp/), [El Paso Firemen and Policemen’s Pension Fund](/el-paso-fire-police/), [Texas ERS](/texas-ers/), [TMRS](/texas-tmrs/), or [Dallas ERF](/dallas-erf/). Those are different legal persons. Dallas ERF is the civilian file. This is **one Dallas sworn police-and-fire file**.
 
 ## What an owner is actually buying
 
@@ -53,5 +53,7 @@ Do not 301 this page onto `/houston-hfrrf/`, `/houston-hpops/`, `/san-antonio-fi
 - [Austin Police Retirement System](/austin-police-retirement/)
 - [Texas ERS](/texas-ers/)
 - [Dallas ERF](/dallas-erf/)
+- [El Paso Firemen and Policemen’s Pension Fund](/el-paso-fire-police/)
+- [El Paso Policemen Division](/el-paso-police/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -27,7 +27,7 @@ The statement of fiduciary net position is the sourced line:
 2. **GASB funded cards.** Total pension liability **$4,741,590,099**. Net pension liability **$1,274,381,002**. Fiduciary net position / total pension liability **73.1 percent** (2024 **71.8 percent**). The market funded **73.1 percent** print is that GASB card. Actuarial funded **72.4 percent** is not the GASB card.
 3. **Returns.** Investment-section and MD&A time-weighted return **10.9 percent** for the year ended **30 June 2025**. Notes money-weighted return **10.53 percent** net of investment expenses. Those official one-year prints are not interchangeable.
 
-Do not flatten Baltimore Fire and Police into [Baltimore City Employees’ Retirement System](/baltimore-city-ers/), [Maryland SRPS](/maryland-srps/), [Montgomery County Employee Retirement Plans](/montgomery-erp/), [Howard County Police and Fire](/howard-county-police-fire/), or [District of Columbia Retirement Board](/dcrb/). Baltimore City ERS is the **civilian** city file. Maryland SRPS is the statewide file. This is **one Baltimore sworn fire-and-police file**.
+Do not flatten Baltimore Fire and Police into [Baltimore City Employees’ Retirement System](/baltimore-city-ers/), [Maryland SRPS](/maryland-srps/), [Montgomery County Employee Retirement Plans](/montgomery-erp/), [Howard County Police and Fire](/howard-county-police-fire/), [Employees’ Retirement System of Baltimore County](/baltimore-county-ers/), or [District of Columbia Retirement Board](/dcrb/). Baltimore City ERS is the **civilian** city file. Maryland SRPS is the statewide file. Baltimore County is a different county file. This is **one Baltimore sworn fire-and-police file**.
 
 ## What an owner is actually buying
 
@@ -50,6 +50,7 @@ Do not 301 this page onto `/baltimore-city-ers/`, `/maryland-srps/`, `/montgomer
 - [Maryland SRPS](/maryland-srps/)
 - [Montgomery County Employee Retirement Plans](/montgomery-erp/)
 - [Howard County Police and Fire](/howard-county-police-fire/)
+- [Employees’ Retirement System of Baltimore County](/baltimore-county-ers/)
 - [District of Columbia Retirement Board](/dcrb/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

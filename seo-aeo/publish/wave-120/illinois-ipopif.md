@@ -47,6 +47,7 @@ Do not 301 this page onto `/illinois-sers/`, `/illinois-imrf/`, `/illinois-fpif/
 - [Public pension funds](/public-pension-funds/)
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Illinois FPIF](/illinois-fpif/)
+- [Springfield Police Pension Fund](/springfield-police/)
 - [IMRF](/illinois-imrf/)
 - [Houston Police](/houston-hpops/)
 - [Cook County Pension](/cook-county-pension/)

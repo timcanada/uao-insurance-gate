@@ -58,5 +58,6 @@ Do not 301 this page onto `/houston-hfrrf/`, `/houston-hpops/`, `/san-jose-polic
 - [Pompano Beach Police and Firefighters’ Retirement System](/pompano-beach-police-fire/)
 - [St. Johns River Power Park System Employees’ Retirement Plan](/jacksonville-sjrpp/)
 - [Portland Fire and Police Disability and Retirement Funds](/portland-fpdr/)
+- [Springfield Police Pension Fund](/springfield-police/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

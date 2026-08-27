@@ -539,6 +539,8 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,wpb-ge,West Palm Beach Employees (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 153 /west-palm-beach-employees/. /gepp/ is Jacksonville. /gers/ unused Fort Lauderdale
 155,institution,portland-fpdr,Portland Fire and Police Disability and Retirement Funds,allocator,brief,P0,drafted-in-repo,Wave 155. Official combined plan net position $27,686,552 at 30 Jun 2025. Pay-as-you-go. Do not mint /fpdr/ or /portland-fire-police/ or /pfrs/
 2,institution,fpdr,Portland FPDR (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 155 /portland-fpdr/. /pfrs/ is Oakland Police and Fire
+156,institution,springfield-police,Springfield Police Pension Fund,allocator,brief,P0,drafted-in-repo,Wave 156. Official plan net position $230,239,333 at 28 Feb 2025. Do not mint /spd-pension/ or /springfield-police-explained/ or /springfield/
+2,institution,spd-pension,Springfield Police (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 156 /springfield-police/. Not Springfield MA or MO
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

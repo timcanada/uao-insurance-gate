@@ -50,5 +50,6 @@ Do not 301 this page onto `/jacksonville-police-fire/`, `/tampa-fire-police/`, `
 - [City Pension Fund for Firefighters and Police Officers in the City of Tampa](/tampa-fire-police/)
 - [City of Miami Fire Fighters’ and Police Officers’ Retirement Trust](/miami-fire-police/)
 - [City of Fort Lauderdale Police and Firefighters’ Retirement System](/fort-lauderdale-police-fire/)
+- [Springfield Police Pension Fund](/springfield-police/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -60,5 +60,6 @@ Do not 301 this page onto `/sacramento-city-employees/`, `/sdcers/`, `/ocers/`, 
 - [SBCERS](/sbcers/)
 - [ICERS](/icers/)
 - [MercedCERA](/mercedcera/)
+- [San Luis Obispo County Pension Trust](/slocpt/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

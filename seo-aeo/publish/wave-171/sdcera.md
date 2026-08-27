@@ -52,5 +52,6 @@ Do not 301 this page onto `/sdcers/`, `/lacera/`, `/samcera/`, `/sdcera-explaine
 - [StanCERA](/stancera/)
 - [Sacramento County Employees’ Retirement System](/sacramento-scers/)
 - [SFERS](/san-francisco-sfers/)
+- [San Luis Obispo County Pension Trust](/slocpt/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

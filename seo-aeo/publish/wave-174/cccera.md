@@ -53,5 +53,6 @@ Do not 301 this page onto `/stancera/`, `/sdcera/`, `/acera/`, `/contra-costa-cc
 - [VCERA](/vcera/)
 - [SamCERA](/samcera/)
 - [LACERA](/lacera/)
+- [San Luis Obispo County Pension Trust](/slocpt/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

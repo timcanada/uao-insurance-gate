@@ -52,5 +52,6 @@ Do not 301 this page onto `/lacera/`, `/lacers/`, `/sbcera/`, `/vcera/`, `/kcera
 - [VCERA](/vcera/)
 - [KCERA](/kcera/)
 - [FCERA](/fcera/)
+- [San Luis Obispo County Pension Trust](/slocpt/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -52,5 +52,6 @@ Do not 301 this page onto `/mercedcera/`, `/icers/`, `/sdcera/`, `/stanislaus-ce
 - [SDCERA](/sdcera/)
 - [CCCERA](/cccera/)
 - [Sacramento County Employees’ Retirement System](/sacramento-scers/)
+- [San Luis Obispo County Pension Trust](/slocpt/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

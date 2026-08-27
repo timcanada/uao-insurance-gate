@@ -52,5 +52,6 @@ Do not 301 this page onto `/sjcera/`, leftover `/stancera/`, leftover Marin `/mc
 - [ICERS](/icers/)
 - [SBCERS](/sbcers/)
 - [Sonoma SCERA](/sonoma-scera/)
+- [San Luis Obispo County Pension Trust](/slocpt/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

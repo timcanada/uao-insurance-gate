@@ -50,5 +50,6 @@ Do not 301 this page onto `/illinois-ipopif/`, `/jacksonville-police-fire/`, `/s
 - [Jacksonville Police and Fire Pension Fund](/jacksonville-police-fire/)
 - [City Pension Fund for Firefighters and Police Officers in the City of Tampa](/tampa-fire-police/)
 - [Portland Fire and Police Disability and Retirement Funds](/portland-fpdr/)
+- [Village of Grayslake Police Pension Fund](/grayslake-police/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

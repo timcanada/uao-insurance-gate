@@ -23,7 +23,7 @@ Parochial Employees’ Retirement System of Louisiana is Louisiana’s parish-em
 
 The combining statements, the Plan A and Plan B GASB 67 notes, and the money-weighted prints are the sourced lines:
 
-1. **Combined fiduciary net position** **$6,321,950,751** at **31 December 2025** (beginning **$5,691,866,696**). Combined investments **$6,155,577,551**. Cash and investments **$6,295,507,945** is not fiduciary net position. Plan A fiduciary net position **$5,775,509,463** is not the System. Plan B **$546,441,288** is not the System. Do not treat leftover Louisiana TRSL **$29,334,227,630**, leftover LASERS **$17,223,211,406**, leftover Municipal Police **$3,133,488,618**, leftover Louisiana School Employees **$2,411,550,113**, leftover MassPRIM **$73 billion**, or leftover NYSCRF **$226.8 billion** as this filing.
+1. **Combined fiduciary net position** **$6,321,950,751** at **31 December 2025** (beginning **$5,691,866,696**). Combined investments **$6,155,577,551**. Cash and investments **$6,295,507,945** is not fiduciary net position. Plan A fiduciary net position **$5,775,509,463** is not the System. Plan B **$546,441,288** is not the System. Do not treat leftover Louisiana TRSL **$29,334,227,630**, leftover LASERS **$17,223,211,406**, leftover Municipal Police **$3,133,488,618**, leftover Louisiana School Employees **$2,411,550,113**, leftover Clerks of Court **$906,589,423**, leftover MassPRIM **$73 billion**, or leftover NYSCRF **$226.8 billion** as this filing.
 2. **GASB cards.** Plan A total pension liability **$5,314,897,933** / net pension asset **$460,611,530** / **108.67 percent**. Plan B total pension liability **$492,474,505** / net pension asset **$53,966,783** / **110.96 percent**. This page does not invent a combined GASB funded ratio.
 3. **Returns.** Notes money-weighted return for Plan A **13.34 percent** and Plan B **13.87 percent** net of pension-plan investment expense for the year ended **31 December 2025** (both plans 2024 **11.56 percent**). This page does not invent a combined money-weighted return.
 
@@ -52,5 +52,6 @@ Do not 301 this page onto `/louisiana-trsl/`, `/louisiana-lasers/`, `/louisiana-
 - [Louisiana TRSL](/louisiana-trsl/)
 - [LASERS](/louisiana-lasers/)
 - [District Attorneys’ Retirement System](/louisiana-dars/)
+- [Louisiana Clerks of Court Retirement and Relief Fund](/louisiana-clerks/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

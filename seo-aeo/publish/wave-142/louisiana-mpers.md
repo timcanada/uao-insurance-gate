@@ -23,7 +23,7 @@ Municipal Police Employees’ Retirement System is Louisiana’s municipal-polic
 
 The statements of fiduciary net position, the GASB 67 note, and the money-weighted schedule are the sourced lines:
 
-1. **Fiduciary net position** **$3,133,488,618** at **30 June 2025** (beginning **$2,844,025,169**). Total investments **$3,073,975,691** (fair value **$3,034,796,701**; contract value **$39,178,990**). MD&A **$3.1 billion** is the rounded card. Do not treat leftover Louisiana TRSL **$29,334,227,630**, leftover LASERS **$17,223,211,406**, leftover Baton Rouge CPERS Trust **$1,439,791,602**, leftover MainePERS **$22,466,747,053**, leftover MassPRIM **$73 billion**, or leftover NYSCRF **$226.8 billion** as this filing.
+1. **Fiduciary net position** **$3,133,488,618** at **30 June 2025** (beginning **$2,844,025,169**). Total investments **$3,073,975,691** (fair value **$3,034,796,701**; contract value **$39,178,990**). MD&A **$3.1 billion** is the rounded card. Do not treat leftover Louisiana TRSL **$29,334,227,630**, leftover LASERS **$17,223,211,406**, leftover Baton Rouge CPERS Trust **$1,439,791,602**, leftover MainePERS **$22,466,747,053**, leftover Clerks of Court **$906,589,423**, leftover MassPRIM **$73 billion**, or leftover NYSCRF **$226.8 billion** as this filing.
 2. **GASB cards.** Total pension liability **$3,824,098,346**. Employers’ net pension liability **$690,609,728**. Plan fiduciary net position as a percentage of total pension liability **81.94 percent**. Transmittal actuarial funded **82.38 percent** is not the GASB card. Unfunded accrued liability **$657,666,312** is not the GASB net pension liability.
 3. **Returns.** Notes and required supplementary money-weighted return **10.98 percent** net of pension-plan investment expense for the year ended **30 June 2025** (2024 **10.01 percent**).
 
@@ -52,6 +52,7 @@ Do not 301 this page onto `/louisiana-trsl/`, `/louisiana-lasers/`, `/baton-roug
 - [Baton Rouge City-Parish Employees’ Retirement System](/baton-rouge-employees/)
 - [Baton Rouge Police Guarantee Trust](/baton-rouge-pgt/)
 - [District Attorneys’ Retirement System](/louisiana-dars/)
+- [Louisiana Clerks of Court Retirement and Relief Fund](/louisiana-clerks/)
 - [MainePERS](/maine-pers/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

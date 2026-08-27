@@ -55,6 +55,7 @@ Do not 301 this page onto `/sacramento-city-employees/`, `/sdcers/`, `/ocers/`, 
 - [KCERA](/kcera/)
 - [FCERA](/fcera/)
 - [SJCERA](/sjcera/)
+- [Seattle City Employees’ Retirement System](/seattle-city-employees/)
 - [Sonoma SCERA](/sonoma-scera/)
 - [SBCERS](/sbcers/)
 - [ICERS](/icers/)

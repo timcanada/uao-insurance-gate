@@ -240,7 +240,7 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 119,institution,kentucky-krs,Kentucky Retirement Systems,allocator,brief,P0,drafted-in-repo,Wave 119. Official combined $9,882,254 thousand at 30 Jun 2025. Do not mint /kers/ or /sprs/
 2,institution,kers,KERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 119 /kentucky-krs/
 119,institution,sacramento-scers,Sacramento County Employees’ Retirement System,allocator,brief,P0,drafted-in-repo,Wave 119. Official FNP $14,577,459 thousand at 30 Jun 2025. Do not mint /scers/ (Seattle collision)
-2,institution,scers,SCERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 119 /sacramento-scers/. Seattle City Employees is a different legal person
+2,institution,scers,SCERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 119 /sacramento-scers/. Wave 165 Seattle is /seattle-city-employees/ not /scers/
 120,institution,illinois-jrs,Judges’ Retirement System of Illinois,allocator,brief,P0,drafted-in-repo,Wave 120. Official FNP $1,470,253,087 at 30 Jun 2025. Do not mint /jrs/ or /illinois-jrs-explained/
 2,institution,jrs,JRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 120 /illinois-jrs/
 120,institution,illinois-gars,General Assembly Retirement System of Illinois,allocator,brief,P0,drafted-in-repo,Wave 120. Official FNP $97,435,115 at 30 Jun 2025. Do not mint /gars/ or /illinois-gars-explained/
@@ -570,6 +570,14 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 164,institution,springfield-fire,Springfield Firefighters Pension Fund,allocator,brief,P0,drafted-in-repo,Wave 164. Official FNP $192,032,076 at 28 Feb 2025. IFPIF $188,501,050 is a component. Do not mint /sfd-pension/ or /springfield-firefighters/ or /springfield/. Not leftover Springfield Police
 2,institution,sfd-pension,Springfield Fire (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 164 /springfield-fire/. Not leftover Springfield Police /springfield-police/
 2,institution,springfield-firefighters,Springfield Fire (long),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 164 /springfield-fire/. /springfield/ remains Illinois Police twin
+165,institution,seattle-city-employees,Seattle City Employees Retirement System,allocator,brief,P0,drafted-in-repo,Wave 165. Official FNP $4,958,213,991 at 31 Dec 2025. Investments $4,788,416,520 are not FNP. Do not mint /scers/ or /seattle-cers/. Not leftover Sacramento SCERS
+2,institution,seattle-cers,Seattle SCERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 165 /seattle-city-employees/. /scers/ remains Sacramento County twin
+165,institution,louisiana-clerks,Louisiana Clerks of Court Retirement,allocator,brief,P0,drafted-in-repo,Wave 165. Official FNP $906,589,423 at 30 Jun 2025. Total investments $903,133,415. Do not mint /lccrrf/ or /clerks/ or /mers/. Not leftover Parochial Plan A 13.34%
+2,institution,lccrrf,Louisiana Clerks (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 165 /louisiana-clerks/. Not leftover MPERS / FRS / LSERS
+165,institution,anne-arundel-employees,Anne Arundel Employees Retirement Plan,allocator,brief,P0,drafted-in-repo,Wave 165. Combining FNP $948,193,953 at 31 Dec 2025. GASB 72.5%. System MWR 15.4%. Combined $2,934,944,458 is not a fifth book. Do not mint /anne-arundel/ or /ers/
+165,institution,anne-arundel-police,Anne Arundel Police Service Retirement Plan,allocator,brief,P0,drafted-in-repo,Wave 165. Combining FNP $872,886,838 at 31 Dec 2025. DROP $20,513,210 is not AUM. GASB 78.7%. Do not mint /anne-arundel/ or /ers/
+165,institution,anne-arundel-fire,Anne Arundel Fire Service Retirement Plan,allocator,brief,P0,drafted-in-repo,Wave 165. Combining FNP $874,797,882 at 31 Dec 2025. DROP $20,370,304 is not AUM. GASB 83.2%. Do not mint /anne-arundel/ or /ers/
+2,institution,anne-arundel,Anne Arundel System (short),allocator,brief,P0,do-not-mint,Do not mint. Combined System is not a fifth book. Use Wave 165 plan slugs. Detention waits Wave 166
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

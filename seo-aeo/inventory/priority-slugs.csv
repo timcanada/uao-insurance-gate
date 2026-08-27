@@ -563,6 +563,10 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,palm-bay-fire,Palm Bay Fire (column),allocator,brief,P0,do-not-mint,Do not mint. Column of Wave 162 /palm-bay-police-fire/
 162,institution,miramar-fire,City of Miramar Firefighters Retirement Plan,allocator,brief,P0,drafted-in-repo,Wave 162. Official FNP $303,762,513 at 30 Sep 2025. Do not mint /miramar-firefighters/ or /miramar-police/
 2,institution,miramar-firefighters,Miramar Fire (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 162 /miramar-fire/. Miramar Police 2025 FS unpublished
+163,institution,parkland-police,City of Parkland Police Officers Retirement Plan,allocator,brief,P0,drafted-in-repo,Wave 163. Official combined FNP $2,287,469 at 30 Sep 2025. GASB uses pension-plan $2,285,735. Do not mint /parkland/ or /porp/. Closed Chapter 185
+2,institution,parkland,Parkland Police (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 163 /parkland-police/. Closed Chapter 185. Not leftover Hollywood Police
+2,institution,porp,Parkland Police (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 163 /parkland-police/. Not leftover Hollywood Police
+2,institution,parkland-pors,Parkland Police (pors),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 163 /parkland-police/. Closed Chapter 185
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

@@ -23,7 +23,7 @@ The City of Hollywood Police Officers Retirement System is Hollywood, Florida’
 
 The statement of fiduciary net position, Note 5, and the money-weighted note are the sourced lines:
 
-1. **Net position restricted for pensions** **$508,897,579** at **30 September 2025** (beginning **$469,779,347**). Net increase **$39,118,232**. Total receivables **$1,526,354**. Investments **$507,581,569**. Total assets **$509,107,923**. Accounts payable **$210,344**. DROP loans receivable **$965,115** are not extra AUM. Do not treat leftover Fort Lauderdale Police and Fire combined **$1,288,290,405**, leftover Pembroke Pines Police and Fire **$1,063,006,542**, leftover Pompano Beach Police and Fire **$313,289,538**, leftover Sunrise Police **$254,102,126**, leftover West Palm Beach Police **$528,055,662**, leftover Hollywood website card **$507,681,728**, leftover Florida SBA **$300 billion+**, leftover MassPRIM **$73 billion**, or leftover NYSCRF **$226.8 billion** as this filing.
+1. **Net position restricted for pensions** **$508,897,579** at **30 September 2025** (beginning **$469,779,347**). Net increase **$39,118,232**. Total receivables **$1,526,354**. Investments **$507,581,569**. Total assets **$509,107,923**. Accounts payable **$210,344**. DROP loans receivable **$965,115** are not extra AUM. Do not treat leftover Fort Lauderdale Police and Fire combined **$1,288,290,405**, leftover Pembroke Pines Police and Fire **$1,063,006,542**, leftover Pompano Beach Police and Fire **$313,289,538**, leftover Sunrise Police **$254,102,126**, leftover West Palm Beach Police **$528,055,662**, leftover Hollywood website card **$507,681,728**, leftover Parkland Police **$2,287,469**, leftover Florida SBA **$300 billion+**, leftover MassPRIM **$73 billion**, or leftover NYSCRF **$226.8 billion** as this filing.
 2. **GASB cards.** Total pension liability **$726,084,878**. Net pension liability **$217,187,299**. Plan fiduciary net position as a percentage of total pension liability **70.09 percent** (2024 **68.48 percent**). Do not treat **$726,084,878** as AUM. City **$32,144,114** plus state **$2,791,218** plus participant **$2,861,295**.
 3. **Returns and cash flow.** Notes money-weighted return **9.76 percent** net of investment expense for the year ended **30 September 2025** (2024 **21.07 percent**). Net investment income **$46,595,323**. Benefit payments **$36,193,052**. DROP distributions **$8,526,702**. Share distributions **$394,060**. Administrative expenses **$770,082**. Total deductions **$45,961,025**. The independent auditor’s report is dated **27 February 2026**.
 
@@ -53,5 +53,6 @@ Do not 301 this page onto `/fort-lauderdale-police-fire/`, `/pembroke-pines-poli
 - [West Palm Beach Police Pension Fund](/west-palm-beach-police/)
 - [City of Palm Bay Police and Firefighters’ Retirement System](/palm-bay-police-fire/)
 - [City of Miramar Firefighters Retirement Plan](/miramar-fire/)
+- [City of Parkland Police Officers Retirement Plan](/parkland-police/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

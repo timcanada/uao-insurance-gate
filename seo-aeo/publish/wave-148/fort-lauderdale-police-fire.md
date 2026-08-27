@@ -23,7 +23,7 @@ The City of Fort Lauderdale Police and Firefighters’ Retirement System is Fort
 
 The combined statement of fiduciary net position, the combining schedule, the GASB note, and the money-weighted note are the sourced lines:
 
-1. **Combined fiduciary net position** **$1,288,290,405** at **30 September 2025** (beginning **$1,222,065,487**). Combining System **$1,237,769,214** (beginning **$1,175,816,308**). Combining Share Plan **$50,521,191** (beginning **$46,249,179**). Combined investments **$1,282,813,173** (2024 **$1,223,287,441**) sit on the System; the Share Plan’s combining card is a due-from receivable, not a second investment book. Combined total assets **$1,298,025,062**. Combined liabilities **$9,734,657**. Do not treat leftover Fort Lauderdale Employees **$755,226,097**, leftover Boca Raton Police and Fire **$613,033,507**, leftover Hollywood Police **$508,897,579**, leftover Pompano Beach Police and Fire **$313,289,538**, leftover Miramar Fire **$303,762,513**, leftover Sunrise Police **$254,102,126**, leftover Florida SBA **$300 billion+**, leftover MassPRIM **$73 billion**, or leftover NYSCRF **$226.8 billion** as this filing.
+1. **Combined fiduciary net position** **$1,288,290,405** at **30 September 2025** (beginning **$1,222,065,487**). Combining System **$1,237,769,214** (beginning **$1,175,816,308**). Combining Share Plan **$50,521,191** (beginning **$46,249,179**). Combined investments **$1,282,813,173** (2024 **$1,223,287,441**) sit on the System; the Share Plan’s combining card is a due-from receivable, not a second investment book. Combined total assets **$1,298,025,062**. Combined liabilities **$9,734,657**. Do not treat leftover Fort Lauderdale Employees **$755,226,097**, leftover Boca Raton Police and Fire **$613,033,507**, leftover Hollywood Police **$508,897,579**, leftover Pompano Beach Police and Fire **$313,289,538**, leftover Miramar Fire **$303,762,513**, leftover Sunrise Police **$254,102,126**, leftover Parkland Police **$2,287,469**, leftover Florida SBA **$300 billion+**, leftover MassPRIM **$73 billion**, or leftover NYSCRF **$226.8 billion** as this filing.
 2. **GASB cards.** Combined total pension liability **$1,361,524,918**. Combined net pension liability **$73,234,513**. Plan fiduciary net position as a percentage of total pension liability **94.62 percent** is of the **combined** book (the GASB note subtracts combined fiduciary net position **$1,288,290,405**).
 3. **Returns.** Notes money-weighted return **10.01 percent** net of pension-plan investment expense for the year ended **30 September 2025** (2024 **16.04 percent**). That is the same printed figure as MD&A total return; print it as money-weighted.
 
@@ -54,6 +54,7 @@ Do not 301 this page onto `/fort-lauderdale-employees/`, `/boca-raton-police-fir
 - [City Pension Fund for Firefighters and Police Officers in the City of Pembroke Pines](/pembroke-pines-police-fire/)
 - [City of Hollywood Police Officers Retirement System](/hollywood-police/)
 - [City of Miramar Firefighters Retirement Plan](/miramar-fire/)
+- [City of Parkland Police Officers Retirement Plan](/parkland-police/)
 - [Portland Fire and Police Disability and Retirement Funds](/portland-fpdr/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

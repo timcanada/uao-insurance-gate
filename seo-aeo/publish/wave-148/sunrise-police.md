@@ -23,7 +23,7 @@ The City of Sunrise Police Officers’ Retirement Plan is Sunrise’s sworn poli
 
 The statement of fiduciary net position, the DROP restriction note, the GASB note, and the money-weighted schedule are the sourced lines:
 
-1. **Fiduciary net position** **$254,102,126** at **30 September 2025** (beginning **$232,692,066**). Investments **$253,813,684** (2024 **$232,853,278**). Total assets **$254,258,770**. Total liabilities **$156,644**. DROP restricted **$15,725,651** (2024 **$15,160,237**) is held by the plan. Do not treat leftover Fort Lauderdale Police and Fire combined **$1,288,290,405**, leftover Fort Lauderdale Employees **$755,226,097**, leftover Boca Raton Police and Fire **$613,033,507**, leftover Hollywood Police **$508,897,579**, leftover West Palm Beach Police **$528,055,662**, leftover Florida SBA **$300 billion+**, leftover MassPRIM **$73 billion**, or leftover NYSCRF **$226.8 billion** as this filing.
+1. **Fiduciary net position** **$254,102,126** at **30 September 2025** (beginning **$232,692,066**). Investments **$253,813,684** (2024 **$232,853,278**). Total assets **$254,258,770**. Total liabilities **$156,644**. DROP restricted **$15,725,651** (2024 **$15,160,237**) is held by the plan. Do not treat leftover Fort Lauderdale Police and Fire combined **$1,288,290,405**, leftover Fort Lauderdale Employees **$755,226,097**, leftover Boca Raton Police and Fire **$613,033,507**, leftover Hollywood Police **$508,897,579**, leftover West Palm Beach Police **$528,055,662**, leftover Parkland Police **$2,287,469**, leftover Florida SBA **$300 billion+**, leftover MassPRIM **$73 billion**, or leftover NYSCRF **$226.8 billion** as this filing.
 2. **GASB cards.** Total pension liability **$338,592,926**. Net pension liability **$84,490,800**. Plan fiduciary net position as a percentage of total pension liability **75.05 percent** (2024 **72.85 percent**).
 3. **Returns.** Notes money-weighted return **9.03 percent** net of investment expense for the year ended **30 September 2025** (2024 **19.7 percent**).
 
@@ -55,5 +55,6 @@ Do not 301 this page onto `/fort-lauderdale-police-fire/`, `/boca-raton-police-f
 - [City Pension Fund for Firefighters and Police Officers in the City of Pembroke Pines](/pembroke-pines-police-fire/)
 - [City of Hollywood Police Officers Retirement System](/hollywood-police/)
 - [City of Miramar Firefighters Retirement Plan](/miramar-fire/)
+- [City of Parkland Police Officers Retirement Plan](/parkland-police/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

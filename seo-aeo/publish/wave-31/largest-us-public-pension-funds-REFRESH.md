@@ -337,6 +337,7 @@ Print the CalPERS and CalSTRS filings. OPERS, WSIB, PRIM, VRS, PSERS, New Jersey
 - [City of Hollywood Police Officers Retirement System](/hollywood-police/)
 - [City of Palm Bay Police and Firefighters’ Retirement System](/palm-bay-police-fire/)
 - [City of Miramar Firefighters Retirement Plan](/miramar-fire/)
+- [City of Parkland Police Officers Retirement Plan](/parkland-police/)
 - [Town of Jupiter Police Officers’ Retirement Fund](/jupiter-police/)
 - [City of Sunrise Police Officers’ Retirement Plan](/sunrise-police/)
 - [City of Sunrise General Employees’ Retirement Plan](/sunrise-employees/)

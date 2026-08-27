@@ -706,5 +706,10 @@ P1,Sarasota Police Officers Pension Fund,allocator,both,/sarasota-police/,define
 P1,District Attorneys Retirement System,allocator,both,/louisiana-dars/,define,unknown,unknown,unknown,drafted-wave-146,Wave 146. Official FNP $624,823,773 at 30 Jun 2025. Do not mint /dars/ or /mers/
 P1,Palm Beach Gardens Police Officers Pension Fund,allocator,both,/palm-beach-gardens-police/,define,unknown,unknown,unknown,drafted-wave-146,Wave 146. Official FNP $160,495,301 at 30 Sep 2025. Do not mint /pbg-police/ or /ers/
 P1,Fort Lauderdale General Employees Retirement System,allocator,both,/fort-lauderdale-employees/,define,unknown,unknown,unknown,drafted-wave-146,Wave 146. Official FNP $755,226,097 at 30 Sep 2025. Do not mint /fort-lauderdale-gers/ or /gers/ or /ers/
+P1,Boca Raton General Employees Pension Plan,allocator,both,/boca-raton-employees/,define,unknown,unknown,unknown,drafted-wave-147,Wave 147. Official FNP $256,729,999 at 30 Sep 2025. Do not mint /boca-raton-ge/ or /gepp/ or /ers/
+P1,Boca Raton Police and Firefighters Retirement System,allocator,both,/boca-raton-police-fire/,define,unknown,unknown,unknown,drafted-wave-147,Wave 147. Official FNP $613,033,507 at 30 Sep 2025. Do not mint /boca-pf/ or /pfrs/
+P1,Palm Beach Gardens Firefighters Pension Fund,allocator,both,/palm-beach-gardens-fire/,define,unknown,unknown,unknown,drafted-wave-147,Wave 147. Official FNP $178,150,007 at 30 Sep 2025. Do not mint /pbg-fire/ or /ers/
+P1,West Palm Beach Police Pension Fund,allocator,both,/west-palm-beach-police/,define,unknown,unknown,unknown,drafted-wave-147,Wave 147. Official FNP $528,055,662 at 30 Sep 2025. Do not mint /wpb-police/ or /wpbppf/ or /ers/
+P1,Jupiter Police Officers Retirement Fund,allocator,both,/jupiter-police/,define,unknown,unknown,unknown,drafted-wave-147,Wave 147. Official FNP $121,341,553 at 30 Sep 2025. Do not mint /jupiter-pors/ or /ers/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

@@ -54,5 +54,7 @@ Do not 301 this page onto `/tampa-fire-police/`, `/miami-fire-police/`, `/jackso
 - [City of Hialeah Employees’ Retirement System](/hialeah-employees/)
 - [City of Sarasota Police Officers’ Pension Fund](/sarasota-police/)
 - [Palm Beach Gardens Police Officers’ Pension Fund](/palm-beach-gardens-police/)
+- [West Palm Beach Police Pension Fund](/west-palm-beach-police/)
+- [Town of Jupiter Police Officers’ Retirement Fund](/jupiter-police/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

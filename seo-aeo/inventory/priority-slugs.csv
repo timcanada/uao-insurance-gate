@@ -509,6 +509,16 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,pbg-police,Palm Beach Gardens Police (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 146 /palm-beach-gardens-police/
 146,institution,fort-lauderdale-employees,Fort Lauderdale General Employees Retirement System,allocator,brief,P0,drafted-in-repo,Wave 146. Official FNP $755,226,097 at 30 Sep 2025. Do not mint /fort-lauderdale-gers/ or /gers/ or /ers/
 2,institution,fort-lauderdale-gers,Fort Lauderdale Employees (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 146 /fort-lauderdale-employees/. /gers/ unused
+147,institution,boca-raton-employees,Boca Raton General Employees Pension Plan,allocator,brief,P0,drafted-in-repo,Wave 147. Official FNP $256,729,999 at 30 Sep 2025. Do not mint /boca-raton-ge/ or /gepp/ or /ers/
+2,institution,boca-raton-ge,Boca Raton Employees (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 147 /boca-raton-employees/. /gepp/ is Jacksonville
+147,institution,boca-raton-police-fire,Boca Raton Police and Firefighters Retirement System,allocator,brief,P0,drafted-in-repo,Wave 147. Official FNP $613,033,507 at 30 Sep 2025. Do not mint /boca-pf/ or /pfrs/
+2,institution,boca-pf,Boca Raton Police and Fire (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 147 /boca-raton-police-fire/. /pfrs/ is Oakland
+147,institution,palm-beach-gardens-fire,Palm Beach Gardens Firefighters Pension Fund,allocator,brief,P0,drafted-in-repo,Wave 147. Official FNP $178,150,007 at 30 Sep 2025. Do not mint /pbg-fire/ or /ers/
+2,institution,pbg-fire,Palm Beach Gardens Fire (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 147 /palm-beach-gardens-fire/
+147,institution,west-palm-beach-police,West Palm Beach Police Pension Fund,allocator,brief,P0,drafted-in-repo,Wave 147. Official FNP $528,055,662 at 30 Sep 2025. Do not mint /wpb-police/ or /wpbppf/ or /ers/
+2,institution,wpb-police,West Palm Beach Police (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 147 /west-palm-beach-police/
+147,institution,jupiter-police,Jupiter Police Officers Retirement Fund,allocator,brief,P0,drafted-in-repo,Wave 147. Official FNP $121,341,553 at 30 Sep 2025. Do not mint /jupiter-pors/ or /ers/
+2,institution,jupiter-pors,Jupiter Police (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 147 /jupiter-police/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

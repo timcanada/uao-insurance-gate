@@ -51,5 +51,6 @@ Do not 301 this page onto `/sarasota-employees/`, `/gainesville-employees/`, `/s
 - [City of North Port Police Officers’ Pension–Local Option Trust Fund](/north-port-police/)
 - [City of Largo Municipal Police Officers’ and Firefighters’ Retirement Plan](/largo-police-fire/)
 - [Palm Beach Gardens Police Officers’ Pension Fund](/palm-beach-gardens-police/)
+- [City of Boca Raton Police and Firefighters’ Retirement System](/boca-raton-police-fire/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

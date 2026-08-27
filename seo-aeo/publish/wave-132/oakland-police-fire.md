@@ -48,6 +48,7 @@ Do not 301 this page onto `/calpers-explained-largest-us-pension-fund/`, `/fresn
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [CalPERS](/calpers-explained-largest-us-pension-fund/)
 - [East Bay Municipal Utility District Employees’ Retirement System](/ebmud-ers/)
+- [University of California Retirement Plan (UCRP)](/ucrp/)
 - [City of Fresno Fire and Police Retirement System](/fresno-fire-police/)
 - [Los Angeles Fire and Police Pensions](/lafpp/)
 - [San José Police and Fire](/san-jose-police-fire/)

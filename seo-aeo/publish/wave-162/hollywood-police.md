@@ -56,5 +56,6 @@ Do not 301 this page onto `/fort-lauderdale-police-fire/`, `/pembroke-pines-poli
 - [City of Parkland Police Officers Retirement Plan](/parkland-police/)
 - [North Miami Police Pension Plan](/north-miami-police/)
 - [Clair T. Singerman Employees’ Retirement System](/north-miami-employees/)
+- [City of Hallandale Beach Police Officers’ and Firefighters’ Personnel Retirement Trust](/hallandale-beach-police-fire/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

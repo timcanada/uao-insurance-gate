@@ -51,5 +51,7 @@ Do not 301 this page onto `/boynton-beach-fire/`, `/boynton-beach/`, `/bbpdp/`, 
 - [Palm Beach Gardens Police Officers’ Pension Fund](/palm-beach-gardens-police/)
 - [City of Lake Worth Beach Police Officers’ Retirement System](/lake-worth-beach-police/)
 - [City of Coral Springs Police Officers’ Pension Plan](/coral-springs-police/)
+- [City of Lauderhill Police Officers’ Retirement Plan](/lauderhill-police/)
+- [City of Hallandale Beach Police Officers’ and Firefighters’ Personnel Retirement Trust](/hallandale-beach-police-fire/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

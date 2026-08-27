@@ -771,6 +771,25 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,deerfield-beach-firefighters,Deerfield Beach firefighters (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 180 /deerfield-beach-fire/
 2,institution,deerfield-beach,Deerfield Beach (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 180 /deerfield-beach-fire/
 2,institution,dbmff,DBMFF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 180 /deerfield-beach-fire/
+181,institution,lauderhill-police,City of Lauderhill Police Officers Retirement Plan,allocator,brief,P0,drafted-in-repo,Wave 181. Official FNP $114,496,395 at 30 Sep 2025. Do not mint /lauderhill/ or /pfrs/ or /gepp/. Not leftover Sunrise Police
+2,institution,lauderhill-police-explained,Lauderhill Police explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 181 /lauderhill-police/
+2,institution,lauderhill,Lauderhill (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 181 /lauderhill-police/
+181,institution,ucrp,University of California Retirement Plan,allocator,brief,P0,drafted-in-repo,Wave 181. Official DB FNP $110,808,448 thousand at 30 Jun 2025. Do not mint /ucrs/ or /ers/. Not leftover CalPERS
+2,institution,ucrp-explained,UCRP explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 181 /ucrp/
+2,institution,ucrs,UCRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 181 /ucrp/
+2,institution,university-of-california-retirement,University of California retirement (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 181 /ucrp/
+2,institution,uc-retirement,UC retirement (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 181 /ucrp/
+181,institution,vta-atu,Santa Clara Valley Transportation Authority ATU Pension Plan,allocator,brief,P0,drafted-in-repo,Wave 181. Official FNP $769,785 thousand at 30 Jun 2025. Do not mint /vta-pension/ or /ers/. Not leftover CalPERS
+2,institution,vta-atu-explained,VTA ATU explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 181 /vta-atu/
+2,institution,vta-pension,VTA pension (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 181 /vta-atu/
+2,institution,scvta-atu,SCVTA ATU (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 181 /vta-atu/
+181,institution,sacrt-atu,Sacramento Regional Transit ATU Local 256 Retirement Plan,allocator,brief,P0,drafted-in-repo,Wave 181. Official ATU FNP $202,076,310 at 30 Jun 2025. Do not mint /sacrt-retirement/ or /scers/ or /ers/. Not leftover SCERS
+2,institution,sacrt-atu-explained,SacRT ATU explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 181 /sacrt-atu/
+2,institution,sacrt-retirement,SacRT retirement (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 181 /sacrt-atu/
+2,institution,sacramento-regional-transit,Sacramento Regional Transit (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 181 /sacrt-atu/
+181,institution,hallandale-beach-police-fire,City of Hallandale Beach Police Officers and Firefighters Personnel Retirement Trust,allocator,brief,P0,drafted-in-repo,Wave 181. Official FNP $297,610,943 at 30 Sep 2025. Do not mint /hallandale-beach/ or /pfrs/ or /gepp/. Not leftover Hollywood Police
+2,institution,hallandale-beach-police-fire-explained,Hallandale Beach Police Fire explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 181 /hallandale-beach-police-fire/
+2,institution,hallandale-beach,Hallandale Beach (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 181 /hallandale-beach-police-fire/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

@@ -51,5 +51,6 @@ Do not 301 this page onto `/boynton-beach-fire/`, `/deerfield-beach/`, `/dbmff/`
 - [City of Palm Beach Gardens Firefighters’ Pension Fund](/palm-beach-gardens-fire/)
 - [City of Miramar Firefighters Retirement Plan](/miramar-fire/)
 - [Pompano Beach Police and Firefighters’ Retirement System](/pompano-beach-police-fire/)
+- [City of Hallandale Beach Police Officers’ and Firefighters’ Personnel Retirement Trust](/hallandale-beach-police-fire/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

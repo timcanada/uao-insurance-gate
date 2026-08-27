@@ -56,5 +56,6 @@ Do not 301 this page onto `/fort-lauderdale-employees/`, `/boca-raton-police-fir
 - [City of Miramar Firefighters Retirement Plan](/miramar-fire/)
 - [City of Parkland Police Officers Retirement Plan](/parkland-police/)
 - [Portland Fire and Police Disability and Retirement Funds](/portland-fpdr/)
+- [City of Lauderhill Police Officers’ Retirement Plan](/lauderhill-police/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

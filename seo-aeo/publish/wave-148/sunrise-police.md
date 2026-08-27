@@ -56,5 +56,7 @@ Do not 301 this page onto `/fort-lauderdale-police-fire/`, `/boca-raton-police-f
 - [City of Hollywood Police Officers Retirement System](/hollywood-police/)
 - [City of Miramar Firefighters Retirement Plan](/miramar-fire/)
 - [City of Parkland Police Officers Retirement Plan](/parkland-police/)
+- [City of Lauderhill Police Officers’ Retirement Plan](/lauderhill-police/)
+- [City of Hallandale Beach Police Officers’ and Firefighters’ Personnel Retirement Trust](/hallandale-beach-police-fire/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -52,5 +52,7 @@ Do not 301 this page onto `/pompano-beach-police-fire/`, `/gepp/`, `/pfrs/`, `/c
 - [City of Hollywood Police Officers Retirement System](/hollywood-police/)
 - [City of Boynton Beach Municipal Firefighters Pension Trust Fund](/boynton-beach-fire/)
 - [City of Boynton Beach Police Officers’ Pension Fund](/boynton-beach-police/)
+- [City of Lauderhill Police Officers’ Retirement Plan](/lauderhill-police/)
+- [City of Hallandale Beach Police Officers’ and Firefighters’ Personnel Retirement Trust](/hallandale-beach-police-fire/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

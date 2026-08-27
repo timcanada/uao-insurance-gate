@@ -50,6 +50,7 @@ Do not 301 this page onto `/west-palm-beach-police/`, `/west-palm-beach-employee
 - [West Palm Beach Restated Employees Defined Benefit Retirement System](/west-palm-beach-employees/)
 - [City of Palm Beach Gardens Firefighters’ Pension Fund](/palm-beach-gardens-fire/)
 - [City of Boynton Beach Municipal Firefighters Pension Trust Fund](/boynton-beach-fire/)
+- [Deerfield Beach Municipal Firefighters’ Pension Trust Fund](/deerfield-beach-fire/)
 - [Palm Beach Gardens Police Officers’ Pension Fund](/palm-beach-gardens-police/)
 - [Town of Jupiter Police Officers’ Retirement Fund](/jupiter-police/)
 - [Lantana Police Relief and Pension Fund](/lantana-police/)

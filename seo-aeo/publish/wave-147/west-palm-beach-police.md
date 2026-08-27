@@ -56,5 +56,6 @@ Do not 301 this page onto `/west-palm-beach-employees/`, `/west-palm-beach-fire/
 - [West Palm Beach Firefighters’ Pension Fund](/west-palm-beach-fire/)
 - [City of Hollywood Police Officers Retirement System](/hollywood-police/)
 - [City of Lake Worth Beach Police Officers’ Retirement System](/lake-worth-beach-police/)
+- [City of Boynton Beach Police Officers’ Pension Fund](/boynton-beach-police/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

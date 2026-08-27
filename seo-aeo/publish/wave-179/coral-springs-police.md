@@ -51,5 +51,6 @@ Do not 301 this page onto `/pompano-beach-police-fire/`, `/gepp/`, `/pfrs/`, `/c
 - [North Miami Police Pension Plan](/north-miami-police/)
 - [City of Hollywood Police Officers Retirement System](/hollywood-police/)
 - [City of Boynton Beach Municipal Firefighters Pension Trust Fund](/boynton-beach-fire/)
+- [City of Boynton Beach Police Officers’ Pension Fund](/boynton-beach-police/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

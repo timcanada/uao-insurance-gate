@@ -48,6 +48,7 @@ Do not 301 this page onto `/lake-worth-beach-employees/`, `/gepp/`, `/gers/`, `/
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [City of Lake Worth Beach General Employees’ Retirement System](/lake-worth-beach-employees/)
 - [West Palm Beach Police Pension Fund](/west-palm-beach-police/)
+- [City of Boynton Beach Police Officers’ Pension Fund](/boynton-beach-police/)
 - [Town of Jupiter Police Officers’ Retirement Fund](/jupiter-police/)
 - [Lantana Police Relief and Pension Fund](/lantana-police/)
 - [City of North Port Police Officers’ Pension–Local Option Trust Fund](/north-port-police/)

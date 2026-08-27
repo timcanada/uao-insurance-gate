@@ -47,6 +47,7 @@ Do not 301 this page onto `/lacera/`, `/lacers/`, `/sbcera/`, `/vcera/`, `/kcera
 - [Public pension funds](/public-pension-funds/)
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [LACERA](/lacera/)
+- [East Bay Municipal Utility District Employees’ Retirement System](/ebmud-ers/)
 - [LACERS](/lacers/)
 - [SBCERA](/sbcera/)
 - [VCERA](/vcera/)

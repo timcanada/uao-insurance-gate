@@ -760,6 +760,17 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,boynton-beach-firefighters,Boynton Beach firefighters (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 179 /boynton-beach-fire/
 2,institution,boynton-beach,Boynton Beach (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 179 /boynton-beach-fire/
 2,institution,bbffp,BBFFP (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 179 /boynton-beach-fire/
+180,institution,ebmud-ers,East Bay Municipal Utility District Employees Retirement System,allocator,brief,P0,drafted-in-repo,Wave 180. Official pension FNP $2,743,096 thousand at 30 Jun 2025. Do not mint /ebmud/ or /ers/. Not leftover ACERA
+2,institution,ebmud-ers-explained,EBMUD ERS explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 180 /ebmud-ers/
+2,institution,ebmud,EBMUD (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 180 /ebmud-ers/
+180,institution,boynton-beach-police,City of Boynton Beach Police Officers Pension Fund,allocator,brief,P0,drafted-in-repo,Wave 180. Official FNP $183,137,267 at 30 Sep 2025. Do not mint /boynton-beach/ or /bbpdp/ or /pfrs/. Not leftover Boynton Beach Fire
+2,institution,boynton-beach-police-explained,Boynton Beach Police explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 180 /boynton-beach-police/
+2,institution,bbpdp,BBPDP (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 180 /boynton-beach-police/
+180,institution,deerfield-beach-fire,Deerfield Beach Municipal Firefighters Pension Trust Fund,allocator,brief,P0,drafted-in-repo,Wave 180. Official FNP $169,470,820 at 30 Sep 2025. Do not mint /deerfield-beach/ or /dbmff/ or /pfrs/. Not leftover Boynton Beach Fire
+2,institution,deerfield-beach-fire-explained,Deerfield Beach Fire explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 180 /deerfield-beach-fire/
+2,institution,deerfield-beach-firefighters,Deerfield Beach firefighters (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 180 /deerfield-beach-fire/
+2,institution,deerfield-beach,Deerfield Beach (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 180 /deerfield-beach-fire/
+2,institution,dbmff,DBMFF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 180 /deerfield-beach-fire/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

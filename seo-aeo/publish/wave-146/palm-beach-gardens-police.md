@@ -52,5 +52,6 @@ Do not 301 this page onto `/hialeah-employees/`, `/pompano-beach-police-fire/`, 
 - [City of Largo Municipal Police Officers’ and Firefighters’ Retirement Plan](/largo-police-fire/)
 - [City of Fort Lauderdale General Employees’ Retirement System](/fort-lauderdale-employees/)
 - [City of Palm Beach Gardens Firefighters’ Pension Fund](/palm-beach-gardens-fire/)
+- [City of Boynton Beach Police Officers’ Pension Fund](/boynton-beach-police/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -49,6 +49,7 @@ Do not 301 this page onto `/stancera/`, `/sdcera/`, `/acera/`, `/contra-costa-cc
 - [StanCERA](/stancera/)
 - [SDCERA](/sdcera/)
 - [ACERA](/acera/)
+- [East Bay Municipal Utility District Employees’ Retirement System](/ebmud-ers/)
 - [SBCERA](/sbcera/)
 - [VCERA](/vcera/)
 - [SamCERA](/samcera/)

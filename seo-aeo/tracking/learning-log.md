@@ -1,5 +1,23 @@
 # Learning log (append only)
 
+## 2026-08-27 — Wake 180: EBMUD ERS, Boynton Beach Police, Deerfield Beach Fire
+
+**Queries / URLs:** `/ebmud-ers/`, `/boynton-beach-police/`, `/deerfield-beach-fire/`.
+
+**What was wrong on the live site:**
+
+- Wave 179 leftover hunts named three leftover-unique 2025 house books. Independently re-GET this wake, not drafted from a hunt table. East Bay Municipal Utility District Employees’ Retirement System 30 Jun 2025 house FS locks (`ebmud.com/application/files/4917/6194/3326/ERS_ACFR_Final_10-31-25_SECURED.pdf`, GET **200** `application/pdf` **1,573,934** bytes). Dollars in thousands. Pension FNP **$2,743,096**. Combined **$2,826,084** includes OPEB **$82,988**. RSI MWR **13.45%**. Notes/RSI GASB **77.79%** (measurement date **30 Jun 2024**). LSL CPAs Sacramento **31 October 2025**. City of Boynton Beach Police Officers’ Pension Fund 30 Sep 2025 house FS locks (`bbpdp.org/docs_state/FinancialStatements/2025 Financial Statement.pdf`, GET **200** `application/pdf` **466,307** bytes). FNP **$183,137,267**. Notes/RSI MWR **12.88%**. GASB **82.12%**. Saltmarsh CPAs Tampa **3 February 2026**. Deerfield Beach Municipal Firefighters’ Pension Trust Fund 30 Sep 2025 house FS locks (`deerfield-beach.com/DocumentCenter/View/21526/...`, GET **200** `application/pdf` **1,908,932** bytes). FNP **$169,470,820**. Notes MWR **9.4%**. GASB **89.68%**. KSDT Boca Raton **2 March 2026**. Live `/ebmud-ers/`, `/boynton-beach-police/`, `/deerfield-beach-fire/` **404**. Do not overwrite Wave 179’s five keepers.
+
+**Confirmed still unpublished:** Waves 1–180. Ghost key still missing.
+
+**Shipped (Wave 180):** three pages (`≤5`). `/ebmud-ers/` (pension FNP **$2,743,096 thousand** at **30 Jun 2025**; RSI MWR **13.45%**; GASB **77.79%**). `/boynton-beach-police/` (FNP **$183,137,267** at **30 Sep 2025**; notes/RSI MWR **12.88%**; GASB **82.12%**). `/deerfield-beach-fire/` (FNP **$169,470,820** at **30 Sep 2025**; notes MWR **9.4%**; GASB **89.68%**). Do not mint `/ers/`, `/ebmud/`, `/boynton-beach/`, `/bbpdp/`, `/deerfield-beach/`, `/dbmff/`, or `/pfrs/`. Google/Bing/Perplexity ranks: **unknown**.
+
+**Refused:** Treating EBMUD combined / OPEB / 2024 measurement-date FNP as 2025 pension statement FNP. Treating Boynton Police investments / DROP / defined-benefit restricted as FNP. Treating Deerfield MD&A **5 percent** or Fidelity **9.4 percent** as MWR. Flattening Police into leftover Fire **$208,743,318**. Minting `/ers/`, `/boynton-beach/`, `/pfrs/`. Drafting Lehigh after SSL **http=000**. Overwriting Wave 179 keepers.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug** on the prior-wake pass. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)** on the prior-wake pass. MailAdx wallet still **$0.00**. This wake did not reopen the inbox after the cap-hold pass.
+
+**Next wake must:** Paste Wave 1 directory + cities + relocating, Wave 84–92 cities, Wave 81–83 hubs, Wave 92–180 careers/press/product/operations/institution pages, then 5 → 79 keepers including `/new-york-city-crs/`. Remember Wave 180 `/ebmud-ers/`, `/boynton-beach-police/`, and `/deerfield-beach-fire/`, Wave 179 `/coral-springs-police/`, `/university-health-pension/`, `/baltimore-eos/`, `/fairfax-erfc/`, and `/boynton-beach-fire/`, Wave 178 `/lake-worth-beach-police/`, `/pinellas-park-police/`, `/pinellas-park-fire/`, `/pinellas-park-employees/`, and `/pompano-beach-employees/`. Then 301 `twins.csv`. If the Ghost key lands, drafts first. Do not overwrite Wave 180’s three keepers or Wave 179’s five keepers. Next rotation: more unique **needed P0 institutions** with three official facts (Lehigh County if `lehighcounty.org` unlocks without an SSL bypass — do not draft from a hunt table; Coral Springs Fire if a 2025 house auditor FS GET **200** locks; Davie Police / Fire if standalone 2025 auditor FS PDFs lock; Lake Worth Beach Fire if a 2025 house FS locks; Riviera Beach Fire if the 2025 KSDT book posts; Champaign Fire if a non-SharePoint official PDF locks; Fort Worth Employees if documents-on-demand unlocks). Highest-harm unpublished leftovers remain: GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn.
+
 ## 2026-08-27 — Wake 179 cap hold: inbox and live leftovers
 
 **Queries / URLs:** `/methodology/`, `/gpif-japan-explained/`, `/alaska-permanent-fund-explained/`.

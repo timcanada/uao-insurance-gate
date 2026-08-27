@@ -706,6 +706,12 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,danville-employees-explained,Danville Employees explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 177 /danville-employees/
 2,institution,danville-ers,Danville ERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 177 /danville-employees/. /ers/ remains Texas ERS
 2,institution,danville,Danville (city short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 177 /danville-employees/
+177,institution,lake-worth-beach-employees,Lake Worth Beach General Employees Retirement System,allocator,brief,P0,drafted-in-repo,Wave 177. Official FNP $85,643,782 at 30 Sep 2025. Do not mint /lwb-ge/ or /gepp/ or /gers/
+2,institution,lake-worth-beach-employees-explained,Lake Worth Beach Employees explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 177 /lake-worth-beach-employees/
+2,institution,lake-worth-employees,Lake Worth Employees (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 177 /lake-worth-beach-employees/
+2,institution,lake-worth,Lake Worth (city short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 177 /lake-worth-beach-employees/
+2,institution,lwbers,LWBERS (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 177 /lake-worth-beach-employees/
+2,institution,lwb-ge,LWB GE (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 177 /lake-worth-beach-employees/. /gepp/ is Jacksonville. /gers/ unused Fort Lauderdale
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

@@ -52,5 +52,6 @@ Do not 301 this page onto `/sunrise-police/`, `/fort-lauderdale-employees/`, `/s
 - [Miami Beach Employees’ Retirement Plan](/miami-beach-employees/)
 - [St. Johns River Power Park System Employees’ Retirement Plan](/jacksonville-sjrpp/)
 - [West Palm Beach Restated Employees Defined Benefit Retirement System](/west-palm-beach-employees/)
+- [City of Lake Worth Beach General Employees’ Retirement System](/lake-worth-beach-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

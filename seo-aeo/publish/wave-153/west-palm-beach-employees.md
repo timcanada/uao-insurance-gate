@@ -27,7 +27,7 @@ The statement of fiduciary net position, the advanced-contribution deferred infl
 2. **GASB cards.** Total pension liability **$43,234,473**. That total excludes liabilities funded by the annuity contracts the City purchased when it terminated the prior plan on **10 September 1997**. Plan fiduciary net position **$46,629,715**. That GASB line includes the **$1,507,276** advanced contributions; it is not the statement net-position card. Net pension asset **$3,395,242**. Plan fiduciary net position as a percentage of total pension liability **107.85 percent** (2024 **112.23 percent**).
 3. **Returns.** Notes money-weighted return **6.97 percent** net of Plan investment expense for the year ended **30 September 2025** (2024 **21.51 percent**).
 
-Do not flatten the West Palm Beach Restated Employees Defined Benefit Retirement System into [West Palm Beach Police Pension Fund](/west-palm-beach-police/), [West Palm Beach Firefighters’ Pension Fund](/west-palm-beach-fire/), [Town of Jupiter Police Officers’ Retirement Fund](/jupiter-police/), or [City of Boca Raton General Employees’ Pension Plan](/boca-raton-employees/). West Palm Beach Police is the police file. West Palm Beach Fire is the firefighter file. Jupiter is another Palm Beach County police file. Boca Raton Employees is a Boca civilian file. This is **one West Palm Beach closed civilian file**.
+Do not flatten the West Palm Beach Restated Employees Defined Benefit Retirement System into [West Palm Beach Police Pension Fund](/west-palm-beach-police/), [West Palm Beach Firefighters’ Pension Fund](/west-palm-beach-fire/), [Town of Jupiter Police Officers’ Retirement Fund](/jupiter-police/), [City of Boca Raton General Employees’ Pension Plan](/boca-raton-employees/), or [City of Lake Worth Beach General Employees’ Retirement System](/lake-worth-beach-employees/). West Palm Beach Police is the police file. West Palm Beach Fire is the firefighter file. Jupiter is another Palm Beach County police file. Boca Raton Employees is a Boca civilian file. Lake Worth Beach Employees is a Lake Worth Beach civilian file. This is **one West Palm Beach closed civilian file**.
 
 ## What an owner is actually buying
 
@@ -52,5 +52,6 @@ Do not 301 this page onto `/west-palm-beach-police/`, `/west-palm-beach-fire/`, 
 - [Lantana Police Relief and Pension Fund](/lantana-police/)
 - [City of Boca Raton General Employees’ Pension Plan](/boca-raton-employees/)
 - [City of Sunrise General Employees’ Retirement Plan](/sunrise-employees/)
+- [City of Lake Worth Beach General Employees’ Retirement System](/lake-worth-beach-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

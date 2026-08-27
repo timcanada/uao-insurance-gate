@@ -51,6 +51,7 @@ Do not 301 this page onto `/boca-raton-police-fire/`, `/fort-lauderdale-employee
 - [City of Fort Lauderdale General Employees’ Retirement System](/fort-lauderdale-employees/)
 - [City of Sunrise General Employees’ Retirement Plan](/sunrise-employees/)
 - [West Palm Beach Restated Employees Defined Benefit Retirement System](/west-palm-beach-employees/)
+- [City of Lake Worth Beach General Employees’ Retirement System](/lake-worth-beach-employees/)
 - [City of Hialeah Employees’ Retirement System](/hialeah-employees/)
 - [City of Lakeland Employees’ Pension and Retirement System](/lakeland-employees/)
 - [Advertise](/advertise/)

@@ -321,6 +321,7 @@ On a beneficiary definition: **GPIF**. On a “largest book with pension in the 
 - [St. Johns River Power Park System Employees’ Retirement Plan](/jacksonville-sjrpp/)
 - [Lantana Police Relief and Pension Fund](/lantana-police/)
 - [West Palm Beach Restated Employees Defined Benefit Retirement System](/west-palm-beach-employees/)
+- [City of Lake Worth Beach General Employees’ Retirement System](/lake-worth-beach-employees/)
 - [Portland Fire and Police Disability and Retirement Funds](/portland-fpdr/)
 - [Springfield Police Pension Fund](/springfield-police/)
 - [Springfield Firefighters’ Pension Fund](/springfield-fire/)

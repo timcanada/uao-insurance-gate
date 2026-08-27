@@ -51,5 +51,6 @@ Do not 301 this page onto `/fort-lauderdale-police-fire/`, `/boca-raton-police-f
 - [City of Boca Raton Police and Firefighters’ Retirement System](/boca-raton-police-fire/)
 - [West Palm Beach Police Pension Fund](/west-palm-beach-police/)
 - [Pompano Beach Police and Firefighters’ Retirement System](/pompano-beach-police-fire/)
+- [City Pension Fund for Firefighters and Police Officers in the City of Pembroke Pines](/pembroke-pines-police-fire/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

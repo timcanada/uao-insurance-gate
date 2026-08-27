@@ -54,5 +54,6 @@ Do not 301 this page onto `/miami-fire-police/`, `/miami-gese/`, `/lakeland-empl
 - [Palm Beach Gardens Police Officers’ Pension Fund](/palm-beach-gardens-police/)
 - [City of Fort Lauderdale General Employees’ Retirement System](/fort-lauderdale-employees/)
 - [City of Fort Lauderdale Police and Firefighters’ Retirement System](/fort-lauderdale-police-fire/)
+- [Miami Beach Employees’ Retirement Plan](/miami-beach-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

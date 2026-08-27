@@ -54,5 +54,7 @@ Do not 301 this page onto `/miami-gese/`, `/tampa-fire-police/`, `/jacksonville-
 - [Pompano Beach Police and Firefighters’ Retirement System](/pompano-beach-police-fire/)
 - [City of Largo Municipal Police Officers’ and Firefighters’ Retirement Plan](/largo-police-fire/)
 - [City of Hialeah Employees’ Retirement System](/hialeah-employees/)
+- [City Pension Fund for Firefighters and Police Officers in the City of Miami Beach](/miami-beach-police-fire/)
+- [City Pension Fund for Firefighters and Police Officers in the City of Pembroke Pines](/pembroke-pines-police-fire/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

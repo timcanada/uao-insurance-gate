@@ -54,5 +54,6 @@ Do not 301 this page onto `/miami-fire-police/`, `/tampa-fire-police/`, `/jackso
 - [City of Palm Beach Gardens Firefighters’ Pension Fund](/palm-beach-gardens-fire/)
 - [City of Boca Raton Police and Firefighters’ Retirement System](/boca-raton-police-fire/)
 - [City of Fort Lauderdale Police and Firefighters’ Retirement System](/fort-lauderdale-police-fire/)
+- [City Pension Fund for Firefighters and Police Officers in the City of Pembroke Pines](/pembroke-pines-police-fire/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

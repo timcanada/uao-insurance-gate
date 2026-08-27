@@ -713,5 +713,8 @@ P1,West Palm Beach Police Pension Fund,allocator,both,/west-palm-beach-police/,d
 P1,Jupiter Police Officers Retirement Fund,allocator,both,/jupiter-police/,define,unknown,unknown,unknown,drafted-wave-147,Wave 147. Official FNP $121,341,553 at 30 Sep 2025. Do not mint /jupiter-pors/ or /ers/
 P1,Sunrise Police Officers Retirement Plan,allocator,both,/sunrise-police/,define,unknown,unknown,unknown,drafted-wave-148,Wave 148. Official FNP $254,102,126 at 30 Sep 2025. Do not mint /sunrise-pors/ or /ers/
 P1,Fort Lauderdale Police and Firefighters Retirement System,allocator,both,/fort-lauderdale-police-fire/,define,unknown,unknown,unknown,drafted-wave-148,Wave 148. Official combined FNP $1,288,290,405 at 30 Sep 2025. Do not mint /flpfrs/ or /pfrs/
+P1,Pembroke Pines Firefighters and Police Officers Pension Fund,allocator,both,/pembroke-pines-police-fire/,define,unknown,unknown,unknown,drafted-wave-149,Wave 149. Official FNP $1,063,006,542 at 30 Sep 2025. Do not mint /pines-pfrs/ or /pfrs/
+P1,Miami Beach Firefighters and Police Officers Pension Fund,allocator,both,/miami-beach-police-fire/,define,unknown,unknown,unknown,drafted-wave-149,Wave 149. Official FNP $1,341,331,702 at 30 Sep 2025. Do not mint /mbfp/ or /fipo/
+P1,Miami Beach Employees Retirement Plan,allocator,both,/miami-beach-employees/,define,unknown,unknown,unknown,drafted-wave-149,Wave 149. Official FNP $949,449,272 at 30 Sep 2025. Do not mint /mberp/ or /gepp/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

@@ -54,5 +54,6 @@ Do not 301 this page onto `/miami-fire-police/`, `/tampa-general-employees/`, `/
 - [City of Sarasota General Employees’ Defined Benefit Pension Plan](/sarasota-employees/)
 - [City of Lakeland Employees’ Pension and Retirement System](/lakeland-employees/)
 - [City of Hialeah Employees’ Retirement System](/hialeah-employees/)
+- [Miami Beach Employees’ Retirement Plan](/miami-beach-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

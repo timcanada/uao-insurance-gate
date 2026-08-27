@@ -27,7 +27,7 @@ The combining statement of fiduciary net position, the notes GASB table, and the
 2. **GASB cards.** Notes total pension liability **$1,108,633,608**. Net pension liability **$235,746,770**. Plan fiduciary net position as a percentage of total pension liability **78.7 percent**. The notes say the source is actuarial data based on preliminary financials. Print the combining-statement dollars. Do not treat **$1,108,633,608** as AUM. Discount rate **7.00 percent**. Combined System GASB **77.9 percent** is not this card.
 3. **Returns.** Notes System money-weighted return **15.4 percent** net of System expenses for the year ended **31 December 2025** (2024 **10.5 percent**). Transmittal market **15.6 percent** and the RSI schedule **15.6 percent** are not a second System card and are not a per-plan money-weighted return. This page does not invent a Police money-weighted return.
 
-Do not flatten the Police Service Retirement Plan into [Anne Arundel Employees’ Retirement Plan](/anne-arundel-employees/) or [Anne Arundel Fire Service Retirement Plan](/anne-arundel-fire/). Employees is the civilian file. Fire Service is a different sworn file. This is **one Anne Arundel police file**.
+Do not flatten the Police Service Retirement Plan into [Anne Arundel Employees’ Retirement Plan](/anne-arundel-employees/), [Anne Arundel Fire Service Retirement Plan](/anne-arundel-fire/), or [Anne Arundel Detention Officers’ and Deputy Sheriffs’ Retirement Plan](/anne-arundel-detention/). Employees is the civilian file. Fire Service and Detention are different files. This is **one Anne Arundel police file**.
 
 ## What an owner is actually buying
 
@@ -48,5 +48,6 @@ Do not 301 this page onto `/anne-arundel-employees/`, `/anne-arundel-fire/`, `/a
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Anne Arundel Employees’ Retirement Plan](/anne-arundel-employees/)
 - [Anne Arundel Fire Service Retirement Plan](/anne-arundel-fire/)
+- [Anne Arundel Detention Officers’ and Deputy Sheriffs’ Retirement Plan](/anne-arundel-detention/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

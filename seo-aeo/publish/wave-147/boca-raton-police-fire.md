@@ -23,11 +23,11 @@ The City of Boca Raton Police and Firefighters’ Retirement System is Boca Rato
 
 The statement of fiduciary net position, the GASB 67 note, and the money-weighted schedule are the sourced lines:
 
-1. **Fiduciary net position** **$613,033,507** at **30 September 2025** (beginning **$559,214,738**). Investments **$584,701,156**. Total assets **$614,168,204**. Total liabilities **$1,134,697**. Do not treat leftover Boca civilian **$256,729,999**, leftover Palm Beach Gardens Police **$160,495,301**, leftover Miami Fire and Police **$1,943,149,383**, leftover Florida SBA **$300 billion+**, leftover MassPRIM **$73 billion**, or leftover NYSCRF **$226.8 billion** as this filing.
+1. **Fiduciary net position** **$613,033,507** at **30 September 2025** (beginning **$559,214,738**). Investments **$584,701,156**. Total assets **$614,168,204**. Total liabilities **$1,134,697**. Do not treat leftover Boca civilian **$256,729,999**, leftover Boca Executive **$75,518,835**, leftover Palm Beach Gardens Police **$160,495,301**, leftover Miami Fire and Police **$1,943,149,383**, leftover Florida SBA **$300 billion+**, leftover MassPRIM **$73 billion**, or leftover NYSCRF **$226.8 billion** as this filing.
 2. **GASB cards.** Total pension liability **$823,245,024**. Net pension liability **$210,211,517**. Plan fiduciary net position as a percentage of total pension liability **74.47 percent** (2024 **72.02 percent**).
 3. **Returns.** Notes money-weighted return **9.72 percent** net of plan investment expense for the year ended **30 September 2025** (2024 **15.50 percent**).
 
-Do not flatten the City of Boca Raton Police and Firefighters’ Retirement System into [City of Boca Raton General Employees’ Pension Plan](/boca-raton-employees/), [Palm Beach Gardens Police Officers’ Pension Fund](/palm-beach-gardens-police/), [City of Miami Firefighters’ and Police Officers’ Retirement Trust](/miami-fire-police/), or [Florida State Board of Administration](/florida-state-board-of-administration-explained/). Boca civilian is the civilian file. Palm Beach Gardens Police is a Palm Beach Gardens file. Miami Fire and Police is a Miami sworn file. This is **one Boca Raton sworn file**.
+Do not flatten the City of Boca Raton Police and Firefighters’ Retirement System into [City of Boca Raton General Employees’ Pension Plan](/boca-raton-employees/), [City of Boca Raton Executive Employees’ Retirement Plan](/boca-raton-executive/), [Palm Beach Gardens Police Officers’ Pension Fund](/palm-beach-gardens-police/), [City of Miami Firefighters’ and Police Officers’ Retirement Trust](/miami-fire-police/), or [Florida State Board of Administration](/florida-state-board-of-administration-explained/). Boca civilian and Boca Executive are different Boca files. Palm Beach Gardens Police is a Palm Beach Gardens file. Miami Fire and Police is a Miami sworn file. This is **one Boca Raton sworn file**.
 
 ## What an owner is actually buying
 
@@ -47,6 +47,7 @@ Do not 301 this page onto `/boca-raton-employees/`, `/palm-beach-gardens-police/
 - [Public pension funds](/public-pension-funds/)
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [City of Boca Raton General Employees’ Pension Plan](/boca-raton-employees/)
+- [City of Boca Raton Executive Employees’ Retirement Plan](/boca-raton-executive/)
 - [Palm Beach Gardens Police Officers’ Pension Fund](/palm-beach-gardens-police/)
 - [City of Palm Beach Gardens Firefighters’ Pension Fund](/palm-beach-gardens-fire/)
 - [West Palm Beach Police Pension Fund](/west-palm-beach-police/)

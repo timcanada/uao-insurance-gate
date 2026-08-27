@@ -27,7 +27,7 @@ The combining statement of fiduciary net position, the notes GASB table, and the
 2. **GASB cards.** Notes total pension liability **$1,308,005,506**. Net pension liability **$359,811,553**. Plan fiduciary net position as a percentage of total pension liability **72.5 percent**. The notes say the source is actuarial data based on preliminary financials. Print the combining-statement dollars. Do not treat **$1,308,005,506** as AUM. Discount rate **7.00 percent**. Combined System GASB **77.9 percent** is not this card.
 3. **Returns.** Notes System money-weighted return **15.4 percent** net of System expenses for the year ended **31 December 2025** (2024 **10.5 percent**). Transmittal market **15.6 percent** and the RSI schedule **15.6 percent** are not a second System card and are not a per-plan money-weighted return. This page does not invent an Employees money-weighted return. Employees has no DROP lump-sum line in that note.
 
-Do not flatten the Employees’ Retirement Plan into [Anne Arundel Police Service Retirement Plan](/anne-arundel-police/) or [Anne Arundel Fire Service Retirement Plan](/anne-arundel-fire/). Police Service and Fire Service are different legal persons in the same house ACFR. This is **one Anne Arundel civilian file**.
+Do not flatten the Employees’ Retirement Plan into [Anne Arundel Police Service Retirement Plan](/anne-arundel-police/), [Anne Arundel Fire Service Retirement Plan](/anne-arundel-fire/), or [Anne Arundel Detention Officers’ and Deputy Sheriffs’ Retirement Plan](/anne-arundel-detention/). Police Service, Fire Service, and Detention are different legal persons in the same house ACFR. This is **one Anne Arundel civilian file**.
 
 ## What an owner is actually buying
 
@@ -48,5 +48,6 @@ Do not 301 this page onto `/anne-arundel-police/`, `/anne-arundel-fire/`, `/anne
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Anne Arundel Police Service Retirement Plan](/anne-arundel-police/)
 - [Anne Arundel Fire Service Retirement Plan](/anne-arundel-fire/)
+- [Anne Arundel Detention Officers’ and Deputy Sheriffs’ Retirement Plan](/anne-arundel-detention/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

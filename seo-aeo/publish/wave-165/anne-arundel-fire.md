@@ -27,7 +27,7 @@ The combining statement of fiduciary net position, the notes GASB table, and the
 2. **GASB cards.** Notes total pension liability **$1,051,308,018**. Net pension liability **$176,510,136**. Plan fiduciary net position as a percentage of total pension liability **83.2 percent**. The notes say the source is actuarial data based on preliminary financials. Print the combining-statement dollars. Do not treat **$1,051,308,018** as AUM. Discount rate **7.00 percent**. Combined System GASB **77.9 percent** is not this card.
 3. **Returns.** Notes System money-weighted return **15.4 percent** net of System expenses for the year ended **31 December 2025** (2024 **10.5 percent**). Transmittal market **15.6 percent** and the RSI schedule **15.6 percent** are not a second System card and are not a per-plan money-weighted return. This page does not invent a Fire money-weighted return.
 
-Do not flatten the Fire Service Retirement Plan into [Anne Arundel Employees’ Retirement Plan](/anne-arundel-employees/) or [Anne Arundel Police Service Retirement Plan](/anne-arundel-police/). Employees is the civilian file. Police Service is a different sworn file. This is **one Anne Arundel firefighter file**.
+Do not flatten the Fire Service Retirement Plan into [Anne Arundel Employees’ Retirement Plan](/anne-arundel-employees/), [Anne Arundel Police Service Retirement Plan](/anne-arundel-police/), or [Anne Arundel Detention Officers’ and Deputy Sheriffs’ Retirement Plan](/anne-arundel-detention/). Employees is the civilian file. Police Service and Detention are different files. This is **one Anne Arundel firefighter file**.
 
 ## What an owner is actually buying
 
@@ -48,5 +48,6 @@ Do not 301 this page onto `/anne-arundel-employees/`, `/anne-arundel-police/`, `
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Anne Arundel Employees’ Retirement Plan](/anne-arundel-employees/)
 - [Anne Arundel Police Service Retirement Plan](/anne-arundel-police/)
+- [Anne Arundel Detention Officers’ and Deputy Sheriffs’ Retirement Plan](/anne-arundel-detention/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

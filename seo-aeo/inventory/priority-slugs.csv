@@ -577,7 +577,15 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 165,institution,anne-arundel-employees,Anne Arundel Employees Retirement Plan,allocator,brief,P0,drafted-in-repo,Wave 165. Combining FNP $948,193,953 at 31 Dec 2025. GASB 72.5%. System MWR 15.4%. Combined $2,934,944,458 is not a fifth book. Do not mint /anne-arundel/ or /ers/
 165,institution,anne-arundel-police,Anne Arundel Police Service Retirement Plan,allocator,brief,P0,drafted-in-repo,Wave 165. Combining FNP $872,886,838 at 31 Dec 2025. DROP $20,513,210 is not AUM. GASB 78.7%. Do not mint /anne-arundel/ or /ers/
 165,institution,anne-arundel-fire,Anne Arundel Fire Service Retirement Plan,allocator,brief,P0,drafted-in-repo,Wave 165. Combining FNP $874,797,882 at 31 Dec 2025. DROP $20,370,304 is not AUM. GASB 83.2%. Do not mint /anne-arundel/ or /ers/
-2,institution,anne-arundel,Anne Arundel System (short),allocator,brief,P0,do-not-mint,Do not mint. Combined System is not a fifth book. Use Wave 165 plan slugs. Detention waits Wave 166
+2,institution,anne-arundel,Anne Arundel System (short),allocator,brief,P0,do-not-mint,Do not mint. Combined System is not a fifth book. Use Wave 165-166 plan slugs including /anne-arundel-detention/
+166,institution,anne-arundel-detention,Anne Arundel Detention Officers Retirement Plan,allocator,brief,P0,drafted-in-repo,Wave 166. Combining FNP $239,065,785 at 31 Dec 2025. DROP $9,126,623 is not AUM. GASB 79.9%. Combined is not a fifth book. Do not mint /anne-arundel/ or /ers/
+166,institution,boca-raton-executive,Boca Raton Executive Employees Retirement Plan,allocator,brief,P0,drafted-in-repo,Wave 166. Official FNP $75,518,835 at 30 Sep 2025. Do not mint /boca-raton-eerp/ or /boca-executive/. Not leftover Boca GE $256,729,999
+2,institution,boca-raton-eerp,Boca Executive (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 166 /boca-raton-executive/. Not leftover Boca GE or Police and Fire
+166,institution,lake-alfred-general,Lake Alfred General Employees Retirement System,allocator,brief,P0,drafted-in-repo,Wave 166. Official FNP $7,514,883 at 30 Sep 2025. Do not mint /lake-alfred/ or /lagers/. Not leftover Boca GE
+2,institution,lake-alfred,Lake Alfred (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 166 /lake-alfred-general/. /lagers/ remains Missouri LAGERS
+166,institution,southern-manatee-fire,Southern Manatee Firefighters Retirement Plan,allocator,brief,P0,drafted-in-repo,Wave 166. Official FNP $83,968,008 at 30 Sep 2025. Investments equal FNP. Net pension asset $1,411,967. Do not mint /smfr/ or /southern-manatee-firefighters/
+2,institution,smfr,Southern Manatee Fire (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 166 /southern-manatee-fire/. District-wide FS is not this book
+2,institution,southern-manatee-firefighters,Southern Manatee Fire (long),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 166 /southern-manatee-fire/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

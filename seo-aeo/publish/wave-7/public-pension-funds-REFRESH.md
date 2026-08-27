@@ -321,6 +321,7 @@ On a beneficiary definition: **GPIF**. On a “largest book with pension in the 
 - [West Palm Beach Restated Employees Defined Benefit Retirement System](/west-palm-beach-employees/)
 - [Portland Fire and Police Disability and Retirement Funds](/portland-fpdr/)
 - [Springfield Police Pension Fund](/springfield-police/)
+- [Springfield Firefighters’ Pension Fund](/springfield-fire/)
 - [City of Springfield, Missouri Police Officers’ and Fire Fighters’ Retirement Fund](/springfield-mo-police-fire/)
 - [Village of Grayslake Police Pension Fund](/grayslake-police/)
 - [Champaign Police Pension Fund](/champaign-police/)

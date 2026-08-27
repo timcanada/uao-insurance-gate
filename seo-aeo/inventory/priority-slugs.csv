@@ -567,6 +567,9 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,parkland,Parkland Police (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 163 /parkland-police/. Closed Chapter 185. Not leftover Hollywood Police
 2,institution,porp,Parkland Police (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 163 /parkland-police/. Not leftover Hollywood Police
 2,institution,parkland-pors,Parkland Police (pors),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 163 /parkland-police/. Closed Chapter 185
+164,institution,springfield-fire,Springfield Firefighters Pension Fund,allocator,brief,P0,drafted-in-repo,Wave 164. Official FNP $192,032,076 at 28 Feb 2025. IFPIF $188,501,050 is a component. Do not mint /sfd-pension/ or /springfield-firefighters/ or /springfield/. Not leftover Springfield Police
+2,institution,sfd-pension,Springfield Fire (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 164 /springfield-fire/. Not leftover Springfield Police /springfield-police/
+2,institution,springfield-firefighters,Springfield Fire (long),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 164 /springfield-fire/. /springfield/ remains Illinois Police twin
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

@@ -346,6 +346,7 @@ Print the CalPERS and CalSTRS filings. OPERS, WSIB, PRIM, VRS, PSERS, New Jersey
 - [West Palm Beach Restated Employees Defined Benefit Retirement System](/west-palm-beach-employees/)
 - [Portland Fire and Police Disability and Retirement Funds](/portland-fpdr/)
 - [Springfield Police Pension Fund](/springfield-police/)
+- [Springfield Firefighters’ Pension Fund](/springfield-fire/)
 - [City of Springfield, Missouri Police Officers’ and Fire Fighters’ Retirement Fund](/springfield-mo-police-fire/)
 - [Village of Grayslake Police Pension Fund](/grayslake-police/)
 - [Champaign Police Pension Fund](/champaign-police/)

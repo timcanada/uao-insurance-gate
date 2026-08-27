@@ -50,5 +50,6 @@ Do not 301 this page onto `/kansas-city-police/`, `/missouri-mosers/`, `/st-loui
 - [MOSERS](/missouri-mosers/)
 - [St. Louis ERS](/st-louis-ers/)
 - [Firemen’s Retirement System of St. Louis](/st-louis-firemen/)
+- [City of Springfield, Missouri Police Officers’ and Fire Fighters’ Retirement Fund](/springfield-mo-police-fire/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

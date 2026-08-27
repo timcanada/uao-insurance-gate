@@ -727,5 +727,6 @@ P1,Champaign Police Pension Fund,allocator,both,/champaign-police/,define,unknow
 P1,Bloomington Police Pension Fund,allocator,both,/bloomington-police/,define,unknown,unknown,unknown,drafted-wave-159,Wave 159. Official plan net position $126,172,229 at 30 Apr 2025. Do not mint /bloomington/ or /bppf/
 P1,Bloomington Firemen's Pension Fund,allocator,both,/bloomington-fire/,define,unknown,unknown,unknown,drafted-wave-159,Wave 159. Official plan net position $109,795,018 at 30 Apr 2025. Do not mint /bloomington/ or /bfpf/
 P1,Georgia Firefighters' Pension Fund,allocator,both,/georgia-firefighters/,define,unknown,unknown,unknown,drafted-wave-159,Wave 159. Official FNP $1,396,760,413 at 30 Jun 2025. Do not mint /gfpf/ or /gffpf/ or /frs/
+P1,City of Springfield Missouri Police Officers and Fire Fighters Retirement Fund,allocator,both,/springfield-mo-police-fire/,define,unknown,unknown,unknown,drafted-wave-160,Wave 160. Official FNP $759,028,159 at 30 Jun 2025. Do not mint /springfield-mo/ or /spf-pension/. Not Springfield IL
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

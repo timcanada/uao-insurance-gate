@@ -53,5 +53,6 @@ Do not 301 this page onto `/st-louis-ers/`, `/missouri-mosers/`, `/chicago-fire-
 - [Jacksonville Police and Fire](/jacksonville-police-fire/)
 - [Police Retirement System of Kansas City](/kansas-city-police/)
 - [Civilian Employees’ Retirement System of the Police Department of Kansas City](/kansas-city-police-civilian/)
+- [City of Springfield, Missouri Police Officers’ and Fire Fighters’ Retirement Fund](/springfield-mo-police-fire/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

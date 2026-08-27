@@ -53,6 +53,7 @@ Do not 301 this page onto `/illinois-isbi/`, `/iowa-ipers/`, `/missouri-lagers/`
 - [Firemen’s Retirement System of St. Louis](/st-louis-firemen/)
 - [Police Retirement System of Kansas City](/kansas-city-police/)
 - [Civilian Employees’ Retirement System of the Police Department of Kansas City](/kansas-city-police-civilian/)
+- [City of Springfield, Missouri Police Officers’ and Fire Fighters’ Retirement Fund](/springfield-mo-police-fire/)
 - [Nebraska School Employees Retirement Plan](/nebraska-school/)
 - [Omaha School Employees Retirement Plan](/omaha-osers/)
 - [Missouri LAGERS](/missouri-lagers/)

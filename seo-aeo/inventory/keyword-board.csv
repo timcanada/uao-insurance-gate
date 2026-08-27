@@ -617,5 +617,10 @@ P1,Fairfax County Uniformed Retirement System,allocator,both,/fairfax-urs/,defin
 P1,Maine Public Employees Retirement System,allocator,both,/maine-pers/,define,unknown,unknown,unknown,drafted-wave-128,Wave 128. Official combined FNP $22,466,747,053 at 30 Jun 2025. Do not mint /mainepers/
 P1,Ohio Police & Fire Pension Fund,allocator,both,/ohio-police-fire/,define,unknown,unknown,unknown,drafted-wave-128,Wave 128. Official combined FNP $21,256,675,219 at 31 Dec 2025. Do not mint /opf/
 P1,Montgomery County Employee Retirement Plans,allocator,both,/montgomery-erp/,define,unknown,unknown,unknown,drafted-wave-128,Wave 128. Official ERS FNP $5,109,687,492 at 30 Jun 2025. Do not mint /mcerp/
+P1,District of Columbia Retirement Board,allocator,both,/dcrb/,define,unknown,unknown,unknown,drafted-wave-129,Wave 129. Official combined FNP $13,463,925 thousand at 30 Sep 2025. Do not mint /dc-retirement-board/
+P1,Employees’ Retirement Fund of the City of Dallas,allocator,both,/dallas-erf/,define,unknown,unknown,unknown,drafted-wave-129,Wave 129. Official FNP $3,970,633 thousand at 31 Dec 2025. Do not mint /erf/
+P1,Employees’ Retirement System of the City of Baltimore,allocator,both,/baltimore-city-ers/,define,unknown,unknown,unknown,drafted-wave-129,Wave 129. Official FNP $2,264,990,790 at 30 Jun 2025. Do not mint /bcers/
+P1,Howard County Retirement Plan,allocator,both,/howard-county-retirement/,define,unknown,unknown,unknown,drafted-wave-129,Wave 129. Official FNP $720,035,177 at 30 Jun 2025. Do not mint /howard-erp/
+P1,Howard County Police and Fire Employees’ Retirement Plan,allocator,both,/howard-county-police-fire/,define,unknown,unknown,unknown,drafted-wave-129,Wave 129. Official FNP $993,303,977 at 30 Jun 2025. Do not mint /howard-pf/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

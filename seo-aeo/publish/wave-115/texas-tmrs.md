@@ -54,5 +54,7 @@ Do not 301 this page onto `/texas-teacher-retirement-system-explained/`, `/texas
 - [City of Austin Employees’ Retirement System](/coaers/)
 - [Austin Police Retirement System](/austin-police-retirement/)
 - [San Antonio Fire and Police](/san-antonio-fire-police/)
+- [Dallas Police and Fire](/dallas-police-fire/)
+- [Dallas ERF](/dallas-erf/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

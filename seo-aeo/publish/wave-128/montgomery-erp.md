@@ -27,13 +27,13 @@ The statements of fiduciary net position are the sourced split:
 2. **GASB funded cards, Employees’ Retirement System only.** Total pension liability **$5,426,796,673**. Net pension liability **$317,109,181**. Fiduciary net position / total pension liability **94.2 percent**. Actuarial funded **95.6 percent** (actuarial assets **$5.2 billion** / actuarial liability **$5.5 billion**) is not the GASB card. Fair-value funded **93.2 percent** is not the GASB card. The defined-contribution books do not carry that pension GASB card.
 3. **Returns, Employees’ Retirement System.** Notes money-weighted return **8.87 percent** net of pension-plan investment expenses. Investment-section time-weighted return **9.2 percent**. The transmittal **10.3 percent** print is the NEPC peer-median return for U.S. public plans over **$1 billion**, printed **gross of fees**, not this house return. Those official one-year prints are not interchangeable.
 
-Do not flatten Montgomery County Employee Retirement Plans into [Maryland SRPS](/maryland-srps/), [Fairfax ERS](/fairfax-ers/), [Virginia Retirement System](/virginia-retirement-system/), or [Pennsylvania SERS](/pennsylvania-sers/). Maryland SRPS is the statewide file. Fairfax ERS is a Virginia county civilian file. This is **one Montgomery County house file**.
+Do not flatten Montgomery County Employee Retirement Plans into [Maryland SRPS](/maryland-srps/), [Fairfax ERS](/fairfax-ers/), [Virginia Retirement System](/virginia-retirement-system/), [Baltimore City Employees’ Retirement System](/baltimore-city-ers/), [Howard County Retirement Plan](/howard-county-retirement/), or [Pennsylvania SERS](/pennsylvania-sers/). Maryland SRPS is the statewide file. Fairfax ERS is a Virginia county civilian file. Baltimore and Howard are different Maryland local books. This is **one Montgomery County house file**.
 
 ## What an owner is actually buying
 
 Counsel selling “Montgomery County AUM” has to name the book. The **$5,109,687,492** line is the Employees’ Retirement System. The **$883,770,115** line is the Retirement Savings Plan. The **$707,838,612** line is the Deferred Compensation Plan. The **94.2 percent** card is the GASB ratio. The **95.6 percent** card is the actuarial ratio. The **8.87 percent** card is the money-weighted return. The **9.2 percent** card is the time-weighted return. Those are not the same mandate.
 
-Do not 301 this page onto `/maryland-srps/`, `/fairfax-ers/`, `/virginia-retirement-system/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/maryland-srps/`, `/baltimore-city-ers/`, `/howard-county-retirement/`, `/howard-county-police-fire/`, `/fairfax-ers/`, `/virginia-retirement-system/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -47,6 +47,10 @@ Do not 301 this page onto `/maryland-srps/`, `/fairfax-ers/`, `/virginia-retirem
 - [Public pension funds](/public-pension-funds/)
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Maryland SRPS](/maryland-srps/)
+- [Baltimore City Employees’ Retirement System](/baltimore-city-ers/)
+- [Howard County Retirement Plan](/howard-county-retirement/)
+- [Howard County Police and Fire](/howard-county-police-fire/)
+- [District of Columbia Retirement Board](/dcrb/)
 - [Fairfax ERS](/fairfax-ers/)
 - [Virginia Retirement System](/virginia-retirement-system/)
 - [Advertise](/advertise/)

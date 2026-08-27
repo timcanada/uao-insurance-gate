@@ -27,7 +27,7 @@ The statements of fiduciary net position, the GASB note, and the money-weighted 
 2. **GASB cards.** Notes total pension liability **$18,886,619,087**. Net pension liability **$13,893,194,386**. Required-supplementary fiduciary net position as a percentage of total pension liability **26.44 percent** (2024 **23.86 percent**). Do not treat **$18,886,619,087** as AUM. Statutory fair-value funding **26.66 percent** is not the GASB card. Single discount rate **6.65 percent**. Expected long-term return **6.75 percent**.
 3. **Returns and cash flow.** Notes money-weighted return **13.85 percent** net of investment expense for the year ended **31 December 2025** (2024 **10.72 percent**). MD&A **13.85 percent** is that card, not a second return. Employer contributions **$1,112,515,437**. Plan-member salary deductions **$127,555,767**. Total net investment income **$482,281,227**. Pension and disability benefits **$1,035,953,513**. Death benefits **$1,991,600**. Refunds **$11,718,221**. Administrative expenses **$4,866,303**. The independent auditor’s report is dated **26 June 2026**.
 
-Do not flatten the Policemen’s Annuity and Benefit Fund of Chicago into [Chicago Fire FABF](/chicago-fire-fabf/), [Chicago LABF](/chicago-labf/), [Chicago Teachers](/chicago-teachers/), or [Cook County Pension](/cook-county-pension/). FABF is the Chicago fire file. LABF is the Chicago laborers file. Chicago Teachers is the teacher file. Cook County is the county employee file. This is **one Chicago sworn-police file**.
+Do not flatten the Policemen’s Annuity and Benefit Fund of Chicago into [Chicago Fire FABF](/chicago-fire-fabf/), [Chicago LABF](/chicago-labf/), [Chicago Teachers](/chicago-teachers/), [Cook County Pension](/cook-county-pension/), or [Municipal Employees’ Annuity and Benefit Fund of Chicago](/chicago-meabf/). FABF is the Chicago fire file. LABF is the Chicago laborers file. Chicago Teachers is the teacher file. Cook County is the county employee file. MEABF is the Chicago municipal-employee file. This is **one Chicago sworn-police file**.
 
 ## What an owner is actually buying
 
@@ -49,6 +49,7 @@ Do not 301 this page onto `/chicago-fire-fabf/`, `/chicago-labf/`, `/chicago-tea
 - [Chicago Fire FABF](/chicago-fire-fabf/)
 - [Chicago LABF](/chicago-labf/)
 - [Chicago Teachers](/chicago-teachers/)
+- [Municipal Employees’ Annuity and Benefit Fund of Chicago](/chicago-meabf/)
 - [Cook County Pension](/cook-county-pension/)
 - [Illinois IPOPIF](/illinois-ipopif/)
 - [Advertise](/advertise/)

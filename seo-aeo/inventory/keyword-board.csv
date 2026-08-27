@@ -744,5 +744,6 @@ P1,Boca Raton Executive Employees Retirement Plan,allocator,both,/boca-raton-exe
 P1,Lake Alfred General Employees Retirement System,allocator,both,/lake-alfred-general/,define,unknown,unknown,unknown,drafted-wave-166,Wave 166. Official FNP $7,514,883 at 30 Sep 2025. Do not mint /lake-alfred/ or /lagers/
 P1,Southern Manatee Firefighters Retirement Plan,allocator,both,/southern-manatee-fire/,define,unknown,unknown,unknown,drafted-wave-166,Wave 166. Official FNP $83,968,008 at 30 Sep 2025. Net pension asset $1,411,967. Do not mint /smfr/
 P1,Policemens Annuity and Benefit Fund of Chicago,allocator,both,/chicago-police/,define,unknown,unknown,unknown,drafted-wave-167,Wave 167. Official FNP $4,993,424,701 at 31 Dec 2025. Do not mint /pabf/ or /chicago-pabf/. Not leftover Chicago Fire FABF
+P1,Municipal Employees Annuity and Benefit Fund of Chicago,allocator,both,/chicago-meabf/,define,unknown,unknown,unknown,drafted-wave-168,Wave 168. Official FNP $5,794,678,834 at 31 Dec 2025. Do not mint /meabf/ or /chicago-municipal/. Not leftover Chicago Police
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

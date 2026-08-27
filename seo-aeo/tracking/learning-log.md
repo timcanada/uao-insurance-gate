@@ -1,5 +1,23 @@
 # Learning log (append only)
 
+## 2026-08-27 — Wake 179 leftover hunts closed
+
+**Queries / URLs:** `/ebmud-ers/`.
+
+**What was wrong on the live site:**
+
+- Wave 179 leftover hunts all finished. Cap already reached (`/boynton-beach-fire/` shipped). Independently re-GET East Bay Municipal Utility District Employees’ Retirement System 30 Jun 2025 house FS (`ebmud.com/application/files/4917/6194/3326/ERS_ACFR_Final_10-31-25_SECURED.pdf`, GET **200** `application/pdf` **1,573,934** bytes). Not drafted from a hunt table. Not shipped this wake. Dollars in thousands. Statement pension FNP **$2,743,096**. Combined FNP **$2,826,084** includes OPEB **$82,988** and is not the pension card. Pension investments **$2,705,651** are not FNP. RSI money-weighted **13.45%**. Notes omit a separate MWR sentence. Notes/RSI GASB **77.79%** (measurement date **30 Jun 2024**). TPL **$3,143,728**. NPL **$698,117**. GASB FNP **$2,445,611** is the 2024 measurement-date line, not statement FNP. LSL CPAs, Sacramento, **31 October 2025**. Live `/ebmud-ers/`, `/ebmud/`, and `/ers/` **404**. **Never mint `/ers/`.** Not leftover ACERA / CCCERA / CalPERS / SFERS / Oakland PFRS.
+
+**Confirmed still unpublished:** Waves 1–179. Ghost key still missing.
+
+**Shipped:** none (wake cap already five). Google/Bing/Perplexity ranks: **unknown**.
+
+**Refused:** Drafting EBMUD after the five-page cap. Drafting from leftover hunt tables. Treating combined FNP / OPEB / investments / 2024 measurement-date FNP as the 2025 pension statement card. Minting `/ers/` or `/ebmud/`. Starting Wave 180 in the same wake.
+
+**Inbox:** This addendum did not reopen the inbox.
+
+**Next wake must:** Start Wave 180. Independently re-GET, do not draft from leftover `/tmp` or a hunt table: (1) EBMUD ERS if the 2025 house FS GET **200** locks again — suggested `/ebmud-ers/`, never mint `/ers/`; (2) Boynton Beach Police if `bbpdp.org` 2025 FS GET **200** locks again — do not mint `/boynton-beach/` or `/bbpdp/`; (3) Deerfield Beach Fire if DocumentCenter **21526** GET **200** locks again — do not mint `/deerfield-beach/` or `/dbmff/`. Lehigh County only if `lehighcounty.org` unlocks without an SSL bypass. VA/MD/NC/MA leftover unique returned no three-card standalone 2025 house book. Do not overwrite Wave 179’s five keepers. Highest-harm unpublished leftovers remain: GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn.
+
 ## 2026-08-27 — Wake 179 addendum: Boynton Beach Fire
 
 **Queries / URLs:** `/boynton-beach-fire/`.

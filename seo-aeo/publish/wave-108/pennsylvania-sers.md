@@ -28,13 +28,13 @@ The combining statement is the sourced split (dollar amounts in thousands):
 2. **Named books on the same statement.** Defined Benefit Plan **$42,610,475 thousand** (2024: **$38,657,524 thousand**); Defined Contribution Plan **$453,644 thousand**; Deferred Compensation Plan **$5,379,495 thousand**. Do not add those lines a second time. Do not call the **$42.6 billion** Defined Benefit Plan the whole of SERS.
 3. **Returns, funding, and members.** Time-weighted and money-weighted Defined Benefit Plan returns **13.7 percent** net of manager fees. Investment gains contributed about **$5.3 billion**. Funding-valuation funded ratio **71.7 percent**; unfunded actuarial accrued liability **$16.4 billion**. GASB 67 fiduciary net position as a percentage of total pension liability **73.3 percent**; net pension liability **$15,500,373 thousand**. About **245,000** members. Established **1923**. Act 5 of **2017** added the Defined Contribution Plan from **1 January 2019**.
 
-Do not flatten SERS Pennsylvania into [PSERS](/pennsylvania-psers/) or [Illinois ISBI](/illinois-isbi/). PSERS is the Pennsylvania school-employee book. Illinois SERS sits inside ISBI. This is **one Pennsylvania state-employee file**.
+Do not flatten SERS Pennsylvania into [PSERS](/pennsylvania-psers/), [Illinois ISBI](/illinois-isbi/), [Pittsburgh Comprehensive Municipal Pension Trust Fund](/pittsburgh-cmptf/), [Pittsburgh Municipal Pension Plan](/pittsburgh-municipal/), [Pittsburgh Policemen’s Relief and Pension Plan](/pittsburgh-police/), or [Pittsburgh Firemen’s Relief and Pension Plan](/pittsburgh-fire/). PSERS is the Pennsylvania school-employee book. Illinois SERS sits inside ISBI. The four Pittsburgh books are Pittsburgh city files. This is **one Pennsylvania state-employee file**.
 
 ## What an owner is actually buying
 
 Counsel selling “Pennsylvania pension AUM” has to name the book. The **$48.4 billion** line is the three SERS plans combined. The **$42.6 billion** line is the Defined Benefit Plan. [PSERS](/pennsylvania-psers/) is a different legal person. Those are not the same mandate.
 
-Do not 301 this page onto `/pennsylvania-psers/`, `/calpers-explained-largest-us-pension-fund/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/pennsylvania-psers/`, `/calpers-explained-largest-us-pension-fund/`, `/pittsburgh-cmptf/`, `/pittsburgh-municipal/`, `/pittsburgh-police/`, `/pittsburgh-fire/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -49,5 +49,9 @@ Do not 301 this page onto `/pennsylvania-psers/`, `/calpers-explained-largest-us
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [PSERS](/pennsylvania-psers/)
 - [Illinois State Board of Investment](/illinois-isbi/)
+- [Pittsburgh Comprehensive Municipal Pension Trust Fund](/pittsburgh-cmptf/)
+- [Pittsburgh Municipal Pension Plan](/pittsburgh-municipal/)
+- [Pittsburgh Policemen’s Relief and Pension Plan](/pittsburgh-police/)
+- [Pittsburgh Firemen’s Relief and Pension Plan](/pittsburgh-fire/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

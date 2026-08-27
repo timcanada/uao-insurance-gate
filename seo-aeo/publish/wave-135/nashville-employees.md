@@ -27,13 +27,13 @@ The combining statement of fiduciary net position is the sourced line:
 2. **GASB funded cards.** Total pension liability **$4,695,408,182**. Fiduciary net position / total pension liability **92.87 percent**. Net pension liability **$334,733,027**. Those official prints are not interchangeable with a later closed-plan card. Metro Education Plan GASB **115.29 percent** is not this book.
 3. **Returns.** Notes and required-supplementary money-weighted return **7.3 percent** / **7.30 percent** net of investment expense for the year ended **30 June 2025** on investments of the Metro Plan and Metro Education Plan. That combined print is not a Metro-only card. This filing does not print a separate official one-year time-weighted house card for the Metro Plan.
 
-Do not flatten the Metropolitan Employees’ Benefit Trust into [TCRS](/tennessee-tcrs/), [City of Knoxville Pension System](/knoxville-pension/), [Georgia ERS](/georgia-ers/), or [Georgia TRS](/georgia-trs/). TCRS is the later Metro teacher book. Knoxville is a different Tennessee city file. This is **one Metro Nashville open city file**.
+Do not flatten the Metropolitan Employees’ Benefit Trust into [TCRS](/tennessee-tcrs/), [City of Knoxville Pension System](/knoxville-pension/), [City of Memphis Retirement System](/memphis-retirement/), [Georgia ERS](/georgia-ers/), or [Georgia TRS](/georgia-trs/). TCRS is the later Metro teacher book. Knoxville and Memphis are different Tennessee city files. This is **one Metro Nashville open city file**.
 
 ## What an owner is actually buying
 
 Counsel selling “Nashville pension AUM” has to name the book. The **$4,360,675,155** line is Metropolitan Employees’ Benefit Trust fiduciary net position. The **$4,587,523,650** line is combined pension-and-other-employee-benefit trusts. The **92.87 percent** card is the Metro Plan GASB ratio. The **7.3 percent** card is the combined Metro Plan and Metro Education Plan money-weighted return. Those are not the same mandate.
 
-Do not 301 this page onto `/tennessee-tcrs/`, `/knoxville-pension/`, `/georgia-ers/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/tennessee-tcrs/`, `/knoxville-pension/`, `/memphis-retirement/`, `/georgia-ers/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -48,5 +48,6 @@ Do not 301 this page onto `/tennessee-tcrs/`, `/knoxville-pension/`, `/georgia-e
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [TCRS](/tennessee-tcrs/)
 - [City of Knoxville Pension System](/knoxville-pension/)
+- [City of Memphis Retirement System](/memphis-retirement/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

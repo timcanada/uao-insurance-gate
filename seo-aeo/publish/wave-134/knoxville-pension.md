@@ -27,13 +27,13 @@ The statement of fiduciary net position is the sourced line:
 2. **GASB funded cards.** Total pension liability **$1,034,434,730**. Fiduciary net position / total pension liability **73.30 percent** (2024 **71.28 percent**). Net pension liability **$276,239,531**. Those official prints are not interchangeable with a later division-only card.
 3. **Returns.** Notes money-weighted return **10.23 percent** net of pension-plan investment expense for the year ended **30 June 2025** (2024 **9.37 percent**). Transmittal time-weighted **10.0 percent** is not the money-weighted card.
 
-Do not flatten the City of Knoxville Pension System into [TCRS](/tennessee-tcrs/), [Newport News Employees’ Retirement Fund](/newport-news-employees/), [St. Paul Teachers’ Retirement Fund Association](/st-paul-teachers/), [Police Retirement System of Kansas City](/kansas-city-police/), [Civilian Employees’ Retirement System of the Police Department of Kansas City](/kansas-city-police-civilian/), or [Metropolitan Employees’ Benefit Trust](/nashville-employees/). TCRS is the later Knoxville teacher book. Nashville is a different Tennessee city file. This is **one Knoxville city file**.
+Do not flatten the City of Knoxville Pension System into [TCRS](/tennessee-tcrs/), [Newport News Employees’ Retirement Fund](/newport-news-employees/), [St. Paul Teachers’ Retirement Fund Association](/st-paul-teachers/), [Police Retirement System of Kansas City](/kansas-city-police/), [Civilian Employees’ Retirement System of the Police Department of Kansas City](/kansas-city-police-civilian/), [Metropolitan Employees’ Benefit Trust](/nashville-employees/), or [City of Memphis Retirement System](/memphis-retirement/). TCRS is the later Knoxville teacher book. Nashville and Memphis are different Tennessee city files. This is **one Knoxville city file**.
 
 ## What an owner is actually buying
 
 Counsel selling “Knoxville pension AUM” has to name the book. The **$758,195,199** line is fiduciary net position. The **$758,217,249** line is statement investments. The **73.30 percent** card is the GASB ratio. The **10.0 percent** card is time-weighted. The **10.23 percent** card is money-weighted. Those are not the same mandate.
 
-Do not 301 this page onto `/tennessee-tcrs/`, `/newport-news-employees/`, `/st-paul-teachers/`, `/kansas-city-police/`, `/kansas-city-police-civilian/`, `/nashville-employees/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/tennessee-tcrs/`, `/newport-news-employees/`, `/st-paul-teachers/`, `/kansas-city-police/`, `/kansas-city-police-civilian/`, `/nashville-employees/`, `/memphis-retirement/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -48,6 +48,7 @@ Do not 301 this page onto `/tennessee-tcrs/`, `/newport-news-employees/`, `/st-p
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [TCRS](/tennessee-tcrs/)
 - [Metropolitan Employees’ Benefit Trust](/nashville-employees/)
+- [City of Memphis Retirement System](/memphis-retirement/)
 - [Newport News Employees’ Retirement Fund](/newport-news-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

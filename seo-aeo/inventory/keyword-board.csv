@@ -652,5 +652,10 @@ P1,Metropolitan Employees’ Benefit Trust,allocator,both,/nashville-employees/,
 P1,City of Atlanta Firefighters’ Pension Plan,allocator,both,/atlanta-firefighters/,define,unknown,unknown,unknown,drafted-wave-135,Wave 135. Official FNP $948,512 thousand at 30 Jun 2025. Do not mint /atlanta-fire/
 P1,City of Atlanta Police Officers’ Pension Plan,allocator,both,/atlanta-police/,define,unknown,unknown,unknown,drafted-wave-135,Wave 135. Official FNP $1,614,945 thousand at 30 Jun 2025. Do not mint /atlanta-police-explained/
 P1,City of Atlanta General Employees’ Pension Plan,allocator,both,/atlanta-general-employees/,define,unknown,unknown,unknown,drafted-wave-135,Wave 135. Official FNP $1,992,291 thousand at 30 Jun 2025. Do not mint /atlanta-ge/
+P1,Pittsburgh Comprehensive Municipal Pension Trust Fund,allocator,both,/pittsburgh-cmptf/,define,unknown,unknown,unknown,drafted-wave-136,Wave 136. Official Comprehensive Trust FNP $928,543,639 at 31 Dec 2025. Do not mint /cmptf/
+P1,Pittsburgh Municipal Pension Plan,allocator,both,/pittsburgh-municipal/,define,unknown,unknown,unknown,drafted-wave-136,Wave 136. Official allocated FNP $321,585,507 at 31 Dec 2025. Do not mint /pgh-municipal/
+P1,Pittsburgh Policemen’s Relief and Pension Plan,allocator,both,/pittsburgh-police/,define,unknown,unknown,unknown,drafted-wave-136,Wave 136. Official allocated FNP $260,940,968 at 31 Dec 2025. Do not mint /pgh-police/
+P1,Pittsburgh Firemen’s Relief and Pension Plan,allocator,both,/pittsburgh-fire/,define,unknown,unknown,unknown,drafted-wave-136,Wave 136. Official allocated FNP $348,541,109 at 31 Dec 2025. Do not mint /pgh-fire/
+P1,City of Memphis Retirement System,allocator,both,/memphis-retirement/,define,unknown,unknown,unknown,drafted-wave-136,Wave 136. Official GASB FNP $2,583,300 thousand at 30 Jun 2025. Do not mint /memphis-pension/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

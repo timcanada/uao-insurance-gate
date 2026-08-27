@@ -401,6 +401,16 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,atlanta-police-explained,Atlanta Police (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 135 /atlanta-police/
 135,institution,atlanta-general-employees,City of Atlanta General Employees’ Pension Plan,allocator,brief,P0,drafted-in-repo,Wave 135. Official FNP $1,992,291 thousand at 30 Jun 2025. Do not mint /atlanta-ge/ or /atlanta-employees/
 2,institution,atlanta-ge,Atlanta General Employees (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 135 /atlanta-general-employees/
+136,institution,pittsburgh-cmptf,Pittsburgh Comprehensive Municipal Pension Trust Fund,allocator,brief,P0,drafted-in-repo,Wave 136. Official Comprehensive Trust FNP $928,543,639 at 31 Dec 2025. Do not mint /cmptf/ or /pittsburgh-cmptf-explained/
+2,institution,cmptf,Pittsburgh CMPTF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 136 /pittsburgh-cmptf/
+136,institution,pittsburgh-municipal,Pittsburgh Municipal Pension Plan,allocator,brief,P0,drafted-in-repo,Wave 136. Official allocated FNP $321,585,507 at 31 Dec 2025. Do not mint /pgh-municipal/
+2,institution,pgh-municipal,Pittsburgh Municipal (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 136 /pittsburgh-municipal/
+136,institution,pittsburgh-police,Pittsburgh Policemen’s Relief and Pension Plan,allocator,brief,P0,drafted-in-repo,Wave 136. Official allocated FNP $260,940,968 at 31 Dec 2025. Do not mint /pgh-police/
+2,institution,pgh-police,Pittsburgh Police (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 136 /pittsburgh-police/
+136,institution,pittsburgh-fire,Pittsburgh Firemen’s Relief and Pension Plan,allocator,brief,P0,drafted-in-repo,Wave 136. Official allocated FNP $348,541,109 at 31 Dec 2025. Do not mint /pgh-fire/
+2,institution,pgh-fire,Pittsburgh Fire (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 136 /pittsburgh-fire/
+136,institution,memphis-retirement,City of Memphis Retirement System,allocator,brief,P0,drafted-in-repo,Wave 136. Official GASB FNP $2,583,300 thousand at 30 Jun 2025. Do not mint /memphis-pension/
+2,institution,memphis-pension,Memphis Retirement (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 136 /memphis-retirement/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

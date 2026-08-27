@@ -51,5 +51,6 @@ Do not 301 this page onto `/tampa-fire-police/`, `/jacksonville-police-fire/`, `
 - [City of Fresno Employees Retirement System](/fresno-city-employees/)
 - [Dallas ERF](/dallas-erf/)
 - [General Retirement System of the City of Detroit](/detroit-grs/)
+- [City of Miami General Employees’ and Sanitation Employees’ Retirement Trust](/miami-gese/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

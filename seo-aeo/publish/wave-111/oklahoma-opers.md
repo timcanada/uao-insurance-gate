@@ -49,5 +49,7 @@ Do not 301 this page onto `/ohio-opers/`, `/iowa-ipers/`, or `/largest-us-public
 - [Ohio OPERS](/ohio-opers/)
 - [Iowa IPERS](/iowa-ipers/)
 - [Oklahoma TRS](/oklahoma-trs/)
+- [Oklahoma Firefighters Pension and Retirement System](/oklahoma-firefighters/)
+- [Oklahoma Police Pension and Retirement System](/oklahoma-police/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

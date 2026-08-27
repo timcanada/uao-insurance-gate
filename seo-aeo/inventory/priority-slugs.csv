@@ -371,6 +371,16 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,oakland-pfrs,Oakland Police and Fire (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 132 /oakland-police-fire/
 132,institution,st-louis-firemen,Firemen’s Retirement System of St. Louis,allocator,brief,P0,drafted-in-repo,Wave 132. Official FNP $446,256,821 at 30 Sep 2025. Do not mint /st-louis-frs/ or /frs-stl/
 2,institution,st-louis-frs,St. Louis Firemen (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 132 /st-louis-firemen/
+133,institution,pasadena-fire-police,Pasadena Fire & Police Retirement System,allocator,brief,P0,drafted-in-repo,Wave 133. Official FNP $107,075,040 at 30 Jun 2025. Do not mint /pasadena-fprs/ or /fprs/
+2,institution,pasadena-fprs,Pasadena Fire and Police (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 133 /pasadena-fire-police/
+133,institution,miami-fire-police,City of Miami Firefighters’ and Police Officers’ Retirement Trust,allocator,brief,P0,drafted-in-repo,Wave 133. Official FNP $1,943,149,383 at 30 Sep 2025. Do not mint /miami-fipo/ or /fipo/
+2,institution,miami-fipo,Miami Fire and Police (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 133 /miami-fire-police/
+133,institution,miami-gese,City of Miami General Employees’ and Sanitation Employees’ Retirement Trust,allocator,brief,P0,drafted-in-repo,Wave 133. Official GESE Trust FNP $1,138,368,633 at 30 Sep 2025. Do not mint /gese/ or /miami-ge/
+2,institution,gese,Miami GESE (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 133 /miami-gese/
+133,institution,oklahoma-firefighters,Oklahoma Firefighters Pension and Retirement System,allocator,brief,P0,drafted-in-repo,Wave 133. Official FNP $3,696,332,045 at 30 Jun 2025. Do not mint /ofprs/
+2,institution,ofprs,Oklahoma Firefighters (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 133 /oklahoma-firefighters/
+133,institution,oklahoma-police,Oklahoma Police Pension and Retirement System,allocator,brief,P0,drafted-in-repo,Wave 133. Official FNP $3,449,729 thousand at 30 Jun 2025. Do not mint /opprs/
+2,institution,opprs,Oklahoma Police (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 133 /oklahoma-police/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

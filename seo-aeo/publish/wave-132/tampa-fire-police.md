@@ -51,5 +51,6 @@ Do not 301 this page onto `/tampa-general-employees/`, `/jacksonville-police-fir
 - [Houston Firefighters](/houston-hfrrf/)
 - [Houston Police](/houston-hpops/)
 - [Dallas Police and Fire](/dallas-police-fire/)
+- [City of Miami Firefighters’ and Police Officers’ Retirement Trust](/miami-fire-police/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

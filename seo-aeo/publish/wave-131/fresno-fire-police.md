@@ -52,5 +52,6 @@ Do not 301 this page onto `/fcera/`, `/fresno-city-employees/`, `/lafpp/`, `/san
 - [San José Police and Fire](/san-jose-police-fire/)
 - [Sacramento City Employees](/sacramento-city-employees/)
 - [Charlotte Firefighters’ Retirement System](/charlotte-firefighters/)
+- [Pasadena Fire & Police Retirement System](/pasadena-fire-police/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

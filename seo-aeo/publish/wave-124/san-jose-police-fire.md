@@ -55,5 +55,6 @@ Do not 301 this page onto `/san-jose-federated/`, `/houston-hfrrf/`, `/houston-h
 - [Jacksonville Police and Fire](/jacksonville-police-fire/)
 - [SFERS](/san-francisco-sfers/)
 - [City of Fresno Fire and Police Retirement System](/fresno-fire-police/)
+- [Pasadena Fire & Police Retirement System](/pasadena-fire-police/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

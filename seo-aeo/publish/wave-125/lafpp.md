@@ -55,5 +55,6 @@ Do not 301 this page onto `/lacers/`, `/lacera/`, `/san-jose-police-fire/`, `/ho
 - [Houston Police](/houston-hpops/)
 - [Jacksonville Police and Fire](/jacksonville-police-fire/)
 - [City of Fresno Fire and Police Retirement System](/fresno-fire-police/)
+- [Pasadena Fire & Police Retirement System](/pasadena-fire-police/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -51,5 +51,6 @@ Do not 301 this page onto `/calpers-explained-largest-us-pension-fund/`, `/fresn
 - [Los Angeles Fire and Police Pensions](/lafpp/)
 - [San José Police and Fire](/san-jose-police-fire/)
 - [Detroit Police and Fire](/detroit-police-fire/)
+- [Pasadena Fire & Police Retirement System](/pasadena-fire-police/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

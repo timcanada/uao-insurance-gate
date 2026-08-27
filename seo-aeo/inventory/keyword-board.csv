@@ -637,5 +637,10 @@ P1,City of Tampa General Employees’ Retirement Fund,allocator,both,/tampa-gene
 P1,Charlotte Firefighters’ Retirement System,allocator,both,/charlotte-firefighters/,define,unknown,unknown,unknown,drafted-wave-132,Wave 132. Official FNP $712,325 thousand at 30 Jun 2025. Do not mint /charlotte-frs/ or /cfrs/
 P1,Oakland Police and Fire Retirement System,allocator,both,/oakland-police-fire/,define,unknown,unknown,unknown,drafted-wave-132,Wave 132. Official FNP $476,653,059 at 30 Jun 2025. Do not mint /oakland-pfrs/
 P1,Firemen’s Retirement System of St. Louis,allocator,both,/st-louis-firemen/,define,unknown,unknown,unknown,drafted-wave-132,Wave 132. Official FNP $446,256,821 at 30 Sep 2025. Do not mint /st-louis-frs/
+P1,Pasadena Fire & Police Retirement System,allocator,both,/pasadena-fire-police/,define,unknown,unknown,unknown,drafted-wave-133,Wave 133. Official FNP $107,075,040 at 30 Jun 2025. Do not mint /pasadena-fprs/
+P1,City of Miami Firefighters’ and Police Officers’ Retirement Trust,allocator,both,/miami-fire-police/,define,unknown,unknown,unknown,drafted-wave-133,Wave 133. Official FNP $1,943,149,383 at 30 Sep 2025. Do not mint /miami-fipo/
+P1,City of Miami General Employees’ and Sanitation Employees’ Retirement Trust,allocator,both,/miami-gese/,define,unknown,unknown,unknown,drafted-wave-133,Wave 133. Official GESE Trust FNP $1,138,368,633 at 30 Sep 2025. Do not mint /gese/
+P1,Oklahoma Firefighters Pension and Retirement System,allocator,both,/oklahoma-firefighters/,define,unknown,unknown,unknown,drafted-wave-133,Wave 133. Official FNP $3,696,332,045 at 30 Jun 2025. Do not mint /ofprs/
+P1,Oklahoma Police Pension and Retirement System,allocator,both,/oklahoma-police/,define,unknown,unknown,unknown,drafted-wave-133,Wave 133. Official FNP $3,449,729 thousand at 30 Jun 2025. Do not mint /opprs/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

@@ -1,5 +1,23 @@
 # Learning log (append only)
 
+## 2026-08-27 — Wake 179 cap hold: inbox and live leftovers
+
+**Queries / URLs:** `/methodology/`, `/gpif-japan-explained/`, `/alaska-permanent-fund-explained/`.
+
+**What was wrong on the live site:**
+
+- Wave 179 already at five pages. Did not start Wave 180. Independently rechecked live HTTP: `/gpif-japan-explained/` still prints leftover **15.83%** (no **16.47%**). `/alaska-permanent-fund-explained/` still prints leftover **$89 billion** (no **$91,346,500,000**). `/methodology/` still has no Capital Stage Ledger definition. `/directory/` and `/china-investment-corporation-explained/` still **404**. `/largest-sovereign-wealth-funds/` and both 2026 twins still **200**. In-repo Wave 7 GPIF and Wave 12 Alaska keepers already print the official current cards — do not overwrite them again. Ghost key still missing, so those leftovers stay live.
+
+**Confirmed still unpublished:** Waves 1–179. Ghost key still missing.
+
+**Shipped:** none (wake cap already five). Google/Bing/Perplexity ranks: **unknown**.
+
+**Refused:** Starting Wave 180 in the same wake. Overwriting already-current in-repo GPIF / Alaska keepers. Drafting a sixth page. Inventing subscriber, view, or rank numbers.
+
+**Inbox:** Reopened `info@universalassetowners.com`. No newer Search Impact / Search Console monthly mail than **700 clicks / 28 days to 18 Aug** and July **460 / 55.6K**. Newest named Ghost signup still **Brett Morgan (26 Aug 12:24 UTC)** on the prior-wake pass. MailAdx wallet still **$0.00**. Restream mailed UAO Live analytics for **27 Aug**; do not treat that clip mail as Search Console or a subscriber count.
+
+**Next wake must:** Start Wave 180. Independently re-GET, do not draft from leftover `/tmp` or a hunt table: (1) EBMUD ERS if the 2025 house FS GET **200** locks again — suggested `/ebmud-ers/`, never mint `/ers/`; (2) Boynton Beach Police if `bbpdp.org` 2025 FS GET **200** locks again — do not mint `/boynton-beach/` or `/bbpdp/`; (3) Deerfield Beach Fire if DocumentCenter **21526** GET **200** locks again — do not mint `/deerfield-beach/` or `/dbmff/`. Lehigh County only if `lehighcounty.org` unlocks without an SSL bypass. If the Ghost key lands, paste Waves 1–179 first, including `/boynton-beach-fire/`. Highest-harm unpublished leftovers remain: GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn.
+
 ## 2026-08-27 — Wake 179 leftover hunts closed
 
 **Queries / URLs:** `/ebmud-ers/`.

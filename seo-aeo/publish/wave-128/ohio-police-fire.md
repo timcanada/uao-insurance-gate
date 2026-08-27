@@ -27,7 +27,7 @@ The combining statement of fiduciary net position is the sourced split:
 2. **GASB funded cards.** Total pension liability **$28,364,303,468**. Net pension liability **$7,957,487,246**. Pension fiduciary net position / total pension liability **71.95 percent**. That ratio uses the pension book **$20,406,816,222**, not the combined **$21,256,675,219** line. Do not treat OP&F’s proportionate share of leftover OPERS as this house funded card.
 3. **Returns.** Notes money-weighted return **18.450 percent** net of investment expense. Transmittal and MD&A portfolio return **18.52 percent**, printed **gross**. Those official one-year prints are not interchangeable. Do not relabel **18.52 percent** net.
 
-Do not flatten Ohio Police & Fire into [Ohio OPERS](/ohio-opers/), [Ohio SERS](/ohio-sers/), [Houston Firefighters](/houston-hfrrf/), [Houston Police](/houston-hpops/), [Dallas Police and Fire](/dallas-police-fire/), or [Cincinnati Retirement System](/cincinnati-retirement/). OPERS is Ohio’s public-employee file. Ohio SERS is the non-teaching school file. Houston and Dallas are city sworn books. Cincinnati Retirement is a city civilian file. This is **one Ohio statewide police-and-fire file**.
+Do not flatten Ohio Police & Fire into [Ohio OPERS](/ohio-opers/), [Ohio SERS](/ohio-sers/), [Ohio Highway Patrol Retirement System](/ohio-hprs/), [State Teachers Retirement System of Ohio](/ohio-strs/), [Houston Firefighters](/houston-hfrrf/), [Houston Police](/houston-hpops/), [Dallas Police and Fire](/dallas-police-fire/), or [Cincinnati Retirement System](/cincinnati-retirement/). OPERS is Ohio’s public-employee file. Ohio SERS is the non-teaching school file. Ohio Highway Patrol is the patrol file. STRS Ohio is the teacher file. Houston and Dallas are city sworn books. Cincinnati Retirement is a city civilian file. This is **one Ohio statewide police-and-fire file**.
 
 ## What an owner is actually buying
 
@@ -52,5 +52,7 @@ Do not 301 this page onto `/ohio-opers/`, `/ohio-sers/`, `/houston-hfrrf/`, `/ho
 - [Houston Police](/houston-hpops/)
 - [Dallas Police and Fire](/dallas-police-fire/)
 - [Cincinnati Retirement System](/cincinnati-retirement/)
+- [Ohio Highway Patrol Retirement System](/ohio-hprs/)
+- [State Teachers Retirement System of Ohio](/ohio-strs/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

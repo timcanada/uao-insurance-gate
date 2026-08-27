@@ -99,7 +99,7 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,calstrs-vs-calpers,CalSTRS vs CalPERS,allocator,brief,P0,needed,Comparison
 106,institution,ohio-opers,OPERS,allocator,brief,P0,drafted-in-repo,Wave 106. Official $158,377,460,244 net position at 31 Dec 2025. Do not mint /opers/ or /opers-explained/
 2,institution,opers,OPERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 106 /ohio-opers/
-2,institution,ohio-str,STRS Ohio,allocator,brief,P0,needed,Skip this wake. House glance now prints $101.8bn; official ACFR PDF URL still not locked. Do not mint /strs-ohio-explained/
+2,institution,ohio-str,STRS Ohio typo twin,allocator,brief,P0,do-not-mint,Do not mint. Typo twin of Wave 184 /ohio-strs/. Do not mint /strs-ohio-explained/
 2,institution,michigan-sistf,Michigan State Treasurer / SISTF,allocator,brief,P0,needed,Skip this wake. No official combined SISTF AUM locked. Do not add MPSERS to MSERS. Do not mint /michigan-sistf/ as a second /michigan-mpsers/ page
 108,institution,michigan-mpsers,MPSERS,allocator,brief,P0,drafted-in-repo,Wave 108. Official $94,365,768 thousand at 30 Sep 2025. Do not mint /mpsers/ or /mpsers-explained/
 2,institution,mpsers,MPSERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 108 /michigan-mpsers/
@@ -810,6 +810,27 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 183,institution,gainesville-police-fire,Consolidated Police Officers and Firefighters Retirement Plan of the City of Gainesville,allocator,brief,P0,drafted-in-repo,Wave 183. Official FNP $371,184,515 at 30 Sep 2025. Do not mint /gainesville/ or /gepp/ or /pfrs/. Not leftover Gainesville Employees
 2,institution,gainesville-police-fire-explained,Gainesville Police Fire explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 183 /gainesville-police-fire/
 2,institution,gainesville,Gainesville (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 183 /gainesville-police-fire/. Flattens Employees vs Police and Fire
+184,institution,laredo-fire,Laredo Firefighters Retirement System,allocator,brief,P0,drafted-in-repo,Wave 184. Official FNP $278,694,637 at 30 Sep 2025. Do not mint /laredo/ or /lfrs/ or /frs/. Not leftover Irving Fire
+2,institution,laredo-fire-explained,Laredo Fire explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 184 /laredo-fire/
+2,institution,laredo,Laredo (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 184 /laredo-fire/
+2,institution,lfrs,Laredo FRS abbrev,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 184 /laredo-fire/. /frs/ remains Louisiana FRS
+184,institution,denver-water-pension,Employees Retirement Plan of the Denver Board of Water Commissioners,allocator,brief,P0,drafted-in-repo,Wave 184. Official FNP $558,032 thousand at 31 Dec 2025. Do not mint /denver-water/ or /ers/. Not leftover Denver Employees
+2,institution,denver-water-pension-explained,Denver Water pension explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 184 /denver-water-pension/
+2,institution,denver-water,Denver Water (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 184 /denver-water-pension/
+2,institution,dwers,Denver Water ERS abbrev,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 184 /denver-water-pension/. /ers/ remains Texas ERS
+184,institution,metro-water-recovery,Metro Water Recovery Defined Benefit Retirement Plan,allocator,brief,P0,drafted-in-repo,Wave 184. Official FNP $165,103,952 at 31 Dec 2025. Do not mint /metro-water/ or /ers/. Not leftover Denver Water
+2,institution,metro-water-recovery-explained,Metro Water Recovery explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 184 /metro-water-recovery/
+2,institution,metro-water,Metro Water (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 184 /metro-water-recovery/
+2,institution,mwr,Metro Water Recovery abbrev,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 184 /metro-water-recovery/
+184,institution,ohio-hprs,Ohio Highway Patrol Retirement System,allocator,brief,P0,drafted-in-repo,Wave 184. Official pension FNP $1,095,716,911 at 31 Dec 2025. Do not mint /hprs/ or /opers/. Not leftover Ohio OPERS
+2,institution,ohio-hprs-explained,Ohio HPRS explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 184 /ohio-hprs/
+2,institution,hprs,HPRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 184 /ohio-hprs/
+2,institution,ohio-highway-patrol,Ohio Highway Patrol (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 184 /ohio-hprs/
+184,institution,ohio-strs,State Teachers Retirement System of Ohio,allocator,brief,P0,drafted-in-repo,Wave 184. Official DB FNP $92,707,886 thousand at 30 Jun 2025. Do not mint /strs/ or /strs-ohio/ or /strs-ohio-explained/. Not leftover Ohio SERS
+2,institution,ohio-strs-explained,Ohio STRS explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 184 /ohio-strs/
+2,institution,strs,STRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 184 /ohio-strs/
+2,institution,strs-ohio,STRS Ohio (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 184 /ohio-strs/
+2,institution,strs-ohio-explained,STRS Ohio explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 184 /ohio-strs/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

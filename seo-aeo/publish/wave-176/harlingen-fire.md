@@ -54,5 +54,6 @@ Do not 301 this page onto `/texas-tmrs/`, `/mcallen-fire/`, `/corpus-christi-fir
 - [Longview Firemen’s Relief and Retirement Fund](/longview-fire/)
 - [Galveston Firefighters’ Pension Fund](/galveston-fire/)
 - [Irving Firemen’s Relief and Retirement Fund](/irving-fire/)
+- [Laredo Firefighters Retirement System](/laredo-fire/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

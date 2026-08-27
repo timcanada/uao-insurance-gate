@@ -27,7 +27,7 @@ The statement of fiduciary net position is the sourced line:
 2. **GASB funded cards.** Total pension liability **$4,480,234,341**. GASB pension fiduciary net position **$2,905,858,838**. Net pension liability **$1,574,375,503**. Fiduciary net position / total pension liability **64.86 percent**. The GASB pension fiduciary line is not the combined book **$2,994,725,181** and is one dollar off the combining pension column **$2,905,858,839**.
 3. **Returns.** Money-weighted return **12.73 percent** net of fees. House net investment return / Total Portfolio **12.7 percent**. Those two official one-year prints are not interchangeable. Do not treat the rounded **12.7 percent** card as a second money-weighted print.
 
-Do not flatten Denver Employees into [Colorado PERA](/colorado-pera/) or [Phoenix COPERS](/phoenix-copers/). Colorado PERA is the statewide file. Phoenix COPERS is a different legal person. This is **one Denver civilian-employee file**.
+Do not flatten Denver Employees into [Colorado PERA](/colorado-pera/), leftover [Employees’ Retirement Plan of the Denver Board of Water Commissioners](/denver-water-pension/), leftover [Metro Water Recovery Defined Benefit Retirement Plan](/metro-water-recovery/), or [Phoenix COPERS](/phoenix-copers/). Colorado PERA is the statewide file. Denver Water and Metro Water Recovery are different Colorado utility files. Phoenix COPERS is a different legal person. This is **one Denver civilian-employee file**.
 
 ## What an owner is actually buying
 
@@ -49,5 +49,7 @@ Do not 301 this page onto `/colorado-pera/`, `/phoenix-copers/`, or `/largest-us
 - [Colorado PERA](/colorado-pera/)
 - [Fire and Police Pension Association of Colorado](/colorado-fppa/)
 - [Phoenix COPERS](/phoenix-copers/)
+- [Employees’ Retirement Plan of the Denver Board of Water Commissioners](/denver-water-pension/)
+- [Metro Water Recovery Defined Benefit Retirement Plan](/metro-water-recovery/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

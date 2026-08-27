@@ -56,5 +56,6 @@ Do not 301 this page onto `/texas-tmrs/`, `/texas-ers/`, `/houston-hfrrf/`, `/cc
 - [Galveston Firefighters’ Pension Fund](/galveston-fire/)
 - [Harlingen Firemen’s Relief and Retirement Fund](/harlingen-fire/)
 - [Irving Firemen’s Relief and Retirement Fund](/irving-fire/)
+- [Laredo Firefighters Retirement System](/laredo-fire/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

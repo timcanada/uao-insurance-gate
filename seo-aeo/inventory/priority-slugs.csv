@@ -730,6 +730,12 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,ppge,PPGE (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 178 /pinellas-park-employees/. /gepp/ is Jacksonville
 2,institution,pinellas-park-ge,Pinellas Park GE (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 178 /pinellas-park-employees/
 2,institution,pinellas-park,Pinellas Park (city short),allocator,brief,P0,do-not-mint,Do not mint. Twin that would flatten Wave 178 Pinellas Park Police / Fire / Employees
+178,institution,pompano-beach-employees,Pompano Beach General Employees Retirement System,allocator,brief,P0,drafted-in-repo,Wave 178. Official FNP $332,006,254 at 30 Sep 2025. Do not mint /pompgers/ or /gepp/ or /gers/. Not leftover Pompano Beach Police and Fire
+2,institution,pompano-beach-employees-explained,Pompano Beach Employees explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 178 /pompano-beach-employees/
+2,institution,pompano-beach-general-employees,Pompano Beach General Employees (long),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 178 /pompano-beach-employees/
+2,institution,pompgers,POMPGERS (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 178 /pompano-beach-employees/. /gepp/ is Jacksonville. /gers/ unused Fort Lauderdale
+2,institution,pbgers,PBGERS (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 178 /pompano-beach-employees/
+2,institution,pompano-ge,Pompano GE (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 178 /pompano-beach-employees/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

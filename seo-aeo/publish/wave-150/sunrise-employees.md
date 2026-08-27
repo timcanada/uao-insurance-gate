@@ -54,5 +54,6 @@ Do not 301 this page onto `/sunrise-police/`, `/fort-lauderdale-employees/`, `/s
 - [West Palm Beach Restated Employees Defined Benefit Retirement System](/west-palm-beach-employees/)
 - [City of Lake Worth Beach General Employees’ Retirement System](/lake-worth-beach-employees/)
 - [City of Pinellas Park General Employees’ Pension Plan](/pinellas-park-employees/)
+- [The City of Pompano Beach General Employees’ Retirement System](/pompano-beach-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -59,5 +59,6 @@ Do not 301 this page onto `/miami-fire-police/`, `/tampa-fire-police/`, `/jackso
 - [City of Palm Bay Police and Firefighters’ Retirement System](/palm-bay-police-fire/)
 - [City of Miramar Firefighters Retirement Plan](/miramar-fire/)
 - [City of Parkland Police Officers Retirement Plan](/parkland-police/)
+- [The City of Pompano Beach General Employees’ Retirement System](/pompano-beach-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

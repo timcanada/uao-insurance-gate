@@ -52,5 +52,6 @@ Do not 301 this page onto `/west-palm-beach-employees/`, `/gepp/`, `/gers/`, `/l
 - [Lantana Police Relief and Pension Fund](/lantana-police/)
 - [Town of Jupiter Police Officers’ Retirement Fund](/jupiter-police/)
 - [City of Lake Worth Beach Police Officers’ Retirement System](/lake-worth-beach-police/)
+- [The City of Pompano Beach General Employees’ Retirement System](/pompano-beach-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

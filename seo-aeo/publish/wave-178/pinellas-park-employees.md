@@ -51,5 +51,6 @@ Do not 301 this page onto `/pinellas-park-police/`, `/gepp/`, `/gers/`, `/pinell
 - [City of Lake Worth Beach General Employees’ Retirement System](/lake-worth-beach-employees/)
 - [West Palm Beach Restated Employees Defined Benefit Retirement System](/west-palm-beach-employees/)
 - [City of Sunrise General Employees’ Retirement Plan](/sunrise-employees/)
+- [The City of Pompano Beach General Employees’ Retirement System](/pompano-beach-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -1,12 +1,12 @@
-# Wave 178 — Lake Worth Beach Police, Pinellas Park Police, Pinellas Park Fire, Pinellas Park Employees
+# Wave 178 — Lake Worth Beach Police, Pinellas Park Police, Pinellas Park Fire, Pinellas Park Employees, Pompano Beach Employees
 
 **Date:** 27 August 2026  
 **Rule:** ≤5 new pages. Prefer overwrite. No synonym twins.  
-**Checked live:** 27 August 2026. Wave 178 keepers **404**. Short twins `/lwb-police/`, `/lwbpors/`, `/lake-worth-police/`, `/pinellas-park/`, `/pppop/`, `/pp-police/`, `/ppff/`, `/pp-fire/`, `/ppge/`, and `/pinellas-park-ge/` also **404** — do not mint them. `/gepp/` remains Jacksonville GEPP. `/gers/` remains the unused Fort Lauderdale Employees short. `/pfrs/` remains Oakland Police and Fire. `/ers/` remains the Texas ERS collision. `/mcera/` remains Marin reserved. `/npers/` remains Nevada PERS. `/hers/` remains reserved.
+**Checked live:** 27 August 2026. Wave 178 keepers **404**. Short twins `/lwb-police/`, `/lwbpors/`, `/lake-worth-police/`, `/pinellas-park/`, `/pppop/`, `/pp-police/`, `/ppff/`, `/pp-fire/`, `/ppge/`, `/pinellas-park-ge/`, `/pompgers/`, `/pbgers/`, `/pompano-ge/`, and `/pompano-beach-general-employees/` also **404** — do not mint them. `/gepp/` remains Jacksonville GEPP. `/gers/` remains the unused Fort Lauderdale Employees short. `/pfrs/` remains Oakland Police and Fire. `/ers/` remains the Texas ERS collision. `/mcera/` remains Marin reserved. `/npers/` remains Nevada PERS. `/hers/` remains reserved.
 
-This wave locked **four** unique official 2025 house FS PDFs. City of Lake Worth Beach Police Officers’ Retirement System 30 Sep 2025 house FS locks at Resource Centers folder **20** (GET **200** `application/pdf` **468,130** bytes). KSDT Boca Raton unmodified **3 March 2026**. City of Pinellas Park Police Officers’ Pension Plan 30 Sep 2025 house FS locks at `pinellaspark.gov/ArchiveCenter/ViewFile/Item/480` (GET **200** `application/pdf` **10,404,101** bytes). City of Pinellas Park Firefighters’ Pension Plan locks at `ArchiveCenter/ViewFile/Item/472` (GET **200** `application/pdf` **10,205,904** bytes). City of Pinellas Park General Employees’ Pension Plan locks at `ArchiveCenter/ViewFile/Item/475` (GET **200** `application/pdf` **10,237,011** bytes). Cherry Bekaert, Tampa, unmodified **4 June 2026** on each Pinellas Park book. Independently re-GET; Pinellas Park books are image-only Microsoft Print to PDF — cards extracted from the official GET **200** files, not from a hunt table. Do not overwrite Wave 177 keepers or Wave 176 keepers. City/county ACFRs are not standalone house pension FS.
+This wave locked **five** unique official 2025 house FS PDFs. City of Lake Worth Beach Police Officers’ Retirement System 30 Sep 2025 house FS locks at Resource Centers folder **20** (GET **200** `application/pdf` **468,130** bytes). KSDT Boca Raton unmodified **3 March 2026**. City of Pinellas Park Police Officers’ Pension Plan 30 Sep 2025 house FS locks at `pinellaspark.gov/ArchiveCenter/ViewFile/Item/480` (GET **200** `application/pdf` **10,404,101** bytes). City of Pinellas Park Firefighters’ Pension Plan locks at `ArchiveCenter/ViewFile/Item/472` (GET **200** `application/pdf` **10,205,904** bytes). City of Pinellas Park General Employees’ Pension Plan locks at `ArchiveCenter/ViewFile/Item/475` (GET **200** `application/pdf` **10,237,011** bytes). Cherry Bekaert, Tampa, unmodified **4 June 2026** on each Pinellas Park book. The City of Pompano Beach General Employees’ Retirement System 30 Sep 2025 house FS locks at `pompgers.org/reports/pdfs/2025-Audit.pdf` (GET **200** `application/pdf` **327,695** bytes). KSDT Boca Raton unmodified **17 February 2026**. Independently re-GET; not drafted from a hunt table. Pinellas Park books are image-only Microsoft Print to PDF — cards extracted from the official GET **200** files. Do not overwrite Wave 177 keepers or Wave 176 keepers. City/county ACFRs are not standalone house pension FS.
 
-## Pages (4)
+## Pages (5)
 
 | # | File | Live slug | Action | Notes |
 |---|------|-----------|--------|-------|
@@ -14,6 +14,7 @@ This wave locked **four** unique official 2025 house FS PDFs. City of Lake Worth
 | 2 | `pinellas-park-police.md` | `/pinellas-park-police/` | **NEW** (404) | Official 30 Sep 2025 house FS. Independently re-GET (GET **200** `application/pdf` **10,404,101** bytes). FNP **$100,407,145**. Beginning **$93,738,582**. Investments **$97,640,280** are not FNP. Cash equivalents **$2,817,286** are not FNP. RSI MWR **8.20%**. Notes omit a separate MWR sentence. MD&A **7.1%** is the FNP increase. TPL **$101,636,666**. NPL **$1,229,521**. GASB **98.79%**. Cherry Bekaert Tampa **4 June 2026**. **Never mint `/pinellas-park/` or `/pfrs/`.** Not leftover Tampa Fire and Police **$3,407,822,026**. |
 | 3 | `pinellas-park-fire.md` | `/pinellas-park-fire/` | **NEW** (404) | Official 30 Sep 2025 house FS. Independently re-GET (GET **200** `application/pdf` **10,205,904** bytes). FNP **$93,150,597**. Beginning **$85,577,544**. Increase **$7,573,053**. Investments **$91,132,373** are not FNP. Cash equivalents **$2,042,512** are not FNP. RSI MWR **10.63%**. MD&A table **8.8%** is the FNP increase. TPL **$97,789,617**. NPL **$4,639,020**. GASB **95.26%**. Cherry Bekaert Tampa **4 June 2026**. **Never mint `/pinellas-park/` or `/pfrs/`.** Not leftover Pinellas Park Police **$100,407,145**. |
 | 4 | `pinellas-park-employees.md` | `/pinellas-park-employees/` | **NEW** (404) | Official 30 Sep 2025 house FS. Independently re-GET (GET **200** `application/pdf` **10,237,011** bytes). FNP **$124,238,068**. Beginning **$117,914,806**. Investments **$120,205,249** are not FNP. Cash equivalents **$4,095,267** are not FNP. RSI MWR **8.00%**. MD&A **5.4%** is the FNP increase. TPL **$119,840,912**. Net pension **asset** **$4,397,156**. GASB **103.67%**. Discount **6.75%**. Cherry Bekaert Tampa **4 June 2026**. **Never mint `/gepp/` or `/gers/` or `/pinellas-park/`.** Not leftover Pinellas Park Police **$100,407,145**. |
+| 5 | `pompano-beach-employees.md` | `/pompano-beach-employees/` | **NEW** (404) | Official 30 Sep 2025 house FS. Independently re-GET (GET **200** `application/pdf` **327,695** bytes). FNP **$332,006,254**. Beginning **$300,901,436**. Investments **$331,937,748** are not FNP. Cash **$24,425** is not FNP. Notes/RSI MWR **8.8%**. MD&A **10%** is the FNP increase. TPL **$432,005,351**. NPL **$99,999,097**. GASB **76.85%**. DROP **$12,574,002** is a component. KSDT Boca Raton **17 February 2026**. **Never mint `/gepp/` or `/gers/` or `/pompgers/`.** Not leftover Pompano Beach Police and Fire **$313,289,538**. |
 
 ## Official sources used
 
@@ -23,6 +24,8 @@ This wave locked **four** unique official 2025 house FS PDFs. City of Lake Worth
 - City of Pinellas Park Firefighters’ Pension Plan FS 30 Sep 2025: https://www.pinellaspark.gov/ArchiveCenter/ViewFile/Item/472
 - City of Pinellas Park General Employees’ Pension Plan FS 30 Sep 2025: https://www.pinellaspark.gov/ArchiveCenter/ViewFile/Item/475
 - Pinellas Park archive listings: https://www.pinellaspark.gov/Archive.aspx?ADID=480 · https://www.pinellaspark.gov/Archive.aspx?ADID=472 · https://www.pinellaspark.gov/Archive.aspx?ADID=475
+- The City of Pompano Beach General Employees’ Retirement System FS 30 Sep 2025: https://www.pompgers.org/reports/pdfs/2025-Audit.pdf
+- Pompano Beach General Employees house site: https://www.pompgers.org/
 
 ## Skipped this wave
 
@@ -78,6 +81,13 @@ Coral Springs Police if a house PDF GET **200** locks from this env — do not d
 - Pinellas Park Employees net pension asset **$4,397,156** as AUM
 - Pinellas Park Employees discount **6.75 percent** as MWR
 - Never mint `/pinellas-park/`, `/pfrs/`, `/gepp/`, or `/gers/`
+- Pompano Beach Employees leftover Pompano Beach Police and Fire **$313,289,538** / leftover Sunrise Employees **$357,434,561**
+- Pompano Beach Employees investments / cash / money-market / accrued income / other assets ≠ FNP
+- Pompano Beach Employees defined-benefit restricted **$319,432,252** / DROP **$12,574,002** as total FNP
+- Pompano Beach Employees MD&A **10 percent** ≠ notes/RSI MWR **8.8 percent**
+- Pompano Beach Employees RSI net investment **$26,668,383** as the statement net-investment card **$26,652,938**
+- Pompano Beach Employees discount **7.25 percent** as MWR
+- Never mint `/gepp/`, `/gers/`, `/pompgers/`, `/pbgers/`, or `/pompano-beach-general-employees/`
 - Drafting Coral Springs Police from a 403 / leftover `/tmp` PDF
 - Drafting Davie from a city ACFR or 112.664
 - Overwriting Wave 177 Lake Worth Beach Employees / Milwaukee County / Medford / New Castle / Danville
@@ -88,4 +98,4 @@ Coral Springs Police if a house PDF GET **200** locks from this env — do not d
 
 ## After paste
 
-Queue Wave 178 after Wave 177 (Waves 152 and 154 shipped no pages). Never flatten Lake Worth Beach Police into leftover Lake Worth Beach Employees **$85,643,782**. Never flatten Pinellas Park Police / Fire / Employees into one book or into leftover Tampa Fire and Police **$3,407,822,026**. Never mint `/gepp/` or `/gers/` for Lake Worth Beach Police or Pinellas Park Employees. Never mint `/pinellas-park/` or `/pfrs/` for the Pinellas Park trio.
+Queue Wave 178 after Wave 177 (Waves 152 and 154 shipped no pages). Never flatten Lake Worth Beach Police into leftover Lake Worth Beach Employees **$85,643,782**. Never flatten Pinellas Park Police / Fire / Employees into one book or into leftover Tampa Fire and Police **$3,407,822,026**. Never flatten Pompano Beach Employees into leftover Pompano Beach Police and Fire **$313,289,538**. Never mint `/gepp/` or `/gers/` for Lake Worth Beach Police, Pinellas Park Employees, or Pompano Beach Employees. Never mint `/pinellas-park/` or `/pfrs/` for the Pinellas Park trio. Never mint `/pompgers/` for Pompano Beach Employees.

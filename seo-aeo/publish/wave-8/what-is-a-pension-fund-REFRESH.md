@@ -318,6 +318,7 @@ No. Some SWFs pre-fund future public pensions. That still does not make GPFG, [C
 - [City of Pinellas Park Police Officers’ Pension Plan](/pinellas-park-police/)
 - [City of Pinellas Park Firefighters’ Pension Plan](/pinellas-park-fire/)
 - [City of Pinellas Park General Employees’ Pension Plan](/pinellas-park-employees/)
+- [The City of Pompano Beach General Employees’ Retirement System](/pompano-beach-employees/)
 - [Portland Fire and Police Disability and Retirement Funds](/portland-fpdr/)
 - [Springfield Police Pension Fund](/springfield-police/)
 - [Springfield Firefighters’ Pension Fund](/springfield-fire/)

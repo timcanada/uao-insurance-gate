@@ -469,6 +469,16 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,persla,Louisiana Parochial (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 142 /louisiana-parochial/
 142,institution,louisiana-lsers,Louisiana School Employees Retirement System,allocator,brief,P0,drafted-in-repo,Wave 142. Official FNP $2,411,550,113 at 30 Jun 2025. Do not mint /lsers/
 2,institution,lsers,Louisiana LSERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 142 /louisiana-lsers/
+143,institution,ann-arbor-employees,Ann Arbor Employees Retirement System,allocator,brief,P0,drafted-in-repo,Wave 143. Official combined FNP $682,683,869 at 30 Jun 2025. Do not mint /a2ers/ or /ann-arbor-ers/
+2,institution,a2ers,Ann Arbor Employees (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 143 /ann-arbor-employees/
+143,institution,gainesville-employees,Gainesville Employees Pension Plan,allocator,brief,P0,drafted-in-repo,Wave 143. Official FNP $764,938,276 at 30 Sep 2025. Do not mint /gainesville-ers/ or /gepp/
+2,institution,gainesville-ers,Gainesville Employees (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 143 /gainesville-employees/. /gepp/ is reserved for Jacksonville GEPP
+143,institution,mwrd-retirement,Metropolitan Water Reclamation District Retirement Fund,allocator,brief,P0,drafted-in-repo,Wave 143. Official FNP $1,788,522,242 at 31 Dec 2025. Do not mint /mwrd/
+2,institution,mwrd,MWRD Retirement (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 143 /mwrd-retirement/
+143,institution,st-joseph-employees,St Joseph Michigan Employees Retirement System,allocator,brief,P0,drafted-in-repo,Wave 143. Official combined FNP $84,988,230 at 30 Jun 2025. Do not mint /sjers/
+2,institution,sjers,St Joseph Employees (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 143 /st-joseph-employees/
+143,institution,sarasota-employees,Sarasota General Employees Pension,allocator,brief,P0,drafted-in-repo,Wave 143. Official FNP $192,591,188 at 30 Sep 2025. Do not mint /sarasota-ge/
+2,institution,sarasota-ge,Sarasota Employees (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 143 /sarasota-employees/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

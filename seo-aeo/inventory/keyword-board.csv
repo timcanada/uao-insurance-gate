@@ -686,5 +686,10 @@ P1,Louisiana Firefighters’ Retirement System,allocator,both,/louisiana-frs/,de
 P1,Missouri MoDOT and Highway Patrol Employees’ Retirement System,allocator,both,/missouri-mpers/,define,unknown,unknown,unknown,drafted-wave-142,Wave 142. Official FNP $4,088,465,006 at 30 Jun 2025. Do not mint /mpers/
 P1,Parochial Employees’ Retirement System of Louisiana,allocator,both,/louisiana-parochial/,define,unknown,unknown,unknown,drafted-wave-142,Wave 142. Official combined FNP $6,321,950,751 at 31 Dec 2025. Do not mint /persla/
 P1,Louisiana School Employees’ Retirement System,allocator,both,/louisiana-lsers/,define,unknown,unknown,unknown,drafted-wave-142,Wave 142. Official FNP $2,411,550,113 at 30 Jun 2025. Do not mint /lsers/
+P1,Ann Arbor Employees Retirement System,allocator,both,/ann-arbor-employees/,define,unknown,unknown,unknown,drafted-wave-143,Wave 143. Official combined FNP $682,683,869 at 30 Jun 2025. Do not mint /a2ers/
+P1,Gainesville Employees Pension Plan,allocator,both,/gainesville-employees/,define,unknown,unknown,unknown,drafted-wave-143,Wave 143. Official FNP $764,938,276 at 30 Sep 2025. Do not mint /gainesville-ers/
+P1,Metropolitan Water Reclamation District Retirement Fund,allocator,both,/mwrd-retirement/,define,unknown,unknown,unknown,drafted-wave-143,Wave 143. Official FNP $1,788,522,242 at 31 Dec 2025. Do not mint /mwrd/
+P1,St Joseph Michigan Employees Retirement System,allocator,both,/st-joseph-employees/,define,unknown,unknown,unknown,drafted-wave-143,Wave 143. Official combined FNP $84,988,230 at 30 Jun 2025. Do not mint /sjers/
+P1,Sarasota General Employees Pension,allocator,both,/sarasota-employees/,define,unknown,unknown,unknown,drafted-wave-143,Wave 143. Official FNP $192,591,188 at 30 Sep 2025. Do not mint /sarasota-ge/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

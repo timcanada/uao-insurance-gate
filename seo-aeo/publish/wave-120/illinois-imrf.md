@@ -27,13 +27,13 @@ The statement of fiduciary net position is the sourced line:
 2. **Funded cards are not one ratio.** Aggregate actuarial value of assets **$58.0 billion**. Aggregate actuarial liability **$59.6 billion**. Aggregate actuarial-value funded ratio **97.4 percent** (2024 **95.8 percent**). Aggregate fair-value funded ratio **104.7 percent** (2024 **96.9 percent**). Unrecognized actuarial investment gains **$3,304.9 million** sit in the five-year smoother. Those two funded cards are not interchangeable. Individual employer and plan ratios vary.
 3. **Returns.** House net / total portfolio return **14.7 percent** (2024 **9.2 percent**). Money-weighted return **15.78 percent** (2024 **9.93 percent**). Those two official one-year prints are not interchangeable. U.S. stocks **14.3 percent**. International stocks **32.3 percent**. Fixed income **7.4 percent**. Real estate **2.1 percent**. Alternative investments **15.2 percent**.
 
-Do not flatten IMRF into [Illinois TRS](/illinois-trs/), [Illinois SERS](/illinois-sers/), [SURS](/illinois-surs/), [Illinois State Board of Investment](/illinois-isbi/), [Chicago Teachers](/chicago-teachers/), [Illinois FPIF](/illinois-fpif/), [Illinois IPOPIF](/illinois-ipopif/), [Cook County Pension](/cook-county-pension/), or [Chicago Fire FABF](/chicago-fire-fabf/). Illinois TRS is the statewide teacher file. Illinois SERS is the statewide state-employee file. ISBI does not manage this book. FPIF and IPOPIF are consolidated investment trusts for downstate firefighter and police funds, not this local-government pension. Cook County is the Cook County employee file. FABF is the Chicago fire file. This is **one Illinois municipal-employee file**.
+Do not flatten IMRF into [Illinois TRS](/illinois-trs/), [Illinois SERS](/illinois-sers/), [SURS](/illinois-surs/), [Illinois State Board of Investment](/illinois-isbi/), [Chicago Teachers](/chicago-teachers/), [Illinois FPIF](/illinois-fpif/), [Illinois IPOPIF](/illinois-ipopif/), [Cook County Pension](/cook-county-pension/), [Chicago Fire FABF](/chicago-fire-fabf/), or [Metropolitan Water Reclamation District Retirement Fund](/mwrd-retirement/). Illinois TRS is the statewide teacher file. Illinois SERS is the statewide state-employee file. ISBI does not manage this book. FPIF and IPOPIF are consolidated investment trusts for downstate firefighter and police funds, not this local-government pension. Cook County is the Cook County employee file. FABF is the Chicago fire file. MWRD is the District employee file. This is **one Illinois municipal-employee file**.
 
 ## What an owner is actually buying
 
 Counsel selling “IMRF AUM” has to name the book. The **$62,375,940,515** line is net position restricted for pensions. The **$61,666,076,506** line is investments. Those are not the same mandate. The **97.4 percent** card is actuarial-value funded status. The **104.7 percent** card is fair-value funded status.
 
-Do not 301 this page onto `/illinois-trs/`, `/illinois-sers/`, `/illinois-isbi/`, `/chicago-teachers/`, `/cook-county-pension/`, `/chicago-fire-fabf/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/illinois-trs/`, `/illinois-sers/`, `/illinois-isbi/`, `/chicago-teachers/`, `/cook-county-pension/`, `/chicago-fire-fabf/`, `/mwrd-retirement/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -53,5 +53,6 @@ Do not 301 this page onto `/illinois-trs/`, `/illinois-sers/`, `/illinois-isbi/`
 - [Chicago Fire FABF](/chicago-fire-fabf/)
 - [Chicago LABF](/chicago-labf/)
 - [Cook County Forest Preserve](/cook-forest-preserve/)
+- [Metropolitan Water Reclamation District Retirement Fund](/mwrd-retirement/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

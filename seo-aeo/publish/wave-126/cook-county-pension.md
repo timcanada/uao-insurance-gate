@@ -27,13 +27,13 @@ The statement of fiduciary net position is the sourced line:
 2. **GASB funded cards.** Total pension liability **$21,066,944,967**. City / plan net pension liability **$5,845,232,774**. Fiduciary net position / total pension liability **72.25 percent** (2024 **67.81 percent**). Those two lines are not interchangeable with investments.
 3. **Returns.** Money-weighted return **15.27 percent** net of investment expense (2024 **9.59 percent**). The house statements do not give this page a separate official time-weighted card to quote as the money-weighted substitute. Do not invent one.
 
-Do not flatten Cook County Pension into [IMRF](/illinois-imrf/), [Illinois FPIF](/illinois-fpif/), [Illinois IPOPIF](/illinois-ipopif/), [Chicago Teachers](/chicago-teachers/), [Chicago Fire FABF](/chicago-fire-fabf/), [Chicago LABF](/chicago-labf/), or [Cook County Forest Preserve](/cook-forest-preserve/). IMRF is the statewide municipal-employee file. FPIF and IPOPIF are consolidated investment trusts. Chicago Teachers is the Chicago teacher file. FABF is the Chicago fire file. LABF is the Chicago laborers file. The Forest Preserve book is a different legal person. This is **one Cook County employee file**.
+Do not flatten Cook County Pension into [IMRF](/illinois-imrf/), [Illinois FPIF](/illinois-fpif/), [Illinois IPOPIF](/illinois-ipopif/), [Chicago Teachers](/chicago-teachers/), [Chicago Fire FABF](/chicago-fire-fabf/), [Chicago LABF](/chicago-labf/), [Cook County Forest Preserve](/cook-forest-preserve/), or [Metropolitan Water Reclamation District Retirement Fund](/mwrd-retirement/). IMRF is the statewide municipal-employee file. FPIF and IPOPIF are consolidated investment trusts. Chicago Teachers is the Chicago teacher file. FABF is the Chicago fire file. LABF is the Chicago laborers file. The Forest Preserve book is a different legal person. MWRD is the District employee file. This is **one Cook County employee file**.
 
 ## What an owner is actually buying
 
 Counsel selling “Cook County AUM” has to name the legal person. The **$15,221,712,193** line is fiduciary net position restricted for pensions. The **$14,934,036,353** line is investments. The healthcare column is not a second AUM. The Forest Preserve 2025 financial statements are a different filing.
 
-Do not 301 this page onto `/illinois-imrf/`, `/illinois-fpif/`, `/illinois-ipopif/`, `/chicago-teachers/`, `/chicago-fire-fabf/`, `/chicago-labf/`, `/cook-forest-preserve/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/illinois-imrf/`, `/illinois-fpif/`, `/illinois-ipopif/`, `/chicago-teachers/`, `/chicago-fire-fabf/`, `/chicago-labf/`, `/cook-forest-preserve/`, `/mwrd-retirement/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -53,5 +53,6 @@ Do not 301 this page onto `/illinois-imrf/`, `/illinois-fpif/`, `/illinois-ipopi
 - [Chicago Fire FABF](/chicago-fire-fabf/)
 - [Chicago LABF](/chicago-labf/)
 - [Cook County Forest Preserve](/cook-forest-preserve/)
+- [Metropolitan Water Reclamation District Retirement Fund](/mwrd-retirement/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -50,5 +50,7 @@ Do not 301 this page onto `/miami-fire-police/`, `/tampa-general-employees/`, `/
 - [Tampa General Employees’ Retirement Fund](/tampa-general-employees/)
 - [Tampa Fire and Police](/tampa-fire-police/)
 - [Jacksonville Police and Fire](/jacksonville-police-fire/)
+- [Employees’ Pension Plan of the City of Gainesville](/gainesville-employees/)
+- [City of Sarasota General Employees’ Defined Benefit Pension Plan](/sarasota-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

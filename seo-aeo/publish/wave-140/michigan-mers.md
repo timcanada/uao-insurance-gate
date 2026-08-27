@@ -27,7 +27,7 @@ The Defined Benefit Plan column, the notes money-weighted line, and the funding 
 2. **Funded cards.** The house report says MERS is an agent multiple-employer system and does not have one funded status. Each municipality has its own. The **31 December 2024** actuarial print of about **$13.6 billion** actuarial assets and about **$12.4 billion** fair-value assets is not a 2025 GASB funded-ratio card. Do not invent a 2025 system-wide GASB ratio.
 3. **Returns.** Notes money-weighted return **15.43 percent** net of investment expenses for the Defined Benefit Plan for the year ended **31 December 2025**. The **6.93 percent** actuarial-return print is not that card.
 
-Do not flatten MERS into [MPSERS](/michigan-mpsers/), [Police and Fire Retirement System of the City of Detroit](/detroit-police-fire/), or [General Retirement System of the City of Detroit](/detroit-grs/). MPSERS is the Michigan school file. Detroit Police and Fire and Detroit GRS are Detroit city files. This is **one Michigan local-government file**.
+Do not flatten MERS into [MPSERS](/michigan-mpsers/), [Police and Fire Retirement System of the City of Detroit](/detroit-police-fire/), [General Retirement System of the City of Detroit](/detroit-grs/), [City of Ann Arbor Employees’ Retirement System](/ann-arbor-employees/), or [City of St. Joseph Employees’ Retirement System](/st-joseph-employees/). MPSERS is the Michigan school file. Detroit Police and Fire and Detroit GRS are Detroit city files. Ann Arbor Employees and St. Joseph Employees are city files. This is **one Michigan local-government file**.
 
 ## What an owner is actually buying
 
@@ -49,6 +49,8 @@ Do not 301 this page onto `/michigan-mpsers/`, `/detroit-police-fire/`, `/detroi
 - [MPSERS](/michigan-mpsers/)
 - [Police and Fire Retirement System of the City of Detroit](/detroit-police-fire/)
 - [General Retirement System of the City of Detroit](/detroit-grs/)
+- [City of Ann Arbor Employees’ Retirement System](/ann-arbor-employees/)
+- [City of St. Joseph Employees’ Retirement System](/st-joseph-employees/)
 - [Missouri LAGERS](/missouri-lagers/)
 - [Municipal Fire and Police Retirement System of Iowa](/iowa-mfprsi/)
 - [Advertise](/advertise/)

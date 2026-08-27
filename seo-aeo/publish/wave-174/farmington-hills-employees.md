@@ -50,5 +50,7 @@ Do not 301 this page onto `/michigan-mers/`, `/grand-rapids-employees/`, `/battl
 - [Grand Rapids Employees](/grand-rapids-employees/)
 - [Battle Creek Police and Fire](/battle-creek-police-fire/)
 - [Ann Arbor Employees](/ann-arbor-employees/)
+- [Bay City Police and Fire](/bay-city-police-fire/)
+- [Pontiac Employees](/pontiac-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

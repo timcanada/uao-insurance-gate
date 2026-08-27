@@ -644,6 +644,14 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,fhers,Farmington Hills ERS (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 174 /farmington-hills-employees/
 2,institution,farmington-hills-ers,Farmington Hills ERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 174 /farmington-hills-employees/
 2,institution,farmington-hills,Farmington Hills (city short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 174 /farmington-hills-employees/
+175,institution,bay-city-police-fire,Bay City Public Safety and Fire Pension Plan,allocator,brief,P0,drafted-in-repo,Wave 175. Official FNP $61,251,994 at 30 Jun 2025. Investments $59,546,298 are not FNP. GASB 76.58%. RSI MWR 8.06%. Notes 10.15% is 2024 companion. Do not mint /bcpsfrs/ or /bay-city/. Not leftover Battle Creek or leftover Grand Rapids Police and Fire
+2,institution,bcpsfrs,Bay City Police and Fire (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 175 /bay-city-police-fire/. /bcpfrs/ remains Battle Creek. /cmers/ remains Milwaukee City
+2,institution,bay-city,Bay City (city short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 175 /bay-city-police-fire/
+175,institution,pontiac-employees,Pontiac Reestablished General Employees Retirement System,allocator,brief,P0,drafted-in-repo,Wave 175. Official FNP $467,067,804 at 31 Dec 2025. Investments $466,503,869 are not FNP. GASB 163.46%. Notes/RSI MWR 10.89%. Do not mint /pontiac-regers/ or /gers/. Not leftover Michigan MERS
+2,institution,pontiac-regers,Pontiac REGERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 175 /pontiac-employees/. /gers/ remains Fort Lauderdale unused short
+2,institution,pontiac-gers,Pontiac GERS (original remnant),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 175 /pontiac-employees/. Original GERS has no 2025 TPL card
+2,institution,regers,REGERS (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 175 /pontiac-employees/
+2,institution,pontiac,Pontiac (city short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 175 /pontiac-employees/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

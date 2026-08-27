@@ -51,6 +51,7 @@ Do not 301 this page onto `/grand-rapids-police-fire/`, `/michigan-mers/`, `/bcp
 - [Farmington Hills Employees’ Retirement System](/farmington-hills-employees/)
 - [Municipal Employees’ Retirement System of Michigan](/michigan-mers/)
 - [Michigan MPSERS](/michigan-mpsers/)
+- [Bay City Police and Fire](/bay-city-police-fire/)
 - [Detroit Police and Fire](/detroit-police-fire/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

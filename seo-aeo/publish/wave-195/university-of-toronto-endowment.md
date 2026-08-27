@@ -47,5 +47,6 @@ Do not 301 this page onto `/cpp-investments-explained/`, `/ontario-teachers-pens
 - [CPP Investments](/cpp-investments-explained/)
 - [Ontario Teachers’ Pension Plan](/ontario-teachers-pension-plan-explained/)
 - [NUS endowment](/nus-endowment/)
+- [McGill University endowment](/mcgill-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

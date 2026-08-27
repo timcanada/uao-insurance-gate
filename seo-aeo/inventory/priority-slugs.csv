@@ -1043,6 +1043,25 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,columbia-investment-management,Columbia IMC,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 192 /columbia-endowment/
 2,institution,upenn-investment-office,Penn investment office,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 194 /university-of-pennsylvania-endowment/
 2,institution,chicago-endowment,University of Chicago endowment,allocator,brief,P0,needed,Endowment
+197,institution,emory-endowment,Emory University endowment,allocator,brief,P0,drafted-in-repo,Wave 197. Official endowment net assets $8,926,229 thousand at 31 Aug 2025. Do not invent a percent. Do not mint /emory/
+2,institution,emory-endowment-explained,Emory endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 197 /emory-endowment/
+2,institution,emory,Emory (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 197 /emory-endowment/
+197,institution,carnegie-mellon-endowment,Carnegie Mellon University endowment,allocator,brief,P0,drafted-in-repo,Wave 197. Official endowment net assets $3,484,643 thousand at 30 Jun 2025. Do not invent a percent. Do not mint /cmu/
+2,institution,carnegie-mellon-endowment-explained,CMU endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 197 /carnegie-mellon-endowment/
+2,institution,cmu,CMU (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 197 /carnegie-mellon-endowment/
+2,institution,cmu-endowment,CMU endowment (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 197 /carnegie-mellon-endowment/
+197,institution,caltech-endowment,Caltech endowment,allocator,brief,P0,drafted-in-repo,Wave 197. Official GAAP endowment net assets $4,459,833 thousand at 30 Sep 2025. Report $4.488 billion / 9.9% is a different book. Do not mint /caltech/
+2,institution,caltech-endowment-explained,Caltech endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 197 /caltech-endowment/
+2,institution,caltech,Caltech (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 197 /caltech-endowment/
+197,institution,university-of-virginia-endowment,University of Virginia endowment,allocator,brief,P0,drafted-in-repo,Wave 197. Official endowment $7.88 billion at 30 Jun 2025. LTP $15.5 billion / 12.4% is a different book. Do not mint /virginia/ /uva/ /uvimco/
+2,institution,university-of-virginia-endowment-explained,UVA endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 197 /university-of-virginia-endowment/
+2,institution,uva-endowment,UVA endowment (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 197 /university-of-virginia-endowment/
+2,institution,uva,UVA (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 197 /university-of-virginia-endowment/
+2,institution,virginia,Virginia (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 197 /university-of-virginia-endowment/
+2,institution,uvimco,UVIMCO (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 197 /university-of-virginia-endowment/
+197,institution,mcgill-endowment,McGill University endowment,allocator,brief,P0,drafted-in-repo,Wave 197. Official externally restricted endowment C$2,136,081 thousand at 30 Apr 2025. Print CAD. Report C$2.2 billion / 10.2% is a different book. Do not mint /mcgill/
+2,institution,mcgill-endowment-explained,McGill endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 197 /mcgill-endowment/
+2,institution,mcgill,McGill (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 197 /mcgill-endowment/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

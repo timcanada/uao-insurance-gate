@@ -50,5 +50,6 @@ Do not 301 this page onto `/gainesville-employees/`, `/sarasota-employees/`, `/t
 - [City of Sarasota General Employees’ Defined Benefit Pension Plan](/sarasota-employees/)
 - [Tampa General Employees’ Retirement Fund](/tampa-general-employees/)
 - [City of Hialeah Employees’ Retirement System](/hialeah-employees/)
+- [City of Fort Lauderdale General Employees’ Retirement System](/fort-lauderdale-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

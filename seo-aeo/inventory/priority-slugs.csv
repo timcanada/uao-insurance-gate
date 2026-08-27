@@ -499,6 +499,16 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,lakeland-ers,Lakeland Employees (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 145 /lakeland-employees/
 145,institution,hialeah-employees,Hialeah Employees Retirement System,allocator,brief,P0,drafted-in-repo,Wave 145. Official FNP $814,680,820 at 30 Sep 2025. Do not mint /hialeah-ers/ or /hers/ or /ers/
 2,institution,hialeah-ers,Hialeah Employees (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 145 /hialeah-employees/. /hers/ reserved for Hampton
+146,institution,texas-tesrs,Texas Emergency Services Retirement System,allocator,brief,P0,drafted-in-repo,Wave 146. Official FNP $152,259,760 at 31 Aug 2025. Do not mint /tesrs/ or /ers/
+2,institution,tesrs,TESRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 146 /texas-tesrs/
+146,institution,sarasota-police,Sarasota Police Officers Pension Fund,allocator,brief,P0,drafted-in-repo,Wave 146. Official FNP $362,453,217 at 30 Sep 2025. Do not mint /sarasota-police-explained/ or /ers/
+2,institution,sarasota-police-explained,Sarasota Police (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 146 /sarasota-police/
+146,institution,louisiana-dars,District Attorneys Retirement System,allocator,brief,P0,drafted-in-repo,Wave 146. Official FNP $624,823,773 at 30 Jun 2025. Do not mint /dars/ or /mers/
+2,institution,dars,Louisiana DARS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 146 /louisiana-dars/. /mers/ remains Michigan MERS
+146,institution,palm-beach-gardens-police,Palm Beach Gardens Police Officers Pension Fund,allocator,brief,P0,drafted-in-repo,Wave 146. Official FNP $160,495,301 at 30 Sep 2025. Do not mint /pbg-police/ or /ers/
+2,institution,pbg-police,Palm Beach Gardens Police (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 146 /palm-beach-gardens-police/
+146,institution,fort-lauderdale-employees,Fort Lauderdale General Employees Retirement System,allocator,brief,P0,drafted-in-repo,Wave 146. Official FNP $755,226,097 at 30 Sep 2025. Do not mint /fort-lauderdale-gers/ or /gers/ or /ers/
+2,institution,fort-lauderdale-gers,Fort Lauderdale Employees (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 146 /fort-lauderdale-employees/. /gers/ unused
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

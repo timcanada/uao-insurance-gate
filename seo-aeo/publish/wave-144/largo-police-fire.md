@@ -52,5 +52,7 @@ Do not 301 this page onto `/tampa-fire-police/`, `/miami-fire-police/`, `/jackso
 - [Pompano Beach Police and Firefighters’ Retirement System](/pompano-beach-police-fire/)
 - [City of North Port Police Officers’ Pension–Local Option Trust Fund](/north-port-police/)
 - [City of Hialeah Employees’ Retirement System](/hialeah-employees/)
+- [City of Sarasota Police Officers’ Pension Fund](/sarasota-police/)
+- [Palm Beach Gardens Police Officers’ Pension Fund](/palm-beach-gardens-police/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

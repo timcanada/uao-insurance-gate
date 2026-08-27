@@ -51,5 +51,6 @@ Do not 301 this page onto `/louisiana-trsl/`, `/louisiana-lasers/`, `/louisiana-
 - [LASERS](/louisiana-lasers/)
 - [Municipal Police Employees’ Retirement System](/louisiana-mpers/)
 - [Louisiana Firefighters’ Retirement System](/louisiana-frs/)
+- [District Attorneys’ Retirement System](/louisiana-dars/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

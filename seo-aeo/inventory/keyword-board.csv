@@ -701,5 +701,10 @@ P1,Grand Rapids Police and Fire Retirement System,allocator,both,/grand-rapids-p
 P1,Oklahoma Law Enforcement Retirement System,allocator,both,/oklahoma-olers/,define,unknown,unknown,unknown,drafted-wave-145,Wave 145. Official pension FNP $1,224,654,601 at 30 Jun 2025. Do not mint /olers/ or /opers/
 P1,Lakeland Employees Pension,allocator,both,/lakeland-employees/,define,unknown,unknown,unknown,drafted-wave-145,Wave 145. Official FNP $822,834,757 at 30 Sep 2025. Do not mint /lakeland-ers/ or /ers/
 P1,Hialeah Employees Retirement System,allocator,both,/hialeah-employees/,define,unknown,unknown,unknown,drafted-wave-145,Wave 145. Official FNP $814,680,820 at 30 Sep 2025. Do not mint /hialeah-ers/ or /hers/ or /ers/
+P1,Texas Emergency Services Retirement System,allocator,both,/texas-tesrs/,define,unknown,unknown,unknown,drafted-wave-146,Wave 146. Official FNP $152,259,760 at 31 Aug 2025. Do not mint /tesrs/ or /ers/
+P1,Sarasota Police Officers Pension Fund,allocator,both,/sarasota-police/,define,unknown,unknown,unknown,drafted-wave-146,Wave 146. Official FNP $362,453,217 at 30 Sep 2025. Do not mint /sarasota-police-explained/ or /ers/
+P1,District Attorneys Retirement System,allocator,both,/louisiana-dars/,define,unknown,unknown,unknown,drafted-wave-146,Wave 146. Official FNP $624,823,773 at 30 Jun 2025. Do not mint /dars/ or /mers/
+P1,Palm Beach Gardens Police Officers Pension Fund,allocator,both,/palm-beach-gardens-police/,define,unknown,unknown,unknown,drafted-wave-146,Wave 146. Official FNP $160,495,301 at 30 Sep 2025. Do not mint /pbg-police/ or /ers/
+P1,Fort Lauderdale General Employees Retirement System,allocator,both,/fort-lauderdale-employees/,define,unknown,unknown,unknown,drafted-wave-146,Wave 146. Official FNP $755,226,097 at 30 Sep 2025. Do not mint /fort-lauderdale-gers/ or /gers/ or /ers/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

@@ -53,5 +53,6 @@ Do not 301 this page onto `/gainesville-employees/`, `/tampa-general-employees/`
 - [City of Largo Municipal Police Officers’ and Firefighters’ Retirement Plan](/largo-police-fire/)
 - [City of Lakeland Employees’ Pension and Retirement System](/lakeland-employees/)
 - [City of Hialeah Employees’ Retirement System](/hialeah-employees/)
+- [City of Sarasota Police Officers’ Pension Fund](/sarasota-police/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

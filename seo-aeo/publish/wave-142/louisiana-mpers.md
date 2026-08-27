@@ -51,6 +51,7 @@ Do not 301 this page onto `/louisiana-trsl/`, `/louisiana-lasers/`, `/baton-roug
 - [LASERS](/louisiana-lasers/)
 - [Baton Rouge City-Parish Employees’ Retirement System](/baton-rouge-employees/)
 - [Baton Rouge Police Guarantee Trust](/baton-rouge-pgt/)
+- [District Attorneys’ Retirement System](/louisiana-dars/)
 - [MainePERS](/maine-pers/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

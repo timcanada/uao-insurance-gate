@@ -54,5 +54,6 @@ Do not 301 this page onto `/jacksonville-police-fire/`, `/tampa-general-employee
 - [Pompano Beach Police and Firefighters’ Retirement System](/pompano-beach-police-fire/)
 - [City of Lakeland Employees’ Pension and Retirement System](/lakeland-employees/)
 - [City of Hialeah Employees’ Retirement System](/hialeah-employees/)
+- [City of Sarasota Police Officers’ Pension Fund](/sarasota-police/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

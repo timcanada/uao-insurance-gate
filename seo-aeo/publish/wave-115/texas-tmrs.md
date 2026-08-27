@@ -56,5 +56,6 @@ Do not 301 this page onto `/texas-teacher-retirement-system-explained/`, `/texas
 - [San Antonio Fire and Police](/san-antonio-fire-police/)
 - [Dallas Police and Fire](/dallas-police-fire/)
 - [Dallas ERF](/dallas-erf/)
+- [Texas Emergency Services Retirement System](/texas-tesrs/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

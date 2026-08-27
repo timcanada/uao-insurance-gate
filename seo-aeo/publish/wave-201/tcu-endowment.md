@@ -46,6 +46,6 @@ Do not 301 this page onto `/baylor-endowment/`, `/rice-endowment/`, `/tcu/`, `/t
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Baylor University endowment](/baylor-endowment/)
-- [Rice University endowment](/rice-endowment/)
+- [Purdue University endowment](/purdue-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

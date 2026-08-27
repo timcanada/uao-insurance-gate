@@ -1142,6 +1142,23 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 201,institution,fordham-endowment,Fordham University endowment,allocator,brief,P0,drafted-in-repo,Wave 201. Official house endowment total $1,054,037 thousand at 30 Jun 2025. Unitized $959,551 thousand. Working capital is a different sleeve. Do not mint /fordham/
 2,institution,fordham-endowment-explained,Fordham endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 201 /fordham-endowment/
 2,institution,fordham,Fordham (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 201 /fordham-endowment/
+202,institution,purdue-endowment,Purdue University endowment,allocator,brief,P0,drafted-in-repo,Wave 202. Official University PIP $3,233,341,000 at 30 Jun 2025. MD&A 10.5%. PRF $4,629,123 thousand is a wider book. Do not mint /purdue/
+2,institution,purdue-endowment-explained,Purdue endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 202 /purdue-endowment/
+2,institution,purdue,Purdue (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 202 /purdue-endowment/
+202,institution,ohio-state-endowment,Ohio State University endowment,allocator,brief,P0,drafted-in-repo,Wave 202. Official LTIP $8,619,921 thousand / 11.81% at 30 Jun 2025. Gifted sleeve is not the whole pool. Do not mint /osu/ or /ohio-state/
+2,institution,ohio-state-endowment-explained,Ohio State endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 202 /ohio-state-endowment/
+2,institution,ohio-state,Ohio State (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 202 /ohio-state-endowment/. Not leftover Ohio OPERS
+2,institution,osu,OSU (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 202 /ohio-state-endowment/
+202,institution,penn-state-endowment,Penn State endowment,allocator,brief,P0,drafted-in-repo,Wave 202. Official endowment net assets $5,075,524 thousand at 30 Jun 2025. LTIP 8.4% is a different book. Do not mint /psu/ or /penn-state/
+2,institution,penn-state-endowment-explained,Penn State endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 202 /penn-state-endowment/
+2,institution,penn-state,Penn State (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 202 /penn-state-endowment/
+2,institution,psu,PSU (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 202 /penn-state-endowment/
+202,institution,university-of-richmond-endowment,University of Richmond endowment,allocator,brief,P0,drafted-in-repo,Wave 202. Official endowment net assets $3,493,990 thousand at 30 Jun 2025. Not leftover Richmond Retirement. Do not mint /richmond/
+2,institution,university-of-richmond-endowment-explained,University of Richmond endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 202 /university-of-richmond-endowment/
+2,institution,richmond,Richmond (short),allocator,brief,P0,do-not-mint,Do not mint. Reserved. University of Richmond endowment keeper is Wave 202 /university-of-richmond-endowment/. /richmond-retirement/ remains Richmond Retirement System
+202,institution,drexel-endowment,Drexel University endowment,allocator,brief,P0,drafted-in-repo,Wave 202. Official endowment assets $1,130,861 thousand at 30 Jun 2025. Endowment investments $1,066,593 thousand are a different line. Do not mint /drexel/
+2,institution,drexel-endowment-explained,Drexel endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 202 /drexel-endowment/
+2,institution,drexel,Drexel (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 202 /drexel-endowment/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

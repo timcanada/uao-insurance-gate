@@ -45,6 +45,6 @@ Do not 301 this page onto `/carnegie-mellon-endowment/`, `/pittsburgh-cmptf/`, `
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Carnegie Mellon University endowment](/carnegie-mellon-endowment/)
-- [Case Western Reserve University endowment](/case-western-reserve-endowment/)
+- [Ohio State University endowment](/ohio-state-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

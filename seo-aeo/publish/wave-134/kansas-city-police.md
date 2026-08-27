@@ -50,6 +50,8 @@ Do not 301 this page onto `/missouri-mosers/`, `/st-louis-ers/`, `/st-louis-fire
 - [St. Louis ERS](/st-louis-ers/)
 - [Firemen’s Retirement System of St. Louis](/st-louis-firemen/)
 - [Civilian Employees’ Retirement System of the Police Department of Kansas City](/kansas-city-police-civilian/)
+- [City of Kansas City, Missouri The Employees’ Retirement System](/kansas-city-employees/)
+- [City of Kansas City, Missouri Firefighters’ Pension System](/kansas-city-fire/)
 - [City of Springfield, Missouri Police Officers’ and Fire Fighters’ Retirement Fund](/springfield-mo-police-fire/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -47,6 +47,7 @@ Do not 301 this page onto `/calpers-explained-largest-us-pension-fund/`, `/sacrt
 - [Public pension funds](/public-pension-funds/)
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Retirement Plan for Sacramento Regional Transit District Employees who are Members of ATU Local 256](/sacrt-atu/)
+- [Retirement Plan for Sacramento Regional Transit District Employees who are Members of IBEW Local Union 1245](/sacrt-ibew/)
 - [University of California Retirement Plan (UCRP)](/ucrp/)
 - [East Bay Municipal Utility District Employees’ Retirement System](/ebmud-ers/)
 - [CalPERS](/calpers-explained-largest-us-pension-fund/)

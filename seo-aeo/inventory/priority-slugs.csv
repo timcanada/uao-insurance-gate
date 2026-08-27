@@ -790,6 +790,23 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 181,institution,hallandale-beach-police-fire,City of Hallandale Beach Police Officers and Firefighters Personnel Retirement Trust,allocator,brief,P0,drafted-in-repo,Wave 181. Official FNP $297,610,943 at 30 Sep 2025. Do not mint /hallandale-beach/ or /pfrs/ or /gepp/. Not leftover Hollywood Police
 2,institution,hallandale-beach-police-fire-explained,Hallandale Beach Police Fire explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 181 /hallandale-beach-police-fire/
 2,institution,hallandale-beach,Hallandale Beach (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 181 /hallandale-beach-police-fire/
+182,institution,sacrt-ibew,Sacramento Regional Transit IBEW Local 1245 Retirement Plan,allocator,brief,P0,drafted-in-repo,Wave 182. Official IBEW FNP $91,895,427 at 30 Jun 2025. Do not mint /sacrt-retirement/ or /scers/ or /ers/. Not leftover SacRT ATU
+2,institution,sacrt-ibew-explained,SacRT IBEW explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 182 /sacrt-ibew/
+182,institution,sacrt-salaried,Sacramento Regional Transit Salaried Retirement Plan,allocator,brief,P0,drafted-in-repo,Wave 182. Official Salaried FNP $165,467,820 at 30 Jun 2025. Do not mint /sacrt-retirement/ or /scers/ or /ers/. Not leftover SacRT ATU
+2,institution,sacrt-salaried-explained,SacRT Salaried explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 182 /sacrt-salaried/
+182,institution,fort-worth-employees,Employees Retirement Fund of the City of Fort Worth,allocator,brief,P0,drafted-in-repo,Wave 182. Official combined FNP $3,289,368,904 at 30 Sep 2025. Do not mint /fort-worth/ or /ers/. Not leftover Texas ERS
+2,institution,fort-worth-employees-explained,Fort Worth Employees explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 182 /fort-worth-employees/
+2,institution,fort-worth,Fort Worth (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 182 /fort-worth-employees/
+2,institution,fort-worth-ers,Fort Worth ERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 182 /fort-worth-employees/
+2,institution,fwerf,FWERF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 182 /fort-worth-employees/
+182,institution,kansas-city-employees,City of Kansas City Missouri Employees Retirement System,allocator,brief,P0,drafted-in-repo,Wave 182. Official FNP $1,244,770,842 at 30 Apr 2025. Do not mint /kansas-city/ or /ers/ or /mosers/. Not leftover Kansas City Police
+2,institution,kansas-city-employees-explained,Kansas City Employees explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 182 /kansas-city-employees/
+2,institution,kansas-city,Kansas City (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 182 /kansas-city-employees/. Flattens Employees / Police / Fire
+2,institution,kcmo-ers,KCMO ERS (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 182 /kansas-city-employees/
+182,institution,kansas-city-fire,City of Kansas City Missouri Firefighters Pension System,allocator,brief,P0,drafted-in-repo,Wave 182. Official pension FNP $678,265,671 at 30 Apr 2025. Do not mint /kansas-city-firefighters/ or /pfrs/. Not leftover Kansas City Employees
+2,institution,kansas-city-fire-explained,Kansas City Fire explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 182 /kansas-city-fire/
+2,institution,kansas-city-firefighters,Kansas City firefighters (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 182 /kansas-city-fire/
+2,institution,kcmo-fire,KCMO Fire (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 182 /kansas-city-fire/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

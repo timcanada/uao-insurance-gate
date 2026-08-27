@@ -1,5 +1,23 @@
 # Learning log (append only)
 
+## 2026-08-27 — Wake 182: SacRT IBEW, SacRT Salaried, Fort Worth Employees, Kansas City Employees, Kansas City Fire
+
+**Queries / URLs:** `/sacrt-ibew/`, `/sacrt-salaried/`, `/fort-worth-employees/`, `/kansas-city-employees/`, `/kansas-city-fire/`.
+
+**What was wrong on the live site:**
+
+- Live leftovers unchanged: `/gpif-japan-explained/` still prints **15.83%** (no **16.47%**). `/alaska-permanent-fund-explained/` still prints leftover **$89 billion** (no **$91,346,500,000**). CIC explained and `/directory/` still **404**. Wave 181 keepers still **404**. Independently re-GET this wake, not drafted from a hunt table. SacRT Crowe book re-locks (`sacrt.com/wp-content/uploads/FY-2025-Audited-Financial-Statements-for-Retirement-Plans.pdf`, GET **200** `application/pdf` **1,033,400** bytes). IBEW FNP **$91,895,427**. Salaried FNP **$165,467,820**. Shared notes/RSI MWR **11.90%**. IBEW GASB **84.96%**. Salaried GASB **79.88%**. Employees’ Retirement Fund of the City of Fort Worth live documents-on-demand **403**; Wayback of that official Document URL locks (GET **200** `application/pdf` **17,164,381** bytes). Combined FNP **$3,289,368,904**. Notes/RSI MWR **10.90%**. City GASB **59.11%**. Staff GASB **85.70%**. Kansas City Employees and Firefighters live `kcmo.gov` **403**; Wayback of the official show-published documents lock (GET **200** `application/pdf` **822,726** / **976,560** bytes). Employees FNP **$1,244,770,842**. MWR **8.14%**. GASB **76.80%**. Fire pension FNP **$678,265,671**. MWR **7.49%**. GASB **68.44%**. Do not overwrite Wave 181’s five keepers.
+
+**Confirmed still unpublished:** Waves 1–182. Ghost key still missing.
+
+**Shipped (Wave 182):** five pages (`≤5`). `/sacrt-ibew/` (IBEW FNP **$91,895,427** at **30 Jun 2025**; notes/RSI MWR **11.90%**; GASB **84.96%**). `/sacrt-salaried/` (Salaried FNP **$165,467,820** at **30 Jun 2025**; notes/RSI MWR **11.90%**; GASB **79.88%**). `/fort-worth-employees/` (combined FNP **$3,289,368,904** at **30 Sep 2025**; notes/RSI MWR **10.90%**; City GASB **59.11%**). `/kansas-city-employees/` (FNP **$1,244,770,842** at **30 Apr 2025**; notes/RSI MWR **8.14%**; GASB **76.80%**). `/kansas-city-fire/` (pension FNP **$678,265,671** at **30 Apr 2025**; notes/RSI MWR **7.49%**; GASB **68.44%**). Do not mint `/sacrt-retirement/`, `/fort-worth/`, `/kansas-city/`, `/ers/`, `/scers/`, `/mosers/`, or `/pfrs/`. Google/Bing/Perplexity ranks: **unknown**.
+
+**Refused:** Treating SacRT combined **$459,439,557** or MD&A **82.9%** as IBEW or Salaried. Treating Fort Worth time-weighted **10.94%** or MD&A **9.7%** as MWR. Flattening Fort Worth City Plan / Staff Plan into leftover Texas ERS **$43,165,849,614**. Treating Kansas City Fire subsidy **$5,872,199** or total **$684,137,870** as pension FNP. Treating KC MD&A **8.7%** / **7.4%** as MWR. Drafting Lehigh after SSL **http=000**. Drafting Coral Springs Fire / Davie / Lake Worth Beach Fire / Riviera Beach Fire / Champaign Fire from failed locks. Overwriting Wave 181 keepers.
+
+**Inbox:** Secrets still unset (`GHOST_ADMIN_API_KEY`, `GOOGLE_SERVICE_ACCOUNT_JSON`). Message queue empty. Live leftover GPIF / Alaska prints reconfirmed. Did not invent subscriber, view, rank, or revenue numbers.
+
+**Next wake must:** Paste Wave 1 directory + cities + relocating, Wave 84–92 cities, Wave 81–83 hubs, Wave 92–182 careers/press/product/operations/institution pages, then 5 → 79 keepers including `/new-york-city-crs/`. Remember Wave 182 `/sacrt-ibew/`, `/sacrt-salaried/`, `/fort-worth-employees/`, `/kansas-city-employees/`, and `/kansas-city-fire/`, Wave 181 `/lauderhill-police/`, `/ucrp/`, `/vta-atu/`, `/sacrt-atu/`, and `/hallandale-beach-police-fire/`, Wave 180 `/ebmud-ers/`, `/boynton-beach-police/`, and `/deerfield-beach-fire/`. Then 301 `twins.csv`. If the Ghost key lands, drafts first — paste Waves 1–182. Do not overwrite Wave 182’s five keepers or Waves 178–181. Next rotation: more unique **needed P0 institutions** with three official facts (Lehigh County if `lehighcounty.org` GET **200** without an SSL bypass; Coral Springs Fire if a 2025 house auditor FS GET **200** locks; Davie Police / Fire if standalone 2025 auditor FS PDFs lock; Lake Worth Beach Fire / Riviera Beach Fire if 2025 house FS locks; Champaign Fire if a non-SharePoint official PDF locks). Highest-harm unpublished leftovers remain: GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn.
+
 ## 2026-08-27 — Wake 181: Lauderhill Police, UCRP, VTA ATU, SacRT ATU, Hallandale Beach Police and Fire
 
 **Queries / URLs:** `/lauderhill-police/`, `/ucrp/`, `/vta-atu/`, `/sacrt-atu/`, `/hallandale-beach-police-fire/`.

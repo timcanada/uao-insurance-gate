@@ -56,5 +56,6 @@ Do not 301 this page onto `/houston-hfrrf/`, `/houston-hpops/`, `/san-antonio-fi
 - [El Paso Firemen and Policemen’s Pension Fund](/el-paso-fire-police/)
 - [El Paso Policemen Division](/el-paso-police/)
 - [University Health System Pension Plan](/university-health-pension/)
+- [Employees’ Retirement Fund of the City of Fort Worth](/fort-worth-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -47,6 +47,8 @@ Do not 301 this page onto `/kansas-city-police/`, `/missouri-mosers/`, `/st-loui
 - [Public pension funds](/public-pension-funds/)
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Police Retirement System of Kansas City](/kansas-city-police/)
+- [City of Kansas City, Missouri The Employees’ Retirement System](/kansas-city-employees/)
+- [City of Kansas City, Missouri Firefighters’ Pension System](/kansas-city-fire/)
 - [MOSERS](/missouri-mosers/)
 - [St. Louis ERS](/st-louis-ers/)
 - [Firemen’s Retirement System of St. Louis](/st-louis-firemen/)

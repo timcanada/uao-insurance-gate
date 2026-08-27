@@ -27,13 +27,13 @@ The statement of fiduciary net position is the sourced line (in thousands):
 2. **Liability and funded cards.** Total pension liability **$8,770,453 thousand**. Net pension liability **$500,911 thousand**. Fiduciary net position as a percentage of total pension liability **94.29 percent**. Actuarial-value funded ratio **94.2 percent** as of **1 July 2025**, with unfunded actuarial accrued liability **$489,831 thousand**. Those four cards are not interchangeable.
 3. **Returns.** Time-weighted return **9.4 percent**, prepared to Global Investment Performance Standards. Money-weighted return **9.3 percent** net of pension-plan investment expense. Those two official one-year prints are not interchangeable. City contributions **$169,734 thousand** equal **32.07 percent** of payroll under the governing statute.
 
-Do not flatten Houston police into [Houston Municipal Employees](/houston-hmeps/), [Houston Firefighters](/houston-hfrrf/), [San José Police and Fire](/san-jose-police-fire/), [San Antonio Fire and Police](/san-antonio-fire-police/), [Los Angeles Fire and Police Pensions](/lafpp/), [Austin Police Retirement System](/austin-police-retirement/), [Texas TRS](/texas-teacher-retirement-system-explained/), [Texas ERS](/texas-ers/), or [Illinois IPOPIF](/illinois-ipopif/). Illinois IPOPIF is the Illinois Article 3 investment trust. San José Police and Fire, San Antonio Fire and Police, LAFPP, and Austin Police are different legal persons. This is **one Houston police file**.
+Do not flatten Houston police into [Houston Municipal Employees](/houston-hmeps/), [Houston Firefighters](/houston-hfrrf/), [San José Police and Fire](/san-jose-police-fire/), [San Antonio Fire and Police](/san-antonio-fire-police/), [Los Angeles Fire and Police Pensions](/lafpp/), [Austin Police Retirement System](/austin-police-retirement/), [Jacksonville Police and Fire](/jacksonville-police-fire/), [Texas TRS](/texas-teacher-retirement-system-explained/), [Texas ERS](/texas-ers/), or [Illinois IPOPIF](/illinois-ipopif/). Illinois IPOPIF is the Illinois Article 3 investment trust. San José Police and Fire, San Antonio Fire and Police, LAFPP, Austin Police, and Jacksonville Police and Fire are different legal persons. This is **one Houston police file**.
 
 ## What an owner is actually buying
 
 Counsel selling “HPOPS AUM” has to name the book. The **$8,269,542 thousand** line is net position restricted for pensions. The **$8,235,052 thousand** line is investments. Those are not the same mandate.
 
-Do not 301 this page onto `/houston-hmeps/`, `/houston-hfrrf/`, `/san-jose-police-fire/`, `/san-antonio-fire-police/`, `/lafpp/`, `/austin-police-retirement/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/houston-hmeps/`, `/houston-hfrrf/`, `/san-jose-police-fire/`, `/san-antonio-fire-police/`, `/lafpp/`, `/austin-police-retirement/`, `/jacksonville-police-fire/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -52,6 +52,7 @@ Do not 301 this page onto `/houston-hmeps/`, `/houston-hfrrf/`, `/san-jose-polic
 - [San Antonio Fire and Police](/san-antonio-fire-police/)
 - [Los Angeles Fire and Police Pensions](/lafpp/)
 - [Austin Police Retirement System](/austin-police-retirement/)
+- [Jacksonville Police and Fire](/jacksonville-police-fire/)
 - [Texas ERS](/texas-ers/)
 - [Illinois IPOPIF](/illinois-ipopif/)
 - [Advertise](/advertise/)

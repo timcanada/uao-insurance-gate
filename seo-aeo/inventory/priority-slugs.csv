@@ -301,6 +301,16 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,cmers,Milwaukee ERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 125 /milwaukee-ers/
 125,institution,austin-police-retirement,Austin Police Retirement System,allocator,brief,P0,drafted-in-repo,Wave 125. Official statement FNP $1,211,262,982 at 31 Dec 2025. Do not mint /aprs/ or /austin-police/
 2,institution,aprs,Austin Police Retirement (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 125 /austin-police-retirement/. Generic / ham-radio collision
+126,institution,hoopp,HOOPP,allocator,brief,P0,drafted-in-repo,Wave 126. Official net assets C$131,936 million at 31 Dec 2025. Do not mint /hoopp-explained/ or /healthcare-of-ontario/
+2,institution,hoopp-explained,HOOPP (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 126 /hoopp/
+126,institution,jacksonville-police-fire,Jacksonville Police and Fire,allocator,brief,P0,drafted-in-repo,Wave 126. Official combined FNP $2,903,990,005 at 30 Sep 2025. Do not mint /jacksonville-pfpf/ or /jax-pfpf/
+2,institution,jacksonville-pfpf,Jacksonville Police and Fire (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 126 /jacksonville-police-fire/
+126,institution,acera,ACERA,allocator,brief,P0,drafted-in-repo,Wave 126. Official combined FNP $14,052,478 thousand at 31 Dec 2025. Do not mint /acera-explained/ or /alameda-cera/
+2,institution,acera-explained,ACERA (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 126 /acera/
+126,institution,cook-county-pension,Cook County Pension Fund,allocator,brief,P0,drafted-in-repo,Wave 126. Official FNP $15,221,712,193 at 31 Dec 2025. Do not mint /cook-county-abf/ or /ccpf/
+2,institution,cook-county-abf,Cook County Pension (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 126 /cook-county-pension/
+126,institution,chicago-fire-fabf,Chicago Fire FABF,allocator,brief,P0,drafted-in-repo,Wave 126. Official FNP $2,027,244,092 at 31 Dec 2025. Do not mint /fabf/ or /chicago-fabf/
+2,institution,fabf,Chicago Fire FABF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 126 /chicago-fire-fabf/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

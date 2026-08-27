@@ -27,13 +27,13 @@ The statement of fiduciary net position is the sourced line:
 2. **This is a pool, not a funded-ratio card.** Cash and investments transferred from participating funds **$2,345,025,350**. Participating-fund withdrawals **$658,933,679**. Net investment income **$1,529,921,788**. Those flows change pool net position. They are not a GASB funded ratio for the local Article 3 plans. The IMRF net pension liability **$446,303** on this statement is IPOPIF’s own staff plan, not the police pool.
 3. **Returns.** Money-weighted return **13.0 percent** net, against the house policy benchmark **12.6 percent** and the broad benchmark **13.9 percent**. Time-weighted net-of-fee return **13.3 percent**. Those two official one-year prints are not interchangeable.
 
-Do not flatten IPOPIF into [Illinois SERS](/illinois-sers/), [Illinois JRS](/illinois-jrs/), [IMRF](/illinois-imrf/), [Illinois FPIF](/illinois-fpif/), [Illinois State Board of Investment](/illinois-isbi/), or [Houston Police](/houston-hpops/). FPIF is the Article 4 firefighter pool. IMRF is the local-government pension. Houston Police is Texas. This is **one Illinois police investment-trust file**.
+Do not flatten IPOPIF into [Illinois SERS](/illinois-sers/), [Illinois JRS](/illinois-jrs/), [IMRF](/illinois-imrf/), [Illinois FPIF](/illinois-fpif/), [Illinois State Board of Investment](/illinois-isbi/), [Houston Police](/houston-hpops/), or [Cook County Pension](/cook-county-pension/). FPIF is the Article 4 firefighter pool. IMRF is the local-government pension. Houston Police is Texas. Cook County is the Cook County employee file. This is **one Illinois police investment-trust file**.
 
 ## What an owner is actually buying
 
 Counsel selling “IPOPIF AUM” has to name the book. The **$13,743,292,730** line is net position held in trust for pool participants. The **$13,742,061,353** line is cash and investments. Those are not the same mandate. This desk does not add the local Article 3 funded ratios onto this pool.
 
-Do not 301 this page onto `/illinois-sers/`, `/illinois-imrf/`, `/illinois-fpif/`, `/houston-hpops/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/illinois-sers/`, `/illinois-imrf/`, `/illinois-fpif/`, `/houston-hpops/`, `/cook-county-pension/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -49,5 +49,6 @@ Do not 301 this page onto `/illinois-sers/`, `/illinois-imrf/`, `/illinois-fpif/
 - [Illinois FPIF](/illinois-fpif/)
 - [IMRF](/illinois-imrf/)
 - [Houston Police](/houston-hpops/)
+- [Cook County Pension](/cook-county-pension/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

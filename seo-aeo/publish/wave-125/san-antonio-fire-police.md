@@ -27,13 +27,13 @@ The statement of fiduciary net position is the sourced line (in thousands):
 2. **GASB funded cards.** Total pension liability **$5,142,169 thousand**. Fiduciary net position / total pension liability **87.39 percent**. Those two lines are not interchangeable.
 3. **Returns.** Money-weighted return **11.9 percent** net of investment costs (2024 **8.5 percent**). The house audit does not print a time-weighted return. Do not invent one.
 
-Do not flatten San Antonio Fire and Police into [Houston Firefighters](/houston-hfrrf/), [Houston Police](/houston-hpops/), [San José Police and Fire](/san-jose-police-fire/), or [Los Angeles Fire and Police Pensions](/lafpp/). Houston fire, Houston police, San José sworn, and LAFPP are different legal persons. This is **one San Antonio sworn fire-and-police file**.
+Do not flatten San Antonio Fire and Police into [Houston Firefighters](/houston-hfrrf/), [Houston Police](/houston-hpops/), [San José Police and Fire](/san-jose-police-fire/), [Los Angeles Fire and Police Pensions](/lafpp/), or [Jacksonville Police and Fire](/jacksonville-police-fire/). Houston fire, Houston police, San José sworn, LAFPP, and Jacksonville Police and Fire are different legal persons. This is **one San Antonio sworn fire-and-police file**.
 
 ## What an owner is actually buying
 
 Counsel selling “San Antonio Fire and Police AUM” has to name the book. The **$4,493,776 thousand** line is fiduciary net position restricted for pension benefits. The **$4,452,419 thousand** line is investments at fair value. The **$4,638,588 thousand** line is total investments including cash and lending collateral. Those are not the same mandate.
 
-Do not 301 this page onto `/houston-hfrrf/`, `/houston-hpops/`, `/san-jose-police-fire/`, `/lafpp/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/houston-hfrrf/`, `/houston-hpops/`, `/san-jose-police-fire/`, `/lafpp/`, `/jacksonville-police-fire/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -50,5 +50,6 @@ Do not 301 this page onto `/houston-hfrrf/`, `/houston-hpops/`, `/san-jose-polic
 - [Houston Police](/houston-hpops/)
 - [San José Police and Fire](/san-jose-police-fire/)
 - [Los Angeles Fire and Police Pensions](/lafpp/)
+- [Jacksonville Police and Fire](/jacksonville-police-fire/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

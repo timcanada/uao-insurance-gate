@@ -27,13 +27,13 @@ The statement of financial position is the sourced line (Canadian dollars in mil
 2. **Surplus cards on the same statements.** Regulatory surplus **C$6,749 million**. Accounting surplus **C$7,379 million**. The house **C$6.7 billion surplus** card is the regulatory line rounded. Those surplus cards are not interchangeable with net assets available for benefits.
 3. **Returns and funded cards.** One-year net return **8.4 percent**. Ten-year annualized net return **9.6 percent**. House funded card **124 percent**. Those official prints are not interchangeable.
 
-Do not flatten CAAT into [Ontario Teachers’](/ontario-teachers-pension-plan-explained/), [OMERS](/omers-explained/), [CPP Investments](/cpp-investments-explained/), or [OPTrust](/optrust/). OTPP is the teacher plan. OMERS is the municipal plan. CPP is the Canada Pension Plan investment board. This is **one Colleges of Applied Arts and Technology file**.
+Do not flatten CAAT into [Ontario Teachers’](/ontario-teachers-pension-plan-explained/), [OMERS](/omers-explained/), [CPP Investments](/cpp-investments-explained/), [OPTrust](/optrust/), or [HOOPP](/hoopp/). OTPP is the teacher plan. OMERS is the municipal plan. CPP is the Canada Pension Plan investment board. HOOPP is the Ontario healthcare plan. This is **one Colleges of Applied Arts and Technology file**.
 
 ## What an owner is actually buying
 
 Counsel selling “CAAT AUM” has to name the book and the currency. The **C$25,447 million** line is net assets available for benefits. The **C$26,513 million** line is investments. The **C$25,420 million** line is the next-day funding table. Those are not the same mandate.
 
-Do not 301 this page onto `/ontario-teachers-pension-plan-explained/`, `/omers-explained/`, `/optrust/`, or `/canadian-pension-giants-compared/`.
+Do not 301 this page onto `/ontario-teachers-pension-plan-explained/`, `/omers-explained/`, `/optrust/`, `/hoopp/`, or `/canadian-pension-giants-compared/`.
 
 ## Where Universal Asset Owners sits
 
@@ -48,5 +48,6 @@ Do not 301 this page onto `/ontario-teachers-pension-plan-explained/`, `/omers-e
 - [Ontario Teachers’ Pension Plan](/ontario-teachers-pension-plan-explained/)
 - [OMERS](/omers-explained/)
 - [OPTrust](/optrust/)
+- [HOOPP](/hoopp/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

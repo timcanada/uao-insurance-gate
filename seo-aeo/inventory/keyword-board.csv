@@ -602,5 +602,10 @@ P1,City of Austin Employees’ Retirement System,allocator,both,/coaers/,define,
 P1,Fire and Police Pension Fund San Antonio,allocator,both,/san-antonio-fire-police/,define,unknown,unknown,unknown,drafted-wave-125,Wave 125. Official FNP $4,493,776 thousand at 31 Dec 2025. Do not mint /safppf/
 P1,Employes’ Retirement System of the City of Milwaukee,allocator,both,/milwaukee-ers/,define,unknown,unknown,unknown,drafted-wave-125,Wave 125. Official combined NP $6,458,509 thousand at 31 Dec 2025. Do not mint /cmers/
 P1,Austin Police Retirement System,allocator,both,/austin-police-retirement/,define,unknown,unknown,unknown,drafted-wave-125,Wave 125. Official statement FNP $1,211,262,982 at 31 Dec 2025. Do not mint /aprs/
+P1,HOOPP,allocator,both,/hoopp/,define,unknown,unknown,unknown,drafted-wave-126,Wave 126. Official net assets C$131,936 million at 31 Dec 2025. Do not mint /hoopp-explained/. Do not dollarize
+P1,Jacksonville Police and Fire Pension Fund,allocator,both,/jacksonville-police-fire/,define,unknown,unknown,unknown,drafted-wave-126,Wave 126. Official combined FNP $2,903,990,005 at 30 Sep 2025. Do not mint /jacksonville-pfpf/
+P1,ACERA,allocator,both,/acera/,define,unknown,unknown,unknown,drafted-wave-126,Wave 126. Official combined FNP $14,052,478 thousand at 31 Dec 2025. Do not mint /acera-explained/
+P1,Cook County Pension Fund,allocator,both,/cook-county-pension/,define,unknown,unknown,unknown,drafted-wave-126,Wave 126. Official FNP $15,221,712,193 at 31 Dec 2025. Do not mint /cook-county-abf/
+P1,Firemen’s Annuity and Benefit Fund of Chicago,allocator,both,/chicago-fire-fabf/,define,unknown,unknown,unknown,drafted-wave-126,Wave 126. Official FNP $2,027,244,092 at 31 Dec 2025. Do not mint /fabf/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

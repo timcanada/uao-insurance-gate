@@ -27,13 +27,13 @@ The statement of fiduciary net position is the sourced line (in thousands):
 2. **Named books.** Retirement Plan **$21,188,769 thousand** (**83.5 percent** of the combined book). Postemployment Health Care Plan **$4,186,550 thousand** (**16.5 percent**). Those two lines are not interchangeable. Retirement Plan net pension liability **$6,535,584 thousand**. Postemployment Health Care Plan net OPEB asset **$318,317 thousand**.
 3. **Returns and funded status.** Gross-of-fees portfolio return **11.16 percent**. Aggregate annual money-weighted return for the Retirement Plan and the Postemployment Health Care Plan, net of investment expenses, **11.5 percent**. Those two official one-year prints are not interchangeable. Retirement Plan fiduciary net position as a percentage of total pension liability **76.3 percent**. Postemployment Health Care Plan fiduciary net position as a percentage of total OPEB liability **108.2 percent**. Combined actuarial-value funded ratio **78.4 percent**. Retirement Plan actuarial-value funded ratio **74.6 percent**. Those four funded cards are not interchangeable.
 
-Do not flatten LACERS into [LACERA](/lacera/), [Los Angeles Fire and Police Pensions](/lafpp/), or [CalPERS](/calpers-explained-largest-us-pension-fund/). LACERA is the Los Angeles **County** file. LAFPP is the Los Angeles **sworn fire-and-police** file. This is **one Los Angeles City civilian employee file**.
+Do not flatten LACERS into [LACERA](/lacera/), [Los Angeles Fire and Police Pensions](/lafpp/), [ACERA](/acera/), or [CalPERS](/calpers-explained-largest-us-pension-fund/). LACERA is the Los Angeles **County** file. LAFPP is the Los Angeles **sworn fire-and-police** file. ACERA is the Alameda County file. This is **one Los Angeles City civilian employee file**.
 
 ## What an owner is actually buying
 
 Counsel selling “LACERS AUM” has to name the book. The **$25,375,319 thousand** line is the combined fiduciary book. The **$21,188,769 thousand** line is the Retirement Plan. The **$4,186,550 thousand** line is the health-care plan. Those are not the same mandate.
 
-Do not 301 this page onto `/lacera/`, `/lafpp/`, `/calpers-explained-largest-us-pension-fund/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/lacera/`, `/lafpp/`, `/acera/`, `/calpers-explained-largest-us-pension-fund/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -48,6 +48,7 @@ Do not 301 this page onto `/lacera/`, `/lafpp/`, `/calpers-explained-largest-us-
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [LACERA](/lacera/)
 - [Los Angeles Fire and Police Pensions](/lafpp/)
+- [ACERA](/acera/)
 - [SDCERS](/sdcers/)
 - [OCERS](/ocers/)
 - [SamCERA](/samcera/)

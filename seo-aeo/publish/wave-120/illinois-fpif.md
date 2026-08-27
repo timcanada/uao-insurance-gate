@@ -27,13 +27,13 @@ The statement of fiduciary net position is the sourced line:
 2. **This is a pool, not a funded-ratio card.** Member-fund contributions **$699.4 million**. Member-fund withdrawals **$604.8 million**. Net investment income about **$1.2 billion**. Those flows change pool net position. They are not a GASB funded ratio for the local Article 4 plans. The IMRF net pension liability **$325,254** on this statement is FPIF’s own staff plan, not the firefighter pool.
 3. **Returns.** Time-weighted return **13.3 percent** net of fees against the house policy benchmark **12.9 percent**. Money-weighted return **13.30 percent** net of pension-fund investment expense (2024 **13.00 percent**). Those two official one-year prints are not interchangeable even where they round to the same first decimal.
 
-Do not flatten FPIF into [Illinois SERS](/illinois-sers/), [Illinois JRS](/illinois-jrs/), [IMRF](/illinois-imrf/), [Illinois IPOPIF](/illinois-ipopif/), [Illinois State Board of Investment](/illinois-isbi/), or [Houston Firefighters](/houston-hfrrf/). IPOPIF is the Article 3 police pool. IMRF is the local-government pension. Houston Firefighters is Texas. This is **one Illinois firefighter investment-trust file**.
+Do not flatten FPIF into [Illinois SERS](/illinois-sers/), [Illinois JRS](/illinois-jrs/), [IMRF](/illinois-imrf/), [Illinois IPOPIF](/illinois-ipopif/), [Illinois State Board of Investment](/illinois-isbi/), [Houston Firefighters](/houston-hfrrf/), [Cook County Pension](/cook-county-pension/), or [Chicago Fire FABF](/chicago-fire-fabf/). IPOPIF is the Article 3 police pool. IMRF is the local-government pension. Houston Firefighters is Texas. Cook County is the Cook County employee file. FABF is the Chicago fire file, not this Article 4 pool. This is **one Illinois firefighter investment-trust file**.
 
 ## What an owner is actually buying
 
 Counsel selling “FPIF AUM” has to name the book. The **$10,286,871,117** line is net position held in trust for pool participants. The **$10,204,507,676** line is investments. Those are not the same mandate. This desk does not add the local Article 4 funded ratios onto this pool.
 
-Do not 301 this page onto `/illinois-sers/`, `/illinois-imrf/`, `/illinois-ipopif/`, `/houston-hfrrf/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/illinois-sers/`, `/illinois-imrf/`, `/illinois-ipopif/`, `/houston-hfrrf/`, `/cook-county-pension/`, `/chicago-fire-fabf/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -49,5 +49,7 @@ Do not 301 this page onto `/illinois-sers/`, `/illinois-imrf/`, `/illinois-ipopi
 - [Illinois IPOPIF](/illinois-ipopif/)
 - [IMRF](/illinois-imrf/)
 - [Houston Firefighters](/houston-hfrrf/)
+- [Cook County Pension](/cook-county-pension/)
+- [Chicago Fire FABF](/chicago-fire-fabf/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

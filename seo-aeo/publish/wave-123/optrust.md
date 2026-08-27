@@ -27,13 +27,13 @@ The statement of financial position is the sourced line (Canadian dollars in mil
 2. **Surplus cards on the same report.** Financial-statement surplus **C$4,731 million**. Funding-valuation surplus **C$199 million**. Actuarial value of assets **C$27,931 million** is not net assets available for benefits. Those surplus and actuarial cards are not interchangeable.
 3. **Returns and funded cards.** One-year net investment return **4.2 percent**. Five-year net **6.3 percent**. Ten-year average net **6.7 percent**. The funding valuation remained fully funded for the **seventeenth** consecutive year. Those official prints are not interchangeable with the financial-statement surplus.
 
-Do not flatten OPTrust into [Ontario Teachers’](/ontario-teachers-pension-plan-explained/), [OMERS](/omers-explained/), [CPP Investments](/cpp-investments-explained/), or [CAAT](/caat-pension/). OTPP is the teacher plan. OMERS is the municipal plan. CAAT is the colleges plan. This is **one OPSEU Pension Plan Trust Fund file**.
+Do not flatten OPTrust into [Ontario Teachers’](/ontario-teachers-pension-plan-explained/), [OMERS](/omers-explained/), [CPP Investments](/cpp-investments-explained/), [CAAT](/caat-pension/), or [HOOPP](/hoopp/). OTPP is the teacher plan. OMERS is the municipal plan. CAAT is the colleges plan. HOOPP is the Ontario healthcare plan. This is **one OPSEU Pension Plan Trust Fund file**.
 
 ## What an owner is actually buying
 
 Counsel selling “OPTrust AUM” has to name the book and the currency. The **C$27,223 million** line is net assets available for benefits. The **C$27,807 million** line is investments. The **C$199 million** line is the funding surplus. The leftover **$23 billion CAD** card is not this filing.
 
-Do not 301 this page onto `/ontario-teachers-pension-plan-explained/`, `/omers-explained/`, `/caat-pension/`, or `/canadian-pension-giants-compared/`.
+Do not 301 this page onto `/ontario-teachers-pension-plan-explained/`, `/omers-explained/`, `/caat-pension/`, `/hoopp/`, or `/canadian-pension-giants-compared/`.
 
 ## Where Universal Asset Owners sits
 
@@ -48,5 +48,6 @@ Do not 301 this page onto `/ontario-teachers-pension-plan-explained/`, `/omers-e
 - [Ontario Teachers’ Pension Plan](/ontario-teachers-pension-plan-explained/)
 - [OMERS](/omers-explained/)
 - [CAAT Pension Plan](/caat-pension/)
+- [HOOPP](/hoopp/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

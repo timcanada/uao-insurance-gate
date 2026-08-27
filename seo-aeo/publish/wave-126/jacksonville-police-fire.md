@@ -54,5 +54,7 @@ Do not 301 this page onto `/houston-hfrrf/`, `/houston-hpops/`, `/san-jose-polic
 - [Dallas Police and Fire](/dallas-police-fire/)
 - [Tampa Fire and Police](/tampa-fire-police/)
 - [City of Miami Firefighters’ and Police Officers’ Retirement Trust](/miami-fire-police/)
+- [City of St. Augustine Municipal Firefighters’ Pension Trust Fund](/st-augustine-firefighters/)
+- [Pompano Beach Police and Firefighters’ Retirement System](/pompano-beach-police-fire/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

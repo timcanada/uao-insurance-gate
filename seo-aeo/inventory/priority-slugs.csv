@@ -479,6 +479,16 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,sjers,St Joseph Employees (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 143 /st-joseph-employees/
 143,institution,sarasota-employees,Sarasota General Employees Pension,allocator,brief,P0,drafted-in-repo,Wave 143. Official FNP $192,591,188 at 30 Sep 2025. Do not mint /sarasota-ge/
 2,institution,sarasota-ge,Sarasota Employees (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 143 /sarasota-employees/
+144,institution,largo-police-fire,Largo Police Officers and Firefighters Retirement Plan,allocator,brief,P0,drafted-in-repo,Wave 144. Official FNP $234,038,525 at 30 Sep 2025. Do not mint /lpff/ or /largo/
+2,institution,lpff,Largo Police and Fire (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 144 /largo-police-fire/
+144,institution,north-port-police,North Port Police Officers Pension,allocator,brief,P0,drafted-in-repo,Wave 144. Official FNP $81,628,223 at 30 Sep 2025. Do not mint /nppf/
+2,institution,nppf,North Port Police (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 144 /north-port-police/
+144,institution,pompano-beach-police-fire,Pompano Beach Police and Firefighters Retirement System,allocator,brief,P0,drafted-in-repo,Wave 144. Official FNP $313,289,538 at 30 Sep 2025. Do not mint /pbpfrs/
+2,institution,pbpfrs,Pompano Beach Police and Fire (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 144 /pompano-beach-police-fire/
+144,institution,st-augustine-firefighters,St. Augustine Municipal Firefighters Pension,allocator,brief,P0,drafted-in-repo,Wave 144. Official FNP $23,047,296 at 30 Sep 2025. Do not mint /st-augustine-fire/
+2,institution,st-augustine-fire,St. Augustine Firefighters (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 144 /st-augustine-firefighters/
+144,institution,oklahoma-ursjj,Uniform Retirement System for Justices and Judges,allocator,brief,P0,drafted-in-repo,Wave 144. Official pension FNP $447,697,292 at 30 Jun 2025. Do not mint /ursjj/ or /oklahoma-judges/ or /opers/
+2,institution,ursjj,Oklahoma URSJJ (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 144 /oklahoma-ursjj/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

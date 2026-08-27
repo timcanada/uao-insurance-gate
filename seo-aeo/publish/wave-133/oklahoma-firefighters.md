@@ -50,5 +50,6 @@ Do not 301 this page onto `/oklahoma-opers/`, `/oklahoma-trs/`, `/oklahoma-polic
 - [Oklahoma TRS](/oklahoma-trs/)
 - [Oklahoma Police Pension and Retirement System](/oklahoma-police/)
 - [Ohio Police & Fire](/ohio-police-fire/)
+- [Uniform Retirement System for Justices and Judges](/oklahoma-ursjj/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

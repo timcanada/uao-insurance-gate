@@ -51,5 +51,6 @@ Do not 301 this page onto `/ohio-opers/`, `/iowa-ipers/`, or `/largest-us-public
 - [Oklahoma TRS](/oklahoma-trs/)
 - [Oklahoma Firefighters Pension and Retirement System](/oklahoma-firefighters/)
 - [Oklahoma Police Pension and Retirement System](/oklahoma-police/)
+- [Uniform Retirement System for Justices and Judges](/oklahoma-ursjj/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

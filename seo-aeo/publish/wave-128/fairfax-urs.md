@@ -27,13 +27,13 @@ The statement of fiduciary net position is the sourced line:
 2. **GASB funded cards.** Total pension liability **$3,021,111,048**. Net pension liability **$660,972,847**. Fiduciary net position / total pension liability **78.12 percent** (2024 **75.56 percent**). The transmittal “market value of assets to total pension liabilities” print **78.12 percent** is that GASB card. Actuarial funded **77.11 percent** is not the GASB card.
 3. **Returns.** Required-supplementary and MD&A money-weighted return **7.43 percent** for fiscal 2025, net of fees. Transmittal and MD&A time-weighted return **10.10 percent** net of fees. Those official one-year prints are not interchangeable. Do not treat the transmittal **+10.10 percent** line as the money-weighted card.
 
-Do not flatten Fairfax URS into [Virginia Retirement System](/virginia-retirement-system/), [Fairfax ERS](/fairfax-ers/), [Fairfax PORS](/fairfax-pors/), [Richmond Retirement System](/richmond-retirement/), [Norfolk Employees’ Retirement System](/norfolk-employees/), [Maryland SRPS](/maryland-srps/), or [PSERS](/pennsylvania-psers/). VRS is the statewide file. Fairfax ERS is the civilian employee file. Fairfax PORS is the sworn-police file. Richmond and Norfolk are different Virginia city files. This is **one Fairfax uniformed file**.
+Do not flatten Fairfax URS into [Virginia Retirement System](/virginia-retirement-system/), [Fairfax ERS](/fairfax-ers/), [Fairfax PORS](/fairfax-pors/), [Educational Employees’ Supplementary Retirement System of Fairfax County](/fairfax-erfc/), [Richmond Retirement System](/richmond-retirement/), [Norfolk Employees’ Retirement System](/norfolk-employees/), [Maryland SRPS](/maryland-srps/), or [PSERS](/pennsylvania-psers/). VRS is the statewide file. Fairfax ERS is the civilian employee file. Fairfax PORS is the sworn-police file. Fairfax ERFC is the FCPS school supplemental file. Richmond and Norfolk are different Virginia city files. This is **one Fairfax uniformed file**.
 
 ## What an owner is actually buying
 
 Counsel selling “Fairfax URS AUM” has to name the book. The **$2,360,138,201** line is net position restricted for pension benefits. The **$2,222,398,864** line is statement investments. The **$2.357 billion** card is the investment-section print. The **78.12 percent** card is the GASB ratio. The **77.11 percent** card is the actuarial ratio. The **7.43 percent** card is the RSI money-weighted return. The **10.10 percent** card is the time-weighted return. Those are not the same mandate.
 
-Do not 301 this page onto `/fairfax-ers/`, `/fairfax-pors/`, `/virginia-retirement-system/`, `/maryland-srps/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/fairfax-ers/`, `/fairfax-pors/`, `/fairfax-erfc/`, `/virginia-retirement-system/`, `/maryland-srps/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -48,6 +48,7 @@ Do not 301 this page onto `/fairfax-ers/`, `/fairfax-pors/`, `/virginia-retireme
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Fairfax ERS](/fairfax-ers/)
 - [Fairfax PORS](/fairfax-pors/)
+- [Educational Employees’ Supplementary Retirement System of Fairfax County](/fairfax-erfc/)
 - [Virginia Retirement System](/virginia-retirement-system/)
 - [Richmond Retirement System](/richmond-retirement/)
 - [Norfolk Employees’ Retirement System](/norfolk-employees/)

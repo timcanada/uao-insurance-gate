@@ -203,6 +203,7 @@ No. Some SWFs pre-fund future public pensions. That still does not make GPFG, [C
 - [Fairfax ERS](/fairfax-ers/)
 - [Fairfax PORS](/fairfax-pors/)
 - [Fairfax URS](/fairfax-urs/)
+- [Educational Employees’ Supplementary Retirement System of Fairfax County](/fairfax-erfc/)
 - [MainePERS](/maine-pers/)
 - [Ohio Police & Fire](/ohio-police-fire/)
 - [Montgomery County Employee Retirement Plans](/montgomery-erp/)

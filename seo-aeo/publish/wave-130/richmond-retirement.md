@@ -27,7 +27,7 @@ The statement of fiduciary net position is the sourced line:
 2. **GASB funded cards.** Total pension liability **$1,041,237,304**. Employer’s net pension liability **$157,387,759**. Fiduciary net position / total pension liability **84.9 percent** (2024 **80.9 percent**).
 3. **Returns.** Investment-section time-weighted return **10.5 percent** net of fees, against the custom benchmark **10.3 percent**. Required-supplementary money-weighted return **10.5 percent** net of investment management expenses. Those official one-year prints happen to match and are still not interchangeable.
 
-Do not flatten Richmond Retirement System into [Virginia Retirement System](/virginia-retirement-system/), [Fairfax ERS](/fairfax-ers/), [Fairfax PORS](/fairfax-pors/), [Fairfax URS](/fairfax-urs/), [Norfolk Employees’ Retirement System](/norfolk-employees/), [Newport News Employees’ Retirement Fund](/newport-news-employees/), or [City of Roanoke Pension Plan](/roanoke-pension/). VRS is the statewide file. Fairfax ERS, PORS, and URS are Fairfax County files. Norfolk, Newport News, and Roanoke are different Virginia city files. This is **one Richmond city pension-trust file**.
+Do not flatten Richmond Retirement System into [Virginia Retirement System](/virginia-retirement-system/), [Fairfax ERS](/fairfax-ers/), [Fairfax PORS](/fairfax-pors/), [Fairfax URS](/fairfax-urs/), [Educational Employees’ Supplementary Retirement System of Fairfax County](/fairfax-erfc/), [Norfolk Employees’ Retirement System](/norfolk-employees/), [Newport News Employees’ Retirement Fund](/newport-news-employees/), or [City of Roanoke Pension Plan](/roanoke-pension/). VRS is the statewide file. Fairfax ERS, PORS, and URS are Fairfax County files. Fairfax ERFC is the FCPS school supplemental file. Norfolk, Newport News, and Roanoke are different Virginia city files. This is **one Richmond city pension-trust file**.
 
 ## What an owner is actually buying
 
@@ -50,6 +50,7 @@ Do not 301 this page onto `/virginia-retirement-system/`, `/fairfax-ers/`, `/fai
 - [Fairfax ERS](/fairfax-ers/)
 - [Fairfax PORS](/fairfax-pors/)
 - [Fairfax URS](/fairfax-urs/)
+- [Educational Employees’ Supplementary Retirement System of Fairfax County](/fairfax-erfc/)
 - [Norfolk Employees’ Retirement System](/norfolk-employees/)
 - [Newport News Employees’ Retirement Fund](/newport-news-employees/)
 - [City of Roanoke Pension Plan](/roanoke-pension/)

@@ -751,6 +751,10 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,eos,EOS (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 179 /baltimore-eos/
 2,institution,baltimore-elected,Baltimore elected (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 179 /baltimore-eos/
 2,institution,baltimore-city-eos,Baltimore City EOS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 179 /baltimore-eos/
+179,institution,fairfax-erfc,Educational Employees Supplementary Retirement System of Fairfax County,allocator,brief,P0,drafted-in-repo,Wave 179. Official FNP $3,439,140,398 at 30 Jun 2025. Do not mint /erfc/ or /ers/ or /hers/. Not leftover Fairfax ERS
+2,institution,fairfax-erfc-explained,Fairfax ERFC explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 179 /fairfax-erfc/
+2,institution,erfc,ERFC (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 179 /fairfax-erfc/
+2,institution,fairfax-schools,Fairfax schools (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 179 /fairfax-erfc/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

@@ -719,5 +719,6 @@ P1,Miami Beach Employees Retirement Plan,allocator,both,/miami-beach-employees/,
 P1,Sunrise General Employees Retirement Plan,allocator,both,/sunrise-employees/,define,unknown,unknown,unknown,drafted-wave-150,Wave 150. Official FNP $357,434,561 at 30 Sep 2025. Do not mint /sunrise-ge/ or /gers/ or /gepp/
 P1,SJRPP Employees Retirement Plan,allocator,both,/jacksonville-sjrpp/,define,unknown,unknown,unknown,drafted-wave-151,Wave 151. Official FNP $181,980,110 at 30 Sep 2025. Do not mint /sjrpp/ or /jea/ or /gepp/
 P1,Lantana Police Relief and Pension Fund,allocator,both,/lantana-police/,define,unknown,unknown,unknown,drafted-wave-151,Wave 151. Official FNP $31,523,590 at 30 Sep 2025. Do not mint /lantana/ or /lprpf/
+P1,West Palm Beach Restated Employees Defined Benefit Retirement System,allocator,both,/west-palm-beach-employees/,define,unknown,unknown,unknown,drafted-wave-153,Wave 153. Official FNP $45,122,439 at 30 Sep 2025. Do not mint /wpb-ge/ or /gepp/ or /gers/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

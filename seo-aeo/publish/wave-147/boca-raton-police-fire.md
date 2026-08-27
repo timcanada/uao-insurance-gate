@@ -52,5 +52,6 @@ Do not 301 this page onto `/boca-raton-employees/`, `/palm-beach-gardens-police/
 - [West Palm Beach Police Pension Fund](/west-palm-beach-police/)
 - [City of Fort Lauderdale Police and Firefighters’ Retirement System](/fort-lauderdale-police-fire/)
 - [Lantana Police Relief and Pension Fund](/lantana-police/)
+- [West Palm Beach Restated Employees Defined Benefit Retirement System](/west-palm-beach-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

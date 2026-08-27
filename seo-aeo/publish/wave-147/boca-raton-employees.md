@@ -27,7 +27,7 @@ The statement of fiduciary net position, Note 5, and the money-weighted schedule
 2. **GASB cards.** Total pension liability **$284,507,909**. Net pension liability **$27,777,910**. Plan fiduciary net position as a percentage of total pension liability **90.24 percent** (2024 **90.92 percent**).
 3. **Returns.** Notes money-weighted return **8.92 percent** net of plan investment expense for the year ended **30 September 2025** (2024 **21.56 percent**).
 
-Do not flatten the City of Boca Raton General Employees’ Pension Plan into [City of Boca Raton Police and Firefighters’ Retirement System](/boca-raton-police-fire/), [City of Fort Lauderdale General Employees’ Retirement System](/fort-lauderdale-employees/), [City of Hialeah Employees’ Retirement System](/hialeah-employees/), or [Florida State Board of Administration](/florida-state-board-of-administration-explained/). Boca Police and Fire is the sworn file. Fort Lauderdale and Hialeah are other city civilian files. Florida SBA is the statewide investment file. This is **one Boca Raton civilian file**.
+Do not flatten the City of Boca Raton General Employees’ Pension Plan into [City of Boca Raton Police and Firefighters’ Retirement System](/boca-raton-police-fire/), [West Palm Beach Restated Employees Defined Benefit Retirement System](/west-palm-beach-employees/), [City of Fort Lauderdale General Employees’ Retirement System](/fort-lauderdale-employees/), or [City of Hialeah Employees’ Retirement System](/hialeah-employees/). Boca Police and Fire is the sworn file. West Palm Beach Employees is a West Palm Beach civilian file. Fort Lauderdale and Hialeah are other city civilian files. This is **one Boca Raton civilian file**.
 
 ## What an owner is actually buying
 
@@ -49,6 +49,7 @@ Do not 301 this page onto `/boca-raton-police-fire/`, `/fort-lauderdale-employee
 - [City of Boca Raton Police and Firefighters’ Retirement System](/boca-raton-police-fire/)
 - [City of Fort Lauderdale General Employees’ Retirement System](/fort-lauderdale-employees/)
 - [City of Sunrise General Employees’ Retirement Plan](/sunrise-employees/)
+- [West Palm Beach Restated Employees Defined Benefit Retirement System](/west-palm-beach-employees/)
 - [City of Hialeah Employees’ Retirement System](/hialeah-employees/)
 - [City of Lakeland Employees’ Pension and Retirement System](/lakeland-employees/)
 - [Advertise](/advertise/)

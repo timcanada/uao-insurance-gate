@@ -535,6 +535,8 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,sjrpp,SJRPP (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 151 /jacksonville-sjrpp/
 151,institution,lantana-police,Lantana Police Relief and Pension Fund,allocator,brief,P0,drafted-in-repo,Wave 151. Official FNP $31,523,590 at 30 Sep 2025. Do not mint /lantana/ or /lprpf/
 2,institution,lprpf,Lantana Police (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 151 /lantana-police/
+153,institution,west-palm-beach-employees,West Palm Beach Restated Employees Defined Benefit Retirement System,allocator,brief,P0,drafted-in-repo,Wave 153. Official FNP $45,122,439 at 30 Sep 2025. Do not mint /wpb-ge/ or /gepp/ or /gers/
+2,institution,wpb-ge,West Palm Beach Employees (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 153 /west-palm-beach-employees/. /gepp/ is Jacksonville. /gers/ unused Fort Lauderdale
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

@@ -51,5 +51,6 @@ Do not 301 this page onto `/sunrise-police/`, `/fort-lauderdale-employees/`, `/s
 - [City of Boca Raton General Employees’ Pension Plan](/boca-raton-employees/)
 - [Miami Beach Employees’ Retirement Plan](/miami-beach-employees/)
 - [St. Johns River Power Park System Employees’ Retirement Plan](/jacksonville-sjrpp/)
+- [West Palm Beach Restated Employees Defined Benefit Retirement System](/west-palm-beach-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

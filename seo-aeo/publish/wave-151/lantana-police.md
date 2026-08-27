@@ -27,7 +27,7 @@ The statement of fiduciary net position, the DROP restriction line, the GASB not
 2. **GASB cards.** Total pension liability **$31,801,808**. Net pension liability **$278,218**. Plan fiduciary net position as a percentage of total pension liability **99.13 percent** (2024 **95.30 percent**). The note’s “net position liability” wording is a typo, not a second GASB name.
 3. **Returns.** Notes money-weighted return **11.14 percent** net of investment expense for the years ended **30 September 2025** (2024 **21.72 percent**). The Plan did not present MD&A.
 
-Do not flatten the Lantana Police Relief and Pension Fund into [Town of Jupiter Police Officers’ Retirement Fund](/jupiter-police/), [West Palm Beach Police Pension Fund](/west-palm-beach-police/), [City of Boca Raton Police and Firefighters’ Retirement System](/boca-raton-police-fire/), or [Palm Beach Gardens Police Officers’ Pension Fund](/palm-beach-gardens-police/). Jupiter Police is a Jupiter file. West Palm Beach Police is a West Palm Beach file. Boca Raton Police and Fire is a Boca file. This is **one Lantana police file**.
+Do not flatten the Lantana Police Relief and Pension Fund into [Town of Jupiter Police Officers’ Retirement Fund](/jupiter-police/), [West Palm Beach Police Pension Fund](/west-palm-beach-police/), [West Palm Beach Restated Employees Defined Benefit Retirement System](/west-palm-beach-employees/), or [City of Boca Raton Police and Firefighters’ Retirement System](/boca-raton-police-fire/). Jupiter Police is a Jupiter file. West Palm Beach Police is the sworn West Palm Beach file. West Palm Beach Employees is the closed civilian West Palm Beach file. This is **one Lantana police file**.
 
 ## What an owner is actually buying
 
@@ -48,6 +48,7 @@ Do not 301 this page onto `/jupiter-police/`, `/west-palm-beach-police/`, `/lant
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Town of Jupiter Police Officers’ Retirement Fund](/jupiter-police/)
 - [West Palm Beach Police Pension Fund](/west-palm-beach-police/)
+- [West Palm Beach Restated Employees Defined Benefit Retirement System](/west-palm-beach-employees/)
 - [City of Boca Raton Police and Firefighters’ Retirement System](/boca-raton-police-fire/)
 - [Palm Beach Gardens Police Officers’ Pension Fund](/palm-beach-gardens-police/)
 - [Advertise](/advertise/)

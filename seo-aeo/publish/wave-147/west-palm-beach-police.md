@@ -27,13 +27,13 @@ The statement of fiduciary net position, Note 13, and the money-weighted schedul
 2. **GASB cards.** Total pension liability **$627,450,618**. Net pension liability **$99,394,956**. Plan fiduciary net position as a percentage of total pension liability **84.16 percent** (2024 **86.19 percent**).
 3. **Returns.** Notes money-weighted return **9.23 percent** net of investment expense for the year ended **30 September 2025** (2024 **15.7 percent**).
 
-Do not flatten the West Palm Beach Police Pension Fund into [Palm Beach Gardens Police Officers’ Pension Fund](/palm-beach-gardens-police/), [City of Boca Raton Police and Firefighters’ Retirement System](/boca-raton-police-fire/), [Town of Jupiter Police Officers’ Retirement Fund](/jupiter-police/), or [Florida State Board of Administration](/florida-state-board-of-administration-explained/). Palm Beach Gardens Police is a Palm Beach Gardens file. Boca Police and Fire is a Boca Raton file. Jupiter Police is a Jupiter file. This is **one West Palm Beach police file**.
+Do not flatten the West Palm Beach Police Pension Fund into [West Palm Beach Restated Employees Defined Benefit Retirement System](/west-palm-beach-employees/), [Palm Beach Gardens Police Officers’ Pension Fund](/palm-beach-gardens-police/), [City of Boca Raton Police and Firefighters’ Retirement System](/boca-raton-police-fire/), or [Town of Jupiter Police Officers’ Retirement Fund](/jupiter-police/). West Palm Beach Employees is the closed civilian file. Palm Beach Gardens Police is a Palm Beach Gardens file. Boca Police and Fire is a Boca Raton file. This is **one West Palm Beach police file**.
 
 ## What an owner is actually buying
 
 Counsel selling “West Palm Beach police AUM” has to name the book. The **$528,055,662** line is fiduciary net position at **30 September 2025**. The **$527,525,775** line is investments. The **$345,020,016** line is defined-benefit restricted. The **$100,962,602** and **$82,073,044** lines are DROP and Share. The **9.23 percent** card is money-weighted. The **84.16 percent** card is GASB. Those are not the same mandate as Palm Beach Gardens Police.
 
-Do not 301 this page onto `/palm-beach-gardens-police/`, `/jupiter-police/`, `/wpb-police/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/west-palm-beach-employees/`, `/palm-beach-gardens-police/`, `/jupiter-police/`, `/wpb-police/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -52,5 +52,6 @@ Do not 301 this page onto `/palm-beach-gardens-police/`, `/jupiter-police/`, `/w
 - [City of Palm Beach Gardens Firefighters’ Pension Fund](/palm-beach-gardens-fire/)
 - [City of Sunrise Police Officers’ Retirement Plan](/sunrise-police/)
 - [Lantana Police Relief and Pension Fund](/lantana-police/)
+- [West Palm Beach Restated Employees Defined Benefit Retirement System](/west-palm-beach-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

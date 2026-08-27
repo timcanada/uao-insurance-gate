@@ -48,6 +48,7 @@ Do not 301 this page onto `/michigan-mers/`, `/detroit-police-fire/`, `/grand-ra
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [City of Grand Rapids General Retirement System](/grand-rapids-employees/)
 - [Municipal Employees’ Retirement System of Michigan](/michigan-mers/)
+- [Battle Creek Police and Fire Retirement System](/battle-creek-police-fire/)
 - [Police and Fire Retirement System of the City of Detroit](/detroit-police-fire/)
 - [Oakland Police and Fire Retirement System](/oakland-police-fire/)
 - [Advertise](/advertise/)

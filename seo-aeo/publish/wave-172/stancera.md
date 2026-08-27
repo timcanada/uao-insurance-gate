@@ -50,6 +50,7 @@ Do not 301 this page onto `/mercedcera/`, `/icers/`, `/sdcera/`, `/stanislaus-ce
 - [ICERS](/icers/)
 - [SJCERA](/sjcera/)
 - [SDCERA](/sdcera/)
+- [CCCERA](/cccera/)
 - [Sacramento County Employees’ Retirement System](/sacramento-scers/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

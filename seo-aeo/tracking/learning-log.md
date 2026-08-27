@@ -1,5 +1,23 @@
 # Learning log (append only)
 
+## 2026-08-27 — Wake 174 addendum: CCCERA and Battle Creek Police and Fire
+
+**Queries / URLs:** `/cccera/`, `/battle-creek-police-fire/`.
+
+**What was wrong on the live site:**
+
+- Parallel leftover hunts then independently re-GET. CCCERA standalone `2025_annual_report.pdf` / `2025_acfr.pdf` still **404**. The 15 Jul 2026 board packet locks (GET **200** `application/pdf` **24,332,649** bytes; `Last-Modified: 08 Jul 2026`) and embeds the signed 31 Dec 2025 ACFR. Pension Plan FNP **$12,990,374 thousand**. Investments **$12,468,166 thousand** are not FNP. Notes MWR **13.03%**. Transmittal **9.9%** is three-year annualized, not MWR. TPL **$13,522,707 thousand**. NPL **$532,333 thousand**. GASB **96.1%**. Transmittal **99%** is OPEB, not GASB. OPEB Trust **$6,412 thousand** is not the pension card. Brown Armstrong unmodified **17 Jun 2026**. Battle Creek Police and Fire 30 Jun 2025 house FS locks (`battlecreekmi.gov/DocumentCenter/View/18446/...`, GET **200** `application/pdf` **1,460,184** bytes). Total NP **$201,672,609**. Pension-restricted **$201,616,252**. OPEB **$56,357** is not the pension-restricted card. Investments **$197,932,472** are not FNP. Notes/RSI MWR **11.45%**. TPL **$241,732,379**. NPL **$40,059,770**. GASB **83.43%**. Rehmann unmodified **22 Dec 2025**. Illinois leftover Article 3/4 returned zero standalone 2025 house locks (city ACFR / actuarial / SharePoint / agenda). Florida leftover retries stayed 2024, city ACFR, or 403/404. Kansas City / Kalamazoo still **403**. Do not overwrite Wave 174 McAllen / Denison or Wave 167–173 keepers.
+
+**Confirmed still unpublished:** Waves 1–174. `/directory/` **404**. Ghost key still missing.
+
+**Inbox:** No newer Search Impact mail than **700 / 18 Aug**. This addendum did not reopen the inbox.
+
+**Shipped (Wave 174 addendum):** two more pages (wave total **four**, still `≤5`). CCCERA `/cccera/` (Pension Plan FNP **$12,990,374 thousand** at **31 Dec 2025**; notes MWR **13.03%**; GASB **96.1%**). Battle Creek Police and Fire `/battle-creek-police-fire/` (total NP **$201,672,609** at **30 Jun 2025**; pension-restricted **$201,616,252**; notes MWR **11.45%**; GASB **83.43%**). Do not mint `/contra-costa-cccera/`, `/cccera-explained/`, `/bcpfrs/`, `/battle-creek/`, or `/cmers/`. Not leftover StanCERA **$3,122,107 thousand** or leftover Grand Rapids Police and Fire **$585,054,844**. Google/Bing/Perplexity ranks: **unknown**.
+
+**Refused:** Drafting CCCERA from the listing-page “$13 billion” card or from 404 standalone filenames. Treating CCCERA transmittal **9.9 percent** as MWR. Treating CCCERA OPEB **99 percent** as GASB. Treating CCCERA total-fund / OPEB Trust as Pension Plan FNP. Treating Battle Creek OPEB **$56,357** as the pension-restricted card. Drafting Illinois leftover cities from city ACFRs or IPOPIF valuations. Drafting Kansas City / Kalamazoo from 403 listings. Drafting Milwaukee County ERS from LAB millions. Overwriting Wave 173 `/wperp/` (already shipped). Flattening Battle Creek into leftover Michigan MERS or leftover Grand Rapids Police and Fire.
+
+**Next wake must:** Same paste order as the Wave 174 entry, now including `/cccera/` and `/battle-creek-police-fire/`. CCCERA standalone filename can replace the board-packet source later if a direct ACFR PDF locks — do not mint a second slug. Remaining hunt list is unchanged except CCCERA is no longer needed.
+
 ## 2026-08-27 — Wake 174: McAllen Fire and Denison Fire
 
 **Queries / URLs:** `/mcallen-fire/`, `/denison-fire/`.

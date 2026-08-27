@@ -634,6 +634,12 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,denison-firemen,Denison Firemen (long twin),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 174 /denison-fire/
 2,institution,dfrrf,DFRRF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 174 /denison-fire/
 2,institution,denison,Denison (city short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 174 /denison-fire/
+174,institution,cccera,Contra Costa County Employees Retirement Association,allocator,brief,P0,drafted-in-repo,Wave 174. Official pension FNP $12,990,374 thousand at 31 Dec 2025. Investments $12,468,166 thousand are not FNP. GASB 96.1%. Notes MWR 13.03%. Do not mint /contra-costa-cccera/. Not leftover StanCERA or leftover SDCERA
+2,institution,contra-costa-cccera,CCCERA (long twin),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 174 /cccera/
+2,institution,cccera-explained,CCCERA (explained twin),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 174 /cccera/
+174,institution,battle-creek-police-fire,Battle Creek Police and Fire Retirement System,allocator,brief,P0,drafted-in-repo,Wave 174. Official total NP $201,672,609 at 30 Jun 2025. Pension-restricted $201,616,252. Investments $197,932,472 are not FNP. GASB 83.43%. Notes MWR 11.45%. Do not mint /bcpfrs/ or /cmers/. Not leftover Grand Rapids Police and Fire
+2,institution,bcpfrs,Battle Creek Police and Fire (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 174 /battle-creek-police-fire/. /cmers/ remains Milwaukee City
+2,institution,battle-creek,Battle Creek (city short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 174 /battle-creek-police-fire/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

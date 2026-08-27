@@ -48,5 +48,6 @@ Do not 301 this page onto `/washington-drs/`, `/washington-state-investment-boar
 - [Washington Department of Retirement Systems](/washington-drs/)
 - [Washington State Investment Board](/washington-state-investment-board/)
 - [University of Pennsylvania endowment](/university-of-pennsylvania-endowment/)
+- [Washington University in St. Louis endowment](/washington-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

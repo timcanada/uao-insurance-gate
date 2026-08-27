@@ -1043,6 +1043,22 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,columbia-investment-management,Columbia IMC,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 192 /columbia-endowment/
 2,institution,upenn-investment-office,Penn investment office,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 194 /university-of-pennsylvania-endowment/
 2,institution,chicago-endowment,University of Chicago endowment,allocator,brief,P0,needed,Endowment
+196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
+2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
+2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
+196,institution,vanderbilt-endowment,Vanderbilt University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official endowment net assets $10,856,984 thousand / 9.9% at 30 Jun 2025. Do not mint /vanderbilt/
+2,institution,vanderbilt-endowment-explained,Vanderbilt endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /vanderbilt-endowment/
+2,institution,vanderbilt,Vanderbilt (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /vanderbilt-endowment/
+196,institution,brown-endowment,Brown University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official GAAP endowment net assets $7,278,252 thousand at 30 Jun 2025. President $8 billion / 11.9% is a different book. Do not mint /brown/
+2,institution,brown-endowment-explained,Brown endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /brown-endowment/
+2,institution,brown,Brown (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /brown-endowment/. Not leftover Wave 75 /brownfield-vs-greenfield-infrastructure/
+196,institution,dartmouth-endowment,Dartmouth College endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official endowment net assets $8,959,701 thousand at 30 Jun 2025. Report $9.0 billion / 10.8% is a different book. Do not mint /dartmouth/
+2,institution,dartmouth-endowment-explained,Dartmouth endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /dartmouth-endowment/
+2,institution,dartmouth,Dartmouth (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /dartmouth-endowment/
+196,institution,washington-university-endowment,Washington University in St. Louis endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official total endowment funds $13,346,417 thousand at 30 Jun 2025. MEP 14.7% is a different book. Do not mint /washington/ /uw/ /wustl/
+2,institution,washington-university-endowment-explained,WashU endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /washington-university-endowment/
+2,institution,wustl-endowment,WashU endowment (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /washington-university-endowment/
+2,institution,wustl,WashU (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /washington-university-endowment/
 193,institution,northwestern-endowment,Northwestern endowment,allocator,brief,P0,drafted-in-repo,Wave 193. Official Long-Term Balanced Pool $15,263 million at 31 Aug 2025. Do not mint /northwestern/
 195,institution,johns-hopkins-endowment,Johns Hopkins endowment,allocator,brief,P0,drafted-in-repo,Wave 195. Official endowment net assets $13,734,964 thousand at 30 Jun 2025. Do not invent a percent. Do not mint /hopkins/ or /jhu/
 195,institution,nyu-endowment,NYU endowment,allocator,brief,P0,drafted-in-repo,Wave 195. Official investment-pool $7,440,454 thousand at 31 Aug 2025. Do not invent a one-year percent. Do not mint /nyu/

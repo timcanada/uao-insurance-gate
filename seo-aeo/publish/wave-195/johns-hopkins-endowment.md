@@ -46,5 +46,6 @@ Do not 301 this page onto `/university-of-pennsylvania-endowment/`, `/notre-dame
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Pennsylvania endowment](/university-of-pennsylvania-endowment/)
 - [Notre Dame endowment](/notre-dame-endowment/)
+- [Cornell University endowment](/cornell-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

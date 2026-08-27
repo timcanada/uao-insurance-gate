@@ -46,6 +46,7 @@ Do not 301 this page onto `/lacers/`, `/lacera/`, or `/largest-us-public-pension
 - [What is a pension fund?](/what-is-a-pension-fund/)
 - [Public pension funds](/public-pension-funds/)
 - [Largest US public pensions](/largest-us-public-pension-funds/)
+- [San Diego County Employees Retirement Association](/sdcera/)
 - [LACERS](/lacers/)
 - [LACERA](/lacera/)
 - [SFERS](/san-francisco-sfers/)

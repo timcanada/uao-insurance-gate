@@ -49,6 +49,7 @@ Do not 301 this page onto `/texas-teacher-retirement-system-explained/`, `/texas
 - [Texas TRS](/texas-teacher-retirement-system-explained/)
 - [Texas ERS](/texas-ers/)
 - [Houston Municipal Employees](/houston-hmeps/)
+- [Corpus Christi Firefighters’ Retirement System](/corpus-christi-fire/)
 - [Houston Firefighters](/houston-hfrrf/)
 - [Houston Police](/houston-hpops/)
 - [City of Austin Employees’ Retirement System](/coaers/)

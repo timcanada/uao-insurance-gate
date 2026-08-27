@@ -604,6 +604,18 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 170,institution,mncppc-ers,MNCPPC Employees Retirement System,allocator,brief,P0,drafted-in-repo,Wave 170. Official FNP $1,207,706,331 at 30 Jun 2025. Investments $1,248,466,582 are not FNP. GASB 86.81%. Time-weighted 9.5% is not MWR 9.68%. Do not mint /mncppc/ or /ers/. Not leftover Maryland SRPS
 2,institution,mncppc,MNCPPC (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 170 /mncppc-ers/
 2,institution,mncppc-employees,MNCPPC Employees (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 170 /mncppc-ers/
+171,institution,mbta-retirement,MBTA Retirement Fund,allocator,brief,P0,drafted-in-repo,Wave 171. Official FNP $2,021,767,659 at 31 Dec 2025. Investments $2,006,708,071 are not FNP. GASB 57.05%. Notes MWR 11.80%. Do not mint /mbtarf/. Not leftover MassPRIM or leftover Boston
+2,institution,mbtarf,MBTA RF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 171 /mbta-retirement/
+2,institution,mbta-retirement-fund,MBTA Retirement Fund (long),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 171 /mbta-retirement/
+171,institution,falmouth-retirement,Falmouth Contributory Retirement System,allocator,brief,P0,drafted-in-repo,Wave 171. Official FNP $237,005,508 at 31 Dec 2025. Investments $233,583,541 are not FNP. GASB 79.5%. RSI MWR 11.46%. Do not mint /fcrs/. Not leftover MassPRIM or leftover Boston
+2,institution,falmouth-contributory,Falmouth Contributory (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 171 /falmouth-retirement/
+2,institution,fcrs,FCRS (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 171 /falmouth-retirement/
+171,institution,sdcera,San Diego County Employees Retirement Association,allocator,brief,P0,drafted-in-repo,Wave 171. Official pension FNP $19,661,907 thousand at 30 Jun 2025. Total-fund $19,745,739 thousand includes OPEB. GASB 84.28%. RSI MWR 11.15%. Do not mint /sdcers/. Not leftover San Diego City SDCERS
+2,institution,sdcera-explained,SDCERA (explained twin),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 171 /sdcera/. /sdcers/ remains San Diego City
+171,institution,tacoma-employees,Tacoma Employees Retirement System,allocator,brief,P0,drafted-in-repo,Wave 171. Official FNP $2,423,438,168 at 31 Dec 2025. Investments $2,385,071,708 are not FNP. GASB 96.61%. RSI MWR 10.17%. Do not mint /ters/. Not leftover Seattle
+2,institution,ters,TERS (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 171 /tacoma-employees/
+171,institution,corpus-christi-fire,Corpus Christi Firefighters Retirement System,allocator,brief,P0,drafted-in-repo,Wave 171. Official FNP $218,380,053 at 31 Dec 2025. Investments $214,132,839 are not FNP. GASB 63.8%. Notes MWR 12.06%. Do not mint /ccffrs/. Not leftover TMRS
+2,institution,ccffrs,CCFFRS (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 171 /corpus-christi-fire/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

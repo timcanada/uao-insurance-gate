@@ -46,6 +46,7 @@ Do not 301 this page onto `/sacramento-scers/`, `/scers/`, `/seattle-cers/`, `/c
 - [What is a pension fund?](/what-is-a-pension-fund/)
 - [Public pension funds](/public-pension-funds/)
 - [Largest US public pensions](/largest-us-public-pension-funds/)
+- [Tacoma Employees’ Retirement System](/tacoma-employees/)
 - [Sacramento County Employees’ Retirement System](/sacramento-scers/)
 - [Springfield Firefighters’ Pension Fund](/springfield-fire/)
 - [Advertise](/advertise/)

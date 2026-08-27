@@ -52,5 +52,7 @@ Do not 301 this page onto `/texas-tmrs/`, `/texas-ers/`, `/houston-hfrrf/`, `/co
 - [Texas Emergency Services Retirement System](/texas-tesrs/)
 - [Corpus Christi Firefighters’ Retirement System](/corpus-christi-fire/)
 - [McAllen Firemen’s Relief and Retirement Fund](/mcallen-fire/)
+- [Longview Firemen’s Relief and Retirement Fund](/longview-fire/)
+- [Galveston Firefighters’ Pension Fund](/galveston-fire/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

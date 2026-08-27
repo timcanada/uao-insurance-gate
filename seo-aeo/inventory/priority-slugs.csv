@@ -656,6 +656,14 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,slocpt-explained,SLOCPT explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 175 /slocpt/
 2,institution,san-luis-obispo-cpt,San Luis Obispo CPT (long),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 175 /slocpt/
 2,institution,slo-cera,SLO CERA (false CERL short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 175 /slocpt/. /scers/ remains Sacramento County. /mcera/ remains Marin reserved
+175,institution,longview-fire,Longview Firemens Relief and Retirement Fund,allocator,brief,P0,drafted-in-repo,Wave 175. Official FNP $108,284,998 at 31 Dec 2025. Investments $108,202,320 are not FNP. GASB 75.00%. Notes/RSI MWR 12.35%. Do not mint /lfrrf/ or /longview/. Not leftover TMRS or leftover McAllen Fire
+2,institution,longview-frrf,Longview FRRF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 175 /longview-fire/. /mfrrf/ remains McAllen
+2,institution,lfrrf,Longview FRRF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 175 /longview-fire/
+2,institution,longview,Longview (city short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 175 /longview-fire/
+175,institution,galveston-fire,Galveston Firefighters Pension Fund,allocator,brief,P0,drafted-in-repo,Wave 175. Official FNP $66,318,847 at 31 Dec 2025. Investments $65,665,831 are not FNP. GASB 67.8%. Notes/RSI MWR 12.20%. MD&A 12% is FNP increase. Do not mint /gfrrf/ or /galveston/. Not leftover Longview Fire or leftover McAllen Fire
+2,institution,galveston-frrf,Galveston FRRF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 175 /galveston-fire/
+2,institution,gfrrf,Galveston FRRF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 175 /galveston-fire/
+2,institution,galveston,Galveston (city short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 175 /galveston-fire/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

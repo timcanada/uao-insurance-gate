@@ -881,6 +881,21 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,pha,PHA (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 187 /port-houston-pension/
 2,institution,port,Port (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 187 /port-houston-pension/
 2,institution,houston,Houston (short),allocator,brief,P0,do-not-mint,Do not mint. Flattens Houston HMEPS / Fire / Police and Wave 187 /port-houston-pension/
+188,institution,cps-energy-pension,CPS Energy Pension Plan,allocator,brief,P0,drafted-in-repo,Wave 188. Official FNP $2,683,703,033 at 31 Dec 2025. Do not mint /cps/ or /cps-energy/. Not leftover San Antonio Fire and Police
+2,institution,cps-energy-pension-explained,CPS Energy pension explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 188 /cps-energy-pension/
+2,institution,cps-energy,CPS Energy (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 188 /cps-energy-pension/
+2,institution,cps,CPS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 188 /cps-energy-pension/
+188,institution,lcra-pension,LCRA Retirement Plan and Trust,allocator,brief,P0,drafted-in-repo,Wave 188. Official FNP $546,700 thousand at 31 Dec 2025. Do not mint /lcra/. Not leftover CPS Energy
+2,institution,lcra-pension-explained,LCRA pension explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 188 /lcra-pension/
+2,institution,lcra,LCRA (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 188 /lcra-pension/
+188,institution,kansas-kpers,Kansas Public Employees Retirement System,allocator,brief,P0,drafted-in-repo,Wave 188. Official pension FNP $29,449,836,163 at 30 Jun 2025. Do not mint /kpers/ or /ers/. Not leftover MOSERS
+2,institution,kansas-kpers-explained,KPERS explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 188 /kansas-kpers/
+2,institution,kpers,KPERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 188 /kansas-kpers/
+2,institution,kansas-pers,Kansas PERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 188 /kansas-kpers/
+188,institution,brazos-river-pension,Brazos River Authority Retirement Plan,allocator,brief,P0,drafted-in-repo,Wave 188. Official FNP $25,055,362 at 28 Feb 2025. Do not mint /bra/ or /brazos/. Not leftover CPS Energy
+2,institution,brazos-river-pension-explained,Brazos River pension explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 188 /brazos-river-pension/
+2,institution,bra,BRA (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 188 /brazos-river-pension/
+2,institution,brazos,Brazos (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 188 /brazos-river-pension/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

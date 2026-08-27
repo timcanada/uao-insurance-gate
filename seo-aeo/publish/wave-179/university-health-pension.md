@@ -47,6 +47,7 @@ Do not 301 this page onto `/san-antonio-fire-police/`, `/texas-tmrs/`, `/ers/`, 
 - [Public pension funds](/public-pension-funds/)
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [San Antonio Fire and Police](/san-antonio-fire-police/)
+- [CPS Energy Pension Plan](/cps-energy-pension/)
 - [Dallas Police and Fire](/dallas-police-fire/)
 - [Texas Municipal Retirement System](/texas-tmrs/)
 - [Austin Firefighters](/austin-firefighters/)

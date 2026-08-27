@@ -48,6 +48,7 @@ Do not 301 this page onto `/ohio-opers/`, `/iowa-ipers/`, or `/largest-us-public
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Ohio OPERS](/ohio-opers/)
 - [Iowa IPERS](/iowa-ipers/)
+- [Kansas Public Employees Retirement System](/kansas-kpers/)
 - [Oklahoma TRS](/oklahoma-trs/)
 - [Oklahoma Firefighters Pension and Retirement System](/oklahoma-firefighters/)
 - [Oklahoma Police Pension and Retirement System](/oklahoma-police/)

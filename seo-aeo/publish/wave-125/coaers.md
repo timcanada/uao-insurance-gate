@@ -49,6 +49,8 @@ Do not 301 this page onto `/austin-police-retirement/`, `/texas-ers/`, `/texas-t
 - [Austin Police Retirement System](/austin-police-retirement/)
 - [Texas ERS](/texas-ers/)
 - [Texas Municipal Retirement System](/texas-tmrs/)
+- [Lower Colorado River Authority Retirement Plan and Trust](/lcra-pension/)
+- [CPS Energy Pension Plan](/cps-energy-pension/)
 - [Houston Municipal Employees](/houston-hmeps/)
 - [Austin Firefighters Retirement Fund](/austin-firefighters/)
 - [City of El Paso Employees Retirement Trust](/el-paso-cert/)

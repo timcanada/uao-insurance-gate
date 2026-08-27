@@ -51,5 +51,8 @@ Do not 301 this page onto `/houston-hmeps/`, `/houston-hfrrf/`, `/dart-employees
 - [Houston Police Officers’ Pension System](/houston-hpops/)
 - [DART Employees’ Defined Benefit Retirement Plan](/dart-employees/)
 - [Texas Municipal Retirement System](/texas-tmrs/)
+- [CPS Energy Pension Plan](/cps-energy-pension/)
+- [Lower Colorado River Authority Retirement Plan and Trust](/lcra-pension/)
+- [Retirement Plan for Employees of Brazos River Authority](/brazos-river-pension/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

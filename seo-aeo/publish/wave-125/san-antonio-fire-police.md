@@ -56,5 +56,6 @@ Do not 301 this page onto `/houston-hfrrf/`, `/houston-hpops/`, `/san-jose-polic
 - [El Paso Firemen Division](/el-paso-fire/)
 - [El Paso Policemen Division](/el-paso-police/)
 - [University Health System Pension Plan](/university-health-pension/)
+- [CPS Energy Pension Plan](/cps-energy-pension/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

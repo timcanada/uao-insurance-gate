@@ -598,6 +598,12 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,chicago-park,Chicago Park (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 169 /chicago-park-employees/
 2,institution,chicago-parks,Chicago Parks (plural),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 169 /chicago-park-employees/
 2,institution,chicago-park-pension,Chicago Park Pension (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 169 /chicago-park-employees/
+170,institution,boston-retirement,Boston Retirement System,allocator,brief,P0,drafted-in-repo,Wave 170. Official FNP $12,269,220 thousand at 31 Dec 2025. Investments $11,123,765 thousand are not FNP. GASB 82.84%. Statement lines in thousands. Do not mint /brs/ or /boston-retirement-system/. Not leftover MassPRIM
+2,institution,brs,Boston Retirement (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 170 /boston-retirement/
+2,institution,boston-retirement-system,Boston Retirement (long),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 170 /boston-retirement/
+170,institution,mncppc-ers,MNCPPC Employees Retirement System,allocator,brief,P0,drafted-in-repo,Wave 170. Official FNP $1,207,706,331 at 30 Jun 2025. Investments $1,248,466,582 are not FNP. GASB 86.81%. Time-weighted 9.5% is not MWR 9.68%. Do not mint /mncppc/ or /ers/. Not leftover Maryland SRPS
+2,institution,mncppc,MNCPPC (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 170 /mncppc-ers/
+2,institution,mncppc-employees,MNCPPC Employees (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 170 /mncppc-ers/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

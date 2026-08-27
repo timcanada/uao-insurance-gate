@@ -52,5 +52,6 @@ Do not 301 this page onto `/chicago-police/`, `/chicago-meabf/`, `/chicago-fire-
 - [Chicago LABF](/chicago-labf/)
 - [Chicago Teachers](/chicago-teachers/)
 - [Cook County Pension](/cook-county-pension/)
+- [MNCPPC Employees’ Retirement System](/mncppc-ers/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

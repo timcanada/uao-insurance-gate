@@ -51,5 +51,7 @@ Do not 301 this page onto `/new-hampshire-retirement-system/`, `/massachusetts-p
 - [Maryland SRPS](/maryland-srps/)
 - [Employees’ Retirement System of Rhode Island](/rhode-island-ersri/)
 - [Employees’ Retirement System of the City of Providence](/providence-employees/)
+- [Vermont State Retirement System](/vermont-vsers/)
+- [Vermont State Teachers’ Retirement System](/vermont-vstrs/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

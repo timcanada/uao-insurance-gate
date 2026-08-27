@@ -27,13 +27,13 @@ The combining statement is the sourced split:
 2. **Named books on the same report.** Missouri State Employees’ Plan fiduciary net position **$9,354,041,911**. Judicial Plan **$211,176,545**. Those two pension books are not interchangeable with the combined fiduciary line. Do not add the Judicial Plan to the Missouri State Employees’ Plan a second time and call the sum a second AUM.
 3. **Returns.** Time-weighted return **9.8 percent** net of all fees and expenses, **1.1 percentage points** over the one-year policy benchmark of **8.7 percent**. Money-weighted return **9.68 percent** net of pension-plan investment expense. Those two prints are not interchangeable.
 
-Do not flatten MOSERS into [Illinois ISBI](/illinois-isbi/), [Iowa IPERS](/iowa-ipers/), [St. Louis ERS](/st-louis-ers/), [Firemen’s Retirement System of St. Louis](/st-louis-firemen/), [Police Retirement System of Kansas City](/kansas-city-police/), [Civilian Employees’ Retirement System of the Police Department of Kansas City](/kansas-city-police-civilian/), [Nebraska School Employees Retirement Plan](/nebraska-school/), or [Omaha School Employees Retirement Plan](/omaha-osers/). ISBI is an Illinois investment pool. IPERS is Iowa. St. Louis ERS and St. Louis Firemen’s are St. Louis city files. Kansas City Police and Kansas City Police Civilian are Kansas City files. Nebraska School and OSERS are Nebraska files. This is **one Missouri state-employee file**.
+Do not flatten MOSERS into [Illinois ISBI](/illinois-isbi/), [Iowa IPERS](/iowa-ipers/), [Missouri LAGERS](/missouri-lagers/), [St. Louis ERS](/st-louis-ers/), [Firemen’s Retirement System of St. Louis](/st-louis-firemen/), [Police Retirement System of Kansas City](/kansas-city-police/), [Civilian Employees’ Retirement System of the Police Department of Kansas City](/kansas-city-police-civilian/), [Nebraska School Employees Retirement Plan](/nebraska-school/), or [Omaha School Employees Retirement Plan](/omaha-osers/). ISBI is an Illinois investment pool. IPERS is Iowa. LAGERS is the Missouri local-government file. St. Louis ERS and St. Louis Firemen’s are St. Louis city files. Kansas City Police and Kansas City Police Civilian are Kansas City files. Nebraska School and OSERS are Nebraska files. This is **one Missouri state-employee file**.
 
 ## What an owner is actually buying
 
 Counsel selling “Missouri state AUM” has to name the book. The **$9.57 billion** line is Net position restricted for fiduciary activities. The **$9.35 billion** line is the Missouri State Employees’ Plan. The **$211.2 million** line is the Judicial Plan. Those are not the same mandate.
 
-Do not 301 this page onto `/illinois-isbi/`, `/iowa-ipers/`, `/st-louis-ers/`, `/st-louis-firemen/`, `/kansas-city-police/`, `/kansas-city-police-civilian/`, `/nebraska-school/`, `/omaha-osers/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/illinois-isbi/`, `/iowa-ipers/`, `/missouri-lagers/`, `/st-louis-ers/`, `/st-louis-firemen/`, `/kansas-city-police/`, `/kansas-city-police-civilian/`, `/nebraska-school/`, `/omaha-osers/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -55,5 +55,6 @@ Do not 301 this page onto `/illinois-isbi/`, `/iowa-ipers/`, `/st-louis-ers/`, `
 - [Civilian Employees’ Retirement System of the Police Department of Kansas City](/kansas-city-police-civilian/)
 - [Nebraska School Employees Retirement Plan](/nebraska-school/)
 - [Omaha School Employees Retirement Plan](/omaha-osers/)
+- [Missouri LAGERS](/missouri-lagers/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

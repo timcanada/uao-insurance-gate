@@ -58,5 +58,6 @@ Do not 301 this page onto `/massachusetts-prim/`, `/illinois-isbi/`, `/nebraska-
 - [South Dakota Retirement System](/south-dakota-retirement-system/)
 - [Nebraska School Employees Retirement Plan](/nebraska-school/)
 - [Omaha School Employees Retirement Plan](/omaha-osers/)
+- [Municipal Fire and Police Retirement System of Iowa](/iowa-mfprsi/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

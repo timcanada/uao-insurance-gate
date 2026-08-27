@@ -439,6 +439,16 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,providence-ers,Providence Employees (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 139 /providence-employees/
 139,institution,rhode-island-ersri,Employees Retirement System of Rhode Island,allocator,brief,P0,drafted-in-repo,Wave 139. Official combined FNP $14,686,484,613 at 30 Jun 2025. Do not mint /ersri/
 2,institution,ersri,ERSRI (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 139 /rhode-island-ersri/
+140,institution,missouri-lagers,Missouri LAGERS,allocator,brief,P0,drafted-in-repo,Wave 140. Official Trust FNP $11,341,575,751 at 30 Jun 2025. Do not mint /lagers/
+2,institution,lagers,Missouri LAGERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 140 /missouri-lagers/
+140,institution,michigan-mers,Municipal Employees Retirement System of Michigan,allocator,brief,P0,drafted-in-repo,Wave 140. Official DB FNP $14,870,864 thousand at 31 Dec 2025. Do not mint /mers/
+2,institution,mers,Michigan MERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 140 /michigan-mers/
+140,institution,iowa-mfprsi,Municipal Fire and Police Retirement System of Iowa,allocator,brief,P0,drafted-in-repo,Wave 140. Official FNP $3,496,382,132 at 30 Jun 2025. Do not mint /mfprsi/
+2,institution,mfprsi,Iowa MFPRSI (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 140 /iowa-mfprsi/
+140,institution,vermont-vsers,Vermont State Retirement System,allocator,brief,P0,drafted-in-repo,Wave 140. Official FNP $2,944,071,052 at 30 Jun 2025. Do not mint /vsers/ or /vsrs/
+2,institution,vsers,Vermont VSERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 140 /vermont-vsers/
+140,institution,vermont-vstrs,Vermont State Teachers Retirement System,allocator,brief,P0,drafted-in-repo,Wave 140. Official FNP $3,136,315,717 at 30 Jun 2025. Do not mint /vstrs/
+2,institution,vstrs,Vermont VSTRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 140 /vermont-vstrs/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

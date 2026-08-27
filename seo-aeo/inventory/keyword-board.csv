@@ -671,5 +671,10 @@ P1,City of Philadelphia Municipal Pension Fund,allocator,both,/philadelphia-muni
 P1,Philadelphia Gas Works Retirement Reserve,allocator,both,/philadelphia-pgw/,define,unknown,unknown,unknown,drafted-wave-139,Wave 139. Official FNP $702,779 thousand at 30 Jun 2025. Do not mint /pgw/
 P1,Employees’ Retirement System of the City of Providence,allocator,both,/providence-employees/,define,unknown,unknown,unknown,drafted-wave-139,Wave 139. Official FNP $609,610 thousand at 30 Jun 2025. Do not mint /providence-ers/
 P1,Employees’ Retirement System of Rhode Island,allocator,both,/rhode-island-ersri/,define,unknown,unknown,unknown,drafted-wave-139,Wave 139. Official combined FNP $14,686,484,613 at 30 Jun 2025. Do not mint /ersri/
+P1,Missouri LAGERS,allocator,both,/missouri-lagers/,define,unknown,unknown,unknown,drafted-wave-140,Wave 140. Official Trust FNP $11,341,575,751 at 30 Jun 2025. Do not mint /lagers/
+P1,Municipal Employees’ Retirement System of Michigan,allocator,both,/michigan-mers/,define,unknown,unknown,unknown,drafted-wave-140,Wave 140. Official DB FNP $14,870,864 thousand at 31 Dec 2025. Do not mint /mers/
+P1,Municipal Fire and Police Retirement System of Iowa,allocator,both,/iowa-mfprsi/,define,unknown,unknown,unknown,drafted-wave-140,Wave 140. Official FNP $3,496,382,132 at 30 Jun 2025. Do not mint /mfprsi/
+P1,Vermont State Retirement System,allocator,both,/vermont-vsers/,define,unknown,unknown,unknown,drafted-wave-140,Wave 140. Official FNP $2,944,071,052 at 30 Jun 2025. Do not mint /vsers/
+P1,Vermont State Teachers’ Retirement System,allocator,both,/vermont-vstrs/,define,unknown,unknown,unknown,drafted-wave-140,Wave 140. Official FNP $3,136,315,717 at 30 Jun 2025. Do not mint /vstrs/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

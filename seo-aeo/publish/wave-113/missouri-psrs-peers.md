@@ -27,13 +27,13 @@ The combining statement is the sourced split:
 2. **Commingled funds, two books.** The systems’ funds are commingled for investment. Each system owns an equity position in the pool. Do not add the PSRS book to the PEERS book a second time and call the sum a second AUM.
 3. **Returns and funded ratios.** Time-weighted return **10.7 percent** net of all investment expenses and fees. Money-weighted return **10.7 percent** net of all investment expenses and fees. The filing printed the same **10.7 percent** on both lines — do not invent a difference. The gross print was **10.9 percent**. PSRS fiduciary net position as a percentage of total pension liability **90.9 percent**. PEERS **91.5 percent**. Those funded-ratio lines are not AUM.
 
-Do not flatten PSRS/PEERS into [MOSERS](/missouri-mosers/), [Illinois TRS](/illinois-trs/), [Nebraska School Employees Retirement Plan](/nebraska-school/), or [Omaha School Employees Retirement Plan](/omaha-osers/). MOSERS is the Missouri state-employee file. Nebraska School is Nebraska statewide school. OSERS is Omaha Class V. This is **one Missouri school-pension file**.
+Do not flatten PSRS/PEERS into [MOSERS](/missouri-mosers/), [Missouri LAGERS](/missouri-lagers/), [Illinois TRS](/illinois-trs/), [Nebraska School Employees Retirement Plan](/nebraska-school/), or [Omaha School Employees Retirement Plan](/omaha-osers/). MOSERS is the Missouri state-employee file. LAGERS is the Missouri local-government file. Nebraska School is Nebraska statewide school. OSERS is Omaha Class V. This is **one Missouri school-pension file**.
 
 ## What an owner is actually buying
 
 Counsel selling “Missouri school AUM” has to name the book. The **$63.12 billion** line is the combined fiduciary total. The **$55.57 billion** line is PSRS. The **$7.55 billion** line is PEERS. Those are not the same mandate.
 
-Do not 301 this page onto `/missouri-mosers/`, `/illinois-trs/`, `/nebraska-school/`, `/omaha-osers/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/missouri-mosers/`, `/missouri-lagers/`, `/illinois-trs/`, `/nebraska-school/`, `/omaha-osers/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -50,5 +50,6 @@ Do not 301 this page onto `/missouri-mosers/`, `/illinois-trs/`, `/nebraska-scho
 - [Illinois TRS](/illinois-trs/)
 - [Nebraska School Employees Retirement Plan](/nebraska-school/)
 - [Omaha School Employees Retirement Plan](/omaha-osers/)
+- [Missouri LAGERS](/missouri-lagers/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

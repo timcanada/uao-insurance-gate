@@ -300,6 +300,7 @@ No. Some SWFs pre-fund future public pensions. That still does not make GPFG, [C
 - [City of Boca Raton Police and Firefighters’ Retirement System](/boca-raton-police-fire/)
 - [City of Palm Beach Gardens Firefighters’ Pension Fund](/palm-beach-gardens-fire/)
 - [West Palm Beach Police Pension Fund](/west-palm-beach-police/)
+- [West Palm Beach Firefighters’ Pension Fund](/west-palm-beach-fire/)
 - [Town of Jupiter Police Officers’ Retirement Fund](/jupiter-police/)
 - [City of Sunrise Police Officers’ Retirement Plan](/sunrise-police/)
 - [City of Sunrise General Employees’ Retirement Plan](/sunrise-employees/)

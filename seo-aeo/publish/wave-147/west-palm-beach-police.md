@@ -23,17 +23,17 @@ The West Palm Beach Police Pension Fund is West Palm Beach’s sworn pension, no
 
 The statement of fiduciary net position, Note 13, and the money-weighted schedule are the sourced lines:
 
-1. **Fiduciary net position** **$528,055,662** at **30 September 2025** (beginning **$495,760,974**). Investments **$527,525,775**. Total assets **$528,876,945**. Total liabilities **$821,283**. DROP loans receivable **$1,051,583** are not extra AUM. Do not treat leftover Palm Beach Gardens Police **$160,495,301**, leftover Boca Police and Fire **$613,033,507**, leftover Jupiter Police **$121,341,553**, leftover Florida SBA **$300 billion+**, leftover MassPRIM **$73 billion**, or leftover NYSCRF **$226.8 billion** as this filing.
+1. **Fiduciary net position** **$528,055,662** at **30 September 2025** (beginning **$495,760,974**). Investments **$527,525,775**. Total assets **$528,876,945**. Total liabilities **$821,283**. DROP loans receivable **$1,051,583** are not extra AUM. Do not treat leftover West Palm Beach Fire **$336,235,139**, leftover West Palm Beach Employees **$45,122,439**, leftover Palm Beach Gardens Police **$160,495,301**, leftover Boca Police and Fire **$613,033,507**, leftover Jupiter Police **$121,341,553**, leftover Florida SBA **$300 billion+**, leftover MassPRIM **$73 billion**, or leftover NYSCRF **$226.8 billion** as this filing.
 2. **GASB cards.** Total pension liability **$627,450,618**. Net pension liability **$99,394,956**. Plan fiduciary net position as a percentage of total pension liability **84.16 percent** (2024 **86.19 percent**).
 3. **Returns.** Notes money-weighted return **9.23 percent** net of investment expense for the year ended **30 September 2025** (2024 **15.7 percent**).
 
-Do not flatten the West Palm Beach Police Pension Fund into [West Palm Beach Restated Employees Defined Benefit Retirement System](/west-palm-beach-employees/), [Palm Beach Gardens Police Officers’ Pension Fund](/palm-beach-gardens-police/), [City of Boca Raton Police and Firefighters’ Retirement System](/boca-raton-police-fire/), or [Town of Jupiter Police Officers’ Retirement Fund](/jupiter-police/). West Palm Beach Employees is the closed civilian file. Palm Beach Gardens Police is a Palm Beach Gardens file. Boca Police and Fire is a Boca Raton file. This is **one West Palm Beach police file**.
+Do not flatten the West Palm Beach Police Pension Fund into [West Palm Beach Restated Employees Defined Benefit Retirement System](/west-palm-beach-employees/), [West Palm Beach Firefighters’ Pension Fund](/west-palm-beach-fire/), [Palm Beach Gardens Police Officers’ Pension Fund](/palm-beach-gardens-police/), or [Town of Jupiter Police Officers’ Retirement Fund](/jupiter-police/). West Palm Beach Employees is the closed civilian file. West Palm Beach Fire is the firefighter file. Palm Beach Gardens Police is a Palm Beach Gardens file. This is **one West Palm Beach police file**.
 
 ## What an owner is actually buying
 
 Counsel selling “West Palm Beach police AUM” has to name the book. The **$528,055,662** line is fiduciary net position at **30 September 2025**. The **$527,525,775** line is investments. The **$345,020,016** line is defined-benefit restricted. The **$100,962,602** and **$82,073,044** lines are DROP and Share. The **9.23 percent** card is money-weighted. The **84.16 percent** card is GASB. Those are not the same mandate as Palm Beach Gardens Police.
 
-Do not 301 this page onto `/west-palm-beach-employees/`, `/palm-beach-gardens-police/`, `/jupiter-police/`, `/wpb-police/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/west-palm-beach-employees/`, `/west-palm-beach-fire/`, `/palm-beach-gardens-police/`, `/jupiter-police/`, `/wpb-police/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -53,5 +53,6 @@ Do not 301 this page onto `/west-palm-beach-employees/`, `/palm-beach-gardens-po
 - [City of Sunrise Police Officers’ Retirement Plan](/sunrise-police/)
 - [Lantana Police Relief and Pension Fund](/lantana-police/)
 - [West Palm Beach Restated Employees Defined Benefit Retirement System](/west-palm-beach-employees/)
+- [West Palm Beach Firefighters’ Pension Fund](/west-palm-beach-fire/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

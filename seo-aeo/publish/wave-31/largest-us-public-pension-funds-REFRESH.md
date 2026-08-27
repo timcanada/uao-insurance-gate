@@ -386,6 +386,7 @@ Print the CalPERS and CalSTRS filings. OPERS, WSIB, PRIM, VRS, PSERS, New Jersey
 - [New Mexico PERA](/new-mexico-pera/)
 - [Sheriffs’ Retirement Fund of Georgia](/georgia-sheriffs/)
 - [Montana Teachers’ Retirement System](/montana-trs/)
+- [Lehigh County Employees’ Retirement Plan](/lehigh-county-employees/)
 - [City of Hollywood Police Officers Retirement System](/hollywood-police/)
 - [City of Palm Bay Police and Firefighters’ Retirement System](/palm-bay-police-fire/)
 - [City of Miramar Firefighters Retirement Plan](/miramar-fire/)

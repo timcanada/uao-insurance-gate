@@ -354,6 +354,8 @@ No. Some SWFs pre-fund future public pensions. That still does not make GPFG, [C
 - [Sheriffs’ Retirement Fund of Georgia](/georgia-sheriffs/)
 - [Montana Teachers’ Retirement System](/montana-trs/)
 - [GEPF](/gepf/)
+- [Public Investment Corporation](/pic-south-africa/)
+- [Lehigh County Employees’ Retirement Plan](/lehigh-county-employees/)
 - [City of Hollywood Police Officers Retirement System](/hollywood-police/)
 - [City of Palm Bay Police and Firefighters’ Retirement System](/palm-bay-police-fire/)
 - [City of Miramar Firefighters Retirement Plan](/miramar-fire/)

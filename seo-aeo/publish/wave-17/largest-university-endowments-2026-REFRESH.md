@@ -37,8 +37,11 @@ Fiscal years are not aligned. Harvard, Yale and Princeton close the investment y
 | Princeton (PRINCO) | **$36.4 billion** | Endowment value printed by the investment office | **11.0%** | 30 Jun 2025 | [PRINCO, Supporting the University](https://princo.princeton.edu/impact/supporting-the-university/) |
 | Notre Dame Endowment Pool | **$25,434,616 thousand** | NDEP assets. University endowment and FFE **$20,072,670 thousand** is a named sleeve, not the pool | **13.6%** Endowment Pool | 30 Jun 2025 | [FY2025 FS](https://treasury.nd.edu/assets/638748/fy25_financial_statements_11_14_25_for_upload_to_website_.pdf) / [FY2025 annual report](https://finance.nd.edu/assets/645415/annual_report_2025_web.pdf) — keeper [`/notre-dame-endowment/`](/notre-dame-endowment/) |
 | Columbia University endowment | **$15,917,490 thousand** | University endowment value. Endowment PDF **$15.9 billion** is the same card, rounded. Investments **$16,454,027 thousand** are not the endowment card | **12.4%** net on managed assets | 30 Jun 2025 | [FY2025 FS](https://www.finance.columbia.edu/sites/www.finance.columbia.edu/files/content/Finance%20Documents/Financial%20Reports/Columbia%20University%20FY25%20Financial%20Statements_signed%2010.23.2025.pdf) / [Endowment FY2025](https://endowment.giving.columbia.edu/wp-content/uploads/2025/12/Columbia-Endowment-FY2025.pdf) — keeper [`/columbia-endowment/`](/columbia-endowment/) |
+| Combined UC Endowment | **$31.1 billion** | GEP **$24.1 billion** plus Blue and Gold **$7 billion**. House **$198 billion** includes Retirement | **13%** combined net | 30 Jun 2025 | [2024–25 annual report](https://www.ucop.edu/investment-office/2024-25-annual-report.pdf) — keeper [`/uc-investments/`](/uc-investments/) |
+| Northwestern Long-Term Balanced Pool | **$15,263 million** | Pool value at fiscal year-end. GAAP endowment net assets **$11,686,235 thousand** are not the pool card | **11.3%** net for the twelve months ended 30 Jun 2025 | 31 Aug 2025 (pool); 30 Jun 2025 (return) | [2025 FS](https://www.northwestern.edu/financial-operations/annual-financial-reports/2025-financial-report.pdf) / [2025 endowment report](https://www.northwestern.edu/investment/reports/io_investmentreport2025_030526.pdf) — keeper [`/northwestern-endowment/`](/northwestern-endowment/) |
+| Duke University endowment | **$12,318,455 thousand** | Market value of endowment. Investments **$19,430,443 thousand** are not that card. The Duke Endowment is a different legal person | **9.0%** Long-Term Pool | 30 Jun 2025 | [2024–25 FS](https://resources.finance.duke.edu/resources/docs/Financial_Reports2024-25.pdf) — keeper [`/duke-university-endowment/`](/duke-university-endowment/) |
 
-Those two later official prints are not a ranking against Harvard, Yale, Stanford, or Princeton. Do **not** treat Stanford’s **$47.7 billion** Merged Pool as the endowment. The university said so: the pool also holds health-system capital reserves. The endowment disbursed **$1.9 billion** in fiscal 2025 (nearly double the **$1.1 billion** disbursed in 2015). Stanford expects **$2.0 billion** to flow from the investment portfolio to the operating budget in fiscal 2026. About **75%** of endowment payout is restricted. CEO of Stanford Management Company named on the release: **Robert Wallace**.
+Those later official prints are not a ranking against Harvard, Yale, Stanford, or Princeton. Do **not** treat Stanford’s **$47.7 billion** Merged Pool as the endowment. The university said so: the pool also holds health-system capital reserves. The endowment disbursed **$1.9 billion** in fiscal 2025 (nearly double the **$1.1 billion** disbursed in 2015). Stanford expects **$2.0 billion** to flow from the investment portfolio to the operating budget in fiscal 2026. About **75%** of endowment payout is restricted. CEO of Stanford Management Company named on the release: **Robert Wallace**.
 
 Yale’s CIO named on the 24 October 2025 release is **Matt Mendelsohn**. HMC’s own page and FY25 report are the **$56.9 billion / 11.9%** pair. Do not put the live page’s **$50 billion** back.
 
@@ -54,7 +57,7 @@ Princeton’s endowment provides **roughly two-thirds** of the university’s op
 - **NACUBO 2026** as if UAO had the study. We do not. Stanford cited a **preliminary** Cambridge Associates median of **10.9%** for the year — that is Stanford’s citation, not a licence to invent everyone else’s NAV.
 - Minting `/harvard-endowment-explained/`, `/stanford-endowment-explained/`, or a **2027** year-stamp. Category define stays on [`/endowment-model-explained/`](/endowment-model-explained/). Named Yale model stays on [`/yale-endowment-model/`](/yale-endowment-model/).
 
-Houses we will add when they print an official figure we can fetch: Penn, Michigan, Duke, Northwestern, Chicago, Washington. MIT, Texas (UTIMCO), Notre Dame, and Columbia now have keepers — do not estimate them here. Until the others print, they are absent, not estimated.
+Houses we will add when they print an official figure we can fetch: Penn, Michigan, Chicago, Washington. MIT, Texas (UTIMCO), Notre Dame, Columbia, UC Investments, Northwestern, and Duke University now have keepers — do not estimate them here. Until the others print, they are absent, not estimated.
 
 ## How a peer should read it
 
@@ -67,6 +70,9 @@ This is not a league table of “who won the endowment model.” It is official 
 - [UTIMCO](/utimco/)
 - [Notre Dame endowment](/notre-dame-endowment/)
 - [Columbia University endowment](/columbia-endowment/)
+- [UC Investments](/uc-investments/)
+- [Northwestern endowment](/northwestern-endowment/)
+- [Duke University endowment](/duke-university-endowment/)
 - [Yale endowment model](/yale-endowment-model/)
 - [Texas Permanent School Fund](/texas-permanent-school-fund-explained/)
 - [Universal owner](/universal-owner/)
@@ -82,5 +88,9 @@ This is not a league table of “who won the endowment model.” It is official 
 - University of Notre Dame, [FY2025 annual report](https://finance.nd.edu/assets/645415/annual_report_2025_web.pdf) — Endowment Pool 13.6%; payout $655 million
 - Columbia University, [FY2025 financial statements](https://www.finance.columbia.edu/sites/www.finance.columbia.edu/files/content/Finance%20Documents/Financial%20Reports/Columbia%20University%20FY25%20Financial%20Statements_signed%2010.23.2025.pdf) — endowment $15,917,490 thousand at 30 Jun 2025
 - Columbia University, [Endowment FY2025](https://endowment.giving.columbia.edu/wp-content/uploads/2025/12/Columbia-Endowment-FY2025.pdf) — $15.9 billion; 12.4% net; $664.1 million distributed
+- UC Investments, [2024–25 annual report](https://www.ucop.edu/investment-office/2024-25-annual-report.pdf) — Combined UC Endowment $31.1 billion; 13% net at 30 Jun 2025
+- Northwestern, [2025 financial report](https://www.northwestern.edu/financial-operations/annual-financial-reports/2025-financial-report.pdf) — Long-Term Balanced Pool $15,263 million at 31 Aug 2025
+- Northwestern, [2025 endowment report](https://www.northwestern.edu/investment/reports/io_investmentreport2025_030526.pdf) — 11.3% net to 30 Jun 2025; payout $777 million
+- Duke University, [2024–25 financial report](https://resources.finance.duke.edu/resources/docs/Financial_Reports2024-25.pdf) — endowment $12,318,455 thousand; LTP 9.0% at 30 Jun 2025
 
 Universal Asset Owners is a journalistic research desk. This page is information, not investment, legal, tax, or fiduciary advice.

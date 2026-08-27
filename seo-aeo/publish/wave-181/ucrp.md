@@ -27,13 +27,13 @@ The statements of net position, the GASB note, and the money-weighted print are 
 2. **GASB cards.** Notes UCRP total pension liability **$122,898,994 thousand**. Net pension liability **$12,172,025 thousand**. Plan net position as a percentage of total pension liability **90.1 percent**. Do not treat **$122,898,994 thousand** or **$12,172,025 thousand** as AUM. UC-VERIP GASB **644.5 percent** is not the UCRP card. Discount rate **6.75 percent**. The **6.75 percent** discount is not the money-weighted card. Prior-year UCRP GASB **84.9 percent** is the 2024 companion.
 3. **Returns and cash flow.** Notes and RSI annual money-weighted return **12.7 percent** net of investment expense for the year ended **30 June 2025** (2024 **12.9 percent**). Those official prints are the money-weighted card. MD&A **12.2 percent** is the FNP increase. PricewaterhouseCoopers LLP, San Francisco, California, dated the unmodified opinion **21 November 2025**.
 
-Do not flatten UCRP into leftover [CalPERS](/calpers-explained-largest-us-pension-fund/), leftover [CalSTRS](/calstrs-explained/), leftover [East Bay Municipal Utility District Employees’ Retirement System](/ebmud-ers/), leftover [Alameda County Employees’ Retirement Association](/acera/), leftover [Contra Costa County Employees’ Retirement Association](/cccera/). CalPERS is a statewide 1937 Act / PERF file. This is **one University of California defined-benefit file**.
+Do not flatten UCRP into leftover [CalPERS](/calpers-explained-largest-us-pension-fund/), leftover [CalSTRS](/calstrs-explained/), leftover [UC Investments](/uc-investments/), leftover [East Bay Municipal Utility District Employees’ Retirement System](/ebmud-ers/), leftover [Alameda County Employees’ Retirement Association](/acera/), leftover [Contra Costa County Employees’ Retirement Association](/cccera/). CalPERS is a statewide 1937 Act / PERF file. UC Investments is the endowment-office file. This is **one University of California defined-benefit file**.
 
 ## What an owner is actually buying
 
 Counsel selling “UC pension AUM” has to name the book. The **$110,808,448 thousand** line is Defined Benefit Plans net position at **30 June 2025**. The **$44,121,337 thousand** line is UCRSP. The **12.7 percent** card is money-weighted. The **90.1 percent** card is UCRP GASB. Those are not leftover CalPERS **$637.1 billion**.
 
-Do not 301 this page onto `/calpers-explained-largest-us-pension-fund/`, `/calstrs-explained/`, `/ucrs/`, `/ers/`, `/ebmud-ers/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/calpers-explained-largest-us-pension-fund/`, `/calstrs-explained/`, `/uc-investments/`, `/ucrs/`, `/ers/`, `/ebmud-ers/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -48,6 +48,7 @@ Do not 301 this page onto `/calpers-explained-largest-us-pension-fund/`, `/calst
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [CalPERS](/calpers-explained-largest-us-pension-fund/)
 - [CalSTRS](/calstrs-explained/)
+- [UC Investments](/uc-investments/)
 - [East Bay Municipal Utility District Employees’ Retirement System](/ebmud-ers/)
 - [Alameda County Employees’ Retirement Association](/acera/)
 - [Contra Costa County Employees’ Retirement Association](/cccera/)

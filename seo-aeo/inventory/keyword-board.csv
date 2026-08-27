@@ -838,3 +838,8 @@ P1,Montana Teachers Retirement System,allocator,both,/montana-trs/,define,unknow
 P1,GEPF,allocator,both,/gepf/,define,unknown,unknown,unknown,drafted-wave-192,Wave 192. Official funds and reserves R2,651,120,439 thousand at 31 Mar 2025. Print rand. Do not mint /pic/
 P1,Notre Dame endowment,allocator,both,/notre-dame-endowment/,define,unknown,unknown,unknown,drafted-wave-192,Wave 192. Official NDEP $25,434,616 thousand at 30 Jun 2025. Do not mint /ndep/
 P1,Columbia University endowment,allocator,both,/columbia-endowment/,define,unknown,unknown,unknown,drafted-wave-192,Wave 192. Official endowment $15,917,490 thousand at 30 Jun 2025. Do not mint /columbia/
+P1,Public Investment Corporation,allocator,both,/pic-south-africa/,define,unknown,unknown,unknown,drafted-wave-193,Wave 193. Official AuM R3.049 trillion at 31 Mar 2025. Print rand. Do not mint /pic/. Not leftover GEPF
+P1,Lehigh County Employees Retirement Plan,allocator,both,/lehigh-county-employees/,define,unknown,unknown,unknown,drafted-wave-193,Wave 193. Official FNP $695,138,262 at 31 Dec 2025. Do not mint /lehigh/. Not leftover Pennsylvania SERS
+P1,Northwestern endowment,allocator,both,/northwestern-endowment/,define,unknown,unknown,unknown,drafted-wave-193,Wave 193. Official Long-Term Balanced Pool $15,263 million at 31 Aug 2025. Do not mint /northwestern/
+P1,UC Investments,allocator,both,/uc-investments/,define,unknown,unknown,unknown,drafted-wave-193,Wave 193. Official Combined UC Endowment $31.1 billion at 30 Jun 2025. Do not mint /uc/. Not leftover UCRP
+P1,Duke University endowment,allocator,both,/duke-university-endowment/,define,unknown,unknown,unknown,drafted-wave-193,Wave 193. Official endowment $12,318,455 thousand at 30 Jun 2025. Do not mint /duke/. Not The Duke Endowment

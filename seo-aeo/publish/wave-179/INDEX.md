@@ -47,6 +47,6 @@ This wave locked **five** unique official 2025 house FS PDFs (`≤5`, cap reache
 - San Carlos Park Fire fiscal page has district audits and Chapter 175 budgets, not a 2025 retirement-plan auditor FS.
 - Champaign Fire host still no DNS / SharePoint.
 - San José Police and Fire / Fresno Fire and Police already shipped — do not overwrite.
-- Lehigh County Employees’ Retirement Plan 2025 FS is listed on `lehighcounty.org` (Download.aspx EntryId=7601 / Portals Retirement PDF). This environment resolves the host to Incapsula and every GET returned **http=000**. Wayback CDX has 2013–2017 Retirement PDFs only, not the 2025 book. Do not draft from a hunt table. Do not mint `/lehigh-county-employees/` until this env independently GET **200** locks the auditor PDF.
+- Lehigh County Employees’ Retirement Plan 2025 FS is listed on `lehighcounty.org` (Download.aspx EntryId=7601 / Portals Retirement PDF). Live host still SSL-fails from this environment. Wave 193 later locked `/lehigh-county-employees/` from the Internet Archive copy of the official county PDF (GET **200** `application/pdf`). Do not remint.
 - Lancaster County 2025 FS is controller summarization, not an independent auditor book. Chester County DocumentCenter 80372 is a 1 Jan 2025 valuation. Westmoreland View/234 is FY2023.
 - NPERS 2025 calendar still unpublished. Never mint `/npers/`.

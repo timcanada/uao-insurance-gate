@@ -24,16 +24,16 @@ The Government Employees Pension Fund is South Africa’s public-service pension
 The statement of net assets and funds is in **R’000**.
 
 1. **Total funds and reserves** **R2,651,120,439 thousand** at **31 March 2025**. Accumulated funds **R2,645,163,246 thousand**. Reserve accounts **R5,957,193 thousand**. Those three lines are not interchangeable. Investments **R2,655,689,573 thousand** are not funds and reserves. Total assets **R2,708,430,961 thousand** are not funds and reserves. Narrative **R2.65 trillion** is the funds-and-reserves line, rounded. Narrative **R2.69 trillion** is the total-assets line, rounded. Do not treat leftover USS **£76.8bn**, leftover PFZW **€35bn**, leftover CIC **$1.3T**, leftover Alaska **$89bn**, leftover GPIF **15.83%**, leftover NYSCRF **$226.8 billion**, leftover MassPRIM **$73 billion** as this filing. Do not convert these rand lines into a homemade US-dollar AUM.
-2. **Named books are not interchangeable.** The Public Investment Corporation administers the majority of the investments. That is a different legal person. Do not flatten GEPF into a minted PIC page.
+2. **Named books are not interchangeable.** The Public Investment Corporation administers the majority of the investments. That is a different legal person. The PIC keeper is now [Public Investment Corporation](/pic-south-africa/). Do not flatten GEPF into leftover PIC AuM **R3.049 trillion**.
 3. **Returns and funding.** Official investment return **14.1 percent** for 2024/25, based on net investment income of **R379 billion** (2024: **R116 billion**; 2023/24 return **4.9 percent**). The **119 percent** funding level is the **31 March 2024** statutory valuation. “No statutory actuarial valuation will be conducted for 31 March 2025.” Do not treat **119 percent** as a 2025 funded card. BDO South Africa Incorporated, Wanderers Office Park, 52 Corlett Drive, Illovo, **30 September 2025**.
 
-Do not flatten GEPF into leftover [USS](/uss-universities-superannuation-scheme/), leftover [PFZW](/pfzw-netherlands-pension-fund-explained/), leftover [ATP](/atp-denmark-pension-fund/), leftover [New York State Teachers’ Retirement System](/nystrs/), or leftover [New Mexico PERA](/new-mexico-pera/). USS is a UK book. PFZW is a Dutch book. This is **one South African public-service pension file**.
+Do not flatten GEPF into leftover [Public Investment Corporation](/pic-south-africa/), leftover [USS](/uss-universities-superannuation-scheme/), leftover [PFZW](/pfzw-netherlands-pension-fund-explained/), leftover [ATP](/atp-denmark-pension-fund/), leftover [New York State Teachers’ Retirement System](/nystrs/), or leftover [New Mexico PERA](/new-mexico-pera/). PIC is the manager file. USS is a UK book. PFZW is a Dutch book. This is **one South African public-service pension file**.
 
 ## What an owner is actually buying
 
 Counsel selling “GEPF AUM” has to name the book and the currency. The **R2,651,120,439 thousand** line is total funds and reserves at **31 March 2025**. The **R2,708,430,961 thousand** line is total assets. The **14.1 percent** card is the official investment return. Those are not leftover PIC and not a dollarized homemade AUM.
 
-Do not 301 this page onto `/uss-universities-superannuation-scheme/`, `/pfzw-netherlands-pension-fund-explained/`, `/pic/`, `/gepf-south-africa/`, or `/largest-pension-funds-in-the-world/`.
+Do not 301 this page onto `/pic-south-africa/`, `/uss-universities-superannuation-scheme/`, `/pfzw-netherlands-pension-fund-explained/`, `/pic/`, `/gepf-south-africa/`, or `/largest-pension-funds-in-the-world/`.
 
 ## Where Universal Asset Owners sits
 
@@ -46,6 +46,7 @@ Do not 301 this page onto `/uss-universities-superannuation-scheme/`, `/pfzw-net
 - [What is a pension fund?](/what-is-a-pension-fund/)
 - [Public pension funds](/public-pension-funds/)
 - [Largest pension funds](/largest-pension-funds-in-the-world/)
+- [Public Investment Corporation](/pic-south-africa/)
 - [USS](/uss-universities-superannuation-scheme/)
 - [PFZW](/pfzw-netherlands-pension-fund-explained/)
 - [Advertise](/advertise/)

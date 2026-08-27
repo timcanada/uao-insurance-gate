@@ -46,6 +46,7 @@ Do not 301 this page onto `/caltech-endowment/`, `/mit-investment-management-com
 - [The endowment model, explained](/endowment-model-explained/)
 - [Caltech endowment](/caltech-endowment/)
 - [Case Western Reserve University endowment](/case-western-reserve-endowment/)
+- [University of Pittsburgh endowment](/university-of-pittsburgh-endowment/)
 - [MITIMCo](/mit-investment-management-company/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

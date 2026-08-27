@@ -46,6 +46,7 @@ Do not 301 this page onto `/rice-endowment/`, `/utimco/`, `/baylor/`, or `/large
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Rice University endowment](/rice-endowment/)
+- [TCU endowment](/tcu-endowment/)
 - [UTIMCO](/utimco/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

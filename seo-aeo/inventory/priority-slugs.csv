@@ -958,7 +958,7 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 193,institution,lehigh-county-employees,Lehigh County Employees Retirement Plan,allocator,brief,P0,drafted-in-repo,Wave 193. Official FNP $695,138,262 at 31 Dec 2025. Do not mint /lehigh/. Not leftover Pennsylvania SERS
 2,institution,lehigh-county-employees-explained,Lehigh County explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 193 /lehigh-county-employees/
 2,institution,lehigh-county,Lehigh County (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 193 /lehigh-county-employees/
-2,institution,lehigh,Lehigh (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 193 /lehigh-county-employees/
+2,institution,lehigh,Lehigh (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 193 /lehigh-county-employees/ and Wave 201 /lehigh-university-endowment/
 2,institution,pic-south-africa-explained,PIC South Africa explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 193 /pic-south-africa/
 2,institution,public-investment-corporation,Public Investment Corporation (long),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 193 /pic-south-africa/
 2,institution,northwestern-endowment-explained,Northwestern endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 193 /northwestern-endowment/
@@ -1125,6 +1125,23 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 200,institution,university-of-miami-endowment,University of Miami endowment,allocator,brief,P0,drafted-in-repo,Wave 200. Official endowment net assets $1,712.8 million at 31 May 2025. Not leftover Miami Fire and Police. Do not mint /miami/
 2,institution,university-of-miami-endowment-explained,University of Miami endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 200 /university-of-miami-endowment/
 2,institution,miami,Miami (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 200 /university-of-miami-endowment/. Also collides with leftover Miami Fire and Police
+201,institution,university-of-pittsburgh-endowment,University of Pittsburgh endowment,allocator,brief,P0,drafted-in-repo,Wave 201. Official endowment net assets $6,188,828 thousand at 30 Jun 2025. Endowment investments $6,190,253 thousand are a different line. Do not mint /pitt/ /pittsburgh/ /upitt/
+2,institution,university-of-pittsburgh-endowment-explained,Pitt endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 201 /university-of-pittsburgh-endowment/
+2,institution,pitt,Pitt (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 201 /university-of-pittsburgh-endowment/
+2,institution,pittsburgh,Pittsburgh (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 201 /university-of-pittsburgh-endowment/. Also collides with leftover Pittsburgh city pensions
+2,institution,upitt,UPitt (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 201 /university-of-pittsburgh-endowment/
+201,institution,tcu-endowment,Texas Christian University endowment,allocator,brief,P0,drafted-in-repo,Wave 201. Official endowment net assets $2,752,749 thousand at 31 May 2025. Narrative 5.2% is asset growth. Do not mint /tcu/ /texas-christian/
+2,institution,tcu-endowment-explained,TCU endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 201 /tcu-endowment/
+2,institution,tcu,TCU (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 201 /tcu-endowment/
+2,institution,texas-christian,Texas Christian (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 201 /tcu-endowment/
+201,institution,villanova-endowment,Villanova University endowment,allocator,brief,P0,drafted-in-repo,Wave 201. Official endowment net assets $1,414,930 thousand at 31 May 2025. University-wide return $106,936 thousand is a different line. Do not mint /villanova/
+2,institution,villanova-endowment-explained,Villanova endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 201 /villanova-endowment/
+2,institution,villanova,Villanova (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 201 /villanova-endowment/
+201,institution,lehigh-university-endowment,Lehigh University endowment,allocator,brief,P0,drafted-in-repo,Wave 201. Official endowment net assets $1,950,357 thousand at 30 Jun 2025. Investment-office $2.3 billion is a wider book. Do not mint /lehigh/
+2,institution,lehigh-university-endowment-explained,Lehigh University endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 201 /lehigh-university-endowment/
+201,institution,fordham-endowment,Fordham University endowment,allocator,brief,P0,drafted-in-repo,Wave 201. Official house endowment total $1,054,037 thousand at 30 Jun 2025. Unitized $959,551 thousand. Working capital is a different sleeve. Do not mint /fordham/
+2,institution,fordham-endowment-explained,Fordham endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 201 /fordham-endowment/
+2,institution,fordham,Fordham (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 201 /fordham-endowment/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

@@ -45,6 +45,7 @@ Do not 301 this page onto `/pennsylvania-sers/`, `/notre-dame-endowment/`, `/pen
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Notre Dame endowment](/notre-dame-endowment/)
+- [Villanova University endowment](/villanova-endowment/)
 - [Columbia University endowment](/columbia-endowment/)
 - [Pennsylvania SERS](/pennsylvania-sers/)
 - [Johns Hopkins University endowment](/johns-hopkins-endowment/)

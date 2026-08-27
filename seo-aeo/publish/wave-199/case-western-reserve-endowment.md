@@ -46,6 +46,7 @@ Do not 301 this page onto `/carnegie-mellon-endowment/`, `/northwestern-endowmen
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Carnegie Mellon University endowment](/carnegie-mellon-endowment/)
+- [Lehigh University endowment](/lehigh-university-endowment/)
 - [Northwestern endowment](/northwestern-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

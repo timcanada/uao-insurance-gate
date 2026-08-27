@@ -45,6 +45,7 @@ Do not 301 this page onto `/columbia-endowment/`, `/university-of-pennsylvania-e
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Columbia University endowment](/columbia-endowment/)
+- [Fordham University endowment](/fordham-endowment/)
 - [University of Pennsylvania endowment](/university-of-pennsylvania-endowment/)
 - [Johns Hopkins University endowment](/johns-hopkins-endowment/)
 - [Boston University endowment](/boston-university-endowment/)

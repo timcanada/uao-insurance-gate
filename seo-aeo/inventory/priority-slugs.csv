@@ -361,6 +361,16 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,dpfrs,Detroit Police and Fire (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 131 /detroit-police-fire/
 131,institution,detroit-grs,General Retirement System of the City of Detroit,allocator,brief,P0,drafted-in-repo,Wave 131. Official pension FNP $1,770,424,254 at 30 Jun 2025. Do not mint /dgrs/ or /rscd/
 2,institution,dgrs,Detroit General (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 131 /detroit-grs/
+132,institution,tampa-fire-police,City Pension Fund for Firefighters and Police Officers in the City of Tampa,allocator,brief,P0,drafted-in-repo,Wave 132. Official FNP $3,407,822,026 at 30 Sep 2025. Do not mint /tampa-fp/ or /tfp/
+2,institution,tampa-fp,Tampa Fire and Police (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 132 /tampa-fire-police/
+132,institution,tampa-general-employees,City of Tampa General Employees’ Retirement Fund,allocator,brief,P0,drafted-in-repo,Wave 132. Official FNP $929,228,201 at 30 Sep 2025. Do not mint /tampa-gerf/ or /gerf/
+2,institution,tampa-gerf,Tampa General Employees (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 132 /tampa-general-employees/
+132,institution,charlotte-firefighters,Charlotte Firefighters’ Retirement System,allocator,brief,P0,drafted-in-repo,Wave 132. Official FNP $712,325 thousand at 30 Jun 2025. Do not mint /charlotte-frs/ or /cfrs/
+2,institution,charlotte-frs,Charlotte Firefighters (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 132 /charlotte-firefighters/. /cfrs/ is also a Fresno collision
+132,institution,oakland-police-fire,Oakland Police and Fire Retirement System,allocator,brief,P0,drafted-in-repo,Wave 132. Official FNP $476,653,059 at 30 Jun 2025. Do not mint /oakland-pfrs/ or /pfrs/
+2,institution,oakland-pfrs,Oakland Police and Fire (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 132 /oakland-police-fire/
+132,institution,st-louis-firemen,Firemen’s Retirement System of St. Louis,allocator,brief,P0,drafted-in-repo,Wave 132. Official FNP $446,256,821 at 30 Sep 2025. Do not mint /st-louis-frs/ or /frs-stl/
+2,institution,st-louis-frs,St. Louis Firemen (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 132 /st-louis-firemen/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

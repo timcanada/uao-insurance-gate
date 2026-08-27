@@ -17,7 +17,7 @@ editor_status: draft
 
 City of Fresno Fire and Police Retirement System is Fresno’s sworn fire-and-police pension, not leftover Fresno County Employees’ Retirement Association and not leftover City of Fresno Employees Retirement System. The official [FY2025 Annual Comprehensive Financial Report](https://www.cfrs-ca.org/Resources/703c3036-c8f6-4b1a-b67b-6971d2a6e2b9/FY%202025%20-%20ACFR.pdf) prints net position restricted for pension benefits of **$2,395,605,595** at **30 June 2025**. Statement investments at fair value were **$2,393,817,429**. Those two lines are not interchangeable. Time-weighted return was **11.08 percent** gross and **10.93 percent** net. Money-weighted return was **10.92 percent** net of investment expense. Fiduciary net position was **114.05 percent** of total pension liability. Actuarial funded **116.2 percent** is not the GASB card. This page is not a ranking and not advice.
 
-**Do not treat this page as a leftover FCERA overwrite or a leftover Fresno City Employees overwrite.** Do not mint `/cfrs/` or `/fresno-fp/`. The house **$2.396 billion** card is not the statement **$2,395,605,595** line. The combined City of Fresno Retirement Systems portfolio table **$4,317,906,747** is not this book.
+**Do not treat this page as a leftover FCERA overwrite or a leftover Fresno City Employees overwrite.** Do not mint `/cfrs/` or `/fresno-fp/`. `/cfrs/` is also a Charlotte Firefighters collision. The house **$2.396 billion** card is not the statement **$2,395,605,595** line. The combined City of Fresno Retirement Systems portfolio table **$4,317,906,747** is not this book.
 
 ## What is official (30 June 2025)
 
@@ -51,5 +51,6 @@ Do not 301 this page onto `/fcera/`, `/fresno-city-employees/`, `/lafpp/`, `/san
 - [Los Angeles Fire and Police Pensions](/lafpp/)
 - [San José Police and Fire](/san-jose-police-fire/)
 - [Sacramento City Employees](/sacramento-city-employees/)
+- [Charlotte Firefighters’ Retirement System](/charlotte-firefighters/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

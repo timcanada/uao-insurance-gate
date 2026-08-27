@@ -17,7 +17,7 @@ editor_status: draft
 
 Employees Retirement System of the City of St. Louis is St. Louis’s civilian city pension, not leftover MOSERS, leftover Illinois IMRF, leftover Cook County Pension, leftover Chicago LABF, leftover Denver Employees, leftover Maryland SRPS, leftover Pennsylvania SERS, and not leftover PSERS. The official [30 September 2025 financial statements](https://www.stlouis-mo.gov/government/departments/employee-retirement/documents/upload/Revised-Williams-Keepers-Financial-Statements-3-6-2026.pdf) print net position restricted for pension benefits of **$937,329,534**. Statement total investments were **$935,914,715**. Those two lines are not interchangeable. Money-weighted return was **9.8 percent** net of pension-plan investment expenses. Fiduciary net position was **79.13 percent** of total pension liability. Actuarial funded **76.1 percent** at **1 October** is not the GASB card. This page is not a ranking and not advice.
 
-**Do not treat this page as a leftover MOSERS overwrite.** Do not mint `/stlers/` or `/st-louis-employees/`. Year-end is **30 September 2025**, not 30 June. The MD&A **$938.3 million** total-assets card is not fiduciary net position.
+**Do not treat this page as a leftover MOSERS overwrite.** Do not mint `/stlers/` or `/st-louis-employees/`. Year-end is **30 September 2025**, not 30 June. The MD&A **$938.3 million** total-assets card is not fiduciary net position. Do not flatten this civilian file onto [Firemen’s Retirement System of St. Louis](/st-louis-firemen/).
 
 ## What is official (30 September 2025)
 
@@ -51,5 +51,6 @@ Do not 301 this page onto `/missouri-mosers/`, `/illinois-imrf/`, `/cook-county-
 - [Cook County Pension Fund](/cook-county-pension/)
 - [Chicago LABF](/chicago-labf/)
 - [Denver Employees](/denver-employees/)
+- [Firemen’s Retirement System of St. Louis](/st-louis-firemen/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

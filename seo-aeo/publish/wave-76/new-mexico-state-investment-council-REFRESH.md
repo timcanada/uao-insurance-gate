@@ -44,6 +44,8 @@ The North Dakota job sits on [`/north-dakota-legacy-fund/`](/north-dakota-legacy
 - [North Dakota Legacy Fund](/north-dakota-legacy-fund/)
 - [Alaska Permanent Fund](/alaska-permanent-fund-corporation-explained/)
 - [Texas Permanent School Fund](/texas-permanent-school-fund-explained/)
+- [New Mexico Educational Retirement Board](/new-mexico-erb/)
+- [New Mexico PERA](/new-mexico-pera/)
 - [Sovereign wealth fund](/sovereign-wealth-fund/)
 - [How sovereign wealth fund AUM is estimated](/how-sovereign-wealth-fund-aum-is-estimated/)
 

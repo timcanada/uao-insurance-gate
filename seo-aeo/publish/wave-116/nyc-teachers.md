@@ -27,13 +27,13 @@ The combining statements of fiduciary net position are the sourced line (in thou
 2. **Named books are not interchangeable.** The QPP is a cost-sharing, multiple-employer defined-benefit pension plan. The TDA Program is a voluntary Internal Revenue Code section 403(b) defined-contribution savings option. QPP fiduciary net position as a percentage of total pension liability **90.4 percent**. That funded card is the QPP book, not the TDA Program.
 3. **Returns.** Pension Fund time-weighted return **10.86 percent** net of advisory expenses. Annual money-weighted return on the TRSNYC Pension Fund **10.85 percent**. Those two official one-year prints are not interchangeable. Variable-return funds print their own net-of-fees cards and are not the Pension Fund.
 
-Do not flatten New York City Teachers into [Texas TRS](/texas-teacher-retirement-system-explained/), [Georgia TRS](/georgia-trs/), or [New York City Retirement Systems](/new-york-city-crs/). The Comptroller’s FY2026 **$326.3 billion** card is a five-system combined print at **30 June 2026**. This page is the house **30 June 2025** ACFR. Those vintages are not interchangeable.
+Do not flatten New York City Teachers into [New York State Teachers’ Retirement System](/nystrs/), [Texas TRS](/texas-teacher-retirement-system-explained/), [Georgia TRS](/georgia-trs/), or [New York City Retirement Systems](/new-york-city-crs/). The Comptroller’s FY2026 **$326.3 billion** card is a five-system combined print at **30 June 2026**. This page is the house **30 June 2025** ACFR. Those vintages are not interchangeable.
 
 ## What an owner is actually buying
 
 Counsel selling “NYC Teachers AUM” has to name the book. The **$134,906,818 thousand** line is the combined QPP and TDA book. The **$82,055,896 thousand** line is the QPP. The **$52,850,922 thousand** line is the TDA Program. Those are not the same mandate.
 
-Do not 301 this page onto `/texas-teacher-retirement-system-explained/`, `/georgia-trs/`, `/new-york-city-crs/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/nystrs/`, `/texas-teacher-retirement-system-explained/`, `/georgia-trs/`, `/new-york-city-crs/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -51,6 +51,7 @@ Do not 301 this page onto `/texas-teacher-retirement-system-explained/`, `/georg
 - [New York City Police](/nyc-police/)
 - [New York City Fire](/nyc-fire/)
 - [New York City Retirement Systems](/new-york-city-crs/)
+- [New York State Teachers’ Retirement System](/nystrs/)
 - [New York State Common Retirement Fund](/new-york-state-common-retirement-fund-explained/)
 - [Georgia TRS](/georgia-trs/)
 - [Advertise](/advertise/)

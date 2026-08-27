@@ -928,6 +928,15 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,michigan-mmrp,Michigan MMRP (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 190 /michigan-military/
 2,institution,mmrp,MMRP (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 190 /michigan-military/
 2,institution,mrp,MRP (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 190 /michigan-military/
+191,institution,nystrs,New York State Teachers Retirement System,allocator,brief,P0,drafted-in-repo,Wave 191. Official FNP $154,193,125 thousand at 30 Jun 2025. Do not mint /trs/ or /nystrs-explained/. Not leftover NYC Teachers
+2,institution,nystrs-explained,NYSTRS explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 191 /nystrs/
+2,institution,new-york-state-teachers,New York State Teachers (long),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 191 /nystrs/
+2,institution,nys-trs,NYS TRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 191 /nystrs/
+2,institution,new-york-teachers,New York Teachers (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 191 /nystrs/. /nyc-teachers/ remains the City file
+2,institution,trs,TRS (short),allocator,brief,P0,do-not-mint,Do not mint. Flattens NYSTRS onto leftover Texas TRS / Georgia TRS / Ohio STRS
+191,institution,new-mexico-pera,New Mexico PERA,allocator,brief,P0,drafted-in-repo,Wave 191. Official PERA Fund FNP $18,630,230,548 at 30 Jun 2025. Do not mint /pera/ or /nmpera/. Not leftover New Mexico ERB
+2,institution,new-mexico-pera-explained,New Mexico PERA explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 191 /new-mexico-pera/
+2,institution,nmpera,NMPERA (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 191 /new-mexico-pera/. /pera/ remains Colorado PERA
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

@@ -28,13 +28,13 @@ The statement of fiduciary net position is the sourced line (in thousands):
 2. **GASB funded cards.** Total pension liability **$5,209,416 thousand**. Net pension liability **$1,296,292 thousand**. Fiduciary net position / total pension liability **75.12 percent**. The discount-rate sensitivity table reprints the same **$5,209,416 thousand** total pension liability at the **7.00 percent** assumed rate; the **$5,824,031 thousand** and **$4,693,588 thousand** columns are not the primary GASB card. Those prints are not interchangeable.
 3. **Returns and actuarial card.** Fair-value investment return **8.6 percent** (2024 **7.30 percent**). Money-weighted return **8.6 percent** net of investment expense (RSI **8.60 percent**). Those two official one-year prints are the same house rate, not two different performances. Actuarial funded **74.65 percent** on the smoothed actuarial value of assets is not the GASB **75.12 percent** card. Do not treat leftover valuation market-value **$3,913,123,278** as the statement fiduciary line.
 
-Do not flatten Phoenix COPERS into [Arizona PSPRS](/arizona-psprs/), leftover Arizona State Retirement System, [Nevada PERS](/nevada-pers/), or [CalPERS](/calpers-explained-largest-us-pension-fund/). Arizona PSPRS is the public-safety administrator file. Arizona State Retirement System is a different legal person. This is **one Phoenix civilian employee file**.
+Do not flatten Phoenix COPERS into [Arizona PSPRS](/arizona-psprs/), leftover Arizona State Retirement System, [Nevada PERS](/nevada-pers/), [CalPERS](/calpers-explained-largest-us-pension-fund/), or [Denver Employees](/denver-employees/). Arizona PSPRS is the public-safety administrator file. Arizona State Retirement System is a different legal person. Denver Employees is a different legal person. This is **one Phoenix civilian employee file**.
 
 ## What an owner is actually buying
 
 Counsel selling “COPERS AUM” has to name the book. The **$3,913,124 thousand** line is fiduciary net position restricted for pensions. The **$3,818,481 thousand** line is investments at fair value. The **74.65 percent** card is the smoothed actuarial funded print, not the GASB **75.12 percent** card.
 
-Do not 301 this page onto `/arizona-psprs/`, leftover Arizona State Retirement System, `/nevada-pers/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/arizona-psprs/`, leftover Arizona State Retirement System, `/nevada-pers/`, `/denver-employees/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -50,5 +50,6 @@ Do not 301 this page onto `/arizona-psprs/`, leftover Arizona State Retirement S
 - [Arizona PSPRS](/arizona-psprs/)
 - [Nevada PERS](/nevada-pers/)
 - [CalPERS](/calpers-explained-largest-us-pension-fund/)
+- [Denver Employees](/denver-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

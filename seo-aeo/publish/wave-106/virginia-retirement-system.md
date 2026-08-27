@@ -30,13 +30,13 @@ The statements are in thousands. The FY2025 ACFR is the sourced split:
 
 Named pension books on the same file are not a second AUM: VRS plan **$114,401,121 thousand**; SPORS **$1,254,189 thousand**; VaLORS **$2,244,828 thousand**; JRS **$765,921 thousand**. Those four sit inside the System. Do not stack them on top of the **$124.0 billion** total.
 
-Do not flatten VRS into [PRIM](/massachusetts-prim/) or [OPERS](/ohio-opers/). PRIM is one Massachusetts PRIT file. OPERS is one Ohio calendar-year file. This is **one Virginia System file**.
+Do not flatten VRS into [PRIM](/massachusetts-prim/), [OPERS](/ohio-opers/), or [Fairfax ERS](/fairfax-ers/). PRIM is one Massachusetts PRIT file. OPERS is one Ohio calendar-year file. Fairfax ERS is one Fairfax County civilian file. This is **one Virginia System file**.
 
 ## What an owner is actually buying
 
 Counsel selling “VRS AUM” has to name the line. **$128.6 billion** is the managed investment portfolio. **$124.0 billion** is net position restricted for benefits. Those are not the same number.
 
-Do not 301 this page onto `/massachusetts-prim/`, `/calpers-explained-largest-us-pension-fund/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/massachusetts-prim/`, `/calpers-explained-largest-us-pension-fund/`, `/fairfax-ers/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -56,6 +56,7 @@ Do not 301 this page onto `/massachusetts-prim/`, `/calpers-explained-largest-us
 - [Illinois TRS](/illinois-trs/)
 - [Oregon PERS](/oregon-pers/)
 - [Maryland SRPS](/maryland-srps/)
+- [Fairfax ERS](/fairfax-ers/)
 - [TCRS](/tennessee-tcrs/)
 - [South Carolina Retirement Systems](/south-carolina-retirement-systems/)
 - [Advertise](/advertise/)

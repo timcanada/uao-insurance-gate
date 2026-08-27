@@ -51,5 +51,6 @@ Do not 301 this page onto `/houston-hfrrf/`, `/houston-hpops/`, `/san-jose-polic
 - [San José Police and Fire](/san-jose-police-fire/)
 - [San Antonio Fire and Police](/san-antonio-fire-police/)
 - [Los Angeles Fire and Police Pensions](/lafpp/)
+- [Dallas Police and Fire](/dallas-police-fire/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

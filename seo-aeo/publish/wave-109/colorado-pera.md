@@ -28,13 +28,13 @@ The combining statement is the sourced split (dollar amounts in thousands unless
 2. **Named books on the same report.** Combined Investment Fund **$75.1 billion**. Capital Accumulation Plans **$7.6 billion**. GASB Division Trust Fund fiduciary net position **$73,775,340 thousand**. Those three lines are not interchangeable. Do not add the Combined Investment Fund to the Capital Accumulation Plans a second time and call the sum a second AUM.
 3. **Returns, funding, and net pension liability.** Combined Investment Fund time-weighted return **14.1 percent** net of external management and custody fees. Three-, five-, ten-, and thirty-year net returns **12.7 percent**, **7.6 percent**, **9.5 percent**, and **8.1 percent**. Funding-valuation funded ratio for the five defined-benefit pension trust funds **69.1 percent**. Unfunded actuarial accrued liability **$30.1 billion**. GASB net pension liability **$24.2 billion**. Those funding and GASB lines are not interchangeable.
 
-Do not flatten Colorado PERA into [CalPERS](/calpers-explained-largest-us-pension-fund/), [Illinois ISBI](/illinois-isbi/), or [Minnesota PERA](/minnesota-pera/). CalPERS is California. ISBI is an Illinois investment pool. Minnesota PERA is a different legal person. This is **one Colorado public-employee file**.
+Do not flatten Colorado PERA into [CalPERS](/calpers-explained-largest-us-pension-fund/), [Illinois ISBI](/illinois-isbi/), [Minnesota PERA](/minnesota-pera/), or [Denver Employees](/denver-employees/). CalPERS is California. ISBI is an Illinois investment pool. Minnesota PERA is a different legal person. Denver Employees is the Denver civilian city file. This is **one Colorado public-employee file**.
 
 ## What an owner is actually buying
 
 Counsel selling “Colorado pension AUM” has to name the book. The **$83.0 billion** line is Combined fiduciary net position. The **$75.1 billion** line is the Combined Investment Fund. The **$7.6 billion** line is the Capital Accumulation Plans. Those are not the same mandate.
 
-Do not 301 this page onto `/calpers-explained-largest-us-pension-fund/`, `/minnesota-pera/`, `/largest-us-public-pension-funds/`, or `/portfolio-rebalancing-institutional/`.
+Do not 301 this page onto `/calpers-explained-largest-us-pension-fund/`, `/minnesota-pera/`, `/denver-employees/`, `/largest-us-public-pension-funds/`, or `/portfolio-rebalancing-institutional/`.
 
 ## Where Universal Asset Owners sits
 
@@ -52,5 +52,6 @@ Do not 301 this page onto `/calpers-explained-largest-us-pension-fund/`, `/minne
 - [Nevada PERS](/nevada-pers/)
 - [Utah Retirement Systems](/utah-retirement-systems/)
 - [Minnesota PERA](/minnesota-pera/)
+- [Denver Employees](/denver-employees/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

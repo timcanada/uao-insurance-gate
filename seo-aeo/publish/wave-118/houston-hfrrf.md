@@ -51,6 +51,7 @@ Do not 301 this page onto `/houston-hmeps/`, `/houston-hpops/`, `/san-jose-polic
 - [San Antonio Fire and Police](/san-antonio-fire-police/)
 - [Los Angeles Fire and Police Pensions](/lafpp/)
 - [Jacksonville Police and Fire](/jacksonville-police-fire/)
+- [Dallas Police and Fire](/dallas-police-fire/)
 - [Texas TRS](/texas-teacher-retirement-system-explained/)
 - [Texas ERS](/texas-ers/)
 - [Illinois FPIF](/illinois-fpif/)

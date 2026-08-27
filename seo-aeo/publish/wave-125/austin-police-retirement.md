@@ -51,5 +51,6 @@ Do not 301 this page onto `/coaers/`, `/texas-ers/`, `/texas-tmrs/`, `/houston-h
 - [Texas ERS](/texas-ers/)
 - [Texas Municipal Retirement System](/texas-tmrs/)
 - [Houston Police](/houston-hpops/)
+- [Dallas Police and Fire](/dallas-police-fire/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -27,13 +27,13 @@ The statement of fiduciary net position is the sourced line:
 2. **Cash flows on the same report.** Total additions **$2,688,846,910**. Net investment income **$1,407,616,612**. Pension benefits **$1,635,428,644**. Total pension liability **$28,626,660,359**.
 3. **Returns and funded status.** Time-weighted return **12.1 percent**. Gross money-weighted return **12.05 percent**. Annual money-weighted return, net of investment expenses, **11.63 percent**. Those three official one-year prints are not interchangeable. Actuarial-value funded ratio **47.9 percent**. Plan fiduciary net position as a percentage of total pension liability **47.71 percent**. Those two funded cards are not interchangeable.
 
-Do not flatten Chicago Teachers into [Illinois TRS](/illinois-trs/), [Illinois State Board of Investment](/illinois-isbi/), [IMRF](/illinois-imrf/), [Cook County Pension](/cook-county-pension/), or [Chicago Fire FABF](/chicago-fire-fabf/). Illinois TRS is the statewide teacher file. IMRF is the local-government file. Cook County is the county employee file. FABF is the Chicago fire file. This is **one Chicago teacher-pension file**.
+Do not flatten Chicago Teachers into [Illinois TRS](/illinois-trs/), [Illinois State Board of Investment](/illinois-isbi/), [IMRF](/illinois-imrf/), [Cook County Pension](/cook-county-pension/), [Chicago Fire FABF](/chicago-fire-fabf/), [Chicago LABF](/chicago-labf/), or [Cook County Forest Preserve](/cook-forest-preserve/). Illinois TRS is the statewide teacher file. IMRF is the local-government file. Cook County is the county employee file. FABF is the Chicago fire file. LABF is the Chicago laborers file. This is **one Chicago teacher-pension file**.
 
 ## What an owner is actually buying
 
 Counsel selling “Chicago Teachers AUM” has to name the book. The **$13,657,637,993** line is net position restricted for pension benefits. The **$13,464,363,637** line is investments. The Health Insurance Fund is not the pension book.
 
-Do not 301 this page onto `/illinois-trs/`, `/illinois-isbi/`, `/cook-county-pension/`, `/chicago-fire-fabf/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/illinois-trs/`, `/illinois-isbi/`, `/cook-county-pension/`, `/chicago-fire-fabf/`, `/chicago-labf/`, `/cook-forest-preserve/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -52,5 +52,7 @@ Do not 301 this page onto `/illinois-trs/`, `/illinois-isbi/`, `/cook-county-pen
 - [IMRF](/illinois-imrf/)
 - [Cook County Pension](/cook-county-pension/)
 - [Chicago Fire FABF](/chicago-fire-fabf/)
+- [Chicago LABF](/chicago-labf/)
+- [Cook County Forest Preserve](/cook-forest-preserve/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

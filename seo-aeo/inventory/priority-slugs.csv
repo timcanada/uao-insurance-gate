@@ -311,6 +311,16 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,cook-county-abf,Cook County Pension (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 126 /cook-county-pension/
 126,institution,chicago-fire-fabf,Chicago Fire FABF,allocator,brief,P0,drafted-in-repo,Wave 126. Official FNP $2,027,244,092 at 31 Dec 2025. Do not mint /fabf/ or /chicago-fabf/
 2,institution,fabf,Chicago Fire FABF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 126 /chicago-fire-fabf/
+127,institution,chicago-labf,Chicago LABF,allocator,brief,P0,drafted-in-repo,Wave 127. Official FNP $1,389,298,384 at 31 Dec 2025. Do not mint /labf/ or /labf-chicago/
+2,institution,labf,Chicago LABF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 127 /chicago-labf/
+127,institution,cook-forest-preserve,Cook County Forest Preserve Pension,allocator,brief,P0,drafted-in-repo,Wave 127. Official FNP $236,214,745 at 31 Dec 2025. Do not mint /forest-preserve-cook/ or /fpd-abf/
+2,institution,fpd-abf,Cook County Forest Preserve (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 127 /cook-forest-preserve/
+127,institution,denver-employees,Denver Employees Retirement Plan,allocator,brief,P0,drafted-in-repo,Wave 127. Official combined FNP $2,994,725,181 at 31 Dec 2025. Do not mint /derp/ or /derp-explained/
+2,institution,derp,Denver Employees (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 127 /denver-employees/
+127,institution,dallas-police-fire,Dallas Police and Fire,allocator,brief,P0,drafted-in-repo,Wave 127. Official combined FNP $2,277,013,787 at 31 Dec 2025. Do not mint /dpfp/ or /dallas-pf/
+2,institution,dpfp,Dallas Police and Fire (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 127 /dallas-police-fire/
+127,institution,fairfax-ers,Fairfax County Employees' Retirement System,allocator,brief,P0,drafted-in-repo,Wave 127. Official FNP $5,387,233,149 at 30 Jun 2025. Do not mint /fcers/ or /fairfax-employees/
+2,institution,fcers,Fairfax ERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 127 /fairfax-ers/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

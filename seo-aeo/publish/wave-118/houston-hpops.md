@@ -53,6 +53,7 @@ Do not 301 this page onto `/houston-hmeps/`, `/houston-hfrrf/`, `/san-jose-polic
 - [Los Angeles Fire and Police Pensions](/lafpp/)
 - [Austin Police Retirement System](/austin-police-retirement/)
 - [Jacksonville Police and Fire](/jacksonville-police-fire/)
+- [Dallas Police and Fire](/dallas-police-fire/)
 - [Texas ERS](/texas-ers/)
 - [Illinois IPOPIF](/illinois-ipopif/)
 - [Advertise](/advertise/)

@@ -51,5 +51,7 @@ Do not 301 this page onto `/illinois-trs/`, `/illinois-sers/`, `/illinois-isbi/`
 - [Chicago Teachers](/chicago-teachers/)
 - [Cook County Pension](/cook-county-pension/)
 - [Chicago Fire FABF](/chicago-fire-fabf/)
+- [Chicago LABF](/chicago-labf/)
+- [Cook County Forest Preserve](/cook-forest-preserve/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

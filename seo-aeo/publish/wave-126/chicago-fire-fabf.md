@@ -28,13 +28,13 @@ The statement of fiduciary net position is the sourced line:
 2. **GASB funded cards.** Total pension liability **$8,029,795,014**. City net pension liability **$6,002,550,922**. Fiduciary net position / total pension liability **25.25 percent** (2024 **23.70 percent**). Those two lines are not interchangeable with investments.
 3. **Returns.** Money-weighted return **13.77 percent** net of pension-plan investment expense (2024 **8.47 percent**). The required-supplementary table rounds that print to **13.8 percent**. House Total Plan return **14.3 percent** is printed **gross of fees** and is also the year-over-year fiduciary-net-position change percentage. Those are not the money-weighted card. The house statements do not label a separate time-weighted card. Do not invent one.
 
-Do not flatten Chicago Fire FABF into [Chicago Teachers](/chicago-teachers/), [Cook County Pension](/cook-county-pension/), [IMRF](/illinois-imrf/), or [Illinois FPIF](/illinois-fpif/). Chicago Teachers is the Chicago teacher file. Cook County is the county employee file. IMRF is the statewide municipal-employee file. FPIF is the Illinois firefighter investment trust, not this Chicago fire book. This is **one Chicago sworn-fire file**.
+Do not flatten Chicago Fire FABF into [Chicago Teachers](/chicago-teachers/), [Cook County Pension](/cook-county-pension/), [IMRF](/illinois-imrf/), [Illinois FPIF](/illinois-fpif/), or [Chicago LABF](/chicago-labf/). Chicago Teachers is the Chicago teacher file. Cook County is the county employee file. IMRF is the statewide municipal-employee file. FPIF is the Illinois firefighter investment trust, not this Chicago fire book. LABF is the Chicago laborers file. This is **one Chicago sworn-fire file**.
 
 ## What an owner is actually buying
 
 Counsel selling “Chicago Fire AUM” has to name the book. The **$2,027,244,092** line is plan fiduciary net position. The **$1,575,882,570** line is investments. The **14.3 percent** fiduciary-net-position change is not the **13.77 percent** money-weighted return. The healthcare column is not a second AUM.
 
-Do not 301 this page onto `/chicago-teachers/`, `/cook-county-pension/`, `/illinois-imrf/`, `/illinois-fpif/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/chicago-teachers/`, `/cook-county-pension/`, `/illinois-imrf/`, `/illinois-fpif/`, `/chicago-labf/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -51,5 +51,6 @@ Do not 301 this page onto `/chicago-teachers/`, `/cook-county-pension/`, `/illin
 - [Cook County Pension](/cook-county-pension/)
 - [IMRF](/illinois-imrf/)
 - [Illinois FPIF](/illinois-fpif/)
+- [Chicago LABF](/chicago-labf/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

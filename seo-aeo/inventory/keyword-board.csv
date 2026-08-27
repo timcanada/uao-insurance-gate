@@ -607,5 +607,10 @@ P1,Jacksonville Police and Fire Pension Fund,allocator,both,/jacksonville-police
 P1,ACERA,allocator,both,/acera/,define,unknown,unknown,unknown,drafted-wave-126,Wave 126. Official combined FNP $14,052,478 thousand at 31 Dec 2025. Do not mint /acera-explained/
 P1,Cook County Pension Fund,allocator,both,/cook-county-pension/,define,unknown,unknown,unknown,drafted-wave-126,Wave 126. Official FNP $15,221,712,193 at 31 Dec 2025. Do not mint /cook-county-abf/
 P1,Firemen’s Annuity and Benefit Fund of Chicago,allocator,both,/chicago-fire-fabf/,define,unknown,unknown,unknown,drafted-wave-126,Wave 126. Official FNP $2,027,244,092 at 31 Dec 2025. Do not mint /fabf/
+P1,Chicago LABF,allocator,both,/chicago-labf/,define,unknown,unknown,unknown,drafted-wave-127,Wave 127. Official FNP $1,389,298,384 at 31 Dec 2025. Do not mint /labf/
+P1,Cook County Forest Preserve Pension,allocator,both,/cook-forest-preserve/,define,unknown,unknown,unknown,drafted-wave-127,Wave 127. Official FNP $236,214,745 at 31 Dec 2025. Do not mint /fpd-abf/
+P1,Denver Employees Retirement Plan,allocator,both,/denver-employees/,define,unknown,unknown,unknown,drafted-wave-127,Wave 127. Official combined FNP $2,994,725,181 at 31 Dec 2025. Do not mint /derp/
+P1,Dallas Police and Fire Pension System,allocator,both,/dallas-police-fire/,define,unknown,unknown,unknown,drafted-wave-127,Wave 127. Official combined FNP $2,277,013,787 at 31 Dec 2025. Do not mint /dpfp/
+P1,Fairfax County Employees’ Retirement System,allocator,both,/fairfax-ers/,define,unknown,unknown,unknown,drafted-wave-127,Wave 127. Official FNP $5,387,233,149 at 30 Jun 2025. Do not mint /fcers/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

@@ -53,5 +53,6 @@ Do not 301 this page onto `/miami-fire-police/`, `/hollywood-police/`, `/north-m
 - [City of Miramar Firefighters Retirement Plan](/miramar-fire/)
 - [City of Palm Bay Police and Firefighters’ Retirement System](/palm-bay-police-fire/)
 - [Town of Jupiter Police Officers’ Retirement Fund](/jupiter-police/)
+- [City of Coral Springs Police Officers’ Pension Plan](/coral-springs-police/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

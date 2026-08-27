@@ -51,5 +51,6 @@ Do not 301 this page onto `/tampa-fire-police/`, `/largo-police-fire/`, `/pinell
 - [City of Largo Municipal Police Officers’ and Firefighters’ Retirement Plan](/largo-police-fire/)
 - [City of North Port Police Officers’ Pension–Local Option Trust Fund](/north-port-police/)
 - [Tampa Fire and Police](/tampa-fire-police/)
+- [City of Coral Springs Police Officers’ Pension Plan](/coral-springs-police/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

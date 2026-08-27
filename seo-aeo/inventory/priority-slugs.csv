@@ -736,6 +736,16 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,pompgers,POMPGERS (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 178 /pompano-beach-employees/. /gepp/ is Jacksonville. /gers/ unused Fort Lauderdale
 2,institution,pbgers,PBGERS (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 178 /pompano-beach-employees/
 2,institution,pompano-ge,Pompano GE (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 178 /pompano-beach-employees/
+179,institution,coral-springs-police,Coral Springs Police Officers Pension Plan,allocator,brief,P0,drafted-in-repo,Wave 179. Official FNP $375,287,702 at 30 Sep 2025. Do not mint /coral-springs/ or /gepp/ or /pfrs/. Not leftover Pompano Beach Police and Fire
+2,institution,coral-springs-police-explained,Coral Springs Police explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 179 /coral-springs-police/
+2,institution,coral-springs,Coral Springs (city short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 179 /coral-springs-police/. Fire is a different legal person
+2,institution,cspop,CSPOP (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 179 /coral-springs-police/
+2,institution,csppp,CSPPP (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 179 /coral-springs-police/
+179,institution,university-health-pension,University Health System Pension Plan,allocator,brief,P0,drafted-in-repo,Wave 179. Official FNP $810,119,853 at 31 Dec 2025. Do not mint /university-health/ or /ers/ or /tmrs/. Not leftover San Antonio Fire and Police
+2,institution,university-health-pension-explained,University Health Pension explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 179 /university-health-pension/
+2,institution,university-health,University Health (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 179 /university-health-pension/
+2,institution,uhs,UHS (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 179 /university-health-pension/
+2,institution,bexar-pension,Bexar pension (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 179 /university-health-pension/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

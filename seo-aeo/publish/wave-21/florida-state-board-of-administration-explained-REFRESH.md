@@ -51,6 +51,7 @@ SBA is the **manager**. FRS Pension Plan and FRS Investment Plan are the **books
 ## Related
 
 - [Texas TRS](/texas-teacher-retirement-system-explained/)
+- [Florida Retirement System Pension Plan](/florida-retirement-system/)
 - [CalPERS](/calpers-explained-largest-us-pension-fund/)
 - [CalSTRS](/calstrs-explained/)
 - [New York State Common Retirement Fund](/new-york-state-common-retirement-fund-explained/)

@@ -51,5 +51,7 @@ Do not 301 this page onto `/missouri-mosers/`, `/oklahoma-opers/`, `/kpers/`, `/
 - [Iowa IPERS](/iowa-ipers/)
 - [Arkansas PERS](/arkansas-pers/)
 - [Nebraska School Employees Retirement Plan](/nebraska-school/)
+- [Arizona State Retirement System](/arizona-asrs/)
+- [Michigan State Employees’ Retirement System](/michigan-sers/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

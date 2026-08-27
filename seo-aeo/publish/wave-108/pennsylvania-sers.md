@@ -56,5 +56,6 @@ Do not 301 this page onto `/pennsylvania-psers/`, `/calpers-explained-largest-us
 - [City of Philadelphia Municipal Pension Fund](/philadelphia-municipal/)
 - [Philadelphia Gas Works Retirement Reserve](/philadelphia-pgw/)
 - [Pennsylvania Municipal Retirement System](/pennsylvania-pmrs/)
+- [Michigan State Employees’ Retirement System](/michigan-sers/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

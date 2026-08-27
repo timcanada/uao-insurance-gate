@@ -54,5 +54,6 @@ Do not 301 this page onto `/houston-hmeps/`, `/houston-hfrrf/`, `/dart-employees
 - [CPS Energy Pension Plan](/cps-energy-pension/)
 - [Lower Colorado River Authority Retirement Plan and Trust](/lcra-pension/)
 - [Retirement Plan for Employees of Brazos River Authority](/brazos-river-pension/)
+- [Galveston Wharves Pension Plan](/galveston-wharves-pension/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

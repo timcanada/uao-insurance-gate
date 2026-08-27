@@ -47,6 +47,7 @@ Do not 301 this page onto `/texas-tmrs/`, `/mcallen-fire/`, `/longview-fire/`, `
 - [Public pension funds](/public-pension-funds/)
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Texas Municipal Retirement System](/texas-tmrs/)
+- [Galveston Wharves Pension Plan](/galveston-wharves-pension/)
 - [Houston Firefighters](/houston-hfrrf/)
 - [Corpus Christi Firefighters’ Retirement System](/corpus-christi-fire/)
 - [McAllen Firemen’s Relief and Retirement Fund](/mcallen-fire/)

@@ -896,6 +896,25 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,brazos-river-pension-explained,Brazos River pension explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 188 /brazos-river-pension/
 2,institution,bra,BRA (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 188 /brazos-river-pension/
 2,institution,brazos,Brazos (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 188 /brazos-river-pension/
+189,institution,arizona-asrs,Arizona State Retirement System,allocator,brief,P0,drafted-in-repo,Wave 189. Official Retirement FNP $57,647,665 thousand at 30 Jun 2025. Do not mint /asrs/ or /azasrs/. Not leftover Arizona PSPRS
+2,institution,arizona-asrs-explained,Arizona ASRS explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 189 /arizona-asrs/
+2,institution,asrs,ASRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 189 /arizona-asrs/
+2,institution,azasrs,AZASRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 189 /arizona-asrs/
+189,institution,massport-pension,Massachusetts Port Authority Employees Retirement System,allocator,brief,P0,drafted-in-repo,Wave 189. Official FNP $1,011,444,656 at 31 Dec 2025. Do not mint /mpaers/ or /ers/. Not leftover MBTA
+2,institution,massport-pension-explained,Massport pension explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 189 /massport-pension/
+2,institution,mpaers,MPAERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 189 /massport-pension/
+2,institution,massport,Massport (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 189 /massport-pension/
+189,institution,florida-retirement-system,Florida Retirement System Pension Plan,allocator,brief,P0,drafted-in-repo,Wave 189. Official FRS Pension FNP $212,585,325,722 at 30 Jun 2025. Do not mint /frs/ or /florida-sba/. Not leftover MyFRS $234.84bn
+2,institution,florida-retirement-system-explained,Florida Retirement System explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 189 /florida-retirement-system/
+2,institution,florida-frs,Florida FRS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 189 /florida-retirement-system/. /frs/ remains Louisiana FRS
+189,institution,galveston-wharves-pension,Galveston Wharves Pension Plan,allocator,brief,P0,drafted-in-repo,Wave 189. Official FNP $16,868,530 at 31 Dec 2025. Do not mint /galveston/ or /wharves/. Not leftover Galveston Fire
+2,institution,galveston-wharves-pension-explained,Galveston Wharves pension explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 189 /galveston-wharves-pension/
+2,institution,galveston-wharves,Galveston Wharves (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 189 /galveston-wharves-pension/
+2,institution,wharves,Wharves (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 189 /galveston-wharves-pension/
+189,institution,michigan-sers,Michigan State Employees Retirement System,allocator,brief,P0,drafted-in-repo,Wave 189. Official pension FNP $15,122,140 thousand at 30 Sep 2025. Do not mint /sers/ or /mpsers/. Not leftover MPSERS
+2,institution,michigan-sers-explained,Michigan SERS explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 189 /michigan-sers/
+2,institution,msers,MSERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 189 /michigan-sers/
+2,institution,sers,SERS (short),allocator,brief,P0,do-not-mint,Do not mint. Reserved against Wave 108 /pennsylvania-sers/. Not Michigan SERS. Not Illinois SERS
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

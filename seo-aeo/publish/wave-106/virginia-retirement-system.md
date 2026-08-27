@@ -30,13 +30,13 @@ The statements are in thousands. The FY2025 ACFR is the sourced split:
 
 Named pension books on the same file are not a second AUM: VRS plan **$114,401,121 thousand**; SPORS **$1,254,189 thousand**; VaLORS **$2,244,828 thousand**; JRS **$765,921 thousand**. Those four sit inside the System. Do not stack them on top of the **$124.0 billion** total.
 
-Do not flatten VRS into [PRIM](/massachusetts-prim/), [OPERS](/ohio-opers/), [Fairfax ERS](/fairfax-ers/), [Fairfax PORS](/fairfax-pors/), or [Fairfax URS](/fairfax-urs/). PRIM is one Massachusetts PRIT file. OPERS is one Ohio calendar-year file. Fairfax ERS, Fairfax PORS, and Fairfax URS are Fairfax County files. This is **one Virginia System file**.
+Do not flatten VRS into [PRIM](/massachusetts-prim/), [OPERS](/ohio-opers/), [Fairfax ERS](/fairfax-ers/), [Fairfax PORS](/fairfax-pors/), [Fairfax URS](/fairfax-urs/), [Richmond Retirement System](/richmond-retirement/), or [Norfolk Employees’ Retirement System](/norfolk-employees/). PRIM is one Massachusetts PRIT file. OPERS is one Ohio calendar-year file. Fairfax ERS, Fairfax PORS, and Fairfax URS are Fairfax County files. Richmond and Norfolk are Virginia city files. This is **one Virginia System file**.
 
 ## What an owner is actually buying
 
 Counsel selling “VRS AUM” has to name the line. **$128.6 billion** is the managed investment portfolio. **$124.0 billion** is net position restricted for benefits. Those are not the same number.
 
-Do not 301 this page onto `/massachusetts-prim/`, `/calpers-explained-largest-us-pension-fund/`, `/fairfax-ers/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/massachusetts-prim/`, `/calpers-explained-largest-us-pension-fund/`, `/fairfax-ers/`, `/richmond-retirement/`, `/norfolk-employees/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -59,6 +59,8 @@ Do not 301 this page onto `/massachusetts-prim/`, `/calpers-explained-largest-us
 - [Fairfax ERS](/fairfax-ers/)
 - [Fairfax PORS](/fairfax-pors/)
 - [Fairfax URS](/fairfax-urs/)
+- [Richmond Retirement System](/richmond-retirement/)
+- [Norfolk Employees’ Retirement System](/norfolk-employees/)
 - [TCRS](/tennessee-tcrs/)
 - [South Carolina Retirement Systems](/south-carolina-retirement-systems/)
 - [Advertise](/advertise/)

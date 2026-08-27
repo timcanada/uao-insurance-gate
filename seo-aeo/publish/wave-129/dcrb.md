@@ -50,5 +50,6 @@ Do not 301 this page onto `/maryland-srps/`, `/virginia-retirement-system/`, `/m
 - [Virginia Retirement System](/virginia-retirement-system/)
 - [Montgomery County Employee Retirement Plans](/montgomery-erp/)
 - [Baltimore City Employees’ Retirement System](/baltimore-city-ers/)
+- [Baltimore Fire and Police](/baltimore-fire-police/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

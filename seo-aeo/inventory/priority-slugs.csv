@@ -341,6 +341,16 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,howard-erp,Howard County Retirement (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 129 /howard-county-retirement/
 129,institution,howard-county-police-fire,Howard County Police and Fire Employees’ Retirement Plan,allocator,brief,P0,drafted-in-repo,Wave 129. Official FNP $993,303,977 at 30 Jun 2025. Do not mint /howard-pf/ or /hcpfrp/
 2,institution,howard-pf,Howard County Police and Fire (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 129 /howard-county-police-fire/
+130,institution,baltimore-fire-police,Fire and Police Employees’ Retirement System of the City of Baltimore,allocator,brief,P0,drafted-in-repo,Wave 130. Official FNP $3,467,209,097 at 30 Jun 2025. Do not mint /bcfpers/ or /baltimore-fp/
+2,institution,bcfpers,Baltimore Fire and Police (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 130 /baltimore-fire-police/
+130,institution,richmond-retirement,Richmond Retirement System,allocator,brief,P0,drafted-in-repo,Wave 130. Official FNP $883,849,545 at 30 Jun 2025. Do not mint /richmond-rrs/ or /rrs/
+2,institution,richmond-rrs,Richmond Retirement System (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 130 /richmond-retirement/
+130,institution,norfolk-employees,Norfolk Employees’ Retirement System,allocator,brief,P0,drafted-in-repo,Wave 130. Official FNP $1,412,980 thousand at 30 Jun 2025. Do not mint /norfolk-ners/ or /ners/
+2,institution,norfolk-ners,Norfolk Employees’ Retirement System (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 130 /norfolk-employees/
+130,institution,st-louis-ers,Employees Retirement System of the City of St. Louis,allocator,brief,P0,drafted-in-repo,Wave 130. Official FNP $937,329,534 at 30 Sep 2025. Do not mint /stlers/ or /st-louis-employees/
+2,institution,stlers,St. Louis ERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 130 /st-louis-ers/
+130,institution,sacramento-city-employees,Sacramento City Employees’ Retirement System,allocator,brief,P0,drafted-in-repo,Wave 130. Official FNP $253,354 thousand at 30 Jun 2025. Do not mint /sacramento-city-scers/ or /scers-city/
+2,institution,sacramento-city-scers,Sacramento City Employees (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 130 /sacramento-city-employees/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

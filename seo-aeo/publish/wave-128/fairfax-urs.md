@@ -27,7 +27,7 @@ The statement of fiduciary net position is the sourced line:
 2. **GASB funded cards.** Total pension liability **$3,021,111,048**. Net pension liability **$660,972,847**. Fiduciary net position / total pension liability **78.12 percent** (2024 **75.56 percent**). The transmittal “market value of assets to total pension liabilities” print **78.12 percent** is that GASB card. Actuarial funded **77.11 percent** is not the GASB card.
 3. **Returns.** Required-supplementary and MD&A money-weighted return **7.43 percent** for fiscal 2025, net of fees. Transmittal and MD&A time-weighted return **10.10 percent** net of fees. Those official one-year prints are not interchangeable. Do not treat the transmittal **+10.10 percent** line as the money-weighted card.
 
-Do not flatten Fairfax URS into [Virginia Retirement System](/virginia-retirement-system/), [Fairfax ERS](/fairfax-ers/), [Fairfax PORS](/fairfax-pors/), [Maryland SRPS](/maryland-srps/), or [PSERS](/pennsylvania-psers/). VRS is the statewide file. Fairfax ERS is the civilian employee file. Fairfax PORS is the sworn-police file. This is **one Fairfax uniformed file**.
+Do not flatten Fairfax URS into [Virginia Retirement System](/virginia-retirement-system/), [Fairfax ERS](/fairfax-ers/), [Fairfax PORS](/fairfax-pors/), [Richmond Retirement System](/richmond-retirement/), [Norfolk Employees’ Retirement System](/norfolk-employees/), [Maryland SRPS](/maryland-srps/), or [PSERS](/pennsylvania-psers/). VRS is the statewide file. Fairfax ERS is the civilian employee file. Fairfax PORS is the sworn-police file. Richmond and Norfolk are different Virginia city files. This is **one Fairfax uniformed file**.
 
 ## What an owner is actually buying
 
@@ -49,6 +49,8 @@ Do not 301 this page onto `/fairfax-ers/`, `/fairfax-pors/`, `/virginia-retireme
 - [Fairfax ERS](/fairfax-ers/)
 - [Fairfax PORS](/fairfax-pors/)
 - [Virginia Retirement System](/virginia-retirement-system/)
+- [Richmond Retirement System](/richmond-retirement/)
+- [Norfolk Employees’ Retirement System](/norfolk-employees/)
 - [Maryland SRPS](/maryland-srps/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

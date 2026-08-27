@@ -27,13 +27,13 @@ The statement of fiduciary net position is the sourced line (in thousands):
 2. **GASB funded cards.** Total pension liability **$15,597,205 thousand**. Net pension liability **$1,019,746 thousand**. Fiduciary net position as a percentage of total pension liability **93.5 percent**. Those three cards are not a second investment book.
 3. **Returns.** Time-weighted total-fund return **10.8 percent** net of investment management fees, against the house policy benchmark **9.9 percent** and the **6.75 percent** actuarial objective. Annual money-weighted return **11.10 percent** net of pension-plan investment expenses. Those two official one-year prints are not interchangeable.
 
-Do not flatten Sacramento County into [SDCERS](/sdcers/), [OCERS](/ocers/), [SamCERA](/samcera/), [LACERA](/lacera/), [Sonoma SCERA](/sonoma-scera/), [ICERS](/icers/), or [MercedCERA](/mercedcera/). SDCERS is the San Diego **city** file. Sonoma SCERA is a different 1937-Act file — do not mint `/scera/` or reuse `/scers/` for Sonoma. This is **one Sacramento County employee file**. Seattle City Employees’ Retirement System is a different legal person — that is why `/scers/` stays unminted.
+Do not flatten Sacramento County into [Sacramento City Employees](/sacramento-city-employees/), [SDCERS](/sdcers/), [OCERS](/ocers/), [SamCERA](/samcera/), [LACERA](/lacera/), [Sonoma SCERA](/sonoma-scera/), [ICERS](/icers/), or [MercedCERA](/mercedcera/). Sacramento City Employees is the **closed city** file. SDCERS is the San Diego **city** file. Sonoma SCERA is a different 1937-Act file — do not mint `/scera/` or reuse `/scers/` for Sonoma. This is **one Sacramento County employee file**. Seattle City Employees’ Retirement System is a different legal person — that is why `/scers/` stays unminted.
 
 ## What an owner is actually buying
 
 Counsel selling “SCERS AUM” has to name the book. The **$14,577,459 thousand** line is fiduciary net position. The **$14,323,091 thousand** line is investments. Those are not the same mandate.
 
-Do not 301 this page onto `/sdcers/`, `/ocers/`, `/samcera/`, `/lacera/`, or `/largest-us-public-pension-funds/`.
+Do not 301 this page onto `/sacramento-city-employees/`, `/sdcers/`, `/ocers/`, `/samcera/`, `/lacera/`, or `/largest-us-public-pension-funds/`.
 
 ## Where Universal Asset Owners sits
 
@@ -48,6 +48,7 @@ Do not 301 this page onto `/sdcers/`, `/ocers/`, `/samcera/`, `/lacera/`, or `/l
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [OCERS](/ocers/)
 - [SamCERA](/samcera/)
+- [Sacramento City Employees](/sacramento-city-employees/)
 - [SDCERS](/sdcers/)
 - [SBCERA](/sbcera/)
 - [VCERA](/vcera/)

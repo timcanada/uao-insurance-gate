@@ -24,11 +24,11 @@ Firemen’s Annuity and Benefit Fund of Chicago is the City of Chicago sworn-fir
 
 The statement of fiduciary net position is the sourced line:
 
-1. **Plan fiduciary net position restricted for pensions** **$2,027,244,092** at **31 December 2025** (2024 **$1,774,238,618**). The change is **$253,005,474**, or **14.3 percent**. Total investments **$1,575,882,570** is not fiduciary net position. Health-insurance-supplement net position prints a dash. Those prints are not interchangeable. Do not treat leftover Chicago Teachers **$13,657,637,993**, leftover Cook County Pension **$15,221,712,193**, leftover IMRF, leftover Illinois FPIF, leftover MassPRIM **$73 billion**, or leftover Ohio PERS **$46 billion** as this filing.
+1. **Plan fiduciary net position restricted for pensions** **$2,027,244,092** at **31 December 2025** (2024 **$1,774,238,618**). The change is **$253,005,474**, or **14.3 percent**. Total investments **$1,575,882,570** is not fiduciary net position. Health-insurance-supplement net position prints a dash. Those prints are not interchangeable. Do not treat leftover Chicago Teachers **$13,657,637,993**, leftover Cook County Pension **$15,221,712,193**, leftover IMRF, leftover Illinois FPIF, leftover Chicago Police **$4,993,424,701**, leftover MassPRIM **$73 billion**, or leftover Ohio PERS **$46 billion** as this filing.
 2. **GASB funded cards.** Total pension liability **$8,029,795,014**. City net pension liability **$6,002,550,922**. Fiduciary net position / total pension liability **25.25 percent** (2024 **23.70 percent**). Those two lines are not interchangeable with investments.
 3. **Returns.** Money-weighted return **13.77 percent** net of pension-plan investment expense (2024 **8.47 percent**). The required-supplementary table rounds that print to **13.8 percent**. House Total Plan return **14.3 percent** is printed **gross of fees** and is also the year-over-year fiduciary-net-position change percentage. Those are not the money-weighted card. The house statements do not label a separate time-weighted card. Do not invent one.
 
-Do not flatten Chicago Fire FABF into [Chicago Teachers](/chicago-teachers/), [Cook County Pension](/cook-county-pension/), [IMRF](/illinois-imrf/), [Illinois FPIF](/illinois-fpif/), or [Chicago LABF](/chicago-labf/). Chicago Teachers is the Chicago teacher file. Cook County is the county employee file. IMRF is the statewide municipal-employee file. FPIF is the Illinois firefighter investment trust, not this Chicago fire book. LABF is the Chicago laborers file. This is **one Chicago sworn-fire file**.
+Do not flatten Chicago Fire FABF into [Chicago Teachers](/chicago-teachers/), [Cook County Pension](/cook-county-pension/), [IMRF](/illinois-imrf/), [Illinois FPIF](/illinois-fpif/), [Chicago LABF](/chicago-labf/), or [Policemen’s Annuity and Benefit Fund of Chicago](/chicago-police/). Chicago Teachers is the Chicago teacher file. Cook County is the county employee file. IMRF is the statewide municipal-employee file. FPIF is the Illinois firefighter investment trust, not this Chicago fire book. LABF is the Chicago laborers file. Chicago Police is the sworn-police file. This is **one Chicago sworn-fire file**.
 
 ## What an owner is actually buying
 
@@ -52,5 +52,6 @@ Do not 301 this page onto `/chicago-teachers/`, `/cook-county-pension/`, `/illin
 - [IMRF](/illinois-imrf/)
 - [Illinois FPIF](/illinois-fpif/)
 - [Chicago LABF](/chicago-labf/)
+- [Policemen’s Annuity and Benefit Fund of Chicago](/chicago-police/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

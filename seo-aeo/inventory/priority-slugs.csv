@@ -586,6 +586,9 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 166,institution,southern-manatee-fire,Southern Manatee Firefighters Retirement Plan,allocator,brief,P0,drafted-in-repo,Wave 166. Official FNP $83,968,008 at 30 Sep 2025. Investments equal FNP. Net pension asset $1,411,967. Do not mint /smfr/ or /southern-manatee-firefighters/
 2,institution,smfr,Southern Manatee Fire (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 166 /southern-manatee-fire/. District-wide FS is not this book
 2,institution,southern-manatee-firefighters,Southern Manatee Fire (long),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 166 /southern-manatee-fire/
+167,institution,chicago-police,Policemens Annuity and Benefit Fund of Chicago,allocator,brief,P0,drafted-in-repo,Wave 167. Official FNP $4,993,424,701 at 31 Dec 2025. Investments $3,909,058,908 are not FNP. GASB 26.44% is not statutory 26.66%. Do not mint /pabf/ or /chicago-pabf/. Not leftover Chicago Fire FABF
+2,institution,pabf,Chicago Police (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 167 /chicago-police/. Not leftover Chicago Fire FABF /chicago-fire-fabf/
+2,institution,chicago-pabf,Chicago Police (pabf),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 167 /chicago-police/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

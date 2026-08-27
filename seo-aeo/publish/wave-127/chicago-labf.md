@@ -23,7 +23,7 @@ Laborers’ and Retirement Board Employees’ Annuity and Benefit Fund of Chicag
 
 The statement of fiduciary net position is the sourced line:
 
-1. **Net position restricted for pension benefits** **$1,389,298,384** at **31 December 2025** (2024 **$1,260,169,474**). The change is **$129,128,910**. Total investments at fair value **$1,318,644,322** is not fiduciary net position. The note’s “total investments at fair value — net” **$1,264,909,333** is not the statement investments line. Those prints are not interchangeable. Do not treat leftover Chicago Teachers **$13,657,637,993**, leftover Chicago Fire FABF **$2,027,244,092**, leftover Cook County Pension **$15,221,712,193**, leftover IMRF, leftover MassPRIM **$73 billion**, or leftover Ohio PERS **$46 billion** as this filing.
+1. **Net position restricted for pension benefits** **$1,389,298,384** at **31 December 2025** (2024 **$1,260,169,474**). The change is **$129,128,910**. Total investments at fair value **$1,318,644,322** is not fiduciary net position. The note’s “total investments at fair value — net” **$1,264,909,333** is not the statement investments line. Those prints are not interchangeable. Do not treat leftover Chicago Teachers **$13,657,637,993**, leftover Chicago Fire FABF **$2,027,244,092**, leftover Cook County Pension **$15,221,712,193**, leftover IMRF, leftover Chicago Police **$4,993,424,701**, leftover MassPRIM **$73 billion**, or leftover Ohio PERS **$46 billion** as this filing.
 2. **GASB funded cards.** Total pension liability **$3,150,237,738**. Net pension liability **$1,760,939,354**. Fiduciary net position / total pension liability **44.10 percent** (2024 **40.29 percent**). Those two lines are not interchangeable with investments.
 3. **Returns.** Money-weighted return **12.6 percent** net of pension-plan investment expense. The house statements do not give this page a separate official time-weighted card to quote as the money-weighted substitute. Do not invent one.
 
@@ -48,6 +48,7 @@ Do not 301 this page onto `/chicago-teachers/`, `/chicago-fire-fabf/`, `/cook-co
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [Chicago Teachers](/chicago-teachers/)
 - [Chicago Fire FABF](/chicago-fire-fabf/)
+- [Policemen’s Annuity and Benefit Fund of Chicago](/chicago-police/)
 - [Cook County Pension](/cook-county-pension/)
 - [Cook County Forest Preserve](/cook-forest-preserve/)
 - [IMRF](/illinois-imrf/)

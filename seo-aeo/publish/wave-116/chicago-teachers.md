@@ -53,6 +53,7 @@ Do not 301 this page onto `/illinois-trs/`, `/illinois-isbi/`, `/cook-county-pen
 - [Cook County Pension](/cook-county-pension/)
 - [Chicago Fire FABF](/chicago-fire-fabf/)
 - [Chicago LABF](/chicago-labf/)
+- [Policemen’s Annuity and Benefit Fund of Chicago](/chicago-police/)
 - [Cook County Forest Preserve](/cook-forest-preserve/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

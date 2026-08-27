@@ -25,8 +25,14 @@ This wave locked **three** unique official 2025 house FS PDFs (`≤5`). Independ
 
 ## Skipped this wave
 
-- Lehigh County Employees’ Retirement Plan still SSL **http=000** from this environment. Do not draft from a hunt table.
+- Slots 4–5: independently hunted leftover-unique 2025 house auditor FS after the first three locks. **No fourth or fifth lock.** Do not draft from a hunt table.
+- Lehigh County Employees’ Retirement Plan still SSL **http=000** from this environment.
 - San Benito Fire AFR still time-weighted only.
 - Champaign Fire still SharePoint HTML.
+- Hollywood civilian host still treasurers / IPS / valuations — no 2025 auditor FS.
+- SMUD 2025 file is the district financial statements, not a standalone pension-plan opinion.
+- BART 2025 files are district budget / single-audit / PAFR, not a standalone pension FS.
+- Wichita Falls / Lubbock / leftover TLFFRA still 2024 or guessed 2025 **404**.
+- Riviera Beach Fire / Lake Worth Beach Fire / Miramar Police / Davie / Gainesville / Coral Springs Fire still **404/403** or 112.664 / valuation.
 - VA/MD/NC/MA leftover unique returned no three-card standalone 2025 house book.
 - Wave 179’s five keepers stay as-is — do not overwrite.

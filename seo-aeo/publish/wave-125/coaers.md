@@ -27,7 +27,7 @@ The statement of fiduciary net position is the sourced line:
 2. **GASB funded cards.** Retirement Plan total pension liability **$6,211,037,365**. Net pension liability **$2,125,144,694**. Retirement Plan fiduciary net position / total pension liability **65.78 percent**. The GASB schedule uses Retirement Plan fiduciary net position **$4,085,892,671**, not the combined **$4,085,942,671** line. Those prints are not interchangeable.
 3. **Returns and actuarial card.** Time-weighted return **14.9 percent** net of fees. Money-weighted return **15.02 percent** net of fees (2024 **9.86 percent**). Actuarial funded **63.1 percent** is not the GASB **65.78 percent** card.
 
-Do not flatten COAERS into [Austin Police Retirement System](/austin-police-retirement/), [Texas ERS](/texas-ers/), [Texas Municipal Retirement System](/texas-tmrs/), or [Houston Municipal Employees](/houston-hmeps/). Austin Police is a different legal person. This is **one Austin civilian employee file**.
+Do not flatten COAERS into [Austin Police Retirement System](/austin-police-retirement/), [Austin Firefighters Retirement Fund](/austin-firefighters/), [Texas ERS](/texas-ers/), [Texas Municipal Retirement System](/texas-tmrs/), or [Houston Municipal Employees](/houston-hmeps/). Austin Police is a different legal person. Austin Firefighters is a different legal person. This is **one Austin civilian employee file**.
 
 ## What an owner is actually buying
 
@@ -50,5 +50,6 @@ Do not 301 this page onto `/austin-police-retirement/`, `/texas-ers/`, `/texas-t
 - [Texas ERS](/texas-ers/)
 - [Texas Municipal Retirement System](/texas-tmrs/)
 - [Houston Municipal Employees](/houston-hmeps/)
+- [Austin Firefighters Retirement Fund](/austin-firefighters/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

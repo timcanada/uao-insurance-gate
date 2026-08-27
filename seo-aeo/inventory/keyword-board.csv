@@ -627,5 +627,10 @@ P1,Richmond Retirement System,allocator,both,/richmond-retirement/,define,unknow
 P1,Norfolk Employees’ Retirement System,allocator,both,/norfolk-employees/,define,unknown,unknown,unknown,drafted-wave-130,Wave 130. Official FNP $1,412,980 thousand at 30 Jun 2025. Do not mint /norfolk-ners/
 P1,Employees Retirement System of the City of St. Louis,allocator,both,/st-louis-ers/,define,unknown,unknown,unknown,drafted-wave-130,Wave 130. Official FNP $937,329,534 at 30 Sep 2025. Do not mint /stlers/
 P1,Sacramento City Employees’ Retirement System,allocator,both,/sacramento-city-employees/,define,unknown,unknown,unknown,drafted-wave-130,Wave 130. Official FNP $253,354 thousand at 30 Jun 2025. Do not mint /sacramento-city-scers/
+P1,City of Fresno Fire and Police Retirement System,allocator,both,/fresno-fire-police/,define,unknown,unknown,unknown,drafted-wave-131,Wave 131. Official FNP $2,395,605,595 at 30 Jun 2025. Do not mint /cfrs/
+P1,City of Fresno Employees Retirement System,allocator,both,/fresno-city-employees/,define,unknown,unknown,unknown,drafted-wave-131,Wave 131. Official FNP $1,974,211,816 at 30 Jun 2025. Do not mint /fresno-ers/
+P1,Austin Firefighters Retirement Fund,allocator,both,/austin-firefighters/,define,unknown,unknown,unknown,drafted-wave-131,Wave 131. Official FNP $1,260,063,638 at 31 Dec 2025. Do not mint /austin-fire/
+P1,Police and Fire Retirement System of the City of Detroit,allocator,both,/detroit-police-fire/,define,unknown,unknown,unknown,drafted-wave-131,Wave 131. Official combined FNP $2,822,919,237 at 30 Jun 2025. Do not mint /dpfrs/
+P1,General Retirement System of the City of Detroit,allocator,both,/detroit-grs/,define,unknown,unknown,unknown,drafted-wave-131,Wave 131. Official pension FNP $1,770,424,254 at 30 Jun 2025. Do not mint /dgrs/
 P2,Yale endowment model,allocator,both,/endowment-model-explained/,define,unknown,unknown,unknown,refresh-drafted,Wave 15 overwrite ready. Live still leftover house AUM until pasted. Do not overwrite again. Named Yale model is /yale-endowment-model/ (Wave 14)
 

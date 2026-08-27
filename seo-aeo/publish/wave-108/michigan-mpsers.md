@@ -28,7 +28,7 @@ The combining statement is the sourced split (dollar amounts in thousands):
 2. **Named books on the same statement.** Pension fiduciary net position **$78,656,194 thousand**. OPEB fiduciary net position **$15,709,574 thousand**. Do not add those lines a second time. Pension total pension liability **$98,549,294 thousand**; net pension liability **$19,893,100 thousand**; fiduciary net position as a percentage of total pension liability **79.81 percent**. OPEB is in surplus on this statement: fiduciary net position **$15,709,574 thousand** against total OPEB liability **$9,455,654 thousand**.
 3. **Returns.** Pension-plan money-weighted net return **9.81 percent**. MD&A pension-plan rate of return **9.8 percent**; OPEB **9.3 percent**. Five-year annualized return **10.7 percent** for the pension and OPEB books named in that MD&A line. Net investment income **$8,399,762 thousand**. The State of Michigan Investment Board is the investment fiduciary. That fact is not a combined SISTF AUM.
 
-Do not flatten MPSERS into [PSERS](/pennsylvania-psers/) or [OPERS](/ohio-opers/). PSERS is Pennsylvania. OPERS is Ohio. This is **one Michigan school-employee file**.
+Do not flatten MPSERS into [PSERS](/pennsylvania-psers/), [OPERS](/ohio-opers/), [Police and Fire Retirement System of the City of Detroit](/detroit-police-fire/), or [General Retirement System of the City of Detroit](/detroit-grs/). PSERS is Pennsylvania. OPERS is Ohio. Detroit Police and Fire and Detroit General are **city** files. This is **one Michigan school-employee file**.
 
 ## What an owner is actually buying
 
@@ -51,5 +51,7 @@ Do not 301 this page onto `/pennsylvania-psers/`, `/ohio-opers/`, or `/largest-u
 - [OPERS](/ohio-opers/)
 - [IPERS](/iowa-ipers/)
 - [INPRS](/indiana-inprs/)
+- [Police and Fire Retirement System of the City of Detroit](/detroit-police-fire/)
+- [General Retirement System of the City of Detroit](/detroit-grs/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

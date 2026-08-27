@@ -28,7 +28,7 @@ The statement of fiduciary net position is the sourced line:
 2. **GASB funded cards.** Total pension liability **$29,116,456,371**. Pension fiduciary net position / total pension liability **104.74 percent**. Those two lines are not interchangeable with the combined book.
 3. **Returns.** Pension money-weighted return **11.26 percent**, printed **gross of investment expense** (2024 **9.94 percent**). Do not relabel that print net. The house statements do not give this page a separate official time-weighted card to quote as the money-weighted substitute.
 
-Do not flatten LAFPP into [LACERS](/lacers/), [LACERA](/lacera/), [San José Police and Fire](/san-jose-police-fire/), [Houston Firefighters](/houston-hfrrf/), [Houston Police](/houston-hpops/), [San Antonio Fire and Police](/san-antonio-fire-police/), or [Jacksonville Police and Fire](/jacksonville-police-fire/). LACERS is the Los Angeles **civilian** city file. LACERA is the Los Angeles **County** file. Jacksonville Police and Fire is a different legal person. This is **one Los Angeles sworn fire-and-police file**.
+Do not flatten LAFPP into [LACERS](/lacers/), [LACERA](/lacera/), [San José Police and Fire](/san-jose-police-fire/), [Houston Firefighters](/houston-hfrrf/), [Houston Police](/houston-hpops/), [San Antonio Fire and Police](/san-antonio-fire-police/), [Jacksonville Police and Fire](/jacksonville-police-fire/), or [City of Fresno Fire and Police Retirement System](/fresno-fire-police/). LACERS is the Los Angeles **civilian** city file. LACERA is the Los Angeles **County** file. Jacksonville Police and Fire is a different legal person. This is **one Los Angeles sworn fire-and-police file**.
 
 ## What an owner is actually buying
 
@@ -54,5 +54,6 @@ Do not 301 this page onto `/lacers/`, `/lacera/`, `/san-jose-police-fire/`, `/ho
 - [Houston Firefighters](/houston-hfrrf/)
 - [Houston Police](/houston-hpops/)
 - [Jacksonville Police and Fire](/jacksonville-police-fire/)
+- [City of Fresno Fire and Police Retirement System](/fresno-fire-police/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -28,7 +28,7 @@ The statement of fiduciary net position is the sourced line:
 2. **GASB funded cards.** Total pension liability **$1,959,648,278**. GASB fiduciary net position **$1,211,288,721** is not the statement **$1,211,262,982** line. Fiduciary net position / total pension liability **61.81 percent**. Those prints are not interchangeable.
 3. **Returns and actuarial card.** Time-weighted return **13.21 percent** gross and **13.04 percent** net (2024 **8.83 percent** / **8.59 percent**). Money-weighted return **13.3 percent** (2024 **8.7 percent**). Actuarial funded **59.7 percent** is not the GASB **61.81 percent** card.
 
-Do not flatten Austin Police into [City of Austin Employees’ Retirement System](/coaers/), [Texas ERS](/texas-ers/), [Texas Municipal Retirement System](/texas-tmrs/), or [Houston Police](/houston-hpops/). COAERS is the civilian Austin file. This is **one Austin sworn police file**.
+Do not flatten Austin Police into [City of Austin Employees’ Retirement System](/coaers/), [Austin Firefighters Retirement Fund](/austin-firefighters/), [Texas ERS](/texas-ers/), [Texas Municipal Retirement System](/texas-tmrs/), or [Houston Police](/houston-hpops/). COAERS is the civilian Austin file. Austin Firefighters is the sworn firefighter file. This is **one Austin sworn police file**.
 
 ## What an owner is actually buying
 
@@ -52,5 +52,6 @@ Do not 301 this page onto `/coaers/`, `/texas-ers/`, `/texas-tmrs/`, `/houston-h
 - [Texas Municipal Retirement System](/texas-tmrs/)
 - [Houston Police](/houston-hpops/)
 - [Dallas Police and Fire](/dallas-police-fire/)
+- [Austin Firefighters Retirement Fund](/austin-firefighters/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

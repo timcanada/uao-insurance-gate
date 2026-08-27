@@ -351,6 +351,16 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,stlers,St. Louis ERS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 130 /st-louis-ers/
 130,institution,sacramento-city-employees,Sacramento City Employees’ Retirement System,allocator,brief,P0,drafted-in-repo,Wave 130. Official FNP $253,354 thousand at 30 Jun 2025. Do not mint /sacramento-city-scers/ or /scers-city/
 2,institution,sacramento-city-scers,Sacramento City Employees (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 130 /sacramento-city-employees/
+131,institution,fresno-fire-police,City of Fresno Fire and Police Retirement System,allocator,brief,P0,drafted-in-repo,Wave 131. Official FNP $2,395,605,595 at 30 Jun 2025. Do not mint /cfrs/ or /fresno-fp/
+2,institution,fresno-fp,Fresno Fire and Police (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 131 /fresno-fire-police/
+131,institution,fresno-city-employees,City of Fresno Employees Retirement System,allocator,brief,P0,drafted-in-repo,Wave 131. Official FNP $1,974,211,816 at 30 Jun 2025. Do not mint /cfrs/ or /fresno-ers/
+2,institution,fresno-ers,Fresno City Employees (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 131 /fresno-city-employees/
+131,institution,austin-firefighters,Austin Firefighters Retirement Fund,allocator,brief,P0,drafted-in-repo,Wave 131. Official FNP $1,260,063,638 at 31 Dec 2025. Do not mint /afrf/ or /austin-fire/
+2,institution,austin-fire,Austin Firefighters (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 131 /austin-firefighters/
+131,institution,detroit-police-fire,Police and Fire Retirement System of the City of Detroit,allocator,brief,P0,drafted-in-repo,Wave 131. Official combined FNP $2,822,919,237 at 30 Jun 2025. Do not mint /dpfrs/ or /pfrsdetroit/
+2,institution,dpfrs,Detroit Police and Fire (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 131 /detroit-police-fire/
+131,institution,detroit-grs,General Retirement System of the City of Detroit,allocator,brief,P0,drafted-in-repo,Wave 131. Official pension FNP $1,770,424,254 at 30 Jun 2025. Do not mint /dgrs/ or /rscd/
+2,institution,dgrs,Detroit General (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 131 /detroit-grs/
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

@@ -351,6 +351,7 @@ Print the CalPERS and CalSTRS filings. OPERS, WSIB, PRIM, VRS, PSERS, New Jersey
 - [Employees’ Retirement Fund of the City of Fort Worth](/fort-worth-employees/)
 - [City of Kansas City, Missouri The Employees’ Retirement System](/kansas-city-employees/)
 - [City of Kansas City, Missouri Firefighters’ Pension System](/kansas-city-fire/)
+- [Consolidated Police Officers’ and Firefighters’ Retirement Plan of the City of Gainesville](/gainesville-police-fire/)
 - [City of Hollywood Police Officers Retirement System](/hollywood-police/)
 - [City of Palm Bay Police and Firefighters’ Retirement System](/palm-bay-police-fire/)
 - [City of Miramar Firefighters Retirement Plan](/miramar-fire/)

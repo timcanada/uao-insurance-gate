@@ -1,5 +1,23 @@
 # Learning log (append only)
 
+## 2026-08-27 — Wake 183: Gainesville Police and Fire
+
+**Queries / URLs:** `/gainesville-police-fire/`.
+
+**What was wrong on the live site:**
+
+- Live leftovers unchanged on the prior-wake pass: GPIF still leftover **15.83%**, Alaska still leftover **$89 billion**. Wave 182 keepers still **404**. Independently re-GET this wake, not drafted from a hunt table. Consolidated Police Officers’ and Firefighters’ Retirement Plan of the City of Gainesville 30 Sep 2025 house FS live city path **403**; Wayback of that official city file locks (`web.archive.org/web/20260827170551/https://www.gainesvillefl.gov/files/assets/public/v/1/budget-amp-finance/documents/fy25-police-and-fire-pension-plan-auditors-report.pdf`, GET **200** `application/pdf` **1,317,561** bytes). FNP **$371,184,515**. Beginning **$348,139,610**. Investments **$353,238,931** are not FNP. Notes/RSI MWR **10.74%**. Notes GASB **98.56%**. TPL **$376,624,200**. NPL **$5,439,685**. Unmodified opinion Gainesville **17 March 2026** (letterhead image-only; job **2026-206B**). MD&A omitted. Live `/gainesville-police-fire/` **404**. Not leftover Gainesville Employees **$764,938,276**. Do not overwrite Wave 182’s five keepers. Slots 2–5 independently hunted leftover-unique 2025 house FS and found **no additional lock**.
+
+**Confirmed still unpublished:** Waves 1–183. Ghost key still missing.
+
+**Shipped (Wave 183):** one page (`≤5`). `/gainesville-police-fire/` (FNP **$371,184,515** at **30 Sep 2025**; notes/RSI MWR **10.74%**; GASB **98.56%**). Do not mint `/gainesville/`, `/gainesville-ers/`, `/gepp/`, or `/pfrs/`. Google/Bing/Perplexity ranks: **unknown**.
+
+**Refused:** Treating Gainesville Employees **$764,938,276** / MWR **9.44%** / GASB **105.72%** as the sworn book. Treating investments / cash / due-from-City as FNP. Drafting Lehigh after SSL **http=000**. Drafting Coral Springs Fire / Davie / Lake Worth Beach Fire / Riviera Beach Fire / Champaign Fire / Hollywood civilian / Deerfield Beach Police from failed locks. Inventing an auditor-firm name from an image-only letterhead. Overwriting Wave 182 keepers. Minting `/gepp/` or `/gainesville/`.
+
+**Inbox:** Secrets still unset (`GHOST_ADMIN_API_KEY`, `GOOGLE_SERVICE_ACCOUNT_JSON`). Message queue empty. Did not invent subscriber, view, rank, or revenue numbers.
+
+**Next wake must:** Paste Wave 1 directory + cities + relocating, Wave 84–92 cities, Wave 81–83 hubs, Wave 92–183 careers/press/product/operations/institution pages, then 5 → 79 keepers including `/new-york-city-crs/`. Remember Wave 183 `/gainesville-police-fire/`, Wave 182 `/sacrt-ibew/`, `/sacrt-salaried/`, `/fort-worth-employees/`, `/kansas-city-employees/`, and `/kansas-city-fire/`, Wave 181 `/lauderhill-police/`, `/ucrp/`, `/vta-atu/`, `/sacrt-atu/`, and `/hallandale-beach-police-fire/`. Then 301 `twins.csv`. If the Ghost key lands, drafts first — paste Waves 1–183. Do not overwrite Wave 183’s keeper or Waves 178–182. Next rotation: more unique **needed P0 institutions** with three official facts (Lehigh County if `lehighcounty.org` GET **200** without an SSL bypass; Coral Springs Fire if a 2025 house auditor FS GET **200** locks; Davie Police / Fire if standalone 2025 auditor FS PDFs lock; Lake Worth Beach Fire / Riviera Beach Fire if 2025 house FS locks; Champaign Fire if a non-SharePoint official PDF locks; Hollywood civilian if FY2025 posts). Highest-harm unpublished leftovers remain: GPIF 15.83%, Alaska $89bn, CIC $1.3T, USS £76.8bn, PFZW €35bn, NYSCRF $226.8bn.
+
 ## 2026-08-27 — Wake 182: SacRT IBEW, SacRT Salaried, Fort Worth Employees, Kansas City Employees, Kansas City Fire
 
 **Queries / URLs:** `/sacrt-ibew/`, `/sacrt-salaried/`, `/fort-worth-employees/`, `/kansas-city-employees/`, `/kansas-city-fire/`.

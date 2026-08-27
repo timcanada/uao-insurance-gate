@@ -59,5 +59,6 @@ Do not 301 this page onto `/tampa-fire-police/`, `/miami-fire-police/`, `/jackso
 - [Town of Jupiter Police Officers’ Retirement Fund](/jupiter-police/)
 - [City of Pinellas Park Police Officers’ Pension Plan](/pinellas-park-police/)
 - [City of Pinellas Park Firefighters’ Pension Plan](/pinellas-park-fire/)
+- [Consolidated Police Officers’ and Firefighters’ Retirement Plan of the City of Gainesville](/gainesville-police-fire/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

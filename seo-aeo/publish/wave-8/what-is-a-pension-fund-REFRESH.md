@@ -318,6 +318,7 @@ No. Some SWFs pre-fund future public pensions. That still does not make GPFG, [C
 - [Employees’ Retirement Fund of the City of Fort Worth](/fort-worth-employees/)
 - [City of Kansas City, Missouri The Employees’ Retirement System](/kansas-city-employees/)
 - [City of Kansas City, Missouri Firefighters’ Pension System](/kansas-city-fire/)
+- [Consolidated Police Officers’ and Firefighters’ Retirement Plan of the City of Gainesville](/gainesville-police-fire/)
 - [City of Hollywood Police Officers Retirement System](/hollywood-police/)
 - [City of Palm Bay Police and Firefighters’ Retirement System](/palm-bay-police-fire/)
 - [City of Miramar Firefighters Retirement Plan](/miramar-fire/)

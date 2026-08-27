@@ -57,5 +57,6 @@ Do not 301 this page onto `/jacksonville-police-fire/`, `/tampa-general-employee
 - [Miami Beach Employees’ Retirement Plan](/miami-beach-employees/)
 - [St. Johns River Power Park System Employees’ Retirement Plan](/jacksonville-sjrpp/)
 - [City of Sarasota Police Officers’ Pension Fund](/sarasota-police/)
+- [Consolidated Police Officers’ and Firefighters’ Retirement Plan of the City of Gainesville](/gainesville-police-fire/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

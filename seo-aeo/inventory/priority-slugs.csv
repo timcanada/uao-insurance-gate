@@ -807,6 +807,9 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,kansas-city-fire-explained,Kansas City Fire explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 182 /kansas-city-fire/
 2,institution,kansas-city-firefighters,Kansas City firefighters (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 182 /kansas-city-fire/
 2,institution,kcmo-fire,KCMO Fire (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 182 /kansas-city-fire/
+183,institution,gainesville-police-fire,Consolidated Police Officers and Firefighters Retirement Plan of the City of Gainesville,allocator,brief,P0,drafted-in-repo,Wave 183. Official FNP $371,184,515 at 30 Sep 2025. Do not mint /gainesville/ or /gepp/ or /pfrs/. Not leftover Gainesville Employees
+2,institution,gainesville-police-fire-explained,Gainesville Police Fire explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 183 /gainesville-police-fire/
+2,institution,gainesville,Gainesville (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 183 /gainesville-police-fire/. Flattens Employees vs Police and Fire
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

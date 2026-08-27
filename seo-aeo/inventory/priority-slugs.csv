@@ -555,6 +555,14 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,springfield-mo,Springfield MO Police Fire (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 160 /springfield-mo-police-fire/. Not Springfield IL /springfield-police/
 161,institution,west-palm-beach-fire,West Palm Beach Firefighters Pension Fund,allocator,brief,P0,drafted-in-repo,Wave 161. Official FNP $336,235,139 at 30 Sep 2025. Do not mint /wpb-fire/ or /wpb-firefighters/. Not leftover WPB Police
 2,institution,wpb-fire,West Palm Beach Fire (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 161 /west-palm-beach-fire/. Not leftover /west-palm-beach-police/
+162,institution,hollywood-police,City of Hollywood Police Officers Retirement System,allocator,brief,P0,drafted-in-repo,Wave 162. Official FNP $508,897,579 at 30 Sep 2025. Do not mint /hppf/ or /hollywood/. Not leftover website card $507,681,728
+2,institution,hppf,Hollywood Police (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 162 /hollywood-police/. Not leftover Fort Lauderdale P&F
+162,institution,palm-bay-police-fire,City of Palm Bay Police and Firefighters Retirement System,allocator,brief,P0,drafted-in-repo,Wave 162. Official combined FNP $260,496,503 at 30 Sep 2025. Do not mint /pbpfpf/ or /palm-bay-police/ or /palm-bay-fire/
+2,institution,pbpfpf,Palm Bay Police Fire (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 162 /palm-bay-police-fire/. Police/Fire/GE columns are one legal person
+2,institution,palm-bay-police,Palm Bay Police (column),allocator,brief,P0,do-not-mint,Do not mint. Column of Wave 162 /palm-bay-police-fire/
+2,institution,palm-bay-fire,Palm Bay Fire (column),allocator,brief,P0,do-not-mint,Do not mint. Column of Wave 162 /palm-bay-police-fire/
+162,institution,miramar-fire,City of Miramar Firefighters Retirement Plan,allocator,brief,P0,drafted-in-repo,Wave 162. Official FNP $303,762,513 at 30 Sep 2025. Do not mint /miramar-firefighters/ or /miramar-police/
+2,institution,miramar-firefighters,Miramar Fire (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 162 /miramar-fire/. Miramar Police 2025 FS unpublished
 2,institution,european-investment-fund,EIF as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,european-investment-bank-treasury,EIB treasury as owner-adjacent,allocator,brief,P0,needed,Development
 2,institution,adnoc-xrg,XRG / ADNOC international capital,allocator,brief,P0,needed,Strategic

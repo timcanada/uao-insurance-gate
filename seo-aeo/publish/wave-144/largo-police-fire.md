@@ -23,7 +23,7 @@ The City of Largo Municipal Police Officers’ and Firefighters’ Retirement Pl
 
 The statement of fiduciary net position, the GASB 67 note, and the money-weighted schedule are the sourced lines:
 
-1. **Fiduciary net position** **$234,038,525** at **30 September 2025** (beginning **$211,897,140**). Total investments **$234,143,487**. Restricted for DROP accounts **$7,505,481**. Restricted for Share accounts **$3,212,110**. Those restricted lines are not a second AUM. Do not treat leftover Tampa Fire and Police **$3,407,822,026**, leftover Miami Fire and Police **$1,943,149,383**, leftover Jacksonville Police and Fire **$2,903,990,005**, leftover Florida SBA **$300 billion+**, leftover MassPRIM **$73 billion**, or leftover NYSCRF **$226.8 billion** as this filing.
+1. **Fiduciary net position** **$234,038,525** at **30 September 2025** (beginning **$211,897,140**). Total investments **$234,143,487**. Restricted for DROP accounts **$7,505,481**. Restricted for Share accounts **$3,212,110**. Those restricted lines are not a second AUM. Do not treat leftover Tampa Fire and Police **$3,407,822,026**, leftover Miami Fire and Police **$1,943,149,383**, leftover Jacksonville Police and Fire **$2,903,990,005**, leftover Palm Bay Police and Fire **$260,496,503**, leftover Florida SBA **$300 billion+**, leftover MassPRIM **$73 billion**, or leftover NYSCRF **$226.8 billion** as this filing.
 2. **GASB cards.** Total pension liability **$256,875,306**. City’s net pension liability **$22,836,781**. Plan fiduciary net position as a percentage of total pension liability **91.11 percent**.
 3. **Returns.** Notes money-weighted return **10.98 percent** net of investment expense for the year ended **30 September 2025** (2024 **21.87 percent**).
 
@@ -50,6 +50,7 @@ Do not 301 this page onto `/tampa-fire-police/`, `/miami-fire-police/`, `/jackso
 - [City of Miami Firefighters’ and Police Officers’ Retirement Trust](/miami-fire-police/)
 - [Jacksonville Police and Fire](/jacksonville-police-fire/)
 - [Pompano Beach Police and Firefighters’ Retirement System](/pompano-beach-police-fire/)
+- [City of Palm Bay Police and Firefighters’ Retirement System](/palm-bay-police-fire/)
 - [City of North Port Police Officers’ Pension–Local Option Trust Fund](/north-port-police/)
 - [City of Hialeah Employees’ Retirement System](/hialeah-employees/)
 - [City of Sarasota Police Officers’ Pension Fund](/sarasota-police/)

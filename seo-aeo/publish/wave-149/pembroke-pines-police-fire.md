@@ -23,7 +23,7 @@ The City Pension Fund for Firefighters and Police Officers in the City of Pembro
 
 The statement of fiduciary net position, the DROP restriction note, the GASB note, and the money-weighted note are the sourced lines:
 
-1. **Fiduciary net position** **$1,063,006,542** at **30 September 2025** (beginning **$997,399,383**). Investments **$1,058,250,756** (2024 **$993,038,014**). Total assets **$1,063,560,352**. Total liabilities **$553,810**. DROP restricted **$256,530,145** (2024 **$237,314,732**) is held by the plan. Do not treat leftover Miami Fire and Police **$1,943,149,383**, leftover Fort Lauderdale Police and Fire combined **$1,288,290,405**, leftover Miami Beach Police and Fire **$1,341,331,702**, leftover Pompano Beach Police and Fire **$313,289,538**, leftover Florida SBA **$300 billion+**, leftover MassPRIM **$73 billion**, or leftover NYSCRF **$226.8 billion** as this filing.
+1. **Fiduciary net position** **$1,063,006,542** at **30 September 2025** (beginning **$997,399,383**). Investments **$1,058,250,756** (2024 **$993,038,014**). Total assets **$1,063,560,352**. Total liabilities **$553,810**. DROP restricted **$256,530,145** (2024 **$237,314,732**) is held by the plan. Do not treat leftover Miami Fire and Police **$1,943,149,383**, leftover Fort Lauderdale Police and Fire combined **$1,288,290,405**, leftover Miami Beach Police and Fire **$1,341,331,702**, leftover Hollywood Police **$508,897,579**, leftover Pompano Beach Police and Fire **$313,289,538**, leftover Miramar Fire **$303,762,513**, leftover Florida SBA **$300 billion+**, leftover MassPRIM **$73 billion**, or leftover NYSCRF **$226.8 billion** as this filing.
 2. **GASB cards.** Total pension liability **$1,280,173,379**. Net pension liability **$217,166,837**. Plan fiduciary net position as a percentage of total pension liability **83.04 percent** (2024 **82.94 percent**).
 3. **Returns.** Notes money-weighted return **7.67 percent** net of investment expense for the years ended **30 September 2025** (2024 **20.31 percent**).
 
@@ -50,5 +50,7 @@ Do not 301 this page onto `/miami-fire-police/`, `/fort-lauderdale-police-fire/`
 - [City of Fort Lauderdale Police and Firefighters’ Retirement System](/fort-lauderdale-police-fire/)
 - [Pompano Beach Police and Firefighters’ Retirement System](/pompano-beach-police-fire/)
 - [City of Miami Firefighters’ and Police Officers’ Retirement Trust](/miami-fire-police/)
+- [City of Hollywood Police Officers Retirement System](/hollywood-police/)
+- [City of Miramar Firefighters Retirement Plan](/miramar-fire/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

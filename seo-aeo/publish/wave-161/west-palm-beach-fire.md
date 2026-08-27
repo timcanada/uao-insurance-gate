@@ -23,7 +23,7 @@ The West Palm Beach Firefighters’ Pension Fund is West Palm Beach’s firefigh
 
 The statement of fiduciary net position, Note 7, Note 13, and the money-weighted note are the sourced lines:
 
-1. **Net position restricted for pensions** **$336,235,139** at **30 September 2025** (beginning **$317,685,002**). Net increase **$18,550,137**. Cash **$3,329,761**. Investments **$333,118,036**. Total receivables **$817,297**. Total assets **$337,302,497**. Total liabilities **$1,067,358**. Do not treat leftover West Palm Beach Police **$528,055,662**, leftover West Palm Beach Employees **$45,122,439**, leftover Palm Beach Gardens Fire **$178,150,007**, leftover Boca Police and Fire **$613,033,507**, leftover Jupiter Police **$121,341,553**, leftover Lantana Police **$31,523,590**, leftover Florida SBA **$300 billion+**, leftover MassPRIM **$73 billion**, or leftover NYSCRF **$226.8 billion** as this filing.
+1. **Net position restricted for pensions** **$336,235,139** at **30 September 2025** (beginning **$317,685,002**). Net increase **$18,550,137**. Cash **$3,329,761**. Investments **$333,118,036**. Total receivables **$817,297**. Total assets **$337,302,497**. Total liabilities **$1,067,358**. Do not treat leftover West Palm Beach Police **$528,055,662**, leftover West Palm Beach Employees **$45,122,439**, leftover Miramar Fire **$303,762,513**, leftover Palm Beach Gardens Fire **$178,150,007**, leftover Boca Police and Fire **$613,033,507**, leftover Jupiter Police **$121,341,553**, leftover Lantana Police **$31,523,590**, leftover Florida SBA **$300 billion+**, leftover MassPRIM **$73 billion**, or leftover NYSCRF **$226.8 billion** as this filing.
 2. **GASB cards.** Total pension liability **$431,983,864**. City net pension liability **$95,748,725**. Plan fiduciary net position as a percentage of total pension liability **77.84 percent** (2024 **79.01 percent**). Do not treat **$431,983,864** as AUM. Covered payroll **$26,792,161**. Employer **$9,172,082** plus state excise tax rebate **$2,533,778** plus plan-member **$4,149,217** plus BackDROP **$1,186,578**. The RSI actual-contribution line **$11,705,860** is the employer-and-state combined card, not the employer-only line.
 3. **Returns and cash flow.** Notes money-weighted return **7.65 percent** net of investment expense for the year ended **30 September 2025** (2024 **17.39 percent**). Net investment income **$23,159,318**. Age-and-service benefits **$12,552,614**. Share-account payments **$2,513,398**. BackDROP-account payments **$5,584,996**. Administrative expenses **$234,549**. Total deductions **$21,650,836**. The independent auditor’s report is dated **5 February 2026**, Tampa, Florida.
 
@@ -53,5 +53,6 @@ Do not 301 this page onto `/west-palm-beach-police/`, `/west-palm-beach-employee
 - [Town of Jupiter Police Officers’ Retirement Fund](/jupiter-police/)
 - [Lantana Police Relief and Pension Fund](/lantana-police/)
 - [City of Boca Raton Police and Firefighters’ Retirement System](/boca-raton-police-fire/)
+- [City of Miramar Firefighters Retirement Plan](/miramar-fire/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

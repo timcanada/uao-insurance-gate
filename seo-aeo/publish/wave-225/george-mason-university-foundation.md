@@ -47,5 +47,6 @@ Do not 301 this page onto `/university-of-virginia-endowment/`, `/medical-colleg
 - [Medical College of Virginia Foundation endowment](/medical-college-of-virginia-foundation/)
 - [VCU Foundation endowment](/vcu-foundation/)
 - [Radford University Foundation endowment](/radford-university-foundation/)
+- [William & Mary Foundation endowment](/william-and-mary-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

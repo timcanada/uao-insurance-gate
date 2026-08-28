@@ -50,5 +50,6 @@ Do not 301 this page onto `/lorain-county-community-college-foundation/`, `/clar
 - [Shawnee State University Foundation endowment](/shawnee-state-university-foundation/)
 - [Cleveland State University Foundation endowment](/cleveland-state-university-foundation/)
 - [Wright State University Foundation endowment](/wright-state-university-foundation/)
+- [Lakeland Foundation endowment](/lakeland-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

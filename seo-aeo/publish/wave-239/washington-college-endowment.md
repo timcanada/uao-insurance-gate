@@ -45,6 +45,7 @@ Do not 301 this page onto `/university-of-washington-endowment/`, `/washington-u
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Washington endowment](/university-of-washington-endowment/)
+- [Washington State University Foundation endowment](/washington-state-university-foundation/)
 - [Washington University in St. Louis endowment](/washington-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

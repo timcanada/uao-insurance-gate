@@ -1941,6 +1941,26 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,washington-college,Washington College (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 239 /washington-college-endowment/. Never mint /washington/
 2,institution,washcoll,Washcoll (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 239 /washington-college-endowment/
 2,institution,wc,WC (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 239 /washington-college-endowment/
+240,institution,wayne-state-foundation-nebraska,Wayne State Foundation Nebraska endowment,allocator,brief,P0,drafted-in-repo,Wave 240. Official endowment NA $36,153,210 at 30 Jun 2025. Named return lines $1,155,528 / $2,584,834. Do not homemade-sum. Do not invent leftover 6 percent. Do not mint /wayne/ or /wayne-state/ or /wsc/. Never mint /wsu/. Not leftover Wayne State Detroit
+2,institution,wayne-state-foundation-nebraska-explained,Wayne State Foundation Nebraska explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 240 /wayne-state-foundation-nebraska/
+2,institution,wayne,Wayne (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 240 /wayne-state-foundation-nebraska/. Would flatten leftover Wayne State University Detroit
+2,institution,wayne-state,Wayne State (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 240 /wayne-state-foundation-nebraska/. Would flatten leftover Wayne State University Detroit
+2,institution,wsc,WSC (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 240 /wayne-state-foundation-nebraska/
+240,institution,washington-state-university-foundation,Washington State University Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 240. Official endowment NA $716,750,667 at 30 Jun 2025. Printed Investment return $73,953,240. Do not flatten leftover SOA $80,487,318. Do not invent leftover 5.5 percent. Do not mint /washington-state/. Never mint /wsu/ or /washington/ or /uw/
+2,institution,washington-state-university-foundation-explained,Washington State University Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 240 /washington-state-university-foundation/
+2,institution,washington-state,Washington State (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 240 /washington-state-university-foundation/. Never mint /wsu/ or /washington/ or /uw/
+240,institution,lake-forest-college-endowment,Lake Forest College endowment,allocator,brief,P0,drafted-in-repo,Wave 240. Official endowment NA $135,751,151 at 31 May 2025. Printed Total investment return $11,287,513. Do not invent a percent. Do not mint /lake-forest/ or /lfc/
+2,institution,lake-forest-college-endowment-explained,Lake Forest College endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 240 /lake-forest-college-endowment/
+2,institution,lake-forest,Lake Forest (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 240 /lake-forest-college-endowment/
+2,institution,lfc,LFC (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 240 /lake-forest-college-endowment/
+240,institution,northwest-university-endowment,Northwest University endowment,allocator,brief,P0,drafted-in-repo,Wave 240. Official endowment NA $9,368 thousand at 31 May 2025. Printed Endowment investment return $645 thousand. Do not invent a percent. Do not mint /northwest/ or /nwu/ or /nu/. Not leftover Northwest Foundation. Not leftover Northwestern
+2,institution,northwest-university-endowment-explained,Northwest University endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 240 /northwest-university-endowment/
+2,institution,northwest,Northwest (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 240 /northwest-university-endowment/. Would flatten leftover Northwest Foundation (Northwest Missouri)
+2,institution,nwu,NWU (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 240 /northwest-university-endowment/. Not leftover Northwestern
+2,institution,nu,NU (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 240 /northwest-university-endowment/
+240,institution,whittier-college-endowment,Whittier College endowment,allocator,brief,P0,drafted-in-repo,Wave 240. Official endowment NA $131,581,620 at 30 Jun 2025. Printed Total investment return $14,520,808. Do not homemade-sum leftover named return lines. Do not invent leftover 6.0 percent. Do not mint /whittier/
+2,institution,whittier-college-endowment-explained,Whittier College endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 240 /whittier-college-endowment/
+2,institution,whittier,Whittier (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 240 /whittier-college-endowment/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

@@ -1875,6 +1875,33 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,siue-foundation-explained,SIUE Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 236 /siue-foundation/
 2,institution,siue,SIUE (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 236 /siue-foundation/. /siu/ remains SIU Foundation
 2,institution,edwardsville,Edwardsville (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 236 /siue-foundation/. /cougars/ remains Charleston
+237,institution,university-of-central-missouri-foundation,University of Central Missouri Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 237. Official endowment NA $93,630,667 at 30 Jun 2025. Printed total net investment return $7,783,696. Do not homemade-sum leftover return lines. Do not mint /ucm/ or /central-missouri/ or /warrensburg/ or /mules/. Never mint /msu/ or /msuf/
+2,institution,university-of-central-missouri-foundation-explained,UCM Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 237 /university-of-central-missouri-foundation/
+2,institution,ucm,UCM (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 237 /university-of-central-missouri-foundation/
+2,institution,central-missouri,Central Missouri (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 237 /university-of-central-missouri-foundation/
+2,institution,warrensburg,Warrensburg (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 237 /university-of-central-missouri-foundation/
+2,institution,mules,Mules (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 237 /university-of-central-missouri-foundation/
+237,institution,southeast-missouri-university-foundation,Southeast Missouri University Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 237. Official endowment investments $124,015,148 at 30 Jun 2025. Printed Investment return $9,688,397. Do not flatten leftover SOA $14,200,819. Do not mint /semo/ or /southeast-missouri/. Do not mint /redhawks/. /redhawks/ remains Seattle
+2,institution,southeast-missouri-university-foundation-explained,SEMO Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 237 /southeast-missouri-university-foundation/
+2,institution,semo,SEMO (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 237 /southeast-missouri-university-foundation/
+2,institution,southeast-missouri,Southeast Missouri (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 237 /southeast-missouri-university-foundation/. /redhawks/ remains Seattle
+237,institution,washburn-university-foundation,Washburn University Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 237. Official endowment NA $126,485,053 at 30 Jun 2025. Printed Investment return net $12,333,323. Do not invent leftover 4.25 percent. Do not mint /washburn/ or /wuf/ or /ichabods/. /washburn/ would flatten leftover WashU
+2,institution,washburn-university-foundation-explained,Washburn Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 237 /washburn-university-foundation/
+2,institution,washburn,Washburn (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 237 /washburn-university-foundation/. Would flatten leftover WashU
+2,institution,wuf,WUF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 237 /washburn-university-foundation/
+2,institution,ichabods,Ichabods (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 237 /washburn-university-foundation/
+237,institution,missouri-western-state-university-foundation,Missouri Western State University Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 237. Official endowment NA $45,100,068 at 30 Jun 2025. Printed Total investment return $4,851,180. Do not homemade-sum leftover return lines. Do not mint /missouri-western/ or /mwsu/ or /mwf/ or /griffons/. Never mint /msu/ or /msuf/
+2,institution,missouri-western-state-university-foundation-explained,Missouri Western Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 237 /missouri-western-state-university-foundation/
+2,institution,missouri-western,Missouri Western (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 237 /missouri-western-state-university-foundation/
+2,institution,mwsu,MWSU (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 237 /missouri-western-state-university-foundation/
+2,institution,mwf,MWF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 237 /missouri-western-state-university-foundation/
+2,institution,griffons,Griffons (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 237 /missouri-western-state-university-foundation/
+237,institution,emporia-state-university-foundation,Emporia State University Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 237. Official endowment NA $111,481,193 at 30 Jun 2025. Printed Net investment return $9,120,339. Do not invent leftover 4.00 percent. Do not mint /emporia/ or /esu/ or /esuf/ or /hornets/. /esu/ would flatten leftover East Stroudsburg
+2,institution,emporia-state-university-foundation-explained,Emporia Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 237 /emporia-state-university-foundation/
+2,institution,emporia,Emporia (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 237 /emporia-state-university-foundation/
+2,institution,esu,ESU (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 237 /emporia-state-university-foundation/. Would flatten leftover East Stroudsburg
+2,institution,esuf,ESUF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 237 /emporia-state-university-foundation/
+2,institution,hornets,Hornets (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 237 /emporia-state-university-foundation/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

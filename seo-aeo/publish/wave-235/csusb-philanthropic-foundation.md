@@ -49,5 +49,6 @@ Do not 301 this page onto `/cal-state-fullerton-philanthropic-foundation/`, `/sb
 - [University of Colorado Foundation endowment](/university-of-colorado-foundation/)
 - [CSU Bakersfield Foundation endowment](/csu-bakersfield-foundation/)
 - [Cal State LA Foundation endowment](/cal-state-la-foundation/)
+- [CSU Dominguez Hills Philanthropic Foundation endowment](/csu-dominguez-hills-philanthropic-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -49,5 +49,6 @@ Do not 301 this page onto `/campanile-foundation/`, `/texas-state-university-fou
 - [Texas State University Development Foundation endowment](/texas-state-university-foundation/)
 - [CSU Bakersfield Foundation endowment](/csu-bakersfield-foundation/)
 - [Cal State LA Foundation endowment](/cal-state-la-foundation/)
+- [CSU Dominguez Hills Philanthropic Foundation endowment](/csu-dominguez-hills-philanthropic-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

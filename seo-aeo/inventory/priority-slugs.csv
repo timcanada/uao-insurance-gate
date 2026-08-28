@@ -2271,6 +2271,12 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,cal-state-la,Cal State LA (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 260 /cal-state-la-foundation/
 2,institution,calstatela,CalStateLA (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 260 /cal-state-la-foundation/
 2,institution,csula,CSULA (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 260 /cal-state-la-foundation/
+261,institution,csu-dominguez-hills-philanthropic-foundation,CSU Dominguez Hills Philanthropic Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 261. Official endowment NA $27,929,537 at 30 Jun 2025. Printed Investment income, net $2,282,414. Appropriations for expenditure $905,139. Do not homemade-sum leftover $(250,041) / leftover $(143,484). Do not flatten leftover SOA $2,893,116 or leftover SFP Endowment investments $27,749,713. Do not invent leftover 4%. Do not mint /csudh/ or /dominguez/ or /dominguez-hills/ or /toros/. Not leftover Cal State Fullerton. Not leftover CSU Bakersfield. Not leftover Cal State LA
+2,institution,csu-dominguez-hills-philanthropic-foundation-explained,CSU Dominguez Hills Philanthropic Foundation endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 261 /csu-dominguez-hills-philanthropic-foundation/
+2,institution,csudh,CSUDH (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 261 /csu-dominguez-hills-philanthropic-foundation/
+2,institution,dominguez,Dominguez (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 261 /csu-dominguez-hills-philanthropic-foundation/
+2,institution,dominguez-hills,Dominguez Hills (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 261 /csu-dominguez-hills-philanthropic-foundation/
+2,institution,toros,Toros (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 261 /csu-dominguez-hills-philanthropic-foundation/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

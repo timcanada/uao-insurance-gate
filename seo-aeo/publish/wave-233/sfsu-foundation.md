@@ -49,5 +49,6 @@ Do not 301 this page onto `/university-of-san-francisco-endowment/`, `/csu-chico
 - [University of San Francisco endowment](/university-of-san-francisco-endowment/)
 - [CSU Bakersfield Foundation endowment](/csu-bakersfield-foundation/)
 - [Cal State LA Foundation endowment](/cal-state-la-foundation/)
+- [CSU Dominguez Hills Philanthropic Foundation endowment](/csu-dominguez-hills-philanthropic-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

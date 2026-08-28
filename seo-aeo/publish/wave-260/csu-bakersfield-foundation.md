@@ -46,6 +46,7 @@ Do not 301 this page onto `/cal-state-fullerton-philanthropic-foundation/`, `/cs
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Cal State LA Foundation endowment](/cal-state-la-foundation/)
+- [CSU Dominguez Hills Philanthropic Foundation endowment](/csu-dominguez-hills-philanthropic-foundation/)
 - [Cal State Fullerton Philanthropic Foundation endowment](/cal-state-fullerton-philanthropic-foundation/)
 - [CSU Chico Foundation endowment](/csu-chico-foundation/)
 - [CSUSB Philanthropic Foundation endowment](/csusb-philanthropic-foundation/)

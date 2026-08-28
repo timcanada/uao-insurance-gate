@@ -1809,6 +1809,32 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,oregon,Oregon (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 233 /university-of-oregon-foundation/. Would flatten leftover Oregon PERS
 2,institution,uof,UOF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 233 /university-of-oregon-foundation/
 2,institution,ducks,Ducks (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 233 /university-of-oregon-foundation/
+234,institution,university-of-idaho-foundation,University of Idaho Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 234. Official endowment NA $456,139,417 at 30 Jun 2025. Do not invent a percent. Do not mint /idaho/ or /uif/ or /vandals/ or /uidaho/. /uif/ remains Illinois Foundation
+2,institution,university-of-idaho-foundation-explained,Idaho Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 234 /university-of-idaho-foundation/
+2,institution,idaho,Idaho (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 234 /university-of-idaho-foundation/. Would flatten leftover Idaho PERSI
+2,institution,vandals,Vandals (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 234 /university-of-idaho-foundation/
+2,institution,uidaho,UIdaho (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 234 /university-of-idaho-foundation/
+234,institution,idaho-state-university-foundation,Idaho State University Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 234. Official endowment assets $113,027,205 at 30 Jun 2025. Do not homemade-sum leftover return lines. Do not mint /isu/ or /isuf/ or /bengals/ or /idaho-state/
+2,institution,idaho-state-university-foundation-explained,Idaho State Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 234 /idaho-state-university-foundation/
+2,institution,isu,ISU (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 234 /idaho-state-university-foundation/. Would flatten leftover Illinois State
+2,institution,isuf,ISUF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 234 /idaho-state-university-foundation/
+2,institution,bengals,Bengals (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 234 /idaho-state-university-foundation/. Would flatten leftover Cincinnati
+2,institution,idaho-state,Idaho State (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 234 /idaho-state-university-foundation/
+234,institution,texas-state-university-foundation,Texas State University Development Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 234. Official endowment NA $143,211,612 at 30 Jun 2025. Do not invent leftover 4%. Do not mint /txst/ or /texas-state/ or /bobcats/. /bobcats/ remains Montana State
+2,institution,texas-state-university-foundation-explained,Texas State Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 234 /texas-state-university-foundation/
+2,institution,txst,TXST (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 234 /texas-state-university-foundation/
+2,institution,texas-state,Texas State (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 234 /texas-state-university-foundation/
+2,institution,texas-state-development,Texas State Development (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 234 /texas-state-university-foundation/
+234,institution,colorado-state-university-foundation,Colorado State University Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 234. Official endowment NA $658,517,292 at 30 Jun 2025. Do not invent a percent. Do not mint /csu/ or /csuf/ or /rams/ or /colorado-state/. /csu/ would flatten leftover CSU Chico
+2,institution,colorado-state-university-foundation-explained,Colorado State Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 234 /colorado-state-university-foundation/
+2,institution,csu,CSU (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 234 /colorado-state-university-foundation/. Would flatten leftover CSU Chico Foundation
+2,institution,csuf,CSUF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 234 /colorado-state-university-foundation/. Would flatten leftover CSU Chico
+2,institution,rams,Rams (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 234 /colorado-state-university-foundation/
+2,institution,colorado-state,Colorado State (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 234 /colorado-state-university-foundation/
+234,institution,university-of-colorado-foundation,University of Colorado Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 234. Official endowment NA $2,200,946,688 at 30 Jun 2025. Do not invent a percent. Do not mint /cu/ or /colorado/ or /buffs/ or /cuf/. /cu/ remains Creighton. /cuf/ remains Clemson
+2,institution,university-of-colorado-foundation-explained,Colorado Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 234 /university-of-colorado-foundation/
+2,institution,buffs,Buffs (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 234 /university-of-colorado-foundation/
+2,institution,colorado,Colorado (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 234 /university-of-colorado-foundation/. Would flatten leftover Colorado College
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

@@ -46,6 +46,6 @@ Do not 301 this page onto `/oregon-state-university-foundation/`, `/willamette-e
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Oregon State University Foundation endowment](/oregon-state-university-foundation/)
-- [Willamette University endowment](/willamette-endowment/)
+- [Colorado State University Foundation endowment](/colorado-state-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

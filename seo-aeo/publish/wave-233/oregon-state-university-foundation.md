@@ -45,7 +45,7 @@ Do not 301 this page onto `/university-of-oregon-foundation/`, `/ohio-state-endo
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
-- [Western Oregon University Foundation endowment](/western-oregon-university-foundation/)
+- [University of Idaho Foundation endowment](/university-of-idaho-foundation/)
 - [University of Oregon Foundation endowment](/university-of-oregon-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

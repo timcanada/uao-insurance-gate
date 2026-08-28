@@ -45,7 +45,7 @@ Do not 301 this page onto `/sfsu-foundation/`, `/csu-chico-foundation/`, `/sdsu/
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
-- [CSU Chico Foundation endowment](/csu-chico-foundation/)
+- [Idaho State University Foundation endowment](/idaho-state-university-foundation/)
 - [San Francisco State University Foundation endowment](/sfsu-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

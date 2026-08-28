@@ -45,7 +45,7 @@ Do not 301 this page onto `/wyoming-retirement-system/`, `/university-of-alaska-
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
-- [University of Alaska Foundation endowment](/university-of-alaska-foundation/)
+- [University of Colorado Foundation endowment](/university-of-colorado-foundation/)
 - [Wyoming Retirement System](/wyoming-retirement-system/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

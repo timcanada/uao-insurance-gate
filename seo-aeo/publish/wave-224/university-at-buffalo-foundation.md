@@ -44,6 +44,6 @@ Do not 301 this page onto `/new-york-state-common-retirement-fund-explained/`, `
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Illinois Foundation endowment](/university-of-illinois-foundation/)
-- [University of Hawaii Foundation endowment](/university-of-hawaii-foundation/)
+- [Xavier University endowment](/xavier-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

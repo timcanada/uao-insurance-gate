@@ -44,6 +44,6 @@ Do not 301 this page onto `/university-at-buffalo-foundation/`, `/georgia-southe
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [University at Buffalo Foundation endowment](/university-at-buffalo-foundation/)
-- [Georgia Southern University Foundation endowment](/georgia-southern-university-foundation/)
+- [George Mason University Foundation endowment](/george-mason-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

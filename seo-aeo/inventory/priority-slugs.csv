@@ -1591,6 +1591,34 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,uh,UH (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 224 /university-of-hawaii-foundation/. Not leftover University of Houston
 2,institution,uhf,UHF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 224 /university-of-hawaii-foundation/
 2,institution,hawaii-foundation,Hawaii Foundation (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 224 /university-of-hawaii-foundation/
+225,institution,university-of-wisconsin-foundation,University of Wisconsin Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 225. Official endowment NA $3,292,081,087 at 30 Jun 2025. Do not invent a percent. Do not mint /wisconsin/ or /uwf/ or /wfaa/ or /uw/ or /wisconsin-foundation/. /uw/ remains Washington. /uwf/ remains West Florida. Not leftover SWIB
+2,institution,university-of-wisconsin-foundation-explained,Wisconsin Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 225 /university-of-wisconsin-foundation/
+2,institution,wisconsin,Wisconsin (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 225 /university-of-wisconsin-foundation/. Not leftover SWIB
+2,institution,wfaa,WFAA (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 225 /university-of-wisconsin-foundation/
+2,institution,wisconsin-foundation,Wisconsin Foundation (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 225 /university-of-wisconsin-foundation/
+225,institution,university-of-dayton-endowment,University of Dayton endowment,allocator,brief,P0,drafted-in-repo,Wave 225. Official endowment NA $937,402 thousand at 30 Jun 2025. Do not homemade-sum return lines. Do not invent a percent. Do not mint /dayton/ or /ud/ or /daytona/ or /flyers/. Not leftover Daytona
+2,institution,university-of-dayton-endowment-explained,Dayton endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 225 /university-of-dayton-endowment/
+2,institution,dayton,Dayton (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 225 /university-of-dayton-endowment/. Not leftover Daytona
+2,institution,ud,UD (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 225 /university-of-dayton-endowment/
+2,institution,daytona,Daytona (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 225 /university-of-dayton-endowment/. Not leftover Daytona State
+2,institution,flyers,Flyers (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 225 /university-of-dayton-endowment/
+225,institution,medical-college-of-virginia-foundation,Medical College of Virginia Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 225. Official endowment NA $908,534 thousand at 30 Jun 2025. Do not flatten leftover entity-wide $99,892 thousand. Do not invent a percent. Do not mint /mcv/ or /vcu/ or /richmond/ or /mcvf/. /richmond/ remains University of Richmond. Not leftover UVA
+2,institution,medical-college-of-virginia-foundation-explained,MCV Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 225 /medical-college-of-virginia-foundation/
+2,institution,mcv,MCV (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 225 /medical-college-of-virginia-foundation/
+2,institution,vcu,VCU (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 225 /medical-college-of-virginia-foundation/. Not leftover VCU Foundation standalone
+2,institution,mcvf,MCVF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 225 /medical-college-of-virginia-foundation/
+225,institution,xavier-university-endowment,Xavier University endowment,allocator,brief,P0,drafted-in-repo,Wave 225. Official endowment NA $300,653 thousand at 30 Jun 2025. Do not invent a percent. Do not mint /xavier/ or /xu/ or /xula/ or /musketeers/. Not leftover Xavier University of Louisiana
+2,institution,xavier-university-endowment-explained,Xavier endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 225 /xavier-university-endowment/
+2,institution,xavier,Xavier (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 225 /xavier-university-endowment/. Not leftover Xavier University of Louisiana
+2,institution,xu,XU (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 225 /xavier-university-endowment/
+2,institution,xula,XULA (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 225 /xavier-university-endowment/. Not leftover Xavier University of Louisiana
+2,institution,musketeers,Musketeers (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 225 /xavier-university-endowment/
+225,institution,george-mason-university-foundation,George Mason University Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 225. Official endowment NA $240,525,531 at 30 Jun 2025. Do not invent a percent. Do not mint /gmu/ or /mason/ or /gmuf/ or /patriots/. Not leftover UVA
+2,institution,george-mason-university-foundation-explained,George Mason Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 225 /george-mason-university-foundation/
+2,institution,gmu,GMU (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 225 /george-mason-university-foundation/
+2,institution,mason,Mason (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 225 /george-mason-university-foundation/
+2,institution,gmuf,GMUF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 225 /george-mason-university-foundation/
+2,institution,patriots,Patriots (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 225 /george-mason-university-foundation/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

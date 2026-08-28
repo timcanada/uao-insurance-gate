@@ -44,6 +44,6 @@ Do not 301 this page onto `/nebraska-school/`, `/kansas-university-endowment/`, 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Minnesota Foundation endowment](/university-of-minnesota-foundation/)
-- [Kansas University Endowment Association endowment](/kansas-university-endowment/)
+- [University of Dayton endowment](/university-of-dayton-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

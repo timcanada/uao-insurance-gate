@@ -44,6 +44,6 @@ Do not 301 this page onto `/kansas-state-university-foundation/`, `/kansas-kpers
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Kansas State University Foundation endowment](/kansas-state-university-foundation/)
-- [University of Nebraska Foundation endowment](/university-of-nebraska-foundation/)
+- [University of Wisconsin Foundation endowment](/university-of-wisconsin-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

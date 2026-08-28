@@ -44,6 +44,6 @@ Do not 301 this page onto `/ohio-state-endowment/`, `/oklahoma-opers/`, `/univer
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Arkansas Foundation endowment](/university-of-arkansas-foundation/)
-- [Kansas State University Foundation endowment](/kansas-state-university-foundation/)
+- [Medical College of Virginia Foundation endowment](/medical-college-of-virginia-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -46,6 +46,7 @@ Do not 301 this page onto `/georgia-southern-university-foundation/`, `/kansas-s
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Georgia Southern University Foundation endowment](/georgia-southern-university-foundation/)
+- [University of West Georgia Foundations endowment](/university-of-west-georgia-foundations/)
 - [University of Alaska Foundation endowment](/university-of-alaska-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

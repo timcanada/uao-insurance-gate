@@ -45,5 +45,6 @@ Do not 301 this page onto `/missouri-state-university-foundation/`, `/kansas-sta
 - [The endowment model, explained](/endowment-model-explained/)
 - [Missouri State University Foundation endowment](/missouri-state-university-foundation/)
 - [Kennesaw State University Foundation endowment](/kennesaw-state-university-foundation/)
+- [University of West Georgia Foundations endowment](/university-of-west-georgia-foundations/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

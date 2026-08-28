@@ -30,7 +30,7 @@ Two desks, four formats, a live official-print wire, a studio, a jobs book, and 
 
 | Surface | Who may enter | What it is |
 |---|---|---|
-| **TERM** | Anyone | Morning edition. Manifesto. Cover brief. Probability Desk. Charts. Partner plate. |
+| **TERM** | Anyone | CIO desk. 30-year tape. Sleeve map. Since-last-IC pack. Name book. Cover brief. PD weights. |
 | **WIRE** | Anyone | Streaming UAO desk + Fed / ECB / SEC / BIS + allocator scan. JUST IN. |
 | **LIVE** | Applied (`pending`) or seated | In-app podcasts. Watch live. Just missed. Recent YouTube shows. |
 | **ROOM** | Invite or desk review | Four chambers. Desk spine + member notes. Chatham House. Pending may read; only seated may post. |
@@ -115,7 +115,7 @@ Rules of speech:
 
 ## Information architecture
 
-- **TERM** — edition, manifesto, morning cover, Probability Desk, charts, Studio / Book / Room teasers, partner plate, access.
+- **TERM** — CIO desk: Treasury 30-year (labelled, never invented), session ritual, sleeve map lit from desk copy, since-last-IC pack, watched names, then the cover brief and PD book.
 - **WIRE** — UAO + official prints + allocator scan. 30s tick. JUST IN < 30 minutes.
 - **LIVE** — members’ studio: watch live, just missed, recent YouTube, in-app Podbean audio for *The Universal Owner* and *The Probability Desk*.
 - **ROOM** — garden or chambers as above.
@@ -146,13 +146,13 @@ Appointments: weekday desk ritual + “request a briefing” mailto. Not a scrap
 
 Do not fake Bloomberg IBOR. Do not add a CNN tab. Do not add likes. Do not add public profiles. Do not auto-seat Gmail. Do not claim cross-device chat until Tim has a house server.
 
-Next intelligence (from `FEATURES.md`, only after The Room is honest): name-level wire, H.15 / discount-rate tape, live PD weights.
+Next intelligence is on TERM: IC pack, sleeve map, Treasury 30-year, watched names. Do not fake Milliman funded status. Label the curve as Treasury par yield. Drop `[QC — NOT SENT TO LIST]` from the pack.
 
 ---
 
 ## Success
 
-A CIO of a public pension opens TERM at 07:10 ET for the brief, WIRE at 14:05 for the official print, and ROOM once after the IC to see whether the house added anything the pack missed. A briefing partner pays to sit *next* to that, disclosed. The person without a seat can still read the newspaper. They cannot speak in the house.
+A CIO of a public pension opens TERM at 07:10 ET for the 30-year, the sleeve map and the pack since last IC; WIRE at 14:05 for the official print on their names; ROOM once after the committee to see whether the house added anything the pack missed. A briefing partner pays to sit *next* to that, disclosed. The person without a seat can still read the newspaper. They cannot speak in the house.
 
 ## Build order
 

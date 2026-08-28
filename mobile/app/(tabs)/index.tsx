@@ -1,8 +1,13 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { useRouter } from 'expo-router';
+import * as WebBrowser from 'expo-web-browser';
 import { useEffect, useState } from 'react';
 import { Pressable, RefreshControl, ScrollView, StyleSheet, Text, View } from 'react-native';
 
+import { fetchThirtyYear } from '@/src/api/rates';
+import { fetchPosts, snapshotToday } from '@/src/api/ghost';
+import { fetchWire } from '@/src/api/wire';
+import { IcPack, LiabilityTape, SleeveMap, WatchBook } from '@/src/components/CioDesk';
 import { PartnerPlate } from '@/src/components/PartnerPlate';
 import { SubscribeCard } from '@/src/components/SubscribeCard';
 import { ProbabilityMeters, TerminalHeader, Ticker } from '@/src/components/Terminal';
@@ -14,8 +19,13 @@ import {
   Screen,
   SectionHeader,
 } from '@/src/components/Ui';
-import { fetchPosts, snapshotToday } from '@/src/api/ghost';
 import { FILTERS } from '@/src/lib/classify';
+import { assemblePack, isPublicDeskCopy, parseLastIc, type PackItem, type PackSeed } from '@/src/lib/ic';
+import { BOOK_NAMES, nameHits } from '@/src/lib/names';
+import { yieldFromCopy, type ThirtyYearPrint } from '@/src/lib/rates';
+import { deskSession } from '@/src/lib/session';
+import { lightSleeves } from '@/src/lib/sleeves';
+import { normalizeWatch, toggleWatch } from '@/src/lib/watch';
 import { parseDeskWeights, weightDelta, type DeskWeights } from '@/src/lib/weights';
 import { colors, fonts } from '@/src/theme';
 import type { ClassifiedPost } from '@/src/types';
@@ -28,25 +38,43 @@ export default function TodayScreen() {
   const [desk, setDesk] = useState<ClassifiedPost[]>(initial.desk);
   const [charts, setCharts] = useState<ClassifiedPost[]>(initial.charts);
   const [tape, setTape] = useState<ClassifiedPost[]>([]);
+  const [pack, setPack] = useState<PackItem[]>([]);
+  const [sleeves, setSleeves] = useState(lightSleeves([]));
+  const [watch, setWatch] = useState<string[]>([]);
+  const [hits, setHits] = useState<{ id: string; label: string; title: string; slug?: string; url?: string }[]>(
+    [],
+  );
+  const [lastIc, setLastIc] = useState(parseLastIc(null));
+  const [print, setPrint] = useState<ThirtyYearPrint | null>(null);
   const [loading, setLoading] = useState(!initial.hero);
   const [refreshing, setRefreshing] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [weights, setWeights] = useState<DeskWeights | null>(null);
   const [delta, setDelta] = useState<DeskWeights | null>(null);
 
-  async function load() {
+  async function load(nextWatch?: string[], nextIc?: string) {
     setError(null);
     try {
-      const [briefs, pd, chartFeed, latest] = await Promise.all([
-        fetchPosts({ filter: FILTERS.dailyBrief, limit: 4 }),
-        fetchPosts({ filter: FILTERS.probabilityDesk, limit: 3, includeHtml: true }),
+      const storedWatch = nextWatch ?? normalizeWatch(JSON.parse((await AsyncStorage.getItem('uao.watch')) || 'null'));
+      const storedIc = nextIc ?? parseLastIc(await AsyncStorage.getItem('uao.lastIc'));
+      setWatch(storedWatch);
+      setLastIc(storedIc);
+      const [briefs, pd, chartFeed, latest, people, research, wire, curve] = await Promise.all([
+        fetchPosts({ filter: FILTERS.dailyBrief, limit: 8 }),
+        fetchPosts({ filter: FILTERS.probabilityDesk, limit: 4, includeHtml: true }),
         fetchPosts({ filter: FILTERS.charts, limit: 4 }),
-        fetchPosts({ filter: FILTERS.latest, limit: 12 }),
+        fetchPosts({ filter: FILTERS.latest, limit: 24 }),
+        fetchPosts({ filter: 'tag:people', limit: 8 }).catch(() => ({ posts: [] as ClassifiedPost[] })),
+        fetchPosts({ filter: FILTERS.research, limit: 8 }).catch(() => ({ posts: [] as ClassifiedPost[] })),
+        fetchWire().catch(() => []),
+        fetchThirtyYear().catch(() => null),
       ]);
-      setHero(briefs.posts[0] ?? null);
+      const publicBriefs = briefs.posts.filter((post) => isPublicDeskCopy(post.title));
+      const publicLatest = latest.posts.filter((post) => isPublicDeskCopy(post.title));
+      setHero(publicBriefs[0] ?? briefs.posts[0] ?? null);
       setDesk(pd.posts);
       setCharts(chartFeed.posts);
-      setTape(latest.posts);
+      setTape(publicLatest);
       const nextWeights = pd.posts[0]?.html ? parseDeskWeights(pd.posts[0].html) : null;
       setWeights(nextWeights);
       if (nextWeights) {
@@ -57,6 +85,77 @@ export default function TodayScreen() {
       } else {
         setDelta(null);
       }
+      const seeds: PackSeed[] = [
+        ...publicBriefs.map((post) => ({
+          id: post.id,
+          title: post.title,
+          publishedAt: post.published_at,
+          slug: post.slug,
+          source: 'The Universal Owner',
+          kind: 'brief' as const,
+        })),
+        ...pd.posts.map((post) => ({
+          id: post.id,
+          title: post.title,
+          publishedAt: post.published_at,
+          slug: post.slug,
+          source: 'The Probability Desk',
+          kind: 'desk' as const,
+        })),
+        ...research.posts.map((post) => ({
+          id: post.id,
+          title: post.title,
+          publishedAt: post.published_at,
+          slug: post.slug,
+          source: 'UAO Research',
+          kind: 'research' as const,
+        })),
+        ...people.posts.map((post) => ({
+          id: post.id,
+          title: post.title,
+          publishedAt: post.published_at,
+          slug: post.slug,
+          source: 'People',
+          kind: 'people' as const,
+        })),
+        ...wire
+          .filter((item) => item.desk === 'OFFICIAL')
+          .map((item) => ({
+            id: item.id,
+            title: item.title,
+            publishedAt: item.publishedAt,
+            url: item.url,
+            source: item.source,
+            kind: 'official' as const,
+          })),
+      ];
+      setPack(assemblePack(seeds, storedIc, 10));
+      setSleeves(
+        lightSleeves(
+          [publicBriefs[0], pd.posts[0], ...publicLatest.slice(0, 6), ...wire.slice(0, 8)].filter(
+            (item): item is NonNullable<typeof item> => Boolean(item),
+          ),
+        ),
+      );
+      const pool = [
+        ...publicLatest.map((post) => ({
+          title: post.title,
+          slug: post.slug as string | undefined,
+          url: undefined as string | undefined,
+        })),
+        ...wire.map((item) => ({ title: item.title, slug: item.slug, url: item.url })),
+      ];
+      setHits(
+        storedWatch.map((id) => {
+          const label = BOOK_NAMES.find((name) => name.id === id)?.label || id;
+          const hit = pool.find((item) => nameHits(item.title).some((name) => name.id === id));
+          return hit
+            ? { id, label, title: hit.title, slug: hit.slug, url: hit.url }
+            : { id, label, title: 'No print on this name since the last tick.' };
+        }),
+      );
+      const fromNote = pd.posts[0]?.html ? yieldFromCopy(pd.posts[0].html) : null;
+      setPrint(curve || fromNote);
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Unable to reach the UAO desk.');
     } finally {
@@ -68,6 +167,26 @@ export default function TodayScreen() {
   useEffect(() => {
     load();
   }, []);
+
+  async function changeIc(next: string) {
+    setLastIc(next);
+    if (/^\d{4}-\d{2}-\d{2}$/.test(next)) {
+      await AsyncStorage.setItem('uao.lastIc', next);
+      load(watch, next);
+    }
+  }
+
+  async function flipWatch(id: string) {
+    const next = toggleWatch(watch, id);
+    setWatch(next);
+    await AsyncStorage.setItem('uao.watch', JSON.stringify(next));
+    load(next, lastIc);
+  }
+
+  function openPack(item: PackItem) {
+    if (item.slug) router.push({ pathname: '/article/[slug]', params: { slug: item.slug } });
+    else if (item.url) WebBrowser.openBrowserAsync(item.url);
+  }
 
   return (
     <Screen>
@@ -91,19 +210,32 @@ export default function TodayScreen() {
           </Pressable>
         </View>
 
-        <Text style={styles.edition}>Today’s intelligence · New York</Text>
+        <Text style={styles.edition}>CIO terminal · New York</Text>
         <Text style={styles.lede}>
-          For investors who own the whole market, the largest risks cannot be diversified away.
+          What you would have to tell the board that you did not know at the last IC.
         </Text>
         <Text style={styles.sublede}>
-          Two desks. Four formats. Reviewed subscribers only. The same book the website ships every
-          weekday — built to be used on a phone.
+          The 30-year. Which sleeve is carrying today’s print. Your names. Not a newspaper —
+          Bloomberg already is. MandateWire already is.
         </Text>
+
+        <LiabilityTape print={print} session={deskSession()} weights={weights} delta={delta} />
+        <SleeveMap sleeves={sleeves} />
+        <IcPack lastIc={lastIc} onChangeLastIc={changeIc} items={pack} onOpen={openPack} />
+        <WatchBook
+          watch={watch}
+          onToggle={flipWatch}
+          hits={hits}
+          onOpen={(hit) => {
+            if (hit.slug) router.push({ pathname: '/article/[slug]', params: { slug: hit.slug } });
+            else if (hit.url) WebBrowser.openBrowserAsync(hit.url);
+          }}
+        />
 
         <View style={styles.formats}>
           <Chip label="Read" onPress={() => router.push('/(tabs)/brief')} />
           <Chip label="Watch" onPress={() => router.push('/watch')} />
-          <Chip label="Listen" onPress={() => router.push('/listen')} />
+          <Chip label="Listen" onPress={() => router.push('/(tabs)/live')} />
           <Chip label="Chart" onPress={() => router.push('/charts')} />
         </View>
 

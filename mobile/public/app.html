@@ -145,6 +145,45 @@
     }
     .meters b { display: block; font: 800 13px/1.1 system-ui; }
     .meters span { color: var(--muted); font: 10px system-ui; letter-spacing: .4px; }
+    .mast {
+      display: grid;
+      grid-template-columns: 1.15fr 1fr;
+      gap: 8px;
+      margin: 8px 0 12px;
+    }
+    .mast .num, .mast .sess {
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 11px;
+      background: #081422;
+    }
+    .mast .num { border-color: var(--gold); }
+    .mast .num b {
+      display: block;
+      color: var(--gold2);
+      font: 800 28px/1 "SF Mono", ui-monospace, monospace;
+    }
+    .mast .num span, .mast .sess span { color: var(--muted); font: 11px/1.35 Georgia, serif; }
+    .sleeves { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 6px; margin: 8px 0 12px; }
+    .sleeve {
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      padding: 8px 7px;
+      background: #081422;
+      min-height: 70px;
+    }
+    .sleeve.lit { border-color: var(--gold); }
+    .sleeve b {
+      display: block;
+      color: var(--gold2);
+      font: 800 10px/1.2 system-ui;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+    }
+    .sleeve span { color: var(--muted); font: 11px/1.3 Georgia, serif; }
+    .ic-item { border-bottom: 1px solid var(--line); padding: 10px 0; cursor: pointer; }
+    .ic-item:last-child { border-bottom: 0; }
+    .ic-item .note { color: var(--muted); font: 12px/1.35 Georgia, serif; display: block; margin-top: 3px; }
     .base b { color: var(--gold2); }
     .up b { color: var(--up); }
     .tail b { color: var(--dn); }
@@ -726,6 +765,110 @@
     function isHiringSignal(title) {
       return /\b(cio|hiring|mandate|search|appointment|named|joins|resigns|steps down|talent)\b/i.test(title || '');
     }
+    function flowKind(title, summary) {
+      const blob = (title || '') + ' ' + (summary || '');
+      if (/\b(cio|appointment|named|joins|resigns|steps down|talent)\b/i.test(blob)) return 'Appointment';
+      if (/\b(defined contribution|dc sleeve|dc plan|target-date|target date|401\(k\))\b/i.test(blob)) return 'DC sleeve';
+      if (/\b(capital call|distribution|vintage|pacing|tender)\b/i.test(blob)) return 'Pacing';
+      if (/\b(private credit|private markets|private-markets|secondaries|unquoted)\b/i.test(blob)) return 'Private markets';
+      if (/\b(allocation|overweight|underweight|sleeve|mandate shift|in-hous)\b/i.test(blob)) return 'Allocation';
+      return '';
+    }
+    function isPublicDeskCopy(title) { return !/\[QC|NOT SENT TO LIST/i.test(title || ''); }
+    function isChartOfTheDay(title) { return /^(pd\s+)?chart of the day/i.test(String(title || '').trim()); }
+    const SLEEVES = [
+      ['energy', 'Energy', ['brent', 'wti', 'crude', 'opec', 'lng', 'oil price', 'refinery', 'tungsten']],
+      ['lanes', 'Sea lanes', ['hormuz', 'strait', 'red sea', 'suez', 'tanker', 'chokepoint', 'cargo', 'shipping']],
+      ['insurance', 'Insurance', ['war risk', 'reinsurance', 'lloyd', 'hull', 'premium', 'insurer']],
+      ['duration', 'Duration', ['30-year', '30 year', 'discount rate', 'h.15', 'gilt', 'duration', 'liability', 'long bond', 'treasury yield']],
+      ['credit', 'Private credit', ['private credit', 'direct lending', 'private-markets', 'private markets', 'secondaries', 'unquoted']],
+      ['dc', 'DC', ['defined contribution', 'target-date', 'target date', 'dc sleeve', 'dc plan', '401(k)']],
+    ];
+    function sleeveHit(text, needles) {
+      const hay = String(text || '');
+      return needles.some((n) => n.includes(' ') || n.includes('(') ? hay.toLowerCase().includes(n) : hasNeedle(hay, n));
+    }
+    const DEFAULT_WATCH = ['cpp', 'calpers', 'nbim', 'hormuz', '30y'];
+    function getWatch() {
+      try {
+        const raw = JSON.parse(localStorage.getItem('uao.watch') || 'null');
+        const allowed = new Set(BOOK_NAMES.map((row) => row[0]));
+        const next = Array.isArray(raw) ? raw.filter((id) => allowed.has(id)) : [];
+        return next.length ? next : DEFAULT_WATCH.slice();
+      } catch (e) { return DEFAULT_WATCH.slice(); }
+    }
+    function setWatch(ids) { localStorage.setItem('uao.watch', JSON.stringify(ids)); }
+    function lastIc() {
+      const raw = localStorage.getItem('uao.lastIc') || '';
+      return /^\d{4}-\d{2}-\d{2}$/.test(raw) ? raw : new Date(Date.now() - 30 * 86400000).toISOString().slice(0, 10);
+    }
+    function afterIc(iso, day) {
+      const t = Date.parse(iso || '');
+      return !Number.isNaN(t) && t >= Date.parse(day + 'T00:00:00.000Z');
+    }
+    function assemblePack(seeds, day, limit) {
+      const rank = { brief: 0, desk: 1, official: 2, people: 3, research: 4 };
+      const why = {
+        brief: 'Morning desk — the board did not have this edition.',
+        desk: 'Probability Desk — weights, or the scenario that moved them.',
+        official: 'A primary. If it is not official, it is not in this pack.',
+        people: 'Who moved. Mandate, not gossip.',
+        research: 'A report. Take the chart, not the adjective.',
+      };
+      const eligible = seeds.filter((item) => isPublicDeskCopy(item.title) && !isChartOfTheDay(item.title) && afterIc(item.publishedAt, day))
+        .sort((a, b) => (Date.parse(b.publishedAt) || 0) - (Date.parse(a.publishedAt) || 0));
+      const out = [];
+      const seen = new Set();
+      function take(item) {
+        const key = (item.slug || item.url || item.title).toLowerCase();
+        if (!item || seen.has(key)) return;
+        seen.add(key);
+        out.push(Object.assign({}, item, { why: why[item.kind] || '' }));
+      }
+      ['brief', 'desk', 'official', 'people', 'research'].forEach((kind) => take(eligible.find((item) => item.kind === kind)));
+      eligible.forEach((item) => { if (out.length < (limit || 12)) take(item); });
+      return out.slice(0, limit || 12);
+    }
+    function parseCurve(text) {
+      const rows = [];
+      String(text || '').replace(/<[^>]+>/g, ' ').replace(/\|/g, ' ').split(/\n+/).forEach((line) => {
+        const clean = line.replace(/\s+/g, ' ').trim();
+        const m = clean.match(/(\d{2}\/\d{2}\/\d{4})/);
+        if (!m) return;
+        const nums = (clean.slice(clean.indexOf(m[1]) + 10).match(/\d+\.\d+/g) || []).map(Number);
+        if (nums.length < 2) return;
+        const thirty = nums[nums.length - 1];
+        const twenty = nums[nums.length - 2];
+        if (thirty < 1 || thirty > 12) return;
+        const iso = m[1].slice(6, 10) + '-' + m[1].slice(0, 2) + '-' + m[1].slice(3, 5);
+        if (!rows.some((r) => r.date === iso)) rows.push({ date: iso, twenty, thirty });
+      });
+      rows.sort((a, b) => a.date.localeCompare(b.date));
+      if (!rows.length) return null;
+      const last = rows[rows.length - 1];
+      const prior = rows.length > 1 ? rows[rows.length - 2].thirty : null;
+      return { date: last.date, yield: last.thirty, prior, deltaBp: prior == null ? null : Math.round((last.thirty - prior) * 100), source: 'treasury', label: 'U.S. Treasury 30-year par yield' };
+    }
+    async function loadCurve() {
+      try {
+        const cached = JSON.parse(localStorage.getItem('uao.ust30') || 'null');
+        if (cached && cached.print && Date.now() - cached.at < 6 * 3600 * 1000) return cached.print;
+      } catch (e) { /* ignore */ }
+      const month = new Intl.DateTimeFormat('en-US', { timeZone: 'America/New_York', year: 'numeric' }).format(new Date())
+        + new Intl.DateTimeFormat('en-US', { timeZone: 'America/New_York', month: '2-digit' }).format(new Date());
+      const url = 'https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=' + month;
+      const paths = [url, 'https://r.jina.ai/' + url];
+      for (const path of paths) {
+        try {
+          const print = parseCurve(await (await fetch(path)).text());
+          if (print) {
+            localStorage.setItem('uao.ust30', JSON.stringify({ at: Date.now(), print }));
+            return print;
+          }
+        } catch (e) { /* next */ }
+      }
+      return null;
+    }
     function consumerInbox(email) {
       return /@(gmail|yahoo|hotmail|outlook|icloud|me|aol|proton\.me|live)\./i.test(email || '');
     }
@@ -761,11 +904,23 @@
     function nowEt() {
       return new Date().toLocaleTimeString('en-US', { timeZone: 'America/New_York', hour: '2-digit', minute: '2-digit' });
     }
+    function etParts() {
+      const parts = new Intl.DateTimeFormat('en-US', { timeZone: 'America/New_York', hour: 'numeric', minute: 'numeric', hour12: false }).formatToParts(new Date());
+      const hour = Number(parts.find((p) => p.type === 'hour')?.value || 0);
+      const minute = Number(parts.find((p) => p.type === 'minute')?.value || 0);
+      return { hour: hour === 24 ? 0 : hour, minute };
+    }
+    function deskSession() {
+      const { hour, minute } = etParts();
+      const hm = hour * 60 + minute;
+      if (hm >= 8 * 60 + 20 && hm < 9 * 60 + 15) return { id: 'official', title: 'Official-print window', blurb: '08:30 ET. If the print reprices the book, it belongs on the wire — not in a magazine.' };
+      if (hm >= 13 * 60 + 50 && hm < 14 * 60 + 30) return { id: 'official', title: 'Official-print window', blurb: '14:00 ET. Fed, SEC, a primary. The second screen is this phone.' };
+      if (hour < 12) return { id: 'morning', title: 'Morning desk · The Universal Owner', blurb: 'Five minutes before the book opens. What you would have to tell the IC that you did not know yesterday.' };
+      if (hour < 17) return { id: 'probability', title: 'Afternoon desk · The Probability Desk', blurb: 'Base, upside, tail. If the weights moved, that is the afternoon open.' };
+      return { id: 'overnight', title: 'After close · overnight book', blurb: 'Asia and the official prints that will be on the mast at 07:00. Not a newspaper.' };
+    }
     function sessionLabel() {
-      const h = Number(new Date().toLocaleString('en-US', { timeZone: 'America/New_York', hour: 'numeric', hour12: false }));
-      if (h < 12) return 'Morning desk · The Universal Owner';
-      if (h < 17) return 'Afternoon desk · The Probability Desk';
-      return 'After close · overnight book';
+      return deskSession().title;
     }
     function tickClock() {
       $('clock').textContent = nowEt() + ' ET';
@@ -941,6 +1096,10 @@
       const rows = wireCache.filter((item) => {
         if (wireFilter !== 'ALL' && item.desk !== wireFilter) return false;
         if (wireName === 'ALL') return true;
+        if (wireName === 'MY') {
+          const labels = BOOK_NAMES.filter((row) => getWatch().includes(row[0])).map((row) => row[1]);
+          return itemNames(item).some((name) => labels.includes(name));
+        }
         return itemNames(item).includes(wireName);
       });
       $('wireTick').textContent = wireTick ? 'Last tick ' + wireTick + ' · name-level' : 'Opening the wire…';
@@ -964,14 +1123,18 @@
       $('main').innerHTML = '<div class="empty">Refreshing the book…</div>';
       try {
         if (tab === 'term') {
-          const [briefs, desk, charts, latest, video] = await Promise.all([
-            fetchPosts(FILTERS.brief, 2),
-            fetchPosts(FILTERS.desk, 2),
+          const [briefs, desk, charts, latest, video, people, research, curve] = await Promise.all([
+            fetchPosts(FILTERS.brief, 8),
+            fetchPosts(FILTERS.desk, 4),
             fetchPosts(FILTERS.charts, 4),
-            fetchPosts(FILTERS.latest, 16),
+            fetchPosts(FILTERS.latest, 24),
             fetchPosts(FILTERS.watchv, 1),
+            fetchPosts('tag:people', 8).catch(() => []),
+            fetchPosts(FILTERS.research, 8).catch(() => []),
+            loadCurve().catch(() => null),
           ]);
-          const hero = briefs[0];
+          if (!wireCache.length) await loadWire().catch(() => {});
+          const hero = briefs.find((p) => isPublicDeskCopy(p.title)) || briefs[0];
           const weights = desk[0] ? parseDeskWeights(desk[0].html || '') : null;
           let delta = null;
           if (weights) {
@@ -979,18 +1142,87 @@
             if (delta) delta = { base: weights.base - delta.base, upside: weights.upside - delta.upside, tail: weights.tail - delta.tail };
             localStorage.setItem('uao.pdWeights', JSON.stringify(weights));
           }
-          $('tape').innerHTML = latest.concat(latest).map((p) => `<b>${deskOf(p)}</b> ${esc(p.title)}`).join('   ·   ') + '   ·   ';
+          const session = deskSession();
+          const icDay = lastIc();
+          const publicLatest = latest.filter((p) => isPublicDeskCopy(p.title));
+          const pack = assemblePack([
+            ...briefs.map((p) => ({ id: p.id, title: p.title, publishedAt: p.published_at, slug: p.slug, source: 'The Universal Owner', kind: 'brief' })),
+            ...desk.map((p) => ({ id: p.id, title: p.title, publishedAt: p.published_at, slug: p.slug, source: 'The Probability Desk', kind: 'desk' })),
+            ...research.map((p) => ({ id: p.id, title: p.title, publishedAt: p.published_at, slug: p.slug, source: 'UAO Research', kind: 'research' })),
+            ...people.map((p) => ({ id: p.id, title: p.title, publishedAt: p.published_at, slug: p.slug, source: 'People', kind: 'people' })),
+            ...wireCache.filter((item) => item.desk === 'OFFICIAL').map((item) => ({ id: item.id || item.url, title: item.title, publishedAt: item.publishedAt, url: item.url, source: item.source, kind: 'official' })),
+          ], icDay, 10);
+          const sleeveItems = [hero, desk[0], ...publicLatest.slice(0, 6), ...wireCache.slice(0, 8)].filter(Boolean).map((p) => ({
+            title: p.title, summary: excerpt(p) || p.summary || '',
+          }));
+          const sleeves = SLEEVES.map(([id, label, needles]) => {
+            const titles = sleeveItems.filter((item) => sleeveHit((item.title || '') + ' ' + (item.summary || ''), needles)).map((item) => item.title);
+            return { id, label, lit: titles.length > 0, titles };
+          });
+          const watch = getWatch();
+          const nameHitsFor = (id) => {
+            const row = BOOK_NAMES.find((n) => n[0] === id);
+            if (!row) return null;
+            const pool = publicLatest.concat(wireCache.map((item) => ({ title: item.title, published_at: item.publishedAt, slug: item.slug, url: item.url, _src: item.source })));
+            return pool.find((item) => nameHits((item.title || '') + ' ' + (item.excerpt || item.summary || '')).some((n) => n[1] === row[1] || n[0] === id)) || null;
+          };
+          let tapePrint = curve;
+          if (!tapePrint) {
+            const blob = (desk[0] && desk[0].html) || excerpt(hero || {}) || '';
+            const m = String(blob).replace(/<[^>]+>/g, ' ').match(/30-year[^\d%]{0,48}(\d\.\d{2})\s*%/i);
+            if (m) tapePrint = { yield: Number(m[1]), date: '', deltaBp: null, source: 'desk-note', label: '30-year as printed in the desk note' };
+          }
+          $('tape').innerHTML = publicLatest.concat(publicLatest).map((p) => `<b>${deskOf(p)}</b> ${esc(p.title)}`).join('   ·   ') + '   ·   ';
           $('main').innerHTML = `<div class="pad">
             <div class="folio"><b>${editionLine()}</b><span>New York desk</span></div>
-            <div class="kicker">The Universal Owner</div>
-            <h1 class="manifesto">For investors who own the whole market, the largest risks cannot be diversified away.</h1>
-            <p class="lede">Two desks. A walled house. Apply with name, work email and a direct line — then the studio, the jobs book and the diary. The newspaper stays complimentary.</p>
-            <div class="why">
-              <div><b>Morning</b><span>The Universal Owner · five minutes.</span></div>
-              <div><b>Afternoon</b><span>Probability Desk · base / upside / tail.</span></div>
-              <div><b>The house</b><span>Apply. Then jobs, studio, the book.</span></div>
-              <div><b>The room</b><span>Chatham House. Seated members only on the floor.</span></div>
+            <div class="kicker">CIO terminal</div>
+            <h1 class="manifesto">What you would have to tell the board that you did not know at the last IC.</h1>
+            <p class="lede">The 30-year. Which sleeve is carrying today’s print. Your names. Not a newspaper — Bloomberg already is. MandateWire already is. This is the intelligence between those screens.</p>
+            <div class="mast">
+              <div class="num">
+                <div class="kicker">30-year</div>
+                <b>${tapePrint ? tapePrint.yield.toFixed(2) + '%' : '—'}</b>
+                <span>${tapePrint ? (tapePrint.deltaBp == null ? tapePrint.label : (tapePrint.deltaBp > 0 ? '+' : '') + tapePrint.deltaBp + ' bp vs prior print · ' + tapePrint.label) : 'Treasury curve did not print on this desk. We do not invent a liability number.'}${tapePrint && tapePrint.date ? ' · ' + tapePrint.date : ''}</span>
+              </div>
+              <div class="sess">
+                <div class="kicker">${session.id === 'official' ? 'Print window' : 'Session'}</div>
+                <h2>${esc(session.title)}</h2>
+                <span>${esc(session.blurb)}</span>
+                ${weights ? `<div class="meters" style="margin-top:8px">
+                  <div class="base"><b>${weights.base}%</b><span>BASE${delta ? ' · ' + formatDelta(delta.base) : ''}</span></div>
+                  <div class="up"><b>${weights.upside}%</b><span>UPSIDE${delta ? ' · ' + formatDelta(delta.upside) : ''}</span></div>
+                  <div class="tail"><b>${weights.tail}%</b><span>TAIL${delta ? ' · ' + formatDelta(delta.tail) : ''}</span></div>
+                </div>` : ''}
+              </div>
             </div>
+            <div class="kicker">The book’s sleeves · lit from the desk, not a risk system</div>
+            <div class="sleeves">${sleeves.map((s) => `<div class="sleeve ${s.lit ? 'lit' : ''}"><b>${esc(s.label)}</b><span>${s.lit ? esc(s.titles[0]) : 'Quiet'}</span></div>`).join('')}</div>
+            <div class="mod">
+              <div class="kicker">Since last IC</div>
+              <h2>${pack.length} items the board did not have.</h2>
+              <p class="lede">Set the last committee date. Friday you screenshot this. We do not write the minutes. We assemble the intelligence half.</p>
+              <input id="icDate" type="date" value="${esc(icDay)}" style="width:100%;margin:6px 0 10px;padding:10px;border-radius:8px;border:1px solid var(--line);background:#081422;color:var(--text);font:15px system-ui" />
+              ${pack.map((item) => `<article class="ic-item" data-${item.slug ? 'slug' : 'url'}="${esc(item.slug || item.url || '')}">
+                <div class="kicker">${esc(item.source)}</div>
+                <h2>${esc(item.title)}</h2>
+                <span class="note">${esc(item.why)} · ${fmt(item.publishedAt)}</span>
+              </article>`).join('') || '<p class="lede">Nothing on the desk since that date.</p>'}
+            </div>
+            <div class="kicker">On your names</div>
+            <p class="lede">Funds read names they hold about five times more than names they do not. This is that screen.</p>
+            <div class="seg" id="watchSeg">
+              ${BOOK_NAMES.map((row) => `<button data-watch="${row[0]}" class="${watch.includes(row[0]) ? 'on' : ''}">${row[1]}</button>`).join('')}
+            </div>
+            ${watch.map((id) => {
+              const row = BOOK_NAMES.find((n) => n[0] === id);
+              const hit = nameHitsFor(id);
+              if (!row) return '';
+              return `<article class="ic-item" data-${hit && hit.slug ? 'slug' : 'url'}="${esc((hit && (hit.slug || hit.url)) || '')}">
+                <div class="kicker">${esc(row[1])}</div>
+                <h2>${hit ? esc(hit.title) : 'No print on this name since the last tick.'}</h2>
+                <span class="note">${hit ? fmt(hit.published_at || hit.publishedAt) : 'Watch stays on. The wire will light it.'}</span>
+              </article>`;
+            }).join('')}
             <div class="seg">
               <button data-go="briefs">Read</button>
               <button data-go="watchv">Watch</button>
@@ -1042,10 +1274,30 @@
               <div class="meta">${canPost(member()) ? 'You are seated — open the room' : 'Request a seat, or continue reading'}</div>
             </div>
             <div class="kicker" style="margin-top:16px">The tape</div>
-            ${latest.slice(0,8).map(compact).join('')}
+            ${publicLatest.slice(0,8).map(compact).join('')}
             ${subscribe()}
           </div>`;
           $('main').querySelectorAll('[data-go]').forEach((b) => b.onclick = () => render(b.dataset.go));
+          const icDate = $('icDate');
+          if (icDate) icDate.onchange = () => {
+            if (/^\d{4}-\d{2}-\d{2}$/.test(icDate.value)) {
+              localStorage.setItem('uao.lastIc', icDate.value);
+              render('term');
+            }
+          };
+          $('main').querySelectorAll('[data-watch]').forEach((b) => b.onclick = () => {
+            const id = b.getAttribute('data-watch');
+            const next = getWatch().slice();
+            const i = next.indexOf(id);
+            if (i >= 0) next.splice(i, 1);
+            else next.push(id);
+            setWatch(next.length ? next : DEFAULT_WATCH.slice());
+            render('term');
+          });
+          $('main').querySelectorAll('[data-url]').forEach((el) => el.onclick = () => {
+            if (el.dataset.url) window.open(el.dataset.url, '_blank', 'noopener');
+          });
+          bindCards($('main'));
           const cmd = $('openCmd');
           if (cmd) cmd.onclick = () => document.getElementById('app').classList.add('show-cmd');
           const pd = $('openPd');
@@ -1240,6 +1492,16 @@
               <div class="kicker" style="margin-top:16px">Institutional boards</div>
               ${JOB_BOARDS.map(([name, line, href]) => `<article class="inv"><b>${esc(name)}</b><span class="lede">${esc(line)}</span>
                 <div class="meta"><a class="pill" href="${esc(href)}" target="_blank" rel="noopener">Open the board</a></div></article>`).join('')}
+              <div class="kicker" style="margin-top:16px">Owner-side flows</div>
+              <p class="lede">The other side of MandateWire. Only what the desk or the official print already said — searches, DC sleeves, private-markets pacing. We do not invent an RFP.</p>
+              ${wireCache.map((item) => {
+                const kind = flowKind(item.title, item.summary);
+                if (!kind) return '';
+                return `<article class="wire-item" data-${item.slug ? 'slug' : 'url'}="${esc(item.slug || item.url || '')}">
+                  <div class="src">${esc(kind)} · ${esc(item.source)}</div>
+                  <h2>${esc(item.title)}</h2>
+                </article>`;
+              }).filter(Boolean).slice(0, 8).join('') || '<p class="lede">No owner-side flow on the wire this tick.</p>'}
               <div class="kicker" style="margin-top:16px">Signals the desk reported</div>
               ${signals.map((item) => `<article class="wire-item" data-${item.slug ? 'slug' : 'url'}="${esc(item.slug || item.url || '')}">
                 <div class="src">${esc(item.source)}</div>
@@ -1278,6 +1540,7 @@
             </div>
             <div class="seg" id="wireNames">
               <button data-wn="ALL" class="on">All names</button>
+              <button data-wn="MY">My names</button>
               ${BOOK_NAMES.slice(0,10).map((row) => `<button data-wn="${row[1]}">${row[1]}</button>`).join('')}
             </div>
             <div id="wireList"></div>

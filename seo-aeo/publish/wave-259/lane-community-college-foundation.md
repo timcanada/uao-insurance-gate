@@ -52,6 +52,7 @@ Do not 301 this page onto `/university-of-oregon-foundation/`, `/portland-state-
 - [Western Oregon University Foundation endowment](/western-oregon-university-foundation/)
 - [University of Portland endowment](/university-of-portland-endowment/)
 - [Southwestern Oregon Community College Foundation endowment](/southwestern-oregon-community-college-foundation/)
+- [Mercer County Community College Foundation endowment](/mercer-county-community-college-foundation/)
 - [College of Western Idaho Foundation endowment](/college-of-western-idaho-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

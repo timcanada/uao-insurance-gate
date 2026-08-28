@@ -55,5 +55,6 @@ Do not 301 this page onto `/csun-foundation/`, `/fresno-state-foundation/`, `/ms
 - [Foundation for California Community Colleges endowment](/foundation-for-california-community-colleges/)
 - [College of the Canyons Foundation endowment](/college-of-the-canyons-foundation/)
 - [Santa Ana College Foundation endowment](/santa-ana-college-foundation/)
+- [Foundation of the City College of San Francisco endowment](/foundation-of-the-city-college-of-san-francisco/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

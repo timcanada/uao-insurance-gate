@@ -52,5 +52,6 @@ Do not 301 this page onto `/university-of-san-francisco-endowment/`, `/csu-chico
 - [CSU Dominguez Hills Philanthropic Foundation endowment](/csu-dominguez-hills-philanthropic-foundation/)
 - [CSUN Foundation endowment](/csun-foundation/)
 - [Fresno State Foundation endowment](/fresno-state-foundation/)
+- [Foundation of the City College of San Francisco endowment](/foundation-of-the-city-college-of-san-francisco/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

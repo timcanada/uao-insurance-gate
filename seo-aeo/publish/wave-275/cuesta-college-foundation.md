@@ -51,5 +51,6 @@ Do not 301 this page onto `/foundation-for-california-community-colleges/`, `/ve
 - [Santa Ana College Foundation endowment](/santa-ana-college-foundation/)
 - [College of the Canyons Foundation endowment](/college-of-the-canyons-foundation/)
 - [Mt. San Jacinto Community College Foundation endowment](/mt-san-jacinto-community-college-foundation/)
+- [Foundation of the City College of San Francisco endowment](/foundation-of-the-city-college-of-san-francisco/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

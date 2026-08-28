@@ -51,5 +51,6 @@ Do not 301 this page onto `/foundation-for-california-community-colleges/`, `/ve
 - [Cuesta College Foundation endowment](/cuesta-college-foundation/)
 - [Mt. San Jacinto Community College Foundation endowment](/mt-san-jacinto-community-college-foundation/)
 - [CSUN Foundation endowment](/csun-foundation/)
+- [Foundation of the City College of San Francisco endowment](/foundation-of-the-city-college-of-san-francisco/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

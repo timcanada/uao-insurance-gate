@@ -51,5 +51,6 @@ Do not 301 this page onto `/cuesta-college-foundation/`, `/foundation-for-califo
 - [Santa Ana College Foundation endowment](/santa-ana-college-foundation/)
 - [College of the Canyons Foundation endowment](/college-of-the-canyons-foundation/)
 - [CSUN Foundation endowment](/csun-foundation/)
+- [Foundation of the City College of San Francisco endowment](/foundation-of-the-city-college-of-san-francisco/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

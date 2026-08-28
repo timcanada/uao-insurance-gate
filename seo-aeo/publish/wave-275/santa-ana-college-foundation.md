@@ -51,5 +51,6 @@ Do not 301 this page onto `/cuesta-college-foundation/`, `/college-of-the-canyon
 - [Mt. San Jacinto Community College Foundation endowment](/mt-san-jacinto-community-college-foundation/)
 - [Ventura College Foundation endowment](/ventura-college-foundation/)
 - [Sierra College Foundation endowment](/sierra-college-foundation/)
+- [Foundation of the City College of San Francisco endowment](/foundation-of-the-city-college-of-san-francisco/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

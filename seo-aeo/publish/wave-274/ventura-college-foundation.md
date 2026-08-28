@@ -54,5 +54,6 @@ Do not 301 this page onto `/foundation-for-california-community-colleges/`, `/mt
 - [Pima Community College Foundation endowment](/pima-community-college-foundation/)
 - [Cuesta College Foundation endowment](/cuesta-college-foundation/)
 - [College of the Canyons Foundation endowment](/college-of-the-canyons-foundation/)
+- [Foundation of the City College of San Francisco endowment](/foundation-of-the-city-college-of-san-francisco/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -53,5 +53,6 @@ Do not 301 this page onto `/colorado-state-university-foundation/`, `/youngstown
 - [Lorain County Community College Foundation endowment](/lorain-county-community-college-foundation/)
 - [Shawnee State University Foundation endowment](/shawnee-state-university-foundation/)
 - [Lakeland Foundation endowment](/lakeland-foundation/)
+- [Cuyahoga Community College Foundation endowment](/cuyahoga-community-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

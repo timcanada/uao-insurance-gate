@@ -47,5 +47,6 @@ Do not 301 this page onto `/xavier-university-endowment/`, `/university-of-dayto
 - [The endowment model, explained](/endowment-model-explained/)
 - [Towson University Foundation endowment](/towson-university-foundation/)
 - [University of Detroit Mercy endowment](/detroit-mercy-endowment/)
+- [Bowling Green State University Foundation endowment](/bowling-green-state-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -51,5 +51,6 @@ Do not 301 this page onto `/longwood-university-foundation/`, `/vcu-foundation/`
 - [Medical College of Virginia Foundation endowment](/medical-college-of-virginia-foundation/)
 - [University of Richmond endowment](/university-of-richmond-endowment/)
 - [William & Mary Foundation endowment](/william-and-mary-foundation/)
+- [St. Mary's College of Maryland Foundation endowment](/st-marys-college-of-maryland-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

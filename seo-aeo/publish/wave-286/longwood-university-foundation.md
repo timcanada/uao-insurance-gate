@@ -52,6 +52,7 @@ Do not 301 this page onto `/unc-greensboro-endowment/`, `/montclair-state-univer
 - [VCU Foundation endowment](/vcu-foundation/)
 - [Radford University Foundation endowment](/radford-university-foundation/)
 - [William & Mary Foundation endowment](/william-and-mary-foundation/)
+- [St. Mary's College of Maryland Foundation endowment](/st-marys-college-of-maryland-foundation/)
 - [North Carolina Veterinary Medical Foundation endowment](/north-carolina-veterinary-medical-foundation/)
 - [Wake Tech Foundation endowment](/wake-tech-foundation/)
 - [Advertise](/advertise/)

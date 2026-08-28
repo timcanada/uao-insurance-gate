@@ -54,5 +54,6 @@ Do not 301 this page onto `/university-of-dayton-endowment/`, `/xavier-universit
 - [Cleveland State University Foundation endowment](/cleveland-state-university-foundation/)
 - [Lorain County Community College Foundation endowment](/lorain-county-community-college-foundation/)
 - [Owens Community College Foundation endowment](/owens-community-college-foundation/)
+- [Bowling Green State University Foundation endowment](/bowling-green-state-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

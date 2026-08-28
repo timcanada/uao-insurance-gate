@@ -52,5 +52,6 @@ Do not 301 this page onto `/clark-university-endowment/`, `/cleveland-state-univ
 - [Lorain County Community College Foundation endowment](/lorain-county-community-college-foundation/)
 - [Owens Community College Foundation endowment](/owens-community-college-foundation/)
 - [Lakeland Foundation endowment](/lakeland-foundation/)
+- [Cuyahoga Community College Foundation endowment](/cuyahoga-community-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

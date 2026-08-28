@@ -51,5 +51,7 @@ Do not 301 this page onto `/lorain-county-community-college-foundation/`, `/clar
 - [Cleveland State University Foundation endowment](/cleveland-state-university-foundation/)
 - [Wright State University Foundation endowment](/wright-state-university-foundation/)
 - [Lakeland Foundation endowment](/lakeland-foundation/)
+- [Cuyahoga Community College Foundation endowment](/cuyahoga-community-college-foundation/)
+- [Bowling Green State University Foundation endowment](/bowling-green-state-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -51,5 +51,7 @@ Do not 301 this page onto `/knox-endowment/`, `/monmouth/`, `/mc/`, or `/largest
 - [Rider University endowment](/rider-university-endowment/)
 - [North Central College endowment](/north-central-college-endowment/)
 - [Western Illinois University Foundation endowment](/western-illinois-university-foundation/)
+- [Illinois Institute of Technology endowment](/illinois-institute-of-technology-endowment/)
+- [University of St. Francis endowment](/university-of-st-francis-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

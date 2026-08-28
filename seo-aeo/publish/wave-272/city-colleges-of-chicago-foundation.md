@@ -53,5 +53,7 @@ Do not 301 this page onto `/western-illinois-university-foundation/`, `/northeas
 - [Brookdale Community College Foundation endowment](/brookdale-community-college-foundation/)
 - [Kirkwood Community College Foundation endowment](/kirkwood-community-college-foundation/)
 - [Kishwaukee College Foundation endowment](/kishwaukee-college-foundation/)
+- [Illinois Institute of Technology endowment](/illinois-institute-of-technology-endowment/)
+- [University of St. Francis endowment](/university-of-st-francis-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

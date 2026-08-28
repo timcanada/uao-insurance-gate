@@ -49,5 +49,7 @@ Do not 301 this page onto `/knox-endowment/`, `/illinois-state-university-founda
 - [Illinois State University Foundation endowment](/illinois-state-university-foundation/)
 - [Monmouth College endowment](/monmouth-college-endowment/)
 - [North Central College endowment](/north-central-college-endowment/)
+- [Illinois Institute of Technology endowment](/illinois-institute-of-technology-endowment/)
+- [University of St. Francis endowment](/university-of-st-francis-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

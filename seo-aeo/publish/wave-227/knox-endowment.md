@@ -47,5 +47,7 @@ Do not 301 this page onto `/university-of-illinois-foundation/`, `/lawrence-univ
 - [University of Iowa Center for Advancement endowment](/university-of-iowa-center-for-advancement/)
 - [Monmouth College endowment](/monmouth-college-endowment/)
 - [North Central College endowment](/north-central-college-endowment/)
+- [Illinois Institute of Technology endowment](/illinois-institute-of-technology-endowment/)
+- [University of St. Francis endowment](/university-of-st-francis-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

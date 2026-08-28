@@ -45,6 +45,9 @@ Do not 301 this page onto `/loyola-university-chicago-endowment/`, `/johns-hopki
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [University of Maryland College Park Foundation endowment](/university-of-maryland-college-park-foundation/)
+- [Towson University Foundation endowment](/towson-university-foundation/)
+- [St. Mary's College of Maryland Foundation endowment](/st-marys-college-of-maryland-foundation/)
 - [Loyola University Chicago endowment](/loyola-university-chicago-endowment/)
 - [American University endowment](/american-university-endowment/)
 - [Advertise](/advertise/)

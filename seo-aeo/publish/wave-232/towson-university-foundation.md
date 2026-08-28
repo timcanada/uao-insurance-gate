@@ -45,6 +45,9 @@ Do not 301 this page onto `/johns-hopkins-endowment/`, `/xavier-university-endow
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [University of Maryland College Park Foundation endowment](/university-of-maryland-college-park-foundation/)
+- [St. Mary's College of Maryland Foundation endowment](/st-marys-college-of-maryland-foundation/)
+- [Loyola University Maryland endowment](/loyola-maryland-endowment/)
 - [The Campanile Foundation endowment](/campanile-foundation/)
 - [University of Toledo Foundation endowment](/university-of-toledo-foundation/)
 - [Advertise](/advertise/)

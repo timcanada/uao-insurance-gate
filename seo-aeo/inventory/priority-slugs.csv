@@ -3417,3 +3417,15 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,kent,Kent (short),allocator,brief,P0,do-not-mint,Do not mint. Refused leftover Kent State University Foundation 2025 house FS (Endowment spending transfers not labeled appropriation)
 2,institution,kent-state,Kent State (short),allocator,brief,P0,do-not-mint,Do not mint. Twin refuse of leftover Kent State University Foundation
 2,institution,golden-flashes,Golden Flashes (short),allocator,brief,P0,do-not-mint,Do not mint. Twin refuse of leftover Kent State University Foundation
+292,institution,university-of-maryland-college-park-foundation,University of Maryland College Park Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 292. Official Endowment NA $915,842 thousand at 30 Jun 2025. Printed Investment return $51,389 thousand. Appropriation $24,469 thousand. Do not flatten leftover SOA $67,218,189 or leftover Endowment investments $864,930,813 or leftover entity-wide $1,247,447,240. Do not invent leftover 1.1%. Never mint /umd/ or /maryland/ or /terps/ or /umcpf/ or /college-park/. Not leftover Maryland SRPS. Not leftover Towson. Not leftover 990
+2,institution,university-of-maryland-college-park-foundation-explained,University of Maryland College Park Foundation endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 292 /university-of-maryland-college-park-foundation/
+2,institution,umd,UMD (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 292 /university-of-maryland-college-park-foundation/
+2,institution,maryland,Maryland (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 292 /university-of-maryland-college-park-foundation/. Would flatten leftover Maryland SRPS
+2,institution,terps,Terps (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 292 /university-of-maryland-college-park-foundation/
+2,institution,umcpf,UMCPF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 292 /university-of-maryland-college-park-foundation/
+2,institution,college-park,College Park (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 292 /university-of-maryland-college-park-foundation/
+2,institution,northwest-state,Northwest State (short),allocator,brief,P0,do-not-mint,Do not mint. Refused leftover Northwest State Community College Foundation 2025 house FS (no labeled return and no labeled appropriation)
+2,institution,chesapeake,Chesapeake (short),allocator,brief,P0,do-not-mint,Do not mint. Refused leftover Chesapeake College Foundation 2025 house FS (no labeled Total; Release of endowment assets not labeled appropriation)
+2,institution,frostburg,Frostburg (short),allocator,brief,P0,do-not-mint,Do not mint. Refused leftover Frostburg State University Foundation glossy 2025 annual report (no FASB change table)
+2,institution,umb,UMB (short),allocator,brief,P0,do-not-mint,Do not mint. Leftover University of Maryland Baltimore Foundation named FY2025 PDF independently GET 404 this wake
+2,institution,umbf,UMBF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin refuse of leftover University of Maryland Baltimore Foundation

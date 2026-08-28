@@ -561,6 +561,7 @@ def main() -> None:
         ("university-of-cincinnati-foundation", "University of Cincinnati Foundation endowment", "Endowment", "needed"),
         ("northeast-ohio-medical-university-foundation", "Northeast Ohio Medical University Foundation endowment", "Endowment", "needed"),
         ("sinclair-community-college-foundation", "Sinclair Community College Foundation endowment", "Endowment", "needed"),
+        ("university-of-maryland-college-park-foundation", "University of Maryland College Park Foundation endowment", "Endowment", "needed"),
         ("emory-endowment", "Emory University endowment", "Endowment", "needed"),
         ("carnegie-mellon-endowment", "Carnegie Mellon University endowment", "Endowment", "needed"),
         ("caltech-endowment", "Caltech endowment", "Endowment", "needed"),

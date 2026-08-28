@@ -45,6 +45,8 @@ Do not 301 this page onto `/hampshire-college-endowment/`, `/regis-college-endow
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [Merrimack College endowment](/merrimack-college-endowment/)
+- [Emmanuel College endowment](/emmanuel-college-endowment/)
 - [Hampshire College endowment](/hampshire-college-endowment/)
 - [Regis College endowment](/regis-college-endowment/)
 - [Lasell University endowment](/lasell-university-endowment/)

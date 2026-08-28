@@ -2207,6 +2207,16 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,unc-greensboro-endowment-explained,UNCG endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 252 /unc-greensboro-endowment/
 2,institution,uncg,UNCG (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 252 /unc-greensboro-endowment/. Never remint /unc/
 2,institution,greensboro,Greensboro (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 252 /unc-greensboro-endowment/
+253,institution,merrimack-college-endowment,Merrimack College endowment,allocator,brief,P0,drafted-in-repo,Wave 253. Official total endowed NA $97,400,667 at 30 Jun 2025. Printed Total investment return $9,963,268. Appropriation $784,012. Do not homemade-sum leftover SOA $784,012 + leftover $9,246,973. Do not invent leftover 1% / leftover 5%. Do not mint /merrimack/ or /merrimack-college/ or /warriors/. Not leftover WPI. Not leftover Endicott
+2,institution,merrimack-college-endowment-explained,Merrimack endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 253 /merrimack-college-endowment/
+2,institution,merrimack,Merrimack (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 253 /merrimack-college-endowment/
+2,institution,merrimack-college,Merrimack College (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 253 /merrimack-college-endowment/
+2,institution,warriors,Warriors (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 253 /merrimack-college-endowment/
+253,institution,emmanuel-college-endowment,Emmanuel College endowment,allocator,brief,P0,drafted-in-repo,Wave 253. Official total endowed NA $176,107,607 at 30 Jun 2025. Printed Total investment return $19,363,052. Appropriation $8,350,000. Do not flatten leftover special draw $10,265,100 or leftover Total return net of fees $18,668,797. Do not invent leftover 5%. Do not mint /emmanuel/ or /emmanuel-college/ or /saints/. Not leftover Merrimack. Not leftover Suffolk
+2,institution,emmanuel-college-endowment-explained,Emmanuel endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 253 /emmanuel-college-endowment/
+2,institution,emmanuel,Emmanuel (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 253 /emmanuel-college-endowment/
+2,institution,emmanuel-college,Emmanuel College (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 253 /emmanuel-college-endowment/
+2,institution,saints,Saints (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 253 /emmanuel-college-endowment/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

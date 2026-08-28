@@ -44,6 +44,8 @@ Do not 301 this page onto `/holy-cross-endowment/`, `/assumption-university-endo
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [Merrimack College endowment](/merrimack-college-endowment/)
+- [Emmanuel College endowment](/emmanuel-college-endowment/)
 - [College of the Holy Cross endowment](/holy-cross-endowment/)
 - [Assumption University endowment](/assumption-university-endowment/)
 - [Hampshire College endowment](/hampshire-college-endowment/)

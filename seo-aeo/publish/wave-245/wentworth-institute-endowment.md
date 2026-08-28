@@ -45,6 +45,8 @@ Do not 301 this page onto `/hampshire-college-endowment/`, `/endicott-college-en
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [Merrimack College endowment](/merrimack-college-endowment/)
+- [Emmanuel College endowment](/emmanuel-college-endowment/)
 - [Hampshire College endowment](/hampshire-college-endowment/)
 - [Endicott College endowment](/endicott-college-endowment/)
 - [Curry College endowment](/curry-college-endowment/)

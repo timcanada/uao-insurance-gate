@@ -45,6 +45,8 @@ Do not 301 this page onto `/berklee-college-endowment/`, `/boston-architectural-
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [Merrimack College endowment](/merrimack-college-endowment/)
+- [Emmanuel College endowment](/emmanuel-college-endowment/)
 - [Boston Architectural College endowment](/boston-architectural-college-endowment/)
 - [Berklee College of Music endowment](/berklee-college-endowment/)
 - [Rhode Island School of Design endowment](/risd-endowment/)

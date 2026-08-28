@@ -45,6 +45,8 @@ Do not 301 this page onto `/hampshire-college-endowment/`, `/bentley-endowment/`
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [Merrimack College endowment](/merrimack-college-endowment/)
+- [Emmanuel College endowment](/emmanuel-college-endowment/)
 - [Hampshire College endowment](/hampshire-college-endowment/)
 - [Wentworth Institute of Technology endowment](/wentworth-institute-endowment/)
 - [Anna Maria College endowment](/anna-maria-college-endowment/)

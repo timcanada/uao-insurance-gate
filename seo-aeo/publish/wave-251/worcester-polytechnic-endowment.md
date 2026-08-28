@@ -45,6 +45,8 @@ Do not 301 this page onto `/wentworth-institute-endowment/`, `/clark-university-
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [Merrimack College endowment](/merrimack-college-endowment/)
+- [Emmanuel College endowment](/emmanuel-college-endowment/)
 - [Wentworth Institute of Technology endowment](/wentworth-institute-endowment/)
 - [Clark University endowment](/clark-university-endowment/)
 - [College of the Holy Cross endowment](/holy-cross-endowment/)

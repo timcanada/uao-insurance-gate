@@ -47,5 +47,6 @@ Do not 301 this page onto `/idaho-state-university-foundation/`, `/montana-state
 - [The endowment model, explained](/endowment-model-explained/)
 - [Idaho State University Foundation endowment](/idaho-state-university-foundation/)
 - [College of Western Idaho Foundation endowment](/college-of-western-idaho-foundation/)
+- [Boise State University Foundation endowment](/boise-state-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

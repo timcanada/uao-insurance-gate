@@ -54,5 +54,6 @@ Do not 301 this page onto `/berklee-college-endowment/`, `/boston-architectural-
 - [California Lutheran University endowment](/california-lutheran-endowment/)
 - [Portland State University Foundation endowment](/portland-state-university-foundation/)
 - [Southern Oregon University Foundation endowment](/southern-oregon-university-foundation/)
+- [Worcester Polytechnic Institute endowment](/worcester-polytechnic-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

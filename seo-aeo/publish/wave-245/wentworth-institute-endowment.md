@@ -69,5 +69,6 @@ Do not 301 this page onto `/hampshire-college-endowment/`, `/endicott-college-en
 - [Western Connecticut State University Foundation endowment](/wcsu-foundation/)
 - [Unity Environmental University endowment](/unity-environmental-endowment/)
 - [New England College of Optometry endowment](/new-england-college-of-optometry-endowment/)
+- [Worcester Polytechnic Institute endowment](/worcester-polytechnic-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

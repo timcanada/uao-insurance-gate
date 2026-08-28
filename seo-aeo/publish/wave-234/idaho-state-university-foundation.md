@@ -48,5 +48,6 @@ Do not 301 this page onto `/university-of-idaho-foundation/`, `/montana-state-un
 - [University of Idaho Foundation endowment](/university-of-idaho-foundation/)
 - [University of Montana Foundation endowment](/university-of-montana-foundation/)
 - [Illinois State University Foundation endowment](/illinois-state-university-foundation/)
+- [Boise State University Foundation endowment](/boise-state-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

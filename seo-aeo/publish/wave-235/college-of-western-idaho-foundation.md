@@ -47,5 +47,6 @@ Do not 301 this page onto `/university-of-idaho-foundation/`, `/idaho-state-univ
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Idaho Foundation endowment](/university-of-idaho-foundation/)
 - [Idaho State University Foundation endowment](/idaho-state-university-foundation/)
+- [Boise State University Foundation endowment](/boise-state-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

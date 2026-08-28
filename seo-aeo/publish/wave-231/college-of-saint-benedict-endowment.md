@@ -48,5 +48,6 @@ Do not 301 this page onto `/university-of-st-thomas-endowment/`, `/hamline-endow
 - [University of St. Thomas endowment](/university-of-st-thomas-endowment/)
 - [Concordia University St. Paul endowment](/concordia-university-st-paul-endowment/)
 - [Western Oregon University Foundation endowment](/western-oregon-university-foundation/)
+- [Minnesota State University Mankato Foundation endowment](/minnesota-state-mankato-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

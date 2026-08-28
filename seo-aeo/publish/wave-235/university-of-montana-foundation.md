@@ -47,5 +47,6 @@ Do not 301 this page onto `/montana-state-university-foundation/`, `/university-
 - [The endowment model, explained](/endowment-model-explained/)
 - [Montana State University Foundation endowment](/montana-state-university-foundation/)
 - [Idaho State University Foundation endowment](/idaho-state-university-foundation/)
+- [Montana Technological University Foundation endowment](/montana-technological-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

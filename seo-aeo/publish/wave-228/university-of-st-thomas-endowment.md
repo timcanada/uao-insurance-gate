@@ -47,5 +47,6 @@ Do not 301 this page onto `/university-of-minnesota-foundation/`, `/st-thomas/`,
 - [The endowment model, explained](/endowment-model-explained/)
 - [Duquesne University endowment](/duquesne-endowment/)
 - [University of Iowa Center for Advancement endowment](/university-of-iowa-center-for-advancement/)
+- [Minnesota State University Mankato Foundation endowment](/minnesota-state-mankato-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

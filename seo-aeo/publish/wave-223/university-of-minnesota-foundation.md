@@ -45,5 +45,6 @@ Do not 301 this page onto `/minnesota-sbi/`, `/university-of-illinois-foundation
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Illinois Foundation endowment](/university-of-illinois-foundation/)
 - [University of Nebraska Foundation endowment](/university-of-nebraska-foundation/)
+- [Minnesota State University Mankato Foundation endowment](/minnesota-state-mankato-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

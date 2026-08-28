@@ -51,5 +51,6 @@ Do not 301 this page onto `/penn-state-endowment/`, `/whittier-college-endowment
 - [Whittier College endowment](/whittier-college-endowment/)
 - [Oregon State University Foundation endowment](/oregon-state-university-foundation/)
 - [University of Oregon Foundation endowment](/university-of-oregon-foundation/)
+- [Boise State University Foundation endowment](/boise-state-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

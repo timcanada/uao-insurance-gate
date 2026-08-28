@@ -47,5 +47,6 @@ Do not 301 this page onto `/northern-kentucky-university-foundation/`, `/univers
 - [The endowment model, explained](/endowment-model-explained/)
 - [Northeastern Illinois University Foundation endowment](/northeastern-illinois-university-foundation/)
 - [Illinois State University Foundation endowment](/illinois-state-university-foundation/)
+- [Western Illinois University Foundation endowment](/western-illinois-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

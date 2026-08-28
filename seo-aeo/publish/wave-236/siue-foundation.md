@@ -47,5 +47,6 @@ Do not 301 this page onto `/siu-foundation/`, `/university-of-illinois-foundatio
 - [The endowment model, explained](/endowment-model-explained/)
 - [Eastern Illinois University Foundation endowment](/eastern-illinois-university-foundation/)
 - [SIU Foundation endowment](/siu-foundation/)
+- [Western Illinois University Foundation endowment](/western-illinois-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -501,6 +501,8 @@ def main() -> None:
         ("rider-university-endowment", "Rider University endowment", "Endowment", "needed"),
         ("csun-foundation", "CSUN Foundation endowment", "Endowment", "needed"),
         ("fresno-state-foundation", "Fresno State Foundation endowment", "Endowment", "needed"),
+        ("north-central-college-endowment", "North Central College endowment", "Endowment", "needed"),
+        ("western-illinois-university-foundation", "Western Illinois University Foundation endowment", "Endowment", "needed"),
         ("emory-endowment", "Emory University endowment", "Endowment", "needed"),
         ("carnegie-mellon-endowment", "Carnegie Mellon University endowment", "Endowment", "needed"),
         ("caltech-endowment", "Caltech endowment", "Endowment", "needed"),

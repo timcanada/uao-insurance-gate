@@ -47,5 +47,6 @@ Do not 301 this page onto `/eastern-washington-university-foundation/`, `/univer
 - [The endowment model, explained](/endowment-model-explained/)
 - [Northeastern Illinois University Foundation endowment](/northeastern-illinois-university-foundation/)
 - [SIUE Foundation endowment](/siue-foundation/)
+- [Western Illinois University Foundation endowment](/western-illinois-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -46,5 +46,6 @@ Do not 301 this page onto `/northeastern-endowment/`, `/university-of-illinois-f
 - [The endowment model, explained](/endowment-model-explained/)
 - [Illinois State University Foundation endowment](/illinois-state-university-foundation/)
 - [Northern Illinois University Foundation endowment](/northern-illinois-university-foundation/)
+- [Western Illinois University Foundation endowment](/western-illinois-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

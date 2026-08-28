@@ -46,5 +46,7 @@ Do not 301 this page onto `/idaho-state-university-foundation/`, `/university-of
 - [The endowment model, explained](/endowment-model-explained/)
 - [Northeastern Illinois University Foundation endowment](/northeastern-illinois-university-foundation/)
 - [Eastern Illinois University Foundation endowment](/eastern-illinois-university-foundation/)
+- [Western Illinois University Foundation endowment](/western-illinois-university-foundation/)
+- [North Central College endowment](/north-central-college-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

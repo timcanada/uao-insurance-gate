@@ -47,5 +47,6 @@ Do not 301 this page onto `/penn-state-endowment/`, `/lehigh-university-endowmen
 - [The endowment model, explained](/endowment-model-explained/)
 - [Penn State endowment](/penn-state-endowment/)
 - [Lehigh University endowment](/lehigh-university-endowment/)
+- [Swarthmore College endowment](/swarthmore-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

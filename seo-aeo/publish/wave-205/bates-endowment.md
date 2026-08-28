@@ -45,5 +45,6 @@ Do not 301 this page onto `/bowdoin-endowment/`, `/smith-college-endowment/`, `/
 - [The endowment model, explained](/endowment-model-explained/)
 - [Bowdoin College endowment](/bowdoin-endowment/)
 - [Middlebury College endowment](/middlebury-endowment/)
+- [Wesleyan University endowment](/wesleyan-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

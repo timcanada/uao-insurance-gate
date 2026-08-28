@@ -47,5 +47,6 @@ Do not 301 this page onto `/bowdoin-endowment/`, `/dartmouth-endowment/`, `/midd
 - [The endowment model, explained](/endowment-model-explained/)
 - [Bowdoin College endowment](/bowdoin-endowment/)
 - [Bates College endowment](/bates-endowment/)
+- [Wesleyan University endowment](/wesleyan-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

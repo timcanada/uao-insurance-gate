@@ -1210,6 +1210,21 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,clemson-endowment-explained,Clemson endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 205 /clemson-endowment/
 2,institution,clemson,Clemson (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 205 /clemson-endowment/. Not leftover South Carolina Retirement Systems
 2,institution,cuf,CUF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 205 /clemson-endowment/
+206,institution,wesleyan-endowment,Wesleyan University endowment,allocator,brief,P0,drafted-in-repo,Wave 206. Official endowment assets $1,641,277 thousand at 30 Jun 2025. Working capital $57,364 thousand sits inside. Do not mint /wesleyan/
+2,institution,wesleyan-endowment-explained,Wesleyan endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 206 /wesleyan-endowment/
+2,institution,wesleyan,Wesleyan (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 206 /wesleyan-endowment/
+206,institution,amherst-endowment,Amherst College endowment,allocator,brief,P0,drafted-in-repo,Wave 206. Official College endowment $3,898,671 thousand at 30 Jun 2025. Folger $509,691 thousand is a different book. Do not mint /amherst/
+2,institution,amherst-endowment-explained,Amherst endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 206 /amherst-endowment/
+2,institution,amherst,Amherst (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 206 /amherst-endowment/
+206,institution,wellesley-endowment,Wellesley College endowment,allocator,brief,P0,drafted-in-repo,Wave 206. Official endowment net assets $3,169,722 thousand at 30 Jun 2025. GEP 12.2% is the house pool print. Do not mint /wellesley/
+2,institution,wellesley-endowment-explained,Wellesley endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 206 /wellesley-endowment/
+2,institution,wellesley,Wellesley (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 206 /wellesley-endowment/
+206,institution,swarthmore-endowment,Swarthmore College endowment,allocator,brief,P0,drafted-in-repo,Wave 206. Official endowment $2,842,685 thousand at 30 Jun 2025. Not leftover Pennsylvania SERS. Do not mint /swarthmore/
+2,institution,swarthmore-endowment-explained,Swarthmore endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 206 /swarthmore-endowment/
+2,institution,swarthmore,Swarthmore (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 206 /swarthmore-endowment/
+206,institution,grinnell-endowment,Grinnell College endowment,allocator,brief,P0,drafted-in-repo,Wave 206. Official endowment net assets $2,847,380 thousand at 30 Jun 2025. House news 11.7% is a different print. Do not mint /grinnell/
+2,institution,grinnell-endowment-explained,Grinnell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 206 /grinnell-endowment/
+2,institution,grinnell,Grinnell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 206 /grinnell-endowment/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

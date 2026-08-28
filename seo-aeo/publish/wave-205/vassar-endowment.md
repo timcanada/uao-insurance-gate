@@ -47,5 +47,6 @@ Do not 301 this page onto `/smith-college-endowment/`, `/brandeis-endowment/`, `
 - [The endowment model, explained](/endowment-model-explained/)
 - [Smith College endowment](/smith-college-endowment/)
 - [Brandeis University endowment](/brandeis-endowment/)
+- [Wellesley College endowment](/wellesley-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

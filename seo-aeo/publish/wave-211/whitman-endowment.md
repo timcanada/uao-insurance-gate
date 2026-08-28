@@ -46,6 +46,6 @@ Do not 301 this page onto `/reed-endowment/`, `/occidental-endowment/`, `/whitma
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Reed College endowment](/reed-endowment/)
-- [Occidental College endowment](/occidental-endowment/)
+- [Lewis & Clark College endowment](/lewis-clark-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

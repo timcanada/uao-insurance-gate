@@ -44,6 +44,6 @@ Do not 301 this page onto `/union-college-endowment/`, `/kenyon-endowment/`, `/w
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Union College endowment](/union-college-endowment/)
-- [Kenyon College endowment](/kenyon-endowment/)
+- [Hamline University endowment](/hamline-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

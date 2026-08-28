@@ -44,6 +44,6 @@ Do not 301 this page onto `/macalester-endowment/`, `/carleton-endowment/`, `/st
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Macalester College endowment](/macalester-endowment/)
-- [Carleton College endowment](/carleton-endowment/)
+- [Hope College endowment](/hope-college-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

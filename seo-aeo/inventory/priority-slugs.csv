@@ -1312,6 +1312,24 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 211,institution,wabash-endowment,Wabash College endowment,allocator,brief,P0,drafted-in-repo,Wave 211. Official pooled endowment $442,957,416 at 30 Jun 2025. Do not invent a percent. Do not mint /wabash/
 2,institution,wabash-endowment-explained,Wabash endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 211 /wabash-endowment/
 2,institution,wabash,Wabash (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 211 /wabash-endowment/
+212,institution,furman-endowment,Furman University endowment,allocator,brief,P0,drafted-in-repo,Wave 212. Official endowment net assets $885,534,488 at 30 Jun 2025. Do not invent a percent. Do not mint /furman/
+2,institution,furman-endowment-explained,Furman endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 212 /furman-endowment/
+2,institution,furman,Furman (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 212 /furman-endowment/
+212,institution,stetson-endowment,Stetson University endowment,allocator,brief,P0,drafted-in-repo,Wave 212. Official endowment net assets $407,228 thousand at 30 Jun 2025. Do not invent a percent. Do not mint /stetson/
+2,institution,stetson-endowment-explained,Stetson endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 212 /stetson-endowment/
+2,institution,stetson,Stetson (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 212 /stetson-endowment/
+212,institution,lewis-clark-endowment,Lewis & Clark College endowment,allocator,brief,P0,drafted-in-repo,Wave 212. Official endowment net assets $331,958,818 at 31 May 2025. Do not invent a percent. Do not mint /lclark/ or /lewis-and-clark/
+2,institution,lewis-clark-endowment-explained,Lewis & Clark endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 212 /lewis-clark-endowment/
+2,institution,lclark,LClark (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 212 /lewis-clark-endowment/
+2,institution,lewis-and-clark,Lewis and Clark (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 212 /lewis-clark-endowment/
+2,institution,lc,LC (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 212 /lewis-clark-endowment/
+212,institution,hope-college-endowment,Hope College endowment,allocator,brief,P0,drafted-in-repo,Wave 212. Official endowment net assets $328,088 thousand at 30 Jun 2025. Do not invent a percent. Do not mint /hope/ or /hope-endowment/
+2,institution,hope-college-endowment-explained,Hope College endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 212 /hope-college-endowment/
+2,institution,hope,Hope (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 212 /hope-college-endowment/
+2,institution,hope-endowment,Hope endowment (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 212 /hope-college-endowment/
+212,institution,hamline-endowment,Hamline University endowment,allocator,brief,P0,drafted-in-repo,Wave 212. Official endowment net assets $158,818,177 at 30 Jun 2025. Do not invent a percent. Do not mint /hamline/
+2,institution,hamline-endowment-explained,Hamline endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 212 /hamline-endowment/
+2,institution,hamline,Hamline (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 212 /hamline-endowment/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

@@ -44,6 +44,6 @@ Do not 301 this page onto `/occidental-endowment/`, `/pomona-endowment/`, `/scri
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Occidental College endowment](/occidental-endowment/)
-- [Pomona College endowment](/pomona-endowment/)
+- [Furman University endowment](/furman-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

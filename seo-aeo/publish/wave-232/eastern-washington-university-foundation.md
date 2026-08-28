@@ -46,6 +46,6 @@ Do not 301 this page onto `/university-of-washington-endowment/`, `/siu-foundati
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Washington endowment](/university-of-washington-endowment/)
-- [University of Wyoming Foundation endowment](/university-of-wyoming-foundation/)
+- [Eastern Illinois University Foundation endowment](/eastern-illinois-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -46,6 +46,6 @@ Do not 301 this page onto `/university-of-illinois-foundation/`, `/university-of
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Illinois Foundation endowment](/university-of-illinois-foundation/)
-- [Eastern Washington University Foundation endowment](/eastern-washington-university-foundation/)
+- [SIUE Foundation endowment](/siue-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

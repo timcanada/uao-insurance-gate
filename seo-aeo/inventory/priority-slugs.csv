@@ -1691,6 +1691,30 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,st-thomas,St Thomas (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 228 /university-of-st-thomas-endowment/. Would flatten leftover St. Thomas University Florida and leftover University of St. Thomas Houston
 2,institution,ust,UST (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 228 /university-of-st-thomas-endowment/
 2,institution,tommies,Tommies (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 228 /university-of-st-thomas-endowment/
+229,institution,marquette-endowment,Marquette University endowment,allocator,brief,P0,drafted-in-repo,Wave 229. Official endowment NA $1,138,420 thousand at 30 Jun 2025. Do not invent leftover MD&A 10.9%. Do not mint /marquette/ or /mu/ or /golden-eagles/. /mu/ would flatten leftover Missouri / leftover Miami University
+2,institution,marquette-endowment-explained,Marquette endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 229 /marquette-endowment/
+2,institution,marquette,Marquette (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 229 /marquette-endowment/
+2,institution,mu,MU (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 229 /marquette-endowment/. Would flatten leftover University of Missouri / leftover Miami University
+2,institution,golden-eagles,Golden Eagles (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 229 /marquette-endowment/
+229,institution,university-of-san-francisco-endowment,University of San Francisco endowment,allocator,brief,P0,drafted-in-repo,Wave 229. Official endowment NA $587,849 thousand at 31 May 2025. Do not homemade-sum leftover $3,060 thousand + leftover $38,590 thousand. Do not mint /usf/ or /san-francisco/ or /dons/. /usf/ would flatten leftover University of South Florida
+2,institution,university-of-san-francisco-endowment-explained,USF endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 229 /university-of-san-francisco-endowment/
+2,institution,usf,USF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 229 /university-of-san-francisco-endowment/. Would flatten leftover University of South Florida
+2,institution,san-francisco,San Francisco (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 229 /university-of-san-francisco-endowment/. Would flatten leftover SFERS
+2,institution,dons,Dons (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 229 /university-of-san-francisco-endowment/
+229,institution,saint-louis-university-endowment,Saint Louis University endowment,allocator,brief,P0,drafted-in-repo,Wave 229. Official endowment NA $2,018,472 thousand at 30 Jun 2025. Do not homemade-sum leftover return lines. Do not mint /slu/ or /saint-louis/ or /billikens/. Not leftover WashU
+2,institution,saint-louis-university-endowment-explained,SLU endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 229 /saint-louis-university-endowment/
+2,institution,slu,SLU (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 229 /saint-louis-university-endowment/
+2,institution,saint-louis,Saint Louis (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 229 /saint-louis-university-endowment/. Would flatten leftover WashU
+2,institution,billikens,Billikens (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 229 /saint-louis-university-endowment/
+229,institution,loyola-maryland-endowment,Loyola University Maryland endowment,allocator,brief,P0,drafted-in-repo,Wave 229. Official endowment NA $345,710 thousand at 31 May 2025. Do not invent leftover 5%. Do not mint /loyola/ or /lum/ or /greyhounds/. /loyola/ remains Loyola Chicago reservation
+2,institution,loyola-maryland-endowment-explained,Loyola Maryland endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 229 /loyola-maryland-endowment/
+2,institution,lum,LUM (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 229 /loyola-maryland-endowment/
+2,institution,greyhounds,Greyhounds (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 229 /loyola-maryland-endowment/
+229,institution,duquesne-endowment,Duquesne University endowment,allocator,brief,P0,drafted-in-repo,Wave 229. Official endowment NA $641,690 thousand at 30 Jun 2025. Do not invent leftover 4.25%. Do not mint /duq/ or /duquesne/ or /dukes/. /dukes/ would flatten leftover Duke / leftover James Madison
+2,institution,duquesne-endowment-explained,Duquesne endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 229 /duquesne-endowment/
+2,institution,duq,DUQ (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 229 /duquesne-endowment/
+2,institution,duquesne,Duquesne (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 229 /duquesne-endowment/
+2,institution,dukes,Dukes (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 229 /duquesne-endowment/. Would flatten leftover Duke / leftover James Madison
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

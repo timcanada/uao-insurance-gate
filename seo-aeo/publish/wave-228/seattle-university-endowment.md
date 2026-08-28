@@ -46,6 +46,6 @@ Do not 301 this page onto `/university-of-washington-endowment/`, `/university-o
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Portland endowment](/university-of-portland-endowment/)
-- [University of San Diego endowment](/university-of-san-diego-endowment/)
+- [Marquette University endowment](/marquette-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -45,7 +45,7 @@ Do not 301 this page onto `/university-of-illinois-foundation/`, `/loyola/`, `/l
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
-- [University of San Diego endowment](/university-of-san-diego-endowment/)
+- [Saint Louis University endowment](/saint-louis-university-endowment/)
 - [University of St. Thomas endowment](/university-of-st-thomas-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

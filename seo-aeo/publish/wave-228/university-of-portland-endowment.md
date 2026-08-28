@@ -45,7 +45,7 @@ Do not 301 this page onto `/university-of-washington-endowment/`, `/willamette-e
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
-- [Willamette University endowment](/willamette-endowment/)
+- [University of San Francisco endowment](/university-of-san-francisco-endowment/)
 - [Seattle University endowment](/seattle-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

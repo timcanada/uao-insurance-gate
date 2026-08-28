@@ -45,7 +45,7 @@ Do not 301 this page onto `/university-of-minnesota-foundation/`, `/st-thomas/`,
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
-- [Loyola University Chicago endowment](/loyola-university-chicago-endowment/)
+- [Duquesne University endowment](/duquesne-endowment/)
 - [University of Iowa Center for Advancement endowment](/university-of-iowa-center-for-advancement/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -45,7 +45,7 @@ Do not 301 this page onto `/santa-clara-endowment/`, `/usc-endowment/`, `/usd/`,
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
-- [Seattle University endowment](/seattle-university-endowment/)
+- [Loyola University Maryland endowment](/loyola-maryland-endowment/)
 - [Loyola University Chicago endowment](/loyola-university-chicago-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

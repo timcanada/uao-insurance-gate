@@ -1384,6 +1384,25 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,nova-southeastern,Nova Southeastern (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 215 /nova-southeastern-endowment/
 2,institution,nova,Nova (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 215 /nova-southeastern-endowment/
 2,institution,nsu,NSU (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 215 /nova-southeastern-endowment/
+216,institution,warner-university-endowment,Warner University endowment,allocator,brief,P0,drafted-in-repo,Wave 216. Official endowment net assets $3,303,416 at 30 Jun 2025. Do not invent a percent. Do not mint /warner/
+2,institution,warner-university-endowment-explained,Warner University endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 216 /warner-university-endowment/
+2,institution,warner,Warner (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 216 /warner-university-endowment/
+216,institution,ringling-endowment,Ringling College of Art and Design endowment,allocator,brief,P0,drafted-in-repo,Wave 216. Official endowment net assets $78,861,352 at 31 May 2025. Do not invent a percent. Do not mint /ringling/ or /rcad/
+2,institution,ringling-endowment-explained,Ringling endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 216 /ringling-endowment/
+2,institution,ringling,Ringling (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 216 /ringling-endowment/
+2,institution,rcad,RCAD (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 216 /ringling-endowment/
+216,institution,miami-dade-college-foundation,Miami Dade College Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 216. Official change-table endowment net assets $111,365,180 at 31 Mar 2025. Do not invent a percent. Do not mint /miami-dade/ /mdc/ /mdcf/ or /miami/. Not leftover University of Miami
+2,institution,miami-dade-college-foundation-explained,Miami Dade College Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 216 /miami-dade-college-foundation/
+2,institution,miami-dade,Miami Dade (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 216 /miami-dade-college-foundation/
+2,institution,mdc,MDC (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 216 /miami-dade-college-foundation/
+2,institution,mdcf,MDCF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 216 /miami-dade-college-foundation/
+216,institution,west-florida-foundation-endowment,University of West Florida Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 216. Official endowment balance $117,676,044 at 30 Jun 2025. Do not homemade-sum return lines. Do not invent a percent. Do not mint /uwf/ or /west-florida/
+2,institution,west-florida-foundation-endowment-explained,West Florida Foundation endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 216 /west-florida-foundation-endowment/
+2,institution,uwf,UWF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 216 /west-florida-foundation-endowment/
+2,institution,west-florida,West Florida (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 216 /west-florida-foundation-endowment/
+216,institution,famu-foundation-endowment,FAMU Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 216. Official endowment net assets $124,140,600 at 30 Jun 2025. Do not invent a percent. Do not flatten leftover MD&A 11.1%. Do not mint /famu/
+2,institution,famu-foundation-endowment-explained,FAMU Foundation endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 216 /famu-foundation-endowment/
+2,institution,famu,FAMU (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 216 /famu-foundation-endowment/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

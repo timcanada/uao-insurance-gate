@@ -44,6 +44,6 @@ Do not 301 this page onto `/embry-riddle-endowment/`, `/southwestern-endowment/`
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Southwestern University endowment](/southwestern-endowment/)
-- [Embry-Riddle Aeronautical University endowment](/embry-riddle-endowment/)
+- [Ringling College of Art and Design endowment](/ringling-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

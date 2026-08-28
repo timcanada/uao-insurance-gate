@@ -44,6 +44,6 @@ Do not 301 this page onto `/calvin-endowment/`, `/marist-endowment/`, `/lawrence
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Marist University endowment](/marist-endowment/)
-- [Calvin University endowment](/calvin-endowment/)
+- [University of West Florida Foundation endowment](/west-florida-foundation-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -44,6 +44,6 @@ Do not 301 this page onto `/calvin-endowment/`, `/barry-endowment/`, `/lynn/`, o
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Calvin University endowment](/calvin-endowment/)
-- [Barry University endowment](/barry-endowment/)
+- [Miami Dade College Foundation endowment](/miami-dade-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

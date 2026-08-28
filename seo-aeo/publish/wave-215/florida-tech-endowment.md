@@ -44,6 +44,6 @@ Do not 301 this page onto `/embry-riddle-endowment/`, `/stetson-endowment/`, `/f
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Stevens Institute of Technology endowment](/stevens-endowment/)
-- [Embry-Riddle Aeronautical University endowment](/embry-riddle-endowment/)
+- [Warner University endowment](/warner-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

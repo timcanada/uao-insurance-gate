@@ -52,5 +52,7 @@ Do not 301 this page onto `/foundation-for-california-community-colleges/`, `/mt
 - [Cal State LA Foundation endowment](/cal-state-la-foundation/)
 - [Lane Community College Foundation endowment](/lane-community-college-foundation/)
 - [Pima Community College Foundation endowment](/pima-community-college-foundation/)
+- [Cuesta College Foundation endowment](/cuesta-college-foundation/)
+- [College of the Canyons Foundation endowment](/college-of-the-canyons-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -53,5 +53,7 @@ Do not 301 this page onto `/csun-foundation/`, `/fresno-state-foundation/`, `/ms
 - [Wake Tech Foundation endowment](/wake-tech-foundation/)
 - [Ventura College Foundation endowment](/ventura-college-foundation/)
 - [Foundation for California Community Colleges endowment](/foundation-for-california-community-colleges/)
+- [College of the Canyons Foundation endowment](/college-of-the-canyons-foundation/)
+- [Santa Ana College Foundation endowment](/santa-ana-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

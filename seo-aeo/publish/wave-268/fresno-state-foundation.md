@@ -53,5 +53,6 @@ Do not 301 this page onto `/csun-foundation/`, `/cal-state-la-foundation/`, `/fr
 - [Mt. San Jacinto Community College Foundation endowment](/mt-san-jacinto-community-college-foundation/)
 - [Ventura College Foundation endowment](/ventura-college-foundation/)
 - [Foundation for California Community Colleges endowment](/foundation-for-california-community-colleges/)
+- [Sierra College Foundation endowment](/sierra-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

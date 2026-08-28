@@ -51,5 +51,7 @@ Do not 301 this page onto `/ventura-college-foundation/`, `/mt-san-jacinto-commu
 - [Fresno State Foundation endowment](/fresno-state-foundation/)
 - [Cal State LA Foundation endowment](/cal-state-la-foundation/)
 - [Colorado State University Foundation endowment](/colorado-state-university-foundation/)
+- [Cuesta College Foundation endowment](/cuesta-college-foundation/)
+- [Sierra College Foundation endowment](/sierra-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

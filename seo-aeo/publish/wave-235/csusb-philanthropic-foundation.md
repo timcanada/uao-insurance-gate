@@ -47,5 +47,7 @@ Do not 301 this page onto `/cal-state-fullerton-philanthropic-foundation/`, `/sb
 - [The endowment model, explained](/endowment-model-explained/)
 - [Cal State Fullerton Philanthropic Foundation endowment](/cal-state-fullerton-philanthropic-foundation/)
 - [University of Colorado Foundation endowment](/university-of-colorado-foundation/)
+- [CSU Bakersfield Foundation endowment](/csu-bakersfield-foundation/)
+- [Cal State LA Foundation endowment](/cal-state-la-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

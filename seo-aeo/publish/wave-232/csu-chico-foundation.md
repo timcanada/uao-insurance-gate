@@ -47,5 +47,7 @@ Do not 301 this page onto `/university-of-the-pacific-endowment/`, `/santa-clara
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of the Pacific endowment](/university-of-the-pacific-endowment/)
 - [San Francisco State University Foundation endowment](/sfsu-foundation/)
+- [CSU Bakersfield Foundation endowment](/csu-bakersfield-foundation/)
+- [Cal State LA Foundation endowment](/cal-state-la-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

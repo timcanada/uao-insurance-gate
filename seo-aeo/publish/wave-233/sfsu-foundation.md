@@ -47,5 +47,7 @@ Do not 301 this page onto `/university-of-san-francisco-endowment/`, `/csu-chico
 - [The endowment model, explained](/endowment-model-explained/)
 - [Texas State University Foundation endowment](/texas-state-university-foundation/)
 - [University of San Francisco endowment](/university-of-san-francisco-endowment/)
+- [CSU Bakersfield Foundation endowment](/csu-bakersfield-foundation/)
+- [Cal State LA Foundation endowment](/cal-state-la-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

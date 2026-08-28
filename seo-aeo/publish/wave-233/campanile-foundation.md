@@ -47,5 +47,7 @@ Do not 301 this page onto `/sfsu-foundation/`, `/csu-chico-foundation/`, `/sdsu/
 - [The endowment model, explained](/endowment-model-explained/)
 - [Idaho State University Foundation endowment](/idaho-state-university-foundation/)
 - [San Francisco State University Foundation endowment](/sfsu-foundation/)
+- [CSU Bakersfield Foundation endowment](/csu-bakersfield-foundation/)
+- [Cal State LA Foundation endowment](/cal-state-la-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -47,5 +47,7 @@ Do not 301 this page onto `/campanile-foundation/`, `/texas-state-university-fou
 - [The endowment model, explained](/endowment-model-explained/)
 - [The Campanile Foundation endowment](/campanile-foundation/)
 - [Texas State University Development Foundation endowment](/texas-state-university-foundation/)
+- [CSU Bakersfield Foundation endowment](/csu-bakersfield-foundation/)
+- [Cal State LA Foundation endowment](/cal-state-la-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

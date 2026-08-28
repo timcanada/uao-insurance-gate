@@ -47,5 +47,7 @@ Do not 301 this page onto `/csu-chico-foundation/`, `/colorado-state-university-
 - [The endowment model, explained](/endowment-model-explained/)
 - [CSU Chico Foundation endowment](/csu-chico-foundation/)
 - [The Campanile Foundation endowment](/campanile-foundation/)
+- [CSU Bakersfield Foundation endowment](/csu-bakersfield-foundation/)
+- [Cal State LA Foundation endowment](/cal-state-la-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -50,5 +50,6 @@ Do not 301 this page onto `/eastern-washington-university-foundation/`, `/delta-
 - [Delta College Foundation endowment](/delta-college-foundation/)
 - [Riverside Community College District Foundation endowment](/riverside-community-college-district-foundation/)
 - [El Camino College Foundation endowment](/el-camino-college-foundation/)
+- [Middlesex College Foundation endowment](/middlesex-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

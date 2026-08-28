@@ -52,5 +52,6 @@ Do not 301 this page onto `/foundation-for-california-community-colleges/`, `/el
 - [Columbia College California Foundation endowment](/columbia-college-california-foundation/)
 - [College of the Canyons Foundation endowment](/college-of-the-canyons-foundation/)
 - [Spokane Colleges Foundation endowment](/spokane-colleges-foundation/)
+- [Middlesex College Foundation endowment](/middlesex-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

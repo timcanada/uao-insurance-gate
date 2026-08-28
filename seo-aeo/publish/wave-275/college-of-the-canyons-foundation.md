@@ -57,5 +57,6 @@ Do not 301 this page onto `/foundation-for-california-community-colleges/`, `/ve
 - [Modesto Junior College Foundation endowment](/modesto-junior-college-foundation/)
 - [Riverside Community College District Foundation endowment](/riverside-community-college-district-foundation/)
 - [Spokane Colleges Foundation endowment](/spokane-colleges-foundation/)
+- [Middlesex College Foundation endowment](/middlesex-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

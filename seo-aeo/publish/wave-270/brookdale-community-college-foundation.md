@@ -54,5 +54,6 @@ Do not 301 this page onto `/mercer-county-community-college-foundation/`, `/stoc
 - [Wake Tech Foundation endowment](/wake-tech-foundation/)
 - [Kirkwood Community College Foundation endowment](/kirkwood-community-college-foundation/)
 - [Community Colleges of New Hampshire Foundation endowment](/community-colleges-of-new-hampshire-foundation/)
+- [Middlesex College Foundation endowment](/middlesex-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

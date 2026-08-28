@@ -51,5 +51,6 @@ Do not 301 this page onto `/lorain-county-community-college-foundation/`, `/owen
 - [Cleveland State University Foundation endowment](/cleveland-state-university-foundation/)
 - [Shawnee State University Foundation endowment](/shawnee-state-university-foundation/)
 - [Cuyahoga Community College Foundation endowment](/cuyahoga-community-college-foundation/)
+- [Sinclair Community College Foundation endowment](/sinclair-community-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

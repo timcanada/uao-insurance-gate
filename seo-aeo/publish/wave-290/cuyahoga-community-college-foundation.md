@@ -51,5 +51,8 @@ Do not 301 this page onto `/cleveland-state-university-foundation/`, `/lorain-co
 - [Owens Community College Foundation endowment](/owens-community-college-foundation/)
 - [Clark State College Foundation endowment](/clark-state-college-foundation/)
 - [Bowling Green State University Foundation endowment](/bowling-green-state-university-foundation/)
+- [University of Cincinnati Foundation endowment](/university-of-cincinnati-foundation/)
+- [Northeast Ohio Medical University Foundation endowment](/northeast-ohio-medical-university-foundation/)
+- [Sinclair Community College Foundation endowment](/sinclair-community-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -53,5 +53,6 @@ Do not 301 this page onto `/clark-university-endowment/`, `/cleveland-state-univ
 - [Owens Community College Foundation endowment](/owens-community-college-foundation/)
 - [Lakeland Foundation endowment](/lakeland-foundation/)
 - [Cuyahoga Community College Foundation endowment](/cuyahoga-community-college-foundation/)
+- [Sinclair Community College Foundation endowment](/sinclair-community-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

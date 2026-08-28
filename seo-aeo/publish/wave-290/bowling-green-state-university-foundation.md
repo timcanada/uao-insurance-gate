@@ -51,5 +51,7 @@ Do not 301 this page onto `/university-of-toledo-foundation/`, `/wright-state-un
 - [Cleveland State University Foundation endowment](/cleveland-state-university-foundation/)
 - [Cuyahoga Community College Foundation endowment](/cuyahoga-community-college-foundation/)
 - [Youngstown State University Foundation endowment](/youngstown-state-university-foundation/)
+- [University of Cincinnati Foundation endowment](/university-of-cincinnati-foundation/)
+- [Northeast Ohio Medical University Foundation endowment](/northeast-ohio-medical-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

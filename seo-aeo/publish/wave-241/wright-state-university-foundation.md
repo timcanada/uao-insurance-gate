@@ -55,5 +55,7 @@ Do not 301 this page onto `/university-of-dayton-endowment/`, `/xavier-universit
 - [Lorain County Community College Foundation endowment](/lorain-county-community-college-foundation/)
 - [Owens Community College Foundation endowment](/owens-community-college-foundation/)
 - [Bowling Green State University Foundation endowment](/bowling-green-state-university-foundation/)
+- [University of Cincinnati Foundation endowment](/university-of-cincinnati-foundation/)
+- [Northeast Ohio Medical University Foundation endowment](/northeast-ohio-medical-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

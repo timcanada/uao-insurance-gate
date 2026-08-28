@@ -53,5 +53,6 @@ Do not 301 this page onto `/lorain-county-community-college-foundation/`, `/clar
 - [Lakeland Foundation endowment](/lakeland-foundation/)
 - [Cuyahoga Community College Foundation endowment](/cuyahoga-community-college-foundation/)
 - [Bowling Green State University Foundation endowment](/bowling-green-state-university-foundation/)
+- [Sinclair Community College Foundation endowment](/sinclair-community-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

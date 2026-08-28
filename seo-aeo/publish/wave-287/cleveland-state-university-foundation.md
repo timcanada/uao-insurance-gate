@@ -54,5 +54,7 @@ Do not 301 this page onto `/colorado-state-university-foundation/`, `/youngstown
 - [Shawnee State University Foundation endowment](/shawnee-state-university-foundation/)
 - [Lakeland Foundation endowment](/lakeland-foundation/)
 - [Cuyahoga Community College Foundation endowment](/cuyahoga-community-college-foundation/)
+- [University of Cincinnati Foundation endowment](/university-of-cincinnati-foundation/)
+- [Northeast Ohio Medical University Foundation endowment](/northeast-ohio-medical-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

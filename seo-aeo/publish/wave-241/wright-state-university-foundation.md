@@ -49,5 +49,6 @@ Do not 301 this page onto `/university-of-dayton-endowment/`, `/xavier-universit
 - [Xavier University endowment](/xavier-university-endowment/)
 - [Baldwin Wallace University endowment](/baldwin-wallace-university-endowment/)
 - [Heidelberg University endowment](/heidelberg-university-endowment/)
+- [Capital University endowment](/capital-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

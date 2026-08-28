@@ -45,5 +45,8 @@ Do not 301 this page onto `/new-hampshire-retirement-system/`, `/hampshire/`, `/
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [New Hampshire Retirement System](/new-hampshire-retirement-system/)
+- [Regis College endowment](/regis-college-endowment/)
+- [Endicott College endowment](/endicott-college-endowment/)
+- [Lasell University endowment](/lasell-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

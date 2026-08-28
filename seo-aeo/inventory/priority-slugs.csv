@@ -1484,6 +1484,29 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,chipola-college-foundation-explained,Chipola explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 220 /chipola-college-foundation/
 2,institution,chipola,Chipola (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 220 /chipola-college-foundation/
 2,institution,ccf,CCF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 220 /chipola-college-foundation/
+221,institution,harvey-mudd-endowment,Harvey Mudd College endowment,allocator,brief,P0,drafted-in-repo,Wave 221. Official total endowment net assets $507,724,389 at 30 Jun 2025. Do not invent a percent. Do not mint /hmc/ or /mudd/ or /harvey-mudd/
+2,institution,harvey-mudd-endowment-explained,Harvey Mudd explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 221 /harvey-mudd-endowment/
+2,institution,hmc,HMC (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 221 /harvey-mudd-endowment/
+2,institution,mudd,Mudd (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 221 /harvey-mudd-endowment/
+2,institution,harvey-mudd,Harvey Mudd (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 221 /harvey-mudd-endowment/
+221,institution,claremont-mckenna-endowment,Claremont McKenna College endowment,allocator,brief,P0,drafted-in-repo,Wave 221. Official endowed equity $1,430,605 thousand at 30 Jun 2025. Do not invent a percent. Leftover highlights 9.2% / $1.35 billion are other information. Do not mint /cmc/ or /claremont-mckenna/
+2,institution,claremont-mckenna-endowment-explained,CMC explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 221 /claremont-mckenna-endowment/
+2,institution,cmc,CMC (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 221 /claremont-mckenna-endowment/
+2,institution,claremont-mckenna,Claremont McKenna (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 221 /claremont-mckenna-endowment/
+221,institution,university-of-mississippi-foundation,University of Mississippi Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 221. Official total endowment funds $594,139,481 at 30 Jun 2025. Do not homemade-sum return lines. Do not invent a percent. Do not mint /ole-miss/ or /umf/ or /olemiss/
+2,institution,university-of-mississippi-foundation-explained,Ole Miss Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 221 /university-of-mississippi-foundation/
+2,institution,ole-miss,Ole Miss (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 221 /university-of-mississippi-foundation/
+2,institution,umf,UMF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 221 /university-of-mississippi-foundation/
+2,institution,olemiss,Olemiss (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 221 /university-of-mississippi-foundation/
+221,institution,university-of-louisville-foundation,University of Louisville Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 221. Official endowment net assets $993,321 thousand at 30 Jun 2025. Official annual return 8.8%. Do not mint /louisville/ or /ulf/ or /uofl/
+2,institution,university-of-louisville-foundation-explained,ULF explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 221 /university-of-louisville-foundation/
+2,institution,louisville,Louisville (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 221 /university-of-louisville-foundation/
+2,institution,ulf,ULF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 221 /university-of-louisville-foundation/
+2,institution,uofl,UofL (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 221 /university-of-louisville-foundation/
+221,institution,pinellas-county-education-foundation,Pinellas County Education Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 221. Official endowment net assets $4,632,627 at 30 Jun 2025. Do not invent a percent. Do not mint /pinellas/ or /pcef/. /pinellas-park/ remains Wave 178
+2,institution,pinellas-county-education-foundation-explained,Pinellas Education explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 221 /pinellas-county-education-foundation/
+2,institution,pinellas,Pinellas (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 221 /pinellas-county-education-foundation/. Also flattens Wave 178 Pinellas Park
+2,institution,pcef,PCEF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 221 /pinellas-county-education-foundation/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

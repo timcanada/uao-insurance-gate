@@ -44,6 +44,6 @@ Do not 301 this page onto `/university-of-kentucky-endowment/`, `/university-of-
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Kentucky Humanities Foundation endowment](/university-of-kentucky-humanities-endowment/)
-- [Gluck Equine Research Foundation endowment](/gluck-equine-endowment/)
+- [University of Mississippi Foundation endowment](/university-of-mississippi-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

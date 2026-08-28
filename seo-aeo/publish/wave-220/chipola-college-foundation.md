@@ -44,6 +44,6 @@ Do not 301 this page onto `/gulf-coast-state-college-foundation/`, `/north-flori
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Gulf Coast State College Foundation endowment](/gulf-coast-state-college-foundation/)
-- [North Florida College Foundation endowment](/north-florida-college-foundation/)
+- [Pinellas County Education Foundation endowment](/pinellas-county-education-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

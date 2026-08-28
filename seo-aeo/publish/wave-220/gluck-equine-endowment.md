@@ -44,6 +44,6 @@ Do not 301 this page onto `/university-of-kentucky-endowment/`, `/university-of-
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Kentucky Humanities Foundation endowment](/university-of-kentucky-humanities-endowment/)
-- [Chipola College Foundation endowment](/chipola-college-foundation/)
+- [Claremont McKenna College endowment](/claremont-mckenna-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

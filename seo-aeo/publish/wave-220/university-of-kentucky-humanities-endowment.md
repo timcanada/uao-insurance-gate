@@ -44,6 +44,6 @@ Do not 301 this page onto `/university-of-kentucky-endowment/`, `/university-of-
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Gluck Equine Research Foundation endowment](/gluck-equine-endowment/)
-- [University of Kentucky Mining Engineering Foundation endowment](/university-of-kentucky-mining-endowment/)
+- [Harvey Mudd College endowment](/harvey-mudd-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -53,5 +53,6 @@ Do not 301 this page onto `/kennesaw-state-university-foundation/`, `/georgia-so
 - [University of Georgia Foundation endowment](/university-of-georgia-foundation/)
 - [Medical College of Georgia Foundation endowment](/medical-college-of-georgia-foundation/)
 - [Albany State University Foundation endowment](/albany-state-university-foundation/)
+- [Gwinnett Tech Foundation endowment](/gwinnett-tech-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

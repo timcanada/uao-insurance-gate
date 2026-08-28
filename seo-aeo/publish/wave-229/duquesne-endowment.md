@@ -50,5 +50,6 @@ Do not 301 this page onto `/carnegie-mellon-endowment/`, `/university-of-pittsbu
 - [Allegheny College endowment](/allegheny-college-endowment/)
 - [Moravian University endowment](/moravian-university-endowment/)
 - [Susquehanna University endowment](/susquehanna-university-endowment/)
+- [Saint Joseph's University endowment](/saint-josephs-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

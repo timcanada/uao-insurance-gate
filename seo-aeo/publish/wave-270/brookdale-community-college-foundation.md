@@ -50,5 +50,6 @@ Do not 301 this page onto `/mercer-county-community-college-foundation/`, `/stoc
 - [Ramapo College Foundation endowment](/ramapo-college-foundation/)
 - [Rider University endowment](/rider-university-endowment/)
 - [Hillsborough Community College Foundation endowment](/hillsborough-community-college-foundation/)
+- [Gwinnett Tech Foundation endowment](/gwinnett-tech-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

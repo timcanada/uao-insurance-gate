@@ -52,5 +52,6 @@ Do not 301 this page onto `/georgia-southern-university-foundation/`, `/kansas-s
 - [University of Georgia Foundation endowment](/university-of-georgia-foundation/)
 - [Medical College of Georgia Foundation endowment](/medical-college-of-georgia-foundation/)
 - [University of Alaska Foundation endowment](/university-of-alaska-foundation/)
+- [Gwinnett Tech Foundation endowment](/gwinnett-tech-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

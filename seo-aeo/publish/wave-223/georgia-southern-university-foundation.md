@@ -50,5 +50,6 @@ Do not 301 this page onto `/missouri-state-university-foundation/`, `/kansas-sta
 - [University System of Georgia Foundation endowment](/university-system-of-georgia-foundation/)
 - [University of Georgia Foundation endowment](/university-of-georgia-foundation/)
 - [Medical College of Georgia Foundation endowment](/medical-college-of-georgia-foundation/)
+- [Gwinnett Tech Foundation endowment](/gwinnett-tech-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

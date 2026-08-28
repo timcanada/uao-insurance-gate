@@ -48,5 +48,6 @@ Do not 301 this page onto `/university-of-georgia-foundation/`, `/asu/`, `/alban
 - [University of Georgia Foundation endowment](/university-of-georgia-foundation/)
 - [Medical College of Georgia Foundation endowment](/medical-college-of-georgia-foundation/)
 - [University of North Georgia Foundation endowment](/university-of-north-georgia-foundation/)
+- [Gwinnett Tech Foundation endowment](/gwinnett-tech-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

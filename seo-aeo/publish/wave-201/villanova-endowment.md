@@ -47,5 +47,6 @@ Do not 301 this page onto `/university-of-pennsylvania-endowment/`, `/johns-hopk
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Pennsylvania endowment](/university-of-pennsylvania-endowment/)
 - [Drexel University endowment](/drexel-endowment/)
+- [Saint Joseph's University endowment](/saint-josephs-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

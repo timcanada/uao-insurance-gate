@@ -50,5 +50,7 @@ Do not 301 this page onto `/foundation-for-california-community-colleges/`, `/co
 - [Cuesta College Foundation endowment](/cuesta-college-foundation/)
 - [College of the Canyons Foundation endowment](/college-of-the-canyons-foundation/)
 - [Santa Ana College Foundation endowment](/santa-ana-college-foundation/)
+- [Columbia College California Foundation endowment](/columbia-college-california-foundation/)
+- [Modesto Junior College Foundation endowment](/modesto-junior-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

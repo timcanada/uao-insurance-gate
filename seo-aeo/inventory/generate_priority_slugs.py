@@ -526,6 +526,8 @@ def main() -> None:
         ("baruch-college-fund", "The Baruch College Fund endowment", "Endowment", "needed"),
         ("el-camino-college-foundation", "El Camino College Foundation endowment", "Endowment", "needed"),
         ("pace-endowment", "Pace University endowment", "Endowment", "needed"),
+        ("columbia-college-california-foundation", "Columbia College California Foundation endowment", "Endowment", "needed"),
+        ("modesto-junior-college-foundation", "Modesto Junior College Foundation endowment", "Endowment", "needed"),
         ("emory-endowment", "Emory University endowment", "Endowment", "needed"),
         ("carnegie-mellon-endowment", "Carnegie Mellon University endowment", "Endowment", "needed"),
         ("caltech-endowment", "Caltech endowment", "Endowment", "needed"),

@@ -53,5 +53,7 @@ Do not 301 this page onto `/foundation-for-california-community-colleges/`, `/ve
 - [CSUN Foundation endowment](/csun-foundation/)
 - [Foundation of the City College of San Francisco endowment](/foundation-of-the-city-college-of-san-francisco/)
 - [El Camino College Foundation endowment](/el-camino-college-foundation/)
+- [Columbia College California Foundation endowment](/columbia-college-california-foundation/)
+- [Modesto Junior College Foundation endowment](/modesto-junior-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -46,6 +46,6 @@ Do not 301 this page onto `/colgate-endowment/`, `/davidson-endowment/`, `/holy-
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Colgate University endowment](/colgate-endowment/)
-- [Davidson College endowment](/davidson-endowment/)
+- [Lafayette College endowment](/lafayette-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

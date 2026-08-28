@@ -46,6 +46,6 @@ Do not 301 this page onto `/grinnell-endowment/`, `/swarthmore-endowment/`, `/ca
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Grinnell College endowment](/grinnell-endowment/)
-- [Swarthmore College endowment](/swarthmore-endowment/)
+- [Macalester College endowment](/macalester-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

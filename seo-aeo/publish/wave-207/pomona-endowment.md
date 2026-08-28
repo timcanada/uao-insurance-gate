@@ -47,6 +47,6 @@ Do not 301 this page onto `/wellesley-endowment/`, `/amherst-endowment/`, `/pomo
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Wellesley College endowment](/wellesley-endowment/)
-- [Amherst College endowment](/amherst-endowment/)
+- [Haverford College endowment](/haverford-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

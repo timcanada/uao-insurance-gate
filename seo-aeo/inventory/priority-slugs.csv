@@ -1241,6 +1241,22 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 207,institution,carleton-endowment,Carleton College endowment,allocator,brief,P0,drafted-in-repo,Wave 207. Official endowment net assets $1,343,728,654 at 30 Jun 2025. Investments MV $1,334,429,848 is a different line. Do not mint /carleton/
 2,institution,carleton-endowment-explained,Carleton endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 207 /carleton-endowment/
 2,institution,carleton,Carleton (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 207 /carleton-endowment/
+208,institution,haverford-endowment,Haverford College endowment,allocator,brief,P0,drafted-in-repo,Wave 208. Official endowment net assets $751,011 thousand at 30 Jun 2025. Not leftover Pennsylvania SERS. Do not mint /haverford/
+2,institution,haverford-endowment-explained,Haverford endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 208 /haverford-endowment/
+2,institution,haverford,Haverford (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 208 /haverford-endowment/
+208,institution,oberlin-endowment,Oberlin College endowment,allocator,brief,P0,drafted-in-repo,Wave 208. Official endowment net assets $1,480,794 thousand at 30 Jun 2025. GIP 12.1% is the house pool print. Do not mint /oberlin/
+2,institution,oberlin-endowment-explained,Oberlin endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 208 /oberlin-endowment/
+2,institution,oberlin,Oberlin (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 208 /oberlin-endowment/
+208,institution,kenyon-endowment,Kenyon College endowment,allocator,brief,P0,drafted-in-repo,Wave 208. Official endowment assets $689,470,845 at 30 Jun 2025. Do not invent a percent. Do not mint /kenyon/
+2,institution,kenyon-endowment-explained,Kenyon endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 208 /kenyon-endowment/
+2,institution,kenyon,Kenyon (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 208 /kenyon-endowment/
+208,institution,macalester-endowment,Macalester College endowment,allocator,brief,P0,drafted-in-repo,Wave 208. Official endowment net assets $865,860 thousand at 31 May 2025. Do not mint /macalester/ or /mac/
+2,institution,macalester-endowment-explained,Macalester endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 208 /macalester-endowment/
+2,institution,macalester,Macalester (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 208 /macalester-endowment/
+2,institution,mac,Macalester MAC (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 208 /macalester-endowment/
+208,institution,lafayette-endowment,Lafayette College endowment,allocator,brief,P0,drafted-in-repo,Wave 208. Official managed endowment $1,199,913 thousand at 30 Jun 2025. Not leftover Pennsylvania SERS. Do not mint /lafayette/
+2,institution,lafayette-endowment-explained,Lafayette endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 208 /lafayette-endowment/
+2,institution,lafayette,Lafayette (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 208 /lafayette-endowment/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

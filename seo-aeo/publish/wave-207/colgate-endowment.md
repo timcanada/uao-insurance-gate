@@ -46,6 +46,6 @@ Do not 301 this page onto `/wesleyan-endowment/`, `/holy-cross-endowment/`, `/co
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Wesleyan University endowment](/wesleyan-endowment/)
-- [College of the Holy Cross endowment](/holy-cross-endowment/)
+- [Lafayette College endowment](/lafayette-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

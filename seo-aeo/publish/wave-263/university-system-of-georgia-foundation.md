@@ -50,5 +50,6 @@ Do not 301 this page onto `/university-of-north-georgia-foundation/`, `/universi
 - [Kennesaw State University Foundation endowment](/kennesaw-state-university-foundation/)
 - [University of Georgia Foundation endowment](/university-of-georgia-foundation/)
 - [Medical College of Georgia Foundation endowment](/medical-college-of-georgia-foundation/)
+- [Albany State University Foundation endowment](/albany-state-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

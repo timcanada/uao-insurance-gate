@@ -47,5 +47,6 @@ Do not 301 this page onto `/knox-endowment/`, `/illinois-state-university-founda
 - [The endowment model, explained](/endowment-model-explained/)
 - [Knox College endowment](/knox-endowment/)
 - [Illinois State University Foundation endowment](/illinois-state-university-foundation/)
+- [Monmouth College endowment](/monmouth-college-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

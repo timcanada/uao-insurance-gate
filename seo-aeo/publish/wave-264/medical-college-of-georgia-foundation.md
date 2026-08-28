@@ -48,5 +48,6 @@ Do not 301 this page onto `/university-of-georgia-foundation/`, `/mcg/`, `/augus
 - [University of Georgia Foundation endowment](/university-of-georgia-foundation/)
 - [University of North Georgia Foundation endowment](/university-of-north-georgia-foundation/)
 - [University System of Georgia Foundation endowment](/university-system-of-georgia-foundation/)
+- [Albany State University Foundation endowment](/albany-state-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

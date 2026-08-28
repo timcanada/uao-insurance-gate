@@ -43,7 +43,7 @@ Do not 301 this page onto `/medical-college-of-virginia-foundation/`, `/hamilton
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
-- [Medical College of Virginia Foundation endowment](/medical-college-of-virginia-foundation/)
+- [Chapman University endowment](/chapman-endowment/)
 - [Hamilton College endowment](/hamilton-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

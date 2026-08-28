@@ -45,7 +45,7 @@ Do not 301 this page onto `/holy-cross-endowment/`, `/xavier-university-endowmen
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
-- [Xavier University endowment](/xavier-university-endowment/)
+- [Knox College endowment](/knox-endowment/)
 - [Santa Clara University endowment](/santa-clara-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

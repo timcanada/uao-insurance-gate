@@ -45,7 +45,7 @@ Do not 301 this page onto `/usc-endowment/`, `/george-mason-university-foundatio
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
-- [George Mason University Foundation endowment](/george-mason-university-foundation/)
+- [University of Iowa Center for Advancement endowment](/university-of-iowa-center-for-advancement/)
 - [Washington and Lee University endowment](/washington-and-lee-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

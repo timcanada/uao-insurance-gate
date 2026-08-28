@@ -43,7 +43,7 @@ Do not 301 this page onto `/university-of-dayton-endowment/`, `/college-of-charl
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
-- [University of Dayton endowment](/university-of-dayton-endowment/)
+- [Creighton University endowment](/creighton-endowment/)
 - [College of Charleston Foundation endowment](/college-of-charleston-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

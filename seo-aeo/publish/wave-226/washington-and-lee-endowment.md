@@ -45,7 +45,7 @@ Do not 301 this page onto `/university-of-washington-endowment/`, `/washington-u
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
-- [University of Wisconsin Foundation endowment](/university-of-wisconsin-foundation/)
+- [Willamette University endowment](/willamette-endowment/)
 - [Spelman College endowment](/spelman-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

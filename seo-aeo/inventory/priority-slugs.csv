@@ -1642,6 +1642,29 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,scu,SCU (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 226 /santa-clara-endowment/
 2,institution,santa-clara,Santa Clara (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 226 /santa-clara-endowment/
 2,institution,broncos,Broncos (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 226 /santa-clara-endowment/
+227,institution,willamette-endowment,Willamette University endowment,allocator,brief,P0,drafted-in-repo,Wave 227. Official endowment NA $331,819 thousand at 30 Jun 2025. Do not invent a percent. Do not mint /willamette/ or /wu/ or /bearcats/. /uw/ remains Washington. Not leftover Whitman
+2,institution,willamette-endowment-explained,Willamette endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 227 /willamette-endowment/
+2,institution,willamette,Willamette (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 227 /willamette-endowment/
+2,institution,wu,WU (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 227 /willamette-endowment/
+2,institution,bearcats,Bearcats (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 227 /willamette-endowment/
+227,institution,creighton-endowment,Creighton University endowment,allocator,brief,P0,drafted-in-repo,Wave 227. Official endowment totals $866,636 thousand at 30 Jun 2025. Do not invent leftover pooled 12.5%. Do not mint /creighton/ or /cu/ or /bluejays/. /cu/ also reserved against leftover Chapman. Not leftover Nebraska Foundation
+2,institution,creighton-endowment-explained,Creighton endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 227 /creighton-endowment/
+2,institution,creighton,Creighton (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 227 /creighton-endowment/
+2,institution,cu,CU (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 227 /creighton-endowment/. Also reserved against leftover Chapman
+2,institution,bluejays,Bluejays (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 227 /creighton-endowment/
+227,institution,chapman-endowment,Chapman University endowment,allocator,brief,P0,drafted-in-repo,Wave 227. Official endowment NA $909,811 thousand at 31 May 2025. Do not invent leftover 3.0% or leftover real-return 6.0%. Do not mint /chapman/ or /cu/ or /panthers/. /cu/ remains Creighton. Not leftover USC
+2,institution,chapman-endowment-explained,Chapman endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 227 /chapman-endowment/
+2,institution,chapman,Chapman (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 227 /chapman-endowment/
+2,institution,panthers,Panthers (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 227 /chapman-endowment/
+227,institution,knox-endowment,Knox College endowment,allocator,brief,P0,drafted-in-repo,Wave 227. Official endowment NA $176,637,172 at 30 Jun 2025. Do not invent leftover 7.0%. Do not mint /knox/ or /prairie-fire/. Not leftover Illinois Foundation
+2,institution,knox-endowment-explained,Knox endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 227 /knox-endowment/
+2,institution,knox,Knox (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 227 /knox-endowment/
+2,institution,prairie-fire,Prairie Fire (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 227 /knox-endowment/
+227,institution,university-of-iowa-center-for-advancement,University of Iowa Center for Advancement endowment,allocator,brief,P0,drafted-in-repo,Wave 227. Official endowment NA $1,413,299,964 at 30 Jun 2025. Do not invent leftover By-the-Numbers 8.5% or leftover glossy $1,772 million. Do not mint /uif/ or /iowa/ or /uiowa/ or /uica/ or /hawkeyes/. /uif/ remains Illinois Foundation. /iowa/ remains IPERS flatten
+2,institution,university-of-iowa-center-for-advancement-explained,Iowa Center for Advancement explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 227 /university-of-iowa-center-for-advancement/
+2,institution,uiowa,UIowa (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 227 /university-of-iowa-center-for-advancement/
+2,institution,uica,UICA (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 227 /university-of-iowa-center-for-advancement/
+2,institution,hawkeyes,Hawkeyes (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 227 /university-of-iowa-center-for-advancement/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

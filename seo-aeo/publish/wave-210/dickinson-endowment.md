@@ -49,5 +49,6 @@ Do not 301 this page onto `/bryn-mawr-endowment/`, `/haverford-endowment/`, `/di
 - [Moravian University endowment](/moravian-university-endowment/)
 - [Susquehanna University endowment](/susquehanna-university-endowment/)
 - [Lebanon Valley College endowment](/lebanon-valley-college-endowment/)
+- [Messiah University endowment](/messiah-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

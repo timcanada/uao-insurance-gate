@@ -50,5 +50,6 @@ Do not 301 this page onto `/susquehanna-university-endowment/`, `/moravian-unive
 - [Lafayette College endowment](/lafayette-endowment/)
 - [Allegheny College endowment](/allegheny-college-endowment/)
 - [Moravian University endowment](/moravian-university-endowment/)
+- [Messiah University endowment](/messiah-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

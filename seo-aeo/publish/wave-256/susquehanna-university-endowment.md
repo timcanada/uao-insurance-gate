@@ -50,6 +50,7 @@ Do not 301 this page onto `/dickinson-endowment/`, `/moravian-university-endowme
 - [Allegheny College endowment](/allegheny-college-endowment/)
 - [Moravian University endowment](/moravian-university-endowment/)
 - [Lebanon Valley College endowment](/lebanon-valley-college-endowment/)
+- [Messiah University endowment](/messiah-university-endowment/)
 - [Ursinus College endowment](/ursinus-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

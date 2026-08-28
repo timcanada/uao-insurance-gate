@@ -51,5 +51,6 @@ Do not 301 this page onto `/st-olaf-endowment/`, `/macalester-endowment/`, `/car
 - [Concordia College Moorhead endowment](/concordia-college-moorhead-endowment/)
 - [Hamline University endowment](/hamline-endowment/)
 - [College of Saint Benedict endowment](/college-of-saint-benedict-endowment/)
+- [Saint John's University endowment](/saint-johns-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

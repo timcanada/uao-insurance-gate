@@ -46,5 +46,6 @@ Do not 301 this page onto `/macalester-endowment/`, `/carleton-endowment/`, `/st
 - [Macalester College endowment](/macalester-endowment/)
 - [Hope College endowment](/hope-college-endowment/)
 - [Gustavus Adolphus College endowment](/gustavus-adolphus-endowment/)
+- [Saint John's University endowment](/saint-johns-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

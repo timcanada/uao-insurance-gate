@@ -27,7 +27,7 @@ The financial statements print **actual dollars**, not thousands.
 2. **Named books are not interchangeable.** Printed investment return **$14,609,459**. Leftover highlights total return **11.0%** is another print. This change table does not print a one-year percent. Do not invent one from leftover highlights **11.0%** or leftover grow **4.0%**. Do not flatten leftover highlights **$157,162,629**, leftover Saint John’s University Collegeville, leftover St. Thomas, leftover Hamline, or leftover University of Minnesota Foundation onto **$157,168,459** / **$14,609,459**.
 3. **Payout.** Appropriation of endowment net assets for expenditure **$4,408,862**. Statement leftover long-term investment return designated for current operations **$4,408,862** is the same printed dollar. CliftonLarsonAllen LLP, Minneapolis, Minnesota, **4 November 2025**.
 
-Do not flatten the College of Saint Benedict into leftover [University of St. Thomas endowment](/university-of-st-thomas-endowment/), leftover [Hamline University endowment](/hamline-endowment/), leftover [University of Minnesota Foundation endowment](/university-of-minnesota-foundation/), leftover Saint John’s University Collegeville, leftover St. Olaf, leftover Minnesota SBI, or leftover [largest university endowments](/largest-university-endowments-2026/). This is **one College of Saint Benedict endowment file**.
+Do not flatten the College of Saint Benedict into leftover [University of St. Thomas endowment](/university-of-st-thomas-endowment/), leftover [Hamline University endowment](/hamline-endowment/), leftover [University of Minnesota Foundation endowment](/university-of-minnesota-foundation/), leftover [Saint John's University endowment](/saint-johns-university-endowment/), leftover St. Olaf, leftover Minnesota SBI, or leftover [largest university endowments](/largest-university-endowments-2026/). This is **one College of Saint Benedict endowment file**.
 
 ## What an owner is actually buying
 
@@ -52,5 +52,6 @@ Do not 301 this page onto `/university-of-st-thomas-endowment/`, `/hamline-endow
 - [Minnesota State University Moorhead Foundation endowment](/minnesota-state-moorhead-foundation/)
 - [Concordia College Moorhead endowment](/concordia-college-moorhead-endowment/)
 - [Gustavus Adolphus College endowment](/gustavus-adolphus-endowment/)
+- [Saint John's University endowment](/saint-johns-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -50,5 +50,6 @@ Do not 301 this page onto `/university-of-minnesota-foundation/`, `/st-thomas/`,
 - [Minnesota State University Mankato Foundation endowment](/minnesota-state-mankato-foundation/)
 - [Concordia College Moorhead endowment](/concordia-college-moorhead-endowment/)
 - [Gustavus Adolphus College endowment](/gustavus-adolphus-endowment/)
+- [Saint John's University endowment](/saint-johns-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -45,5 +45,6 @@ Do not 301 this page onto `/dickinson-endowment/`, `/haverford-endowment/`, `/ur
 - [The endowment model, explained](/endowment-model-explained/)
 - [Dickinson College endowment](/dickinson-endowment/)
 - [Stetson University endowment](/stetson-endowment/)
+- [Moravian University endowment](/moravian-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

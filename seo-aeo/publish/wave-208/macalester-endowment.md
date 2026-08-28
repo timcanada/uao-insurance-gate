@@ -48,5 +48,6 @@ Do not 301 this page onto `/carleton-endowment/`, `/grinnell-endowment/`, `/maca
 - [Carleton College endowment](/carleton-endowment/)
 - [Mount Holyoke College endowment](/mount-holyoke-endowment/)
 - [Gustavus Adolphus College endowment](/gustavus-adolphus-endowment/)
+- [Saint John's University endowment](/saint-johns-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

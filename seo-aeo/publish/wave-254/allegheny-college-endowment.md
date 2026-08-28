@@ -48,5 +48,6 @@ Do not 301 this page onto `/dickinson-endowment/`, `/duquesne-endowment/`, `/all
 - [Lafayette College endowment](/lafayette-endowment/)
 - [Duquesne University endowment](/duquesne-endowment/)
 - [Gustavus Adolphus College endowment](/gustavus-adolphus-endowment/)
+- [Moravian University endowment](/moravian-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

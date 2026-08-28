@@ -48,5 +48,6 @@ Do not 301 this page onto `/holy-cross-endowment/`, `/colgate-endowment/`, `/laf
 - [College of the Holy Cross endowment](/holy-cross-endowment/)
 - [Trinity College endowment](/trinity-college-endowment/)
 - [Allegheny College endowment](/allegheny-college-endowment/)
+- [Moravian University endowment](/moravian-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

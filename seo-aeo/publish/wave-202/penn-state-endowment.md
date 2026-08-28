@@ -47,5 +47,6 @@ Do not 301 this page onto `/university-of-pittsburgh-endowment/`, `/pennsylvania
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Pittsburgh endowment](/university-of-pittsburgh-endowment/)
 - [University of Pennsylvania endowment](/university-of-pennsylvania-endowment/)
+- [Brandeis University endowment](/brandeis-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

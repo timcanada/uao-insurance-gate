@@ -47,5 +47,6 @@ Do not 301 this page onto `/university-of-virginia-endowment/`, `/richmond-retir
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Virginia endowment](/university-of-virginia-endowment/)
 - [George Washington University endowment](/george-washington-endowment/)
+- [Pepperdine University endowment](/pepperdine-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

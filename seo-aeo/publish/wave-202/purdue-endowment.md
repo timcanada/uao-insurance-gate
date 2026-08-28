@@ -45,5 +45,6 @@ Do not 301 this page onto `/indiana-university-endowment/`, `/ohio-state-endowme
 - [The endowment model, explained](/endowment-model-explained/)
 - [Indiana University endowment](/indiana-university-endowment/)
 - [Ohio State University endowment](/ohio-state-endowment/)
+- [Rutgers endowment](/rutgers-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

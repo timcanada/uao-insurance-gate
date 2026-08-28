@@ -1159,6 +1159,23 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 202,institution,drexel-endowment,Drexel University endowment,allocator,brief,P0,drafted-in-repo,Wave 202. Official endowment assets $1,130,861 thousand at 30 Jun 2025. Endowment investments $1,066,593 thousand are a different line. Do not mint /drexel/
 2,institution,drexel-endowment-explained,Drexel endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 202 /drexel-endowment/
 2,institution,drexel,Drexel (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 202 /drexel-endowment/
+203,institution,brandeis-endowment,Brandeis University endowment,allocator,brief,P0,drafted-in-repo,Wave 203. Official endowment and quasi-endowment $1,357,267 thousand at 30 Jun 2025. CFO 12.2% / $1.4 billion is a different book. Do not mint /brandeis/
+2,institution,brandeis-endowment-explained,Brandeis endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 203 /brandeis-endowment/
+2,institution,brandeis,Brandeis (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 203 /brandeis-endowment/
+203,institution,pepperdine-endowment,Pepperdine University endowment,allocator,brief,P0,drafted-in-repo,Wave 203. Official endowment net assets $1,334,983 thousand at 31 Jul 2025. University-wide return $144,685 thousand is a different line. Do not mint /pepperdine/
+2,institution,pepperdine-endowment-explained,Pepperdine endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 203 /pepperdine-endowment/
+2,institution,pepperdine,Pepperdine (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 203 /pepperdine-endowment/
+203,institution,temple-endowment,Temple University endowment,allocator,brief,P0,drafted-in-repo,Wave 203. Official endowment $1,079,666 thousand at 30 Jun 2025. Total investments $2,933,300 thousand are a wider book. Do not mint /temple/
+2,institution,temple-endowment-explained,Temple endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 203 /temple-endowment/
+2,institution,temple,Temple (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 203 /temple-endowment/. Not leftover Pennsylvania SERS
+203,institution,howard-endowment,Howard University endowment,allocator,brief,P0,drafted-in-repo,Wave 203. Official endowment net assets $1,121,851 thousand at 30 Jun 2025. Endowment investments $1,119,926 thousand are a different line. Not leftover Howard County. Do not mint /howard/
+2,institution,howard-endowment-explained,Howard endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 203 /howard-endowment/
+2,institution,howard,Howard (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 203 /howard-endowment/. Not leftover Howard County Retirement or Howard County Police and Fire
+2,institution,howard-university-endowment,Howard University endowment (long),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 203 /howard-endowment/
+203,institution,rutgers-endowment,Rutgers endowment,allocator,brief,P0,drafted-in-repo,Wave 203. Official LTIP $2,186.0 million / 10.4% at 30 Jun 2025. Permanent / term / quasi sleeves are not a homemade pile. Do not mint /rutgers/ or /ru/
+2,institution,rutgers-endowment-explained,Rutgers endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 203 /rutgers-endowment/
+2,institution,rutgers,Rutgers (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 203 /rutgers-endowment/. Not leftover New Jersey Division of Investment
+2,institution,ru,RU (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 203 /rutgers-endowment/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

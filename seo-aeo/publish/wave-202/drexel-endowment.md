@@ -47,5 +47,6 @@ Do not 301 this page onto `/university-of-pennsylvania-endowment/`, `/villanova-
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Pennsylvania endowment](/university-of-pennsylvania-endowment/)
 - [Villanova University endowment](/villanova-endowment/)
+- [Temple University endowment](/temple-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -47,5 +47,6 @@ Do not 301 this page onto `/university-of-michigan-endowment/`, `/ohio-opers/`, 
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Michigan endowment](/university-of-michigan-endowment/)
 - [Purdue University endowment](/purdue-endowment/)
+- [Howard University endowment](/howard-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

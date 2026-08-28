@@ -49,5 +49,7 @@ Do not 301 this page onto `/unc-chapel-hill-endowment/`, `/uncg/`, `/greensboro/
 - [Duke University endowment](/duke-university-endowment/)
 - [Wake Forest University endowment](/wake-forest-endowment/)
 - [University of Virginia endowment](/university-of-virginia-endowment/)
+- [North Carolina State University Foundation endowment](/north-carolina-state-university-foundation/)
+- [NC State endowment](/nc-state-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

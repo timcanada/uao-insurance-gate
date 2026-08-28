@@ -51,5 +51,7 @@ Do not 301 this page onto `/ramapo-college-foundation/`, `/stockton-university-f
 - [Mercer County Community College Foundation endowment](/mercer-county-community-college-foundation/)
 - [Middlesex College Foundation endowment](/middlesex-college-foundation/)
 - [Kishwaukee College Foundation endowment](/kishwaukee-college-foundation/)
+- [North Carolina State University Foundation endowment](/north-carolina-state-university-foundation/)
+- [North Carolina Veterinary Medical Foundation endowment](/north-carolina-veterinary-medical-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

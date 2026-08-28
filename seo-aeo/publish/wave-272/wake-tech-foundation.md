@@ -53,5 +53,7 @@ Do not 301 this page onto `/gwinnett-tech-foundation/`, `/brookdale-community-co
 - [Northeast Iowa Community College Foundation endowment](/northeast-iowa-community-college-foundation/)
 - [Kirkwood Community College Foundation endowment](/kirkwood-community-college-foundation/)
 - [Community Colleges of New Hampshire Foundation endowment](/community-colleges-of-new-hampshire-foundation/)
+- [North Carolina State University Foundation endowment](/north-carolina-state-university-foundation/)
+- [North Carolina Textile Foundation endowment](/north-carolina-textile-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -25,13 +25,13 @@ The Gulf Coast State College Foundation endowment is The Gulf Coast State Colleg
 2. **Named books are not interchangeable.** Net investment return **$1,693,584**. This PDF does not print a one-year percent. Do not invent a percent. Do not flatten leftover transfers **$(1,075,515)** or leftover contributions and other income, net **$279,111** onto **$1,693,584**.
 3. **Payout.** Appropriation of assets for expenditure **$1,265,516**. Spending policy **5%** of a three-year moving market-value average of donor-restricted endowment funds, using 31 December figures. Tipton, Marler, Garner & Chastain, Panama City, **23 February 2026**.
 
-Do not flatten the Gulf Coast State College Foundation into leftover [State College of Florida Foundation endowment](/state-college-florida-foundation/), leftover [FAMU Foundation endowment](/famu-foundation-endowment/), leftover Chipola College Foundation, or leftover [largest university endowments](/largest-university-endowments-2026/). This is **one Gulf Coast State College Foundation endowment file**.
+Do not flatten the Gulf Coast State College Foundation into leftover [State College of Florida Foundation endowment](/state-college-florida-foundation/), leftover [University of Kentucky Alumni Association endowment](/university-of-kentucky-alumni-endowment/), leftover Chipola College Foundation, or leftover [largest university endowments](/largest-university-endowments-2026/). This is **one Gulf Coast State College Foundation endowment file**.
 
 ## What an owner is actually buying
 
 Counsel selling “Gulf Coast AUM” has to name the book and the campus. The **$14,485,593** line is endowment net assets at **30 June 2025**. The **$1,693,584** line is the named return. The **$1,265,516** line is the appropriation. Those are not leftover Harvard **$56.9 billion**.
 
-Do not 301 this page onto `/state-college-florida-foundation/`, `/famu-foundation-endowment/`, `/gulf-coast/`, `/gcsc/`, `/gcscf/`, or `/largest-university-endowments-2026/`.
+Do not 301 this page onto `/state-college-florida-foundation/`, `/university-of-kentucky-alumni-endowment/`, `/gulf-coast/`, `/gcsc/`, `/gcscf/`, or `/largest-university-endowments-2026/`.
 
 ## Where Universal Asset Owners sits
 
@@ -44,6 +44,6 @@ Do not 301 this page onto `/state-college-florida-foundation/`, `/famu-foundatio
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [State College of Florida Foundation endowment](/state-college-florida-foundation/)
-- [FAMU Foundation endowment](/famu-foundation-endowment/)
+- [University of Kentucky Alumni Association endowment](/university-of-kentucky-alumni-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

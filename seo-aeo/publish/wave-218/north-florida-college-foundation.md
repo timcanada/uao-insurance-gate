@@ -25,13 +25,13 @@ The North Florida College Foundation endowment is North Florida College Foundati
 2. **Named books are not interchangeable.** Change in investment value **$290,284**. Interest and dividends **$43,866**. This PDF does not print a one-line total return or a one-year percent. Do not homemade-sum those two lines. Do not invent a percent. Do not flatten leftover contributions and special events **$130,355** onto the named return books.
 3. **Payout.** Amounts appropriated **$253,271**. Spending policy: earnings on endowed funds will be spent at a rate not greater than **5%** per year. Carr, Riggs & Ingram, L.L.C., Tallahassee, **15 October 2025**.
 
-Do not flatten the North Florida College Foundation into leftover [Valencia College Foundation endowment](/valencia-college-foundation/), leftover [Florida Keys Educational Foundation endowment](/florida-keys-educational-foundation/), leftover University of North Florida Foundation, or leftover [largest university endowments](/largest-university-endowments-2026/). This is **one North Florida College Foundation endowment file**.
+Do not flatten the North Florida College Foundation into leftover [Florida International University Foundation endowment](/florida-international-university-foundation/), leftover [Florida Keys Educational Foundation endowment](/florida-keys-educational-foundation/), leftover University of North Florida Foundation, or leftover [largest university endowments](/largest-university-endowments-2026/). This is **one North Florida College Foundation endowment file**.
 
 ## What an owner is actually buying
 
 Counsel selling “NFC AUM” has to name the book and the campus. The **$4,573,343** line is endowment at **31 March 2025**. The **$290,284** and **$43,866** lines are the named return books. The **$253,271** line is the appropriation. Those are not leftover Harvard **$56.9 billion**.
 
-Do not 301 this page onto `/valencia-college-foundation/`, `/florida-keys-educational-foundation/`, `/nfc/`, or `/largest-university-endowments-2026/`.
+Do not 301 this page onto `/florida-international-university-foundation/`, `/florida-keys-educational-foundation/`, `/nfc/`, or `/largest-university-endowments-2026/`.
 
 ## Where Universal Asset Owners sits
 
@@ -43,7 +43,7 @@ Do not 301 this page onto `/valencia-college-foundation/`, `/florida-keys-educat
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
-- [Valencia College Foundation endowment](/valencia-college-foundation/)
+- [Florida International University Foundation endowment](/florida-international-university-foundation/)
 - [Florida Keys Educational Foundation endowment](/florida-keys-educational-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

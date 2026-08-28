@@ -1445,6 +1445,27 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,cfk,CFK (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 218 /florida-keys-educational-foundation/
 2,institution,florida-keys,Florida Keys (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 218 /florida-keys-educational-foundation/
 2,institution,keys,Keys (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 218 /florida-keys-educational-foundation/
+219,institution,university-of-florida-foundation,University of Florida Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 219. Official total endowment balance $2,681,644,568 at 30 Jun 2025. Do not invent a percent. Do not mint /uf/ /uff/ or /gators/. Not leftover University of West Florida
+2,institution,university-of-florida-foundation-explained,University of Florida Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 219 /university-of-florida-foundation/
+2,institution,uf,UF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 219 /university-of-florida-foundation/
+2,institution,uff,UFF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 219 /university-of-florida-foundation/
+2,institution,gators,Gators (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 219 /university-of-florida-foundation/
+219,institution,florida-international-university-foundation,Florida International University Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 219. Official restricted endowment net position $380,090,861 at 30 Jun 2025. Do not homemade-sum return lines. Do not invent a percent. Do not mint /fiu/ or /fiuf/
+2,institution,florida-international-university-foundation-explained,FIU Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 219 /florida-international-university-foundation/
+2,institution,fiu,FIU (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 219 /florida-international-university-foundation/
+2,institution,fiuf,FIUF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 219 /florida-international-university-foundation/
+219,institution,university-of-kentucky-endowment,University of Kentucky endowment,allocator,brief,P0,drafted-in-repo,Wave 219. Official endowment investments $2,231,452 thousand at 30 Jun 2025. Do not homemade-sum return lines. Do not invent a percent. Do not mint /uky/ /uk/ or /kentucky/
+2,institution,university-of-kentucky-endowment-explained,University of Kentucky explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 219 /university-of-kentucky-endowment/
+2,institution,uky,UKY (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 219 /university-of-kentucky-endowment/
+2,institution,uk,UK (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 219 /university-of-kentucky-endowment/
+2,institution,kentucky,Kentucky (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 219 /university-of-kentucky-endowment/. Not leftover Kentucky TRS
+219,institution,university-of-kentucky-alumni-endowment,University of Kentucky Alumni Association endowment,allocator,brief,P0,drafted-in-repo,Wave 219. Official endowment net assets $31,735,205 at 30 Jun 2025. Do not invent a percent. Do not mint /uky-alumni/ or /ukaa/
+2,institution,university-of-kentucky-alumni-endowment-explained,UK Alumni explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 219 /university-of-kentucky-alumni-endowment/
+2,institution,uky-alumni,UKY Alumni (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 219 /university-of-kentucky-alumni-endowment/
+2,institution,ukaa,UKAA (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 219 /university-of-kentucky-alumni-endowment/
+219,institution,university-of-kentucky-research-foundation,University of Kentucky Research Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 219. Official endowment investments $22,053,564 at 30 Jun 2025. Do not homemade-sum return lines. Do not invent a percent. Do not mint /ukrf/
+2,institution,university-of-kentucky-research-foundation-explained,UKRF explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 219 /university-of-kentucky-research-foundation/
+2,institution,ukrf,UKRF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 219 /university-of-kentucky-research-foundation/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

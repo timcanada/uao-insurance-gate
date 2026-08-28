@@ -25,13 +25,13 @@ The Tallahassee State College Foundation endowment is Tallahassee State College 
 2. **Named books are not interchangeable.** Investment return, net **$1,319,432**. This PDF does not print a one-year percent. Do not invent a percent. Do not flatten leftover foundation-wide total investment return **$1,364,586** onto **$1,319,432**.
 3. **Payout.** Amounts appropriated for expenditure **$727,011**. Maximum endowment spending equals **4%** of a five-year moving average of endowment fund balances. James Moore, Tallahassee, **29 July 2025**.
 
-Do not flatten the Tallahassee State College Foundation into leftover [Hillsborough Community College Foundation endowment](/hillsborough-community-college-foundation/), leftover [Florida College endowment](/florida-college-endowment/), leftover Florida State University Foundation, or leftover [largest university endowments](/largest-university-endowments-2026/). This is **one Tallahassee State College Foundation endowment file**.
+Do not flatten the Tallahassee State College Foundation into leftover [Hillsborough Community College Foundation endowment](/hillsborough-community-college-foundation/), leftover [University of Kentucky endowment](/university-of-kentucky-endowment/), leftover Florida State University Foundation, or leftover [largest university endowments](/largest-university-endowments-2026/). This is **one Tallahassee State College Foundation endowment file**.
 
 ## What an owner is actually buying
 
 Counsel selling “TSC AUM” has to name the book and the campus. The **$20,876,283** line is endowment net assets at **31 March 2025**. The **$1,319,432** line is the named return. The **$727,011** line is the appropriation. Those are not leftover Harvard **$56.9 billion**.
 
-Do not 301 this page onto `/hillsborough-community-college-foundation/`, `/florida-college-endowment/`, `/tsc/`, `/tallahassee/`, `/tcc/`, or `/largest-university-endowments-2026/`.
+Do not 301 this page onto `/hillsborough-community-college-foundation/`, `/university-of-kentucky-endowment/`, `/tsc/`, `/tallahassee/`, `/tcc/`, or `/largest-university-endowments-2026/`.
 
 ## Where Universal Asset Owners sits
 
@@ -44,6 +44,6 @@ Do not 301 this page onto `/hillsborough-community-college-foundation/`, `/flori
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Hillsborough Community College Foundation endowment](/hillsborough-community-college-foundation/)
-- [Florida College endowment](/florida-college-endowment/)
+- [University of Kentucky endowment](/university-of-kentucky-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

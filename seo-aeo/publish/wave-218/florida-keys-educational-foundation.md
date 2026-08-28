@@ -25,13 +25,13 @@ The Florida Keys Educational Foundation endowment is Florida Keys Educational Fo
 2. **Named books are not interchangeable.** Net investment income **$208,112**. Named component lines were dividends and interest **$307,564**, investment fees **$(31,955)**, realized gain **$666,404**, and unrealized loss **$(733,901)**. This PDF already prints the net. Do not homemade-sum those four lines a second time. Do not invent a percent. Do not flatten leftover investments **$7,919,832** onto **$8,874,267**.
 3. **Payout.** Spending-policy distributions **$115,901**. CliftonLarsonAllen LLP, Lakeland, **9 July 2025**.
 
-Do not flatten the Florida Keys Educational Foundation into leftover [North Florida College Foundation endowment](/north-florida-college-foundation/), leftover [Florida SouthWestern State College Foundation endowment](/florida-southwestern-foundation/), leftover [University of Miami endowment](/university-of-miami-endowment/), or leftover [largest university endowments](/largest-university-endowments-2026/). This is **one Florida Keys Educational Foundation endowment file**.
+Do not flatten the Florida Keys Educational Foundation into leftover [North Florida College Foundation endowment](/north-florida-college-foundation/), leftover [University of Kentucky Research Foundation endowment](/university-of-kentucky-research-foundation/), leftover [University of Miami endowment](/university-of-miami-endowment/), or leftover [largest university endowments](/largest-university-endowments-2026/). This is **one Florida Keys Educational Foundation endowment file**.
 
 ## What an owner is actually buying
 
 Counsel selling “CFK AUM” has to name the book and the campus. The **$8,874,267** line is endowment net assets at **31 March 2025**. The **$208,112** line is the named net return. The **$115,901** line is the spending-policy distribution. Those are not leftover Harvard **$56.9 billion**.
 
-Do not 301 this page onto `/north-florida-college-foundation/`, `/florida-southwestern-foundation/`, `/cfk/`, `/florida-keys/`, `/keys/`, or `/largest-university-endowments-2026/`.
+Do not 301 this page onto `/north-florida-college-foundation/`, `/university-of-kentucky-research-foundation/`, `/cfk/`, `/florida-keys/`, `/keys/`, or `/largest-university-endowments-2026/`.
 
 ## Where Universal Asset Owners sits
 
@@ -44,6 +44,6 @@ Do not 301 this page onto `/north-florida-college-foundation/`, `/florida-southw
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [North Florida College Foundation endowment](/north-florida-college-foundation/)
-- [Florida SouthWestern State College Foundation endowment](/florida-southwestern-foundation/)
+- [University of Kentucky Research Foundation endowment](/university-of-kentucky-research-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

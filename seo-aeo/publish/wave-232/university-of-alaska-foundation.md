@@ -46,6 +46,6 @@ Do not 301 this page onto `/alaska-permanent-fund-explained/`, `/university-of-w
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Alaska Permanent Fund](/alaska-permanent-fund-explained/)
-- [University of Wisconsin Foundation endowment](/university-of-wisconsin-foundation/)
+- [University of Oregon Foundation endowment](/university-of-oregon-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

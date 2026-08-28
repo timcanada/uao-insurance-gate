@@ -46,6 +46,6 @@ Do not 301 this page onto `/university-of-the-pacific-endowment/`, `/santa-clara
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of the Pacific endowment](/university-of-the-pacific-endowment/)
-- [Santa Clara University endowment](/santa-clara-endowment/)
+- [San Francisco State University Foundation endowment](/sfsu-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -45,7 +45,7 @@ Do not 301 this page onto `/willamette-endowment/`, `/college-of-saint-benedict-
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
-- [Willamette University endowment](/willamette-endowment/)
+- [Oregon State University Foundation endowment](/oregon-state-university-foundation/)
 - [College of Saint Benedict endowment](/college-of-saint-benedict-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

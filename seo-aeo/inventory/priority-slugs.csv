@@ -1786,6 +1786,29 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,wou,WOU (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 232 /western-oregon-university-foundation/
 2,institution,western-oregon,Western Oregon (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 232 /western-oregon-university-foundation/
 2,institution,wolves,Wolves (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 232 /western-oregon-university-foundation/
+233,institution,oregon-state-university-foundation,Oregon State University Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 233. Official endowment NA $1,005,738,016 at 30 Jun 2025. Do not homemade-sum leftover return lines. Do not mint /osu/ or /oregon-state/ or /osuf/ or /beavers/. /osu/ remains Ohio State. /osuf/ remains Oklahoma State
+2,institution,oregon-state-university-foundation-explained,Oregon State Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 233 /oregon-state-university-foundation/
+2,institution,oregon-state,Oregon State (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 233 /oregon-state-university-foundation/. /osu/ remains Ohio State
+2,institution,beavers,Beavers (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 233 /oregon-state-university-foundation/
+233,institution,university-of-wyoming-foundation,University of Wyoming Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 233. Official endowment NA $535,445,182 at 30 Jun 2025. Do not invent leftover 4.0%. Do not mint /wyoming/ or /uwyo/ or /uwf/ or /cowboys/. /wyoming/ would flatten leftover Wyoming Retirement System. /uwf/ remains West Florida
+2,institution,university-of-wyoming-foundation-explained,Wyoming Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 233 /university-of-wyoming-foundation/
+2,institution,uwyo,UWyo (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 233 /university-of-wyoming-foundation/
+233,institution,sfsu-foundation,San Francisco State University Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 233. Official endowment NA $181,451,758 at 30 Jun 2025. Do not invent leftover 8.6%. Do not mint /usf/ or /sfsu/ or /gators/ or /sf-state/. /usf/ remains reserved
+2,institution,sfsu-foundation-explained,SFSU Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 233 /sfsu-foundation/
+2,institution,sfsu,SFSU (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 233 /sfsu-foundation/
+2,institution,sf-state,SF State (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 233 /sfsu-foundation/
+233,institution,campanile-foundation,The Campanile Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 233. Official endowment NA $488,793,044 at 30 Jun 2025. Do not invent leftover 4%. Do not mint /sdsu/ or /campanile/ or /tcf/ or /aztecs/
+2,institution,campanile-foundation-explained,Campanile Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 233 /campanile-foundation/
+2,institution,campanile,Campanile (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 233 /campanile-foundation/
+2,institution,sdsu,SDSU (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 233 /campanile-foundation/. Would flatten leftover SDSU Research Foundation
+2,institution,tcf,TCF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 233 /campanile-foundation/
+2,institution,aztecs,Aztecs (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 233 /campanile-foundation/
+233,institution,university-of-oregon-foundation,University of Oregon Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 233. Official endowment NA $1,665,613 thousand at 30 Jun 2025. Do not invent leftover 4%. Do not mint /uo/ or /oregon/ or /uof/ or /ducks/. /oregon/ would flatten leftover Oregon PERS. /osu/ remains Ohio State
+2,institution,university-of-oregon-foundation-explained,Oregon Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 233 /university-of-oregon-foundation/
+2,institution,uo,UO (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 233 /university-of-oregon-foundation/
+2,institution,oregon,Oregon (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 233 /university-of-oregon-foundation/. Would flatten leftover Oregon PERS
+2,institution,uof,UOF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 233 /university-of-oregon-foundation/
+2,institution,ducks,Ducks (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 233 /university-of-oregon-foundation/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

@@ -45,7 +45,7 @@ Do not 301 this page onto `/johns-hopkins-endowment/`, `/xavier-university-endow
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
-- [Johns Hopkins University endowment](/johns-hopkins-endowment/)
+- [The Campanile Foundation endowment](/campanile-foundation/)
 - [University of Toledo Foundation endowment](/university-of-toledo-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

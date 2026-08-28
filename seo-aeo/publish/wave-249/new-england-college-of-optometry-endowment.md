@@ -51,5 +51,8 @@ Do not 301 this page onto `/berklee-college-endowment/`, `/boston-architectural-
 - [Southern Connecticut State University Foundation endowment](/scsu-foundation/)
 - [Western Connecticut State University Foundation endowment](/wcsu-foundation/)
 - [Unity Environmental University endowment](/unity-environmental-endowment/)
+- [California Lutheran University endowment](/california-lutheran-endowment/)
+- [Portland State University Foundation endowment](/portland-state-university-foundation/)
+- [Southern Oregon University Foundation endowment](/southern-oregon-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

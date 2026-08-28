@@ -48,5 +48,8 @@ Do not 301 this page onto `/university-of-washington-endowment/`, `/willamette-e
 - [University of San Francisco endowment](/university-of-san-francisco-endowment/)
 - [Seattle University endowment](/seattle-university-endowment/)
 - [Linfield University endowment](/linfield-university-endowment/)
+- [California Lutheran University endowment](/california-lutheran-endowment/)
+- [Portland State University Foundation endowment](/portland-state-university-foundation/)
+- [Southern Oregon University Foundation endowment](/southern-oregon-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

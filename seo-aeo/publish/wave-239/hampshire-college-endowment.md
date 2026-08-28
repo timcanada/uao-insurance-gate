@@ -78,5 +78,8 @@ Do not 301 this page onto `/new-hampshire-retirement-system/`, `/hampshire/`, `/
 - [Western Connecticut State University Foundation endowment](/wcsu-foundation/)
 - [Unity Environmental University endowment](/unity-environmental-endowment/)
 - [New England College of Optometry endowment](/new-england-college-of-optometry-endowment/)
+- [California Lutheran University endowment](/california-lutheran-endowment/)
+- [Portland State University Foundation endowment](/portland-state-university-foundation/)
+- [Southern Oregon University Foundation endowment](/southern-oregon-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

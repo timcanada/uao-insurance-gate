@@ -47,5 +47,8 @@ Do not 301 this page onto `/puget-sound-endowment/`, `/university-of-washington-
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Portland endowment](/university-of-portland-endowment/)
 - [University of the Pacific endowment](/university-of-the-pacific-endowment/)
+- [California Lutheran University endowment](/california-lutheran-endowment/)
+- [Portland State University Foundation endowment](/portland-state-university-foundation/)
+- [Southern Oregon University Foundation endowment](/southern-oregon-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

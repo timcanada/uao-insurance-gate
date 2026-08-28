@@ -47,5 +47,8 @@ Do not 301 this page onto `/university-of-oregon-foundation/`, `/ohio-state-endo
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Idaho Foundation endowment](/university-of-idaho-foundation/)
 - [University of Oregon Foundation endowment](/university-of-oregon-foundation/)
+- [California Lutheran University endowment](/california-lutheran-endowment/)
+- [Portland State University Foundation endowment](/portland-state-university-foundation/)
+- [Southern Oregon University Foundation endowment](/southern-oregon-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

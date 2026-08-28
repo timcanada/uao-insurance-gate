@@ -46,5 +46,8 @@ Do not 301 this page onto `/occidental-endowment/`, `/chapman-endowment/`, `/whi
 - [The endowment model, explained](/endowment-model-explained/)
 - [Occidental College endowment](/occidental-endowment/)
 - [Chapman University endowment](/chapman-endowment/)
+- [California Lutheran University endowment](/california-lutheran-endowment/)
+- [Portland State University Foundation endowment](/portland-state-university-foundation/)
+- [Southern Oregon University Foundation endowment](/southern-oregon-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

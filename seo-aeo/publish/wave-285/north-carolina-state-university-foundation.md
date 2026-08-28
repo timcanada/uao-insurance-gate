@@ -52,5 +52,8 @@ Do not 301 this page onto `/nc-state-endowment/`, `/ncsu/`, `/nc-state/`, `/ncsu
 - [North Carolina Textile Foundation endowment](/north-carolina-textile-foundation/)
 - [UNC Greensboro Endowment Fund](/unc-greensboro-endowment/)
 - [Wake Tech Foundation endowment](/wake-tech-foundation/)
+- [NCSU Alumni Association endowment](/ncsu-alumni-association/)
+- [NC State Natural Resources Foundation endowment](/nc-state-natural-resources-foundation/)
+- [NC State College of Sciences Foundation endowment](/nc-state-college-of-sciences-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -52,5 +52,6 @@ Do not 301 this page onto `/nc-state-endowment/`, `/north-carolina-state-univers
 - [North Carolina Veterinary Medical Foundation endowment](/north-carolina-veterinary-medical-foundation/)
 - [Wake Tech Foundation endowment](/wake-tech-foundation/)
 - [UNC Greensboro Endowment Fund](/unc-greensboro-endowment/)
+- [NCSU Alumni Association endowment](/ncsu-alumni-association/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

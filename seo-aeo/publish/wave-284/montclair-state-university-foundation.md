@@ -53,5 +53,6 @@ Do not 301 this page onto `/ramapo-college-foundation/`, `/stockton-university-f
 - [Kishwaukee College Foundation endowment](/kishwaukee-college-foundation/)
 - [North Carolina State University Foundation endowment](/north-carolina-state-university-foundation/)
 - [North Carolina Veterinary Medical Foundation endowment](/north-carolina-veterinary-medical-foundation/)
+- [Longwood University Foundation endowment](/longwood-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

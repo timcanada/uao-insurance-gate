@@ -51,5 +51,6 @@ Do not 301 this page onto `/unc-chapel-hill-endowment/`, `/uncg/`, `/greensboro/
 - [University of Virginia endowment](/university-of-virginia-endowment/)
 - [North Carolina State University Foundation endowment](/north-carolina-state-university-foundation/)
 - [NC State endowment](/nc-state-endowment/)
+- [Longwood University Foundation endowment](/longwood-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

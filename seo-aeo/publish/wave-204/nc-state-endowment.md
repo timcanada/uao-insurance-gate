@@ -51,5 +51,8 @@ Do not 301 this page onto `/unc-chapel-hill-endowment/`, `/north-carolina-treasu
 - [NC State Engineering Foundation endowment](/nc-state-engineering-foundation/)
 - [North Carolina Veterinary Medical Foundation endowment](/north-carolina-veterinary-medical-foundation/)
 - [North Carolina Textile Foundation endowment](/north-carolina-textile-foundation/)
+- [NCSU Alumni Association endowment](/ncsu-alumni-association/)
+- [NC State Natural Resources Foundation endowment](/nc-state-natural-resources-foundation/)
+- [NC State College of Sciences Foundation endowment](/nc-state-college-of-sciences-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

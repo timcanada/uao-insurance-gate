@@ -50,5 +50,6 @@ Do not 301 this page onto `/university-of-dayton-endowment/`, `/xavier-universit
 - [Baldwin Wallace University endowment](/baldwin-wallace-university-endowment/)
 - [Heidelberg University endowment](/heidelberg-university-endowment/)
 - [Capital University endowment](/capital-university-endowment/)
+- [Youngstown State University Foundation endowment](/youngstown-state-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

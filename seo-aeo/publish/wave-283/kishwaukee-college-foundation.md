@@ -52,5 +52,6 @@ Do not 301 this page onto `/city-colleges-of-chicago-foundation/`, `/western-ill
 - [Middlesex College Foundation endowment](/middlesex-college-foundation/)
 - [Spokane Colleges Foundation endowment](/spokane-colleges-foundation/)
 - [Riverside Community College District Foundation endowment](/riverside-community-college-district-foundation/)
+- [Montclair State University Foundation endowment](/montclair-state-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

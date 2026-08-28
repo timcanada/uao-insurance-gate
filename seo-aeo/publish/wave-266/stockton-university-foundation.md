@@ -51,5 +51,6 @@ Do not 301 this page onto `/mercer-county-community-college-foundation/`, `/stoc
 - [Ramapo College Foundation endowment](/ramapo-college-foundation/)
 - [Rider University endowment](/rider-university-endowment/)
 - [Brookdale Community College Foundation endowment](/brookdale-community-college-foundation/)
+- [Montclair State University Foundation endowment](/montclair-state-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

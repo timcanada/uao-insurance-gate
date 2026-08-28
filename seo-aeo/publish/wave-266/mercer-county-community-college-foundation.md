@@ -50,5 +50,6 @@ Do not 301 this page onto `/stockton-university-foundation/`, `/mccc/`, `/mercer
 - [Lane Community College Foundation endowment](/lane-community-college-foundation/)
 - [Ramapo College Foundation endowment](/ramapo-college-foundation/)
 - [Brookdale Community College Foundation endowment](/brookdale-community-college-foundation/)
+- [Montclair State University Foundation endowment](/montclair-state-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

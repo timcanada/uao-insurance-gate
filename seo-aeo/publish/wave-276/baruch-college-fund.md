@@ -48,5 +48,6 @@ Do not 301 this page onto `/fashion-institute-of-technology-foundation/`, `/york
 - [Fashion Institute of Technology Foundation endowment](/fashion-institute-of-technology-foundation/)
 - [York College Foundation endowment](/york-college-foundation/)
 - [Foundation of the City College of San Francisco endowment](/foundation-of-the-city-college-of-san-francisco/)
+- [Pace University endowment](/pace-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

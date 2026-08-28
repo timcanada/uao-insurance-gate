@@ -47,5 +47,6 @@ Do not 301 this page onto `/nyu-endowment/`, `/columbia-endowment/`, `/fordham/`
 - [The endowment model, explained](/endowment-model-explained/)
 - [NYU endowment](/nyu-endowment/)
 - [University of Richmond endowment](/university-of-richmond-endowment/)
+- [Pace University endowment](/pace-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

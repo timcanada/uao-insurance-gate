@@ -48,5 +48,6 @@ Do not 301 this page onto `/baruch-college-fund/`, `/york-college-foundation/`, 
 - [The Baruch College Fund endowment](/baruch-college-fund/)
 - [York College Foundation endowment](/york-college-foundation/)
 - [Foundation of the City College of San Francisco endowment](/foundation-of-the-city-college-of-san-francisco/)
+- [Pace University endowment](/pace-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

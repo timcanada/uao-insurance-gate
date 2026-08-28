@@ -49,5 +49,6 @@ Do not 301 this page onto `/baruch-college-fund/`, `/fashion-institute-of-techno
 - [Fashion Institute of Technology Foundation endowment](/fashion-institute-of-technology-foundation/)
 - [Foundation of the City College of San Francisco endowment](/foundation-of-the-city-college-of-san-francisco/)
 - [City Colleges of Chicago Foundation endowment](/city-colleges-of-chicago-foundation/)
+- [Pace University endowment](/pace-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

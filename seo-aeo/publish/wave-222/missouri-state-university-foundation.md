@@ -44,6 +44,6 @@ Do not 301 this page onto `/mississippi-state-university-foundation/`, `/montana
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Montana State University Foundation endowment](/montana-state-university-foundation/)
-- [Claremont McKenna College endowment](/claremont-mckenna-endowment/)
+- [Georgia Southern University Foundation endowment](/georgia-southern-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

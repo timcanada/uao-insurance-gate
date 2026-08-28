@@ -44,6 +44,6 @@ Do not 301 this page onto `/mississippi-state-university-foundation/`, `/missour
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Missouri State University Foundation endowment](/missouri-state-university-foundation/)
-- [Harvey Mudd College endowment](/harvey-mudd-endowment/)
+- [Kansas State University Foundation endowment](/kansas-state-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

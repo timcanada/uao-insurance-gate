@@ -44,6 +44,6 @@ Do not 301 this page onto `/university-of-mississippi-foundation/`, `/university
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Mississippi Foundation endowment](/university-of-mississippi-foundation/)
-- [University of Louisville Foundation endowment](/university-of-louisville-foundation/)
+- [University of Illinois Foundation endowment](/university-of-illinois-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

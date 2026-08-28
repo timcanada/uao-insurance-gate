@@ -1533,6 +1533,32 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,hillsborough-education-foundation-explained,Hillsborough Education explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 222 /hillsborough-education-foundation/
 2,institution,hef,HEF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 222 /hillsborough-education-foundation/
 2,institution,hillsborough-education,Hillsborough Education (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 222 /hillsborough-education-foundation/. /hillsborough/ remains Wave 218
+223,institution,university-of-illinois-foundation,University of Illinois Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 223. Official endowment NA $3,107,165 thousand at 30 Jun 2025. Printed total investment return $83,114 thousand. Do not invent a percent. Do not mint /uif/ or /illinois/ or /illinois-foundation/. Not leftover Illinois ISBI
+2,institution,university-of-illinois-foundation-explained,Illinois Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 223 /university-of-illinois-foundation/
+2,institution,uif,UIF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 223 /university-of-illinois-foundation/. Also flattens leftover University of Iowa Foundation
+2,institution,illinois,Illinois (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 223 /university-of-illinois-foundation/. Also flattens leftover Illinois ISBI
+2,institution,illinois-foundation,Illinois Foundation (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 223 /university-of-illinois-foundation/
+223,institution,university-of-minnesota-foundation,University of Minnesota Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 223. Official endowment NA $3,046,412,805 at 30 Jun 2025. Printed total investment return $273,939,639. Do not invent a percent. Do not remint /umf/. Do not mint /umn/ or /gophers/ or /minnesota-foundation/. Not leftover Minnesota SBI
+2,institution,university-of-minnesota-foundation-explained,Minnesota Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 223 /university-of-minnesota-foundation/
+2,institution,umn,UMN (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 223 /university-of-minnesota-foundation/
+2,institution,gophers,Gophers (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 223 /university-of-minnesota-foundation/
+2,institution,minnesota-foundation,Minnesota Foundation (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 223 /university-of-minnesota-foundation/
+223,institution,georgia-southern-university-foundation,Georgia Southern University Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 223. Official endowment NA $117,410,738 at 30 Jun 2025. Do not invent a percent. Do not mint /gsu/ or /georgia-southern/ or /gsuf/. Not leftover Athletic Foundation
+2,institution,georgia-southern-university-foundation-explained,Georgia Southern Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 223 /georgia-southern-university-foundation/
+2,institution,gsu,GSU (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 223 /georgia-southern-university-foundation/. Also flattens leftover Georgia State
+2,institution,georgia-southern,Georgia Southern (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 223 /georgia-southern-university-foundation/
+2,institution,gsuf,GSUF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 223 /georgia-southern-university-foundation/
+223,institution,kansas-state-university-foundation,Kansas State University Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 223. Official endowment NA $1,047,320,258 at 30 Jun 2025. Do not invent a percent from leftover Endowment Pool 6.63%. Do not mint /ksu/ or /ksuf/ or /k-state/ or /kansas-state/. Not leftover Kennesaw
+2,institution,kansas-state-university-foundation-explained,Kansas State Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 223 /kansas-state-university-foundation/
+2,institution,ksu,KSU (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 223 /kansas-state-university-foundation/. Also flattens leftover Kennesaw State and leftover Kent State
+2,institution,ksuf,KSUF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 223 /kansas-state-university-foundation/
+2,institution,k-state,K-State (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 223 /kansas-state-university-foundation/
+2,institution,kansas-state,Kansas State (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 223 /kansas-state-university-foundation/
+223,institution,northern-kentucky-university-foundation,Northern Kentucky University Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 223. Official endowment NA $131,172 thousand at 30 Jun 2025. Do not invent a percent. Do not mint /nku/ or /nkuf/ or /northern-kentucky/. Not leftover University of Kentucky
+2,institution,northern-kentucky-university-foundation-explained,NKU Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 223 /northern-kentucky-university-foundation/
+2,institution,nku,NKU (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 223 /northern-kentucky-university-foundation/
+2,institution,nkuf,NKUF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 223 /northern-kentucky-university-foundation/
+2,institution,northern-kentucky,Northern Kentucky (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 223 /northern-kentucky-university-foundation/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

@@ -44,6 +44,6 @@ Do not 301 this page onto `/hillsborough-community-college-foundation/`, `/pinel
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Pinellas County Education Foundation endowment](/pinellas-county-education-foundation/)
-- [Chipola College Foundation endowment](/chipola-college-foundation/)
+- [Northern Kentucky University Foundation endowment](/northern-kentucky-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -46,5 +46,6 @@ Do not 301 this page onto `/university-of-st-thomas-endowment/`, `/college-of-sa
 - [The endowment model, explained](/endowment-model-explained/)
 - [College of Saint Benedict endowment](/college-of-saint-benedict-endowment/)
 - [University of St. Thomas endowment](/university-of-st-thomas-endowment/)
+- [Concordia College Moorhead endowment](/concordia-college-moorhead-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

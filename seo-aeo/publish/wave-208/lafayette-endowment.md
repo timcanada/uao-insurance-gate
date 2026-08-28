@@ -47,5 +47,6 @@ Do not 301 this page onto `/holy-cross-endowment/`, `/colgate-endowment/`, `/laf
 - [The endowment model, explained](/endowment-model-explained/)
 - [College of the Holy Cross endowment](/holy-cross-endowment/)
 - [Trinity College endowment](/trinity-college-endowment/)
+- [Allegheny College endowment](/allegheny-college-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

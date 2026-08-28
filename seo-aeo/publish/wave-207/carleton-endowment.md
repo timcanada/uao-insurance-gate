@@ -47,5 +47,6 @@ Do not 301 this page onto `/grinnell-endowment/`, `/swarthmore-endowment/`, `/ca
 - [The endowment model, explained](/endowment-model-explained/)
 - [Grinnell College endowment](/grinnell-endowment/)
 - [Macalester College endowment](/macalester-endowment/)
+- [Gustavus Adolphus College endowment](/gustavus-adolphus-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -49,5 +49,6 @@ Do not 301 this page onto `/university-of-minnesota-foundation/`, `/university-o
 - [University of St. Thomas endowment](/university-of-st-thomas-endowment/)
 - [College of Saint Benedict endowment](/college-of-saint-benedict-endowment/)
 - [Concordia University St. Paul endowment](/concordia-university-st-paul-endowment/)
+- [Minnesota State University Moorhead Foundation endowment](/minnesota-state-moorhead-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

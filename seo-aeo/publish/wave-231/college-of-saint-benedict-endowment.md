@@ -49,5 +49,8 @@ Do not 301 this page onto `/university-of-st-thomas-endowment/`, `/hamline-endow
 - [Concordia University St. Paul endowment](/concordia-university-st-paul-endowment/)
 - [Western Oregon University Foundation endowment](/western-oregon-university-foundation/)
 - [Minnesota State University Mankato Foundation endowment](/minnesota-state-mankato-foundation/)
+- [Minnesota State University Moorhead Foundation endowment](/minnesota-state-moorhead-foundation/)
+- [Concordia College Moorhead endowment](/concordia-college-moorhead-endowment/)
+- [Gustavus Adolphus College endowment](/gustavus-adolphus-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

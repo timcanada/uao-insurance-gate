@@ -45,5 +45,6 @@ Do not 301 this page onto `/macalester-endowment/`, `/carleton-endowment/`, `/st
 - [The endowment model, explained](/endowment-model-explained/)
 - [Macalester College endowment](/macalester-endowment/)
 - [Hope College endowment](/hope-college-endowment/)
+- [Gustavus Adolphus College endowment](/gustavus-adolphus-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -45,5 +45,7 @@ Do not 301 this page onto `/wabash-endowment/`, `/hope-college-endowment/`, `/ha
 - [The endowment model, explained](/endowment-model-explained/)
 - [Rochester Institute of Technology endowment](/rit-endowment/)
 - [Hope College endowment](/hope-college-endowment/)
+- [Concordia College Moorhead endowment](/concordia-college-moorhead-endowment/)
+- [Gustavus Adolphus College endowment](/gustavus-adolphus-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -47,5 +47,6 @@ Do not 301 this page onto `/carnegie-mellon-endowment/`, `/university-of-pittsbu
 - [The endowment model, explained](/endowment-model-explained/)
 - [Marquette University endowment](/marquette-endowment/)
 - [Pacific Lutheran University endowment](/pacific-lutheran-endowment/)
+- [Allegheny College endowment](/allegheny-college-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

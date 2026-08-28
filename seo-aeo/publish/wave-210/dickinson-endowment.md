@@ -45,5 +45,6 @@ Do not 301 this page onto `/bryn-mawr-endowment/`, `/haverford-endowment/`, `/di
 - [The endowment model, explained](/endowment-model-explained/)
 - [Bryn Mawr College endowment](/bryn-mawr-endowment/)
 - [Ursinus College endowment](/ursinus-endowment/)
+- [Allegheny College endowment](/allegheny-college-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

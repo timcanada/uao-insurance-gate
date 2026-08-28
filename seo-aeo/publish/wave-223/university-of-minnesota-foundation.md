@@ -46,5 +46,6 @@ Do not 301 this page onto `/minnesota-sbi/`, `/university-of-illinois-foundation
 - [University of Illinois Foundation endowment](/university-of-illinois-foundation/)
 - [University of Nebraska Foundation endowment](/university-of-nebraska-foundation/)
 - [Minnesota State University Mankato Foundation endowment](/minnesota-state-mankato-foundation/)
+- [Minnesota State University Moorhead Foundation endowment](/minnesota-state-moorhead-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

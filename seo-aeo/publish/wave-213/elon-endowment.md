@@ -44,6 +44,6 @@ Do not 301 this page onto `/furman-endowment/`, `/stetson-endowment/`, `/elon/`,
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Furman University endowment](/furman-endowment/)
-- [Stetson University endowment](/stetson-endowment/)
+- [Southwestern University endowment](/southwestern-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -44,6 +44,6 @@ Do not 301 this page onto `/hope-college-endowment/`, `/kenyon-endowment/`, `/de
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Hope College endowment](/hope-college-endowment/)
-- [Kenyon College endowment](/kenyon-endowment/)
+- [Calvin University endowment](/calvin-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

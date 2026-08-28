@@ -44,6 +44,6 @@ Do not 301 this page onto `/lewis-clark-endowment/`, `/reed-endowment/`, `/puget
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Lewis & Clark College endowment](/lewis-clark-endowment/)
-- [Reed College endowment](/reed-endowment/)
+- [Embry-Riddle Aeronautical University endowment](/embry-riddle-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

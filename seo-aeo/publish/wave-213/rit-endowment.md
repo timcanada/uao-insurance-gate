@@ -44,6 +44,6 @@ Do not 301 this page onto `/hamline-endowment/`, `/union-college-endowment/`, `/
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Hamline University endowment](/hamline-endowment/)
-- [Union College endowment](/union-college-endowment/)
+- [Marist University endowment](/marist-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

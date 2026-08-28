@@ -43,7 +43,7 @@ Do not 301 this page onto `/stetson-endowment/`, `/holy-cross-endowment/`, `/ben
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
-- [Stetson University endowment](/stetson-endowment/)
+- [Stevens Institute of Technology endowment](/stevens-endowment/)
 - [College of the Holy Cross endowment](/holy-cross-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -1348,6 +1348,23 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 213,institution,bentley-endowment,Bentley University endowment,allocator,brief,P0,drafted-in-repo,Wave 213. Official endowment net assets $390,389 thousand at 30 Jun 2025. Do not invent a percent. Do not mint /bentley/. Not leftover Bentley Systems
 2,institution,bentley-endowment-explained,Bentley endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 213 /bentley-endowment/
 2,institution,bentley,Bentley (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 213 /bentley-endowment/
+214,institution,marist-endowment,Marist University endowment,allocator,brief,P0,drafted-in-repo,Wave 214. Official endowment net assets $517,853,019 at 30 Jun 2025 inclusive of pledges $2,187,662. Do not invent a percent. Do not mint /marist/
+2,institution,marist-endowment-explained,Marist endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 214 /marist-endowment/
+2,institution,marist,Marist (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 214 /marist-endowment/
+214,institution,southwestern-endowment,Southwestern University endowment,allocator,brief,P0,drafted-in-repo,Wave 214. Official endowment net assets $427,742,419 at 30 Jun 2025. Do not invent a percent. Do not mint /southwestern/ or /southwestern-university/. Not leftover Georgetown University
+2,institution,southwestern-endowment-explained,Southwestern endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 214 /southwestern-endowment/
+2,institution,southwestern,Southwestern (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 214 /southwestern-endowment/
+2,institution,southwestern-university,Southwestern University (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 214 /southwestern-endowment/
+214,institution,calvin-endowment,Calvin University endowment,allocator,brief,P0,drafted-in-repo,Wave 214. Official endowment net assets $296,527 thousand at 30 Jun 2025. Do not invent a percent. Do not mint /calvin/
+2,institution,calvin-endowment-explained,Calvin endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 214 /calvin-endowment/
+2,institution,calvin,Calvin (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 214 /calvin-endowment/
+214,institution,stevens-endowment,Stevens Institute of Technology endowment,allocator,brief,P0,drafted-in-repo,Wave 214. Official endowment net assets $387,684 thousand at 30 Jun 2025. Do not invent a percent. Do not mint /stevens/
+2,institution,stevens-endowment-explained,Stevens endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 214 /stevens-endowment/
+2,institution,stevens,Stevens (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 214 /stevens-endowment/
+214,institution,embry-riddle-endowment,Embry-Riddle Aeronautical University endowment,allocator,brief,P0,drafted-in-repo,Wave 214. Official endowment net assets $364,321 thousand at 30 Jun 2025. Do not invent a percent. Do not mint /erau/ or /embry-riddle/
+2,institution,embry-riddle-endowment-explained,Embry-Riddle endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 214 /embry-riddle-endowment/
+2,institution,embry-riddle,Embry-Riddle (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 214 /embry-riddle-endowment/
+2,institution,erau,ERAU (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 214 /embry-riddle-endowment/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

@@ -44,6 +44,6 @@ Do not 301 this page onto `/florida-international-university-foundation/`, `/wes
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Florida International University Foundation endowment](/florida-international-university-foundation/)
-- [University of West Florida Foundation endowment](/west-florida-foundation-endowment/)
+- [University of Kentucky Humanities Foundation endowment](/university-of-kentucky-humanities-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

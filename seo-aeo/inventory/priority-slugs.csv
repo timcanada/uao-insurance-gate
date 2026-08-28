@@ -1466,6 +1466,24 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 219,institution,university-of-kentucky-research-foundation,University of Kentucky Research Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 219. Official endowment investments $22,053,564 at 30 Jun 2025. Do not homemade-sum return lines. Do not invent a percent. Do not mint /ukrf/
 2,institution,university-of-kentucky-research-foundation-explained,UKRF explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 219 /university-of-kentucky-research-foundation/
 2,institution,ukrf,UKRF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 219 /university-of-kentucky-research-foundation/
+220,institution,university-of-kentucky-humanities-endowment,University of Kentucky Humanities Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 220. Official endowment investments $1,928,378 at 30 Jun 2025. Do not homemade-sum return lines. Do not invent a percent. Do not mint /ukhf/ /uky-humanities/ or /humanities/
+2,institution,university-of-kentucky-humanities-endowment-explained,UK Humanities explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 220 /university-of-kentucky-humanities-endowment/
+2,institution,ukhf,UKHF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 220 /university-of-kentucky-humanities-endowment/
+2,institution,uky-humanities,UKY Humanities (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 220 /university-of-kentucky-humanities-endowment/
+2,institution,humanities,Humanities (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 220 /university-of-kentucky-humanities-endowment/
+220,institution,gluck-equine-endowment,Gluck Equine Research Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 220. Official endowment investments $11,638,030 at 30 Jun 2025. Do not homemade-sum return lines. Do not invent a percent. Do not mint /gluck/ /equine/ or /uky-equine/
+2,institution,gluck-equine-endowment-explained,Gluck Equine explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 220 /gluck-equine-endowment/
+2,institution,gluck,Gluck (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 220 /gluck-equine-endowment/
+2,institution,equine,Equine (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 220 /gluck-equine-endowment/
+2,institution,uky-equine,UKY Equine (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 220 /gluck-equine-endowment/
+220,institution,university-of-kentucky-mining-endowment,University of Kentucky Mining Engineering Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 220. Official endowment investments $2,472,797 at 30 Jun 2025. Do not homemade-sum return lines. Do not invent a percent. Do not mint /uky-mining/ or /mining/
+2,institution,university-of-kentucky-mining-endowment-explained,UK Mining explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 220 /university-of-kentucky-mining-endowment/
+2,institution,uky-mining,UKY Mining (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 220 /university-of-kentucky-mining-endowment/
+2,institution,mining,Mining (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 220 /university-of-kentucky-mining-endowment/
+220,institution,chipola-college-foundation,Chipola College Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 220. Official sleeves $14,169,547 / $9,112,421 at 30 Jun 2025. Do not homemade-sum. Do not invent a percent. Do not mint /chipola/ or /ccf/
+2,institution,chipola-college-foundation-explained,Chipola explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 220 /chipola-college-foundation/
+2,institution,chipola,Chipola (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 220 /chipola-college-foundation/
+2,institution,ccf,CCF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 220 /chipola-college-foundation/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

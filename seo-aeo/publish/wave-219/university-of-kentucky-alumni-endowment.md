@@ -44,6 +44,6 @@ Do not 301 this page onto `/university-of-kentucky-endowment/`, `/university-of-
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Kentucky endowment](/university-of-kentucky-endowment/)
-- [University of Florida Foundation endowment](/university-of-florida-foundation/)
+- [Chipola College Foundation endowment](/chipola-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

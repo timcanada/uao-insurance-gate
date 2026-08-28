@@ -44,6 +44,6 @@ Do not 301 this page onto `/university-of-florida-foundation/`, `/miami-dade-col
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Florida Foundation endowment](/university-of-florida-foundation/)
-- [Miami Dade College Foundation endowment](/miami-dade-college-foundation/)
+- [Gluck Equine Research Foundation endowment](/gluck-equine-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

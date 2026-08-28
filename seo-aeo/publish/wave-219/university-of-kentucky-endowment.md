@@ -44,6 +44,6 @@ Do not 301 this page onto `/university-of-kentucky-alumni-endowment/`, `/univers
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Kentucky Alumni Association endowment](/university-of-kentucky-alumni-endowment/)
-- [University of Kentucky Research Foundation endowment](/university-of-kentucky-research-foundation/)
+- [University of Kentucky Mining Engineering Foundation endowment](/university-of-kentucky-mining-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

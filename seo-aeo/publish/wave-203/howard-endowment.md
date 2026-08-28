@@ -47,5 +47,6 @@ Do not 301 this page onto `/george-washington-endowment/`, `/howard-county-retir
 - [The endowment model, explained](/endowment-model-explained/)
 - [George Washington University endowment](/george-washington-endowment/)
 - [Howard County Retirement Plan](/howard-county-retirement/)
+- [University of Alabama endowment](/university-of-alabama-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

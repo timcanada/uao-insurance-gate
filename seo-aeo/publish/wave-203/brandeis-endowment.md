@@ -48,5 +48,6 @@ Do not 301 this page onto `/boston-college-endowment/`, `/tufts-endowment/`, `/b
 - [The endowment model, explained](/endowment-model-explained/)
 - [Boston College endowment](/boston-college-endowment/)
 - [Tufts University endowment](/tufts-endowment/)
+- [Smith College endowment](/smith-college-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

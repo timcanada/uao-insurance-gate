@@ -1176,6 +1176,24 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,rutgers-endowment-explained,Rutgers endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 203 /rutgers-endowment/
 2,institution,rutgers,Rutgers (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 203 /rutgers-endowment/. Not leftover New Jersey Division of Investment
 2,institution,ru,RU (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 203 /rutgers-endowment/
+204,institution,smith-college-endowment,Smith College endowment,allocator,brief,P0,drafted-in-repo,Wave 204. Official endowment $2,709,530 thousand at 30 Jun 2025. Long-term investments $2,919,008 thousand are a wider book. Do not mint /smith/
+2,institution,smith-college-endowment-explained,Smith College endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 204 /smith-college-endowment/
+2,institution,smith,Smith (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 204 /smith-college-endowment/
+204,institution,university-of-delaware-endowment,University of Delaware endowment,allocator,brief,P0,drafted-in-repo,Wave 204. Official endowment net assets $1,965,121 thousand at 30 Jun 2025. University-wide return $230,353 thousand is a different book. Not leftover DPERS. Do not mint /delaware/ or /udel/
+2,institution,university-of-delaware-endowment-explained,University of Delaware endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 204 /university-of-delaware-endowment/
+2,institution,delaware,Delaware (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 204 /university-of-delaware-endowment/. Not leftover Delaware DPERS
+2,institution,udel,UDel (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 204 /university-of-delaware-endowment/
+204,institution,bowdoin-endowment,Bowdoin College endowment,allocator,brief,P0,drafted-in-repo,Wave 204. Official endowment $2,911,722 thousand at 30 Jun 2025. Total FY2025 distribution 4.8% is of 30 Jun 2024 MV. Do not mint /bowdoin/
+2,institution,bowdoin-endowment-explained,Bowdoin endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 204 /bowdoin-endowment/
+2,institution,bowdoin,Bowdoin (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 204 /bowdoin-endowment/
+204,institution,nc-state-endowment,NC State endowment,allocator,brief,P0,drafted-in-repo,Wave 204. Official university endowment investments $645,328,218 at 30 Jun 2025. Investment Fund Return 10.5% is a different book. Do not mint /ncsu/ or /nc-state/
+2,institution,nc-state-endowment-explained,NC State endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 204 /nc-state-endowment/
+2,institution,ncsu,NCSU (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 204 /nc-state-endowment/
+2,institution,nc-state,NC State (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 204 /nc-state-endowment/. Not leftover North Carolina Treasurer
+204,institution,university-of-alabama-endowment,University of Alabama endowment,allocator,brief,P0,drafted-in-repo,Wave 204. Official endowment and life income $1,528,498 thousand at 30 Sep 2025. Not leftover Alabama RSA. Not leftover UAB. Do not mint /alabama/ or /ua/
+2,institution,university-of-alabama-endowment-explained,University of Alabama endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 204 /university-of-alabama-endowment/
+2,institution,alabama,Alabama (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 204 /university-of-alabama-endowment/. Not leftover Alabama RSA
+2,institution,ua,UA (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 204 /university-of-alabama-endowment/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

@@ -47,5 +47,6 @@ Do not 301 this page onto `/university-of-pennsylvania-endowment/`, `/drexel-end
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Pennsylvania endowment](/university-of-pennsylvania-endowment/)
 - [Drexel University endowment](/drexel-endowment/)
+- [University of Delaware endowment](/university-of-delaware-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

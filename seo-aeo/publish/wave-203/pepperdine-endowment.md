@@ -47,5 +47,6 @@ Do not 301 this page onto `/usc-endowment/`, `/caltech-endowment/`, `/pepperdine
 - [The endowment model, explained](/endowment-model-explained/)
 - [USC endowment](/usc-endowment/)
 - [Caltech endowment](/caltech-endowment/)
+- [Bowdoin College endowment](/bowdoin-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -46,6 +46,6 @@ Do not 301 this page onto `/kansas-state-university-foundation/`, `/kansas-unive
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Washburn University Foundation endowment](/washburn-university-foundation/)
-- [Kansas State University Foundation endowment](/kansas-state-university-foundation/)
+- [Wichita State University Foundation endowment](/wichita-state-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

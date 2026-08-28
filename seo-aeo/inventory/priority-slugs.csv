@@ -1902,6 +1902,24 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,esu,ESU (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 237 /emporia-state-university-foundation/. Would flatten leftover East Stroudsburg
 2,institution,esuf,ESUF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 237 /emporia-state-university-foundation/
 2,institution,hornets,Hornets (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 237 /emporia-state-university-foundation/
+238,institution,wichita-state-university-foundation,Wichita State University Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 238. Official endowment NA $315,339,621 at 30 Jun 2025. Printed Total investment return $21,145,313. Do not homemade-sum leftover return lines. Do not invent leftover 4 percent. Do not mint /wichita/ or /wsuf/ or /shockers/. Never mint /wsu/. /wsu/ would flatten leftover Washington State / leftover Wichita State / leftover Wayne State
+2,institution,wichita-state-university-foundation-explained,Wichita State Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 238 /wichita-state-university-foundation/
+2,institution,wichita,Wichita (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 238 /wichita-state-university-foundation/
+2,institution,wsuf,WSUF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 238 /wichita-state-university-foundation/
+2,institution,shockers,Shockers (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 238 /wichita-state-university-foundation/
+238,institution,beloit-endowment,Beloit College endowment,allocator,brief,P0,drafted-in-repo,Wave 238. Official endowment assets $81,236,983 at 30 Jun 2025. Printed Investment return $6,287,578. Do not invent leftover 4.5 percent. Do not mint /beloit/
+2,institution,beloit-endowment-explained,Beloit endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 238 /beloit-endowment/
+2,institution,beloit,Beloit (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 238 /beloit-endowment/
+238,institution,carthage-endowment,Carthage College endowment,allocator,brief,P0,drafted-in-repo,Wave 238. Official endowment NA $183,785,685 at 30 Jun 2025. Printed Investment Return Net $23,345,883. Do not invent leftover 5.5 percent. Do not mint /carthage/
+2,institution,carthage-endowment-explained,Carthage endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 238 /carthage-endowment/
+2,institution,carthage,Carthage (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 238 /carthage-endowment/
+238,institution,edgewood-college-endowment,Edgewood College endowment,allocator,brief,P0,drafted-in-repo,Wave 238. Official endowment NA $60,582,756 at 30 Jun 2025. Printed Investment return net $5,445,496. Do not invent leftover 4.5 percent. Do not mint /edgewood/. Never mint /eagles/. /eagles/ remains American University / Boston College
+2,institution,edgewood-college-endowment-explained,Edgewood College endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 238 /edgewood-college-endowment/
+2,institution,edgewood,Edgewood (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 238 /edgewood-college-endowment/
+238,institution,luther-college-endowment,Luther College endowment,allocator,brief,P0,drafted-in-repo,Wave 238. Official endowment NA $214,837,714 at 31 May 2025. Printed Total investment return $19,683,327. Do not homemade-sum leftover return lines. Do not invent leftover glossy 10.2 percent. Do not mint /luther/ or /norse/. Never mint /plu/. /plu/ remains Pacific Lutheran
+2,institution,luther-college-endowment-explained,Luther College endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 238 /luther-college-endowment/
+2,institution,luther,Luther (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 238 /luther-college-endowment/. Would flatten leftover Pacific Lutheran / leftover Martin Luther College / leftover California Lutheran
+2,institution,norse,Norse (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 238 /luther-college-endowment/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

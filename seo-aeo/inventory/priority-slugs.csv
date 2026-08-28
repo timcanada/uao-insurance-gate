@@ -1715,6 +1715,31 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,duq,DUQ (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 229 /duquesne-endowment/
 2,institution,duquesne,Duquesne (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 229 /duquesne-endowment/
 2,institution,dukes,Dukes (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 229 /duquesne-endowment/. Would flatten leftover Duke / leftover James Madison
+230,institution,university-of-denver-endowment,University of Denver endowment,allocator,brief,P0,drafted-in-repo,Wave 230. Official endowment NA $1,179,538,534 at 30 Jun 2025. Do not invent leftover 4.50%. Do not mint /du/ or /denver/ or /pioneers/. /du/ would flatten leftover Duquesne / leftover University of Dallas
+2,institution,university-of-denver-endowment-explained,Denver endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 230 /university-of-denver-endowment/
+2,institution,du,DU (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 230 /university-of-denver-endowment/. Would flatten leftover Duquesne / leftover University of Dallas
+2,institution,denver,Denver (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 230 /university-of-denver-endowment/
+2,institution,pioneers,Pioneers (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 230 /university-of-denver-endowment/
+230,institution,american-university-endowment,American University endowment,allocator,brief,P0,drafted-in-repo,Wave 230. Official endowment NA $1,102,671 thousand at 30 Jun 2025. Do not mint /au/ or /american/ or /eagles/. /american/ would flatten leftover AUB / leftover AUC
+2,institution,american-university-endowment-explained,American University endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 230 /american-university-endowment/
+2,institution,au,AU (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 230 /american-university-endowment/. Would flatten leftover Adelphi
+2,institution,american,American (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 230 /american-university-endowment/. Would flatten leftover AUB / leftover AUC
+2,institution,eagles,Eagles (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 230 /american-university-endowment/. Would flatten leftover Boston College
+230,institution,catholic-university-endowment,Catholic University of America endowment,allocator,brief,P0,drafted-in-repo,Wave 230. Official endowment NA $399,566 thousand at 30 Apr 2025. Do not mint /cua/ or /catholic/ or /cardinals/. Not leftover GW / leftover Georgetown
+2,institution,catholic-university-endowment-explained,Catholic University endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 230 /catholic-university-endowment/
+2,institution,cua,CUA (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 230 /catholic-university-endowment/
+2,institution,catholic,Catholic (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 230 /catholic-university-endowment/
+2,institution,cardinals,Cardinals (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 230 /catholic-university-endowment/. Would flatten leftover Louisville / leftover Stanford Cardinal
+230,institution,detroit-mercy-endowment,University of Detroit Mercy endowment,allocator,brief,P0,drafted-in-repo,Wave 230. Official endowment NA $128,798 thousand at 30 Jun 2025. Do not homemade-sum leftover return lines. Do not mint /udm/ or /detroit/ or /titans/. Not leftover Wayne State
+2,institution,detroit-mercy-endowment-explained,Detroit Mercy endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 230 /detroit-mercy-endowment/
+2,institution,udm,UDM (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 230 /detroit-mercy-endowment/
+2,institution,detroit,Detroit (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 230 /detroit-mercy-endowment/. Would flatten leftover Wayne State / leftover Detroit municipal
+2,institution,titans,Titans (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 230 /detroit-mercy-endowment/. Would flatten leftover Cal State Fullerton
+230,institution,pacific-lutheran-endowment,Pacific Lutheran University endowment,allocator,brief,P0,drafted-in-repo,Wave 230. Official endowment NA $140,495 thousand at 31 May 2025. Do not invent leftover 4.5%. Do not mint /plu/ or /pacific/ or /lutes/. /pacific/ would flatten leftover University of the Pacific / leftover Pacific University Oregon
+2,institution,pacific-lutheran-endowment-explained,Pacific Lutheran endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 230 /pacific-lutheran-endowment/
+2,institution,plu,PLU (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 230 /pacific-lutheran-endowment/
+2,institution,pacific,Pacific (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 230 /pacific-lutheran-endowment/. Would flatten leftover University of the Pacific / leftover Pacific University Oregon / leftover Seattle Pacific
+2,institution,lutes,Lutes (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 230 /pacific-lutheran-endowment/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

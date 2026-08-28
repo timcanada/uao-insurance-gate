@@ -46,6 +46,6 @@ Do not 301 this page onto `/carnegie-mellon-endowment/`, `/university-of-pittsbu
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Marquette University endowment](/marquette-endowment/)
-- [Fordham University endowment](/fordham-endowment/)
+- [Pacific Lutheran University endowment](/pacific-lutheran-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

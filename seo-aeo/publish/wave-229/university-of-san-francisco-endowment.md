@@ -46,6 +46,6 @@ Do not 301 this page onto `/university-of-san-diego-endowment/`, `/santa-clara-e
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Portland endowment](/university-of-portland-endowment/)
-- [Seattle University endowment](/seattle-university-endowment/)
+- [University of Denver endowment](/university-of-denver-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -46,6 +46,6 @@ Do not 301 this page onto `/washington-university-endowment/`, `/loyola-universi
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Loyola University Chicago endowment](/loyola-university-chicago-endowment/)
-- [Xavier University endowment](/xavier-university-endowment/)
+- [Catholic University of America endowment](/catholic-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

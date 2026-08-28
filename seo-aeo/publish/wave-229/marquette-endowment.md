@@ -46,6 +46,6 @@ Do not 301 this page onto `/loyola-university-chicago-endowment/`, `/university-
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Loyola University Chicago endowment](/loyola-university-chicago-endowment/)
-- [Duquesne University endowment](/duquesne-endowment/)
+- [University of Detroit Mercy endowment](/detroit-mercy-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

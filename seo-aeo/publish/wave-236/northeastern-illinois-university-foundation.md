@@ -47,5 +47,6 @@ Do not 301 this page onto `/northeastern-endowment/`, `/university-of-illinois-f
 - [Illinois State University Foundation endowment](/illinois-state-university-foundation/)
 - [Northern Illinois University Foundation endowment](/northern-illinois-university-foundation/)
 - [Western Illinois University Foundation endowment](/western-illinois-university-foundation/)
+- [City Colleges of Chicago Foundation endowment](/city-colleges-of-chicago-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

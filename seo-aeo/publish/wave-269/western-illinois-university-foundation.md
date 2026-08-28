@@ -51,5 +51,7 @@ Do not 301 this page onto `/north-central-college-endowment/`, `/illinois-state-
 - [Eastern Illinois University Foundation endowment](/eastern-illinois-university-foundation/)
 - [Northern Illinois University Foundation endowment](/northern-illinois-university-foundation/)
 - [SIUE Foundation endowment](/siue-foundation/)
+- [City Colleges of Chicago Foundation endowment](/city-colleges-of-chicago-foundation/)
+- [Northeast Iowa Community College Foundation endowment](/northeast-iowa-community-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

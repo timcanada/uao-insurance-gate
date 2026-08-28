@@ -51,5 +51,6 @@ Do not 301 this page onto `/georgia-tech-endowment/`, `/georgia-southern-univers
 - [University of West Georgia Foundations endowment](/university-of-west-georgia-foundations/)
 - [Albany State University Foundation endowment](/albany-state-university-foundation/)
 - [Brookdale Community College Foundation endowment](/brookdale-community-college-foundation/)
+- [Wake Tech Foundation endowment](/wake-tech-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -48,5 +48,6 @@ Do not 301 this page onto `/tallahassee-state-college-foundation/`, `/university
 - [Tallahassee State College Foundation endowment](/tallahassee-state-college-foundation/)
 - [University of Florida Foundation endowment](/university-of-florida-foundation/)
 - [Brookdale Community College Foundation endowment](/brookdale-community-college-foundation/)
+- [Wake Tech Foundation endowment](/wake-tech-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

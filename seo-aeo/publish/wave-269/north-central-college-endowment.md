@@ -50,5 +50,6 @@ Do not 301 this page onto `/monmouth-college-endowment/`, `/western-illinois-uni
 - [Knox College endowment](/knox-endowment/)
 - [Lake Forest College endowment](/lake-forest-college-endowment/)
 - [Illinois State University Foundation endowment](/illinois-state-university-foundation/)
+- [City Colleges of Chicago Foundation endowment](/city-colleges-of-chicago-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

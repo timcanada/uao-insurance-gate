@@ -50,5 +50,6 @@ Do not 301 this page onto `/fresno-state-foundation/`, `/cal-state-la-foundation
 - [CSU Bakersfield Foundation endowment](/csu-bakersfield-foundation/)
 - [Cal State Fullerton Philanthropic Foundation endowment](/cal-state-fullerton-philanthropic-foundation/)
 - [CSU Dominguez Hills Philanthropic Foundation endowment](/csu-dominguez-hills-philanthropic-foundation/)
+- [Mt. San Jacinto Community College Foundation endowment](/mt-san-jacinto-community-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

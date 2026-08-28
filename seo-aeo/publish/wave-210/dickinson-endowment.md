@@ -44,6 +44,6 @@ Do not 301 this page onto `/bryn-mawr-endowment/`, `/haverford-endowment/`, `/di
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Bryn Mawr College endowment](/bryn-mawr-endowment/)
-- [Haverford College endowment](/haverford-endowment/)
+- [Ursinus College endowment](/ursinus-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

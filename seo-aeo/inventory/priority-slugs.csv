@@ -1296,6 +1296,22 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 210,institution,reed-endowment,Reed College endowment,allocator,brief,P0,drafted-in-repo,Wave 210. Official endowment net assets $863,946,426 at 30 Jun 2025. Do not invent a percent. Do not mint /reed/
 2,institution,reed-endowment-explained,Reed endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 210 /reed-endowment/
 2,institution,reed,Reed (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 210 /reed-endowment/
+211,institution,scripps-endowment,Scripps College endowment,allocator,brief,P0,drafted-in-repo,Wave 211. Official endowment net assets $541,659,866 at 30 Jun 2025. Do not invent a percent. Do not mint /scripps/
+2,institution,scripps-endowment-explained,Scripps endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 211 /scripps-endowment/
+2,institution,scripps,Scripps (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 211 /scripps-endowment/
+211,institution,st-olaf-endowment,St. Olaf College endowment,allocator,brief,P0,drafted-in-repo,Wave 211. Official endowment net assets $863,913,453 at 31 May 2025. Do not invent a GAAP percent. Do not mint /st-olaf/ or /stolaf/
+2,institution,st-olaf-endowment-explained,St. Olaf endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 211 /st-olaf-endowment/
+2,institution,st-olaf,St. Olaf (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 211 /st-olaf-endowment/
+2,institution,stolaf,StOlaf (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 211 /st-olaf-endowment/
+211,institution,ursinus-endowment,Ursinus College endowment,allocator,brief,P0,drafted-in-repo,Wave 211. Official spending-rule endowment assets $156,269,845 at 30 Jun 2025. Not leftover Pennsylvania SERS. Do not mint /ursinus/
+2,institution,ursinus-endowment-explained,Ursinus endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 211 /ursinus-endowment/
+2,institution,ursinus,Ursinus (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 211 /ursinus-endowment/
+211,institution,whitman-endowment,Whitman College endowment,allocator,brief,P0,drafted-in-repo,Wave 211. Official endowment net assets $815,630 thousand at 30 Jun 2025. Do not invent a GAAP percent. Do not mint /whitman/
+2,institution,whitman-endowment-explained,Whitman endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 211 /whitman-endowment/
+2,institution,whitman,Whitman (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 211 /whitman-endowment/
+211,institution,wabash-endowment,Wabash College endowment,allocator,brief,P0,drafted-in-repo,Wave 211. Official pooled endowment $442,957,416 at 30 Jun 2025. Do not invent a percent. Do not mint /wabash/
+2,institution,wabash-endowment-explained,Wabash endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 211 /wabash-endowment/
+2,institution,wabash,Wabash (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 211 /wabash-endowment/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

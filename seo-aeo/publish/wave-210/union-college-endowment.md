@@ -44,6 +44,6 @@ Do not 301 this page onto `/barnard-endowment/`, `/colgate-endowment/`, `/union/
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Barnard College endowment](/barnard-endowment/)
-- [Colgate University endowment](/colgate-endowment/)
+- [Wabash College endowment](/wabash-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

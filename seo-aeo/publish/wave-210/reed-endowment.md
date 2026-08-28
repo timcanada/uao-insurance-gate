@@ -44,6 +44,6 @@ Do not 301 this page onto `/mount-holyoke-endowment/`, `/occidental-endowment/`,
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Mount Holyoke College endowment](/mount-holyoke-endowment/)
-- [Occidental College endowment](/occidental-endowment/)
+- [Whitman College endowment](/whitman-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

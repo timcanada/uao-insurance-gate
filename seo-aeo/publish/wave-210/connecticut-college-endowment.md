@@ -46,6 +46,6 @@ Do not 301 this page onto `/trinity-college-endowment/`, `/wesleyan-endowment/`,
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Trinity College endowment](/trinity-college-endowment/)
-- [Wesleyan University endowment](/wesleyan-endowment/)
+- [St. Olaf College endowment](/st-olaf-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

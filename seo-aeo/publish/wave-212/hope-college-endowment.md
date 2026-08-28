@@ -45,5 +45,6 @@ Do not 301 this page onto `/st-olaf-endowment/`, `/hamline-endowment/`, `/hope/`
 - [The endowment model, explained](/endowment-model-explained/)
 - [St. Olaf College endowment](/st-olaf-endowment/)
 - [Denison University endowment](/denison-university-endowment/)
+- [Great Lakes Christian College endowment](/great-lakes-christian-college-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -51,5 +51,6 @@ Do not 301 this page onto `/concordia-university-st-paul-endowment/`, `/minnesot
 - [Hamline University endowment](/hamline-endowment/)
 - [Gustavus Adolphus College endowment](/gustavus-adolphus-endowment/)
 - [Saint John's University endowment](/saint-johns-university-endowment/)
+- [Great Lakes Christian College endowment](/great-lakes-christian-college-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

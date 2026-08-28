@@ -2243,6 +2243,10 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,lebanon-valley-college-endowment-explained,Lebanon Valley endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 256 /lebanon-valley-college-endowment/
 2,institution,lvc,LVC (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 256 /lebanon-valley-college-endowment/
 2,institution,lebanon-valley,Lebanon Valley (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 256 /lebanon-valley-college-endowment/
+257,institution,great-lakes-christian-college-endowment,Great Lakes Christian College endowment,allocator,brief,P0,drafted-in-repo,Wave 257. Official endowment NA $1,026,258 at 30 Jun 2025. Printed Interest and dividends, net $27,192. Appropriation $181,203. Do not flatten leftover SOA $65,724. Do not invent a leftover homemade rate. Do not mint /glcc/ or /great-lakes/. Not leftover Calvin. Not leftover Hope
+2,institution,great-lakes-christian-college-endowment-explained,Great Lakes Christian College endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 257 /great-lakes-christian-college-endowment/
+2,institution,glcc,GLCC (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 257 /great-lakes-christian-college-endowment/
+2,institution,great-lakes,Great Lakes (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 257 /great-lakes-christian-college-endowment/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

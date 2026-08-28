@@ -45,5 +45,6 @@ Do not 301 this page onto `/hope-college-endowment/`, `/denison-university-endow
 - [The endowment model, explained](/endowment-model-explained/)
 - [Denison University endowment](/denison-university-endowment/)
 - [Lynn University endowment](/lynn-endowment/)
+- [Great Lakes Christian College endowment](/great-lakes-christian-college-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

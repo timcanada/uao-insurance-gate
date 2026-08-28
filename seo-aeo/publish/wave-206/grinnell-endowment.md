@@ -45,7 +45,7 @@ Do not 301 this page onto `/wellesley-endowment/`, `/swarthmore-endowment/`, `/g
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
-- [Wellesley College endowment](/wellesley-endowment/)
+- [Carleton College endowment](/carleton-endowment/)
 - [Swarthmore College endowment](/swarthmore-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

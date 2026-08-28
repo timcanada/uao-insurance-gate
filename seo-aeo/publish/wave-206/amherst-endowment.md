@@ -47,6 +47,6 @@ Do not 301 this page onto `/wesleyan-endowment/`, `/middlebury-endowment/`, `/am
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Wesleyan University endowment](/wesleyan-endowment/)
-- [Middlebury College endowment](/middlebury-endowment/)
+- [Pomona College endowment](/pomona-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

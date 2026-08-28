@@ -46,6 +46,6 @@ Do not 301 this page onto `/bucknell-endowment/`, `/university-of-pennsylvania-e
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Bucknell University endowment](/bucknell-endowment/)
-- [University of Pennsylvania endowment](/university-of-pennsylvania-endowment/)
+- [Carleton College endowment](/carleton-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

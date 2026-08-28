@@ -1225,6 +1225,22 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 206,institution,grinnell-endowment,Grinnell College endowment,allocator,brief,P0,drafted-in-repo,Wave 206. Official endowment net assets $2,847,380 thousand at 30 Jun 2025. House news 11.7% is a different print. Do not mint /grinnell/
 2,institution,grinnell-endowment-explained,Grinnell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 206 /grinnell-endowment/
 2,institution,grinnell,Grinnell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 206 /grinnell-endowment/
+207,institution,pomona-endowment,Pomona College endowment,allocator,brief,P0,drafted-in-repo,Wave 207. Official endowment net assets $3,245,675 thousand at 30 Jun 2025. Endowment sheet 11.7% is gross of fees. Do not mint /pomona/
+2,institution,pomona-endowment-explained,Pomona endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 207 /pomona-endowment/
+2,institution,pomona,Pomona (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 207 /pomona-endowment/
+207,institution,colgate-endowment,Colgate University endowment,allocator,brief,P0,drafted-in-repo,Wave 207. Official endowment net assets $1,344,792 thousand at 30 Jun 2025. Investments $1,340,862 thousand are a different line. Do not mint /colgate/
+2,institution,colgate-endowment-explained,Colgate endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 207 /colgate-endowment/
+2,institution,colgate,Colgate (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 207 /colgate-endowment/
+207,institution,davidson-endowment,Davidson College endowment,allocator,brief,P0,drafted-in-repo,Wave 207. Official endowed net assets $1,391,954,042 at 30 Jun 2025. Not leftover North Carolina Treasurer. Do not mint /davidson/
+2,institution,davidson-endowment-explained,Davidson endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 207 /davidson-endowment/
+2,institution,davidson,Davidson (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 207 /davidson-endowment/
+207,institution,holy-cross-endowment,College of the Holy Cross endowment,allocator,brief,P0,drafted-in-repo,Wave 207. Official endowment net assets $1,207,691 thousand at 30 Jun 2025. Not leftover Pennsylvania SERS. Do not mint /holy-cross/ or /hc/
+2,institution,holy-cross-endowment-explained,Holy Cross endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 207 /holy-cross-endowment/
+2,institution,holy-cross,Holy Cross (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 207 /holy-cross-endowment/
+2,institution,hc,Holy Cross HC (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 207 /holy-cross-endowment/
+207,institution,carleton-endowment,Carleton College endowment,allocator,brief,P0,drafted-in-repo,Wave 207. Official endowment net assets $1,343,728,654 at 30 Jun 2025. Investments MV $1,334,429,848 is a different line. Do not mint /carleton/
+2,institution,carleton-endowment-explained,Carleton endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 207 /carleton-endowment/
+2,institution,carleton,Carleton (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 207 /carleton-endowment/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

@@ -46,6 +46,6 @@ Do not 301 this page onto `/smith-college-endowment/`, `/vassar-endowment/`, `/w
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Smith College endowment](/smith-college-endowment/)
-- [Vassar College endowment](/vassar-endowment/)
+- [Pomona College endowment](/pomona-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

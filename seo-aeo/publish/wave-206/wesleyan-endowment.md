@@ -46,6 +46,6 @@ Do not 301 this page onto `/middlebury-endowment/`, `/bates-endowment/`, `/wesle
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Middlebury College endowment](/middlebury-endowment/)
-- [Bates College endowment](/bates-endowment/)
+- [Colgate University endowment](/colgate-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

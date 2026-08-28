@@ -47,6 +47,8 @@ Do not 301 this page onto `/georgia-southern-university-foundation/`, `/kansas-s
 - [The endowment model, explained](/endowment-model-explained/)
 - [Georgia Southern University Foundation endowment](/georgia-southern-university-foundation/)
 - [University of West Georgia Foundations endowment](/university-of-west-georgia-foundations/)
+- [University of North Georgia Foundation endowment](/university-of-north-georgia-foundation/)
+- [University System of Georgia Foundation endowment](/university-system-of-georgia-foundation/)
 - [University of Alaska Foundation endowment](/university-of-alaska-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

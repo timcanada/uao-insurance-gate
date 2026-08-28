@@ -50,5 +50,6 @@ Do not 301 this page onto `/csu-chico-foundation/`, `/university-of-colorado-fou
 - [Western Colorado University Foundation endowment](/western-colorado-university-foundation/)
 - [Fort Lewis College Foundation endowment](/fort-lewis-college-foundation/)
 - [Cal State Fullerton Philanthropic Foundation endowment](/cal-state-fullerton-philanthropic-foundation/)
+- [Foundation for California Community Colleges endowment](/foundation-for-california-community-colleges/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

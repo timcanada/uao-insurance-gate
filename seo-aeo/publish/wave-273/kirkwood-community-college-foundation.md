@@ -51,5 +51,7 @@ Do not 301 this page onto `/university-of-iowa-center-for-advancement/`, `/north
 - [City Colleges of Chicago Foundation endowment](/city-colleges-of-chicago-foundation/)
 - [Wake Tech Foundation endowment](/wake-tech-foundation/)
 - [Brookdale Community College Foundation endowment](/brookdale-community-college-foundation/)
+- [Pima Community College Foundation endowment](/pima-community-college-foundation/)
+- [Community Colleges of New Hampshire Foundation endowment](/community-colleges-of-new-hampshire-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

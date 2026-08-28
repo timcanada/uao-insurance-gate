@@ -54,5 +54,7 @@ Do not 301 this page onto `/university-of-oregon-foundation/`, `/portland-state-
 - [Southwestern Oregon Community College Foundation endowment](/southwestern-oregon-community-college-foundation/)
 - [Mercer County Community College Foundation endowment](/mercer-county-community-college-foundation/)
 - [College of Western Idaho Foundation endowment](/college-of-western-idaho-foundation/)
+- [Ventura College Foundation endowment](/ventura-college-foundation/)
+- [Pima Community College Foundation endowment](/pima-community-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -56,5 +56,7 @@ Do not 301 this page onto `/cal-state-fullerton-philanthropic-foundation/`, `/cs
 - [CSUN Foundation endowment](/csun-foundation/)
 - [Fresno State Foundation endowment](/fresno-state-foundation/)
 - [Mt. San Jacinto Community College Foundation endowment](/mt-san-jacinto-community-college-foundation/)
+- [Ventura College Foundation endowment](/ventura-college-foundation/)
+- [Foundation for California Community Colleges endowment](/foundation-for-california-community-colleges/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

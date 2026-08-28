@@ -51,5 +51,7 @@ Do not 301 this page onto `/csun-foundation/`, `/fresno-state-foundation/`, `/ms
 - [Loyola Marymount University endowment](/loyola-marymount-university-endowment/)
 - [Lane Community College Foundation endowment](/lane-community-college-foundation/)
 - [Wake Tech Foundation endowment](/wake-tech-foundation/)
+- [Ventura College Foundation endowment](/ventura-college-foundation/)
+- [Foundation for California Community Colleges endowment](/foundation-for-california-community-colleges/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

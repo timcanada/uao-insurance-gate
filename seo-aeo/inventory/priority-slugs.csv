@@ -2051,6 +2051,32 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,clark-university-endowment-explained,Clark endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 244 /clark-university-endowment/
 2,institution,clark,Clark (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 244 /clark-university-endowment/. Would flatten leftover Clark Atlanta / leftover Clark County / leftover Lewis & Clark
 2,institution,clark-university,Clark University (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 244 /clark-university-endowment/
+245,institution,wentworth-institute-endowment,Wentworth Institute of Technology endowment,allocator,brief,P0,drafted-in-repo,Wave 245. Official endowment NA $165,570,975 at 30 Jun 2025. Printed Investment return $17,785,801. Do not invent leftover 5%. Do not flatten leftover board distribution $4,828,693 or leftover Supplemental $5,000,000 onto spend-rate appropriation $2,866,307. Do not mint /wentworth/ or /wit/ or /leopards/
+2,institution,wentworth-institute-endowment-explained,Wentworth endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 245 /wentworth-institute-endowment/
+2,institution,wentworth,Wentworth (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 245 /wentworth-institute-endowment/
+2,institution,wentworth-institute,Wentworth Institute (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 245 /wentworth-institute-endowment/
+2,institution,wit,WIT (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 245 /wentworth-institute-endowment/
+2,institution,leopards,Leopards (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 245 /wentworth-institute-endowment/
+245,institution,lesley-university-endowment,Lesley University endowment,allocator,brief,P0,drafted-in-repo,Wave 245. Official endowment NA $161,402,079 at 30 Jun 2025. Printed Investment returns $14,452,133. Do not invent leftover 4% or leftover 5%. Do not flatten leftover supplemental $6,129,489 or leftover internal LOC $28,401,047. Do not mint /lesley/ or /lesley-university/. Never remint /lu/
+2,institution,lesley-university-endowment-explained,Lesley endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 245 /lesley-university-endowment/
+2,institution,lesley,Lesley (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 245 /lesley-university-endowment/
+2,institution,lesley-university,Lesley University (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 245 /lesley-university-endowment/
+245,institution,mcla-foundation,Massachusetts College of Liberal Arts Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 245. Official endowment NA $27,443,630 at 30 Jun 2025. Printed Investment return $2,429,918. Appropriation $2,963,013. Foundation letterhead FASB. Do not mint /mcla/ or /mclaf/ or /trailblazers/. Never remint /wwu/. Not leftover MCLA university GASB AFR
+2,institution,mcla-foundation-explained,MCLA Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 245 /mcla-foundation/
+2,institution,mcla,MCLA (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 245 /mcla-foundation/. Would flatten leftover MCLA university GASB AFR
+2,institution,mclaf,MCLAF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 245 /mcla-foundation/
+2,institution,trailblazers,Trailblazers (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 245 /mcla-foundation/
+245,institution,nichols-college-endowment,Nichols College endowment,allocator,brief,P0,drafted-in-repo,Wave 245. Official endowment assets $33,508,267 at 30 Jun 2025. Printed Net investment return $3,246,724. Appropriation $968,082. Do not mint /nichols/ or /nichols-college/ or /bison/. /nichols/ would flatten leftover Nichols State Louisiana
+2,institution,nichols-college-endowment-explained,Nichols endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 245 /nichols-college-endowment/
+2,institution,nichols,Nichols (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 245 /nichols-college-endowment/. Would flatten leftover Nichols State Louisiana
+2,institution,nichols-college,Nichols College (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 245 /nichols-college-endowment/
+2,institution,bison,Bison (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 245 /nichols-college-endowment/
+245,institution,gordon-college-endowment,Gordon College endowment,allocator,brief,P0,drafted-in-repo,Wave 245. Official endowment NA $123,944,072 at 30 Jun 2025. Printed Investment return $15,236,927. Do not invent leftover 8% or leftover 7%. Draw $7,923,845. Do not mint /gordon/ or /gordon-college/ or /fighting-scots/ or /scots/. /gordon/ would flatten leftover Gordon-Conwell / leftover Robert Gordon / leftover Gordon State
+2,institution,gordon-college-endowment-explained,Gordon endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 245 /gordon-college-endowment/
+2,institution,gordon,Gordon (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 245 /gordon-college-endowment/. Would flatten leftover Gordon-Conwell / leftover Robert Gordon / leftover Gordon State
+2,institution,gordon-college,Gordon College (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 245 /gordon-college-endowment/
+2,institution,fighting-scots,Fighting Scots (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 245 /gordon-college-endowment/
+2,institution,scots,Scots (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 245 /gordon-college-endowment/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

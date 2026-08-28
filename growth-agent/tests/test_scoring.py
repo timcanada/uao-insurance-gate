@@ -27,12 +27,15 @@ def test_assistant_never_exports_even_at_a_swf():
 
 
 def test_sec_owner_filter_drops_retail_wealth_managers():
-    from uao_growth.sources.sec_edgar import is_owner_filer
+    from uao_growth.sources.sec_edgar import classify_iapd_org, is_owner_filer
 
     assert is_owner_filer("Institute for Wealth Management, LLC", "swf") is False
     assert is_owner_filer("California Public Employees Retirement System", "pension") is True
     assert is_owner_filer("Alaska Permanent Fund Corporation", "swf") is True
     assert is_owner_filer("Dye Family Office", "family_office") is True
+    assert classify_iapd_org("DYE FAMILY OFFICE", "family", "family_office") == "family_office"
+    assert classify_iapd_org("Institute for Wealth Management, LLC", "asset management", "asset_manager") is None
+    assert classify_iapd_org("Blackstone Alternative Asset Management", "asset management", "asset_manager") == "asset_manager"
 
 
 def test_governor_and_chairperson_clear_bar():
@@ -53,4 +56,9 @@ def test_vice_president_stays_below_president_rule():
 
 def test_director_of_public_markets_clears_bar():
     score = score_person(title="Director of Public Markets", org_type="pension")
+    assert score.exportable
+
+
+def test_head_of_investor_relations_clears_bar():
+    score = score_person(title="Head of Investor Relations", org_type="pe")
     assert score.exportable

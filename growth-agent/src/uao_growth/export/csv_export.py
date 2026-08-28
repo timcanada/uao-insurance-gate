@@ -79,6 +79,64 @@ def export_named_inventory(store: Store, path: Path, limit: int) -> dict[str, in
     return export_week(store, path, limit, mark_exported=False, include_exported=True)
 
 
+def export_pipeline_inventory(store: Store, path: Path, limit: int) -> dict[str, int]:
+    """Named people plus empty senior seats, ready for later contact fill."""
+    rows = store.fetchall(
+        """
+        SELECT * FROM people
+        WHERE status IN ('exportable', 'exported', 'role_target', 'discovered', 'enriched')
+          AND (member_match IS NULL OR member_match = '')
+        ORDER BY CASE WHEN name IS NOT NULL AND name != '' THEN 0 ELSE 1 END,
+                 seniority DESC, fit_score DESC, id ASC
+        LIMIT ?
+        """,
+        (limit,),
+    )
+    path.parent.mkdir(parents=True, exist_ok=True)
+    fieldnames = [
+        "id",
+        "name",
+        "title",
+        "organization",
+        "org_type",
+        "country",
+        "email",
+        "email_status",
+        "linkedin_url",
+        "seniority",
+        "tier",
+        "fit_score",
+        "source",
+        "status",
+        "consent_status",
+    ]
+    with path.open("w", newline="", encoding="utf-8") as handle:
+        writer = csv.DictWriter(handle, fieldnames=fieldnames)
+        writer.writeheader()
+        for row in rows:
+            writer.writerow(
+                {
+                    "id": row["id"],
+                    "name": row["name"],
+                    "title": row["title"],
+                    "organization": row["org_name"],
+                    "org_type": row["org_type"],
+                    "country": row["country"],
+                    "email": row["email"],
+                    "email_status": row["email_status"],
+                    "linkedin_url": row["linkedin_url"],
+                    "seniority": row["seniority"],
+                    "tier": row["seniority_tier"],
+                    "fit_score": row["fit_score"],
+                    "source": row["source"],
+                    "status": row["status"],
+                    "consent_status": "prospect_not_subscribed",
+                }
+            )
+    named = sum(1 for row in rows if row["name"])
+    return {"exported": len(rows), "named": named, "seats": len(rows) - named, "path": str(path)}
+
+
 def write_report(store: Store, path: Path, stats: dict) -> Path:
     path.parent.mkdir(parents=True, exist_ok=True)
     generated = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")

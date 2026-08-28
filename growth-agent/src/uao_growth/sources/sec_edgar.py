@@ -220,59 +220,113 @@ def parse_13f_signature(xml_text: str) -> dict[str, str]:
     return {"name": name, "title": title, "org_name": org_name}
 
 
-def fetch_iapd(client: HttpClient, queries: list[str] | None = None) -> dict[str, list[dict[str, Any]]]:
-    queries = queries or [
-        "family office",
-        "sovereign",
-        "pension",
-        "private equity",
-        "endowment",
-        "teachers retirement",
-        "superannuation",
-        "sovereign wealth",
-    ]
+IAPD_PAGE = 50
+IAPD_MAX_PER_QUERY = 2500
+IAPD_QUERIES = (
+    ("family office", "family_office"),
+    ("family", "family_office"),
+    ("family wealth", "family_office"),
+    ("multi-family", "family_office"),
+    ("pension", "pension"),
+    ("teachers retirement", "pension"),
+    ("endowment", "endowment"),
+    ("sovereign", "swf"),
+    ("sovereign wealth", "swf"),
+    ("private equity", "pe"),
+    ("capital partners", "pe"),
+    ("venture", "pe"),
+    ("hedge fund", "pe"),
+    ("insurance", "insurer"),
+    ("life insurance", "insurer"),
+    ("asset management", "asset_manager"),
+    ("investment management", "asset_manager"),
+    ("institutional", "asset_manager"),
+    ("alternatives", "pe"),
+)
+
+
+def classify_iapd_org(name: str, query: str, default_type: str) -> str | None:
+    text = (name or "").lower()
+    if not text:
+        return None
+    if any(hint in text for hint in REJECT_HINTS) and not any(hint in text for hint in OWNER_HINTS):
+        return None
+    if "family" in text:
+        return "family_office"
+    if any(hint in text for hint in ("pension", "retirement", "superannuation", "teachers")):
+        return "pension"
+    if any(hint in text for hint in ("sovereign", "permanent fund", "investment authority", "future fund")):
+        return "swf"
+    if "endowment" in text:
+        return "endowment"
+    if any(hint in text for hint in ("private equity", "buyout", "venture")):
+        return "pe"
+    if "insurance" in text or "reinsurance" in text:
+        return "insurer"
+    return default_type
+
+
+def fetch_iapd(
+    client: HttpClient,
+    queries: list[tuple[str, str]] | None = None,
+    page_size: int = IAPD_PAGE,
+    max_per_query: int = IAPD_MAX_PER_QUERY,
+) -> dict[str, list[dict[str, Any]]]:
+    if queries and isinstance(queries[0], str):
+        pairs = [(str(q), "asset_manager") for q in queries]
+    else:
+        pairs = queries or list(IAPD_QUERIES)
     orgs: list[dict[str, Any]] = []
     seen: set[str] = set()
-    for query in queries:
-        url = encode_query(
-            "https://api.adviserinfo.sec.gov/search/firm",
-            {"query": query, "hl": "true", "nrows": 50, "start": 0, "wt": "json"},
-        )
-        try:
-            payload = client.get_json(url)
-        except Exception:
-            continue
-        hits = (
-            payload.get("hits", {}).get("hits", [])
-            if isinstance(payload, dict)
-            else []
-        )
-        for hit in hits:
-            src = hit.get("_source") or {}
-            name = src.get("org_name") or src.get("firm_name") or src.get("name")
-            if not name:
-                continue
-            key = normalize_org(str(name))
-            if key in seen:
-                continue
-            seen.add(key)
-            org_type = "family_office" if "family" in query else "pe" if "private" in query else "pension"
-            if "sovereign" in query:
-                org_type = "swf"
-            if "endowment" in query:
-                org_type = "endowment"
-            orgs.append(
-                {
-                    "name": str(name),
-                    "org_key": key,
-                    "org_type": org_type,
-                    "country": (src.get("country") or "US"),
-                    "domain": None,
-                    "source": "sec_iapd",
-                    "source_url": "https://adviserinfo.sec.gov/",
-                    "external_id": str(src.get("org_crd") or src.get("crd") or ""),
-                    "priority": 60,
-                    "extra_json": {"query": query},
-                }
+    for query, default_type in pairs:
+        start = 0
+        while start < max_per_query:
+            url = encode_query(
+                "https://api.adviserinfo.sec.gov/search/firm",
+                {"query": query, "hl": "true", "nrows": page_size, "start": start, "wt": "json"},
             )
+            try:
+                payload = client.get_json(url)
+            except Exception:
+                break
+            hits = (
+                payload.get("hits", {}).get("hits", [])
+                if isinstance(payload, dict)
+                else []
+            )
+            raw_total = (payload.get("hits") or {}).get("total") if isinstance(payload, dict) else 0
+            if isinstance(raw_total, dict):
+                raw_total = raw_total.get("value") or 0
+            total = int(raw_total or 0)
+            if not hits:
+                break
+            for hit in hits:
+                src = hit.get("_source") or {}
+                name = src.get("org_name") or src.get("firm_name") or src.get("name")
+                if not name:
+                    continue
+                org_type = classify_iapd_org(str(name), query, default_type)
+                if not org_type:
+                    continue
+                key = normalize_org(str(name))
+                if not key or key in seen:
+                    continue
+                seen.add(key)
+                orgs.append(
+                    {
+                        "name": str(name),
+                        "org_key": key,
+                        "org_type": org_type,
+                        "country": src.get("country") or "US",
+                        "domain": None,
+                        "source": "sec_iapd",
+                        "source_url": "https://adviserinfo.sec.gov/",
+                        "external_id": str(src.get("firm_source_id") or src.get("org_crd") or src.get("crd") or ""),
+                        "priority": 60,
+                        "extra_json": {"query": query},
+                    }
+                )
+            start += page_size
+            if total and start >= total:
+                break
     return {"organizations": orgs, "people": []}

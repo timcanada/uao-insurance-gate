@@ -13,6 +13,17 @@ from uao_growth.normalize import normalize_org
 
 WIKI_API = "https://en.wikipedia.org/w/api.php"
 MINISTER_PAGE = "List of current finance ministers"
+ORG_LIST_PAGES = (
+    ("List of sovereign wealth funds", "swf"),
+    ("List of sovereign wealth funds by country", "swf"),
+    ("List of largest pension schemes in the United States", "pension"),
+    ("List of hedge funds", "pe"),
+)
+LIST_SKIP = re.compile(
+    r"^(list of|sovereign wealth|pension fund|hedge fund|united states|investment fund|"
+    r"private equity|central bank|stock|bond)",
+    re.I,
+)
 
 WIKILINK = re.compile(r"\[\[([^\[\]]+)\]\]")
 REF = re.compile(r"<ref\b[^>]*>.*?</ref>|<ref\b[^/]*/>", re.I | re.S)
@@ -53,8 +64,13 @@ SKIP_PAGES = re.compile(
 
 def fetch_wikipedia(client: HttpClient, orgs: list[dict[str, Any]] | None = None) -> dict[str, list[dict[str, Any]]]:
     people: list[dict[str, Any]] = []
+    discovered_orgs: list[dict[str, Any]] = []
     try:
         people.extend(fetch_current_ministers(client))
+    except Exception:
+        pass
+    try:
+        discovered_orgs.extend(fetch_org_lists(client))
     except Exception:
         pass
     if orgs:
@@ -62,7 +78,68 @@ def fetch_wikipedia(client: HttpClient, orgs: list[dict[str, Any]] | None = None
             people.extend(fetch_org_leaders(client, orgs))
         except Exception:
             pass
-    return {"organizations": [], "people": people}
+    return {"organizations": discovered_orgs, "people": people}
+
+
+def fetch_org_lists(client: HttpClient) -> list[dict[str, Any]]:
+    orgs: list[dict[str, Any]] = []
+    seen: set[str] = set()
+    for page, org_type in ORG_LIST_PAGES:
+        try:
+            payload = client.get_json(
+                encode_query(
+                    WIKI_API,
+                    {
+                        "action": "parse",
+                        "page": page,
+                        "prop": "wikitext",
+                        "format": "json",
+                        "redirects": 1,
+                    },
+                )
+            )
+        except Exception:
+            continue
+        text = ((payload or {}).get("parse") or {}).get("wikitext") or {}
+        wikitext = text.get("*") or ""
+        for org in orgs_from_list_wikitext(wikitext, org_type, page):
+            if org["org_key"] in seen:
+                continue
+            seen.add(org["org_key"])
+            orgs.append(org)
+    return orgs
+
+
+def orgs_from_list_wikitext(wikitext: str, org_type: str, page: str) -> list[dict[str, Any]]:
+    orgs: list[dict[str, Any]] = []
+    for match in WIKILINK.finditer(wikitext or ""):
+        inner = match.group(1)
+        target, _, display = inner.partition("|")
+        name = (display or target).strip()
+        if not name or LIST_SKIP.match(name) or LIST_SKIP.match(target.strip()):
+            continue
+        if len(name) < 4 or len(name) > 90:
+            continue
+        if name.lower() in {"list", "ceo", "cio", "chairman"}:
+            continue
+        key = normalize_org(name)
+        if not key:
+            continue
+        orgs.append(
+            {
+                "name": name,
+                "org_key": key,
+                "org_type": org_type,
+                "country": None,
+                "domain": None,
+                "source": "wikipedia",
+                "source_url": f"https://en.wikipedia.org/wiki/{page.replace(' ', '_')}",
+                "external_id": None,
+                "priority": 70,
+                "extra_json": {"list": page},
+            }
+        )
+    return orgs
 
 
 def fetch_current_ministers(client: HttpClient) -> list[dict[str, Any]]:

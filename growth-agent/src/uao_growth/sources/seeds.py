@@ -41,10 +41,8 @@ OWNER_ORG_TYPES = {
 
 
 def role_targets_from_orgs(orgs: list[dict[str, Any]]) -> list[dict[str, Any]]:
-    """Named people come later. These slots are the senior seats we still need."""
-    return seed_people_from_orgs(
-        [org for org in orgs if (org.get("org_type") or "") in OWNER_ORG_TYPES or org.get("source") == "seeds"]
-    )
+    """Named people come later. Every discovered firm gets senior seats for later fill."""
+    return seed_people_from_orgs(orgs)
 
 
 def seed_people_from_orgs(orgs: list[dict[str, Any]]) -> list[dict[str, Any]]:
@@ -74,8 +72,9 @@ def default_titles(org_type: str | None) -> list[str]:
     mapping = {
         "swf": ["Chief Investment Officer", "Chief Executive Officer", "Deputy Chief Investment Officer", "Head of Private Markets"],
         "pension": ["Chief Investment Officer", "Deputy Chief Investment Officer", "Head of Asset Allocation", "Chair of the Investment Committee"],
-        "family_office": ["Chief Investment Officer", "Principal", "Chief Executive Officer"],
-        "pe": ["Managing Partner", "Chief Investment Officer", "Head of Investor Relations"],
+        "family_office": ["Chief Investment Officer", "Principal", "Chief Executive Officer", "Head of Investments"],
+        "pe": ["Managing Partner", "Chief Investment Officer", "Head of Investor Relations", "Senior Managing Director"],
+        "asset_manager": ["Chief Investment Officer", "Chief Executive Officer", "Head of Institutional Clients"],
         "insurer": ["Chief Investment Officer", "Chief Executive Officer", "Chief Risk Officer"],
         "endowment": ["Chief Investment Officer", "Chief Investment Officer, Endowment"],
         "accounting": ["Global CEO", "Global Head of Asset and Wealth Management", "Managing Partner"],

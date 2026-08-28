@@ -3,7 +3,7 @@ from pathlib import Path
 from uao_growth.export.csv_export import export_named_inventory
 from uao_growth.scoring import score_person
 from uao_growth.sources.sec_edgar import clean_filer_name, parse_13f_signature
-from uao_growth.sources.wikipedia import ministers_from_wikitext, people_from_infobox
+from uao_growth.sources.wikipedia import ministers_from_wikitext, orgs_from_list_wikitext, people_from_infobox
 from uao_growth.store import Store
 
 FIXTURE = Path(__file__).parent / "fixtures"
@@ -153,3 +153,18 @@ def test_president_title_clears_seniority_floor():
     score = score_person(title="President", org_type="pe")
     assert score.exportable
     assert score.seniority >= 78
+
+
+def test_wikipedia_org_list_extracts_fund_names():
+    wikitext = """
+{| class="wikitable"
+| [[Norway]] || [[Government Pension Fund of Norway]]
+| [[Abu Dhabi Investment Authority]]
+| [[List of sovereign wealth funds]]
+|}
+"""
+    orgs = orgs_from_list_wikitext(wikitext, "swf", "List of sovereign wealth funds")
+    names = {org["name"] for org in orgs}
+    assert "Government Pension Fund of Norway" in names
+    assert "Abu Dhabi Investment Authority" in names
+    assert "List of sovereign wealth funds" not in names

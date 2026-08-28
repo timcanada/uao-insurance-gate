@@ -40,7 +40,7 @@ TITLE_RULES: tuple[tuple[int, str, str], ...] = (
     (86, "head_allocation", r"\b(head|director) of (asset allocation|total portfolio|portfolio construction|public markets|capital markets)\b"),
     (85, "cro_cso", r"\b(chief risk officer|\bcro\b|chief strategy officer|chief investment strategist|head of stewardship)\b"),
     (84, "cfo_owner", r"\b(chief financial officer|\bcfo\b|finance director)\b"),
-    (83, "event_principal", r"\b(founder|conference chair|managing director, events|head of (partnerships|delegates|institutional relationships))\b"),
+    (83, "event_principal", r"\b(founder|conference chair|managing director, events|head of (partnerships|delegates|institutional relationships|institutional clients|investor relations|asset management|investments?))\b"),
     (82, "ic_member", r"\b(investment committee|trustee|board (chair|chairman|member)|chairperson|chairman|chairwoman)\b"),
     (80, "c_suite", r"\b(chief operating officer|\bcoo\b|chief of staff|deputy chief executive|deputy ceo)\b"),
     (78, "partner", r"\b(partner|principal consultant|executive vice president|\bevp\b)\b"),
@@ -57,7 +57,7 @@ OWNER_ORG_TYPES = {
     "pe",
     "government",
 }
-COMMERCIAL_ORG_TYPES = {"accounting", "event", "consultant", "bank", "legal", "search"}
+COMMERCIAL_ORG_TYPES = {"accounting", "event", "consultant", "bank", "legal", "search", "asset_manager"}
 
 
 @dataclass(frozen=True)

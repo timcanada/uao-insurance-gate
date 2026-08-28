@@ -46,6 +46,6 @@ Do not 301 this page onto `/swarthmore-endowment/`, `/pomona-endowment/`, `/have
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Swarthmore College endowment](/swarthmore-endowment/)
-- [Pomona College endowment](/pomona-endowment/)
+- [Bryn Mawr College endowment](/bryn-mawr-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

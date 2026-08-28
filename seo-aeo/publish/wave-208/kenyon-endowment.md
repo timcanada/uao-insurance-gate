@@ -46,6 +46,6 @@ Do not 301 this page onto `/oberlin-endowment/`, `/davidson-endowment/`, `/kenyo
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Oberlin College endowment](/oberlin-endowment/)
-- [Davidson College endowment](/davidson-endowment/)
+- [Trinity College endowment](/trinity-college-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -46,6 +46,6 @@ Do not 301 this page onto `/holy-cross-endowment/`, `/colgate-endowment/`, `/laf
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [College of the Holy Cross endowment](/holy-cross-endowment/)
-- [Colgate University endowment](/colgate-endowment/)
+- [Trinity College endowment](/trinity-college-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

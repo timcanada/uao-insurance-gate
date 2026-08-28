@@ -46,6 +46,6 @@ Do not 301 this page onto `/carleton-endowment/`, `/kenyon-endowment/`, `/oberli
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Carleton College endowment](/carleton-endowment/)
-- [Kenyon College endowment](/kenyon-endowment/)
+- [Colorado College endowment](/colorado-college-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

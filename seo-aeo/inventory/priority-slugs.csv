@@ -1257,6 +1257,26 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 208,institution,lafayette-endowment,Lafayette College endowment,allocator,brief,P0,drafted-in-repo,Wave 208. Official managed endowment $1,199,913 thousand at 30 Jun 2025. Not leftover Pennsylvania SERS. Do not mint /lafayette/
 2,institution,lafayette-endowment-explained,Lafayette endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 208 /lafayette-endowment/
 2,institution,lafayette,Lafayette (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 208 /lafayette-endowment/
+209,institution,trinity-college-endowment,Trinity College endowment,allocator,brief,P0,drafted-in-repo,Wave 209. Official endowment net assets $912,003,441 at 30 Jun 2025. Endowment investments $882,784,505 are a different line. Do not mint /trinity/ or /trincoll/
+2,institution,trinity-college-endowment-explained,Trinity College endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 209 /trinity-college-endowment/
+2,institution,trinity,Trinity (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 209 /trinity-college-endowment/
+2,institution,trincoll,Trincoll (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 209 /trinity-college-endowment/
+209,institution,barnard-endowment,Barnard College endowment,allocator,brief,P0,drafted-in-repo,Wave 209. Official endowment and quasi-endowment $557,120 thousand at 30 Jun 2025. Not leftover Columbia. Do not mint /barnard/
+2,institution,barnard-endowment-explained,Barnard endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 209 /barnard-endowment/
+2,institution,barnard,Barnard (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 209 /barnard-endowment/
+209,institution,bryn-mawr-endowment,Bryn Mawr College endowment,allocator,brief,P0,drafted-in-repo,Wave 209. Official endowment net assets $1,297,348 thousand at 31 May 2025. Not leftover Pennsylvania SERS. Do not mint /bryn-mawr/ or /bmc/
+2,institution,bryn-mawr-endowment-explained,Bryn Mawr endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 209 /bryn-mawr-endowment/
+2,institution,bryn-mawr,Bryn Mawr (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 209 /bryn-mawr-endowment/
+2,institution,bmc,BMC (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 209 /bryn-mawr-endowment/
+209,institution,mount-holyoke-endowment,Mount Holyoke College endowment,allocator,brief,P0,drafted-in-repo,Wave 209. Official endowment funds $1,180,265 thousand at 30 Jun 2025. Do not mint /holyoke/ or /mhc/
+2,institution,mount-holyoke-endowment-explained,Mount Holyoke endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 209 /mount-holyoke-endowment/
+2,institution,mount-holyoke,Mount Holyoke (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 209 /mount-holyoke-endowment/
+2,institution,holyoke,Holyoke (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 209 /mount-holyoke-endowment/
+2,institution,mhc,MHC (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 209 /mount-holyoke-endowment/
+2,institution,mtholyoke,Mt Holyoke (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 209 /mount-holyoke-endowment/
+209,institution,colorado-college-endowment,Colorado College endowment,allocator,brief,P0,drafted-in-repo,Wave 209. Official total endowment funds $1,064,108 thousand at 30 Jun 2025. Endowment portfolio 11.3% is the house pool print. Do not mint /colorado-college/
+2,institution,colorado-college-endowment-explained,Colorado College endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 209 /colorado-college-endowment/
+2,institution,colorado-college,Colorado College (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 209 /colorado-college-endowment/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

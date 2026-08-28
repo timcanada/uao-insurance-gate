@@ -46,6 +46,6 @@ Do not 301 this page onto `/carleton-endowment/`, `/grinnell-endowment/`, `/maca
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Carleton College endowment](/carleton-endowment/)
-- [Grinnell College endowment](/grinnell-endowment/)
+- [Mount Holyoke College endowment](/mount-holyoke-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -45,7 +45,7 @@ Do not 301 this page onto `/university-of-nebraska-foundation/`, `/xavier-univer
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
-- [Willamette University endowment](/willamette-endowment/)
+- [Seattle University endowment](/seattle-university-endowment/)
 - [Chapman University endowment](/chapman-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

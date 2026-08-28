@@ -45,7 +45,7 @@ Do not 301 this page onto `/university-of-washington-endowment/`, `/whitman-endo
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
-- [Santa Clara University endowment](/santa-clara-endowment/)
+- [University of Portland endowment](/university-of-portland-endowment/)
 - [Creighton University endowment](/creighton-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

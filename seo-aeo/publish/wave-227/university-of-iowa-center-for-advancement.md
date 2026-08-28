@@ -43,7 +43,7 @@ Do not 301 this page onto `/university-of-illinois-foundation/`, `/ipers/`, `/ui
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
-- [Santa Clara University endowment](/santa-clara-endowment/)
+- [University of St. Thomas endowment](/university-of-st-thomas-endowment/)
 - [Willamette University endowment](/willamette-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

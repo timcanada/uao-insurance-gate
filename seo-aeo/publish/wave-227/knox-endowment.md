@@ -43,7 +43,7 @@ Do not 301 this page onto `/university-of-illinois-foundation/`, `/lawrence-univ
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
-- [Chapman University endowment](/chapman-endowment/)
+- [Loyola University Chicago endowment](/loyola-university-chicago-endowment/)
 - [University of Iowa Center for Advancement endowment](/university-of-iowa-center-for-advancement/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

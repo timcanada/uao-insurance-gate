@@ -1665,6 +1665,32 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,uiowa,UIowa (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 227 /university-of-iowa-center-for-advancement/
 2,institution,uica,UICA (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 227 /university-of-iowa-center-for-advancement/
 2,institution,hawkeyes,Hawkeyes (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 227 /university-of-iowa-center-for-advancement/
+228,institution,university-of-portland-endowment,University of Portland endowment,allocator,brief,P0,drafted-in-repo,Wave 228. Official endowment NA $378,482 thousand at 30 Jun 2025. Do not invent leftover 4.5% or leftover extra 1.5%. Do not mint /up/ or /portland/ or /pilots/. /uw/ remains Washington. Not leftover Willamette
+2,institution,university-of-portland-endowment-explained,University of Portland endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 228 /university-of-portland-endowment/
+2,institution,up,UP (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 228 /university-of-portland-endowment/
+2,institution,portland,Portland (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 228 /university-of-portland-endowment/. Would flatten leftover Portland State
+2,institution,pilots,Pilots (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 228 /university-of-portland-endowment/
+228,institution,seattle-university-endowment,Seattle University endowment,allocator,brief,P0,drafted-in-repo,Wave 228. Official endowment NA $370,478 thousand at 30 Jun 2025. Do not invent a percent. Do not mint /seattle/ or /seattleu/ or /su/ or /redhawks/. /su/ remains Syracuse. /uw/ remains Washington
+2,institution,seattle-university-endowment-explained,Seattle University endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 228 /seattle-university-endowment/
+2,institution,seattle,Seattle (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 228 /seattle-university-endowment/. Would flatten leftover City of Seattle
+2,institution,seattleu,SeattleU (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 228 /seattle-university-endowment/
+2,institution,redhawks,Redhawks (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 228 /seattle-university-endowment/
+228,institution,university-of-san-diego-endowment,University of San Diego endowment,allocator,brief,P0,drafted-in-repo,Wave 228. Official total endowment $766,650 thousand at 30 Jun 2025. Do not invent leftover 4%. Do not mint /usd/ or /san-diego/ or /ucsd/ or /toreros/. /usd/ would flatten leftover South Dakota. Not leftover USC
+2,institution,university-of-san-diego-endowment-explained,University of San Diego endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 228 /university-of-san-diego-endowment/
+2,institution,usd,USD (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 228 /university-of-san-diego-endowment/. Would flatten leftover University of South Dakota
+2,institution,san-diego,San Diego (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 228 /university-of-san-diego-endowment/
+2,institution,ucsd,UCSD (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 228 /university-of-san-diego-endowment/. Would flatten leftover UC San Diego
+2,institution,toreros,Toreros (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 228 /university-of-san-diego-endowment/
+228,institution,loyola-university-chicago-endowment,Loyola University Chicago endowment,allocator,brief,P0,drafted-in-repo,Wave 228. Official endowment NA $1,167,824 thousand at 30 Jun 2025. Do not invent leftover 5%. Do not mint /loyola/ or /luc/ or /ramblers/. Not leftover Loyola Marymount. Not leftover Loyola Medicine
+2,institution,loyola-university-chicago-endowment-explained,Loyola Chicago endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 228 /loyola-university-chicago-endowment/
+2,institution,loyola,Loyola (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 228 /loyola-university-chicago-endowment/. Would flatten leftover Loyola Marymount / leftover Loyola New Orleans / leftover Loyola Maryland
+2,institution,luc,LUC (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 228 /loyola-university-chicago-endowment/
+2,institution,ramblers,Ramblers (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 228 /loyola-university-chicago-endowment/
+228,institution,university-of-st-thomas-endowment,University of St. Thomas endowment,allocator,brief,P0,drafted-in-repo,Wave 228. Official endowment NA $820,001 thousand at 30 Jun 2025. Do not invent leftover FAQ 9.2% or leftover 5.0%. Do not mint /st-thomas/ or /ust/ or /tommies/. Not leftover St. Thomas University Florida. Not leftover University of St. Thomas Houston
+2,institution,university-of-st-thomas-endowment-explained,St. Thomas endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 228 /university-of-st-thomas-endowment/
+2,institution,st-thomas,St Thomas (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 228 /university-of-st-thomas-endowment/. Would flatten leftover St. Thomas University Florida and leftover University of St. Thomas Houston
+2,institution,ust,UST (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 228 /university-of-st-thomas-endowment/
+2,institution,tommies,Tommies (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 228 /university-of-st-thomas-endowment/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

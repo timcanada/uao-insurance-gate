@@ -45,7 +45,7 @@ Do not 301 this page onto `/santa-clara-endowment/`, `/occidental-endowment/`, `
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
-- [Creighton University endowment](/creighton-endowment/)
+- [University of San Diego endowment](/university-of-san-diego-endowment/)
 - [Knox College endowment](/knox-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

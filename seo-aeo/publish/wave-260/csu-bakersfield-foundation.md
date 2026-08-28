@@ -53,5 +53,7 @@ Do not 301 this page onto `/cal-state-fullerton-philanthropic-foundation/`, `/cs
 - [CSU San Marcos Foundation endowment](/csu-san-marcos-foundation/)
 - [San Francisco State University Foundation endowment](/sfsu-foundation/)
 - [The Campanile Foundation endowment](/campanile-foundation/)
+- [CSUN Foundation endowment](/csun-foundation/)
+- [Fresno State Foundation endowment](/fresno-state-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

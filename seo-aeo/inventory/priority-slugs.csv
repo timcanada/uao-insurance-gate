@@ -2100,6 +2100,28 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,olin,Olin (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 246 /olin-college-endowment/. Would flatten leftover Olin Corporation
 2,institution,olin-college,Olin College (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 246 /olin-college-endowment/
 2,institution,fwolin,FWOlin (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 246 /olin-college-endowment/
+247,institution,american-international-college-endowment,American International College endowment,allocator,brief,P0,drafted-in-repo,Wave 247. Official endowment NA $22,662,806 at 30 Jun 2025. Printed Investment return $3,444,561. Amounts appropriated $1,865,091. Do not flatten leftover Withdrawals $9,200,000. Do not mint /aic/ or /american-international/. Never remint /yellow-jackets/. Not leftover Springfield College
+2,institution,american-international-college-endowment-explained,AIC endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 247 /american-international-college-endowment/
+2,institution,aic,AIC (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 247 /american-international-college-endowment/
+2,institution,american-international,American International (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 247 /american-international-college-endowment/
+247,institution,babson-college-endowment,Babson College endowment,allocator,brief,P0,drafted-in-repo,Wave 247. Official endowment NA $812,539,861 at 30 Jun 2025. Printed Investment return $84,804,065. Do not invent leftover summary 9.9%. Appropriation $27,198,680. Do not flatten leftover investments $813,258,194 or leftover summary $813.3M. Do not mint /babson/ or /babson-college/. Never remint /beavers/
+2,institution,babson-college-endowment-explained,Babson endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 247 /babson-college-endowment/
+2,institution,babson,Babson (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 247 /babson-college-endowment/
+2,institution,babson-college,Babson College (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 247 /babson-college-endowment/
+247,institution,emerson-college-endowment,Emerson College endowment,allocator,brief,P0,drafted-in-repo,Wave 247. Official endowed NA $292,994 thousand at 30 Jun 2025. Printed Investment return, net of fees $33,620 thousand. Do not invent leftover 3%. Appropriation $9,726 thousand. Figures print in thousands. Do not mint /emerson/ or /emerson-college/
+2,institution,emerson-college-endowment-explained,Emerson endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 247 /emerson-college-endowment/
+2,institution,emerson,Emerson (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 247 /emerson-college-endowment/
+2,institution,emerson-college,Emerson College (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 247 /emerson-college-endowment/
+247,institution,mcphs-endowment,MCPHS endowment,allocator,brief,P0,drafted-in-repo,Wave 247. Official endowment NA $68,124,671 at 30 Jun 2025. Printed Total investment return $7,144,007. Transferred to operations $1,174,980. Do not flatten leftover investments $2,085,681,828 or leftover SFP Endowment funds $52,093,235. Do not mint /mcphs/ or /mcphs-university/ or /pharmacy/
+2,institution,mcphs-endowment-explained,MCPHS endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 247 /mcphs-endowment/
+2,institution,mcphs,MCPHS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 247 /mcphs-endowment/
+2,institution,mcphs-university,MCPHS University (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 247 /mcphs-endowment/
+2,institution,pharmacy,Pharmacy (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 247 /mcphs-endowment/
+247,institution,hellenic-college-endowment,Hellenic College endowment,allocator,brief,P0,drafted-in-repo,Wave 247. Official endowment NA $38,149,936 at 30 Jun 2025. Printed Investment returns, net $1,353,408. Appropriation $1,137,013. Do not mint /hellenic/ or /hellenic-college/ or /hchc/. Never remint /holy-cross/. Not leftover College of the Holy Cross
+2,institution,hellenic-college-endowment-explained,Hellenic endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 247 /hellenic-college-endowment/
+2,institution,hellenic,Hellenic (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 247 /hellenic-college-endowment/
+2,institution,hellenic-college,Hellenic College (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 247 /hellenic-college-endowment/
+2,institution,hchc,HCHC (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 247 /hellenic-college-endowment/. Would flatten leftover College of the Holy Cross if paired with /holy-cross/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

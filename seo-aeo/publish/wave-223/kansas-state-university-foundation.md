@@ -44,6 +44,6 @@ Do not 301 this page onto `/montana-state-university-foundation/`, `/missouri-st
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Montana State University Foundation endowment](/montana-state-university-foundation/)
-- [Harvey Mudd College endowment](/harvey-mudd-endowment/)
+- [Oklahoma State University Foundation endowment](/oklahoma-state-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

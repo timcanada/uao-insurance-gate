@@ -1559,6 +1559,38 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,nku,NKU (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 223 /northern-kentucky-university-foundation/
 2,institution,nkuf,NKUF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 223 /northern-kentucky-university-foundation/
 2,institution,northern-kentucky,Northern Kentucky (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 223 /northern-kentucky-university-foundation/
+224,institution,kansas-university-endowment,Kansas University Endowment Association endowment,allocator,brief,P0,drafted-in-repo,Wave 224. Official endowment NA $2,455,618 thousand at 30 Jun 2025. Do not invent a percent. Do not mint /ku/ or /kuea/ or /kansas/ or /jayhawks/ or /ku-endowment/. Not leftover Kansas State
+2,institution,kansas-university-endowment-explained,KU Endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 224 /kansas-university-endowment/
+2,institution,ku,KU (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 224 /kansas-university-endowment/. Not leftover Kansas State or leftover Kennesaw
+2,institution,kuea,KUEA (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 224 /kansas-university-endowment/
+2,institution,kansas,Kansas (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 224 /kansas-university-endowment/. Not leftover KPERS
+2,institution,jayhawks,Jayhawks (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 224 /kansas-university-endowment/
+2,institution,ku-endowment,KU Endowment (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 224 /kansas-university-endowment/
+224,institution,university-of-nebraska-foundation,University of Nebraska Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 224. Official endowment NA $2,308,046 thousand at 30 Jun 2025. Do not invent a percent. Do not mint /nebraska/ or /nuf/ or /unf/ or /huskers/. Not leftover Nebraska School
+2,institution,university-of-nebraska-foundation-explained,Nebraska Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 224 /university-of-nebraska-foundation/
+2,institution,nebraska,Nebraska (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 224 /university-of-nebraska-foundation/. Not leftover Nebraska School
+2,institution,nuf,NUF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 224 /university-of-nebraska-foundation/
+2,institution,unf,UNF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 224 /university-of-nebraska-foundation/. Not leftover University of North Florida
+2,institution,huskers,Huskers (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 224 /university-of-nebraska-foundation/
+224,institution,university-at-buffalo-foundation,University at Buffalo Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 224. Official endowment NA $1,172,386,817 at 30 Jun 2025. Do not invent a percent. Do not mint /buffalo/ or /ub/ or /ubf/ or /suny-buffalo/. Not leftover NYSCRF
+2,institution,university-at-buffalo-foundation-explained,Buffalo Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 224 /university-at-buffalo-foundation/
+2,institution,buffalo,Buffalo (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 224 /university-at-buffalo-foundation/
+2,institution,ub,UB (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 224 /university-at-buffalo-foundation/
+2,institution,ubf,UBF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 224 /university-at-buffalo-foundation/
+2,institution,suny-buffalo,SUNY Buffalo (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 224 /university-at-buffalo-foundation/
+224,institution,oklahoma-state-university-foundation,Oklahoma State University Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 224. Official total endowment funds $1,082,860,652 at 30 Jun 2025. Do not invent a percent. Do not mint /osu/ or /oklahoma/ or /okstate/. /osu/ remains Ohio State. Not leftover Oklahoma OPERS
+2,institution,oklahoma-state-university-foundation-explained,Oklahoma State Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 224 /oklahoma-state-university-foundation/
+2,institution,oklahoma,Oklahoma (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 224 /oklahoma-state-university-foundation/. Not leftover Oklahoma OPERS
+2,institution,okstate,OKState (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 224 /oklahoma-state-university-foundation/
+2,institution,osu-foundation,OSU Foundation (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 224 /oklahoma-state-university-foundation/. /osu/ remains Ohio State
+2,institution,osuf,OSUF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 224 /oklahoma-state-university-foundation/
+2,institution,cowboys,Cowboys (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 224 /oklahoma-state-university-foundation/
+224,institution,university-of-hawaii-foundation,University of Hawaii Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 224. Official endowment NA $706,754,556 at 30 Jun 2025. Do not invent a percent. Do not mint /hawaii/ or /uh/ or /uhf/ or /hawaii-foundation/. Not leftover fact-sheet $641.9 million
+2,institution,university-of-hawaii-foundation-explained,Hawaii Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 224 /university-of-hawaii-foundation/
+2,institution,hawaii,Hawaii (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 224 /university-of-hawaii-foundation/
+2,institution,uh,UH (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 224 /university-of-hawaii-foundation/. Not leftover University of Houston
+2,institution,uhf,UHF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 224 /university-of-hawaii-foundation/
+2,institution,hawaii-foundation,Hawaii Foundation (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 224 /university-of-hawaii-foundation/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

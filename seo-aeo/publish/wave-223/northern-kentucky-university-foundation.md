@@ -44,6 +44,6 @@ Do not 301 this page onto `/university-of-kentucky-endowment/`, `/kentucky-trs/`
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Hillsborough Education Foundation endowment](/hillsborough-education-foundation/)
-- [Pinellas County Education Foundation endowment](/pinellas-county-education-foundation/)
+- [University at Buffalo Foundation endowment](/university-at-buffalo-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

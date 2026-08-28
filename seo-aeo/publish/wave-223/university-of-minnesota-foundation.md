@@ -44,6 +44,6 @@ Do not 301 this page onto `/minnesota-sbi/`, `/university-of-illinois-foundation
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Illinois Foundation endowment](/university-of-illinois-foundation/)
-- [Mississippi State University Foundation endowment](/mississippi-state-university-foundation/)
+- [University of Nebraska Foundation endowment](/university-of-nebraska-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

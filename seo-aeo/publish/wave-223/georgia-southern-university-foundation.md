@@ -44,6 +44,6 @@ Do not 301 this page onto `/missouri-state-university-foundation/`, `/kansas-sta
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Missouri State University Foundation endowment](/missouri-state-university-foundation/)
-- [Hillsborough Education Foundation endowment](/hillsborough-education-foundation/)
+- [University of Hawaii Foundation endowment](/university-of-hawaii-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

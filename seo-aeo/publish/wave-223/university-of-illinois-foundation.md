@@ -44,6 +44,6 @@ Do not 301 this page onto `/illinois-isbi/`, `/illinois-surs/`, `/university-of-
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Minnesota Foundation endowment](/university-of-minnesota-foundation/)
-- [University of Arkansas Foundation endowment](/university-of-arkansas-foundation/)
+- [Kansas University Endowment Association endowment](/kansas-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

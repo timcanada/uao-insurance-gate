@@ -2122,6 +2122,31 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,hellenic,Hellenic (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 247 /hellenic-college-endowment/
 2,institution,hellenic-college,Hellenic College (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 247 /hellenic-college-endowment/
 2,institution,hchc,HCHC (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 247 /hellenic-college-endowment/. Would flatten leftover College of the Holy Cross if paired with /holy-cross/
+248,institution,boston-architectural-college-endowment,Boston Architectural College endowment,allocator,brief,P0,drafted-in-repo,Wave 248. Official endowment NA $12,186,227 at 30 Jun 2025. Printed Net appreciation $1,345,707. Amounts appropriated $333,203. Do not mint /bac/ or /boston-architectural/ or /the-bac/. Not leftover Berklee
+2,institution,boston-architectural-college-endowment-explained,BAC endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 248 /boston-architectural-college-endowment/
+2,institution,bac,BAC (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 248 /boston-architectural-college-endowment/
+2,institution,boston-architectural,Boston Architectural (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 248 /boston-architectural-college-endowment/
+2,institution,the-bac,The BAC (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 248 /boston-architectural-college-endowment/
+248,institution,berklee-college-endowment,Berklee College of Music endowment,allocator,brief,P0,drafted-in-repo,Wave 248. Official total endowed funds $465,524,411 at 31 May 2025. Printed Total investment return, net $53,369,871. Appropriation $18,658,758. Do not invent leftover CFO 12.5%. Do not mint /berklee/ or /berklee-college/
+2,institution,berklee-college-endowment-explained,Berklee endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 248 /berklee-college-endowment/
+2,institution,berklee,Berklee (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 248 /berklee-college-endowment/
+2,institution,berklee-college,Berklee College (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 248 /berklee-college-endowment/
+248,institution,johnson-wales-endowment,Johnson & Wales University endowment,allocator,brief,P0,drafted-in-repo,Wave 248. Official composition Total funds $374,591 thousand at 30 Jun 2025. Printed Investment return, net $35,528 thousand. Appropriated for operations $16,575 thousand. Figures print in thousands. Do not flatten leftover Board-Managed $36,247 thousand or leftover summary $385.6 million. Do not mint /jwu/ or /johnson-wales/ or /jwu-providence/
+2,institution,johnson-wales-endowment-explained,JWU endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 248 /johnson-wales-endowment/
+2,institution,jwu,JWU (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 248 /johnson-wales-endowment/
+2,institution,johnson-wales,Johnson Wales (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 248 /johnson-wales-endowment/
+2,institution,jwu-providence,JWU Providence (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 248 /johnson-wales-endowment/
+248,institution,university-of-rhode-island-foundation,University of Rhode Island Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 248. Official endowment NA $345,192,833 at 30 Jun 2025. Printed Net appreciation $29,813,651. Appropriations $11,966,243. Do not homemade-sum leftover SOA lines. Do not mint /uri/ or /uri-foundation/ or /urifae/ or /rhody/. Not leftover URI university GASB. Not leftover United Religions Initiative
+2,institution,university-of-rhode-island-foundation-explained,URI Foundation endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 248 /university-of-rhode-island-foundation/
+2,institution,uri,URI (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 248 /university-of-rhode-island-foundation/. Would flatten leftover United Religions Initiative and leftover URI university GASB
+2,institution,uri-foundation,URI Foundation (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 248 /university-of-rhode-island-foundation/
+2,institution,urifae,URIFAE (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 248 /university-of-rhode-island-foundation/
+2,institution,rhody,Rhody (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 248 /university-of-rhode-island-foundation/
+248,institution,university-of-connecticut-foundation,University of Connecticut Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 248. Official endowment NA $678,337,565 at 30 Jun 2025. Printed Net total investment return and other income $68,778,510. Spending allocation $18,331,575. Do not flatten leftover SOA / Note 3 $78,289,491 or leftover glossy $668 million. Do not invent leftover 8.2%. Do not mint /uconn/ or /uconn-foundation/ or /ucf/. Never remint /huskies/. Not leftover University of Central Florida
+2,institution,university-of-connecticut-foundation-explained,UConn Foundation endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 248 /university-of-connecticut-foundation/
+2,institution,uconn,UConn (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 248 /university-of-connecticut-foundation/
+2,institution,uconn-foundation,UConn Foundation (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 248 /university-of-connecticut-foundation/
+2,institution,ucf,UCF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 248 /university-of-connecticut-foundation/. Would flatten leftover University of Central Florida
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

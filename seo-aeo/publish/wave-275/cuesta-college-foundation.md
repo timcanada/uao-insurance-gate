@@ -55,5 +55,6 @@ Do not 301 this page onto `/foundation-for-california-community-colleges/`, `/ve
 - [El Camino College Foundation endowment](/el-camino-college-foundation/)
 - [Columbia College California Foundation endowment](/columbia-college-california-foundation/)
 - [Modesto Junior College Foundation endowment](/modesto-junior-college-foundation/)
+- [Delta College Foundation endowment](/delta-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -54,5 +54,6 @@ Do not 301 this page onto `/sfsu-foundation/`, `/city-colleges-of-chicago-founda
 - [El Camino College Foundation endowment](/el-camino-college-foundation/)
 - [Columbia College California Foundation endowment](/columbia-college-california-foundation/)
 - [Modesto Junior College Foundation endowment](/modesto-junior-college-foundation/)
+- [Riverside Community College District Foundation endowment](/riverside-community-college-district-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -52,5 +52,6 @@ Do not 301 this page onto `/foundation-for-california-community-colleges/`, `/co
 - [Santa Ana College Foundation endowment](/santa-ana-college-foundation/)
 - [Columbia College California Foundation endowment](/columbia-college-california-foundation/)
 - [Modesto Junior College Foundation endowment](/modesto-junior-college-foundation/)
+- [Riverside Community College District Foundation endowment](/riverside-community-college-district-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

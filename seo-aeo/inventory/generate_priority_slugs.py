@@ -483,6 +483,8 @@ def main() -> None:
         ("lebanon-valley-college-endowment", "Lebanon Valley College endowment", "Endowment", "needed"),
         ("great-lakes-christian-college-endowment", "Great Lakes Christian College endowment", "Endowment", "needed"),
         ("messiah-university-endowment", "Messiah University endowment", "Endowment", "needed"),
+        ("lane-community-college-foundation", "Lane Community College Foundation endowment", "Endowment", "needed"),
+        ("southwestern-oregon-community-college-foundation", "Southwestern Oregon Community College Foundation endowment", "Endowment", "needed"),
         ("emory-endowment", "Emory University endowment", "Endowment", "needed"),
         ("carnegie-mellon-endowment", "Carnegie Mellon University endowment", "Endowment", "needed"),
         ("caltech-endowment", "Caltech endowment", "Endowment", "needed"),

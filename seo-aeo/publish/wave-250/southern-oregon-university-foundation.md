@@ -52,5 +52,7 @@ Do not 301 this page onto `/oregon-state-university-foundation/`, `/university-o
 - [Western Oregon University Foundation endowment](/western-oregon-university-foundation/)
 - [University of Portland endowment](/university-of-portland-endowment/)
 - [Western Colorado University Foundation endowment](/western-colorado-university-foundation/)
+- [Lane Community College Foundation endowment](/lane-community-college-foundation/)
+- [Southwestern Oregon Community College Foundation endowment](/southwestern-oregon-community-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

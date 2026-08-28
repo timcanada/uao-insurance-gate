@@ -51,5 +51,6 @@ Do not 301 this page onto `/gwinnett-tech-foundation/`, `/brookdale-community-co
 - [Lane Community College Foundation endowment](/lane-community-college-foundation/)
 - [City Colleges of Chicago Foundation endowment](/city-colleges-of-chicago-foundation/)
 - [Northeast Iowa Community College Foundation endowment](/northeast-iowa-community-college-foundation/)
+- [Kirkwood Community College Foundation endowment](/kirkwood-community-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

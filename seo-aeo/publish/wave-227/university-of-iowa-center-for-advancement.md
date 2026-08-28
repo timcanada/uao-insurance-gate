@@ -46,5 +46,6 @@ Do not 301 this page onto `/university-of-illinois-foundation/`, `/ipers/`, `/ui
 - [University of St. Thomas endowment](/university-of-st-thomas-endowment/)
 - [Willamette University endowment](/willamette-endowment/)
 - [Northeast Iowa Community College Foundation endowment](/northeast-iowa-community-college-foundation/)
+- [Kirkwood Community College Foundation endowment](/kirkwood-community-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

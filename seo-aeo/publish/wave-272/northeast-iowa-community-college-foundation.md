@@ -51,5 +51,6 @@ Do not 301 this page onto `/university-of-iowa-center-for-advancement/`, `/weste
 - [City Colleges of Chicago Foundation endowment](/city-colleges-of-chicago-foundation/)
 - [Wake Tech Foundation endowment](/wake-tech-foundation/)
 - [Brookdale Community College Foundation endowment](/brookdale-community-college-foundation/)
+- [Kirkwood Community College Foundation endowment](/kirkwood-community-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

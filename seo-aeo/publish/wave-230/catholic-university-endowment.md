@@ -46,6 +46,6 @@ Do not 301 this page onto `/george-washington-endowment/`, `/american-university
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [American University endowment](/american-university-endowment/)
-- [George Washington University endowment](/george-washington-endowment/)
+- [College of Saint Benedict endowment](/college-of-saint-benedict-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -46,6 +46,6 @@ Do not 301 this page onto `/george-washington-endowment/`, `/catholic-university
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Catholic University of America endowment](/catholic-university-endowment/)
-- [George Washington University endowment](/george-washington-endowment/)
+- [SIU Foundation endowment](/siu-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

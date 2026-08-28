@@ -46,6 +46,6 @@ Do not 301 this page onto `/puget-sound-endowment/`, `/university-of-washington-
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Portland endowment](/university-of-portland-endowment/)
-- [University of Puget Sound endowment](/puget-sound-endowment/)
+- [University of the Pacific endowment](/university-of-the-pacific-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

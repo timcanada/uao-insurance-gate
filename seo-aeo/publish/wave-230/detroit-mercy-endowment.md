@@ -46,6 +46,6 @@ Do not 301 this page onto `/university-of-michigan-endowment/`, `/marquette-endo
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Marquette University endowment](/marquette-endowment/)
-- [Xavier University endowment](/xavier-university-endowment/)
+- [University of Toledo Foundation endowment](/university-of-toledo-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

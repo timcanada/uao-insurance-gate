@@ -1740,6 +1740,30 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,plu,PLU (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 230 /pacific-lutheran-endowment/
 2,institution,pacific,Pacific (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 230 /pacific-lutheran-endowment/. Would flatten leftover University of the Pacific / leftover Pacific University Oregon / leftover Seattle Pacific
 2,institution,lutes,Lutes (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 230 /pacific-lutheran-endowment/
+231,institution,university-of-the-pacific-endowment,University of the Pacific endowment,allocator,brief,P0,drafted-in-repo,Wave 231. Official endowment NA $726,502 thousand at 30 Jun 2025. Do not invent leftover 4.75%. Do not mint /uop/ or /pacific/ or /tigers/. /pacific/ would flatten leftover Pacific Lutheran / leftover Pacific University Oregon
+2,institution,university-of-the-pacific-endowment-explained,University of the Pacific endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 231 /university-of-the-pacific-endowment/
+2,institution,uop,UOP (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 231 /university-of-the-pacific-endowment/
+2,institution,tigers,Tigers (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 231 /university-of-the-pacific-endowment/
+231,institution,university-of-toledo-foundation,University of Toledo Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 231. Official endowment NA $355,115,622 at 30 Jun 2025. Do not invent leftover 4.0%. Do not mint /utoledo/ or /toledo/ or /rockets/. /toledo/ would flatten leftover Toledo municipal
+2,institution,university-of-toledo-foundation-explained,Toledo Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 231 /university-of-toledo-foundation/
+2,institution,utoledo,UToledo (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 231 /university-of-toledo-foundation/
+2,institution,toledo,Toledo (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 231 /university-of-toledo-foundation/. Would flatten leftover Toledo municipal
+2,institution,rockets,Rockets (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 231 /university-of-toledo-foundation/
+231,institution,college-of-saint-benedict-endowment,College of Saint Benedict endowment,allocator,brief,P0,drafted-in-repo,Wave 231. Official pooled endowment NA $157,168,459 at 30 Jun 2025. Do not invent leftover 11.0%. Do not mint /csb/ or /benedict/ or /bennies/ or /csbsju/. Not leftover Saint John's University Collegeville
+2,institution,college-of-saint-benedict-endowment-explained,College of Saint Benedict endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 231 /college-of-saint-benedict-endowment/
+2,institution,csb,CSB (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 231 /college-of-saint-benedict-endowment/
+2,institution,benedict,Benedict (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 231 /college-of-saint-benedict-endowment/
+2,institution,bennies,Bennies (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 231 /college-of-saint-benedict-endowment/
+2,institution,csbsju,CSBSJU (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 231 /college-of-saint-benedict-endowment/. Would flatten leftover Saint John's University Collegeville
+231,institution,siu-foundation,SIU Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 231. Official endowment NA $232,061,575 at 30 Jun 2025. Do not invent leftover 8%. Do not mint /siu/ or /siuf/ or /salukis/. Not leftover SIUE / leftover Illinois system UG
+2,institution,siu-foundation-explained,SIU Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 231 /siu-foundation/
+2,institution,siu,SIU (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 231 /siu-foundation/. Would flatten leftover SIUE / leftover Southern Illinois University system UG
+2,institution,siuf,SIUF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 231 /siu-foundation/
+2,institution,salukis,Salukis (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 231 /siu-foundation/
+231,institution,kennesaw-state-university-foundation,Kennesaw State University Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 231. Official endowment NA $133,101,307 at 30 Jun 2025. Do not invent leftover 4%. Do not mint /kennesaw/ or /owls/ or /ksu/ or /ksuf/. /ksu/ remains Kansas State
+2,institution,kennesaw-state-university-foundation-explained,Kennesaw Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 231 /kennesaw-state-university-foundation/
+2,institution,kennesaw,Kennesaw (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 231 /kennesaw-state-university-foundation/
+2,institution,owls,Owls (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 231 /kennesaw-state-university-foundation/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

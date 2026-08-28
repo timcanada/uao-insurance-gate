@@ -50,5 +50,7 @@ Do not 301 this page onto `/kennesaw-state-university-foundation/`, `/georgia-so
 - [Mississippi University for Women Foundation endowment](/mississippi-university-for-women-foundation/)
 - [University of North Georgia Foundation endowment](/university-of-north-georgia-foundation/)
 - [University System of Georgia Foundation endowment](/university-system-of-georgia-foundation/)
+- [University of Georgia Foundation endowment](/university-of-georgia-foundation/)
+- [Medical College of Georgia Foundation endowment](/medical-college-of-georgia-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

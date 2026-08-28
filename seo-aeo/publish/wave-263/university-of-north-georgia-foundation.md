@@ -48,5 +48,7 @@ Do not 301 this page onto `/university-system-of-georgia-foundation/`, `/univers
 - [University System of Georgia Foundation endowment](/university-system-of-georgia-foundation/)
 - [University of West Georgia Foundations endowment](/university-of-west-georgia-foundations/)
 - [Kennesaw State University Foundation endowment](/kennesaw-state-university-foundation/)
+- [University of Georgia Foundation endowment](/university-of-georgia-foundation/)
+- [Medical College of Georgia Foundation endowment](/medical-college-of-georgia-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

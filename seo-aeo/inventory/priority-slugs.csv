@@ -1835,6 +1835,26 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,university-of-colorado-foundation-explained,Colorado Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 234 /university-of-colorado-foundation/
 2,institution,buffs,Buffs (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 234 /university-of-colorado-foundation/
 2,institution,colorado,Colorado (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 234 /university-of-colorado-foundation/. Would flatten leftover Colorado College
+235,institution,college-of-western-idaho-foundation,College of Western Idaho Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 235. Official endowment NA $3,961,632 at 30 Jun 2025. Do not invent a percent. Do not mint /cwi/ or /western-idaho/ or /wolves/. /wolves/ remains Western Oregon
+2,institution,college-of-western-idaho-foundation-explained,CWI Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 235 /college-of-western-idaho-foundation/
+2,institution,cwi,CWI (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 235 /college-of-western-idaho-foundation/
+2,institution,western-idaho,Western Idaho (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 235 /college-of-western-idaho-foundation/
+235,institution,cal-state-fullerton-philanthropic-foundation,Cal State Fullerton Philanthropic Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 235. Official endowment NA $158,206,172 at 30 Jun 2025. Do not invent a percent. Do not mint /csuf/ or /fullerton/ or /titans/. /csuf/ remains reserved against leftover Colorado State / leftover CSU Chico
+2,institution,cal-state-fullerton-philanthropic-foundation-explained,Fullerton Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 235 /cal-state-fullerton-philanthropic-foundation/
+2,institution,fullerton,Fullerton (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 235 /cal-state-fullerton-philanthropic-foundation/
+235,institution,university-of-montana-foundation,University of Montana Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 235. Official donor-restricted permanently endowed NA $255,581,865 at 30 Jun 2025. Do not invent leftover 10.3%. Do not mint /umf/ or /montana/ or /griz/. /umf/ remains Mississippi Foundation
+2,institution,university-of-montana-foundation-explained,Montana Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 235 /university-of-montana-foundation/
+2,institution,montana,Montana (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 235 /university-of-montana-foundation/
+2,institution,griz,Griz (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 235 /university-of-montana-foundation/
+235,institution,csusb-philanthropic-foundation,CSUSB Philanthropic Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 235. Official endowment NA $67,877,422 at 30 Jun 2025. Do not invent a percent. Do not mint /csusb/ or /san-bernardino/ or /coyotes/. /san-bernardino/ would flatten leftover SBCERA
+2,institution,csusb-philanthropic-foundation-explained,CSUSB Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 235 /csusb-philanthropic-foundation/
+2,institution,csusb,CSUSB (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 235 /csusb-philanthropic-foundation/
+2,institution,san-bernardino,San Bernardino (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 235 /csusb-philanthropic-foundation/. Would flatten leftover SBCERA
+2,institution,coyotes,Coyotes (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 235 /csusb-philanthropic-foundation/
+235,institution,csu-san-marcos-foundation,CSU San Marcos Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 235. Official endowment NA $45,073,432 at 30 Jun 2025. Do not homemade-sum leftover return lines. Do not mint /csusm/ or /san-marcos/ or /cougars/. /cougars/ remains Charleston
+2,institution,csu-san-marcos-foundation-explained,San Marcos Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 235 /csu-san-marcos-foundation/
+2,institution,csusm,CSUSM (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 235 /csu-san-marcos-foundation/
+2,institution,san-marcos,San Marcos (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 235 /csu-san-marcos-foundation/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

@@ -46,6 +46,6 @@ Do not 301 this page onto `/idaho-state-university-foundation/`, `/montana-state
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Idaho State University Foundation endowment](/idaho-state-university-foundation/)
-- [Oregon State University Foundation endowment](/oregon-state-university-foundation/)
+- [College of Western Idaho Foundation endowment](/college-of-western-idaho-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

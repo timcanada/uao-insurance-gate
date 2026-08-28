@@ -46,6 +46,6 @@ Do not 301 this page onto `/colorado-state-university-foundation/`, `/university
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Colorado State University Foundation endowment](/colorado-state-university-foundation/)
-- [University of Denver endowment](/university-of-denver-endowment/)
+- [CSUSB Philanthropic Foundation endowment](/csusb-philanthropic-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -46,6 +46,6 @@ Do not 301 this page onto `/csu-chico-foundation/`, `/university-of-colorado-fou
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Colorado Foundation endowment](/university-of-colorado-foundation/)
-- [University of Denver endowment](/university-of-denver-endowment/)
+- [Cal State Fullerton Philanthropic Foundation endowment](/cal-state-fullerton-philanthropic-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

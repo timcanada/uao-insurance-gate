@@ -49,5 +49,6 @@ Do not 301 this page onto `/stockton-university-foundation/`, `/mccc/`, `/mercer
 - [Hillsborough Community College Foundation endowment](/hillsborough-community-college-foundation/)
 - [Lane Community College Foundation endowment](/lane-community-college-foundation/)
 - [Ramapo College Foundation endowment](/ramapo-college-foundation/)
+- [Brookdale Community College Foundation endowment](/brookdale-community-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

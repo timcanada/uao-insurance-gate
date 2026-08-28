@@ -47,5 +47,6 @@ Do not 301 this page onto `/university-of-illinois-foundation/`, `/loyola/`, `/l
 - [The endowment model, explained](/endowment-model-explained/)
 - [Saint Louis University endowment](/saint-louis-university-endowment/)
 - [University of St. Thomas endowment](/university-of-st-thomas-endowment/)
+- [Loyola Marymount University endowment](/loyola-marymount-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

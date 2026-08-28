@@ -48,5 +48,6 @@ Do not 301 this page onto `/ramapo-college-foundation/`, `/rider/`, `/broncs/`, 
 - [Ramapo College Foundation endowment](/ramapo-college-foundation/)
 - [Stockton University Foundation endowment](/stockton-university-foundation/)
 - [Monmouth College endowment](/monmouth-college-endowment/)
+- [Brookdale Community College Foundation endowment](/brookdale-community-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

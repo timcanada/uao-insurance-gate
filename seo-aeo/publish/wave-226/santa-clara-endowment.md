@@ -47,5 +47,6 @@ Do not 301 this page onto `/usc-endowment/`, `/george-mason-university-foundatio
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Iowa Center for Advancement endowment](/university-of-iowa-center-for-advancement/)
 - [Washington and Lee University endowment](/washington-and-lee-endowment/)
+- [Loyola Marymount University endowment](/loyola-marymount-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

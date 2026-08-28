@@ -48,5 +48,6 @@ Do not 301 this page onto `/rider-university-endowment/`, `/ramapo/`, `/roadrunn
 - [Rider University endowment](/rider-university-endowment/)
 - [Stockton University Foundation endowment](/stockton-university-foundation/)
 - [Mercer County Community College Foundation endowment](/mercer-county-community-college-foundation/)
+- [Brookdale Community College Foundation endowment](/brookdale-community-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

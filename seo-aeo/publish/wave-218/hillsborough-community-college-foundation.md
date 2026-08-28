@@ -47,5 +47,6 @@ Do not 301 this page onto `/tallahassee-state-college-foundation/`, `/university
 - [Ramapo College Foundation endowment](/ramapo-college-foundation/)
 - [Tallahassee State College Foundation endowment](/tallahassee-state-college-foundation/)
 - [University of Florida Foundation endowment](/university-of-florida-foundation/)
+- [Brookdale Community College Foundation endowment](/brookdale-community-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

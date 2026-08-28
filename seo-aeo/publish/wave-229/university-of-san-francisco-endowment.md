@@ -47,5 +47,6 @@ Do not 301 this page onto `/university-of-san-diego-endowment/`, `/santa-clara-e
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Portland endowment](/university-of-portland-endowment/)
 - [University of Denver endowment](/university-of-denver-endowment/)
+- [Loyola Marymount University endowment](/loyola-marymount-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

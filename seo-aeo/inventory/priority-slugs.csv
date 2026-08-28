@@ -1507,6 +1507,32 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,pinellas-county-education-foundation-explained,Pinellas Education explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 221 /pinellas-county-education-foundation/
 2,institution,pinellas,Pinellas (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 221 /pinellas-county-education-foundation/. Also flattens Wave 178 Pinellas Park
 2,institution,pcef,PCEF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 221 /pinellas-county-education-foundation/
+222,institution,university-of-arkansas-foundation,University of Arkansas Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 222. Official endowment NA excluding contributions receivable $1,770,152,410 at 30 Jun 2025. Printed total investment return $173,529,555. Do not invent a percent. Do not mint /arkansas/ or /uark/ or /uaf/ or /razorbacks/
+2,institution,university-of-arkansas-foundation-explained,Arkansas Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 222 /university-of-arkansas-foundation/
+2,institution,arkansas,Arkansas (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 222 /university-of-arkansas-foundation/. Not leftover Arkansas PERS
+2,institution,uark,UArk (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 222 /university-of-arkansas-foundation/
+2,institution,uaf,UAF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 222 /university-of-arkansas-foundation/
+2,institution,razorbacks,Razorbacks (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 222 /university-of-arkansas-foundation/
+2,institution,arkansas-foundation,Arkansas Foundation (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 222 /university-of-arkansas-foundation/
+222,institution,mississippi-state-university-foundation,Mississippi State University Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 222. Official endowment NA $753,829,617 at 30 Jun 2025. Do not invent a percent. Do not mint /msu/ or /msuf/ or /mississippi-state/ or /hailstate/
+2,institution,mississippi-state-university-foundation-explained,Mississippi State Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 222 /mississippi-state-university-foundation/
+2,institution,mississippi-state,Mississippi State (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 222 /mississippi-state-university-foundation/
+2,institution,hailstate,Hail State (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 222 /mississippi-state-university-foundation/
+2,institution,msu,MSU (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 222 Mississippi State / Missouri State / Montana State foundations
+2,institution,msuf,MSUF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 222 Mississippi State / Missouri State / Montana State foundations
+222,institution,montana-state-university-foundation,Montana State University Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 222. Official endowment NA $319,634,720 at 30 Jun 2025. Do not invent a percent. Do not mint /msu/ or /msuf/ or /montana-state/ or /msuaf/ or /bobcats/
+2,institution,montana-state-university-foundation-explained,Montana State Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 222 /montana-state-university-foundation/
+2,institution,montana-state,Montana State (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 222 /montana-state-university-foundation/
+2,institution,msuaf,MSUAF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 222 /montana-state-university-foundation/
+2,institution,bobcats,Bobcats (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 222 /montana-state-university-foundation/
+222,institution,missouri-state-university-foundation,Missouri State University Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 222. Official total endowment funds $130,180,169 at 30 Jun 2025. Printed total investment return net $13,480,093. Do not invent a percent. Do not mint /msu/ or /msuf/ or /missouri-state/ or /missouristate/
+2,institution,missouri-state-university-foundation-explained,Missouri State Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 222 /missouri-state-university-foundation/
+2,institution,missouri-state,Missouri State (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 222 /missouri-state-university-foundation/
+2,institution,missouristate,Missouristate (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 222 /missouri-state-university-foundation/
+222,institution,hillsborough-education-foundation,Hillsborough Education Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 222. Official endowment NA $2,847,807 at 30 Jun 2025. Do not invent a percent. Do not mint /hillsborough/ or /hef/ or /hillsborough-education/. /hillsborough/ remains Wave 218
+2,institution,hillsborough-education-foundation-explained,Hillsborough Education explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 222 /hillsborough-education-foundation/
+2,institution,hef,HEF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 222 /hillsborough-education-foundation/
+2,institution,hillsborough-education,Hillsborough Education (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 222 /hillsborough-education-foundation/. /hillsborough/ remains Wave 218
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

@@ -44,6 +44,6 @@ Do not 301 this page onto `/claremont-mckenna-endowment/`, `/scripps-endowment/`
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Claremont McKenna College endowment](/claremont-mckenna-endowment/)
-- [Scripps College endowment](/scripps-endowment/)
+- [University of Arkansas Foundation endowment](/university-of-arkansas-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

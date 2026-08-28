@@ -44,6 +44,6 @@ Do not 301 this page onto `/university-of-louisville-foundation/`, `/university-
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Louisville Foundation endowment](/university-of-louisville-foundation/)
-- [University of Kentucky endowment](/university-of-kentucky-endowment/)
+- [Montana State University Foundation endowment](/montana-state-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

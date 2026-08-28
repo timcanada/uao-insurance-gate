@@ -44,6 +44,6 @@ Do not 301 this page onto `/harvey-mudd-endowment/`, `/scripps-endowment/`, `/cm
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Harvey Mudd College endowment](/harvey-mudd-endowment/)
-- [Pomona College endowment](/pomona-endowment/)
+- [Mississippi State University Foundation endowment](/mississippi-state-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

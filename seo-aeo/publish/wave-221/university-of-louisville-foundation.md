@@ -44,6 +44,6 @@ Do not 301 this page onto `/university-of-mississippi-foundation/`, `/university
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Mississippi Foundation endowment](/university-of-mississippi-foundation/)
-- [University of Kentucky Alumni Association endowment](/university-of-kentucky-alumni-endowment/)
+- [Missouri State University Foundation endowment](/missouri-state-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

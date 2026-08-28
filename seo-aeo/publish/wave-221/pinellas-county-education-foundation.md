@@ -17,7 +17,7 @@ editor_status: draft
 
 The Pinellas County Education Foundation endowment is the Foundation’s long-horizon book, not leftover Harvard **$56.9 billion**, leftover Chipola College Foundation expendable **$14,169,547**. The official [30 June 2025 financial statements](https://flauditor.gov/pages/nonprofit_forprofit%20rpts/2025%20pinellas%20county%20education%20foundation.pdf) print endowment net assets of **$4,632,627** at **30 June 2025**. Investment income, including accumulated net appreciation, was **$459,850**. This PDF does not print a one-year percent. Do not invent one. Amounts appropriated for expenditure were **$136,105**. Original gift **$3,851,200** is a leftover sleeve. This page is not leftover Chipola College Foundation. This page is not leftover Pinellas Park Police, Fire, or Employees. This page is not leftover Hillsborough Community College Foundation. This page is not a ranking and not advice.
 
-**Do not treat this page as a leftover Harvard overwrite or a leftover Chipola overwrite.** Do not mint `/pinellas-county-education-foundation-explained/`. **Never mint `/pinellas/`, `/pcef/`, or `/pinellas-park/`.** CBIZ CPAs P.C., St. Petersburg, Florida, issued an unmodified opinion dated **17 December 2025**. Independently re-GET this wake (GET **200** `application/pdf` **622,680** bytes). House listing: [Florida Auditor General](https://flauditor.gov/pages/nonprofit_forprofit%20pages/pinellas%20county%20education%20foundation.htm). Not leftover Chipola College Foundation. Not leftover Gulf Coast State College Foundation. Not leftover Hillsborough Education Foundation.
+**Do not treat this page as a leftover Harvard overwrite or a leftover Chipola overwrite.** Do not mint `/pinellas-county-education-foundation-explained/`. **Never mint `/pinellas/`, `/pcef/`, or `/pinellas-park/`.** CBIZ CPAs P.C., St. Petersburg, Florida, issued an unmodified opinion dated **17 December 2025**. Independently re-GET this wake (GET **200** `application/pdf` **622,680** bytes). House listing: [Florida Auditor General](https://flauditor.gov/pages/nonprofit_forprofit%20pages/pinellas%20county%20education%20foundation.htm). Not leftover Chipola College Foundation. Not leftover Gulf Coast State College Foundation. Not leftover [Hillsborough Education Foundation endowment](/hillsborough-education-foundation/).
 
 ## What is official (30 June 2025)
 
@@ -25,7 +25,7 @@ The Pinellas County Education Foundation endowment is the Foundation’s long-ho
 2. **Named books are not interchangeable.** Investment income, including accumulated net appreciation **$459,850**. This PDF does not print a one-year percent. Do not invent one. Do not flatten leftover entity-wide investment return, net **$2,671,742**, leftover Chipola income **$573,738** / gains **$1,358,118**, or leftover Hillsborough Education Foundation **$319,728** onto **$4,632,627**.
 3. **Payout.** Amounts appropriated for expenditure **$136,105**. CBIZ CPAs P.C., St. Petersburg, **17 December 2025**.
 
-Do not flatten the Pinellas County Education Foundation into leftover [Chipola College Foundation endowment](/chipola-college-foundation/), leftover [Gulf Coast State College Foundation endowment](/gulf-coast-state-college-foundation/), leftover [Hillsborough Community College Foundation endowment](/hillsborough-community-college-foundation/), leftover Pinellas Park Police / Fire / Employees, leftover Hillsborough Education Foundation, or leftover [largest university endowments](/largest-university-endowments-2026/). This is **one Pinellas County Education Foundation file**.
+Do not flatten the Pinellas County Education Foundation into leftover [Chipola College Foundation endowment](/chipola-college-foundation/), leftover [Gulf Coast State College Foundation endowment](/gulf-coast-state-college-foundation/), leftover [Hillsborough Community College Foundation endowment](/hillsborough-community-college-foundation/), leftover Pinellas Park Police / Fire / Employees, leftover [Hillsborough Education Foundation endowment](/hillsborough-education-foundation/), or leftover [largest university endowments](/largest-university-endowments-2026/). This is **one Pinellas County Education Foundation file**.
 
 ## What an owner is actually buying
 
@@ -44,6 +44,6 @@ Do not 301 this page onto `/chipola-college-foundation/`, `/gulf-coast-state-col
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Chipola College Foundation endowment](/chipola-college-foundation/)
-- [Gulf Coast State College Foundation endowment](/gulf-coast-state-college-foundation/)
+- [Hillsborough Education Foundation endowment](/hillsborough-education-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

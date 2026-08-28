@@ -46,5 +46,7 @@ Do not 301 this page onto `/xavier-university-endowment/`, `/university-of-nebra
 - [Spelman College endowment](/spelman-endowment/)
 - [Xavier University endowment](/xavier-university-endowment/)
 - [Wright State University Foundation endowment](/wright-state-university-foundation/)
+- [Baldwin Wallace University endowment](/baldwin-wallace-university-endowment/)
+- [Heidelberg University endowment](/heidelberg-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -47,5 +47,6 @@ Do not 301 this page onto `/university-of-washington-endowment/`, `/whitman-endo
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Portland endowment](/university-of-portland-endowment/)
 - [Creighton University endowment](/creighton-endowment/)
+- [Linfield University endowment](/linfield-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

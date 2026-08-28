@@ -45,5 +45,6 @@ Do not 301 this page onto `/lewis-clark-endowment/`, `/reed-endowment/`, `/puget
 - [The endowment model, explained](/endowment-model-explained/)
 - [Lewis & Clark College endowment](/lewis-clark-endowment/)
 - [Embry-Riddle Aeronautical University endowment](/embry-riddle-endowment/)
+- [Whitworth University endowment](/whitworth-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

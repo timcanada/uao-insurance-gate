@@ -47,5 +47,6 @@ Do not 301 this page onto `/reed-endowment/`, `/occidental-endowment/`, `/whitma
 - [The endowment model, explained](/endowment-model-explained/)
 - [Reed College endowment](/reed-endowment/)
 - [Lewis & Clark College endowment](/lewis-clark-endowment/)
+- [Whitworth University endowment](/whitworth-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

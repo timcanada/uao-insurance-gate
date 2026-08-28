@@ -45,5 +45,6 @@ Do not 301 this page onto `/whitman-endowment/`, `/reed-endowment/`, `/lclark/`,
 - [The endowment model, explained](/endowment-model-explained/)
 - [Whitman College endowment](/whitman-endowment/)
 - [University of Puget Sound endowment](/puget-sound-endowment/)
+- [Linfield University endowment](/linfield-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

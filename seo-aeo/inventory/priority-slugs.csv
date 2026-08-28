@@ -1983,6 +1983,28 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,ferris,Ferris (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 241 /ferris-foundation/
 2,institution,fsu,FSU (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 241 /ferris-foundation/. Remains reserved against leftover Florida State
 2,institution,bulldogs,Bulldogs (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 241 /ferris-foundation/
+242,institution,whitworth-university-endowment,Whitworth University endowment,allocator,brief,P0,drafted-in-repo,Wave 242. Official endowment NA $215,251 thousand at 30 Jun 2025. Printed Total investment return $19,487 thousand. Do not homemade-sum leftover named return lines. Do not invent leftover 6% to 9%. Do not mint /whitworth/ or /pirates/. Never mint /wsu/. Not leftover Whitman. Not leftover University of Puget Sound
+2,institution,whitworth-university-endowment-explained,Whitworth endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 242 /whitworth-university-endowment/
+2,institution,whitworth,Whitworth (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 242 /whitworth-university-endowment/
+2,institution,pirates,Pirates (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 242 /whitworth-university-endowment/
+242,institution,baldwin-wallace-university-endowment,Baldwin Wallace University endowment,allocator,brief,P0,drafted-in-repo,Wave 242. Official endowment NA $184,857,814 at 30 Jun 2025. Printed Investment income and gains $14,754,380. Do not invent leftover 5%. Do not mint /baldwin-wallace/ or /baldwin/ or /bw/ or /yellow-jackets/. Not leftover Dayton. Not leftover Xavier
+2,institution,baldwin-wallace-university-endowment-explained,Baldwin Wallace endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 242 /baldwin-wallace-university-endowment/
+2,institution,baldwin-wallace,Baldwin Wallace (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 242 /baldwin-wallace-university-endowment/
+2,institution,baldwin,Baldwin (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 242 /baldwin-wallace-university-endowment/
+2,institution,bw,BW (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 242 /baldwin-wallace-university-endowment/
+2,institution,yellow-jackets,Yellow Jackets (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 242 /baldwin-wallace-university-endowment/
+242,institution,linfield-university-endowment,Linfield University endowment,allocator,brief,P0,drafted-in-repo,Wave 242. Official endowment NA $128,308,313 at 30 Jun 2025. Printed Total investment return $14,387,949. Do not homemade-sum leftover named return lines. Do not invent leftover 4.5%. Do not mint /linfield/ or /lu/. Never mint /wildcats/. Not leftover Willamette. Not leftover University of Portland
+2,institution,linfield-university-endowment-explained,Linfield endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 242 /linfield-university-endowment/
+2,institution,linfield,Linfield (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 242 /linfield-university-endowment/
+2,institution,lu,LU (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 242 /linfield-university-endowment/. Would flatten leftover Liberty / leftover Lehigh
+242,institution,heidelberg-university-endowment,Heidelberg University endowment,allocator,brief,P0,drafted-in-repo,Wave 242. Official endowment NA $78,103,625 at 30 Jun 2025. Printed Investment return $7,863,565. Do not invent leftover 5.0%. Do not mint /heidelberg/ or /hu/ or /student-princes/. Not leftover Heidelberg Germany. Not leftover Howard
+2,institution,heidelberg-university-endowment-explained,Heidelberg endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 242 /heidelberg-university-endowment/
+2,institution,heidelberg,Heidelberg (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 242 /heidelberg-university-endowment/. Not leftover Heidelberg Germany
+2,institution,hu,HU (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 242 /heidelberg-university-endowment/. Would flatten leftover Howard
+2,institution,student-princes,Student Princes (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 242 /heidelberg-university-endowment/
+242,institution,goucher-college-endowment,Goucher College endowment,allocator,brief,P0,drafted-in-repo,Wave 242. Official endowment NA $300,094 thousand at 30 Jun 2025. Printed Investment return, net $29,991 thousand. Do not flatten leftover entity-wide Total investment return, net $31,348 thousand. Do not invent leftover 5% plus CPI. Do not mint /goucher/. Never mint /gophers/. /gophers/ remains reserved against leftover University of Minnesota Foundation
+2,institution,goucher-college-endowment-explained,Goucher endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 242 /goucher-college-endowment/
+2,institution,goucher,Goucher (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 242 /goucher-college-endowment/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

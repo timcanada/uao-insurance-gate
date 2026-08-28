@@ -47,5 +47,6 @@ Do not 301 this page onto `/university-of-washington-endowment/`, `/willamette-e
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of San Francisco endowment](/university-of-san-francisco-endowment/)
 - [Seattle University endowment](/seattle-university-endowment/)
+- [Linfield University endowment](/linfield-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

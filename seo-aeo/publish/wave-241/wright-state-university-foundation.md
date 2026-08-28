@@ -47,5 +47,7 @@ Do not 301 this page onto `/university-of-dayton-endowment/`, `/xavier-universit
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Dayton endowment](/university-of-dayton-endowment/)
 - [Xavier University endowment](/xavier-university-endowment/)
+- [Baldwin Wallace University endowment](/baldwin-wallace-university-endowment/)
+- [Heidelberg University endowment](/heidelberg-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

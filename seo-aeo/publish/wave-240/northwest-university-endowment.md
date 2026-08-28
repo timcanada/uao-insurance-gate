@@ -47,5 +47,6 @@ Do not 301 this page onto `/seattle-university-endowment/`, `/pacific-lutheran-e
 - [The endowment model, explained](/endowment-model-explained/)
 - [Seattle University endowment](/seattle-university-endowment/)
 - [Pacific Lutheran University endowment](/pacific-lutheran-endowment/)
+- [Whitworth University endowment](/whitworth-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

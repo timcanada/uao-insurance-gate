@@ -44,6 +44,6 @@ Do not 301 this page onto `/bentley-endowment/`, `/rit-endowment/`, `/stevens/`,
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Bentley University endowment](/bentley-endowment/)
-- [Rochester Institute of Technology endowment](/rit-endowment/)
+- [Florida Institute of Technology endowment](/florida-tech-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

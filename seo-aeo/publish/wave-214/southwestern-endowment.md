@@ -44,6 +44,6 @@ Do not 301 this page onto `/elon-endowment/`, `/furman-endowment/`, `/southweste
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Elon University endowment](/elon-endowment/)
-- [Furman University endowment](/furman-endowment/)
+- [Barry University endowment](/barry-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

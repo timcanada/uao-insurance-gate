@@ -44,6 +44,6 @@ Do not 301 this page onto `/stetson-endowment/`, `/elon-endowment/`, `/erau/`, `
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Puget Sound endowment](/puget-sound-endowment/)
-- [Stetson University endowment](/stetson-endowment/)
+- [Nova Southeastern University endowment](/nova-southeastern-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -44,6 +44,6 @@ Do not 301 this page onto `/rit-endowment/`, `/union-college-endowment/`, `/mari
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Rochester Institute of Technology endowment](/rit-endowment/)
-- [Union College endowment](/union-college-endowment/)
+- [Lawrence University endowment](/lawrence-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

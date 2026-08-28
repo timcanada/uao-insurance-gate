@@ -44,6 +44,6 @@ Do not 301 this page onto `/hope-college-endowment/`, `/denison-university-endow
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Denison University endowment](/denison-university-endowment/)
-- [Hope College endowment](/hope-college-endowment/)
+- [Lynn University endowment](/lynn-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

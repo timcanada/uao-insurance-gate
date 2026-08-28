@@ -1365,6 +1365,25 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,embry-riddle-endowment-explained,Embry-Riddle endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 214 /embry-riddle-endowment/
 2,institution,embry-riddle,Embry-Riddle (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 214 /embry-riddle-endowment/
 2,institution,erau,ERAU (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 214 /embry-riddle-endowment/
+215,institution,florida-tech-endowment,Florida Institute of Technology endowment,allocator,brief,P0,drafted-in-repo,Wave 215. Official endowment net assets $112,847,567 at 30 Jun 2025. Do not homemade-sum return lines. Do not invent a percent. Do not mint /florida-tech/ or /fit/
+2,institution,florida-tech-endowment-explained,Florida Tech endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 215 /florida-tech-endowment/
+2,institution,florida-tech,Florida Tech (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 215 /florida-tech-endowment/
+2,institution,fit,FIT (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 215 /florida-tech-endowment/
+215,institution,lawrence-university-endowment,Lawrence University endowment,allocator,brief,P0,drafted-in-repo,Wave 215. Official endowment net assets $474,759,003 at 30 Jun 2025. Do not invent a percent. Do not mint /lawrence/ or /lawrence-endowment/. Not leftover Lawrence Livermore
+2,institution,lawrence-university-endowment-explained,Lawrence University endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 215 /lawrence-university-endowment/
+2,institution,lawrence,Lawrence (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 215 /lawrence-university-endowment/
+2,institution,lawrence-endowment,Lawrence endowment (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 215 /lawrence-university-endowment/
+215,institution,barry-endowment,Barry University endowment,allocator,brief,P0,drafted-in-repo,Wave 215. Official endowment net assets $62,712,126 at 30 Jun 2025. Do not invent a percent. Do not mint /barry/
+2,institution,barry-endowment-explained,Barry endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 215 /barry-endowment/
+2,institution,barry,Barry (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 215 /barry-endowment/
+215,institution,lynn-endowment,Lynn University endowment,allocator,brief,P0,drafted-in-repo,Wave 215. Official endowment net assets $45,655,963 at 30 Jun 2025 excluding pledges $2,682,113. Do not invent a percent. Do not mint /lynn/
+2,institution,lynn-endowment-explained,Lynn endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 215 /lynn-endowment/
+2,institution,lynn,Lynn (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 215 /lynn-endowment/
+215,institution,nova-southeastern-endowment,Nova Southeastern University endowment,allocator,brief,P0,drafted-in-repo,Wave 215. Official endowment net assets $276,974 thousand at 30 Jun 2025 including pledges $27.5 million. Do not invent a percent. Do not mint /nova/ or /nsu/. Not leftover University of Miami
+2,institution,nova-southeastern-endowment-explained,Nova Southeastern endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 215 /nova-southeastern-endowment/
+2,institution,nova-southeastern,Nova Southeastern (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 215 /nova-southeastern-endowment/
+2,institution,nova,Nova (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 215 /nova-southeastern-endowment/
+2,institution,nsu,NSU (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 215 /nova-southeastern-endowment/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

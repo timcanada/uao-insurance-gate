@@ -46,6 +46,6 @@ Do not 301 this page onto `/oberlin-endowment/`, `/grinnell-endowment/`, `/color
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Oberlin College endowment](/oberlin-endowment/)
-- [Grinnell College endowment](/grinnell-endowment/)
+- [Occidental College endowment](/occidental-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

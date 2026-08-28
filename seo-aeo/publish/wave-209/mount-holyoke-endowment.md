@@ -46,6 +46,6 @@ Do not 301 this page onto `/smith-college-endowment/`, `/wellesley-endowment/`, 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Smith College endowment](/smith-college-endowment/)
-- [Wellesley College endowment](/wellesley-endowment/)
+- [Reed College endowment](/reed-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

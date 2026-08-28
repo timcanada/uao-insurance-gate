@@ -46,6 +46,6 @@ Do not 301 this page onto `/haverford-endowment/`, `/swarthmore-endowment/`, `/b
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Haverford College endowment](/haverford-endowment/)
-- [Swarthmore College endowment](/swarthmore-endowment/)
+- [Dickinson College endowment](/dickinson-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

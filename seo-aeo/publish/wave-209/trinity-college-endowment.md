@@ -44,6 +44,6 @@ Do not 301 this page onto `/wesleyan-endowment/`, `/lafayette-endowment/`, `/tri
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Wesleyan University endowment](/wesleyan-endowment/)
-- [Lafayette College endowment](/lafayette-endowment/)
+- [Connecticut College endowment](/connecticut-college-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -1277,6 +1277,25 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 209,institution,colorado-college-endowment,Colorado College endowment,allocator,brief,P0,drafted-in-repo,Wave 209. Official total endowment funds $1,064,108 thousand at 30 Jun 2025. Endowment portfolio 11.3% is the house pool print. Do not mint /colorado-college/
 2,institution,colorado-college-endowment-explained,Colorado College endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 209 /colorado-college-endowment/
 2,institution,colorado-college,Colorado College (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 209 /colorado-college-endowment/
+210,institution,occidental-endowment,Occidental College endowment,allocator,brief,P0,drafted-in-repo,Wave 210. Official endowment net assets $698,372,195 at 30 Jun 2025. Do not invent a percent. Do not mint /occidental/ or /oxy/
+2,institution,occidental-endowment-explained,Occidental endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 210 /occidental-endowment/
+2,institution,occidental,Occidental (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 210 /occidental-endowment/
+2,institution,oxy,Oxy (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 210 /occidental-endowment/
+210,institution,connecticut-college-endowment,Connecticut College endowment,allocator,brief,P0,drafted-in-repo,Wave 210. Official pooled endowment funds $510,862 thousand at 30 Jun 2025. Do not invent a percent. Do not mint /connecticut-college/ or /conncoll/ or /cc/
+2,institution,connecticut-college-endowment-explained,Connecticut College endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 210 /connecticut-college-endowment/
+2,institution,connecticut-college,Connecticut College (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 210 /connecticut-college-endowment/
+2,institution,conncoll,ConnColl (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 210 /connecticut-college-endowment/
+2,institution,cc,CC (short),allocator,brief,P0,do-not-mint,Do not mint. Generic twin. Do not mint for Connecticut College or Colorado College.
+210,institution,dickinson-endowment,Dickinson College endowment,allocator,brief,P0,drafted-in-repo,Wave 210. Official endowment net assets $704,575,030 at 30 Jun 2025. Not leftover Pennsylvania SERS. Do not mint /dickinson/
+2,institution,dickinson-endowment-explained,Dickinson endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 210 /dickinson-endowment/
+2,institution,dickinson,Dickinson (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 210 /dickinson-endowment/
+210,institution,union-college-endowment,Union College endowment,allocator,brief,P0,drafted-in-repo,Wave 210. Official total endowment and similar $605,212,062 at 30 Jun 2025. Pooled house print 10.2%. Do not mint /union/ or /union-college/
+2,institution,union-college-endowment-explained,Union College endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 210 /union-college-endowment/
+2,institution,union-college,Union College (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 210 /union-college-endowment/
+2,institution,union,Union (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 210 /union-college-endowment/
+210,institution,reed-endowment,Reed College endowment,allocator,brief,P0,drafted-in-repo,Wave 210. Official endowment net assets $863,946,426 at 30 Jun 2025. Do not invent a percent. Do not mint /reed/
+2,institution,reed-endowment-explained,Reed endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 210 /reed-endowment/
+2,institution,reed,Reed (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 210 /reed-endowment/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

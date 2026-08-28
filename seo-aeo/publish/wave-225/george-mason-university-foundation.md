@@ -45,5 +45,6 @@ Do not 301 this page onto `/university-of-virginia-endowment/`, `/medical-colleg
 - [The endowment model, explained](/endowment-model-explained/)
 - [Santa Clara University endowment](/santa-clara-endowment/)
 - [Medical College of Virginia Foundation endowment](/medical-college-of-virginia-foundation/)
+- [VCU Foundation endowment](/vcu-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

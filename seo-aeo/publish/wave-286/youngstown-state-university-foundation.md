@@ -50,5 +50,6 @@ Do not 301 this page onto `/wright-state-university-foundation/`, `/university-o
 - [Capital University endowment](/capital-university-endowment/)
 - [Ohio State endowment](/ohio-state-endowment/)
 - [Xavier University endowment](/xavier-university-endowment/)
+- [Cleveland State University Foundation endowment](/cleveland-state-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

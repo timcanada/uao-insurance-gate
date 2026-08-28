@@ -49,6 +49,7 @@ Do not 301 this page onto `/unc-greensboro-endowment/`, `/montclair-state-univer
 - [Montclair State University Foundation endowment](/montclair-state-university-foundation/)
 - [University of Richmond endowment](/university-of-richmond-endowment/)
 - [Medical College of Virginia Foundation endowment](/medical-college-of-virginia-foundation/)
+- [VCU Foundation endowment](/vcu-foundation/)
 - [North Carolina Veterinary Medical Foundation endowment](/north-carolina-veterinary-medical-foundation/)
 - [Wake Tech Foundation endowment](/wake-tech-foundation/)
 - [Advertise](/advertise/)

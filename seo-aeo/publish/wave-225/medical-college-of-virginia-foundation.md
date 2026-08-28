@@ -45,5 +45,8 @@ Do not 301 this page onto `/university-of-virginia-endowment/`, `/george-mason-u
 - [The endowment model, explained](/endowment-model-explained/)
 - [College of Charleston Foundation endowment](/college-of-charleston-foundation/)
 - [George Mason University Foundation endowment](/george-mason-university-foundation/)
+- [VCU Foundation endowment](/vcu-foundation/)
+- [VCU College of Engineering Foundation endowment](/vcu-college-of-engineering-foundation/)
+- [VCU School of Business Foundation endowment](/vcu-school-of-business-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

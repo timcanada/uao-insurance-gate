@@ -1764,6 +1764,28 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,kennesaw-state-university-foundation-explained,Kennesaw Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 231 /kennesaw-state-university-foundation/
 2,institution,kennesaw,Kennesaw (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 231 /kennesaw-state-university-foundation/
 2,institution,owls,Owls (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 231 /kennesaw-state-university-foundation/
+232,institution,university-of-alaska-foundation,University of Alaska Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 232. Official endowment NA $345,219,136 at 30 Jun 2025. Do not invent leftover 4% or leftover 2%. Do not mint /alaska/. /ua/ remains Alabama. /uaf/ remains Arkansas Foundation
+2,institution,university-of-alaska-foundation-explained,Alaska Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 232 /university-of-alaska-foundation/
+2,institution,alaska,Alaska (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 232 /university-of-alaska-foundation/. Would flatten leftover Alaska Permanent Fund
+232,institution,csu-chico-foundation,CSU Chico Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 232. Official endowment NA $113,829,767 at 30 Jun 2025. Do not invent leftover 4%. Do not mint /chico/ or /csuc/ or /wildcats/. Not leftover CSU system UG / leftover Chico municipal
+2,institution,csu-chico-foundation-explained,CSU Chico Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 232 /csu-chico-foundation/
+2,institution,chico,Chico (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 232 /csu-chico-foundation/. Would flatten leftover Chico municipal / leftover CSU system
+2,institution,csuc,CSUC (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 232 /csu-chico-foundation/
+2,institution,wildcats,Wildcats (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 232 /csu-chico-foundation/
+232,institution,towson-university-foundation,Towson University Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 232. Official endowment NA $102,507,172 at 30 Jun 2025. Do not invent leftover 7%. Do not mint /towson/ or /tuf/ or /tufi/. /tigers/ remains reserved
+2,institution,towson-university-foundation-explained,Towson Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 232 /towson-university-foundation/
+2,institution,towson,Towson (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 232 /towson-university-foundation/
+2,institution,tuf,TUF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 232 /towson-university-foundation/
+2,institution,tufi,TUFI (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 232 /towson-university-foundation/
+232,institution,eastern-washington-university-foundation,Eastern Washington University Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 232. Official endowment NA $44,172,986 at 30 Jun 2025. Do not invent leftover 6% or leftover 4% or leftover 2%. Do not mint /ewu/ or /eastern/. /eagles/ remains American / Boston College. /uw/ remains Washington
+2,institution,eastern-washington-university-foundation-explained,EWU Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 232 /eastern-washington-university-foundation/
+2,institution,ewu,EWU (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 232 /eastern-washington-university-foundation/
+2,institution,eastern,Eastern (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 232 /eastern-washington-university-foundation/
+232,institution,western-oregon-university-foundation,Western Oregon University Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 232. Official donor-restricted endowment NA $19,897,670 at 30 Jun 2025. Do not homemade-sum leftover return lines. Do not mint /wou/ or /western-oregon/ or /wolves/
+2,institution,western-oregon-university-foundation-explained,WOU Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 232 /western-oregon-university-foundation/
+2,institution,wou,WOU (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 232 /western-oregon-university-foundation/
+2,institution,western-oregon,Western Oregon (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 232 /western-oregon-university-foundation/
+2,institution,wolves,Wolves (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 232 /western-oregon-university-foundation/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

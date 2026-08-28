@@ -46,6 +46,6 @@ Do not 301 this page onto `/pacific-lutheran-endowment/`, `/santa-clara-endowmen
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Santa Clara University endowment](/santa-clara-endowment/)
-- [Pacific Lutheran University endowment](/pacific-lutheran-endowment/)
+- [CSU Chico Foundation endowment](/csu-chico-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

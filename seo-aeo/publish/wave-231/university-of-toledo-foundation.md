@@ -45,7 +45,7 @@ Do not 301 this page onto `/xavier-university-endowment/`, `/university-of-dayto
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
-- [Xavier University endowment](/xavier-university-endowment/)
+- [Towson University Foundation endowment](/towson-university-foundation/)
 - [University of Detroit Mercy endowment](/detroit-mercy-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

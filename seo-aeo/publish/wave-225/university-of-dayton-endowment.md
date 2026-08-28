@@ -45,5 +45,6 @@ Do not 301 this page onto `/xavier-university-endowment/`, `/university-of-nebra
 - [The endowment model, explained](/endowment-model-explained/)
 - [Spelman College endowment](/spelman-endowment/)
 - [Xavier University endowment](/xavier-university-endowment/)
+- [Wright State University Foundation endowment](/wright-state-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -47,5 +47,6 @@ Do not 301 this page onto `/university-of-washington-endowment/`, `/siu-foundati
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Washington endowment](/university-of-washington-endowment/)
 - [Eastern Illinois University Foundation endowment](/eastern-illinois-university-foundation/)
+- [Central Washington University Foundation endowment](/central-washington-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

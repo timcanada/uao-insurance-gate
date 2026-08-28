@@ -47,5 +47,6 @@ Do not 301 this page onto `/university-of-washington-endowment/`, `/washington-c
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Washington endowment](/university-of-washington-endowment/)
 - [Washington College endowment](/washington-college-endowment/)
+- [Central Washington University Foundation endowment](/central-washington-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

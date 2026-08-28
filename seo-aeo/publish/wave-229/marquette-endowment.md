@@ -47,5 +47,6 @@ Do not 301 this page onto `/loyola-university-chicago-endowment/`, `/university-
 - [The endowment model, explained](/endowment-model-explained/)
 - [Loyola University Chicago endowment](/loyola-university-chicago-endowment/)
 - [University of Detroit Mercy endowment](/detroit-mercy-endowment/)
+- [Northern Michigan University Foundation endowment](/northern-michigan-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

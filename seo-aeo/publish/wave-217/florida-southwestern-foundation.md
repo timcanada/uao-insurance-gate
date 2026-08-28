@@ -44,6 +44,6 @@ Do not 301 this page onto `/southwestern-endowment/`, `/ringling-endowment/`, `/
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Ringling College of Art and Design endowment](/ringling-endowment/)
-- [Barry University endowment](/barry-endowment/)
+- [Florida Keys Educational Foundation endowment](/florida-keys-educational-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

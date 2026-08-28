@@ -1423,6 +1423,28 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,eastern-florida-foundation-explained,Eastern Florida Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 217 /eastern-florida-foundation/
 2,institution,efsc,EFSC (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 217 /eastern-florida-foundation/
 2,institution,eastern-florida,Eastern Florida (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 217 /eastern-florida-foundation/
+218,institution,hillsborough-community-college-foundation,Hillsborough Community College Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 218. Official endowment fund balance $13,909,054 at 30 Jun 2025. Do not homemade-sum return lines. Do not invent a percent. Do not mint /hcc/ or /hillsborough/
+2,institution,hillsborough-community-college-foundation-explained,Hillsborough Community College Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 218 /hillsborough-community-college-foundation/
+2,institution,hcc,HCC (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 218 /hillsborough-community-college-foundation/
+2,institution,hillsborough,Hillsborough (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 218 /hillsborough-community-college-foundation/
+218,institution,north-florida-college-foundation,North Florida College Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 218. Official endowment $4,573,343 at 31 Mar 2025. Do not homemade-sum return lines. Do not invent a percent. Do not mint /nfc/. Not leftover UNF
+2,institution,north-florida-college-foundation-explained,North Florida College Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 218 /north-florida-college-foundation/
+2,institution,nfc,NFC (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 218 /north-florida-college-foundation/
+218,institution,tallahassee-state-college-foundation,Tallahassee State College Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 218. Official endowment net assets $20,876,283 at 31 Mar 2025. Do not invent a percent. Do not mint /tsc/ /tallahassee/ or /tcc/
+2,institution,tallahassee-state-college-foundation-explained,Tallahassee State College Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 218 /tallahassee-state-college-foundation/
+2,institution,tsc,TSC (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 218 /tallahassee-state-college-foundation/
+2,institution,tallahassee,Tallahassee (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 218 /tallahassee-state-college-foundation/
+2,institution,tcc,TCC (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 218 /tallahassee-state-college-foundation/
+218,institution,gulf-coast-state-college-foundation,Gulf Coast State College Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 218. Official endowment net assets $14,485,593 at 30 Jun 2025. Do not invent a percent. Do not mint /gulf-coast/ /gcsc/ or /gcscf/
+2,institution,gulf-coast-state-college-foundation-explained,Gulf Coast State College Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 218 /gulf-coast-state-college-foundation/
+2,institution,gulf-coast,Gulf Coast (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 218 /gulf-coast-state-college-foundation/
+2,institution,gcsc,GCSC (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 218 /gulf-coast-state-college-foundation/
+2,institution,gcscf,GCSCF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 218 /gulf-coast-state-college-foundation/
+218,institution,florida-keys-educational-foundation,Florida Keys Educational Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 218. Official endowment net assets $8,874,267 at 31 Mar 2025. Do not invent a percent. Do not mint /cfk/ /florida-keys/ or /keys/. Not leftover University of Miami
+2,institution,florida-keys-educational-foundation-explained,Florida Keys Educational Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 218 /florida-keys-educational-foundation/
+2,institution,cfk,CFK (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 218 /florida-keys-educational-foundation/
+2,institution,florida-keys,Florida Keys (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 218 /florida-keys-educational-foundation/
+2,institution,keys,Keys (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 218 /florida-keys-educational-foundation/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

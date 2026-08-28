@@ -43,7 +43,7 @@ Do not 301 this page onto `/florida-college-endowment/`, `/famu-foundation-endow
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
-- [FAMU Foundation endowment](/famu-foundation-endowment/)
+- [Gulf Coast State College Foundation endowment](/gulf-coast-state-college-foundation/)
 - [Florida Institute of Technology endowment](/florida-tech-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

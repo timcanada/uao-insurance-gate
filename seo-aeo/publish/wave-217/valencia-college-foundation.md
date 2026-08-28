@@ -44,6 +44,6 @@ Do not 301 this page onto `/miami-dade-college-foundation/`, `/florida-college-e
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Miami Dade College Foundation endowment](/miami-dade-college-foundation/)
-- [Lynn University endowment](/lynn-endowment/)
+- [North Florida College Foundation endowment](/north-florida-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

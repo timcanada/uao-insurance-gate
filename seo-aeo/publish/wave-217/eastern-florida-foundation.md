@@ -44,6 +44,6 @@ Do not 301 this page onto `/west-florida-foundation-endowment/`, `/florida-colle
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of West Florida Foundation endowment](/west-florida-foundation-endowment/)
-- [FAMU Foundation endowment](/famu-foundation-endowment/)
+- [Tallahassee State College Foundation endowment](/tallahassee-state-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

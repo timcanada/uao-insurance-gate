@@ -43,7 +43,7 @@ Do not 301 this page onto `/florida-tech-endowment/`, `/warner-university-endowm
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
-- [Warner University endowment](/warner-university-endowment/)
+- [Hillsborough Community College Foundation endowment](/hillsborough-community-college-foundation/)
 - [Florida Institute of Technology endowment](/florida-tech-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

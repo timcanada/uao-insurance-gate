@@ -1920,6 +1920,27 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,luther-college-endowment-explained,Luther College endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 238 /luther-college-endowment/
 2,institution,luther,Luther (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 238 /luther-college-endowment/. Would flatten leftover Pacific Lutheran / leftover Martin Luther College / leftover California Lutheran
 2,institution,norse,Norse (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 238 /luther-college-endowment/
+239,institution,grand-view-university-endowment,Grand View University endowment,allocator,brief,P0,drafted-in-repo,Wave 239. Official total endowment funds $39,980,597 at 30 Jun 2025. Printed Total investment return $3,290,170. Do not homemade-sum leftover return lines. Do not invent leftover 5.00 percent. Do not mint /grand-view/ or /gvu/. Never mint /vikings/
+2,institution,grand-view-university-endowment-explained,Grand View University endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 239 /grand-view-university-endowment/
+2,institution,grand-view,Grand View (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 239 /grand-view-university-endowment/
+2,institution,gvu,GVU (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 239 /grand-view-university-endowment/
+2,institution,vikings,Vikings (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 239 /grand-view-university-endowment/. Would flatten leftover Portland State / leftover Cleveland State
+239,institution,concordia-university-st-paul-endowment,Concordia University St. Paul endowment,allocator,brief,P0,drafted-in-repo,Wave 239. Official total endowment funds $60,534,050 at 30 Jun 2025. Printed Total Earnings $6,282,408. Do not homemade-sum leftover earnings lines. Do not invent leftover 4 percent. Do not mint /csp/ or /concordia/
+2,institution,concordia-university-st-paul-endowment-explained,Concordia University St. Paul endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 239 /concordia-university-st-paul-endowment/
+2,institution,csp,CSP (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 239 /concordia-university-st-paul-endowment/
+2,institution,concordia,Concordia (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 239 /concordia-university-st-paul-endowment/. Would flatten leftover Concordia Wisconsin / leftover Concordia Nebraska / leftover Concordia Chicago / leftover Concordia Texas
+239,institution,ohio-wesleyan-endowment,Ohio Wesleyan University endowment,allocator,brief,P0,drafted-in-repo,Wave 239. Official endowment assets $325,330,091 at 30 Jun 2025. Printed Total investment return $32,012,874. Do not homemade-sum leftover return lines. Do not invent leftover CPI-U plus 4 percent. Do not mint /owu/ or /ohio-wesleyan/. Never mint /wesleyan/
+2,institution,ohio-wesleyan-endowment-explained,Ohio Wesleyan endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 239 /ohio-wesleyan-endowment/
+2,institution,owu,OWU (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 239 /ohio-wesleyan-endowment/
+2,institution,ohio-wesleyan,Ohio Wesleyan (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 239 /ohio-wesleyan-endowment/
+239,institution,hampshire-college-endowment,Hampshire College endowment,allocator,brief,P0,drafted-in-repo,Wave 239. Official endowment funds $24,038,015 at 30 Jun 2025. Printed Investment Return $2,575,901. Do not invent a percent. Do not mint /hampshire/. Not leftover New Hampshire Retirement System
+2,institution,hampshire-college-endowment-explained,Hampshire College endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 239 /hampshire-college-endowment/
+2,institution,hampshire,Hampshire (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 239 /hampshire-college-endowment/. Not leftover New Hampshire Retirement System
+239,institution,washington-college-endowment,Washington College endowment,allocator,brief,P0,drafted-in-repo,Wave 239. Official endowment NA $370,994,636 at 30 Jun 2025. Printed Investment Return $36,687,439. Do not invent leftover 5 percent. Do not mint /washington-college/ /washcoll/ or /wc/. Never mint /washington/ or /uw/ or /wsu/
+2,institution,washington-college-endowment-explained,Washington College endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 239 /washington-college-endowment/
+2,institution,washington-college,Washington College (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 239 /washington-college-endowment/. Never mint /washington/
+2,institution,washcoll,Washcoll (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 239 /washington-college-endowment/
+2,institution,wc,WC (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 239 /washington-college-endowment/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

@@ -46,5 +46,6 @@ Do not 301 this page onto `/university-of-iowa-center-for-advancement/`, `/pacif
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Iowa Center for Advancement endowment](/university-of-iowa-center-for-advancement/)
 - [St. Olaf College endowment](/st-olaf-endowment/)
+- [Grand View University endowment](/grand-view-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

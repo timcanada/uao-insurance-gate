@@ -45,5 +45,6 @@ Do not 301 this page onto `/university-of-dayton-endowment/`, `/university-at-bu
 - [The endowment model, explained](/endowment-model-explained/)
 - [Hamilton College endowment](/hamilton-endowment/)
 - [University of Dayton endowment](/university-of-dayton-endowment/)
+- [Ohio Wesleyan University endowment](/ohio-wesleyan-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

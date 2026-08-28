@@ -46,6 +46,7 @@ Do not 301 this page onto `/university-of-st-thomas-endowment/`, `/hamline-endow
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of St. Thomas endowment](/university-of-st-thomas-endowment/)
+- [Concordia University St. Paul endowment](/concordia-university-st-paul-endowment/)
 - [Western Oregon University Foundation endowment](/western-oregon-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

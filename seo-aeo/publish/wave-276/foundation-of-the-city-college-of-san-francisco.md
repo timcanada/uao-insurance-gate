@@ -51,5 +51,6 @@ Do not 301 this page onto `/sfsu-foundation/`, `/city-colleges-of-chicago-founda
 - [Santa Ana College Foundation endowment](/santa-ana-college-foundation/)
 - [College of the Canyons Foundation endowment](/college-of-the-canyons-foundation/)
 - [York College Foundation endowment](/york-college-foundation/)
+- [El Camino College Foundation endowment](/el-camino-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

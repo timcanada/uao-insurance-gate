@@ -43,7 +43,7 @@ Do not 301 this page onto `/university-of-virginia-endowment/`, `/george-mason-u
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
-- [Oklahoma State University Foundation endowment](/oklahoma-state-university-foundation/)
+- [College of Charleston Foundation endowment](/college-of-charleston-foundation/)
 - [George Mason University Foundation endowment](/george-mason-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

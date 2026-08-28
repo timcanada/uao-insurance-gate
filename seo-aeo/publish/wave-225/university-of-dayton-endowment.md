@@ -43,7 +43,7 @@ Do not 301 this page onto `/xavier-university-endowment/`, `/university-of-nebra
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
-- [University of Nebraska Foundation endowment](/university-of-nebraska-foundation/)
+- [Spelman College endowment](/spelman-endowment/)
 - [Xavier University endowment](/xavier-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

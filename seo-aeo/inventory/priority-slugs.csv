@@ -1619,6 +1619,29 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,mason,Mason (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 225 /george-mason-university-foundation/
 2,institution,gmuf,GMUF (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 225 /george-mason-university-foundation/
 2,institution,patriots,Patriots (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 225 /george-mason-university-foundation/
+226,institution,washington-and-lee-endowment,Washington and Lee University endowment,allocator,brief,P0,drafted-in-repo,Wave 226. Official endowment NA $1,475,901 thousand at 30 Jun 2025. Do not homemade-sum return lines. Do not mint /wl/ or /wlu/ or /washington-lee/ or /w-and-l/. Not leftover University of Washington
+2,institution,washington-and-lee-endowment-explained,Washington and Lee endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 226 /washington-and-lee-endowment/
+2,institution,wl,WL (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 226 /washington-and-lee-endowment/
+2,institution,wlu,WLU (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 226 /washington-and-lee-endowment/
+2,institution,washington-lee,Washington Lee (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 226 /washington-and-lee-endowment/
+2,institution,w-and-l,W and L (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 226 /washington-and-lee-endowment/
+226,institution,spelman-endowment,Spelman College endowment,allocator,brief,P0,drafted-in-repo,Wave 226. Official endowed NA $609,040,133 at 30 Jun 2025. Do not homemade-sum appropriation lines. Do not mint /spelman/ or /sc/. Not leftover Morehouse
+2,institution,spelman-endowment-explained,Spelman endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 226 /spelman-endowment/
+2,institution,spelman,Spelman (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 226 /spelman-endowment/
+2,institution,sc,SC (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 226 /spelman-endowment/. Would flatten leftover South Carolina
+226,institution,college-of-charleston-foundation,College of Charleston Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 226. Official endowment NA $158,788,527 at 30 Jun 2025. Do not invent a percent. Do not mint /cofc/ or /charleston/ or /cougars/. Not leftover Citadel
+2,institution,college-of-charleston-foundation-explained,College of Charleston Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 226 /college-of-charleston-foundation/
+2,institution,cofc,CofC (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 226 /college-of-charleston-foundation/
+2,institution,charleston,Charleston (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 226 /college-of-charleston-foundation/
+2,institution,cougars,Cougars (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 226 /college-of-charleston-foundation/
+226,institution,hamilton-endowment,Hamilton College endowment,allocator,brief,P0,drafted-in-repo,Wave 226. Official endowment NA $1,497,031 thousand at 30 Jun 2025. Do not invent a percent. Do not mint /hamilton/ or /hc/. /hc/ remains Holy Cross
+2,institution,hamilton-endowment-explained,Hamilton endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 226 /hamilton-endowment/
+2,institution,hamilton,Hamilton (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 226 /hamilton-endowment/
+226,institution,santa-clara-endowment,Santa Clara University endowment,allocator,brief,P0,drafted-in-repo,Wave 226. Official endowment NA $1,668,622 thousand at 30 Jun 2025. Do not invent a percent. Do not mint /scu/ or /santa-clara/ or /broncos/. Not leftover USC
+2,institution,santa-clara-endowment-explained,Santa Clara endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 226 /santa-clara-endowment/
+2,institution,scu,SCU (abbrev),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 226 /santa-clara-endowment/
+2,institution,santa-clara,Santa Clara (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 226 /santa-clara-endowment/
+2,institution,broncos,Broncos (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 226 /santa-clara-endowment/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

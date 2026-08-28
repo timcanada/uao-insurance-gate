@@ -43,7 +43,7 @@ Do not 301 this page onto `/wisconsin-investment-board-swib-explained/`, `/unive
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
-- [Kansas University Endowment Association endowment](/kansas-university-endowment/)
+- [Washington and Lee University endowment](/washington-and-lee-endowment/)
 - [University of Dayton endowment](/university-of-dayton-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

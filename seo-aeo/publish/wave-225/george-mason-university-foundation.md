@@ -43,7 +43,7 @@ Do not 301 this page onto `/university-of-virginia-endowment/`, `/medical-colleg
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
-- [University of Hawaii Foundation endowment](/university-of-hawaii-foundation/)
+- [Santa Clara University endowment](/santa-clara-endowment/)
 - [Medical College of Virginia Foundation endowment](/medical-college-of-virginia-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

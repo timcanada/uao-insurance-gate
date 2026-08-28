@@ -51,5 +51,6 @@ Do not 301 this page onto `/brookdale-community-college-foundation/`, `/mercer-c
 - [Ramapo College Foundation endowment](/ramapo-college-foundation/)
 - [Spokane Colleges Foundation endowment](/spokane-colleges-foundation/)
 - [Riverside Community College District Foundation endowment](/riverside-community-college-district-foundation/)
+- [Kishwaukee College Foundation endowment](/kishwaukee-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -52,5 +52,6 @@ Do not 301 this page onto `/western-illinois-university-foundation/`, `/northeas
 - [Wake Tech Foundation endowment](/wake-tech-foundation/)
 - [Brookdale Community College Foundation endowment](/brookdale-community-college-foundation/)
 - [Kirkwood Community College Foundation endowment](/kirkwood-community-college-foundation/)
+- [Kishwaukee College Foundation endowment](/kishwaukee-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

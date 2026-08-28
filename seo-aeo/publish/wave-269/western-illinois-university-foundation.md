@@ -54,5 +54,6 @@ Do not 301 this page onto `/north-central-college-endowment/`, `/illinois-state-
 - [City Colleges of Chicago Foundation endowment](/city-colleges-of-chicago-foundation/)
 - [Northeast Iowa Community College Foundation endowment](/northeast-iowa-community-college-foundation/)
 - [Kirkwood Community College Foundation endowment](/kirkwood-community-college-foundation/)
+- [Kishwaukee College Foundation endowment](/kishwaukee-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

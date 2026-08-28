@@ -50,5 +50,7 @@ Do not 301 this page onto `/dickinson-endowment/`, `/allegheny-college-endowment
 - [Allegheny College endowment](/allegheny-college-endowment/)
 - [Ursinus College endowment](/ursinus-endowment/)
 - [Duquesne University endowment](/duquesne-endowment/)
+- [Susquehanna University endowment](/susquehanna-university-endowment/)
+- [Lebanon Valley College endowment](/lebanon-valley-college-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

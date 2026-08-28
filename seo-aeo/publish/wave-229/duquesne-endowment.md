@@ -49,5 +49,6 @@ Do not 301 this page onto `/carnegie-mellon-endowment/`, `/university-of-pittsbu
 - [Pacific Lutheran University endowment](/pacific-lutheran-endowment/)
 - [Allegheny College endowment](/allegheny-college-endowment/)
 - [Moravian University endowment](/moravian-university-endowment/)
+- [Susquehanna University endowment](/susquehanna-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

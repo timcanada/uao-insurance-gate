@@ -91,6 +91,25 @@ describe('assemblePack', () => {
     assert.ok(pack[0].why.includes('board'));
   });
 
+  it('stays standing when a kind is missing after the IC date', () => {
+    const pack = assemblePack(
+      [
+        {
+          id: 'b1',
+          title: 'Committed to a discipline, not a decision.',
+          publishedAt: '2026-08-28T11:00:00.000Z',
+          slug: 'discipline',
+          source: 'The Universal Owner',
+          kind: 'brief',
+        },
+      ],
+      '2026-08-01',
+      12,
+    );
+    assert.equal(pack.length, 1);
+    assert.equal(pack[0].kind, 'brief');
+  });
+
   it('defaults last IC to a dated day, not theatre', () => {
     assert.equal(parseLastIc('2026-07-31'), '2026-07-31');
     assert.match(defaultLastIc(new Date('2026-08-28T12:00:00Z')), /^\d{4}-\d{2}-\d{2}$/);

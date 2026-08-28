@@ -820,8 +820,9 @@
       const out = [];
       const seen = new Set();
       function take(item) {
-        const key = (item.slug || item.url || item.title).toLowerCase();
-        if (!item || seen.has(key)) return;
+        if (!item) return;
+        const key = (item.slug || item.url || item.title || '').toLowerCase();
+        if (!key || seen.has(key)) return;
         seen.add(key);
         out.push(Object.assign({}, item, { why: why[item.kind] || '' }));
       }
@@ -1681,6 +1682,7 @@
     }
 
     async function openPost(slug) {
+      if (!slug) return;
       const post = await fetchPost(slug);
       if (!post) { $('main').innerHTML = '<div class="empty">This briefing is not available.</div>'; return; }
       current = post;

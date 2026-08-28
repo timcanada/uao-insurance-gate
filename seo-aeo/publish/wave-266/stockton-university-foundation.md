@@ -48,5 +48,7 @@ Do not 301 this page onto `/mercer-county-community-college-foundation/`, `/stoc
 - [Mercer County Community College Foundation endowment](/mercer-county-community-college-foundation/)
 - [Rutgers endowment](/rutgers-endowment/)
 - [Stevens endowment](/stevens-endowment/)
+- [Ramapo College Foundation endowment](/ramapo-college-foundation/)
+- [Rider University endowment](/rider-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

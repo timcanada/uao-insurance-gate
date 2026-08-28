@@ -48,5 +48,6 @@ Do not 301 this page onto `/knox-endowment/`, `/monmouth/`, `/mc/`, or `/largest
 - [Knox College endowment](/knox-endowment/)
 - [Lake Forest College endowment](/lake-forest-college-endowment/)
 - [Illinois State University Foundation endowment](/illinois-state-university-foundation/)
+- [Rider University endowment](/rider-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

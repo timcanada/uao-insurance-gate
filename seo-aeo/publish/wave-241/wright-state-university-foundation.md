@@ -52,5 +52,7 @@ Do not 301 this page onto `/university-of-dayton-endowment/`, `/xavier-universit
 - [Capital University endowment](/capital-university-endowment/)
 - [Youngstown State University Foundation endowment](/youngstown-state-university-foundation/)
 - [Cleveland State University Foundation endowment](/cleveland-state-university-foundation/)
+- [Lorain County Community College Foundation endowment](/lorain-county-community-college-foundation/)
+- [Owens Community College Foundation endowment](/owens-community-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

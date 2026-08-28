@@ -49,5 +49,7 @@ Do not 301 this page onto `/clark-university-endowment/`, `/cleveland-state-univ
 - [Youngstown State University Foundation endowment](/youngstown-state-university-foundation/)
 - [Wright State University Foundation endowment](/wright-state-university-foundation/)
 - [Clark University endowment](/clark-university-endowment/)
+- [Lorain County Community College Foundation endowment](/lorain-county-community-college-foundation/)
+- [Owens Community College Foundation endowment](/owens-community-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -50,5 +50,7 @@ Do not 301 this page onto `/colorado-state-university-foundation/`, `/youngstown
 - [University of Dayton endowment](/university-of-dayton-endowment/)
 - [Capital University endowment](/capital-university-endowment/)
 - [Ohio State endowment](/ohio-state-endowment/)
+- [Lorain County Community College Foundation endowment](/lorain-county-community-college-foundation/)
+- [Shawnee State University Foundation endowment](/shawnee-state-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

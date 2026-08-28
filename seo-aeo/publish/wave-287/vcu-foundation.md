@@ -51,5 +51,6 @@ Do not 301 this page onto `/medical-college-of-virginia-foundation/`, `/longwood
 - [University of Richmond endowment](/university-of-richmond-endowment/)
 - [VCU College of Engineering Foundation endowment](/vcu-college-of-engineering-foundation/)
 - [VCU School of Business Foundation endowment](/vcu-school-of-business-foundation/)
+- [Radford University Foundation endowment](/radford-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

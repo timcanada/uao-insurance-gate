@@ -46,5 +46,6 @@ Do not 301 this page onto `/university-of-virginia-endowment/`, `/medical-colleg
 - [Santa Clara University endowment](/santa-clara-endowment/)
 - [Medical College of Virginia Foundation endowment](/medical-college-of-virginia-foundation/)
 - [VCU Foundation endowment](/vcu-foundation/)
+- [Radford University Foundation endowment](/radford-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

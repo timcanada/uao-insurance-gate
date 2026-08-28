@@ -50,5 +50,6 @@ Do not 301 this page onto `/riverside-community-college-district-foundation/`, `
 - [El Camino College Foundation endowment](/el-camino-college-foundation/)
 - [Modesto Junior College Foundation endowment](/modesto-junior-college-foundation/)
 - [Eastern Washington University Foundation endowment](/eastern-washington-university-foundation/)
+- [Spokane Colleges Foundation endowment](/spokane-colleges-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

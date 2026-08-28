@@ -51,5 +51,6 @@ Do not 301 this page onto `/columbia-endowment/`, `/el-camino-college-foundation
 - [Cuesta College Foundation endowment](/cuesta-college-foundation/)
 - [College of the Canyons Foundation endowment](/college-of-the-canyons-foundation/)
 - [Riverside Community College District Foundation endowment](/riverside-community-college-district-foundation/)
+- [Spokane Colleges Foundation endowment](/spokane-colleges-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

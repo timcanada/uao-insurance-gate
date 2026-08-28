@@ -51,5 +51,6 @@ Do not 301 this page onto `/foundation-for-california-community-colleges/`, `/el
 - [Modesto Junior College Foundation endowment](/modesto-junior-college-foundation/)
 - [Columbia College California Foundation endowment](/columbia-college-california-foundation/)
 - [College of the Canyons Foundation endowment](/college-of-the-canyons-foundation/)
+- [Spokane Colleges Foundation endowment](/spokane-colleges-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

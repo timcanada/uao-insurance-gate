@@ -56,5 +56,6 @@ Do not 301 this page onto `/foundation-for-california-community-colleges/`, `/ve
 - [Columbia College California Foundation endowment](/columbia-college-california-foundation/)
 - [Modesto Junior College Foundation endowment](/modesto-junior-college-foundation/)
 - [Delta College Foundation endowment](/delta-college-foundation/)
+- [Spokane Colleges Foundation endowment](/spokane-colleges-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

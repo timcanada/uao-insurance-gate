@@ -47,5 +47,7 @@ Do not 301 this page onto `/colgate-endowment/`, `/davidson-endowment/`, `/holy-
 - [The endowment model, explained](/endowment-model-explained/)
 - [Colgate University endowment](/colgate-endowment/)
 - [Lafayette College endowment](/lafayette-endowment/)
+- [Assumption University endowment](/assumption-university-endowment/)
+- [Clark University endowment](/clark-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

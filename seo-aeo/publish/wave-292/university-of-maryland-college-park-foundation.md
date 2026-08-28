@@ -45,6 +45,7 @@ Do not 301 this page onto `/maryland-srps/`, `/loyola-maryland-endowment/`, `/to
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [University of Maryland Baltimore Foundation endowment](/university-of-maryland-baltimore-foundation/)
 - [Montgomery College Foundation endowment](/montgomery-college-foundation/)
 - [Howard Community College Educational Foundation endowment](/howard-community-college-educational-foundation/)
 - [College of Southern Maryland Foundation endowment](/college-of-southern-maryland-foundation/)

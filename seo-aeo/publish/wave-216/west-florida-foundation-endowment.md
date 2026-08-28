@@ -44,6 +44,6 @@ Do not 301 this page onto `/lawrence-university-endowment/`, `/florida-tech-endo
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Lawrence University endowment](/lawrence-university-endowment/)
-- [Florida Institute of Technology endowment](/florida-tech-endowment/)
+- [Eastern Florida State College Foundation endowment](/eastern-florida-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

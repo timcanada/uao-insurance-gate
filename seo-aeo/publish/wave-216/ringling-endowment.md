@@ -43,6 +43,6 @@ Do not 301 this page onto `/florida-tech-endowment/`, `/stetson-endowment/`, `/r
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Barry University endowment](/barry-endowment/)
-- [Florida Institute of Technology endowment](/florida-tech-endowment/)
+- [Florida SouthWestern State College Foundation endowment](/florida-southwestern-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

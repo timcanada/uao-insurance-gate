@@ -44,6 +44,6 @@ Do not 301 this page onto `/university-of-miami-endowment/`, `/lynn-endowment/`,
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Lynn University endowment](/lynn-endowment/)
-- [Barry University endowment](/barry-endowment/)
+- [Valencia College Foundation endowment](/valencia-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

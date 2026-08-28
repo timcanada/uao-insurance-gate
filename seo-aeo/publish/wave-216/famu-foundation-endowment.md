@@ -44,6 +44,6 @@ Do not 301 this page onto `/nova-southeastern-endowment/`, `/florida-tech-endowm
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Nova Southeastern University endowment](/nova-southeastern-endowment/)
-- [Florida Institute of Technology endowment](/florida-tech-endowment/)
+- [State College of Florida Foundation endowment](/state-college-florida-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

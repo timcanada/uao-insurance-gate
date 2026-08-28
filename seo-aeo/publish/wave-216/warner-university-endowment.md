@@ -44,6 +44,6 @@ Do not 301 this page onto `/florida-tech-endowment/`, `/embry-riddle-endowment/`
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Florida Institute of Technology endowment](/florida-tech-endowment/)
-- [Embry-Riddle Aeronautical University endowment](/embry-riddle-endowment/)
+- [Florida College endowment](/florida-college-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

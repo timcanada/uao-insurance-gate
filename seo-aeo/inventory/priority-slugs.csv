@@ -1403,6 +1403,26 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 216,institution,famu-foundation-endowment,FAMU Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 216. Official endowment net assets $124,140,600 at 30 Jun 2025. Do not invent a percent. Do not flatten leftover MD&A 11.1%. Do not mint /famu/
 2,institution,famu-foundation-endowment-explained,FAMU Foundation endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 216 /famu-foundation-endowment/
 2,institution,famu,FAMU (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 216 /famu-foundation-endowment/
+217,institution,florida-college-endowment,Florida College endowment,allocator,brief,P0,drafted-in-repo,Wave 217. Official endowment net assets $40,103,219 at 31 May 2025. Do not invent a percent. Do not mint /florida-college/ or /fc/. Not leftover Florida Tech
+2,institution,florida-college-endowment-explained,Florida College endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 217 /florida-college-endowment/
+2,institution,florida-college,Florida College (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 217 /florida-college-endowment/
+2,institution,fc,FC (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 217 /florida-college-endowment/
+217,institution,valencia-college-foundation,Valencia College Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 217. Official endowment net assets $89,361,002 at 31 Mar 2025. Do not homemade-sum return lines. Do not invent a percent. Do not mint /valencia/ or /vcf/
+2,institution,valencia-college-foundation-explained,Valencia College Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 217 /valencia-college-foundation/
+2,institution,valencia,Valencia (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 217 /valencia-college-foundation/
+2,institution,vcf,VCF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 217 /valencia-college-foundation/
+217,institution,state-college-florida-foundation,State College of Florida Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 217. Official endowment net assets $100,870,505 at 30 Sep 2025. Do not invent a percent. Do not mint /scf/ or /state-college-florida/
+2,institution,state-college-florida-foundation-explained,State College of Florida Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 217 /state-college-florida-foundation/
+2,institution,scf,SCF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 217 /state-college-florida-foundation/
+2,institution,state-college-florida,State College of Florida (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 217 /state-college-florida-foundation/
+217,institution,florida-southwestern-foundation,Florida SouthWestern State College Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 217. Official endowment investments $50,324,966 at 31 Mar 2025. Do not invent a percent. Do not mint /fsw/ or /florida-southwestern/. Not leftover Southwestern University
+2,institution,florida-southwestern-foundation-explained,Florida SouthWestern Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 217 /florida-southwestern-foundation/
+2,institution,fsw,FSW (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 217 /florida-southwestern-foundation/
+2,institution,florida-southwestern,Florida SouthWestern (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 217 /florida-southwestern-foundation/
+217,institution,eastern-florida-foundation,Eastern Florida State College Foundation endowment,allocator,brief,P0,drafted-in-repo,Wave 217. Official endowment net position $24,726,240 at 30 Jun 2025. Do not homemade-sum return lines. Do not invent a percent. Do not mint /efsc/ or /eastern-florida/
+2,institution,eastern-florida-foundation-explained,Eastern Florida Foundation explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 217 /eastern-florida-foundation/
+2,institution,efsc,EFSC (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 217 /eastern-florida-foundation/
+2,institution,eastern-florida,Eastern Florida (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 217 /eastern-florida-foundation/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

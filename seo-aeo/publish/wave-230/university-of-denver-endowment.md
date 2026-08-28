@@ -46,6 +46,7 @@ Do not 301 this page onto `/colorado-college-endowment/`, `/university-of-san-fr
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Colorado College endowment](/colorado-college-endowment/)
+- [Metropolitan State University of Denver Foundation endowment](/metropolitan-state-denver-foundation/)
 - [University of the Pacific endowment](/university-of-the-pacific-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

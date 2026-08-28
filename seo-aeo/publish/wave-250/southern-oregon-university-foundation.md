@@ -51,5 +51,6 @@ Do not 301 this page onto `/oregon-state-university-foundation/`, `/university-o
 - [University of Oregon Foundation endowment](/university-of-oregon-foundation/)
 - [Western Oregon University Foundation endowment](/western-oregon-university-foundation/)
 - [University of Portland endowment](/university-of-portland-endowment/)
+- [Western Colorado University Foundation endowment](/western-colorado-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

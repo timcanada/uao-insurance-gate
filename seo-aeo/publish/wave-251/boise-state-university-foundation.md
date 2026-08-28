@@ -50,5 +50,6 @@ Do not 301 this page onto `/university-of-idaho-foundation/`, `/idaho-state-univ
 - [College of Western Idaho Foundation endowment](/college-of-western-idaho-foundation/)
 - [Portland State University Foundation endowment](/portland-state-university-foundation/)
 - [Montana State University Foundation endowment](/montana-state-university-foundation/)
+- [Metropolitan State University of Denver Foundation endowment](/metropolitan-state-denver-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

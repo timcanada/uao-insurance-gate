@@ -47,5 +47,6 @@ Do not 301 this page onto `/temple-endowment/`, `/delaware-dpers/`, `/delaware/`
 - [The endowment model, explained](/endowment-model-explained/)
 - [Temple University endowment](/temple-endowment/)
 - [Drexel University endowment](/drexel-endowment/)
+- [Bucknell University endowment](/bucknell-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

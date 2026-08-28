@@ -1194,6 +1194,22 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 2,institution,university-of-alabama-endowment-explained,University of Alabama endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 204 /university-of-alabama-endowment/
 2,institution,alabama,Alabama (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 204 /university-of-alabama-endowment/. Not leftover Alabama RSA
 2,institution,ua,UA (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 204 /university-of-alabama-endowment/
+205,institution,middlebury-endowment,Middlebury College endowment,allocator,brief,P0,drafted-in-repo,Wave 205. Official endowment $1,729,844 thousand at 30 Jun 2025. Investments $1,718,583 thousand are a different line. Do not mint /middlebury/
+2,institution,middlebury-endowment-explained,Middlebury endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 205 /middlebury-endowment/
+2,institution,middlebury,Middlebury (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 205 /middlebury-endowment/
+205,institution,bates-endowment,Bates College endowment,allocator,brief,P0,drafted-in-repo,Wave 205. Official endowment net assets $485,312,039 at 30 Jun 2025. Investments $576,289,164 are a wider book. Do not mint /bates/
+2,institution,bates-endowment-explained,Bates endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 205 /bates-endowment/
+2,institution,bates,Bates (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 205 /bates-endowment/
+205,institution,vassar-endowment,Vassar College endowment,allocator,brief,P0,drafted-in-repo,Wave 205. Official endowment $1,393,805,601 at 30 Jun 2025. Actual 5.1% is of 30 Jun 2024 FV. Do not mint /vassar/
+2,institution,vassar-endowment-explained,Vassar endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 205 /vassar-endowment/
+2,institution,vassar,Vassar (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 205 /vassar-endowment/
+205,institution,bucknell-endowment,Bucknell University endowment,allocator,brief,P0,drafted-in-repo,Wave 205. Official endowment net assets $1,263,318 thousand at 30 Jun 2025. Not leftover Pennsylvania SERS. Do not mint /bucknell/
+2,institution,bucknell-endowment-explained,Bucknell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 205 /bucknell-endowment/
+2,institution,bucknell,Bucknell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 205 /bucknell-endowment/
+205,institution,clemson-endowment,Clemson University endowment,allocator,brief,P0,drafted-in-repo,Wave 205. Official Foundation endowed net assets $910,706,287 at 30 Jun 2025. University-owned loan $288,593,528 is a different sleeve. Do not mint /clemson/ or /cuf/
+2,institution,clemson-endowment-explained,Clemson endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 205 /clemson-endowment/
+2,institution,clemson,Clemson (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 205 /clemson-endowment/. Not leftover South Carolina Retirement Systems
+2,institution,cuf,CUF (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 205 /clemson-endowment/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

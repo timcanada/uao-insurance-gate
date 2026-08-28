@@ -47,5 +47,6 @@ Do not 301 this page onto `/howard-endowment/`, `/alabama-rsa/`, `/alabama/`, `/
 - [The endowment model, explained](/endowment-model-explained/)
 - [Howard University endowment](/howard-endowment/)
 - [Alabama RSA](/alabama-rsa/)
+- [Clemson University endowment](/clemson-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

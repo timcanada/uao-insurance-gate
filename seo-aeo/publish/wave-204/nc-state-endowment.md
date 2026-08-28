@@ -45,5 +45,6 @@ Do not 301 this page onto `/unc-chapel-hill-endowment/`, `/north-carolina-treasu
 - [The endowment model, explained](/endowment-model-explained/)
 - [Rutgers endowment](/rutgers-endowment/)
 - [UNC Chapel Hill endowment](/unc-chapel-hill-endowment/)
+- [Clemson University endowment](/clemson-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -47,5 +47,6 @@ Do not 301 this page onto `/brandeis-endowment/`, `/dartmouth-endowment/`, `/smi
 - [The endowment model, explained](/endowment-model-explained/)
 - [Brandeis University endowment](/brandeis-endowment/)
 - [Bowdoin College endowment](/bowdoin-endowment/)
+- [Vassar College endowment](/vassar-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

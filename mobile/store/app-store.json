@@ -1,0 +1,13 @@
+{
+  "bundleId": "com.universalassetowners.app",
+  "sku": "uao-terminal",
+  "name": "Universal Asset Owners",
+  "primaryLocale": "en-US",
+  "category": "NEWS",
+  "secondaryCategory": "FINANCE",
+  "privacyPolicyUrl": "https://www.universalassetowners.com/privacy-policy/",
+  "supportUrl": "https://www.universalassetowners.com/",
+  "marketingUrl": "https://www.universalassetowners.com/",
+  "copyright": "2026 Universal Asset Owners",
+  "reviewEmail": "info@universalassetowners.com"
+}

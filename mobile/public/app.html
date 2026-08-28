@@ -1,0 +1,1878 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>UAO Terminal</title>
+  <style>
+    :root {
+      --navy: #07131f;
+      --navy2: #0d1d30;
+      --navy3: #13283f;
+      --gold: #c9a24b;
+      --gold2: #e6c75a;
+      --line: #1c3148;
+      --cream: #f4efe6;
+      --text: #f3efe4;
+      --muted: #8a9bb0;
+      --up: #3ecf8e;
+      --dn: #e05a4f;
+      --amber: #d59a3a;
+    }
+    * { box-sizing: border-box; }
+    html, body { height: 100%; margin: 0; }
+    body {
+      background: #03080f;
+      color: var(--text);
+      font-family: Georgia, "Times New Roman", serif;
+    }
+    .phone {
+      max-width: 430px;
+      height: 100%;
+      margin: 0 auto;
+      background: var(--navy);
+      display: flex;
+      flex-direction: column;
+      position: relative;
+    }
+    @media (min-width: 640px) {
+      body { padding: 20px 0; }
+      .phone {
+        height: min(920px, calc(100vh - 40px));
+        border: 1px solid var(--line);
+        border-radius: 26px;
+        overflow: hidden;
+        box-shadow: 0 30px 80px rgba(0,0,0,.55);
+      }
+    }
+    .topbar {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 12px 8px;
+      border-bottom: 1px solid var(--line);
+      background: linear-gradient(180deg, #10253c, #07131f);
+    }
+    .brand { flex: 1; min-width: 0; }
+    .brand b {
+      display: block;
+      color: var(--gold);
+      font: 800 10px/1.1 system-ui, sans-serif;
+      letter-spacing: 1.7px;
+    }
+    .brand span { color: var(--muted); font: 12px/1.3 Georgia, serif; }
+    .live {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      color: var(--up);
+      font: 700 10px/1 system-ui, sans-serif;
+      letter-spacing: .8px;
+    }
+    .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--up); box-shadow: 0 0 8px var(--up); }
+    .clock { color: var(--gold2); font: 700 11px/1 "SF Mono", ui-monospace, monospace; }
+    .iconbtn {
+      width: 32px; height: 32px;
+      border: 1px solid var(--line);
+      background: var(--navy3);
+      color: var(--gold2);
+      border-radius: 8px;
+      font: 700 14px system-ui;
+      cursor: pointer;
+    }
+    .tape {
+      overflow: hidden;
+      white-space: nowrap;
+      background: #050d16;
+      border-bottom: 1px solid var(--line);
+      color: var(--gold2);
+      font: 600 11px/28px system-ui, sans-serif;
+    }
+    .tape-inner { display: inline-block; padding-left: 100%; animation: tick 42s linear infinite; }
+    .tape b { color: var(--gold); margin: 0 6px 0 16px; }
+    @keyframes tick { to { transform: translateX(-50%); } }
+    main { flex: 1; overflow: auto; -webkit-overflow-scrolling: touch; }
+    .pad { padding: 12px 14px 28px; }
+    .kicker {
+      color: var(--gold);
+      font: 700 10px/1.3 system-ui, sans-serif;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+    }
+    h1 { font-size: 26px; line-height: 1.15; margin: 6px 0 8px; }
+    h2 { font-size: 17px; line-height: 1.25; margin: 0 0 6px; }
+    .lede { color: var(--muted); font-size: 14px; line-height: 1.45; margin: 0 0 12px; }
+    .row { display: flex; gap: 8px; flex-wrap: wrap; }
+    .pill, .seg button {
+      border: 1px solid var(--line);
+      background: var(--navy3);
+      color: var(--text);
+      border-radius: 999px;
+      padding: 7px 11px;
+      font: 650 12px/1 system-ui, sans-serif;
+      cursor: pointer;
+    }
+    .pill.on, .seg button.on { background: var(--gold); color: var(--navy); border-color: var(--gold); }
+    .seg { display: flex; gap: 6px; margin: 10px 0 12px; overflow-x: auto; }
+    .card, .hero, .mod {
+      background: var(--navy2);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      padding: 13px;
+      margin: 10px 0;
+    }
+    .card, .hero { cursor: pointer; }
+    .card:active, .hero:active, .pill:active, .iconbtn:active { transform: scale(.99); }
+    .hero { padding: 0; overflow: hidden; }
+    .hero .body { padding: 13px; }
+    .hero img, .card img, .chart img { width: 100%; height: 168px; object-fit: cover; display: block; background: #081422; }
+    .meta { color: #c9c1ae; font: 12px/1.3 system-ui, sans-serif; margin-top: 8px; }
+    .compact { display: flex; gap: 10px; align-items: flex-start; }
+    .compact .mark {
+      min-width: 46px;
+      color: var(--gold);
+      font: 800 10px/1.2 system-ui, sans-serif;
+      letter-spacing: .4px;
+      padding-top: 3px;
+    }
+    .meters { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 6px; margin-top: 10px; }
+    .meters div {
+      background: #081422;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 8px 6px;
+      text-align: center;
+    }
+    .meters b { display: block; font: 800 13px/1.1 system-ui; }
+    .meters span { color: var(--muted); font: 10px system-ui; letter-spacing: .4px; }
+    .mast {
+      display: grid;
+      grid-template-columns: 1.15fr 1fr;
+      gap: 8px;
+      margin: 8px 0 12px;
+    }
+    .mast .num, .mast .sess {
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 11px;
+      background: #081422;
+    }
+    .mast .num { border-color: var(--gold); }
+    .mast .num b {
+      display: block;
+      color: var(--gold2);
+      font: 800 28px/1 "SF Mono", ui-monospace, monospace;
+    }
+    .mast .num span, .mast .sess span { color: var(--muted); font: 11px/1.35 Georgia, serif; }
+    .sleeves { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 6px; margin: 8px 0 12px; }
+    .sleeve {
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      padding: 8px 7px;
+      background: #081422;
+      min-height: 70px;
+    }
+    .sleeve.lit { border-color: var(--gold); }
+    .sleeve b {
+      display: block;
+      color: var(--gold2);
+      font: 800 10px/1.2 system-ui;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+    }
+    .sleeve span { color: var(--muted); font: 11px/1.3 Georgia, serif; }
+    .ic-item { border-bottom: 1px solid var(--line); padding: 10px 0; cursor: pointer; }
+    .ic-item:last-child { border-bottom: 0; }
+    .ic-item .note { color: var(--muted); font: 12px/1.35 Georgia, serif; display: block; margin-top: 3px; }
+    .base b { color: var(--gold2); }
+    .up b { color: var(--up); }
+    .tail b { color: var(--dn); }
+    .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+    .chart { margin: 0; padding: 0; overflow: hidden; cursor: pointer; border-radius: 12px; border: 1px solid var(--line); background: var(--navy2); }
+    .chart img { height: 110px; }
+    .chart p { margin: 0; padding: 8px; font-size: 12px; line-height: 1.3; }
+    .watch-item, .inst {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 10px;
+      padding: 12px 0;
+      border-bottom: 1px solid var(--line);
+      cursor: pointer;
+    }
+    .watch-item:last-child, .inst:last-child { border-bottom: 0; }
+    .chev { color: var(--gold); font-size: 20px; }
+    .sub {
+      border: 1px solid var(--gold);
+      border-radius: 14px;
+      padding: 14px;
+      margin-top: 14px;
+    }
+    .sub input, .sub button, .searchbox {
+      width: 100%;
+      margin-top: 8px;
+      padding: 11px;
+      border-radius: 8px;
+      border: 1px solid var(--line);
+      background: #081422;
+      color: var(--text);
+      font: 15px system-ui, sans-serif;
+    }
+    .sub button, .primary {
+      background: var(--gold);
+      color: var(--navy);
+      font-weight: 800;
+      border: 0;
+      cursor: pointer;
+    }
+    .empty { color: var(--muted); text-align: center; padding: 32px 8px; }
+    nav.tabs {
+      display: flex;
+      background: #050d16;
+      border-top: 1px solid var(--line);
+    }
+    nav.tabs button {
+      flex: 1;
+      background: none;
+      border: 0;
+      color: var(--muted);
+      padding: 9px 2px 11px;
+      font: 800 9px/1.15 system-ui, sans-serif;
+      letter-spacing: .6px;
+      cursor: pointer;
+    }
+    nav.tabs button.on { color: var(--gold); }
+    nav.tabs small { display: block; font-size: 15px; margin-bottom: 3px; font-weight: 500; }
+    .reader { display: none; flex-direction: column; position: absolute; inset: 0; background: var(--cream); z-index: 5; }
+    .app.show-reader .reader { display: flex; }
+    .app.show-reader .topbar, .app.show-reader .tape, .app.show-reader main, .app.show-reader nav.tabs { display: none; }
+    .rbar { background: var(--navy); padding: 10px 12px 12px; }
+    .rbar .tools { display: flex; gap: 8px; margin-bottom: 8px; }
+    .rbar .tools button {
+      background: var(--navy3);
+      border: 1px solid var(--line);
+      color: var(--gold2);
+      border-radius: 8px;
+      padding: 6px 9px;
+      font: 650 12px system-ui;
+      cursor: pointer;
+    }
+    .rbar .tools button.on { background: var(--gold); color: var(--navy); }
+    .rbar h1 { color: var(--text); font-size: 22px; margin: 6px 0; }
+    .rbar .meta { color: var(--muted); }
+    iframe.body { flex: 1; width: 100%; border: 0; background: var(--cream); }
+    .search-layer {
+      display: none;
+      position: absolute;
+      inset: 0;
+      background: var(--navy);
+      z-index: 6;
+      flex-direction: column;
+    }
+    .app.show-search .search-layer { display: flex; }
+    .search-layer .pad { flex: 1; overflow: auto; }
+    .cmd {
+      position: absolute;
+      inset: 0;
+      display: none;
+      flex-direction: column;
+      background: var(--navy);
+      z-index: 7;
+    }
+    .app.show-cmd .cmd { display: flex; }
+    .cmd iframe { flex: 1; border: 0; background: #07131f; }
+    .livedock { display: none; background: #07131f; border-bottom: 3px solid var(--gold); }
+    .livedock.on { display: block; }
+    .livedock .bar { display: flex; align-items: center; gap: 8px; padding: 8px 12px; }
+    .livedock .tag { color: #e5484d; font: 800 11px system-ui; letter-spacing: .14em; text-transform: uppercase; }
+    .livedock .ttl { flex: 1; font-size: 14px; margin: 0; }
+    .livedock .frame { position: relative; width: 100%; padding-top: 56.25%; background: #000; }
+    .livedock iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+    .toast {
+      display: none;
+      position: absolute;
+      inset: 0;
+      background: rgba(6,12,20,.72);
+      z-index: 8;
+      align-items: center;
+      justify-content: center;
+      padding: 22px;
+    }
+    .toast.on { display: flex; }
+    .toast .card {
+      background: var(--navy2);
+      border: 1px solid var(--gold);
+      border-radius: 16px;
+      padding: 18px;
+      max-width: 360px;
+      cursor: default;
+    }
+    .offair { opacity: .45; }
+    .access {
+      border: 1px solid var(--gold);
+      background: transparent;
+      color: var(--gold2);
+      border-radius: 8px;
+      padding: 6px 8px;
+      font: 800 9px/1 system-ui, sans-serif;
+      letter-spacing: .08em;
+      cursor: pointer;
+    }
+    .folio {
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+      color: var(--gold);
+      font: 700 10px/1.3 system-ui, sans-serif;
+      letter-spacing: 1.2px;
+      text-transform: uppercase;
+      margin-bottom: 10px;
+    }
+    .folio span { color: var(--muted); letter-spacing: .4px; text-transform: none; font-weight: 500; }
+    .manifesto { font-size: 28px; line-height: 1.12; margin: 0 0 10px; }
+    .why { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin: 14px 0 18px; }
+    .why div {
+      border-top: 1px solid var(--gold);
+      padding-top: 8px;
+    }
+    .why b { display: block; font: 700 11px/1.3 system-ui, sans-serif; color: var(--gold2); letter-spacing: .4px; }
+    .why span { color: var(--muted); font-size: 12px; line-height: 1.35; }
+    .cover { padding: 0; overflow: hidden; border-color: var(--gold); }
+    .cover .body { padding: 16px; }
+    .cover .open {
+      display: inline-block;
+      margin-top: 10px;
+      background: var(--gold);
+      color: var(--navy);
+      font: 800 12px/1 system-ui, sans-serif;
+      padding: 10px 12px;
+      border-radius: 8px;
+    }
+    .partner {
+      border: 1px solid var(--gold);
+      border-radius: 14px;
+      padding: 16px;
+      margin: 16px 0;
+      background: #081422;
+      cursor: pointer;
+    }
+    .partner .tag {
+      color: var(--gold);
+      font: 800 10px system-ui, sans-serif;
+      letter-spacing: .16em;
+      text-transform: uppercase;
+    }
+    .house {
+      border-bottom: 1px solid var(--line);
+      padding: 14px 0;
+      cursor: pointer;
+    }
+    .house:last-child { border-bottom: 0; }
+    .inv {
+      background: var(--navy2);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 13px;
+      margin: 8px 0;
+    }
+    .inv b { color: var(--gold2); display: block; margin-bottom: 4px; }
+    .live.onair .dot { background: #e5484d; box-shadow: 0 0 10px #e5484d; animation: pulse 1.2s ease-in-out infinite; }
+    .live.onair { color: #e5484d; }
+    @keyframes pulse { 50% { opacity: .35; } }
+    .wire-item { border-bottom: 1px solid var(--line); padding: 12px 0; cursor: pointer; }
+    .wire-item .src { color: var(--gold); font: 800 10px system-ui; letter-spacing: .1em; text-transform: uppercase; }
+    .wire-item .just { color: #e5484d; font: 800 10px system-ui; letter-spacing: .12em; float: right; }
+    .wire-item h2 { font-size: 17px; margin: 4px 0 4px; }
+    .tickline { color: var(--gold2); font: 700 11px/1.4 system-ui; margin: 0 0 10px; }
+    .garden {
+      display: none;
+      position: absolute;
+      inset: 0;
+      z-index: 12;
+      background: radial-gradient(1200px 600px at 50% 0%, #16314a, #07131f 55%, #03080f);
+      overflow: auto;
+      padding: 28px 20px 40px;
+    }
+    .app.show-garden .garden { display: block; }
+    .app.show-garden .topbar, .app.show-garden .tape, .app.show-garden main,
+    .app.show-garden nav.tabs, .app.show-garden .livedock { display: none; }
+    .garden h1 { font-size: 30px; line-height: 1.12; margin: 10px 0 12px; }
+    .garden .folio { margin-bottom: 8px; }
+    .pending-plate, .peer-plate {
+      border: 1px solid var(--gold);
+      border-radius: 12px;
+      padding: 12px;
+      margin: 10px 0;
+      background: #081422;
+    }
+    .local-note { color: var(--muted); font: 12px/1.4 system-ui; margin: 8px 0 0; }
+    .warn { color: var(--gold2); font: 13px/1.4 Georgia, serif; }
+    .name-tag { color: var(--gold2); font: 700 10px/1.3 system-ui; letter-spacing: .08em; text-transform: uppercase; }
+    .player { width: 100%; margin-top: 8px; }
+    .studio { padding: 0; overflow: hidden; cursor: pointer; }
+    .studio img { width: 100%; height: 160px; object-fit: cover; display: block; background: #081422; }
+    .studio .body { padding: 12px; }
+    .liveframe { position: relative; width: 100%; padding-top: 56.25%; background: #000; border-radius: 12px; overflow: hidden; margin: 10px 0; }
+    .liveframe iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+    .chat {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      padding-bottom: 12px;
+    }
+    .bubble {
+      border: 1px solid var(--line);
+      background: var(--navy2);
+      border-radius: 12px;
+      padding: 10px 12px;
+    }
+    .bubble.desk { border-color: var(--gold); }
+    .bubble .who { color: var(--gold); font: 800 10px system-ui; letter-spacing: .1em; text-transform: uppercase; }
+    .bubble p { margin: 6px 0 0; font-size: 14px; line-height: 1.45; }
+    .composer {
+      display: flex;
+      gap: 8px;
+      margin-top: 10px;
+    }
+    .composer input { flex: 1; }
+    .rule {
+      border: 1px solid var(--gold);
+      color: var(--gold2);
+      font: 12px/1.4 Georgia, serif;
+      padding: 10px 12px;
+      border-radius: 10px;
+      margin: 10px 0 14px;
+    }
+    .seat { display: flex; justify-content: space-between; gap: 10px; padding: 10px 0; border-bottom: 1px solid var(--line); }
+    .seat b { display: block; }
+  </style>
+</head>
+<body>
+  <div class="phone app" id="app">
+    <div class="topbar">
+      <div class="brand">
+        <b>UNIVERSAL ASSET OWNERS</b>
+        <span id="deskclock">Terminal · New York</span>
+      </div>
+      <div class="live offair" id="liveBadge"><i class="dot"></i><span id="liveBadgeText">STANDBY</span></div>
+      <div class="clock" id="clock">--:-- ET</div>
+      <button class="access" id="accessBtn" type="button">THE ROOM</button>
+      <button class="iconbtn" id="searchBtn" title="Search">⌕</button>
+    </div>
+    <div class="tape"><div class="tape-inner" id="tape">Loading the desk…</div></div>
+    <div class="livedock" id="livedock">
+      <div class="bar">
+        <span class="tag">Live now</span>
+        <p class="ttl" id="liveTitle">Universal Asset Owners is live</p>
+        <button class="pill" id="hideLive">Hide</button>
+      </div>
+      <div class="frame"><iframe id="liveFrame" title="Universal Asset Owners live stream" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe></div>
+    </div>
+    <div class="garden" id="garden">
+      <div class="folio"><b>The house</b><span>Seat review</span></div>
+      <div class="kicker">Walled garden · invite only</div>
+      <h1>Apply for the house. The newspaper stays complimentary.</h1>
+      <p class="lede">Name, work email, direct line. The desk confirms the seat. Then: verified roles, the briefing diary, the research book, in-app audio, and the studio — live, just missed, and the most recent show.</p>
+      <button class="pill" id="gardenLaterTop" type="button" style="margin:0 0 16px">Continue with the complimentary brief</button>
+      <div class="why">
+        <div><b>Apply</b><span>Name, work email, phone. No retail book.</span></div>
+        <div><b>The book</b><span>Jobs the desk verified. Briefings by request.</span></div>
+        <div><b>Studio</b><span>Live now. Just missed. Play the podcast here.</span></div>
+        <div><b>The Room</b><span>Chatham House. Seated members only on the floor.</span></div>
+      </div>
+      <div class="sub">
+        <div class="kicker">I have an invite</div>
+        <input id="inviteCode" placeholder="UAO-DESK" autocomplete="off" />
+        <button type="button" id="inviteGo">Enter the room</button>
+        <p class="meta" id="inviteErr"></p>
+      </div>
+      <div class="sub" style="margin-top:12px">
+        <div class="kicker">Request a seat</div>
+        <input id="appName" placeholder="Name — as the IC would say it" autocomplete="name" />
+        <input id="appEmail" type="email" placeholder="you@institution.com" />
+        <p class="warn" id="appWarn" hidden>Consumer inboxes are reviewed last. A work address sits first.</p>
+        <input id="appPhone" type="tel" placeholder="Direct line — +1 416 …" autocomplete="tel" />
+        <input id="appInst" placeholder="Institution — CPP, NBIM, family office…" />
+        <input id="appRole" placeholder="Role — CIO, head of private markets…" />
+        <input id="appWhy" placeholder="Why this desk — one sentence the IC would recognise." />
+        <button type="button" id="appGo">Submit for desk review</button>
+        <p class="meta" id="appErr"></p>
+        <p class="meta">The desk confirms. An application does not open the floor in The Room. The brief stays complimentary.</p>
+      </div>
+      <button class="pill" id="gardenLater" style="margin-top:16px;width:100%">Continue with the complimentary brief</button>
+    </div>
+    <main id="main"><div class="empty">Opening the terminal…</div></main>
+    <div class="toast" id="briefToast">
+      <div class="card">
+        <div class="kicker">Daily brief</div>
+        <h2 id="briefToastTitle">This morning’s brief is out</h2>
+        <p class="lede" id="briefToastBody"></p>
+        <button class="primary" id="briefToastGo" style="width:100%;margin-top:8px;padding:12px;border:0;border-radius:8px">Read it now</button>
+        <button class="pill" id="briefToastLater" style="margin-top:8px;width:100%">Later</button>
+      </div>
+    </div>
+    <div class="toast" id="accessToast">
+      <div class="card">
+        <div class="kicker">Request desk access</div>
+        <h2>The brief is complimentary. The room is not open.</h2>
+        <p class="lede">Five days a week. Each subscriber is reviewed by the editorial desk — the same portal as the website.</p>
+        <input id="accessEmail" type="email" placeholder="you@institution.com" style="width:100%;margin-top:8px;padding:11px;border-radius:8px;border:1px solid var(--line);background:#081422;color:var(--text);font:15px system-ui" />
+        <button class="primary" id="accessGo" style="width:100%;margin-top:8px;padding:12px;border:0;border-radius:8px">Request the daily brief</button>
+        <button class="pill" id="accessLater" style="margin-top:8px;width:100%">Continue reading</button>
+      </div>
+    </div>
+    <div class="toast" id="liveToast">
+      <div class="card">
+        <div class="kicker" style="color:#e5484d">Live broadcast</div>
+        <h2>We are live on YouTube</h2>
+        <p class="lede" id="liveToastBody">The same player as the website just came on air.</p>
+        <button class="primary" id="liveToastGo" style="width:100%;margin-top:8px;padding:12px;border:0;border-radius:8px">Watch now</button>
+        <button class="pill" id="liveToastLater" style="margin-top:8px;width:100%">Keep watching in the dock</button>
+      </div>
+    </div>
+    <nav class="tabs">
+      <button class="on" data-tab="term"><small>▣</small>TERM</button>
+      <button data-tab="wire"><small>⚡</small>WIRE</button>
+      <button data-tab="live"><small>▶</small>LIVE</button>
+      <button data-tab="room"><small>▣</small>ROOM</button>
+      <button data-tab="book"><small>☆</small>BOOK</button>
+    </nav>
+    <article class="reader" id="reader">
+      <div class="rbar">
+        <div class="tools">
+          <button type="button" id="back">‹ Back</button>
+          <button type="button" id="saveBtn">Save</button>
+          <button type="button" id="shareBtn">Share</button>
+          <button type="button" id="aaMinus">A−</button>
+          <button type="button" id="aaPlus">A+</button>
+        </div>
+        <div class="kicker" id="rkicker"></div>
+        <h1 id="rtitle"></h1>
+        <div class="meta" id="rmeta"></div>
+      </div>
+      <iframe class="body" id="rbody" title="Briefing"></iframe>
+    </article>
+    <div class="search-layer" id="searchLayer">
+      <div class="pad">
+        <div class="kicker">Search the live library</div>
+        <input class="searchbox" id="q" placeholder="Hormuz, CPP, private credit, 30-year…" autofocus />
+        <div id="searchResults"></div>
+        <button class="pill" id="closeSearch" style="margin-top:12px">Close search</button>
+      </div>
+    </div>
+    <div class="cmd" id="cmd">
+      <div class="rbar">
+        <div class="tools"><button type="button" id="closeCmd">‹ Back to terminal</button></div>
+        <div class="kicker">Command Center</div>
+        <h1>Live signals now</h1>
+      </div>
+      <iframe src="https://www.universalassetowners.com/command-center/" title="Command Center"></iframe>
+    </div>
+  </div>
+  <script>
+    const API = 'https://universal-asset-owners.ghost.io/ghost/api/content';
+    const KEY = '4cb0118527b7b2a473e665856a';
+    const SITE = 'https://www.universalassetowners.com';
+    const FILTERS = {
+      latest: '',
+      brief: 'tag:hash-daily-brief',
+      desk: 'tag:hash-probability-desk',
+      research: 'tag:hash-research',
+      charts: 'tag:hash-chart',
+      watchv: 'tag:hash-video-briefing',
+      listen: 'tag:hash-podcast',
+    };
+    const INST = [
+      ['sovereign-wealth', 'Sovereign Wealth', 'PIF, ADIA, GIC, NBIM'],
+      ['public-pensions', 'Public Pensions', 'CPP, CalPERS, OTPP'],
+      ['family-offices', 'Family Offices', 'Multi-generational capital'],
+      ['private-markets', 'Private Markets', 'PE, credit, infrastructure'],
+      ['endowments', 'Endowments', 'Perpetual capital'],
+      ['policy-regulation', 'Policy & Regulation', 'The rules for long capital'],
+    ];
+    const THEMES = ['infrastructure','ai-infrastructure','private-credit','geopolitics','energy-transition','universal-ownership'];
+    const cache = {};
+    let tab = 'term';
+    let current = null;
+    let typePx = 17;
+    const $ = (id) => document.getElementById(id);
+    const saved = () => { try { return JSON.parse(localStorage.getItem('uao.saved') || '[]'); } catch (e) { return []; } };
+    const setSaved = (list) => localStorage.setItem('uao.saved', JSON.stringify(list));
+    const HOUSE_CODES = ['UAO-DESK', 'UAO-BOOK', 'UAO-IC-2026'];
+    const PEER_RE = /^UAO-PEER-[ABCDEFGHJKLMNPQRSTUVWXYZ23456789]{4}$/;
+    const NOTE_MAX = 400;
+    const ROOMS = {
+      book: { title: 'The Book', kicker: 'What the house is holding — not a trade idea.' },
+      pd: { title: 'Probability Desk', kicker: 'Scenario weights. Challenge the house. Do not perform.' },
+      pm: { title: 'Private Markets', kicker: 'Pacing, vintage, and the unquoted sleeve.' },
+      official: { title: 'Official Prints', kicker: 'If it is not a primary, it does not belong here.' },
+    };
+    const SEED = {
+      book: [
+        { desk: true, who: 'UAO Editorial', at: 'house', text: 'Morning book is open. The lead is still liquidity versus contractual access — not the buyback headline. Annotate. Do not attribute outside this room.' },
+        { desk: true, who: 'UAO Editorial', at: 'house', text: 'Chatham House Rule is in force. Use the information. Leave the identity.' },
+      ],
+      pd: [
+        { desk: true, who: 'The Probability Desk', at: 'house', text: 'BASE remains the governed case. If the 30-year prints through 5.50, the tail is a liability number. Post weights, not takes.' },
+      ],
+      pm: [
+        { desk: true, who: 'UAO Editorial', at: 'house', text: 'Private credit in DC plans moves exit risk toward members. If an IC just approved that, say what changed in the pack — not the brand.' },
+      ],
+      official: [
+        { desk: true, who: 'The Wire', at: 'house', text: 'Official prints only. Fed, ECB, SEC, BIS. If it is not a primary, it does not belong in this chamber.' },
+      ],
+    };
+    function esc(value) {
+      return String(value == null ? '' : value).replace(/[&<>"']/g, (c) => ({
+        '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;',
+      }[c]));
+    }
+    function normalizeInvite(code) { return (code || '').trim().toUpperCase().replace(/\s+/g, ''); }
+    function validInvite(code) {
+      const normalized = normalizeInvite(code);
+      return HOUSE_CODES.includes(normalized) || PEER_RE.test(normalized);
+    }
+    function member() {
+      try { return JSON.parse(localStorage.getItem('uao.member') || 'null'); } catch (e) { return null; }
+    }
+    function admit(profile) { localStorage.setItem('uao.member', JSON.stringify(profile)); }
+    function seatStatus(record) {
+      if (!record) return null;
+      if (record.status === 'pending' || record.status === 'seated') return record.status;
+      return validInvite(record.via || '') ? 'seated' : 'pending';
+    }
+    function canPost(record) { return seatStatus(record) === 'seated'; }
+    function seatLabel(record) {
+      const institution = ((record && record.institution) || '').trim() || 'Seat';
+      const role = ((record && record.role) || '').trim();
+      return role ? institution + ' · ' + role : institution;
+    }
+    function sanitizeNote(text) {
+      return String(text || '').replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim().slice(0, NOTE_MAX);
+    }
+    function safeSrc(url) {
+      try {
+        const parsed = new URL(url);
+        return parsed.protocol === 'http:' || parsed.protocol === 'https:' ? parsed.href : '';
+      } catch (e) { return ''; }
+    }
+    const BOOK_NAMES = [
+      ['cpp', 'CPP', ['cpp investments', 'canada pension', 'cpib']],
+      ['calpers', 'CalPERS', ['calpers']],
+      ['calstrs', 'CalSTRS', ['calstrs']],
+      ['otpp', 'OTPP', ['otpp', 'ontario teachers']],
+      ['nbim', 'NBIM', ['nbim', 'norges bank']],
+      ['gic', 'GIC', ['gic']],
+      ['adia', 'ADIA', ['adia']],
+      ['pif', 'PIF', ['public investment fund']],
+      ['temasek', 'Temasek', ['temasek']],
+      ['cic', 'CIC', ['china investment corporation']],
+      ['abp', 'ABP', ['abp']],
+      ['kic', 'KIC', ['korea investment', 'kic']],
+      ['nps', 'NPS', ['national pension service']],
+      ['hormuz', 'Hormuz', ['hormuz']],
+      ['brent', 'Brent', ['brent']],
+      ['30y', '30-year', ['30-year', '30 year', 'long bond']],
+    ];
+    const BOOK_JUNK = ['marketbeat', 'makes new investment', 'should trump create', 'holdings report -', 'zacks', 'tipranks', 'stocknews'];
+    function hasNeedle(hay, needle) {
+      const h = hay.toLowerCase();
+      const n = needle.toLowerCase();
+      if (n.includes(' ')) return h.includes(n);
+      return (' ' + h.replace(/[^a-z0-9]+/g, ' ') + ' ').includes(' ' + n + ' ');
+    }
+    function nameHits(text) {
+      return BOOK_NAMES.filter((row) => row[2].some((n) => hasNeedle(text, n)));
+    }
+    function itemNames(item) {
+      return nameHits((item.title || '') + ' ' + (item.summary || '') + ' ' + (item.source || '')).map((row) => row[1]);
+    }
+    function isAllocatorGrade(item) {
+      const blob = (item.title || '') + ' ' + (item.summary || '') + ' ' + (item.source || '');
+      if (BOOK_JUNK.some((j) => blob.toLowerCase().includes(j))) return false;
+      if (nameHits(blob).length) return true;
+      return /\b(sovereign wealth|pension fund|family office|endowment)\b/i.test(blob);
+    }
+    function parseDeskWeights(html) {
+      const text = String(html || '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ');
+      const split = text.match(/Desk split\s+(\d{1,2})\s*\/\s*(\d{1,2})\s*\/\s*(\d{1,2})/i);
+      if (split) {
+        const weights = { base: +split[1], upside: +split[2], tail: +split[3] };
+        if (weights.base + weights.upside + weights.tail === 100) return weights;
+      }
+      return null;
+    }
+    function formatDelta(n) { return n ? (n > 0 ? '+' + n : String(n)) : 'unch'; }
+    function canEnterHouse(record) { return seatStatus(record) === 'pending' || seatStatus(record) === 'seated'; }
+    function validPhone(phone) { return String(phone || '').replace(/\D/g, '').length >= 8; }
+    function youtubeId(url) {
+      const m = String(url || '').match(/[?&]v=([\w-]{11})/) || String(url || '').match(/\/(?:v|embed)\/([\w-]{11})/);
+      return m ? m[1] : '';
+    }
+    const POD_FEEDS = [
+      ['The Universal Owner', 'https://feed.podbean.com/universalassetowners/feed.xml'],
+      ['The Probability Desk', 'https://feed.podbean.com/probabilitydesk/feed.xml'],
+    ];
+    const EMPLOYER_PORTALS = [
+      ['Mubadala', 'Sovereign wealth · Abu Dhabi', 'https://www.mubadala.com/en/careers'],
+      ['GIC', 'Sovereign wealth · Singapore', 'https://careers.gic.com.sg/'],
+      ['Norges Bank Investment Management', 'SWF / reserve · Oslo', 'https://www.nbim.no/en/about-us/career/vacancies/'],
+      ['CPP Investments', 'Public pension · Toronto', 'https://www.cppinvestments.com/careers/search-jobs/'],
+      ['Ontario Teachers’', 'Public pension · Toronto', 'https://www.otpp.com/en-ca/careers/'],
+      ['Temasek', 'Sovereign investor · Singapore', 'https://jobs.temasek.com.sg/'],
+      ['CalPERS', 'Public pension · Sacramento', 'https://www.calpers.ca.gov/about/job-opportunities/job-openings-and-exams/investment-job-opportunities'],
+      ['Future Fund', 'Sovereign wealth · Melbourne', 'https://www.futurefund.gov.au/en/careers'],
+    ];
+    const JOB_BOARDS = [
+      ['Allocator Jobs', 'Endowment, foundation, pension and family-office board', 'https://allocatorjobs.com/'],
+      ['CFA Institute', 'Sovereign wealth and institutional roles', 'https://careers.cfainstitute.org/jobs/?quick=industry%7CSovereign+Wealth+Fund'],
+      ['SWFI', 'Sovereign fund and allocator careers', 'https://www.swfinstitute.org/careers'],
+      ['IFSWF', 'Member sovereign-fund vacancies', 'https://www.ifswf.org/careers'],
+    ];
+    const VERIFIED_ROLES_COPY = 'No individually verified roles are live right now. We publish a mandate only once it is confirmed and source-verified. Until then: the houses we track, and the Talent Desk.';
+    const YT_FEED = 'https://www.youtube.com/feeds/videos.xml?channel_id=UCN7F2P9H29cIxwWyIIq7BxQ';
+    let episodes = [];
+    let studioShows = [];
+    let playing = '';
+    async function rssJson(url) {
+      const data = await (await fetch(RSS2JSON + encodeURIComponent(url))).json();
+      return data.status === 'ok' ? (data.items || []) : [];
+    }
+    async function loadStudio() {
+      const [pods, shows] = await Promise.all([
+        Promise.all(POD_FEEDS.map(async ([show, url]) => {
+          const items = await rssJson(url).catch(() => []);
+          return items.map((item) => {
+            const enc = item.enclosure || {};
+            if (!enc.link || (enc.type && String(enc.type).indexOf('audio') === -1)) return null;
+            return { show, title: item.title, publishedAt: item.pubDate, audio: enc.link, summary: (item.description || '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim().slice(0, 220) };
+          }).filter(Boolean);
+        })),
+        rssJson(YT_FEED).catch(() => []),
+      ]);
+      episodes = pods.flat();
+      const seen = new Set();
+      studioShows = shows.map((item) => {
+        const id = youtubeId(item.link || item.guid || '');
+        if (!id || seen.has(id)) return null;
+        seen.add(id);
+        return { title: item.title, publishedAt: item.pubDate, videoId: id, thumbnail: item.thumbnail };
+      }).filter(Boolean);
+    }
+    function embedShow(id) {
+      return 'https://www.youtube-nocookie.com/embed/' + encodeURIComponent(id) + '?autoplay=0&playsinline=1&rel=0&modestbranding=1';
+    }
+    function isHiringSignal(title) {
+      return /\b(cio|hiring|mandate|search|appointment|named|joins|resigns|steps down|talent)\b/i.test(title || '');
+    }
+    function flowKind(title, summary) {
+      const blob = (title || '') + ' ' + (summary || '');
+      if (/\b(cio|appointment|named|joins|resigns|steps down|talent)\b/i.test(blob)) return 'Appointment';
+      if (/\b(defined contribution|dc sleeve|dc plan|target-date|target date|401\(k\))\b/i.test(blob)) return 'DC sleeve';
+      if (/\b(capital call|distribution|vintage|pacing|tender)\b/i.test(blob)) return 'Pacing';
+      if (/\b(private credit|private markets|private-markets|secondaries|unquoted)\b/i.test(blob)) return 'Private markets';
+      if (/\b(allocation|overweight|underweight|sleeve|mandate shift|in-hous)\b/i.test(blob)) return 'Allocation';
+      return '';
+    }
+    function isPublicDeskCopy(title) { return !/\[QC|NOT SENT TO LIST/i.test(title || ''); }
+    function isChartOfTheDay(title) { return /^(pd\s+)?chart of the day/i.test(String(title || '').trim()); }
+    const SLEEVES = [
+      ['energy', 'Energy', ['brent', 'wti', 'crude', 'opec', 'lng', 'oil price', 'refinery', 'tungsten']],
+      ['lanes', 'Sea lanes', ['hormuz', 'strait', 'red sea', 'suez', 'tanker', 'chokepoint', 'cargo', 'shipping']],
+      ['insurance', 'Insurance', ['war risk', 'reinsurance', 'lloyd', 'hull', 'premium', 'insurer']],
+      ['duration', 'Duration', ['30-year', '30 year', 'discount rate', 'h.15', 'gilt', 'duration', 'liability', 'long bond', 'treasury yield']],
+      ['credit', 'Private credit', ['private credit', 'direct lending', 'private-markets', 'private markets', 'secondaries', 'unquoted']],
+      ['dc', 'DC', ['defined contribution', 'target-date', 'target date', 'dc sleeve', 'dc plan', '401(k)']],
+    ];
+    function sleeveHit(text, needles) {
+      const hay = String(text || '');
+      return needles.some((n) => n.includes(' ') || n.includes('(') ? hay.toLowerCase().includes(n) : hasNeedle(hay, n));
+    }
+    const DEFAULT_WATCH = ['cpp', 'calpers', 'nbim', 'hormuz', '30y'];
+    function getWatch() {
+      try {
+        const raw = JSON.parse(localStorage.getItem('uao.watch') || 'null');
+        const allowed = new Set(BOOK_NAMES.map((row) => row[0]));
+        const next = Array.isArray(raw) ? raw.filter((id) => allowed.has(id)) : [];
+        return next.length ? next : DEFAULT_WATCH.slice();
+      } catch (e) { return DEFAULT_WATCH.slice(); }
+    }
+    function setWatch(ids) { localStorage.setItem('uao.watch', JSON.stringify(ids)); }
+    function lastIc() {
+      const raw = localStorage.getItem('uao.lastIc') || '';
+      return /^\d{4}-\d{2}-\d{2}$/.test(raw) ? raw : new Date(Date.now() - 30 * 86400000).toISOString().slice(0, 10);
+    }
+    function afterIc(iso, day) {
+      const t = Date.parse(iso || '');
+      return !Number.isNaN(t) && t >= Date.parse(day + 'T00:00:00.000Z');
+    }
+    function assemblePack(seeds, day, limit) {
+      const rank = { brief: 0, desk: 1, official: 2, people: 3, research: 4 };
+      const why = {
+        brief: 'Morning desk — the board did not have this edition.',
+        desk: 'Probability Desk — weights, or the scenario that moved them.',
+        official: 'A primary. If it is not official, it is not in this pack.',
+        people: 'Who moved. Mandate, not gossip.',
+        research: 'A report. Take the chart, not the adjective.',
+      };
+      const eligible = seeds.filter((item) => isPublicDeskCopy(item.title) && !isChartOfTheDay(item.title) && afterIc(item.publishedAt, day))
+        .sort((a, b) => (Date.parse(b.publishedAt) || 0) - (Date.parse(a.publishedAt) || 0));
+      const out = [];
+      const seen = new Set();
+      function take(item) {
+        if (!item) return;
+        const key = (item.slug || item.url || item.title || '').toLowerCase();
+        if (!key || seen.has(key)) return;
+        seen.add(key);
+        out.push(Object.assign({}, item, { why: why[item.kind] || '' }));
+      }
+      ['brief', 'desk', 'official', 'people', 'research'].forEach((kind) => take(eligible.find((item) => item.kind === kind)));
+      eligible.forEach((item) => { if (out.length < (limit || 12)) take(item); });
+      return out.slice(0, limit || 12);
+    }
+    function parseCurve(text) {
+      const rows = [];
+      String(text || '').replace(/<[^>]+>/g, ' ').replace(/\|/g, ' ').split(/\n+/).forEach((line) => {
+        const clean = line.replace(/\s+/g, ' ').trim();
+        const m = clean.match(/(\d{2}\/\d{2}\/\d{4})/);
+        if (!m) return;
+        const nums = (clean.slice(clean.indexOf(m[1]) + 10).match(/\d+\.\d+/g) || []).map(Number);
+        if (nums.length < 2) return;
+        const thirty = nums[nums.length - 1];
+        const twenty = nums[nums.length - 2];
+        if (thirty < 1 || thirty > 12) return;
+        const iso = m[1].slice(6, 10) + '-' + m[1].slice(0, 2) + '-' + m[1].slice(3, 5);
+        if (!rows.some((r) => r.date === iso)) rows.push({ date: iso, twenty, thirty });
+      });
+      rows.sort((a, b) => a.date.localeCompare(b.date));
+      if (!rows.length) return null;
+      const last = rows[rows.length - 1];
+      const prior = rows.length > 1 ? rows[rows.length - 2].thirty : null;
+      return { date: last.date, yield: last.thirty, prior, deltaBp: prior == null ? null : Math.round((last.thirty - prior) * 100), source: 'treasury', label: 'U.S. Treasury 30-year par yield' };
+    }
+    async function loadCurve() {
+      try {
+        const cached = JSON.parse(localStorage.getItem('uao.ust30') || 'null');
+        if (cached && cached.print && Date.now() - cached.at < 6 * 3600 * 1000) return cached.print;
+      } catch (e) { /* ignore */ }
+      const month = new Intl.DateTimeFormat('en-US', { timeZone: 'America/New_York', year: 'numeric' }).format(new Date())
+        + new Intl.DateTimeFormat('en-US', { timeZone: 'America/New_York', month: '2-digit' }).format(new Date());
+      const url = 'https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=' + month;
+      const paths = [url, 'https://r.jina.ai/' + url];
+      for (const path of paths) {
+        try {
+          const print = parseCurve(await (await fetch(path)).text());
+          if (print) {
+            localStorage.setItem('uao.ust30', JSON.stringify({ at: Date.now(), print }));
+            return print;
+          }
+        } catch (e) { /* next */ }
+      }
+      return null;
+    }
+    function consumerInbox(email) {
+      return /@(gmail|yahoo|hotmail|outlook|icloud|me|aol|proton\.me|live)\./i.test(email || '');
+    }
+    function mintPeerCode() {
+      const alphabet = 'ABCDEFGHJKLMNPQRSTUVWXYZ23456789';
+      let n = Date.now() % Math.pow(alphabet.length, 4);
+      let out = '';
+      for (let i = 0; i < 4; i++) { out = alphabet[n % alphabet.length] + out; n = Math.floor(n / alphabet.length); }
+      return 'UAO-PEER-' + out;
+    }
+    function roomNotes(id) {
+      try { return JSON.parse(localStorage.getItem('uao.room.' + id) || '[]'); } catch (e) { return []; }
+    }
+    function setRoomNotes(id, notes) { localStorage.setItem('uao.room.' + id, JSON.stringify(notes.slice(-80))); }
+    function openGarden() { document.getElementById('app').classList.add('show-garden'); }
+    function closeGarden() { document.getElementById('app').classList.remove('show-garden'); }
+    function ensureMember() {
+      const code = normalizeInvite(new URLSearchParams(location.search).get('invite') || '');
+      if (code && validInvite(code) && seatStatus(member()) !== 'seated') {
+        const prev = member() || {};
+        admit({
+          email: prev.email || '',
+          institution: prev.institution || 'Invited seat',
+          role: prev.role || 'Member',
+          via: code,
+          at: Date.now(),
+          status: 'seated',
+          peerCode: prev.peerCode,
+        });
+      }
+    }
+
+    function nowEt() {
+      return new Date().toLocaleTimeString('en-US', { timeZone: 'America/New_York', hour: '2-digit', minute: '2-digit' });
+    }
+    function etParts() {
+      const parts = new Intl.DateTimeFormat('en-US', { timeZone: 'America/New_York', hour: 'numeric', minute: 'numeric', hour12: false }).formatToParts(new Date());
+      const hour = Number(parts.find((p) => p.type === 'hour')?.value || 0);
+      const minute = Number(parts.find((p) => p.type === 'minute')?.value || 0);
+      return { hour: hour === 24 ? 0 : hour, minute };
+    }
+    function deskSession() {
+      const { hour, minute } = etParts();
+      const hm = hour * 60 + minute;
+      if (hm >= 8 * 60 + 20 && hm < 9 * 60 + 15) return { id: 'official', title: 'Official-print window', blurb: '08:30 ET. If the print reprices the book, it belongs on the wire — not in a magazine.' };
+      if (hm >= 13 * 60 + 50 && hm < 14 * 60 + 30) return { id: 'official', title: 'Official-print window', blurb: '14:00 ET. Fed, SEC, a primary. The second screen is this phone.' };
+      if (hour < 12) return { id: 'morning', title: 'Morning desk · The Universal Owner', blurb: 'Five minutes before the book opens. What you would have to tell the IC that you did not know yesterday.' };
+      if (hour < 17) return { id: 'probability', title: 'Afternoon desk · The Probability Desk', blurb: 'Base, upside, tail. If the weights moved, that is the afternoon open.' };
+      return { id: 'overnight', title: 'After close · overnight book', blurb: 'Asia and the official prints that will be on the mast at 07:00. Not a newspaper.' };
+    }
+    function sessionLabel() {
+      return deskSession().title;
+    }
+    function tickClock() {
+      $('clock').textContent = nowEt() + ' ET';
+      $('deskclock').textContent = sessionLabel();
+    }
+    function fmt(iso) {
+      return iso ? new Date(iso).toLocaleDateString('en-US', { month: 'short', day: 'numeric', timeZone: 'America/New_York' }) : '';
+    }
+    function slugs(post) { return (post.tags || []).map((t) => t.slug); }
+    function deskOf(post) {
+      const s = slugs(post);
+      if (s.some((x) => x.includes('probability'))) return 'PD';
+      if (s.some((x) => x.includes('research'))) return 'RES';
+      if (s.some((x) => x.includes('chart'))) return 'CHT';
+      if (s.some((x) => x.includes('video'))) return 'VID';
+      if (s.some((x) => x.includes('podcast'))) return 'AUD';
+      return 'TUO';
+    }
+    function kicker(post) {
+      return { PD: 'The Probability Desk', RES: 'UAO Research', CHT: 'Chart of the Day', VID: 'Watch', AUD: 'Listen', TUO: 'The Universal Owner' }[deskOf(post)];
+    }
+    function excerpt(post) { return post.custom_excerpt || post.excerpt || ''; }
+    async function fetchPosts(filter, limit = 12) {
+      const key = filter + ':' + limit;
+      if (cache[key]) return cache[key];
+      const url = new URL(API + '/posts/');
+      url.searchParams.set('key', KEY);
+      url.searchParams.set('limit', String(limit));
+      url.searchParams.set('include', 'tags,authors');
+      url.searchParams.set('order', 'published_at DESC');
+      if (filter) url.searchParams.set('filter', filter);
+      const res = await fetch(url);
+      if (!res.ok) throw new Error('Desk unreachable (' + res.status + ')');
+      cache[key] = (await res.json()).posts || [];
+      return cache[key];
+    }
+    async function fetchPost(slug) {
+      const url = new URL(API + '/posts/slug/' + encodeURIComponent(slug) + '/');
+      url.searchParams.set('key', KEY);
+      url.searchParams.set('include', 'tags,authors');
+      return (await (await fetch(url)).json()).posts[0];
+    }
+    async function search(q) {
+      const url = new URL(API + '/posts/');
+      url.searchParams.set('key', KEY);
+      url.searchParams.set('limit', '20');
+      url.searchParams.set('include', 'tags');
+      url.searchParams.set('filter', "title:~'" + q.replace(/'/g, '') + "'");
+      return (await (await fetch(url)).json()).posts || [];
+    }
+    function card(post, hero) {
+      const src = post.feature_image ? safeSrc(post.feature_image) : '';
+      const img = src ? `<img src="${esc(src)}" alt="">` : '';
+      if (hero) {
+        return `<article class="hero" data-slug="${esc(post.slug)}">${img}<div class="body">
+          <div class="kicker">${esc(kicker(post))}</div>
+          <h2>${esc(post.title)}</h2>
+          <p class="lede">${esc(excerpt(post))}</p>
+          <div class="meta">${fmt(post.published_at)}${post.reading_time ? ' · ' + post.reading_time + ' min' : ''} · ${deskOf(post)}</div>
+        </div></article>`;
+      }
+      return `<article class="card" data-slug="${esc(post.slug)}">
+        ${img}
+        <div class="kicker">${esc(kicker(post))}</div>
+        <h2>${esc(post.title)}</h2>
+        <p class="lede">${esc(excerpt(post))}</p>
+        <div class="meta">${fmt(post.published_at)}${post.reading_time ? ' · ' + post.reading_time + ' min' : ''}</div>
+      </article>`;
+    }
+    function compact(post) {
+      return `<article class="card compact" data-slug="${esc(post.slug)}">
+        <div class="mark">${deskOf(post)}</div>
+        <div><h2>${esc(post.title)}</h2><div class="meta">${fmt(post.published_at)} · ${esc(kicker(post))}</div></div>
+      </article>`;
+    }
+    function bindCards(root) {
+      root.querySelectorAll('[data-slug]').forEach((el) => el.onclick = () => openPost(el.dataset.slug));
+    }
+    function editionLine() {
+      return new Date().toLocaleDateString('en-US', {
+        weekday: 'long', month: 'long', day: 'numeric', year: 'numeric', timeZone: 'America/New_York',
+      });
+    }
+    function subscribe() {
+      return `<div class="sub"><div class="kicker">Request desk access</div>
+        <h2>The brief is complimentary. The room is not open.</h2>
+        <p class="lede">Five days a week, for people who allocate at the scale of the world. Each subscriber is reviewed by the editorial desk.</p>
+        <div class="why">
+          <div><b>Systemic risk</b><span>What a diversified owner cannot diversify away.</span></div>
+          <div><b>Capital that moves</b><span>Sovereigns, pensions, private markets, AI.</span></div>
+          <div><b>Written for decades</b><span>For institutions, not the trading day.</span></div>
+          <div><b>Four formats</b><span>Read, watch, listen, chart — every weekday.</span></div>
+        </div>
+        <input id="email" type="email" placeholder="you@institution.com" />
+        <button type="button" id="signup">Request the daily brief</button>
+        <p class="meta">Same Ghost portal as the website. No paywall theatre.</p></div>`;
+    }
+    function partnerPlate() {
+      return `<div class="partner" id="openAdvertise">
+        <div class="tag">Briefing partner</div>
+        <h2>This position sits next to the morning brief.</h2>
+        <p class="lede">One disclosed slot, firewalled from the desk. For houses that already sit across from sovereigns, pensions and family offices — not for anyone buying a banner.</p>
+        <div class="meta">Request the media kit →</div>
+      </div>`;
+    }
+    function wireSignup() {
+      const btn = $('signup');
+      if (!btn) return;
+      btn.onclick = () => {
+        const email = ($('email')?.value || '').trim();
+        location.href = SITE + '/#/portal/signup' + (email ? '?email=' + encodeURIComponent(email) : '');
+      };
+    }
+
+    const RSS2JSON = 'https://api.rss2json.com/v1/api.json?rss_url=';
+    const OFFICIAL = [
+      ['Federal Reserve', 'https://www.federalreserve.gov/feeds/press_all.xml'],
+      ['ECB', 'https://www.ecb.europa.eu/rss/press.html'],
+      ['SEC', 'https://www.sec.gov/news/pressreleases.rss'],
+      ['BIS', 'https://www.bis.org/doclist/all_pressrels.rss'],
+    ];
+    const BOOK_URL = 'https://news.google.com/rss/search?q=' + encodeURIComponent('CalPERS OR "CPP Investments" OR NBIM OR "Norges Bank" OR Temasek OR "Ontario Teachers" OR ADIA OR "Korea Investment" OR "sovereign wealth fund" OR "pension CIO"') + '&hl=en-US&gl=US&ceid=US:en';
+    let wireCache = [];
+    let wireFilter = 'ALL';
+    let wireName = 'ALL';
+    let wireTick = '';
+    function justIn(iso) {
+      const t = Date.parse(iso || '');
+      return !Number.isNaN(t) && Date.now() - t < 30 * 60 * 1000;
+    }
+    async function rssItems(source, desk, url) {
+      try {
+        const data = await (await fetch(RSS2JSON + encodeURIComponent(url))).json();
+        if (data.status !== 'ok') return [];
+        return (data.items || []).slice(0, 8).map((item, i) => ({
+          id: source + '-' + (item.guid || item.link || i),
+          desk, source,
+          title: (item.title || '').replace(/\s+-\s+[^-]+$/, '').trim(),
+          publishedAt: item.pubDate && !Number.isNaN(Date.parse(item.pubDate)) ? new Date(item.pubDate).toISOString() : '',
+          summary: (item.description || '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim().slice(0, 180),
+          url: item.link,
+        }));
+      } catch (e) { return []; }
+    }
+    async function loadWire() {
+      const [posts, official, rawBook] = await Promise.all([
+        fetchPosts('', 24).catch(() => []),
+        Promise.all(OFFICIAL.map(([name, url]) => rssItems(name, 'OFFICIAL', url))).then((a) => a.flat()),
+        rssItems('Allocator wire', 'BOOK', BOOK_URL),
+      ]);
+      const book = rawBook.filter(isAllocatorGrade);
+      const desk = posts.map((p) => ({
+        id: p.id, desk: 'UAO', source: kicker(p), title: p.title,
+        publishedAt: p.published_at, summary: excerpt(p), slug: p.slug, url: p.url,
+      }));
+      const seen = new Set();
+      wireCache = [...desk, ...official, ...book]
+        .filter((item) => {
+          const key = (item.url || item.slug || item.title).toLowerCase();
+          if (seen.has(key) || !item.title) return false;
+          seen.add(key);
+          return true;
+        })
+        .sort((a, b) => (Date.parse(b.publishedAt) || 0) - (Date.parse(a.publishedAt) || 0));
+      wireTick = nowEt() + ' ET';
+      if (wireCache.length) {
+        $('tape').innerHTML = wireCache.concat(wireCache).slice(0, 40).map((p) => `<b>${esc(p.source)}</b> ${esc(p.title)}`).join('   ·   ') + '   ·   ';
+      }
+    }
+    function paintWireList() {
+      const list = $('wireList');
+      if (!list) return;
+      const rows = wireCache.filter((item) => {
+        if (wireFilter !== 'ALL' && item.desk !== wireFilter) return false;
+        if (wireName === 'ALL') return true;
+        if (wireName === 'MY') {
+          const labels = BOOK_NAMES.filter((row) => getWatch().includes(row[0])).map((row) => row[1]);
+          return itemNames(item).some((name) => labels.includes(name));
+        }
+        return itemNames(item).includes(wireName);
+      });
+      $('wireTick').textContent = wireTick ? 'Last tick ' + wireTick + ' · name-level' : 'Opening the wire…';
+      list.innerHTML = rows.map((item) => {
+        const names = itemNames(item);
+        const key = item.slug ? 'slug' : 'url';
+        const val = item.slug || item.url || '';
+        return `<article class="wire-item" data-${key}="${esc(val)}">
+        <div class="src">${esc(item.source)}${justIn(item.publishedAt) ? '<span class="just">JUST IN</span>' : ''}</div>
+        <h2>${esc(item.title)}</h2>
+        ${names.length ? `<div class="name-tag">${esc(names.join(' · '))}</div>` : ''}
+        ${item.summary ? `<p class="lede">${esc(item.summary)}</p>` : ''}
+      </article>`;
+      }).join('') || '<div class="empty">No print on that name.</div>';
+      list.querySelectorAll('[data-slug]').forEach((el) => el.onclick = () => openPost(el.dataset.slug));
+      list.querySelectorAll('[data-url]').forEach((el) => el.onclick = () => { window.open(el.dataset.url, '_blank', 'noopener'); });
+    }
+    async function render(next) {
+      tab = next === 'listen' && canEnterHouse(member()) ? 'live' : next;
+      document.querySelectorAll('nav.tabs button').forEach((b) => b.classList.toggle('on', b.dataset.tab === tab));
+      $('main').innerHTML = '<div class="empty">Refreshing the book…</div>';
+      try {
+        if (tab === 'term') {
+          const [briefs, desk, charts, latest, video, people, research, curve] = await Promise.all([
+            fetchPosts(FILTERS.brief, 8),
+            fetchPosts(FILTERS.desk, 4),
+            fetchPosts(FILTERS.charts, 4),
+            fetchPosts(FILTERS.latest, 24),
+            fetchPosts(FILTERS.watchv, 1),
+            fetchPosts('tag:people', 8).catch(() => []),
+            fetchPosts(FILTERS.research, 8).catch(() => []),
+            loadCurve().catch(() => null),
+          ]);
+          if (!wireCache.length) await loadWire().catch(() => {});
+          const hero = briefs.find((p) => isPublicDeskCopy(p.title)) || briefs[0];
+          const weights = desk[0] ? parseDeskWeights(desk[0].html || '') : null;
+          let delta = null;
+          if (weights) {
+            try { delta = JSON.parse(localStorage.getItem('uao.pdWeights') || 'null'); } catch (e) { delta = null; }
+            if (delta) delta = { base: weights.base - delta.base, upside: weights.upside - delta.upside, tail: weights.tail - delta.tail };
+            localStorage.setItem('uao.pdWeights', JSON.stringify(weights));
+          }
+          const session = deskSession();
+          const icDay = lastIc();
+          const publicLatest = latest.filter((p) => isPublicDeskCopy(p.title));
+          const pack = assemblePack([
+            ...briefs.map((p) => ({ id: p.id, title: p.title, publishedAt: p.published_at, slug: p.slug, source: 'The Universal Owner', kind: 'brief' })),
+            ...desk.map((p) => ({ id: p.id, title: p.title, publishedAt: p.published_at, slug: p.slug, source: 'The Probability Desk', kind: 'desk' })),
+            ...research.map((p) => ({ id: p.id, title: p.title, publishedAt: p.published_at, slug: p.slug, source: 'UAO Research', kind: 'research' })),
+            ...people.map((p) => ({ id: p.id, title: p.title, publishedAt: p.published_at, slug: p.slug, source: 'People', kind: 'people' })),
+            ...wireCache.filter((item) => item.desk === 'OFFICIAL').map((item) => ({ id: item.id || item.url, title: item.title, publishedAt: item.publishedAt, url: item.url, source: item.source, kind: 'official' })),
+          ], icDay, 10);
+          const sleeveItems = [hero, desk[0], ...publicLatest.slice(0, 6), ...wireCache.slice(0, 8)].filter(Boolean).map((p) => ({
+            title: p.title, summary: excerpt(p) || p.summary || '',
+          }));
+          const sleeves = SLEEVES.map(([id, label, needles]) => {
+            const titles = sleeveItems.filter((item) => sleeveHit((item.title || '') + ' ' + (item.summary || ''), needles)).map((item) => item.title);
+            return { id, label, lit: titles.length > 0, titles };
+          });
+          const watch = getWatch();
+          const nameHitsFor = (id) => {
+            const row = BOOK_NAMES.find((n) => n[0] === id);
+            if (!row) return null;
+            const pool = publicLatest.concat(wireCache.map((item) => ({ title: item.title, published_at: item.publishedAt, slug: item.slug, url: item.url, _src: item.source })));
+            return pool.find((item) => nameHits((item.title || '') + ' ' + (item.excerpt || item.summary || '')).some((n) => n[1] === row[1] || n[0] === id)) || null;
+          };
+          let tapePrint = curve;
+          if (!tapePrint) {
+            const blob = (desk[0] && desk[0].html) || excerpt(hero || {}) || '';
+            const m = String(blob).replace(/<[^>]+>/g, ' ').match(/30-year[^\d%]{0,48}(\d\.\d{2})\s*%/i);
+            if (m) tapePrint = { yield: Number(m[1]), date: '', deltaBp: null, source: 'desk-note', label: '30-year as printed in the desk note' };
+          }
+          $('tape').innerHTML = publicLatest.concat(publicLatest).map((p) => `<b>${deskOf(p)}</b> ${esc(p.title)}`).join('   ·   ') + '   ·   ';
+          $('main').innerHTML = `<div class="pad">
+            <div class="folio"><b>${editionLine()}</b><span>New York desk</span></div>
+            <div class="kicker">CIO terminal</div>
+            <h1 class="manifesto">What you would have to tell the board that you did not know at the last IC.</h1>
+            <p class="lede">The 30-year. Which sleeve is carrying today’s print. Your names. Not a newspaper — Bloomberg already is. MandateWire already is. This is the intelligence between those screens.</p>
+            <div class="mast">
+              <div class="num">
+                <div class="kicker">30-year</div>
+                <b>${tapePrint ? tapePrint.yield.toFixed(2) + '%' : '—'}</b>
+                <span>${tapePrint ? (tapePrint.deltaBp == null ? tapePrint.label : (tapePrint.deltaBp > 0 ? '+' : '') + tapePrint.deltaBp + ' bp vs prior print · ' + tapePrint.label) : 'Treasury curve did not print on this desk. We do not invent a liability number.'}${tapePrint && tapePrint.date ? ' · ' + tapePrint.date : ''}</span>
+              </div>
+              <div class="sess">
+                <div class="kicker">${session.id === 'official' ? 'Print window' : 'Session'}</div>
+                <h2>${esc(session.title)}</h2>
+                <span>${esc(session.blurb)}</span>
+                ${weights ? `<div class="meters" style="margin-top:8px">
+                  <div class="base"><b>${weights.base}%</b><span>BASE${delta ? ' · ' + formatDelta(delta.base) : ''}</span></div>
+                  <div class="up"><b>${weights.upside}%</b><span>UPSIDE${delta ? ' · ' + formatDelta(delta.upside) : ''}</span></div>
+                  <div class="tail"><b>${weights.tail}%</b><span>TAIL${delta ? ' · ' + formatDelta(delta.tail) : ''}</span></div>
+                </div>` : ''}
+              </div>
+            </div>
+            <div class="kicker">The book’s sleeves · lit from the desk, not a risk system</div>
+            <div class="sleeves">${sleeves.map((s) => `<div class="sleeve ${s.lit ? 'lit' : ''}"><b>${esc(s.label)}</b><span>${s.lit ? esc(s.titles[0]) : 'Quiet'}</span></div>`).join('')}</div>
+            <div class="mod">
+              <div class="kicker">Since last IC</div>
+              <h2>${pack.length} items the board did not have.</h2>
+              <p class="lede">Set the last committee date. Friday you screenshot this. We do not write the minutes. We assemble the intelligence half.</p>
+              <input id="icDate" type="date" value="${esc(icDay)}" style="width:100%;margin:6px 0 10px;padding:10px;border-radius:8px;border:1px solid var(--line);background:#081422;color:var(--text);font:15px system-ui" />
+              ${pack.map((item) => `<article class="ic-item" data-${item.slug ? 'slug' : 'url'}="${esc(item.slug || item.url || '')}">
+                <div class="kicker">${esc(item.source)}</div>
+                <h2>${esc(item.title)}</h2>
+                <span class="note">${esc(item.why)} · ${fmt(item.publishedAt)}</span>
+              </article>`).join('') || '<p class="lede">Nothing on the desk since that date.</p>'}
+            </div>
+            <div class="kicker">On your names</div>
+            <p class="lede">Funds read names they hold about five times more than names they do not. This is that screen.</p>
+            <div class="seg" id="watchSeg">
+              ${BOOK_NAMES.map((row) => `<button data-watch="${row[0]}" class="${watch.includes(row[0]) ? 'on' : ''}">${row[1]}</button>`).join('')}
+            </div>
+            ${watch.map((id) => {
+              const row = BOOK_NAMES.find((n) => n[0] === id);
+              const hit = nameHitsFor(id);
+              if (!row) return '';
+              return `<article class="ic-item" data-${hit && hit.slug ? 'slug' : 'url'}="${esc((hit && (hit.slug || hit.url)) || '')}">
+                <div class="kicker">${esc(row[1])}</div>
+                <h2>${hit ? esc(hit.title) : 'No print on this name since the last tick.'}</h2>
+                <span class="note">${hit ? fmt(hit.published_at || hit.publishedAt) : 'Watch stays on. The wire will light it.'}</span>
+              </article>`;
+            }).join('')}
+            <div class="seg">
+              <button data-go="briefs">Read</button>
+              <button data-go="watchv">Watch</button>
+              <button data-go="listen">Listen</button>
+              <button data-go="charts">Charts</button>
+              <button id="openCmd">Signals</button>
+            </div>
+            ${hero ? `<article class="hero cover" data-slug="${esc(hero.slug)}">
+              ${hero.feature_image && safeSrc(hero.feature_image) ? `<img src="${esc(safeSrc(hero.feature_image))}" alt="">` : ''}
+              <div class="body">
+                <div class="kicker">Today’s intelligence</div>
+                <h2>${esc(hero.title)}</h2>
+                <p class="lede">${esc(excerpt(hero))}</p>
+                <div class="meta">${fmt(hero.published_at)}${hero.reading_time ? ' · ' + hero.reading_time + ' min' : ''} · The Universal Owner</div>
+                <span class="open">Open the morning brief</span>
+              </div>
+            </article>` : ''}
+            <div class="mod" id="openPd">
+              <div class="kicker">The Probability Desk</div>
+              <h2>${desk[0] ? esc(desk[0].title) : 'Afternoon scenario'}</h2>
+              <p class="lede">${desk[0] ? esc(excerpt(desk[0])) : 'Base, upside and tail — probability-weighted for capital that thinks in decades.'}</p>
+              ${weights ? `<div class="meters">
+                <div class="base"><b>${weights.base}%</b><span>BASE${delta ? ' · ' + formatDelta(delta.base) : ''}</span></div>
+                <div class="up"><b>${weights.upside}%</b><span>UPSIDE${delta ? ' · ' + formatDelta(delta.upside) : ''}</span></div>
+                <div class="tail"><b>${weights.tail}%</b><span>TAIL${delta ? ' · ' + formatDelta(delta.tail) : ''}</span></div>
+              </div>` : '<p class="lede">Weights live in the note. We do not invent a book the desk has not printed.</p>'}
+              ${desk[0] ? `<div class="meta" style="margin-top:10px">Open the live scenario · ${fmt(desk[0].published_at)}</div>` : ''}
+            </div>
+            <div class="kicker">Chart of the day</div>
+            <div class="grid">${charts.slice(0,4).map((p) => `<article class="chart" data-slug="${esc(p.slug)}">${p.feature_image && safeSrc(p.feature_image) ? `<img src="${esc(safeSrc(p.feature_image))}" alt="">` : ''}<p>${esc(p.title)}</p></article>`).join('')}</div>
+            ${video[0] ? `<div class="kicker" style="margin-top:16px">Watch</div>${card(video[0])}` : ''}
+            ${partnerPlate()}
+            <div class="mod" id="openStudio">
+              <div class="kicker">Studio · members</div>
+              <h2>Watch live. Just missed. Listen here.</h2>
+              <p class="lede">The same YouTube player as the website. Both podcasts play in the house — they do not bounce you to Apple.</p>
+              <div class="meta">${canEnterHouse(member()) ? 'Open the studio' : 'Apply — then the player unlocks'}</div>
+            </div>
+            <div class="mod" id="openBook">
+              <div class="kicker">The book · members</div>
+              <h2>Jobs the desk verified. Appointments the house will take.</h2>
+              <p class="lede">Tracked houses. Talent Desk. Briefings by request. Research. We do not invent a mandate we have not confirmed.</p>
+              <div class="meta">${canEnterHouse(member()) ? 'Open the book' : 'Apply with name, work email, direct line'}</div>
+            </div>
+            <div class="mod" id="openRoom">
+              <div class="kicker">The Room · invite only</div>
+              <h2>Four chambers. One rule.</h2>
+              <p class="lede">Chatham House. Desk spine. Member notes stay on this device until the house server exists. The newspaper stays complimentary.</p>
+              <div class="meta">${canPost(member()) ? 'You are seated — open the room' : 'Request a seat, or continue reading'}</div>
+            </div>
+            <div class="kicker" style="margin-top:16px">The tape</div>
+            ${publicLatest.slice(0,8).map(compact).join('')}
+            ${subscribe()}
+          </div>`;
+          $('main').querySelectorAll('[data-go]').forEach((b) => b.onclick = () => render(b.dataset.go));
+          const icDate = $('icDate');
+          if (icDate) icDate.onchange = () => {
+            if (/^\d{4}-\d{2}-\d{2}$/.test(icDate.value)) {
+              localStorage.setItem('uao.lastIc', icDate.value);
+              render('term');
+            }
+          };
+          $('main').querySelectorAll('[data-watch]').forEach((b) => b.onclick = () => {
+            const id = b.getAttribute('data-watch');
+            const next = getWatch().slice();
+            const i = next.indexOf(id);
+            if (i >= 0) next.splice(i, 1);
+            else next.push(id);
+            setWatch(next.length ? next : DEFAULT_WATCH.slice());
+            render('term');
+          });
+          $('main').querySelectorAll('[data-url]').forEach((el) => el.onclick = () => {
+            if (el.dataset.url) window.open(el.dataset.url, '_blank', 'noopener');
+          });
+          bindCards($('main'));
+          const cmd = $('openCmd');
+          if (cmd) cmd.onclick = () => document.getElementById('app').classList.add('show-cmd');
+          const pd = $('openPd');
+          if (pd && desk[0]) pd.onclick = () => openPost(desk[0].slug);
+          const adv = $('openAdvertise');
+          if (adv) adv.onclick = (e) => { e.stopPropagation(); render('advertise'); };
+          const roomDoor = $('openRoom');
+          if (roomDoor) roomDoor.onclick = () => {
+            if (!member()) openGarden();
+            else render('room');
+          };
+          const studioDoor = $('openStudio');
+          if (studioDoor) studioDoor.onclick = () => {
+            if (!canEnterHouse(member())) openGarden();
+            else render('live');
+          };
+          const bookDoor = $('openBook');
+          if (bookDoor) bookDoor.onclick = () => {
+            if (!canEnterHouse(member())) openGarden();
+            else render('book');
+          };
+        } else if (tab === 'room') {
+          const seated = member();
+          if (!seated) {
+            openGarden();
+            $('main').innerHTML = `<div class="pad">
+              <div class="kicker">The Room · invite only</div>
+              <h1>The brief is complimentary. The room is not open.</h1>
+              <div class="rule">You may keep reading the newspaper. The floor stays closed until the desk takes a seat.</div>
+              <p class="lede">House codes seat immediately. An application is a request — not a key.</p>
+              <button class="primary" id="roomAsk" style="width:100%;padding:12px;border:0;border-radius:8px">Request a seat</button>
+            </div>`;
+            $('roomAsk').onclick = () => openGarden();
+          } else {
+            const roomId = window._roomId || 'book';
+            const chamber = ROOMS[roomId] || ROOMS.book;
+            const notes = roomNotes(roomId);
+            const thread = (SEED[roomId] || []).concat(notes);
+            const pending = seatStatus(seated) === 'pending';
+            const floor = canPost(seated);
+            $('main').innerHTML = `<div class="pad">
+              <div class="kicker">The Room · members only</div>
+              <h1>Four chambers. One rule.</h1>
+              <div class="rule">Chatham House Rule. Members may use what is said here. They may not name who said it, or their institution, outside the garden.</div>
+              <p class="lede">${pending ? 'Application with the desk' : 'Seated'} · ${esc(seatLabel(seated))}.</p>
+              ${pending ? `<div class="pending-plate">
+                <div class="kicker">Under review</div>
+                <p class="lede">You may read the house spine. You may not post until a seat is confirmed.</p>
+                <input id="roomInvite" placeholder="UAO-DESK" />
+                <button class="primary" id="roomInviteGo" style="width:100%;margin-top:8px;padding:12px;border:0;border-radius:8px">Apply invite</button>
+                <p class="meta" id="roomInviteErr"></p>
+              </div>` : ''}
+              <div class="seg">
+                ${Object.entries(ROOMS).map(([id, room]) => `<button data-room="${id}" class="${id===roomId?'on':''}">${room.title}</button>`).join('')}
+              </div>
+              <p class="lede">${esc(chamber.kicker)}</p>
+              <div class="chat">${thread.map((m) => `<div class="bubble ${m.desk ? 'desk' : ''}"><div class="who">${esc(m.who)}${m.at && m.at !== 'house' ? ' · ' + esc(fmt(m.at)) : ''}</div><p>${esc(m.text)}</p></div>`).join('')}</div>
+              ${floor ? `<div class="composer">
+                <input id="roomNote" maxlength="${NOTE_MAX}" placeholder="A note for the room — no names." />
+                <button class="primary" id="roomSend" style="padding:11px 14px;border:0;border-radius:8px">Post</button>
+              </div>
+              <p class="local-note">Notes stay on this device until the house server exists. They do not reach another seat.</p>
+              <div class="peer-plate">
+                <div class="kicker">Invite one peer</div>
+                ${seated.peerCode ? `<h2>${esc(seated.peerCode)}</h2>` : '<button class="primary" id="mintPeer" style="width:100%;padding:12px;border:0;border-radius:8px">Mint a peer code</button>'}
+                <p class="meta">One code. Pass it by hand. The desk can revoke. Not a growth loop.</p>
+              </div>` : ''}
+              <div class="kicker" style="margin-top:18px">Who sits here</div>
+              ${[
+                ['Public pension', 'CIO office · Canada'],
+                ['Sovereign wealth', 'Head of public markets · Nordics'],
+                ['Family office', 'Principal · United States'],
+                ['Insurer', 'CIO · Europe'],
+                ['Endowment', 'CIO · United Kingdom'],
+              ].map(([a,b]) => `<div class="seat"><div><b>${a}</b><div class="meta">${b}</div></div><div class="meta">Vetted</div></div>`).join('')}
+              <p class="meta">The roster is by mandate, not by name. That is the house.</p>
+            </div>`;
+            $('main').querySelectorAll('[data-room]').forEach((b) => b.onclick = () => { window._roomId = b.dataset.room; render('room'); });
+            const send = $('roomSend');
+            if (send) send.onclick = () => {
+              const text = sanitizeNote($('roomNote').value);
+              if (!text || !floor) return;
+              setRoomNotes(roomId, roomNotes(roomId).concat([{
+                desk: false, who: seatLabel(seated), text, at: new Date().toISOString(),
+              }]));
+              render('room');
+            };
+            const mint = $('mintPeer');
+            if (mint) mint.onclick = () => {
+              if (seated.peerCode) return;
+              admit({ ...seated, peerCode: mintPeerCode() });
+              render('room');
+            };
+            const inviteGo = $('roomInviteGo');
+            if (inviteGo) inviteGo.onclick = () => {
+              const nextCode = normalizeInvite($('roomInvite').value);
+              if (!validInvite(nextCode)) {
+                $('roomInviteErr').textContent = 'That code is not on the book.';
+                return;
+              }
+              admit({ ...seated, via: nextCode, status: 'seated', at: Date.now() });
+              render('room');
+            };
+          }
+        } else if (tab === 'live' || tab === 'book') {
+          if (!canEnterHouse(member())) {
+            openGarden();
+            $('main').innerHTML = `<div class="pad">
+              <div class="kicker">The house · apply</div>
+              <h1>Name, work email, direct line.</h1>
+              <div class="rule">The brief stays complimentary. Jobs, the diary, the studio and the research book open after the desk has a record on you.</div>
+              <button class="primary" id="houseAsk" style="width:100%;padding:12px;border:0;border-radius:8px">Apply for the house</button>
+            </div>`;
+            $('houseAsk').onclick = () => openGarden();
+          } else if (tab === 'live') {
+            if (!studioShows.length && !episodes.length) await loadStudio();
+            const seated = member();
+            const onAir = Boolean(liveVideoId);
+            if (!playing) playing = onAir ? liveVideoId : (studioShows[0] && studioShows[0].videoId) || '';
+            const selected = studioShows.find((s) => s.videoId === playing);
+            const liveMode = onAir && playing === liveVideoId;
+            const playerSrc = playing ? (liveMode
+              ? 'https://www.youtube-nocookie.com/embed/' + encodeURIComponent(playing) + '?autoplay=1&mute=1&playsinline=1&rel=0&modestbranding=1'
+              : embedShow(playing)) : '';
+            const audioRows = episodes.slice(0, 6).map((ep) => {
+              const src = safeSrc(ep.audio);
+              if (!src) return '';
+              return `<article class="card">
+                <div class="kicker">${esc(ep.show)}</div>
+                <h2>${esc(ep.title)}</h2>
+                <p class="lede">${esc(ep.summary || '')}</p>
+                <audio class="player" controls preload="none" src="${esc(src)}"></audio>
+              </article>`;
+            }).filter(Boolean).join('');
+            $('main').innerHTML = `<div class="pad">
+              <div class="kicker">Studio · members</div>
+              <h1>${liveMode ? 'We are live.' : 'Just missed. The book is still on the tape.'}</h1>
+              <p class="lede">The same YouTube player as the website. Podcasts play here — they do not bounce you to Apple.</p>
+              <p class="lede">Seated as ${esc(seatLabel(seated))}.</p>
+              <div class="seg">
+                ${onAir ? `<button data-mode="live" class="${liveMode?'on':''}">Watch live</button>` : ''}
+                <button data-mode="missed" class="${!liveMode?'on':''}">Just missed</button>
+                <button data-jump="listen">Listen</button>
+              </div>
+              ${playerSrc ? `<div class="liveframe"><iframe src="${playerSrc}" title="${esc((liveMode ? 'UAO Live' : selected && selected.title) || 'Studio')}" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe></div>` : '<div class="empty">Studio is quiet.</div>'}
+              ${liveMode ? '<p class="tickline">On air now. Same player as the website.</p>' : selected ? `<div class="kicker">Just missed</div><h2>${esc(selected.title)}</h2><div class="meta">${fmt(selected.publishedAt)}</div>` : ''}
+              <div class="kicker" style="margin-top:18px" id="listenHead">Listen in the house</div>
+              ${audioRows || '<div class="empty">Audio desk is quiet.</div>'}
+              <div class="kicker" style="margin-top:18px">The most recent shows</div>
+              ${studioShows.slice(0, 10).map((s) => `<article class="studio" data-yt="${esc(s.videoId)}">
+                ${s.thumbnail && safeSrc(s.thumbnail) ? `<img src="${esc(safeSrc(s.thumbnail))}" alt="">` : ''}
+                <div class="body"><h2>${esc(s.title)}</h2><div class="meta">${fmt(s.publishedAt)}</div></div>
+              </article>`).join('')}
+            </div>`;
+            $('main').querySelectorAll('[data-yt]').forEach((el) => el.onclick = () => {
+              playing = el.getAttribute('data-yt') || '';
+              render('live');
+            });
+            const watchLive = $('main').querySelector('[data-mode="live"]');
+            if (watchLive) watchLive.onclick = () => { playing = liveVideoId; render('live'); };
+            const missed = $('main').querySelector('[data-mode="missed"]');
+            if (missed) missed.onclick = () => { playing = (studioShows[0] && studioShows[0].videoId) || ''; render('live'); };
+            const jump = $('main').querySelector('[data-jump="listen"]');
+            if (jump) jump.onclick = () => { const head = $('listenHead'); if (head) head.scrollIntoView({ behavior: 'smooth' }); };
+          } else {
+            const seated = member();
+            const people = await fetchPosts('tag:people', 8).catch(() => []);
+            const research = await fetchPosts(FILTERS.research, 8).catch(() => []);
+            if (!wireCache.length) await loadWire();
+            const signals = wireCache.filter((item) => isHiringSignal(item.title)).slice(0, 8);
+            $('main').innerHTML = `<div class="pad">
+              <div class="kicker">The book · members</div>
+              <h1>Jobs the desk verified. Appointments the house will take.</h1>
+              <p class="lede">${seatStatus(seated)==='pending' ? 'Application with the desk' : 'Seated'} · ${esc(seatLabel(seated))}. We do not invent a mandate we have not confirmed.</p>
+              <div class="seg">
+                <button data-go="book" class="on">Jobs</button>
+                <button data-go="live">Studio</button>
+                <button data-go="research">Reports</button>
+              </div>
+              <div class="kicker">Institutional Talent Desk</div>
+              <article class="inv"><b>Careers Intelligence</b><span class="lede">Verified roles, confidential searches, CIO moves. The most consequential seats rarely begin with a public application.</span>
+                <div class="meta"><a class="pill" href="https://www.universalassetowners.com/careers/intelligence/">Open the careers book</a></div></article>
+              <article class="inv"><b>Candidates</b><span class="lede">A discreet next step. Work email. Direct line.</span>
+                <div class="meta"><a class="pill" href="mailto:info@universalassetowners.com?subject=Talent%20desk%20%E2%80%94%20candidate">Write the talent desk</a></div></article>
+              <article class="inv"><b>Employers</b><span class="lede">Post a mandate. Featured placement is labelled. Editorial stays firewalled.</span>
+                <div class="meta"><a class="pill" href="mailto:info@universalassetowners.com?subject=Talent%20desk%20%E2%80%94%20mandate">Post a mandate</a></div></article>
+              <div class="kicker" style="margin-top:16px">Verified roles</div>
+              <p class="lede">${esc(VERIFIED_ROLES_COPY)}</p>
+              <div class="kicker" style="margin-top:16px">Houses we track</div>
+              ${EMPLOYER_PORTALS.map(([name, line, href]) => `<article class="inv"><b>${esc(name)}</b><span class="lede">${esc(line)}</span>
+                <div class="meta"><a class="pill" href="${esc(href)}" target="_blank" rel="noopener">Open the career portal</a></div></article>`).join('')}
+              <div class="kicker" style="margin-top:16px">Institutional boards</div>
+              ${JOB_BOARDS.map(([name, line, href]) => `<article class="inv"><b>${esc(name)}</b><span class="lede">${esc(line)}</span>
+                <div class="meta"><a class="pill" href="${esc(href)}" target="_blank" rel="noopener">Open the board</a></div></article>`).join('')}
+              <div class="kicker" style="margin-top:16px">Owner-side flows</div>
+              <p class="lede">The other side of MandateWire. Only what the desk or the official print already said — searches, DC sleeves, private-markets pacing. We do not invent an RFP.</p>
+              ${wireCache.map((item) => {
+                const kind = flowKind(item.title, item.summary);
+                if (!kind) return '';
+                return `<article class="wire-item" data-${item.slug ? 'slug' : 'url'}="${esc(item.slug || item.url || '')}">
+                  <div class="src">${esc(kind)} · ${esc(item.source)}</div>
+                  <h2>${esc(item.title)}</h2>
+                </article>`;
+              }).filter(Boolean).slice(0, 8).join('') || '<p class="lede">No owner-side flow on the wire this tick.</p>'}
+              <div class="kicker" style="margin-top:16px">Signals the desk reported</div>
+              ${signals.map((item) => `<article class="wire-item" data-${item.slug ? 'slug' : 'url'}="${esc(item.slug || item.url || '')}">
+                <div class="src">${esc(item.source)}</div>
+                <h2>${esc(item.title)}</h2>
+              </article>`).join('') || '<p class="lede">No hiring print on the wire this tick.</p>'}
+              <div class="kicker" style="margin-top:16px">Who moved</div>
+              ${people.map(compact).join('') || '<p class="lede">No public people notes yet.</p>'}
+              <div class="kicker" style="margin-top:16px">The diary</div>
+              <article class="inv"><b>07:00 ET · weekdays</b><span class="lede">Morning desk — The Universal Owner. Complimentary.</span></article>
+              <article class="inv"><b>After lunch · weekdays</b><span class="lede">The Probability Desk. Weights on the mast when printed.</span></article>
+              <article class="inv"><b>When we go on air</b><span class="lede">UAO Live. Just-missed sits in Studio.</span></article>
+              <article class="inv"><b>By request</b><span class="lede">Chatham House briefing. Not a public calendar. The desk seats the table.</span>
+                <div class="meta"><a class="pill" href="mailto:info@universalassetowners.com?subject=Briefing%20request%20%E2%80%94%20UAO">Request a briefing</a></div></article>
+              <div class="kicker" style="margin-top:16px">Reports</div>
+              ${research.map(compact).join('')}
+              <div class="kicker" style="margin-top:16px">Institutions</div>
+              ${INST.map(([slug, title, blurb]) => `<div class="inst" data-tag="${slug}"><div><b>${title}</b><div class="meta">${blurb}</div></div><div class="chev">›</div></div>`).join('')}
+            </div>`;
+            $('main').querySelectorAll('[data-go]').forEach((b) => b.onclick = () => render(b.dataset.go));
+            $('main').querySelectorAll('[data-tag]').forEach((el) => el.onclick = () => openTag(el.dataset.tag));
+            $('main').querySelectorAll('[data-slug]').forEach((el) => el.onclick = () => openPost(el.dataset.slug));
+            $('main').querySelectorAll('[data-url]').forEach((el) => el.onclick = () => { window.open(el.dataset.url, '_blank', 'noopener'); });
+          }
+        } else if (tab === 'wire') {
+          if (!wireCache.length) await loadWire();
+          $('main').innerHTML = `<div class="pad">
+            <div class="kicker">Streaming wire</div>
+            <h1>What just moved the book.</h1>
+            <p class="lede">The UAO desk, official prints that reprice it, then a name-level allocator scan — not a newspaper. Ticks while this page is open.</p>
+            <p class="tickline" id="wireTick"></p>
+            <div class="seg">
+              <button data-wf="ALL" class="on">All</button>
+              <button data-wf="UAO">UAO desk</button>
+              <button data-wf="OFFICIAL">Official</button>
+              <button data-wf="BOOK">Allocators</button>
+            </div>
+            <div class="seg" id="wireNames">
+              <button data-wn="ALL" class="on">All names</button>
+              <button data-wn="MY">My names</button>
+              ${BOOK_NAMES.slice(0,10).map((row) => `<button data-wn="${row[1]}">${row[1]}</button>`).join('')}
+            </div>
+            <div id="wireList"></div>
+          </div>`;
+          $('main').querySelectorAll('[data-wf]').forEach((b) => b.onclick = () => {
+            wireFilter = b.dataset.wf;
+            $('main').querySelectorAll('[data-wf]').forEach((x) => x.classList.toggle('on', x === b));
+            paintWireList();
+          });
+          $('main').querySelectorAll('[data-wn]').forEach((b) => b.onclick = () => {
+            wireName = b.dataset.wn;
+            $('main').querySelectorAll('[data-wn]').forEach((x) => x.classList.toggle('on', x === b));
+            paintWireList();
+          });
+          paintWireList();
+        } else if (tab === 'briefs' || tab === 'watchv' || tab === 'listen' || tab === 'research') {
+          const filter = tab === 'briefs' ? FILTERS.brief : FILTERS[tab] || FILTERS.brief;
+          const posts = await fetchPosts(filter, 18);
+          const title = { briefs: 'The Universal Owner', watchv: 'Watch', listen: 'Listen', research: 'UAO Research' }[tab];
+          $('main').innerHTML = `<div class="pad">
+            <div class="kicker">${tab === 'briefs' ? 'Morning intelligence' : 'Format'}</div>
+            <h1>${title}</h1>
+            <div class="seg">
+              <button data-go="briefs" class="${tab==='briefs'?'on':''}">Briefs</button>
+              <button data-go="research" class="${tab==='research'?'on':''}">Research</button>
+              <button data-go="watchv" class="${tab==='watchv'?'on':''}">Video</button>
+              <button data-go="listen" class="${tab==='listen'?'on':''}">Audio</button>
+            </div>
+            ${tab === 'listen' ? `<div class="row" style="margin-bottom:10px">
+              <a class="pill" href="https://podcasts.apple.com/us/podcast/the-universal-owner/id1896768422">Apple</a>
+              <a class="pill" href="https://open.spotify.com/show/033o3co88wewrXkK06HLNS">Spotify</a>
+              <a class="pill" href="https://feed.podbean.com/universalassetowners/feed.xml">RSS</a>
+            </div>` : ''}
+            ${posts.map((p) => card(p)).join('') || '<div class="empty">Nothing on this wire yet.</div>'}
+            ${subscribe()}
+          </div>`;
+          $('main').querySelectorAll('[data-go]').forEach((b) => b.onclick = () => render(b.dataset.go));
+        } else if (tab === 'desk') {
+          const posts = await fetchPosts(FILTERS.desk, 16);
+          $('main').innerHTML = `<div class="pad">
+            <div class="kicker">Afternoon scenario desk</div>
+            <h1>The Probability Desk</h1>
+            <p class="lede">Base, upside and tail — probability-weighted for capital that thinks in decades.</p>
+            ${(() => { const w = posts[0] ? parseDeskWeights(posts[0].html || '') : null; return w ? `<div class="meters">
+              <div class="base"><b>${w.base}%</b><span>BASE</span></div>
+              <div class="up"><b>${w.upside}%</b><span>UPSIDE</span></div>
+              <div class="tail"><b>${w.tail}%</b><span>TAIL</span></div>
+            </div>` : '<p class="lede">Weights live in the note. We do not invent a book the desk has not printed.</p>'; })()}
+            <button class="pill" id="openCmd2" style="margin:12px 0">Open Command Center</button>
+            ${posts.map((p) => card(p)).join('')}
+            ${partnerPlate()}
+            ${subscribe()}
+          </div>`;
+          $('openCmd2').onclick = () => document.getElementById('app').classList.add('show-cmd');
+          const pda = $('openAdvertise');
+          if (pda) pda.onclick = () => render('advertise');
+        } else if (tab === 'charts') {
+          const posts = await fetchPosts(FILTERS.charts, 20);
+          $('main').innerHTML = `<div class="pad">
+            <div class="kicker">Visual signal</div>
+            <h1>Charts</h1>
+            <p class="lede">One print a day from each desk. Tap any chart for the briefing underneath it.</p>
+            <div class="grid">${posts.map((p) => `<article class="chart" data-slug="${p.slug}">${p.feature_image ? `<img src="${p.feature_image}" alt="">` : ''}<p>${p.title}</p></article>`).join('')}</div>
+          </div>`;
+        } else if (tab === 'watch') {
+          const mine = saved();
+          $('main').innerHTML = `<div class="pad">
+            <div class="kicker">The house</div>
+            <h1>Watchlist, institutions, the room.</h1>
+            <p class="lede">${mine.length} saved briefing${mine.length===1?'':'s'} on this phone. The rest of the book is the people who allocate it.</p>
+            ${(() => {
+              const seated = member();
+              const status = seatStatus(seated);
+              if (status === 'seated') return `<div class="pending-plate"><div class="kicker">The Room</div><p class="lede">Seated · ${esc(seatLabel(seated))}${seated.peerCode ? ' · ' + esc(seated.peerCode) : ''}.</p></div>`;
+              if (status === 'pending') return `<div class="pending-plate"><div class="kicker">The Room</div><p class="lede">Application with the desk · ${esc(seatLabel(seated))}. The floor is still closed.</p></div>`;
+              return `<div class="pending-plate"><div class="kicker">The Room</div><p class="lede">The brief is complimentary. The room is not open.</p></div>`;
+            })()}
+            ${mine.length ? mine.map(compact).join('') : '<div class="empty">Open any brief and tap Save — it stays on this device.</div>'}
+            <div class="kicker" style="margin-top:18px">People & institutions</div>
+            ${INST.map(([slug, title, blurb]) => `<div class="inst" data-tag="${slug}"><div><b>${title}</b><div class="meta">${blurb}</div></div><div class="chev">›</div></div>`).join('')}
+            <div class="kicker" style="margin-top:18px">Themes</div>
+            <div class="row">${THEMES.map((t) => `<button class="pill" data-tag="${t}">${t.replace(/-/g,' ')}</button>`).join('')}</div>
+            ${partnerPlate()}
+            <div class="house" id="openAdvertise2">
+              <div class="kicker">Commercial</div>
+              <h2>Advertise in this terminal</h2>
+              <p class="lede">Disclosed. Firewalled. Built for houses that already sit across from the book.</p>
+            </div>
+            ${subscribe()}
+          </div>`;
+          $('main').querySelectorAll('[data-tag]').forEach((el) => el.onclick = () => openTag(el.dataset.tag));
+          const a2 = $('openAdvertise2') || $('openAdvertise');
+          if (a2) a2.onclick = () => render('advertise');
+          const a1 = $('openAdvertise');
+          if (a1) a1.onclick = () => render('advertise');
+        } else if (tab === 'advertise') {
+          $('main').innerHTML = `<div class="pad">
+            <button class="pill" id="backHouse">‹ The house</button>
+            <div class="kicker" style="margin-top:14px">Advertising & sponsorship</div>
+            <h1>Reach the people who allocate at the scale of the world.</h1>
+            <p class="lede">This is not a remnant banner. UAO partners selectively with organisations that already serve or study long-horizon capital. Sponsorship is disclosed. Editorial is firewalled. If a sponsor asks for influence, the relationship ends.</p>
+            <div class="kicker">Who sits in this room</div>
+            ${['Sovereign wealth','Public pensions','Endowments & foundations','Insurers','Family offices','The people who advise them'].map((n) => `<div class="house"><b>${n}</b></div>`).join('')}
+            <div class="kicker" style="margin-top:16px">Inventory</div>
+            <div class="inv"><b>Morning brief</b><span class="lede">One disclosed adjacency next to The Universal Owner — the first thing the desk opens.</span></div>
+            <div class="inv"><b>Probability Desk</b><span class="lede">Afternoon scenario. Base, upside, tail.</span></div>
+            <div class="inv"><b>YouTube live</b><span class="lede">The same player as the website, when we go on air.</span></div>
+            <div class="inv"><b>UAO Research</b><span class="lede">Partner research is labelled and never mixed into the daily brief.</span></div>
+            <div class="inv"><b>Briefings</b><span class="lede">Chatham House conversations with the people who allocate the book.</span></div>
+            <p class="lede">Sponsored items are excluded from the homepage lead and the daily brief unless separately labelled.</p>
+            <a class="primary" href="mailto:info@universalassetowners.com?subject=Media%20kit%20%E2%80%94%20UAO%20Terminal" style="display:block;text-align:center;text-decoration:none;padding:13px;border-radius:8px;margin-top:8px">Email the desk for the media kit</a>
+            <div class="row" style="margin-top:12px">
+              <a class="pill" href="${SITE}/briefings/">Briefings</a>
+              <a class="pill" href="${SITE}/editorial-standards/">Editorial standards</a>
+              <a class="pill" href="${SITE}/contact/">Contact</a>
+            </div>
+          </div>`;
+          $('backHouse').onclick = () => render('watch');
+        }
+        bindCards($('main'));
+        wireSignup();
+      } catch (err) {
+        $('main').innerHTML = `<div class="empty">${err.message}</div>`;
+      }
+    }
+
+    async function openTag(slug) {
+      $('main').innerHTML = '<div class="empty">Pulling the book…</div>';
+      const posts = await fetchPosts('tag:' + slug, 16);
+      $('main').innerHTML = `<div class="pad">
+        <button class="pill" id="backWatch">‹ Watchlist</button>
+        <div class="kicker" style="margin-top:12px">Coverage</div>
+        <h1>${slug.replace(/-/g,' ')}</h1>
+        ${posts.map((p) => card(p)).join('') || '<div class="empty">No public notes on this name yet.</div>'}
+      </div>`;
+      $('backWatch').onclick = () => render('watch');
+      bindCards($('main'));
+    }
+
+    async function openPost(slug) {
+      if (!slug) return;
+      const post = await fetchPost(slug);
+      if (!post) { $('main').innerHTML = '<div class="empty">This briefing is not available.</div>'; return; }
+      current = post;
+      $('rkicker').textContent = kicker(post);
+      $('rtitle').textContent = post.title;
+      $('rmeta').textContent = (post.authors?.[0]?.name || 'UAO Editorial') + ' · ' + fmt(post.published_at) + (post.reading_time ? ' · ' + post.reading_time + ' min' : '');
+      $('saveBtn').classList.toggle('on', saved().some((p) => p.id === post.id));
+      paintReader(post);
+      document.getElementById('app').classList.add('show-reader');
+    }
+    function paintReader(post) {
+      $('rbody').srcdoc = `<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+        <style>body{margin:0;padding:16px 18px 64px;background:#f4efe6;color:#12202f;font:${typePx}px/1.65 Georgia,serif}h1,h2{color:#0b1f3a}h2{border-bottom:2px solid #c9a24b;padding-bottom:8px}a{color:#8a7433}img,iframe{max-width:100%}iframe{width:100%;min-height:220px;border:0}table{width:100%;border-collapse:collapse;font-size:13px}th{background:#0b1f3a;color:#f4efe6;padding:8px;text-align:left}td{padding:8px;border-bottom:1px solid #e3ddce}.close{margin-top:28px;padding:18px;border:1px solid #c9a24b;background:#0b1f3a;color:#f4efe6}.close b{color:#c9a24b;display:block;letter-spacing:.14em;font:800 11px system-ui;margin-bottom:8px}.close p{font:15px/1.5 Georgia,serif;margin:0 0 12px}.close a{display:block;background:#c9a24b;color:#0b1f3a;text-align:center;text-decoration:none;font:800 13px system-ui;padding:12px;border-radius:8px}</style></head>
+        <body>${post.html || excerpt(post)}
+        <div class="close"><b>Continue the desk</b><p>This briefing is one day of a book written for people who allocate at the scale of the world. The morning brief is complimentary — the room is reviewed.</p><a href="${SITE}/#/portal/signup" target="_top">Request desk access</a></div>
+        </body></html>`;
+    }
+
+    document.querySelectorAll('nav.tabs button').forEach((b) => b.onclick = () => render(b.dataset.tab));
+    $('back').onclick = () => document.getElementById('app').classList.remove('show-reader');
+    $('closeCmd').onclick = () => document.getElementById('app').classList.remove('show-cmd');
+    $('searchBtn').onclick = () => document.getElementById('app').classList.add('show-search');
+    $('closeSearch').onclick = () => document.getElementById('app').classList.remove('show-search');
+    $('saveBtn').onclick = () => {
+      if (!current) return;
+      const list = saved();
+      const next = list.some((p) => p.id === current.id) ? list.filter((p) => p.id !== current.id) : [current, ...list].slice(0, 40);
+      setSaved(next);
+      $('saveBtn').classList.toggle('on', next.some((p) => p.id === current.id));
+    };
+    $('shareBtn').onclick = () => {
+      if (!current) return;
+      const url = current.url || SITE;
+      if (navigator.share) navigator.share({ title: current.title, url });
+      else navigator.clipboard.writeText(url);
+    };
+    $('aaMinus').onclick = () => { typePx = Math.max(14, typePx - 1); if (current) paintReader(current); };
+    $('aaPlus').onclick = () => { typePx = Math.min(22, typePx + 1); if (current) paintReader(current); };
+    let t;
+    $('q').oninput = () => {
+      clearTimeout(t);
+      const q = $('q').value.trim();
+      t = setTimeout(async () => {
+        if (q.length < 2) { $('searchResults').innerHTML = ''; return; }
+        $('searchResults').innerHTML = '<div class="empty">Searching…</div>';
+        try {
+          const posts = await search(q);
+          $('searchResults').innerHTML = posts.length ? posts.map(compact).join('') : '<div class="empty">No titles matched.</div>';
+          bindCards($('searchResults'));
+        } catch (e) {
+          $('searchResults').innerHTML = `<div class="empty">${e.message}</div>`;
+        }
+      }, 250);
+    };
+    const LIVE_API = 'https://uao-live-production.up.railway.app/';
+    const demo = new URLSearchParams(location.search).get('demo');
+    let lastBriefId = localStorage.getItem('uao.lastBriefId') || '';
+    let liveVideoId = '';
+    let demoBriefShown = false;
+    async function pollDesk() {
+      try {
+        const live = await (await fetch(LIVE_API)).json();
+        const badge = $('liveBadge');
+        const on = Boolean(live && live.live && live.videoId);
+        badge.classList.toggle('offair', !on);
+        badge.classList.toggle('onair', on);
+        $('liveBadgeText').textContent = on ? 'LIVE' : 'STANDBY';
+        if (on && live.videoId !== sessionStorage.getItem('uao-live-dismissed-v1')) {
+          if (live.videoId !== liveVideoId) {
+            liveVideoId = live.videoId;
+            $('liveTitle').textContent = live.title || 'Universal Asset Owners is live';
+            $('liveToastBody').textContent = live.title || 'The same YouTube player as the website just came on air.';
+            $('liveFrame').src = 'https://www.youtube-nocookie.com/embed/' + encodeURIComponent(live.videoId) +
+              '?autoplay=1&mute=1&playsinline=1&rel=0&modestbranding=1';
+            $('livedock').classList.add('on');
+            $('liveToast').classList.add('on');
+          }
+        } else if (!on) {
+          liveVideoId = '';
+          $('livedock').classList.remove('on');
+          $('liveToast').classList.remove('on');
+          $('liveFrame').src = '';
+        }
+      } catch (e) { /* stay silent like the website */ }
+      try {
+        const briefs = await fetchPosts(FILTERS.brief, 1);
+        const latest = briefs[0];
+        if (!latest) return;
+        const showBriefToast = () => {
+          $('briefToastTitle').textContent = 'This morning’s brief is out';
+          $('briefToastBody').textContent = latest.title;
+          $('briefToastGo').onclick = () => { $('briefToast').classList.remove('on'); openPost(latest.slug); };
+          $('briefToast').classList.add('on');
+        };
+        if (demo === 'brief' && !demoBriefShown) {
+          demoBriefShown = true;
+          showBriefToast();
+        }
+        if (!lastBriefId) {
+          lastBriefId = latest.id;
+          localStorage.setItem('uao.lastBriefId', latest.id);
+          return;
+        }
+        if (latest.id !== lastBriefId) {
+          lastBriefId = latest.id;
+          localStorage.setItem('uao.lastBriefId', latest.id);
+          showBriefToast();
+        }
+      } catch (e) { /* ignore */ }
+    }
+    $('hideLive').onclick = () => {
+      sessionStorage.setItem('uao-live-dismissed-v1', liveVideoId);
+      $('livedock').classList.remove('on');
+      $('liveToast').classList.remove('on');
+      $('liveFrame').src = '';
+    };
+    $('liveToastGo').onclick = () => $('liveToast').classList.remove('on');
+    $('liveToastLater').onclick = () => $('liveToast').classList.remove('on');
+    $('briefToastLater').onclick = () => $('briefToast').classList.remove('on');
+    $('accessBtn').onclick = () => {
+      if (!member()) openGarden();
+      else render('room');
+    };
+    $('accessLater').onclick = () => $('accessToast').classList.remove('on');
+    function leaveGarden() {
+      closeGarden();
+      if ((tab === 'room' || tab === 'live' || tab === 'book') && !canEnterHouse(member())) render('term');
+    }
+    $('gardenLater').onclick = leaveGarden;
+    $('gardenLaterTop').onclick = leaveGarden;
+    $('inviteGo').onclick = () => {
+      const code = normalizeInvite($('inviteCode').value);
+      if (!validInvite(code)) {
+        $('inviteErr').textContent = 'That code is not on the book.';
+        return;
+      }
+      const prev = member() || {};
+      admit({
+        email: prev.email || '',
+        institution: prev.institution || 'Invited seat',
+        role: prev.role || 'Member',
+        via: code,
+        at: Date.now(),
+        status: 'seated',
+        peerCode: prev.peerCode,
+      });
+      closeGarden();
+      render('room');
+    };
+    $('appEmail').oninput = () => {
+      $('appWarn').hidden = !consumerInbox($('appEmail').value);
+    };
+    $('appGo').onclick = () => {
+      const name = ($('appName').value || '').trim();
+      const email = ($('appEmail').value || '').trim();
+      const phone = ($('appPhone').value || '').trim();
+      const institution = ($('appInst').value || '').trim();
+      const role = ($('appRole').value || '').trim();
+      const why = ($('appWhy').value || '').trim();
+      if (!name || !email || !email.includes('@') || !validPhone(phone) || !institution || !role || !why) {
+        $('appErr').textContent = 'Name, work email, direct line, institution, role, and why this desk.';
+        return;
+      }
+      $('appErr').textContent = '';
+      admit({ name, email, phone, institution, role, why, via: 'application', at: Date.now(), status: 'pending' });
+      closeGarden();
+      const body = ['Name: '+name,'Email: '+email,'Phone: '+phone,'Institution: '+institution,'Role: '+role,'Why: '+why].join('\n');
+      const mail = document.createElement('a');
+      mail.href = 'mailto:info@universalassetowners.com?subject=' + encodeURIComponent('Seat application — UAO Terminal') + '&body=' + encodeURIComponent(body);
+      mail.rel = 'noopener';
+      mail.click();
+      render('book');
+    };
+    $('accessGo').onclick = () => {
+      const email = ($('accessEmail')?.value || '').trim();
+      location.href = SITE + '/#/portal/signup' + (email ? '?email=' + encodeURIComponent(email) : '');
+    };
+    tickClock();
+    setInterval(tickClock, 15000);
+    pollDesk();
+    setInterval(pollDesk, 45000);
+    const bootParams = new URLSearchParams(location.search);
+    const startTab = bootParams.get('tab') || (bootParams.get('invite') ? 'room' : 'term');
+    ensureMember();
+    loadStudio();
+    render(['term','wire','live','book','room','briefs','desk','charts','watch','advertise','watchv','listen','research'].includes(startTab) ? startTab : 'term');
+    loadWire().then(() => { if (tab === 'wire') paintWireList(); });
+    setInterval(() => {
+      loadWire().then(() => { if (tab === 'wire') paintWireList(); });
+    }, 30000);
+  </script>
+</body>
+</html>

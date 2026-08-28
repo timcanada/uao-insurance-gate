@@ -1,0 +1,60 @@
+import { ScrollViewStyleReset } from 'expo-router/html';
+import type { ReactNode } from 'react';
+
+// This file is web-only and used to configure the root HTML for every
+// web page during static rendering.
+// The contents of this function only run in Node.js environments and
+// do not have access to the DOM or browser APIs.
+export default function Root({ children }: { children: ReactNode }) {
+  return (
+    <html lang="en">
+      <head>
+        <meta charSet="utf-8" />
+        <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+        {/*
+          Disable body scrolling on web. This makes ScrollView components work closer to how they do on native.
+          However, body scrolling is often nice to have for mobile web. If you want to enable it, remove this line.
+        */}
+        <ScrollViewStyleReset />
+
+        {/* Using raw CSS styles as an escape-hatch to ensure the background color never flickers in dark-mode. */}
+        <style dangerouslySetInnerHTML={{ __html: responsiveBackground }} />
+        {/* Add any additional <head> elements that you want globally available on web... */}
+      </head>
+      <body>{children}</body>
+    </html>
+  );
+}
+
+const responsiveBackground = `
+html, body, #root {
+  height: 100%;
+}
+body {
+  margin: 0;
+  background:
+    radial-gradient(120% 80% at 50% 0%, #16314a 0%, #0b1f3a 55%, #071422 100%);
+  color: #f5f1e6;
+}
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+}
+@media (min-width: 640px) {
+  body {
+    padding: 28px 16px;
+  }
+  #root {
+    width: min(430px, 100%);
+    max-height: 900px;
+    margin: 0 auto;
+    border: 1px solid #1d2e44;
+    border-radius: 28px;
+    overflow: hidden;
+    box-shadow: 0 24px 80px rgba(0,0,0,.45);
+    background: #0b1f3a;
+  }
+}`

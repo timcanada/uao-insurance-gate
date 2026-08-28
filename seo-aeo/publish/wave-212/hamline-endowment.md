@@ -43,7 +43,7 @@ Do not 301 this page onto `/wabash-endowment/`, `/hope-college-endowment/`, `/ha
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
-- [Wabash College endowment](/wabash-endowment/)
+- [Rochester Institute of Technology endowment](/rit-endowment/)
 - [Hope College endowment](/hope-college-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

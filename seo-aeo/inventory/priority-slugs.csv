@@ -1330,6 +1330,24 @@ wave,type,slug,title,audience,conversion,priority,status,notes
 212,institution,hamline-endowment,Hamline University endowment,allocator,brief,P0,drafted-in-repo,Wave 212. Official endowment net assets $158,818,177 at 30 Jun 2025. Do not invent a percent. Do not mint /hamline/
 2,institution,hamline-endowment-explained,Hamline endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 212 /hamline-endowment/
 2,institution,hamline,Hamline (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 212 /hamline-endowment/
+213,institution,puget-sound-endowment,University of Puget Sound endowment,allocator,brief,P0,drafted-in-repo,Wave 213. Official endowment net assets $507,671 thousand at 30 Jun 2025. Do not invent a percent on that NA card. Do not mint /puget-sound/ or /puget/ or /ups/
+2,institution,puget-sound-endowment-explained,Puget Sound endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 213 /puget-sound-endowment/
+2,institution,puget-sound,Puget Sound (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 213 /puget-sound-endowment/
+2,institution,puget,Puget (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 213 /puget-sound-endowment/
+2,institution,ups,UPS (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 213 /puget-sound-endowment/. Too generic
+213,institution,elon-endowment,Elon University endowment,allocator,brief,P0,drafted-in-repo,Wave 213. Official endowment net assets $398,093,334 at 31 May 2025. Do not invent a percent. Do not mint /elon/
+2,institution,elon-endowment-explained,Elon endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 213 /elon-endowment/
+2,institution,elon,Elon (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 213 /elon-endowment/
+213,institution,rit-endowment,Rochester Institute of Technology endowment,allocator,brief,P0,drafted-in-repo,Wave 213. Official endowment net assets $1,475,376 thousand at 30 Jun 2025. Do not invent a percent. Do not mint /rit/. Not leftover University of Rochester
+2,institution,rit-endowment-explained,RIT endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 213 /rit-endowment/
+2,institution,rit,RIT (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 213 /rit-endowment/
+213,institution,denison-university-endowment,Denison University endowment,allocator,brief,P0,drafted-in-repo,Wave 213. Official endowment net assets $1,113,898 thousand at 30 Jun 2025. Do not invent a percent. Do not mint /denison/ or /denison-endowment/. Not leftover Denison Fire
+2,institution,denison-university-endowment-explained,Denison University endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 213 /denison-university-endowment/
+2,institution,denison-endowment,Denison endowment (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 213 /denison-university-endowment/. /denison/ remains Wave 174 Denison Fire
+2,institution,denison-college,Denison College (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 213 /denison-university-endowment/
+213,institution,bentley-endowment,Bentley University endowment,allocator,brief,P0,drafted-in-repo,Wave 213. Official endowment net assets $390,389 thousand at 30 Jun 2025. Do not invent a percent. Do not mint /bentley/. Not leftover Bentley Systems
+2,institution,bentley-endowment-explained,Bentley endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 213 /bentley-endowment/
+2,institution,bentley,Bentley (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 213 /bentley-endowment/
 196,institution,cornell-endowment,Cornell University endowment,allocator,brief,P0,drafted-in-repo,Wave 196. Official true endowment and FFE $10,880,678 thousand at 30 Jun 2025. Official statements $11.8 billion / 12.3% is a different book. Do not mint /cornell/
 2,institution,cornell-endowment-explained,Cornell endowment explained twin,allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/
 2,institution,cornell,Cornell (short),allocator,brief,P0,do-not-mint,Do not mint. Twin of Wave 196 /cornell-endowment/

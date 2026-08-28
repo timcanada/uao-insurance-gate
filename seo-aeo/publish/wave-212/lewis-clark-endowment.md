@@ -44,6 +44,6 @@ Do not 301 this page onto `/whitman-endowment/`, `/reed-endowment/`, `/lclark/`,
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Whitman College endowment](/whitman-endowment/)
-- [Reed College endowment](/reed-endowment/)
+- [University of Puget Sound endowment](/puget-sound-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

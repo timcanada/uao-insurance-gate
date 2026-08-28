@@ -43,7 +43,7 @@ Do not 301 this page onto `/furman-endowment/`, `/ursinus-endowment/`, `/stetson
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
-- [Ursinus College endowment](/ursinus-endowment/)
+- [Bentley University endowment](/bentley-endowment/)
 - [Furman University endowment](/furman-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

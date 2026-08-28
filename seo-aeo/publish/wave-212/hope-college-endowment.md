@@ -44,6 +44,6 @@ Do not 301 this page onto `/st-olaf-endowment/`, `/hamline-endowment/`, `/hope/`
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [St. Olaf College endowment](/st-olaf-endowment/)
-- [Hamline University endowment](/hamline-endowment/)
+- [Denison University endowment](/denison-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -44,6 +44,6 @@ Do not 301 this page onto `/wabash-endowment/`, `/scripps-endowment/`, `/furman/
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Scripps College endowment](/scripps-endowment/)
-- [Wabash College endowment](/wabash-endowment/)
+- [Elon University endowment](/elon-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -49,5 +49,8 @@ Do not 301 this page onto `/texas-state-university-foundation/`, `/rice-endowmen
 - [Rice endowment](/rice-endowment/)
 - [Southwestern University endowment](/southwestern-endowment/)
 - [TCU endowment](/tcu-endowment/)
+- [Calhoun College Foundation endowment](/calhoun-college-foundation/)
+- [Gadsden State Cardinal Foundation endowment](/gadsden-state-cardinal-foundation/)
+- [Marion Military Institute Foundation endowment](/marion-military-institute-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

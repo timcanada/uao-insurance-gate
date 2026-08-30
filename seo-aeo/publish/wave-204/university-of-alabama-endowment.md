@@ -48,5 +48,8 @@ Do not 301 this page onto `/howard-endowment/`, `/alabama-rsa/`, `/alabama/`, `/
 - [Howard University endowment](/howard-endowment/)
 - [Alabama RSA](/alabama-rsa/)
 - [Clemson University endowment](/clemson-endowment/)
+- [Calhoun College Foundation endowment](/calhoun-college-foundation/)
+- [Gadsden State Cardinal Foundation endowment](/gadsden-state-cardinal-foundation/)
+- [Marion Military Institute Foundation endowment](/marion-military-institute-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

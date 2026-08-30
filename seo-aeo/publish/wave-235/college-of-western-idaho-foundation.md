@@ -51,5 +51,6 @@ Do not 301 this page onto `/university-of-idaho-foundation/`, `/idaho-state-univ
 - [Lane Community College Foundation endowment](/lane-community-college-foundation/)
 - [Southwestern Oregon Community College Foundation endowment](/southwestern-oregon-community-college-foundation/)
 - [Pima Community College Foundation endowment](/pima-community-college-foundation/)
+- [Cochise College Foundation endowment](/cochise-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

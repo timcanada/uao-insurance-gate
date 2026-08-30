@@ -56,5 +56,6 @@ Do not 301 this page onto `/university-of-oregon-foundation/`, `/portland-state-
 - [College of Western Idaho Foundation endowment](/college-of-western-idaho-foundation/)
 - [Ventura College Foundation endowment](/ventura-college-foundation/)
 - [Pima Community College Foundation endowment](/pima-community-college-foundation/)
+- [Cochise College Foundation endowment](/cochise-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

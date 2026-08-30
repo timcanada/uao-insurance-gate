@@ -47,6 +47,7 @@ Do not 301 this page onto `/ventura-college-foundation/`, `/college-of-western-i
 - [The endowment model, explained](/endowment-model-explained/)
 - [Ventura College Foundation endowment](/ventura-college-foundation/)
 - [Arizona Western College Foundation endowment](/arizona-western-college-foundation/)
+- [Cochise College Foundation endowment](/cochise-college-foundation/)
 - [College of Western Idaho Foundation endowment](/college-of-western-idaho-foundation/)
 - [Lane Community College Foundation endowment](/lane-community-college-foundation/)
 - [Mt. San Jacinto Community College Foundation endowment](/mt-san-jacinto-community-college-foundation/)

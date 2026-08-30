@@ -44,7 +44,7 @@ Do not 301 this page onto `/umass-foundation/`, `/hampshire-college-endowment/`,
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
-- [University of Massachusetts Foundation](/umass-foundation/)
+- [University of Massachusetts Foundation endowment](/university-of-massachusetts-foundation/)
 - [Hampshire College endowment](/hampshire-college-endowment/)
 - [Springfield College endowment](/springfield-college-endowment/)
 - [Wentworth Institute of Technology endowment](/wentworth-institute-endowment/)

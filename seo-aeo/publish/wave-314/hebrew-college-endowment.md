@@ -53,5 +53,6 @@ Do not 301 this page onto `/william-james-college-endowment/`, `/new-york-medica
 - [Hampshire College endowment](/hampshire-college-endowment/)
 - [West Virginia University Foundation endowment](/west-virginia-university-foundation/)
 - [Naval War College Foundation endowment](/naval-war-college-foundation/)
+- [University of Massachusetts Foundation endowment](/university-of-massachusetts-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

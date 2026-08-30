@@ -48,5 +48,6 @@ Do not 301 this page onto `/cornell-endowment/`, `/dartmouth-endowment/`, `/brow
 - [Cornell University endowment](/cornell-endowment/)
 - [Dartmouth College endowment](/dartmouth-endowment/)
 - [Naval War College Foundation endowment](/naval-war-college-foundation/)
+- [University of Massachusetts Foundation endowment](/university-of-massachusetts-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -45,6 +45,7 @@ Do not 301 this page onto `/hampshire-college-endowment/`, `/holy-cross-endowmen
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [University of Massachusetts Foundation endowment](/university-of-massachusetts-foundation/)
 - [Hampshire College endowment](/hampshire-college-endowment/)
 - [Holy Cross endowment](/holy-cross-endowment/)
 - [Suffolk University endowment](/suffolk-university-endowment/)

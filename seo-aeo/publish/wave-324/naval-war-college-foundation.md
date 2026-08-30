@@ -56,5 +56,6 @@ Do not 301 this page onto `/brown-endowment/`, `/johnson-wales-endowment/`, `/un
 - [Wesleyan University endowment](/wesleyan-endowment/)
 - [Hebrew College endowment](/hebrew-college-endowment/)
 - [William James College endowment](/william-james-college-endowment/)
+- [University of Massachusetts Foundation endowment](/university-of-massachusetts-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

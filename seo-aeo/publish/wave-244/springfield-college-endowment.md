@@ -45,7 +45,7 @@ Do not 301 this page onto `/hampshire-college-endowment/`, `/umass-foundation/`,
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Hampshire College endowment](/hampshire-college-endowment/)
-- [University of Massachusetts Foundation](/umass-foundation/)
+- [University of Massachusetts Foundation endowment](/university-of-massachusetts-foundation/)
 - [Curry College endowment](/curry-college-endowment/)
 - [Stonehill College endowment](/stonehill-college-endowment/)
 - [Wentworth Institute of Technology endowment](/wentworth-institute-endowment/)

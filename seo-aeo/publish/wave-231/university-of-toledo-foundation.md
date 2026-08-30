@@ -49,5 +49,6 @@ Do not 301 this page onto `/xavier-university-endowment/`, `/university-of-dayto
 - [University of Detroit Mercy endowment](/detroit-mercy-endowment/)
 - [Bowling Green State University Foundation endowment](/bowling-green-state-university-foundation/)
 - [University of Cincinnati Foundation endowment](/university-of-cincinnati-foundation/)
+- [University of Akron Foundation endowment](/university-of-akron-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

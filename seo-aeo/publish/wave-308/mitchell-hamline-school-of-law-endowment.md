@@ -50,5 +50,6 @@ Do not 301 this page onto `/hamline-endowment/`, `/saint-johns-university-endowm
 - [Saint John's University endowment](/saint-johns-university-endowment/)
 - [Gustavus Adolphus College endowment](/gustavus-adolphus-endowment/)
 - [Oral Roberts University endowment](/oral-roberts-university-endowment/)
+- [University of Akron Foundation endowment](/university-of-akron-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

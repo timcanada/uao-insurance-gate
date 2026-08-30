@@ -55,5 +55,6 @@ Do not 301 this page onto `/university-of-kentucky-endowment/`, `/kentucky-trs/`
 - [West Virginia State University Foundation endowment](/west-virginia-state-university-foundation/)
 - [Fairmont State Foundation endowment](/fairmont-state-foundation/)
 - [University of Southern Indiana Foundation endowment](/university-of-southern-indiana-foundation/)
+- [Asbury Theological Seminary endowment](/asbury-theological-seminary-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -58,5 +58,6 @@ Do not 301 this page onto `/university-of-kentucky-endowment/`, `/vanderbilt-end
 - [Shepherd University Foundation endowment](/shepherd-university-foundation/)
 - [West Virginia State University Foundation endowment](/west-virginia-state-university-foundation/)
 - [Fairmont State Foundation endowment](/fairmont-state-foundation/)
+- [Asbury Theological Seminary endowment](/asbury-theological-seminary-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

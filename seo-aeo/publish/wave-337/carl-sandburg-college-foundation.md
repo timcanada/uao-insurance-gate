@@ -51,5 +51,6 @@ Do not 301 this page onto `/college-of-dupage-foundation/`, `/kishwaukee-college
 - [Kishwaukee College Foundation endowment](/kishwaukee-college-foundation/)
 - [City Colleges of Chicago Foundation endowment](/city-colleges-of-chicago-foundation/)
 - [Western Illinois University Foundation endowment](/western-illinois-university-foundation/)
+- [Asbury Theological Seminary endowment](/asbury-theological-seminary-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

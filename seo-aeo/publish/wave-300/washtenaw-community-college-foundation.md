@@ -50,6 +50,7 @@ Do not 301 this page onto `/university-of-michigan-endowment/`, `/delta-college-
 - [Kirtland Community College Foundation endowment](/kirtland-community-college-foundation/)
 - [Delta College Foundation endowment](/delta-college-foundation/)
 - [Northwestern Michigan College Foundation endowment](/northwestern-michigan-college-foundation/)
+- [Kellogg Community College Foundation endowment](/kellogg-community-college-foundation/)
 - [Kishwaukee College Foundation endowment](/kishwaukee-college-foundation/)
 - [Riverside Community College District Foundation endowment](/riverside-community-college-district-foundation/)
 - [Cuesta College Foundation endowment](/cuesta-college-foundation/)

@@ -49,6 +49,7 @@ Do not 301 this page onto `/northwestern-michigan-college-foundation/`, `/glen-o
 - [Kirtland Community College Foundation endowment](/kirtland-community-college-foundation/)
 - [Northwestern Michigan College Foundation endowment](/northwestern-michigan-college-foundation/)
 - [Washtenaw Community College Foundation endowment](/washtenaw-community-college-foundation/)
+- [Kellogg Community College Foundation endowment](/kellogg-community-college-foundation/)
 - [Delta College Foundation endowment](/delta-college-foundation/)
 - [Northern Michigan University Foundation endowment](/northern-michigan-university-foundation/)
 - [Ferris Foundation endowment](/ferris-foundation/)

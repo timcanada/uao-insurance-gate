@@ -51,5 +51,6 @@ Do not 301 this page onto `/lone-star-college-foundation/`, `/alvin-community-co
 - [Alvin Community College Foundation endowment](/alvin-community-college-foundation/)
 - [Texas Lutheran University endowment](/texas-lutheran-university-endowment/)
 - [Calhoun College Foundation endowment](/calhoun-college-foundation/)
+- [Kellogg Community College Foundation endowment](/kellogg-community-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

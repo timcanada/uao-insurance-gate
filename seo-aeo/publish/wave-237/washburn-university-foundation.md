@@ -46,5 +46,6 @@ Do not 301 this page onto `/washington-university-endowment/`, `/kansas-state-un
 - [The endowment model, explained](/endowment-model-explained/)
 - [Emporia State University Foundation endowment](/emporia-state-university-foundation/)
 - [Wichita State University Foundation endowment](/wichita-state-university-foundation/)
+- [Park University endowment](/park-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

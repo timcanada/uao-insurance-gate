@@ -47,5 +47,6 @@ Do not 301 this page onto `/university-of-nebraska-foundation/`, `/wichita-state
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Nebraska Foundation endowment](/university-of-nebraska-foundation/)
 - [Wichita State University Foundation endowment](/wichita-state-university-foundation/)
+- [Park University endowment](/park-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

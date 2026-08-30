@@ -47,5 +47,6 @@ Do not 301 this page onto `/kansas-state-university-foundation/`, `/kansas-unive
 - [The endowment model, explained](/endowment-model-explained/)
 - [Washburn University Foundation endowment](/washburn-university-foundation/)
 - [Emporia State University Foundation endowment](/emporia-state-university-foundation/)
+- [Park University endowment](/park-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

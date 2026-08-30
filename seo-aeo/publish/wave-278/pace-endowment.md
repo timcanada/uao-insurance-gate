@@ -49,5 +49,6 @@ Do not 301 this page onto `/fordham-endowment/`, `/baruch-college-fund/`, `/pace
 - [The Baruch College Fund endowment](/baruch-college-fund/)
 - [Fashion Institute of Technology Foundation endowment](/fashion-institute-of-technology-foundation/)
 - [York College Foundation endowment](/york-college-foundation/)
+- [New York Medical College endowment](/new-york-medical-college-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

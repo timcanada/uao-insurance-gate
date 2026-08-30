@@ -50,5 +50,6 @@ Do not 301 this page onto `/rit-endowment/`, `/syracuse-endowment/`, `/cornell-e
 - [Cornell University endowment](/cornell-endowment/)
 - [MetroHealth Foundation endowment](/metrohealth-foundation/)
 - [University of Akron Foundation endowment](/university-of-akron-foundation/)
+- [New York Medical College endowment](/new-york-medical-college-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

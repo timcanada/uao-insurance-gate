@@ -54,5 +54,6 @@ Do not 301 this page onto `/cleveland-state-university-foundation/`, `/lorain-co
 - [University of Cincinnati Foundation endowment](/university-of-cincinnati-foundation/)
 - [Northeast Ohio Medical University Foundation endowment](/northeast-ohio-medical-university-foundation/)
 - [Sinclair Community College Foundation endowment](/sinclair-community-college-foundation/)
+- [MetroHealth Foundation endowment](/metrohealth-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

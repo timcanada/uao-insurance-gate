@@ -52,5 +52,6 @@ Do not 301 this page onto `/lorain-county-community-college-foundation/`, `/owen
 - [Shawnee State University Foundation endowment](/shawnee-state-university-foundation/)
 - [Cuyahoga Community College Foundation endowment](/cuyahoga-community-college-foundation/)
 - [Sinclair Community College Foundation endowment](/sinclair-community-college-foundation/)
+- [MetroHealth Foundation endowment](/metrohealth-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

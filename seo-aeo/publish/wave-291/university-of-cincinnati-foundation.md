@@ -52,5 +52,6 @@ Do not 301 this page onto `/university-of-toledo-foundation/`, `/bowling-green-s
 - [Cuyahoga Community College Foundation endowment](/cuyahoga-community-college-foundation/)
 - [Northeast Ohio Medical University Foundation endowment](/northeast-ohio-medical-university-foundation/)
 - [University of Akron Foundation endowment](/university-of-akron-foundation/)
+- [MetroHealth Foundation endowment](/metrohealth-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

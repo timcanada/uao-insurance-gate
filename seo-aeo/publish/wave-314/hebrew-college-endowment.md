@@ -54,5 +54,6 @@ Do not 301 this page onto `/william-james-college-endowment/`, `/new-york-medica
 - [West Virginia University Foundation endowment](/west-virginia-university-foundation/)
 - [Naval War College Foundation endowment](/naval-war-college-foundation/)
 - [University of Massachusetts Foundation endowment](/university-of-massachusetts-foundation/)
+- [St. Vladimir's Orthodox Theological Seminary endowment](/st-vladimirs-orthodox-theological-seminary-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -54,5 +54,6 @@ Do not 301 this page onto `/university-of-denver-endowment/`, `/metropolitan-sta
 - [Calvin Theological Seminary endowment](/calvin-theological-seminary-endowment/)
 - [St. Mary Seminary endowment](/st-mary-seminary-endowment/)
 - [Asbury Theological Seminary endowment](/asbury-theological-seminary-endowment/)
+- [St. Vladimir's Orthodox Theological Seminary endowment](/st-vladimirs-orthodox-theological-seminary-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

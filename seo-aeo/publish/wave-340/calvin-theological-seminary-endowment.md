@@ -54,5 +54,6 @@ Do not 301 this page onto `/calvin-endowment/`, `/hope-college-endowment/`, `/gr
 - [Asbury Theological Seminary endowment](/asbury-theological-seminary-endowment/)
 - [St. Mary Seminary endowment](/st-mary-seminary-endowment/)
 - [Denver Seminary endowment](/denver-seminary-endowment/)
+- [St. Vladimir's Orthodox Theological Seminary endowment](/st-vladimirs-orthodox-theological-seminary-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

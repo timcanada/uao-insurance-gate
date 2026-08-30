@@ -45,6 +45,7 @@ Do not 301 this page onto `/george-mason-university-foundation/`, `/william-and-
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [St. Mary's University endowment](/st-marys-university-endowment/)
 - [University of Maryland College Park Foundation endowment](/university-of-maryland-college-park-foundation/)
 - [University of Maryland Baltimore Foundation endowment](/university-of-maryland-baltimore-foundation/)
 - [University System of Maryland Foundation endowment](/university-system-of-maryland-foundation/)

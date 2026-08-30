@@ -579,6 +579,7 @@ def main() -> None:
         ("glen-oaks-community-college-foundation", "Glen Oaks Community College Foundation endowment", "Endowment", "needed"),
         ("mid-michigan-college-foundation", "Mid Michigan College Foundation endowment", "Endowment", "needed"),
         ("kirtland-community-college-foundation", "Kirtland Community College Foundation endowment", "Endowment", "needed"),
+        ("alvin-community-college-foundation", "Alvin Community College Foundation endowment", "Endowment", "needed"),
         ("emory-endowment", "Emory University endowment", "Endowment", "needed"),
         ("carnegie-mellon-endowment", "Carnegie Mellon University endowment", "Endowment", "needed"),
         ("caltech-endowment", "Caltech endowment", "Endowment", "needed"),

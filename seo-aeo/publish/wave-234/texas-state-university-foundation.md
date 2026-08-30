@@ -45,6 +45,7 @@ Do not 301 this page onto `/rice-endowment/`, `/tcu-endowment/`, `/txst/`, `/tex
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Rice endowment](/rice-endowment/)
+- [Alvin Community College Foundation endowment](/alvin-community-college-foundation/)
 - [CSU San Marcos Foundation endowment](/csu-san-marcos-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

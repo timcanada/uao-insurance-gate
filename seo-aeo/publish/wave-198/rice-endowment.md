@@ -49,6 +49,7 @@ Do not 301 this page onto `/emory-endowment/`, `/vanderbilt-endowment/`, `/rice/
 - [Vanderbilt University endowment](/vanderbilt-endowment/)
 - [Tulane University endowment](/tulane-endowment/)
 - [Baylor University endowment](/baylor-endowment/)
+- [Alvin Community College Foundation endowment](/alvin-community-college-foundation/)
 - [Emory University endowment](/emory-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -45,5 +45,6 @@ Do not 301 this page onto `/elon-endowment/`, `/furman-endowment/`, `/southweste
 - [The endowment model, explained](/endowment-model-explained/)
 - [Elon University endowment](/elon-endowment/)
 - [Barry University endowment](/barry-endowment/)
+- [Texas Lutheran University endowment](/texas-lutheran-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

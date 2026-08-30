@@ -43,6 +43,7 @@ Do not 301 this page onto `/university-of-kentucky-endowment/`, `/vanderbilt-end
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [Blue Ridge Community and Technical College Foundation endowment](/blue-ridge-community-and-technical-college-foundation/)
 - [University of Kentucky endowment](/university-of-kentucky-endowment/)
 - [Vanderbilt University endowment](/vanderbilt-endowment/)
 - [Kenyon College endowment](/kenyon-endowment/)

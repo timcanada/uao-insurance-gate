@@ -54,6 +54,7 @@ Do not 301 this page onto `/university-of-idaho-foundation/`, `/idaho-state-univ
 - [Bluefield State University Foundation endowment](/bluefield-state-university-foundation/)
 - [Shepherd University Foundation endowment](/shepherd-university-foundation/)
 - [West Virginia State University Foundation endowment](/west-virginia-state-university-foundation/)
+- [Blue Ridge Community and Technical College Foundation endowment](/blue-ridge-community-and-technical-college-foundation/)
 - [Fairmont State Foundation endowment](/fairmont-state-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

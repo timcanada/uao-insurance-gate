@@ -43,6 +43,7 @@ Do not 301 this page onto `/university-of-kentucky-alumni-endowment/`, `/univers
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [Blue Ridge Community and Technical College Foundation endowment](/blue-ridge-community-and-technical-college-foundation/)
 - [University of Kentucky Alumni Association endowment](/university-of-kentucky-alumni-endowment/)
 - [University of Kentucky Mining Engineering Foundation endowment](/university-of-kentucky-mining-endowment/)
 - [Berea College endowment](/berea-college-endowment/)

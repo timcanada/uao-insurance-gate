@@ -47,6 +47,7 @@ Do not 301 this page onto `/shepherd-university-foundation/`, `/fairmont-state-f
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [Blue Ridge Community and Technical College Foundation endowment](/blue-ridge-community-and-technical-college-foundation/)
 - [Shepherd University Foundation endowment](/shepherd-university-foundation/)
 - [Fairmont State Foundation endowment](/fairmont-state-foundation/)
 - [Bluefield State University Foundation endowment](/bluefield-state-university-foundation/)

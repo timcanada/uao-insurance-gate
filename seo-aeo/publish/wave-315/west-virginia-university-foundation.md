@@ -48,6 +48,7 @@ Do not 301 this page onto `/university-of-louisville-foundation/`, `/berea-colle
 - [The endowment model, explained](/endowment-model-explained/)
 - [Hebrew College endowment](/hebrew-college-endowment/)
 - [West Liberty University Foundation endowment](/west-liberty-university-foundation/)
+- [Concord University Foundation endowment](/concord-university-foundation/)
 - [University of Louisville Foundation endowment](/university-of-louisville-foundation/)
 - [Berea College endowment](/berea-college-endowment/)
 - [University of Kentucky endowment](/university-of-kentucky-endowment/)

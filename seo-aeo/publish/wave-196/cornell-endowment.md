@@ -48,5 +48,6 @@ Do not 301 this page onto `/johns-hopkins-endowment/`, `/university-of-pennsylva
 - [Johns Hopkins University endowment](/johns-hopkins-endowment/)
 - [Syracuse University endowment](/syracuse-endowment/)
 - [University of Pennsylvania endowment](/university-of-pennsylvania-endowment/)
+- [University of Rochester endowment](/university-of-rochester-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

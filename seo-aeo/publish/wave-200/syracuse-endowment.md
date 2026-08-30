@@ -47,5 +47,6 @@ Do not 301 this page onto `/cornell-endowment/`, `/nyu-endowment/`, `/syracuse/`
 - [The endowment model, explained](/endowment-model-explained/)
 - [Cornell University endowment](/cornell-endowment/)
 - [NYU endowment](/nyu-endowment/)
+- [University of Rochester endowment](/university-of-rochester-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -51,5 +51,6 @@ Do not 301 this page onto `/university-of-cincinnati-foundation/`, `/university-
 - [Lakeland Foundation endowment](/lakeland-foundation/)
 - [University of Cincinnati Foundation endowment](/university-of-cincinnati-foundation/)
 - [Mitchell Hamline School of Law endowment](/mitchell-hamline-school-of-law-endowment/)
+- [University of Rochester endowment](/university-of-rochester-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

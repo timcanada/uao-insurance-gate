@@ -45,5 +45,6 @@ Do not 301 this page onto `/hamline-endowment/`, `/union-college-endowment/`, `/
 - [The endowment model, explained](/endowment-model-explained/)
 - [Hamline University endowment](/hamline-endowment/)
 - [Marist University endowment](/marist-endowment/)
+- [University of Rochester endowment](/university-of-rochester-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

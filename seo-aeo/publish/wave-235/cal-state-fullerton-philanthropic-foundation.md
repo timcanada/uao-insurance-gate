@@ -52,5 +52,6 @@ Do not 301 this page onto `/csu-chico-foundation/`, `/colorado-state-university-
 - [CSU Dominguez Hills Philanthropic Foundation endowment](/csu-dominguez-hills-philanthropic-foundation/)
 - [CSUN Foundation endowment](/csun-foundation/)
 - [Fresno State Foundation endowment](/fresno-state-foundation/)
+- [Loma Linda University endowment](/loma-linda-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

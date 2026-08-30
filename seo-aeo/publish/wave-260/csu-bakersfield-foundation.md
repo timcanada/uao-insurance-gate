@@ -55,5 +55,6 @@ Do not 301 this page onto `/cal-state-fullerton-philanthropic-foundation/`, `/cs
 - [The Campanile Foundation endowment](/campanile-foundation/)
 - [CSUN Foundation endowment](/csun-foundation/)
 - [Fresno State Foundation endowment](/fresno-state-foundation/)
+- [Loma Linda University endowment](/loma-linda-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -58,5 +58,6 @@ Do not 301 this page onto `/cal-state-fullerton-philanthropic-foundation/`, `/cs
 - [Mt. San Jacinto Community College Foundation endowment](/mt-san-jacinto-community-college-foundation/)
 - [Ventura College Foundation endowment](/ventura-college-foundation/)
 - [Foundation for California Community Colleges endowment](/foundation-for-california-community-colleges/)
+- [Loma Linda University endowment](/loma-linda-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -50,5 +50,6 @@ Do not 301 this page onto `/university-of-kentucky-endowment/`, `/vanderbilt-end
 - [Denison University endowment](/denison-university-endowment/)
 - [University of Kentucky Alumni Association endowment](/university-of-kentucky-alumni-endowment/)
 - [West Virginia University Foundation endowment](/west-virginia-university-foundation/)
+- [West Liberty University Foundation endowment](/west-liberty-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

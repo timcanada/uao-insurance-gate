@@ -47,5 +47,6 @@ Do not 301 this page onto `/university-of-kentucky-alumni-endowment/`, `/univers
 - [University of Kentucky Mining Engineering Foundation endowment](/university-of-kentucky-mining-endowment/)
 - [Berea College endowment](/berea-college-endowment/)
 - [West Virginia University Foundation endowment](/west-virginia-university-foundation/)
+- [West Liberty University Foundation endowment](/west-liberty-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

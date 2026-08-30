@@ -47,5 +47,6 @@ Do not 301 this page onto `/university-of-washington-endowment/`, `/washington-u
 - [The endowment model, explained](/endowment-model-explained/)
 - [Willamette University endowment](/willamette-endowment/)
 - [Spelman College endowment](/spelman-endowment/)
+- [West Liberty University Foundation endowment](/west-liberty-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

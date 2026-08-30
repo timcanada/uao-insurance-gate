@@ -46,5 +46,6 @@ Do not 301 this page onto `/university-of-kentucky-endowment/`, `/kentucky-trs/`
 - [Hillsborough Education Foundation endowment](/hillsborough-education-foundation/)
 - [University at Buffalo Foundation endowment](/university-at-buffalo-foundation/)
 - [West Virginia University Foundation endowment](/west-virginia-university-foundation/)
+- [West Liberty University Foundation endowment](/west-liberty-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

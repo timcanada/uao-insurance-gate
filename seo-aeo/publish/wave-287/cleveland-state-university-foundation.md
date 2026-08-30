@@ -58,5 +58,6 @@ Do not 301 this page onto `/colorado-state-university-foundation/`, `/youngstown
 - [Northeast Ohio Medical University Foundation endowment](/northeast-ohio-medical-university-foundation/)
 - [University of Akron Foundation endowment](/university-of-akron-foundation/)
 - [MetroHealth Foundation endowment](/metrohealth-foundation/)
+- [St. Mary Seminary endowment](/st-mary-seminary-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

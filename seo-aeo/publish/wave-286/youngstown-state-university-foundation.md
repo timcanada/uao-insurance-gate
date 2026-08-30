@@ -56,5 +56,6 @@ Do not 301 this page onto `/wright-state-university-foundation/`, `/university-o
 - [University of Cincinnati Foundation endowment](/university-of-cincinnati-foundation/)
 - [Northeast Ohio Medical University Foundation endowment](/northeast-ohio-medical-university-foundation/)
 - [University of Akron Foundation endowment](/university-of-akron-foundation/)
+- [St. Mary Seminary endowment](/st-mary-seminary-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

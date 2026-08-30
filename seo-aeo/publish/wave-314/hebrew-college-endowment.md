@@ -51,5 +51,6 @@ Do not 301 this page onto `/william-james-college-endowment/`, `/new-york-medica
 - [Lesley University endowment](/lesley-university-endowment/)
 - [MCPHS endowment](/mcphs-endowment/)
 - [Hampshire College endowment](/hampshire-college-endowment/)
+- [West Virginia University Foundation endowment](/west-virginia-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

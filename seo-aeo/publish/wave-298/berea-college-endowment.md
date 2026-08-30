@@ -49,5 +49,6 @@ Do not 301 this page onto `/university-of-kentucky-endowment/`, `/vanderbilt-end
 - [Wabash College endowment](/wabash-endowment/)
 - [Denison University endowment](/denison-university-endowment/)
 - [University of Kentucky Alumni Association endowment](/university-of-kentucky-alumni-endowment/)
+- [West Virginia University Foundation endowment](/west-virginia-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

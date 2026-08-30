@@ -45,5 +45,6 @@ Do not 301 this page onto `/university-of-kentucky-endowment/`, `/kentucky-trs/`
 - [The endowment model, explained](/endowment-model-explained/)
 - [Hillsborough Education Foundation endowment](/hillsborough-education-foundation/)
 - [University at Buffalo Foundation endowment](/university-at-buffalo-foundation/)
+- [West Virginia University Foundation endowment](/west-virginia-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

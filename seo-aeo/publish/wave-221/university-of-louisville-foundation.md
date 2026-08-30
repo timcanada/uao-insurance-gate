@@ -45,5 +45,6 @@ Do not 301 this page onto `/university-of-mississippi-foundation/`, `/university
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Mississippi Foundation endowment](/university-of-mississippi-foundation/)
 - [Missouri State University Foundation endowment](/missouri-state-university-foundation/)
+- [West Virginia University Foundation endowment](/west-virginia-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

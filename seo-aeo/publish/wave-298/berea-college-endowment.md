@@ -53,5 +53,6 @@ Do not 301 this page onto `/university-of-kentucky-endowment/`, `/vanderbilt-end
 - [West Liberty University Foundation endowment](/west-liberty-university-foundation/)
 - [Concord University Foundation endowment](/concord-university-foundation/)
 - [Bluefield State University Foundation endowment](/bluefield-state-university-foundation/)
+- [Fairmont State Foundation endowment](/fairmont-state-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

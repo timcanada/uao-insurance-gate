@@ -54,6 +54,7 @@ Do not 301 this page onto `/west-virginia-university-foundation/`, `/university-
 - [Northern Kentucky University Foundation endowment](/northern-kentucky-university-foundation/)
 - [Concord University Foundation endowment](/concord-university-foundation/)
 - [Bluefield State University Foundation endowment](/bluefield-state-university-foundation/)
+- [Fairmont State Foundation endowment](/fairmont-state-foundation/)
 - [Washington and Lee University endowment](/washington-and-lee-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

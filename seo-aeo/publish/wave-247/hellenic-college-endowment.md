@@ -59,5 +59,6 @@ Do not 301 this page onto `/holy-cross-endowment/`, `/hampshire-college-endowmen
 - [Western Connecticut State University Foundation endowment](/wcsu-foundation/)
 - [Unity Environmental University endowment](/unity-environmental-endowment/)
 - [New England College of Optometry endowment](/new-england-college-of-optometry-endowment/)
+- [Hebrew College endowment](/hebrew-college-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

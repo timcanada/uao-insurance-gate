@@ -72,5 +72,6 @@ Do not 301 this page onto `/hampshire-college-endowment/`, `/curry-college-endow
 - [Unity Environmental University endowment](/unity-environmental-endowment/)
 - [New England College of Optometry endowment](/new-england-college-of-optometry-endowment/)
 - [William James College endowment](/william-james-college-endowment/)
+- [Hebrew College endowment](/hebrew-college-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

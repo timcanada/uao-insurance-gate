@@ -83,5 +83,6 @@ Do not 301 this page onto `/new-hampshire-retirement-system/`, `/hampshire/`, `/
 - [Southern Oregon University Foundation endowment](/southern-oregon-university-foundation/)
 - [Worcester Polytechnic Institute endowment](/worcester-polytechnic-endowment/)
 - [William James College endowment](/william-james-college-endowment/)
+- [Hebrew College endowment](/hebrew-college-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

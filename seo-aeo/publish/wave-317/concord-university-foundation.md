@@ -47,6 +47,7 @@ Do not 301 this page onto `/west-liberty-university-foundation/`, `/west-virgini
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [Bluefield State University Foundation endowment](/bluefield-state-university-foundation/)
 - [West Liberty University Foundation endowment](/west-liberty-university-foundation/)
 - [West Virginia University Foundation endowment](/west-virginia-university-foundation/)
 - [University of Louisville Foundation endowment](/university-of-louisville-foundation/)

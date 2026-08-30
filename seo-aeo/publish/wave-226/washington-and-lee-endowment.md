@@ -49,5 +49,6 @@ Do not 301 this page onto `/university-of-washington-endowment/`, `/washington-u
 - [Spelman College endowment](/spelman-endowment/)
 - [West Liberty University Foundation endowment](/west-liberty-university-foundation/)
 - [Concord University Foundation endowment](/concord-university-foundation/)
+- [Bluefield State University Foundation endowment](/bluefield-state-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

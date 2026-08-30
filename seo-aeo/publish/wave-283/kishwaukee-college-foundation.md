@@ -45,6 +45,7 @@ Do not 301 this page onto `/city-colleges-of-chicago-foundation/`, `/western-ill
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [College of DuPage Foundation endowment](/college-of-dupage-foundation/)
 - [City Colleges of Chicago Foundation endowment](/city-colleges-of-chicago-foundation/)
 - [Western Illinois University Foundation endowment](/western-illinois-university-foundation/)
 - [Northeastern Illinois University Foundation endowment](/northeastern-illinois-university-foundation/)

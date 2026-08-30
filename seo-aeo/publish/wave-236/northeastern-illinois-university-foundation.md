@@ -44,6 +44,7 @@ Do not 301 this page onto `/northeastern-endowment/`, `/university-of-illinois-f
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [College of DuPage Foundation endowment](/college-of-dupage-foundation/)
 - [Illinois State University Foundation endowment](/illinois-state-university-foundation/)
 - [Northern Illinois University Foundation endowment](/northern-illinois-university-foundation/)
 - [Western Illinois University Foundation endowment](/western-illinois-university-foundation/)

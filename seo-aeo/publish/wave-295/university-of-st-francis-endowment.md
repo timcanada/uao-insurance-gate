@@ -43,6 +43,7 @@ Do not 301 this page onto `/university-of-san-francisco-endowment/`, `/illinois-
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [College of DuPage Foundation endowment](/college-of-dupage-foundation/)
 - [Illinois Institute of Technology endowment](/illinois-institute-of-technology-endowment/)
 - [Loyola University Chicago endowment](/loyola-university-chicago-endowment/)
 - [Knox College endowment](/knox-endowment/)

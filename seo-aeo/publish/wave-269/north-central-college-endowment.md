@@ -45,6 +45,7 @@ Do not 301 this page onto `/monmouth-college-endowment/`, `/western-illinois-uni
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [College of DuPage Foundation endowment](/college-of-dupage-foundation/)
 - [Western Illinois University Foundation endowment](/western-illinois-university-foundation/)
 - [Monmouth College endowment](/monmouth-college-endowment/)
 - [Knox College endowment](/knox-endowment/)

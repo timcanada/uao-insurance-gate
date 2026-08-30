@@ -47,5 +47,6 @@ Do not 301 this page onto `/university-of-st-thomas-endowment/`, `/college-of-sa
 - [College of Saint Benedict endowment](/college-of-saint-benedict-endowment/)
 - [University of St. Thomas endowment](/university-of-st-thomas-endowment/)
 - [Concordia College Moorhead endowment](/concordia-college-moorhead-endowment/)
+- [Mitchell Hamline School of Law endowment](/mitchell-hamline-school-of-law-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

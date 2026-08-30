@@ -50,5 +50,6 @@ Do not 301 this page onto `/oklahoma-state-university-foundation/`, `/baylor-end
 - [Rice endowment](/rice-endowment/)
 - [Texas Lutheran University endowment](/texas-lutheran-university-endowment/)
 - [St. Mary's University endowment](/st-marys-university-endowment/)
+- [Mitchell Hamline School of Law endowment](/mitchell-hamline-school-of-law-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

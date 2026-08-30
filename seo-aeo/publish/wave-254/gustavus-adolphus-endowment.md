@@ -52,6 +52,7 @@ Do not 301 this page onto `/st-olaf-endowment/`, `/macalester-endowment/`, `/car
 - [Hamline University endowment](/hamline-endowment/)
 - [College of Saint Benedict endowment](/college-of-saint-benedict-endowment/)
 - [Saint John's University endowment](/saint-johns-university-endowment/)
+- [Mitchell Hamline School of Law endowment](/mitchell-hamline-school-of-law-endowment/)
 - [Great Lakes Christian College endowment](/great-lakes-christian-college-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

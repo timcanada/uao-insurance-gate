@@ -1,0 +1,54 @@
+---
+title: "Mitchell Hamline School of Law endowment, explained"
+slug: mitchell-hamline-school-of-law-endowment
+type: institution
+desk: research
+audience: allocator
+primary_keyword: "Mitchell Hamline School of Law endowment"
+answer_block: "The Mitchell Hamline School of Law endowment is the endowment book of Mitchell Hamline School of Law and Affiliates, not leftover Harvard $56.9 billion, leftover University of Michigan $21,201 million, leftover Hamline University $158,818,177, leftover Saint John's University $308,856,141, leftover Gustavus Adolphus College $326,415,665, leftover Concordia University St. Paul $60,534,050, leftover Oral Roberts University $53,094,061. The official 30 June 2025 financial statements print Total Endowment Funds at June 30, 2025 of $64,198,606. Printed Total Investment Return was $7,995,784. This change table does not print a one-year percent. Do not invent leftover 5% as one. Appropriation of Endowment Assets for Expenditure was $2,179,260. This page is not leftover Hamline University. This page is not leftover Saint John's University. This page is not leftover Gustavus Adolphus College. This page is not leftover Concordia University St. Paul. This page is not leftover Oral Roberts University. This page is not leftover Note 3 Total Investment Return $8,802,791. This page is not leftover entity-wide $78,617,700. This page is not a ranking and not advice."
+sources:
+  - https://bondlink-cdn.com/673/MHSL-Financial-Statements-2025.EbKx3xNkB.pdf
+  - https://www.mnhefabonds.com/minnesota-higher-education-facilities-authority-investor-relations--mn/documents/downloads/i679
+conversion: brief
+editor_status: draft
+---
+
+# Mitchell Hamline School of Law endowment, explained
+
+The Mitchell Hamline School of Law endowment is the endowment book of Mitchell Hamline School of Law and Affiliates, not leftover Harvard **$56.9 billion**, leftover University of Michigan **$21,201 million**, leftover Hamline University **$158,818,177**, leftover Saint John's University **$308,856,141**, leftover Gustavus Adolphus College **$326,415,665**, leftover Concordia University St. Paul **$60,534,050**, leftover Oral Roberts University **$53,094,061**. The official [30 June 2025 financial statements](https://bondlink-cdn.com/673/MHSL-Financial-Statements-2025.EbKx3xNkB.pdf) print Total Endowment Funds at June 30, 2025 of **$64,198,606** at **30 June 2025**. Printed Total Investment Return was **$7,995,784**. This change table does not print a one-year percent. Do not invent leftover **5%** as one. Appropriation of Endowment Assets for Expenditure was **$2,179,260**. This page is not leftover Hamline University. This page is not leftover Saint John's University. This page is not leftover Gustavus Adolphus College. This page is not leftover Concordia University St. Paul. This page is not leftover Oral Roberts University. This page is not leftover Note 3 Total Investment Return **$8,802,791**. This page is not leftover entity-wide **$78,617,700**. This page is not leftover Public Health Law Center. This page is not a ranking and not advice.
+
+**Do not treat this page as a leftover Harvard overwrite or a leftover Hamline University overwrite.** Do not mint `/mitchell-hamline-school-of-law-endowment-explained/`. **Never mint `/mitchell-hamline/`.** **Never mint `/mhsl/`.** **Never remint `/hamline/`.** Independently GET this wake (GET **200** `application/pdf` **643,446** bytes). Filename in `Content-Disposition`: `2025 Mitchell Hamline School of Law Financial Statement.pdf`. Official MNHEFA BondLink CDN. House lander `https://mitchellhamline.edu/` independently GET **403** Cloudflare this wake — house GET **403** is not the card. PDF GET **200** is the card. `pdftotext` **117,877** bytes. 39 pages. FY ends **30 June 2025**. CliftonLarsonAllen LLP (`CLAconnect.com`), Minneapolis, Minnesota, **20 November 2025**. Opinion addressed to the Board of Trustees Mitchell Hamline School of Law and Affiliates, St. Paul, Minnesota. Notes print UPMIFA as enacted in Minnesota. A distinct street address is not printed — do not invent one. The packet consolidates Mitchell Hamline School of Law, Public Health Law Center, Inc., and the Mitchell Hamline Student Bar Association — do not mint leftover PHLC or leftover SBA pages. The notes print that MHSL is a fully independent, autonomous institution and is no longer a department/school under the control of Hamline University. Not leftover Hamline University **$158,818,177**. Not leftover Saint John's University **$308,856,141**. Not leftover Gustavus Adolphus College **$326,415,665**. Not leftover Concordia University St. Paul **$60,534,050**. Not leftover Oral Roberts University **$53,094,061**. Not leftover 990.
+
+## What is official (30 June 2025)
+
+The financial statements print **actual dollars**.
+
+1. **Total Endowment Funds at June 30, 2025** **$64,198,606**. The change table prints Without Donor Restrictions / With Donor Restrictions / Total columns. Leftover beginning **$56,718,082** is another print. Leftover Donor-Restricted Endowment Funds **$43,975,815** / leftover Board-Designated Endowment Funds **$20,222,791** are sleeves. Leftover entity-wide Total Net Assets **$78,617,700** is a wider book. Leftover Without Donor Restrictions **$32,638,410** / leftover With Donor Restrictions **$45,979,290** are wider books. Leftover Note 3 Total Investments **$72,947,751** is a wider book. Those lines are not leftover Harvard **$56.9 billion**, leftover University of Michigan **$21,201 million**, leftover Hamline University **$158,818,177**.
+2. **Named books are not interchangeable.** Printed Total Investment Return **$7,995,784** is the labeled change-table Total. Leftover Investment Income (Net of Fees) **$4,356,396** and leftover Net Increase in Fair Value **$3,639,388** are two named return components under that Total — do not homemade-sum them as a second lock. Leftover Note 3 Total Investment Return **$8,802,791** and leftover Note 3 Total Investment Return **$8,784,135** are wider books — do not flatten them onto **$7,995,784**. Leftover SOA Investment Income at Spending Rate **$2,179,260** / leftover Investment Income in Excess of Spending Rate **$5,864,503** reprint spending-rate sleeves — do not flatten them onto **$7,995,784**. Leftover Write Off Adjustment/ BOD cash return **$944,450** is another print — do not flatten it onto **$7,995,784**. This change table does not print a one-year percent. Do not invent leftover **5%**. Do not invent leftover **4.0%** / leftover **4%** / leftover **5.0%** / leftover **8.2%** / leftover **8%** / leftover **3%** / leftover **14.7%** / leftover **7%** / leftover **10%** / leftover **6.5%** / leftover **7.00%** / leftover **4.75%** / leftover **4.25%** / leftover **4.50%**. The leftover pooled-portfolio print of **12.8%** is a leftover long-term pooled investment print, not a homemade card percent. Do not flatten leftover beginning **$56,718,082**, leftover **$8,802,791**, leftover **$78,617,700**, leftover Hamline University, leftover homemade rate onto **$64,198,606** / **$7,995,784**.
+3. **Payout.** Appropriation of Endowment Assets for Expenditure **$2,179,260** (printed **$(2,179,260)**). Leftover Contributions (Net) **$719,550** are not payout. Leftover Write Off Adjustment/ BOD cash return **$944,450** is not payout. Leftover Release of Donor-Restricted Endowment Appropriation **$1,473,033** is the With-donor sleeve, not a second lock. CliftonLarsonAllen LLP, Minneapolis, Minnesota, **20 November 2025**. The endowment (including legacy WMCL and HUSL funds) consists of 263 individual funds. There were no donor-restricted endowment funds for which original values exceeded market value as of June 30, 2025 or 2024. The Board of Trustees policy is appropriating for distribution each year not more than **5%** of average fair market value over the 12 quarters ending with the December 31 quarter preceding the budget year — leftover policy, not a one-year return.
+
+Do not flatten Mitchell Hamline School of Law into leftover [Hamline University endowment](/hamline-endowment/), leftover [Saint John's University endowment](/saint-johns-university-endowment/), leftover [Gustavus Adolphus College endowment](/gustavus-adolphus-endowment/), leftover [Concordia University St. Paul endowment](/concordia-university-st-paul-endowment/), leftover [Oral Roberts University endowment](/oral-roberts-university-endowment/), leftover `/mitchell-hamline/`, leftover `/mhsl/`, leftover `/hamline/`, leftover 990, leftover Note 3 Total Investment Return, leftover CalPERS, leftover [UC Investments](/uc-investments/), or leftover [largest university endowments](/largest-university-endowments-2026/). This is **one Mitchell Hamline School of Law file**. St. Paul is not leftover Hamline University and is not leftover Concordia University St. Paul.
+
+## What an owner is actually buying
+
+Counsel selling “Mitchell Hamline AUM” or “MHSL AUM” has to name the Mitchell Hamline School of Law endowment book, not leftover Hamline University, and not leftover Note 3 Total Investment Return **$8,802,791**. The **$64,198,606** line is Total Endowment Funds at June 30, 2025. The printed return is Total Investment Return **$7,995,784**. The **$2,179,260** line is Appropriation of Endowment Assets for Expenditure. Those are not leftover Hamline University. Those are not leftover Saint John's University. Those are not leftover Gustavus Adolphus College. Those are not leftover Concordia University St. Paul. Those are not leftover Oral Roberts University. Those are not leftover Note 3 Total Investment Return **$8,802,791**. Those are not leftover entity-wide **$78,617,700**. Those are not leftover Public Health Law Center.
+
+Do not 301 this page onto `/hamline-endowment/`, `/saint-johns-university-endowment/`, `/gustavus-adolphus-endowment/`, `/concordia-university-st-paul-endowment/`, `/oral-roberts-university-endowment/`, `/mitchell-hamline/`, `/mhsl/`, `/hamline/`, or `/largest-university-endowments-2026/`.
+
+## Where Universal Asset Owners sits
+
+[Advertise](/advertise/). Empty honest listings beat unsourced logos.
+
+[Ethics](/ethics/) (version 1.0, **28 May 2026**): editorial staff do not own or trade individual securities of issuers they cover.
+
+## Related
+
+- [Largest university endowments](/largest-university-endowments-2026/)
+- [The endowment model, explained](/endowment-model-explained/)
+- [Hamline University endowment](/hamline-endowment/)
+- [Concordia University St. Paul endowment](/concordia-university-st-paul-endowment/)
+- [Saint John's University endowment](/saint-johns-university-endowment/)
+- [Gustavus Adolphus College endowment](/gustavus-adolphus-endowment/)
+- [Oral Roberts University endowment](/oral-roberts-university-endowment/)
+- [Advertise](/advertise/)
+- [Editorial ethics](/ethics/)

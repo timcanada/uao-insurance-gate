@@ -50,5 +50,6 @@ Do not 301 this page onto `/college-of-saint-benedict-endowment/`, `/university-
 - [Concordia College Moorhead endowment](/concordia-college-moorhead-endowment/)
 - [St. Olaf College endowment](/st-olaf-endowment/)
 - [Macalester College endowment](/macalester-endowment/)
+- [Mitchell Hamline School of Law endowment](/mitchell-hamline-school-of-law-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -8,7 +8,7 @@ GSC and GA are in use from Google’s own mail (`tracking/first-party-baseline.m
 2. **Search Console + GA4 API** — GCP service account JSON as `GOOGLE_SERVICE_ACCOUNT_JSON`. Add that `client_email` as a user on the GSC domain property `universalassetowners.com` and as Viewer on GA4 property **399677697**. Optional: `GSC_SITE_URL` (default `sc-domain:universalassetowners.com`), `GA4_PROPERTY_ID` (default `399677697`).
 3. Confirm GSC is linked to the UAO property (`399677697` / `G-ZRS5B4BPJS`), not `herofund.ca`.
 
-Once those secrets are in, this agent publishes Wave 1–319 as Ghost drafts (or live if you say so) and scores the keyword board from GSC instead of “unknown.”
+Once those secrets are in, this agent publishes Wave 1–320 as Ghost drafts (or live if you say so) and scores the keyword board from GSC instead of “unknown.”
 
 ## This week (editorial)
 

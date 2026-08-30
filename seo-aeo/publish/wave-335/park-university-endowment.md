@@ -49,5 +49,6 @@ Do not 301 this page onto `/washburn-university-foundation/`, `/wayne-state-foun
 - [Washburn University Foundation endowment](/washburn-university-foundation/)
 - [Wayne State Foundation Nebraska endowment](/wayne-state-foundation-nebraska/)
 - [Wichita State University Foundation endowment](/wichita-state-university-foundation/)
+- [University of Southern Indiana Foundation endowment](/university-of-southern-indiana-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

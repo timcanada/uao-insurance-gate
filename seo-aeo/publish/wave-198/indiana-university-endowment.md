@@ -46,5 +46,6 @@ Do not 301 this page onto `/notre-dame-endowment/`, `/university-of-michigan-end
 - [The endowment model, explained](/endowment-model-explained/)
 - [Notre Dame endowment](/notre-dame-endowment/)
 - [University of Michigan endowment](/university-of-michigan-endowment/)
+- [University of Southern Indiana Foundation endowment](/university-of-southern-indiana-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

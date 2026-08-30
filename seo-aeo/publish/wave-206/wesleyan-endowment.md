@@ -47,5 +47,6 @@ Do not 301 this page onto `/middlebury-endowment/`, `/bates-endowment/`, `/wesle
 - [The endowment model, explained](/endowment-model-explained/)
 - [Middlebury College endowment](/middlebury-endowment/)
 - [Colgate University endowment](/colgate-endowment/)
+- [Naval War College Foundation endowment](/naval-war-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

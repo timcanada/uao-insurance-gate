@@ -51,5 +51,6 @@ Do not 301 this page onto `/berklee-college-endowment/`, `/johnson-wales-endowme
 - [Western Connecticut State University Foundation endowment](/wcsu-foundation/)
 - [Unity Environmental University endowment](/unity-environmental-endowment/)
 - [New England College of Optometry endowment](/new-england-college-of-optometry-endowment/)
+- [Naval War College Foundation endowment](/naval-war-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -51,5 +51,6 @@ Do not 301 this page onto `/new-york-medical-college-endowment/`, `/lesley-unive
 - [MCPHS endowment](/mcphs-endowment/)
 - [Hampshire College endowment](/hampshire-college-endowment/)
 - [Hebrew College endowment](/hebrew-college-endowment/)
+- [Naval War College Foundation endowment](/naval-war-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

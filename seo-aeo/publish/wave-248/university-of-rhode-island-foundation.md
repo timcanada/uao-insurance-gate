@@ -54,5 +54,6 @@ Do not 301 this page onto `/johnson-wales-endowment/`, `/university-of-connectic
 - [New England College of Optometry endowment](/new-england-college-of-optometry-endowment/)
 - [Berklee College of Music endowment](/berklee-college-endowment/)
 - [Hampshire College endowment](/hampshire-college-endowment/)
+- [Naval War College Foundation endowment](/naval-war-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

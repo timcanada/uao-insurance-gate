@@ -49,5 +49,6 @@ Do not 301 this page onto `/university-of-rochester-endowment/`, `/pace-endowmen
 - [Pace University endowment](/pace-endowment/)
 - [Fordham University endowment](/fordham-endowment/)
 - [MetroHealth Foundation endowment](/metrohealth-foundation/)
+- [William James College endowment](/william-james-college-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

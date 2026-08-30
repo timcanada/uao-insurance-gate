@@ -591,6 +591,7 @@ def main() -> None:
         ("metrohealth-foundation", "MetroHealth Foundation endowment", "Endowment", "needed"),
         ("university-of-rochester-endowment", "University of Rochester endowment", "Endowment", "needed"),
         ("new-york-medical-college-endowment", "New York Medical College endowment", "Endowment", "needed"),
+        ("william-james-college-endowment", "William James College endowment", "Endowment", "needed"),
         ("emory-endowment", "Emory University endowment", "Endowment", "needed"),
         ("carnegie-mellon-endowment", "Carnegie Mellon University endowment", "Endowment", "needed"),
         ("caltech-endowment", "Caltech endowment", "Endowment", "needed"),

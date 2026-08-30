@@ -55,6 +55,7 @@ Do not 301 this page onto `/west-virginia-university-foundation/`, `/university-
 - [Concord University Foundation endowment](/concord-university-foundation/)
 - [Bluefield State University Foundation endowment](/bluefield-state-university-foundation/)
 - [Shepherd University Foundation endowment](/shepherd-university-foundation/)
+- [West Virginia State University Foundation endowment](/west-virginia-state-university-foundation/)
 - [Fairmont State Foundation endowment](/fairmont-state-foundation/)
 - [Washington and Lee University endowment](/washington-and-lee-endowment/)
 - [Advertise](/advertise/)

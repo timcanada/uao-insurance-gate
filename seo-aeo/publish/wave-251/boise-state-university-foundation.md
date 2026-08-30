@@ -53,6 +53,7 @@ Do not 301 this page onto `/university-of-idaho-foundation/`, `/idaho-state-univ
 - [Metropolitan State University of Denver Foundation endowment](/metropolitan-state-denver-foundation/)
 - [Bluefield State University Foundation endowment](/bluefield-state-university-foundation/)
 - [Shepherd University Foundation endowment](/shepherd-university-foundation/)
+- [West Virginia State University Foundation endowment](/west-virginia-state-university-foundation/)
 - [Fairmont State Foundation endowment](/fairmont-state-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

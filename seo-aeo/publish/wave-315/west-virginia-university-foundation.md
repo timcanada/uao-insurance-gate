@@ -51,6 +51,7 @@ Do not 301 this page onto `/university-of-louisville-foundation/`, `/berea-colle
 - [Concord University Foundation endowment](/concord-university-foundation/)
 - [Bluefield State University Foundation endowment](/bluefield-state-university-foundation/)
 - [Shepherd University Foundation endowment](/shepherd-university-foundation/)
+- [West Virginia State University Foundation endowment](/west-virginia-state-university-foundation/)
 - [Fairmont State Foundation endowment](/fairmont-state-foundation/)
 - [University of Louisville Foundation endowment](/university-of-louisville-foundation/)
 - [Berea College endowment](/berea-college-endowment/)

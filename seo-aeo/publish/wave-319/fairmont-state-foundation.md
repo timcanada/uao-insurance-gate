@@ -48,6 +48,7 @@ Do not 301 this page onto `/bluefield-state-university-foundation/`, `/concord-u
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Shepherd University Foundation endowment](/shepherd-university-foundation/)
+- [West Virginia State University Foundation endowment](/west-virginia-state-university-foundation/)
 - [Bluefield State University Foundation endowment](/bluefield-state-university-foundation/)
 - [Concord University Foundation endowment](/concord-university-foundation/)
 - [West Liberty University Foundation endowment](/west-liberty-university-foundation/)

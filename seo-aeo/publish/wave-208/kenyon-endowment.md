@@ -47,5 +47,6 @@ Do not 301 this page onto `/oberlin-endowment/`, `/davidson-endowment/`, `/kenyo
 - [The endowment model, explained](/endowment-model-explained/)
 - [Oberlin College endowment](/oberlin-endowment/)
 - [Trinity College endowment](/trinity-college-endowment/)
+- [Berea College endowment](/berea-college-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

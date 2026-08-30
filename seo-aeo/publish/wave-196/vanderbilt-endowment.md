@@ -48,5 +48,6 @@ Do not 301 this page onto `/cornell-endowment/`, `/duke-university-endowment/`, 
 - [Duke University endowment](/duke-university-endowment/)
 - [Emory University endowment](/emory-endowment/)
 - [Rice University endowment](/rice-endowment/)
+- [Berea College endowment](/berea-college-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

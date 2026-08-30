@@ -45,5 +45,6 @@ Do not 301 this page onto `/university-of-kentucky-alumni-endowment/`, `/univers
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Kentucky Alumni Association endowment](/university-of-kentucky-alumni-endowment/)
 - [University of Kentucky Mining Engineering Foundation endowment](/university-of-kentucky-mining-endowment/)
+- [Berea College endowment](/berea-college-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

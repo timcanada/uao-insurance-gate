@@ -45,5 +45,6 @@ Do not 301 this page onto `/hope-college-endowment/`, `/kenyon-endowment/`, `/de
 - [The endowment model, explained](/endowment-model-explained/)
 - [Hope College endowment](/hope-college-endowment/)
 - [Calvin University endowment](/calvin-endowment/)
+- [Berea College endowment](/berea-college-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

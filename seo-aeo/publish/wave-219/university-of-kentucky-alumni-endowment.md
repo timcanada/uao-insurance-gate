@@ -45,5 +45,6 @@ Do not 301 this page onto `/university-of-kentucky-endowment/`, `/university-of-
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Kentucky endowment](/university-of-kentucky-endowment/)
 - [Chipola College Foundation endowment](/chipola-college-foundation/)
+- [Berea College endowment](/berea-college-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

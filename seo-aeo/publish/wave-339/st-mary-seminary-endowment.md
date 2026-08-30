@@ -55,5 +55,6 @@ Do not 301 this page onto `/asbury-theological-seminary-endowment/`, `/cleveland
 - [St. Mary's University endowment](/st-marys-university-endowment/)
 - [Case Western Reserve endowment](/case-western-reserve-endowment/)
 - [Calvin Theological Seminary endowment](/calvin-theological-seminary-endowment/)
+- [Denver Seminary endowment](/denver-seminary-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

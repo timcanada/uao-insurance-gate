@@ -48,5 +48,6 @@ Do not 301 this page onto `/colorado-college-endowment/`, `/university-of-san-fr
 - [Colorado College endowment](/colorado-college-endowment/)
 - [Metropolitan State University of Denver Foundation endowment](/metropolitan-state-denver-foundation/)
 - [University of the Pacific endowment](/university-of-the-pacific-endowment/)
+- [Denver Seminary endowment](/denver-seminary-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

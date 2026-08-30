@@ -52,5 +52,6 @@ Do not 301 this page onto `/university-of-denver-endowment/`, `/colorado-state-u
 - [Western Colorado University Foundation endowment](/western-colorado-university-foundation/)
 - [Fort Lewis College Foundation endowment](/fort-lewis-college-foundation/)
 - [Boise State University Foundation endowment](/boise-state-university-foundation/)
+- [Denver Seminary endowment](/denver-seminary-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

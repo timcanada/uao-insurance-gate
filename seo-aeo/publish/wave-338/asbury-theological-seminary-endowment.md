@@ -53,5 +53,6 @@ Do not 301 this page onto `/berea-college-endowment/`, `/university-of-louisvill
 - [Carl Sandburg College Foundation endowment](/carl-sandburg-college-foundation/)
 - [St. Mary Seminary endowment](/st-mary-seminary-endowment/)
 - [Calvin Theological Seminary endowment](/calvin-theological-seminary-endowment/)
+- [Denver Seminary endowment](/denver-seminary-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

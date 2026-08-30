@@ -46,6 +46,7 @@ Do not 301 this page onto `/university-of-michigan-endowment/`, `/delta-college-
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Delta College Foundation endowment](/delta-college-foundation/)
+- [Northwestern Michigan College Foundation endowment](/northwestern-michigan-college-foundation/)
 - [Kishwaukee College Foundation endowment](/kishwaukee-college-foundation/)
 - [Riverside Community College District Foundation endowment](/riverside-community-college-district-foundation/)
 - [Cuesta College Foundation endowment](/cuesta-college-foundation/)

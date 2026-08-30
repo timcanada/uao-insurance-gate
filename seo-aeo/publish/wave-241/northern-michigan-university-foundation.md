@@ -47,5 +47,6 @@ Do not 301 this page onto `/marquette-endowment/`, `/detroit-mercy-endowment/`, 
 - [The endowment model, explained](/endowment-model-explained/)
 - [Marquette University endowment](/marquette-endowment/)
 - [University of Detroit Mercy endowment](/detroit-mercy-endowment/)
+- [Northwestern Michigan College Foundation endowment](/northwestern-michigan-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -54,5 +54,6 @@ Do not 301 this page onto `/riverside-community-college-district-foundation/`, `
 - [Middlesex College Foundation endowment](/middlesex-college-foundation/)
 - [Kishwaukee College Foundation endowment](/kishwaukee-college-foundation/)
 - [Washtenaw Community College Foundation endowment](/washtenaw-community-college-foundation/)
+- [Northwestern Michigan College Foundation endowment](/northwestern-michigan-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

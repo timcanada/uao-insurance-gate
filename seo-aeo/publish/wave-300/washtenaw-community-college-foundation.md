@@ -45,6 +45,9 @@ Do not 301 this page onto `/university-of-michigan-endowment/`, `/delta-college-
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [Glen Oaks Community College Foundation endowment](/glen-oaks-community-college-foundation/)
+- [Mid Michigan College Foundation endowment](/mid-michigan-college-foundation/)
+- [Kirtland Community College Foundation endowment](/kirtland-community-college-foundation/)
 - [Delta College Foundation endowment](/delta-college-foundation/)
 - [Northwestern Michigan College Foundation endowment](/northwestern-michigan-college-foundation/)
 - [Kishwaukee College Foundation endowment](/kishwaukee-college-foundation/)

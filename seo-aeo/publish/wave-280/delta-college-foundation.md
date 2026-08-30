@@ -55,5 +55,8 @@ Do not 301 this page onto `/riverside-community-college-district-foundation/`, `
 - [Kishwaukee College Foundation endowment](/kishwaukee-college-foundation/)
 - [Washtenaw Community College Foundation endowment](/washtenaw-community-college-foundation/)
 - [Northwestern Michigan College Foundation endowment](/northwestern-michigan-college-foundation/)
+- [Glen Oaks Community College Foundation endowment](/glen-oaks-community-college-foundation/)
+- [Mid Michigan College Foundation endowment](/mid-michigan-college-foundation/)
+- [Kirtland Community College Foundation endowment](/kirtland-community-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

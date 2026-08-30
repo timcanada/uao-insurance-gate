@@ -48,5 +48,8 @@ Do not 301 this page onto `/marquette-endowment/`, `/detroit-mercy-endowment/`, 
 - [Marquette University endowment](/marquette-endowment/)
 - [University of Detroit Mercy endowment](/detroit-mercy-endowment/)
 - [Northwestern Michigan College Foundation endowment](/northwestern-michigan-college-foundation/)
+- [Glen Oaks Community College Foundation endowment](/glen-oaks-community-college-foundation/)
+- [Mid Michigan College Foundation endowment](/mid-michigan-college-foundation/)
+- [Kirtland Community College Foundation endowment](/kirtland-community-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

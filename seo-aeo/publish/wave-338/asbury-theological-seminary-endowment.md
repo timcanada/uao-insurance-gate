@@ -52,5 +52,6 @@ Do not 301 this page onto `/berea-college-endowment/`, `/university-of-louisvill
 - [Northern Kentucky University Foundation endowment](/northern-kentucky-university-foundation/)
 - [Carl Sandburg College Foundation endowment](/carl-sandburg-college-foundation/)
 - [St. Mary Seminary endowment](/st-mary-seminary-endowment/)
+- [Calvin Theological Seminary endowment](/calvin-theological-seminary-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

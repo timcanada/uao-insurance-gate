@@ -48,5 +48,6 @@ Do not 301 this page onto `/calvin-endowment/`, `/hope-college-endowment/`, `/gl
 - [Hope College endowment](/hope-college-endowment/)
 - [Concordia College Moorhead endowment](/concordia-college-moorhead-endowment/)
 - [Gustavus Adolphus College endowment](/gustavus-adolphus-endowment/)
+- [Calvin Theological Seminary endowment](/calvin-theological-seminary-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

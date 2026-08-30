@@ -46,5 +46,6 @@ Do not 301 this page onto `/st-olaf-endowment/`, `/hamline-endowment/`, `/hope/`
 - [St. Olaf College endowment](/st-olaf-endowment/)
 - [Denison University endowment](/denison-university-endowment/)
 - [Great Lakes Christian College endowment](/great-lakes-christian-college-endowment/)
+- [Calvin Theological Seminary endowment](/calvin-theological-seminary-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

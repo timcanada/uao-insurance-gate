@@ -44,6 +44,7 @@ Do not 301 this page onto `/university-of-kentucky-endowment/`, `/kentucky-trs/`
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Blue Ridge Community and Technical College Foundation endowment](/blue-ridge-community-and-technical-college-foundation/)
+- [West Virginia Northern Community College Foundation endowment](/west-virginia-northern-community-college-foundation/)
 - [Hillsborough Education Foundation endowment](/hillsborough-education-foundation/)
 - [University at Buffalo Foundation endowment](/university-at-buffalo-foundation/)
 - [West Virginia University Foundation endowment](/west-virginia-university-foundation/)

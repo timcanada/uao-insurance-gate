@@ -44,6 +44,7 @@ Do not 301 this page onto `/university-of-mississippi-foundation/`, `/university
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Blue Ridge Community and Technical College Foundation endowment](/blue-ridge-community-and-technical-college-foundation/)
+- [West Virginia Northern Community College Foundation endowment](/west-virginia-northern-community-college-foundation/)
 - [University of Mississippi Foundation endowment](/university-of-mississippi-foundation/)
 - [Missouri State University Foundation endowment](/missouri-state-university-foundation/)
 - [West Virginia University Foundation endowment](/west-virginia-university-foundation/)

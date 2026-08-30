@@ -48,6 +48,7 @@ Do not 301 this page onto `/west-virginia-university-foundation/`, `/university-
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Blue Ridge Community and Technical College Foundation endowment](/blue-ridge-community-and-technical-college-foundation/)
+- [West Virginia Northern Community College Foundation endowment](/west-virginia-northern-community-college-foundation/)
 - [West Virginia University Foundation endowment](/west-virginia-university-foundation/)
 - [University of Louisville Foundation endowment](/university-of-louisville-foundation/)
 - [Berea College endowment](/berea-college-endowment/)

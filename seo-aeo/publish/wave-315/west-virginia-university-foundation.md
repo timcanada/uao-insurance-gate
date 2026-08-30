@@ -47,6 +47,7 @@ Do not 301 this page onto `/university-of-louisville-foundation/`, `/berea-colle
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Blue Ridge Community and Technical College Foundation endowment](/blue-ridge-community-and-technical-college-foundation/)
+- [West Virginia Northern Community College Foundation endowment](/west-virginia-northern-community-college-foundation/)
 - [Hebrew College endowment](/hebrew-college-endowment/)
 - [West Liberty University Foundation endowment](/west-liberty-university-foundation/)
 - [Concord University Foundation endowment](/concord-university-foundation/)

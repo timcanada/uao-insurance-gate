@@ -48,6 +48,7 @@ Do not 301 this page onto `/fairmont-state-foundation/`, `/bluefield-state-unive
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Blue Ridge Community and Technical College Foundation endowment](/blue-ridge-community-and-technical-college-foundation/)
+- [West Virginia Northern Community College Foundation endowment](/west-virginia-northern-community-college-foundation/)
 - [West Virginia State University Foundation endowment](/west-virginia-state-university-foundation/)
 - [Fairmont State Foundation endowment](/fairmont-state-foundation/)
 - [Bluefield State University Foundation endowment](/bluefield-state-university-foundation/)

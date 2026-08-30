@@ -46,6 +46,7 @@ Do not 301 this page onto `/university-of-wisconsin-foundation/`, `/lawrence-uni
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Lawrence University endowment](/lawrence-university-endowment/)
+- [Chippewa Valley Technical College Foundation endowment](/chippewa-valley-technical-college-foundation/)
 - [Carthage College endowment](/carthage-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -46,6 +46,7 @@ Do not 301 this page onto `/university-of-wisconsin-foundation/`, `/beloit-endow
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Beloit College endowment](/beloit-endowment/)
+- [Chippewa Valley Technical College Foundation endowment](/chippewa-valley-technical-college-foundation/)
 - [Carthage College endowment](/carthage-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

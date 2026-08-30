@@ -47,6 +47,7 @@ Do not 301 this page onto `/wabash-endowment/`, `/hope-college-endowment/`, `/ha
 - [Hope College endowment](/hope-college-endowment/)
 - [Concordia College Moorhead endowment](/concordia-college-moorhead-endowment/)
 - [Gustavus Adolphus College endowment](/gustavus-adolphus-endowment/)
+- [Chippewa Valley Technical College Foundation endowment](/chippewa-valley-technical-college-foundation/)
 - [Mitchell Hamline School of Law endowment](/mitchell-hamline-school-of-law-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -54,5 +54,6 @@ Do not 301 this page onto `/city-colleges-of-chicago-foundation/`, `/western-ill
 - [Spokane Colleges Foundation endowment](/spokane-colleges-foundation/)
 - [Riverside Community College District Foundation endowment](/riverside-community-college-district-foundation/)
 - [Montclair State University Foundation endowment](/montclair-state-university-foundation/)
+- [Carl Sandburg College Foundation endowment](/carl-sandburg-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

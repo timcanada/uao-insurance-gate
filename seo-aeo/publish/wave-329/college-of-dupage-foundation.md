@@ -52,5 +52,6 @@ Do not 301 this page onto `/kishwaukee-college-foundation/`, `/city-colleges-of-
 - [North Central College endowment](/north-central-college-endowment/)
 - [Northeastern Illinois University Foundation endowment](/northeastern-illinois-university-foundation/)
 - [University of St. Francis endowment](/university-of-st-francis-endowment/)
+- [Carl Sandburg College Foundation endowment](/carl-sandburg-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

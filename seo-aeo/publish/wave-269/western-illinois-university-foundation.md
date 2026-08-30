@@ -55,5 +55,6 @@ Do not 301 this page onto `/north-central-college-endowment/`, `/illinois-state-
 - [Northeast Iowa Community College Foundation endowment](/northeast-iowa-community-college-foundation/)
 - [Kirkwood Community College Foundation endowment](/kirkwood-community-college-foundation/)
 - [Kishwaukee College Foundation endowment](/kishwaukee-college-foundation/)
+- [Carl Sandburg College Foundation endowment](/carl-sandburg-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

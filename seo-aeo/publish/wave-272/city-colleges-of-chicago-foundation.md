@@ -56,5 +56,6 @@ Do not 301 this page onto `/western-illinois-university-foundation/`, `/northeas
 - [Kishwaukee College Foundation endowment](/kishwaukee-college-foundation/)
 - [Illinois Institute of Technology endowment](/illinois-institute-of-technology-endowment/)
 - [University of St. Francis endowment](/university-of-st-francis-endowment/)
+- [Carl Sandburg College Foundation endowment](/carl-sandburg-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

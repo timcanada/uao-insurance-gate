@@ -50,5 +50,6 @@ Do not 301 this page onto `/rice-endowment/`, `/southwestern-endowment/`, `/tcu-
 - [TCU endowment](/tcu-endowment/)
 - [Texas Lutheran University endowment](/texas-lutheran-university-endowment/)
 - [St. Mary's College of Maryland Foundation endowment](/st-marys-college-of-maryland-foundation/)
+- [Oral Roberts University endowment](/oral-roberts-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

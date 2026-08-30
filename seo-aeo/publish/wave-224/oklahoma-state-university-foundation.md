@@ -45,5 +45,6 @@ Do not 301 this page onto `/ohio-state-endowment/`, `/oklahoma-opers/`, `/univer
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Arkansas Foundation endowment](/university-of-arkansas-foundation/)
 - [Medical College of Virginia Foundation endowment](/medical-college-of-virginia-foundation/)
+- [Oral Roberts University endowment](/oral-roberts-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

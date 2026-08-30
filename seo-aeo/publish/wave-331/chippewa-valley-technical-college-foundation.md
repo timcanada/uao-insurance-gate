@@ -49,5 +49,6 @@ Do not 301 this page onto `/college-of-dupage-foundation/`, `/edgewood-college-e
 - [Edgewood College endowment](/edgewood-college-endowment/)
 - [Beloit College endowment](/beloit-endowment/)
 - [Hamline University endowment](/hamline-endowment/)
+- [Southwest Wisconsin Technical College Foundation endowment](/southwest-wisconsin-technical-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

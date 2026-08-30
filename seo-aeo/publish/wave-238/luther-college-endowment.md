@@ -48,5 +48,6 @@ Do not 301 this page onto `/university-of-iowa-center-for-advancement/`, `/pacif
 - [St. Olaf College endowment](/st-olaf-endowment/)
 - [Grand View University endowment](/grand-view-university-endowment/)
 - [Gustavus Adolphus College endowment](/gustavus-adolphus-endowment/)
+- [Southwest Wisconsin Technical College Foundation endowment](/southwest-wisconsin-technical-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

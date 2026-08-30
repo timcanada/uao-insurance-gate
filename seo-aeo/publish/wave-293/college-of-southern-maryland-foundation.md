@@ -48,6 +48,7 @@ Do not 301 this page onto `/maryland-srps/`, `/university-of-maryland-college-pa
 - [Community College of Baltimore County Foundation endowment](/community-college-of-baltimore-county-foundation/)
 - [University of Maryland College Park Foundation endowment](/university-of-maryland-college-park-foundation/)
 - [University of Maryland Baltimore Foundation endowment](/university-of-maryland-baltimore-foundation/)
+- [University System of Maryland Foundation endowment](/university-system-of-maryland-foundation/)
 - [St. Mary's College of Maryland Foundation endowment](/st-marys-college-of-maryland-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

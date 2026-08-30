@@ -44,6 +44,7 @@ Do not 301 this page onto `/maryland-srps/`, `/university-of-maryland-college-pa
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Maryland College Park Foundation endowment](/university-of-maryland-college-park-foundation/)
+- [University System of Maryland Foundation endowment](/university-system-of-maryland-foundation/)
 - [Montgomery College Foundation endowment](/montgomery-college-foundation/)
 - [Howard Community College Educational Foundation endowment](/howard-community-college-educational-foundation/)
 - [College of Southern Maryland Foundation endowment](/college-of-southern-maryland-foundation/)

@@ -53,5 +53,6 @@ Do not 301 this page onto `/texas-state-university-foundation/`, `/rice-endowmen
 - [Gadsden State Cardinal Foundation endowment](/gadsden-state-cardinal-foundation/)
 - [Marion Military Institute Foundation endowment](/marion-military-institute-foundation/)
 - [Texas Lutheran University endowment](/texas-lutheran-university-endowment/)
+- [Lone Star College Foundation endowment](/lone-star-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

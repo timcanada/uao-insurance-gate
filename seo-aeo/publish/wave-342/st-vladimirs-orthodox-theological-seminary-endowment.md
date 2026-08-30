@@ -54,5 +54,6 @@ Do not 301 this page onto `/denver-seminary-endowment/`, `/calvin-theological-se
 - [St. Mary Seminary endowment](/st-mary-seminary-endowment/)
 - [Asbury Theological Seminary endowment](/asbury-theological-seminary-endowment/)
 - [Hebrew College endowment](/hebrew-college-endowment/)
+- [Lone Star College Foundation endowment](/lone-star-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

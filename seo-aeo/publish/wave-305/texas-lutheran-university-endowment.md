@@ -50,6 +50,7 @@ Do not 301 this page onto `/rice-endowment/`, `/southwestern-endowment/`, `/tcu-
 - [TCU endowment](/tcu-endowment/)
 - [Texas State University Development Foundation endowment](/texas-state-university-foundation/)
 - [Alvin Community College Foundation endowment](/alvin-community-college-foundation/)
+- [Lone Star College Foundation endowment](/lone-star-college-foundation/)
 - [St. Mary's University endowment](/st-marys-university-endowment/)
 - [Oral Roberts University endowment](/oral-roberts-university-endowment/)
 - [Advertise](/advertise/)

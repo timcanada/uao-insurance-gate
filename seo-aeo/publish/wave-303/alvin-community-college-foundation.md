@@ -54,5 +54,6 @@ Do not 301 this page onto `/texas-state-university-foundation/`, `/rice-endowmen
 - [Marion Military Institute Foundation endowment](/marion-military-institute-foundation/)
 - [Texas Lutheran University endowment](/texas-lutheran-university-endowment/)
 - [Lone Star College Foundation endowment](/lone-star-college-foundation/)
+- [Del Mar College Foundation endowment](/del-mar-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

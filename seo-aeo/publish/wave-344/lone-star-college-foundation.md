@@ -50,6 +50,7 @@ Do not 301 this page onto `/alvin-community-college-foundation/`, `/texas-luther
 - [Alvin Community College Foundation endowment](/alvin-community-college-foundation/)
 - [Texas Lutheran University endowment](/texas-lutheran-university-endowment/)
 - [Calhoun College Foundation endowment](/calhoun-college-foundation/)
+- [Del Mar College Foundation endowment](/del-mar-college-foundation/)
 - [St. Vladimir's Orthodox Theological Seminary endowment](/st-vladimirs-orthodox-theological-seminary-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

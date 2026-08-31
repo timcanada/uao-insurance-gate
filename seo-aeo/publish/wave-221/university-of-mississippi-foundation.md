@@ -48,5 +48,6 @@ Do not 301 this page onto `/university-of-louisville-foundation/`, `/university-
 - [Mississippi University for Women Foundation endowment](/mississippi-university-for-women-foundation/)
 - [University of Memphis Foundation endowment](/university-of-memphis-foundation/)
 - [Austin Peay State University Foundation endowment](/austin-peay-state-university-foundation/)
+- [Middle Tennessee State University Foundation endowment](/middle-tennessee-state-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

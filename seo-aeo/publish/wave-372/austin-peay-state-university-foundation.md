@@ -47,5 +47,6 @@ Do not 301 this page onto `/university-of-memphis-foundation/`, `/vanderbilt-end
 - [University of Memphis Foundation endowment](/university-of-memphis-foundation/)
 - [Vanderbilt University endowment](/vanderbilt-endowment/)
 - [University of Louisville Foundation endowment](/university-of-louisville-foundation/)
+- [Middle Tennessee State University Foundation endowment](/middle-tennessee-state-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

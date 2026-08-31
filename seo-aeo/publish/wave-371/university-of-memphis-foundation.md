@@ -48,5 +48,6 @@ Do not 301 this page onto `/university-of-mississippi-foundation/`, `/vanderbilt
 - [Vanderbilt University endowment](/vanderbilt-endowment/)
 - [Oral Roberts University endowment](/oral-roberts-university-endowment/)
 - [Austin Peay State University Foundation endowment](/austin-peay-state-university-foundation/)
+- [Middle Tennessee State University Foundation endowment](/middle-tennessee-state-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

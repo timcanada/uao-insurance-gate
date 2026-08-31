@@ -56,5 +56,6 @@ Do not 301 this page onto `/university-of-mississippi-foundation/`, `/university
 - [Fairmont State Foundation endowment](/fairmont-state-foundation/)
 - [University of Southern Indiana Foundation endowment](/university-of-southern-indiana-foundation/)
 - [Asbury Theological Seminary endowment](/asbury-theological-seminary-endowment/)
+- [Austin Peay State University Foundation endowment](/austin-peay-state-university-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

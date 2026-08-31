@@ -44,6 +44,7 @@ Do not 301 this page onto `/loyola-university-chicago-endowment/`, `/illinois-in
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [Chicago Botanic Garden endowment](/chicago-botanic-garden-endowment/)
 - [Loyola University Chicago endowment](/loyola-university-chicago-endowment/)
 - [Illinois Institute of Technology endowment](/illinois-institute-of-technology-endowment/)
 - [City Colleges of Chicago Foundation endowment](/city-colleges-of-chicago-foundation/)

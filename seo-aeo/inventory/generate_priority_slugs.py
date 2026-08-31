@@ -640,6 +640,7 @@ def main() -> None:
         ("gardens-of-golden-gate-park-endowment", "Gardens of Golden Gate Park endowment", "Endowment", "needed"),
         ("portland-museum-of-art-endowment", "Portland Museum of Art endowment", "Endowment", "needed"),
         ("national-museum-of-wildlife-art-endowment", "National Museum of Wildlife Art endowment", "Endowment", "needed"),
+        ("chicago-botanic-garden-endowment", "Chicago Botanic Garden endowment", "Endowment", "needed"),
         ("emory-endowment", "Emory University endowment", "Endowment", "needed"),
         ("carnegie-mellon-endowment", "Carnegie Mellon University endowment", "Endowment", "needed"),
         ("caltech-endowment", "Caltech endowment", "Endowment", "needed"),

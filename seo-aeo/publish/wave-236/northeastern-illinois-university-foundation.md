@@ -51,6 +51,7 @@ Do not 301 this page onto `/northeastern-endowment/`, `/university-of-illinois-f
 - [City Colleges of Chicago Foundation endowment](/city-colleges-of-chicago-foundation/)
 - [Illinois Institute of Technology endowment](/illinois-institute-of-technology-endowment/)
 - [The Art Institute of Chicago endowment](/art-institute-of-chicago-endowment/)
+- [Chicago Botanic Garden endowment](/chicago-botanic-garden-endowment/)
 - [University of St. Francis endowment](/university-of-st-francis-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

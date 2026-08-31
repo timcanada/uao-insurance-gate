@@ -47,5 +47,6 @@ Do not 301 this page onto `/emory-endowment/`, `/duke-university-endowment/`, `/
 - [Emory University endowment](/emory-endowment/)
 - [Duke University endowment](/duke-university-endowment/)
 - [Morehouse College endowment](/morehouse-college-endowment/)
+- [Georgia Historical Society endowment](/georgia-historical-society-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

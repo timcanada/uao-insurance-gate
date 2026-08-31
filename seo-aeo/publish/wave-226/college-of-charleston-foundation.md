@@ -45,5 +45,6 @@ Do not 301 this page onto `/medical-college-of-virginia-foundation/`, `/hamilton
 - [The endowment model, explained](/endowment-model-explained/)
 - [Chapman University endowment](/chapman-endowment/)
 - [Hamilton College endowment](/hamilton-endowment/)
+- [Georgia Historical Society endowment](/georgia-historical-society-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -51,5 +51,6 @@ Do not 301 this page onto `/indiana-university-endowment/`, `/university-of-loui
 - [University of Louisville Foundation endowment](/university-of-louisville-foundation/)
 - [Northern Kentucky University Foundation endowment](/northern-kentucky-university-foundation/)
 - [Park University endowment](/park-university-endowment/)
+- [Newfields endowment](/newfields-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

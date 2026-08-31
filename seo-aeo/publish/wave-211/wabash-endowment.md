@@ -46,5 +46,6 @@ Do not 301 this page onto `/union-college-endowment/`, `/kenyon-endowment/`, `/w
 - [Union College endowment](/union-college-endowment/)
 - [Hamline University endowment](/hamline-endowment/)
 - [Berea College endowment](/berea-college-endowment/)
+- [Newfields endowment](/newfields-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

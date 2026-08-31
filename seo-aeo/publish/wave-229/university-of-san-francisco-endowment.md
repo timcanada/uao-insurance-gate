@@ -49,5 +49,6 @@ Do not 301 this page onto `/university-of-san-diego-endowment/`, `/santa-clara-e
 - [University of Denver endowment](/university-of-denver-endowment/)
 - [Loyola Marymount University endowment](/loyola-marymount-university-endowment/)
 - [San Francisco Conservatory of Music endowment](/san-francisco-conservatory-of-music-endowment/)
+- [Gardens of Golden Gate Park endowment](/gardens-of-golden-gate-park-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

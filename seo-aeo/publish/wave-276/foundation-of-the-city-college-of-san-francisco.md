@@ -58,5 +58,6 @@ Do not 301 this page onto `/sfsu-foundation/`, `/city-colleges-of-chicago-founda
 - [Riverside Community College District Foundation endowment](/riverside-community-college-district-foundation/)
 - [Spokane Colleges Foundation endowment](/spokane-colleges-foundation/)
 - [Middlesex College Foundation endowment](/middlesex-college-foundation/)
+- [Gardens of Golden Gate Park endowment](/gardens-of-golden-gate-park-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -47,5 +47,6 @@ Do not 301 this page onto `/university-of-san-francisco-endowment/`, `/sfsu-foun
 - [University of San Francisco endowment](/university-of-san-francisco-endowment/)
 - [San Francisco State University Foundation endowment](/sfsu-foundation/)
 - [Foundation of the City College of San Francisco endowment](/foundation-of-the-city-college-of-san-francisco/)
+- [Gardens of Golden Gate Park endowment](/gardens-of-golden-gate-park-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

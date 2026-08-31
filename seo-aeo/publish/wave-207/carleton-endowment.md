@@ -48,5 +48,6 @@ Do not 301 this page onto `/grinnell-endowment/`, `/swarthmore-endowment/`, `/ca
 - [Grinnell College endowment](/grinnell-endowment/)
 - [Macalester College endowment](/macalester-endowment/)
 - [Gustavus Adolphus College endowment](/gustavus-adolphus-endowment/)
+- [Minnesota Historical Society endowment](/minnesota-historical-society-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

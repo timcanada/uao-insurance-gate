@@ -47,5 +47,6 @@ Do not 301 this page onto `/wyoming-retirement-system/`, `/university-of-alaska-
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Colorado Foundation endowment](/university-of-colorado-foundation/)
 - [Wyoming Retirement System](/wyoming-retirement-system/)
+- [National Museum of Wildlife Art endowment](/national-museum-of-wildlife-art-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

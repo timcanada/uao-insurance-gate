@@ -46,5 +46,6 @@ Do not 301 this page onto `/wabash-endowment/`, `/scripps-endowment/`, `/furman/
 - [Scripps College endowment](/scripps-endowment/)
 - [Elon University endowment](/elon-endowment/)
 - [University of South Carolina Upstate Foundation endowment](/university-of-south-carolina-upstate-foundation/)
+- [University of South Carolina Educational Foundation endowment](/university-of-south-carolina-educational-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

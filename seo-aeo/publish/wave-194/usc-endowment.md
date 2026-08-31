@@ -49,5 +49,6 @@ Do not 301 this page onto `/notre-dame-endowment/`, `/university-of-pennsylvania
 - [University of Pennsylvania endowment](/university-of-pennsylvania-endowment/)
 - [Notre Dame endowment](/notre-dame-endowment/)
 - [Columbia University endowment](/columbia-endowment/)
+- [University of South Carolina Educational Foundation endowment](/university-of-south-carolina-educational-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

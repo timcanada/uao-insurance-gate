@@ -50,5 +50,6 @@ Do not 301 this page onto `/carleton-endowment/`, `/grinnell-endowment/`, `/maca
 - [Gustavus Adolphus College endowment](/gustavus-adolphus-endowment/)
 - [Saint John's University endowment](/saint-johns-university-endowment/)
 - [Minnesota Historical Society endowment](/minnesota-historical-society-endowment/)
+- [Walker Art Center endowment](/walker-art-center-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

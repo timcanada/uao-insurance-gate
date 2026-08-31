@@ -51,5 +51,6 @@ Do not 301 this page onto `/university-of-minnesota-foundation/`, `/st-thomas/`,
 - [Concordia College Moorhead endowment](/concordia-college-moorhead-endowment/)
 - [Gustavus Adolphus College endowment](/gustavus-adolphus-endowment/)
 - [Saint John's University endowment](/saint-johns-university-endowment/)
+- [Walker Art Center endowment](/walker-art-center-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

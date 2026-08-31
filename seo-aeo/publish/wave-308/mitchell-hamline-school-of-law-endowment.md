@@ -52,5 +52,6 @@ Do not 301 this page onto `/hamline-endowment/`, `/saint-johns-university-endowm
 - [Oral Roberts University endowment](/oral-roberts-university-endowment/)
 - [University of Akron Foundation endowment](/university-of-akron-foundation/)
 - [Minnesota Historical Society endowment](/minnesota-historical-society-endowment/)
+- [Walker Art Center endowment](/walker-art-center-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

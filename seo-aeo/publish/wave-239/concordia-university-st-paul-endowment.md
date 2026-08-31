@@ -49,5 +49,6 @@ Do not 301 this page onto `/university-of-st-thomas-endowment/`, `/college-of-sa
 - [Concordia College Moorhead endowment](/concordia-college-moorhead-endowment/)
 - [Mitchell Hamline School of Law endowment](/mitchell-hamline-school-of-law-endowment/)
 - [Minnesota Historical Society endowment](/minnesota-historical-society-endowment/)
+- [Walker Art Center endowment](/walker-art-center-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -44,6 +44,7 @@ Do not 301 this page onto `/university-of-minnesota-foundation/`, `/macalester-e
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [Walker Art Center endowment](/walker-art-center-endowment/)
 - [University of Minnesota Foundation endowment](/university-of-minnesota-foundation/)
 - [Macalester College endowment](/macalester-endowment/)
 - [Hamline University endowment](/hamline-endowment/)

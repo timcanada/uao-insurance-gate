@@ -48,5 +48,6 @@ Do not 301 this page onto `/minnesota-sbi/`, `/university-of-illinois-foundation
 - [Minnesota State University Mankato Foundation endowment](/minnesota-state-mankato-foundation/)
 - [Minnesota State University Moorhead Foundation endowment](/minnesota-state-moorhead-foundation/)
 - [Minnesota Historical Society endowment](/minnesota-historical-society-endowment/)
+- [Walker Art Center endowment](/walker-art-center-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

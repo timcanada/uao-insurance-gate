@@ -48,6 +48,7 @@ Do not 301 this page onto `/usc-endowment/`, `/university-of-south-carolina-upst
 - [Clemson University endowment](/clemson-endowment/)
 - [Furman University endowment](/furman-endowment/)
 - [University of South Carolina Upstate Foundation endowment](/university-of-south-carolina-upstate-foundation/)
+- [University of South Carolina Business Partnership Foundation endowment](/university-of-south-carolina-business-partnership-foundation/)
 - [University of Southern California endowment](/usc-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -51,5 +51,6 @@ Do not 301 this page onto `/usc-endowment/`, `/clemson-endowment/`, `/furman-end
 - [Wake Tech Foundation endowment](/wake-tech-foundation/)
 - [Kellogg Community College Foundation endowment](/kellogg-community-college-foundation/)
 - [University of South Carolina Educational Foundation endowment](/university-of-south-carolina-educational-foundation/)
+- [University of South Carolina Business Partnership Foundation endowment](/university-of-south-carolina-business-partnership-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

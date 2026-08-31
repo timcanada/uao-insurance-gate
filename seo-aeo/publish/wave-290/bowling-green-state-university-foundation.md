@@ -53,5 +53,6 @@ Do not 301 this page onto `/university-of-toledo-foundation/`, `/wright-state-un
 - [Youngstown State University Foundation endowment](/youngstown-state-university-foundation/)
 - [University of Cincinnati Foundation endowment](/university-of-cincinnati-foundation/)
 - [Northeast Ohio Medical University Foundation endowment](/northeast-ohio-medical-university-foundation/)
+- [Ohio Northern University endowment](/ohio-northern-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -58,5 +58,6 @@ Do not 301 this page onto `/university-of-dayton-endowment/`, `/xavier-universit
 - [University of Cincinnati Foundation endowment](/university-of-cincinnati-foundation/)
 - [University of Akron Foundation endowment](/university-of-akron-foundation/)
 - [Northeast Ohio Medical University Foundation endowment](/northeast-ohio-medical-university-foundation/)
+- [Ohio Northern University endowment](/ohio-northern-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

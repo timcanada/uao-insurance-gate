@@ -49,5 +49,6 @@ Do not 301 this page onto `/xavier-university-endowment/`, `/wesleyan-endowment/
 - [Baldwin Wallace University endowment](/baldwin-wallace-university-endowment/)
 - [Heidelberg University endowment](/heidelberg-university-endowment/)
 - [Capital University endowment](/capital-university-endowment/)
+- [Ohio Northern University endowment](/ohio-northern-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

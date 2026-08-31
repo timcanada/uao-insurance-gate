@@ -51,5 +51,6 @@ Do not 301 this page onto `/university-of-dayton-endowment/`, `/xavier-universit
 - [Baldwin Wallace University endowment](/baldwin-wallace-university-endowment/)
 - [Heidelberg University endowment](/heidelberg-university-endowment/)
 - [Wright State University Foundation endowment](/wright-state-university-foundation/)
+- [Ohio Northern University endowment](/ohio-northern-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

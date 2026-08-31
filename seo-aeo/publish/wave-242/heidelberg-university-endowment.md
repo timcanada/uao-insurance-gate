@@ -49,5 +49,6 @@ Do not 301 this page onto `/ohio-wesleyan-endowment/`, `/baldwin-wallace-univers
 - [University of Dayton endowment](/university-of-dayton-endowment/)
 - [Wright State University Foundation endowment](/wright-state-university-foundation/)
 - [Capital University endowment](/capital-university-endowment/)
+- [Ohio Northern University endowment](/ohio-northern-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

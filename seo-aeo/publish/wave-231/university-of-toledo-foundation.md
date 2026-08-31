@@ -50,5 +50,6 @@ Do not 301 this page onto `/xavier-university-endowment/`, `/university-of-dayto
 - [Bowling Green State University Foundation endowment](/bowling-green-state-university-foundation/)
 - [University of Cincinnati Foundation endowment](/university-of-cincinnati-foundation/)
 - [University of Akron Foundation endowment](/university-of-akron-foundation/)
+- [Ohio Northern University endowment](/ohio-northern-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

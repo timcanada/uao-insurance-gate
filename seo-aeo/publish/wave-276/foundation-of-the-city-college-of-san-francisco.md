@@ -45,6 +45,7 @@ Do not 301 this page onto `/sfsu-foundation/`, `/city-colleges-of-chicago-founda
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [San Francisco Conservatory of Music endowment](/san-francisco-conservatory-of-music-endowment/)
 - [San Francisco State University Foundation endowment](/sfsu-foundation/)
 - [Foundation for California Community Colleges endowment](/foundation-for-california-community-colleges/)
 - [Cuesta College Foundation endowment](/cuesta-college-foundation/)

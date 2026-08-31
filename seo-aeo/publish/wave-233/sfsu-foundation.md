@@ -47,6 +47,7 @@ Do not 301 this page onto `/university-of-san-francisco-endowment/`, `/csu-chico
 - [The endowment model, explained](/endowment-model-explained/)
 - [Texas State University Foundation endowment](/texas-state-university-foundation/)
 - [University of San Francisco endowment](/university-of-san-francisco-endowment/)
+- [San Francisco Conservatory of Music endowment](/san-francisco-conservatory-of-music-endowment/)
 - [CSU Bakersfield Foundation endowment](/csu-bakersfield-foundation/)
 - [Cal State LA Foundation endowment](/cal-state-la-foundation/)
 - [CSU Dominguez Hills Philanthropic Foundation endowment](/csu-dominguez-hills-philanthropic-foundation/)

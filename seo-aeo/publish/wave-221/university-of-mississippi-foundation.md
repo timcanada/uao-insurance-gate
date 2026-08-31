@@ -46,5 +46,6 @@ Do not 301 this page onto `/university-of-louisville-foundation/`, `/university-
 - [University of Louisville Foundation endowment](/university-of-louisville-foundation/)
 - [Montana State University Foundation endowment](/montana-state-university-foundation/)
 - [Mississippi University for Women Foundation endowment](/mississippi-university-for-women-foundation/)
+- [University of Memphis Foundation endowment](/university-of-memphis-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

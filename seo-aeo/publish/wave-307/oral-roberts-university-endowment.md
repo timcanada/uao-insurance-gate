@@ -51,5 +51,6 @@ Do not 301 this page onto `/oklahoma-state-university-foundation/`, `/baylor-end
 - [Texas Lutheran University endowment](/texas-lutheran-university-endowment/)
 - [St. Mary's University endowment](/st-marys-university-endowment/)
 - [Mitchell Hamline School of Law endowment](/mitchell-hamline-school-of-law-endowment/)
+- [University of Memphis Foundation endowment](/university-of-memphis-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

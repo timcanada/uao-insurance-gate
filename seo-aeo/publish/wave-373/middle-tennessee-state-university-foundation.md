@@ -48,5 +48,6 @@ Do not 301 this page onto `/austin-peay-state-university-foundation/`, `/univers
 - [University of Memphis Foundation endowment](/university-of-memphis-foundation/)
 - [Vanderbilt University endowment](/vanderbilt-endowment/)
 - [University of Louisville Foundation endowment](/university-of-louisville-foundation/)
+- [Pellissippi State Community College Foundation endowment](/pellissippi-state-community-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

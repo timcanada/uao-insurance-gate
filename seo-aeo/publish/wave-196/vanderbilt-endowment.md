@@ -52,5 +52,6 @@ Do not 301 this page onto `/cornell-endowment/`, `/duke-university-endowment/`, 
 - [University of Memphis Foundation endowment](/university-of-memphis-foundation/)
 - [Austin Peay State University Foundation endowment](/austin-peay-state-university-foundation/)
 - [Middle Tennessee State University Foundation endowment](/middle-tennessee-state-university-foundation/)
+- [Pellissippi State Community College Foundation endowment](/pellissippi-state-community-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -635,6 +635,7 @@ def main() -> None:
         ("art-institute-of-chicago-endowment", "The Art Institute of Chicago endowment", "Endowment", "needed"),
         ("minnesota-historical-society-endowment", "Minnesota Historical Society endowment", "Endowment", "needed"),
         ("connecticut-historical-society-endowment", "Connecticut Historical Society endowment", "Endowment", "needed"),
+        ("fairfield-historical-society-endowment", "Fairfield Historical Society endowment", "Endowment", "needed"),
         ("emory-endowment", "Emory University endowment", "Endowment", "needed"),
         ("carnegie-mellon-endowment", "Carnegie Mellon University endowment", "Endowment", "needed"),
         ("caltech-endowment", "Caltech endowment", "Endowment", "needed"),

@@ -50,5 +50,6 @@ Do not 301 this page onto `/trinity-college-endowment/`, `/wesleyan-endowment/`,
 - [University of Connecticut Foundation endowment](/university-of-connecticut-foundation/)
 - [Southern Connecticut State University Foundation endowment](/scsu-foundation/)
 - [Western Connecticut State University Foundation endowment](/wcsu-foundation/)
+- [Fairfield Historical Society endowment](/fairfield-historical-society-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

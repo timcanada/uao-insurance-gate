@@ -51,5 +51,6 @@ Do not 301 this page onto `/university-of-connecticut-foundation/`, `/scsu-found
 - [Unity Environmental University endowment](/unity-environmental-endowment/)
 - [New England College of Optometry endowment](/new-england-college-of-optometry-endowment/)
 - [Connecticut Historical Society endowment](/connecticut-historical-society-endowment/)
+- [Fairfield Historical Society endowment](/fairfield-historical-society-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

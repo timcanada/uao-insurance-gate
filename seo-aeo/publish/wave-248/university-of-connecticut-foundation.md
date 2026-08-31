@@ -55,5 +55,6 @@ Do not 301 this page onto `/university-of-rhode-island-foundation/`, `/johnson-w
 - [Unity Environmental University endowment](/unity-environmental-endowment/)
 - [New England College of Optometry endowment](/new-england-college-of-optometry-endowment/)
 - [Naval War College Foundation endowment](/naval-war-college-foundation/)
+- [Connecticut Historical Society endowment](/connecticut-historical-society-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

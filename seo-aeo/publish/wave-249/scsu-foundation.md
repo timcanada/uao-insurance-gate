@@ -50,5 +50,6 @@ Do not 301 this page onto `/university-of-connecticut-foundation/`, `/wcsu-found
 - [Rhode Island School of Design endowment](/risd-endowment/)
 - [Unity Environmental University endowment](/unity-environmental-endowment/)
 - [New England College of Optometry endowment](/new-england-college-of-optometry-endowment/)
+- [Connecticut Historical Society endowment](/connecticut-historical-society-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

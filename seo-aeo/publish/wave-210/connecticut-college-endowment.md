@@ -48,5 +48,6 @@ Do not 301 this page onto `/trinity-college-endowment/`, `/wesleyan-endowment/`,
 - [Trinity College endowment](/trinity-college-endowment/)
 - [St. Olaf College endowment](/st-olaf-endowment/)
 - [Naval War College Foundation endowment](/naval-war-college-foundation/)
+- [Connecticut Historical Society endowment](/connecticut-historical-society-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

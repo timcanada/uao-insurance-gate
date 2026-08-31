@@ -45,5 +45,6 @@ Do not 301 this page onto `/wesleyan-endowment/`, `/lafayette-endowment/`, `/tri
 - [The endowment model, explained](/endowment-model-explained/)
 - [Wesleyan University endowment](/wesleyan-endowment/)
 - [Connecticut College endowment](/connecticut-college-endowment/)
+- [Connecticut Historical Society endowment](/connecticut-historical-society-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -46,5 +46,6 @@ Do not 301 this page onto `/emory-endowment/`, `/duke-university-endowment/`, `/
 - [The endowment model, explained](/endowment-model-explained/)
 - [Emory University endowment](/emory-endowment/)
 - [Duke University endowment](/duke-university-endowment/)
+- [Morehouse College endowment](/morehouse-college-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

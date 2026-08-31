@@ -45,5 +45,6 @@ Do not 301 this page onto `/university-of-dayton-endowment/`, `/college-of-charl
 - [The endowment model, explained](/endowment-model-explained/)
 - [Creighton University endowment](/creighton-endowment/)
 - [College of Charleston Foundation endowment](/college-of-charleston-foundation/)
+- [Morehouse College endowment](/morehouse-college-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

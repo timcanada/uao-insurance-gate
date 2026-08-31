@@ -46,6 +46,7 @@ Do not 301 this page onto `/ventura-college-foundation/`, `/college-of-western-i
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Ventura College Foundation endowment](/ventura-college-foundation/)
+- [Arizona State University Foundation endowment](/arizona-state-university-foundation/)
 - [Arizona Western College Foundation endowment](/arizona-western-college-foundation/)
 - [Cochise College Foundation endowment](/cochise-college-foundation/)
 - [College of Western Idaho Foundation endowment](/college-of-western-idaho-foundation/)

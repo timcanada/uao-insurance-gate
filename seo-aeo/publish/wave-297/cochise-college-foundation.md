@@ -43,6 +43,7 @@ Do not 301 this page onto `/arizona-western-college-foundation/`, `/pima-communi
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [Arizona State University Foundation endowment](/arizona-state-university-foundation/)
 - [Arizona Western College Foundation endowment](/arizona-western-college-foundation/)
 - [Pima Community College Foundation endowment](/pima-community-college-foundation/)
 - [College of Western Idaho Foundation endowment](/college-of-western-idaho-foundation/)

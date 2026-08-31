@@ -55,5 +55,6 @@ Do not 301 this page onto `/gwinnett-tech-foundation/`, `/brookdale-community-co
 - [Community Colleges of New Hampshire Foundation endowment](/community-colleges-of-new-hampshire-foundation/)
 - [North Carolina State University Foundation endowment](/north-carolina-state-university-foundation/)
 - [North Carolina Textile Foundation endowment](/north-carolina-textile-foundation/)
+- [University of South Carolina Upstate Foundation endowment](/university-of-south-carolina-upstate-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

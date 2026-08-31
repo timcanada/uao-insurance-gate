@@ -53,5 +53,6 @@ Do not 301 this page onto `/washtenaw-community-college-foundation/`, `/northwes
 - [Mid Michigan College Foundation endowment](/mid-michigan-college-foundation/)
 - [Kirtland Community College Foundation endowment](/kirtland-community-college-foundation/)
 - [Del Mar College Foundation endowment](/del-mar-college-foundation/)
+- [University of South Carolina Upstate Foundation endowment](/university-of-south-carolina-upstate-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

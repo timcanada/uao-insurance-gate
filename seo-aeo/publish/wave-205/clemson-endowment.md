@@ -46,5 +46,6 @@ Do not 301 this page onto `/nc-state-endowment/`, `/south-carolina-retirement-sy
 - [The endowment model, explained](/endowment-model-explained/)
 - [NC State endowment](/nc-state-endowment/)
 - [South Carolina Retirement Systems](/south-carolina-retirement-systems/)
+- [University of South Carolina Upstate Foundation endowment](/university-of-south-carolina-upstate-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

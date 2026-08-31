@@ -49,5 +49,6 @@ Do not 301 this page onto `/nyu-endowment/`, `/columbia-endowment/`, `/fordham/`
 - [University of Richmond endowment](/university-of-richmond-endowment/)
 - [Pace University endowment](/pace-endowment/)
 - [New York Medical College endowment](/new-york-medical-college-endowment/)
+- [The New School endowment](/new-school-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

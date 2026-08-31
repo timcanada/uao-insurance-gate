@@ -49,5 +49,6 @@ Do not 301 this page onto `/columbia-endowment/`, `/university-of-pennsylvania-e
 - [University of Pennsylvania endowment](/university-of-pennsylvania-endowment/)
 - [Johns Hopkins University endowment](/johns-hopkins-endowment/)
 - [Boston University endowment](/boston-university-endowment/)
+- [The New School endowment](/new-school-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

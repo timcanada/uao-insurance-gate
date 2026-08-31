@@ -55,6 +55,7 @@ Do not 301 this page onto `/western-illinois-university-foundation/`, `/northeas
 - [Kirkwood Community College Foundation endowment](/kirkwood-community-college-foundation/)
 - [Kishwaukee College Foundation endowment](/kishwaukee-college-foundation/)
 - [Illinois Institute of Technology endowment](/illinois-institute-of-technology-endowment/)
+- [The Art Institute of Chicago endowment](/art-institute-of-chicago-endowment/)
 - [University of St. Francis endowment](/university-of-st-francis-endowment/)
 - [Carl Sandburg College Foundation endowment](/carl-sandburg-college-foundation/)
 - [Advertise](/advertise/)

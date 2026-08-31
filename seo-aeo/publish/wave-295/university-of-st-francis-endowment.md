@@ -45,6 +45,7 @@ Do not 301 this page onto `/university-of-san-francisco-endowment/`, `/illinois-
 - [The endowment model, explained](/endowment-model-explained/)
 - [College of DuPage Foundation endowment](/college-of-dupage-foundation/)
 - [Illinois Institute of Technology endowment](/illinois-institute-of-technology-endowment/)
+- [The Art Institute of Chicago endowment](/art-institute-of-chicago-endowment/)
 - [Loyola University Chicago endowment](/loyola-university-chicago-endowment/)
 - [Knox College endowment](/knox-endowment/)
 - [Lake Forest College endowment](/lake-forest-college-endowment/)

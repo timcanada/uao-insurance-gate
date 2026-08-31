@@ -45,6 +45,7 @@ Do not 301 this page onto `/loyola-university-chicago-endowment/`, `/knox-endowm
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of St. Francis endowment](/university-of-st-francis-endowment/)
 - [Loyola University Chicago endowment](/loyola-university-chicago-endowment/)
+- [The Art Institute of Chicago endowment](/art-institute-of-chicago-endowment/)
 - [Knox College endowment](/knox-endowment/)
 - [Lake Forest College endowment](/lake-forest-college-endowment/)
 - [North Central College endowment](/north-central-college-endowment/)

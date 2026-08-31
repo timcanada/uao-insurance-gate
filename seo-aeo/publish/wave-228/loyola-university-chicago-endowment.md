@@ -49,6 +49,7 @@ Do not 301 this page onto `/university-of-illinois-foundation/`, `/loyola/`, `/l
 - [University of St. Thomas endowment](/university-of-st-thomas-endowment/)
 - [Loyola Marymount University endowment](/loyola-marymount-university-endowment/)
 - [Illinois Institute of Technology endowment](/illinois-institute-of-technology-endowment/)
+- [The Art Institute of Chicago endowment](/art-institute-of-chicago-endowment/)
 - [University of St. Francis endowment](/university-of-st-francis-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

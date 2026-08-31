@@ -49,5 +49,6 @@ Do not 301 this page onto `/cornell-endowment/`, `/dartmouth-endowment/`, `/brow
 - [Dartmouth College endowment](/dartmouth-endowment/)
 - [Naval War College Foundation endowment](/naval-war-college-foundation/)
 - [University of Massachusetts Foundation endowment](/university-of-massachusetts-foundation/)
+- [Salve Regina University endowment](/salve-regina-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

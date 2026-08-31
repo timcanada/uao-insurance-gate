@@ -55,5 +55,6 @@ Do not 301 this page onto `/johnson-wales-endowment/`, `/university-of-connectic
 - [Berklee College of Music endowment](/berklee-college-endowment/)
 - [Hampshire College endowment](/hampshire-college-endowment/)
 - [Naval War College Foundation endowment](/naval-war-college-foundation/)
+- [Salve Regina University endowment](/salve-regina-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -55,5 +55,6 @@ Do not 301 this page onto `/university-of-rhode-island-foundation/`, `/berklee-c
 - [Berklee College of Music endowment](/berklee-college-endowment/)
 - [Emerson College endowment](/emerson-college-endowment/)
 - [Naval War College Foundation endowment](/naval-war-college-foundation/)
+- [Salve Regina University endowment](/salve-regina-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

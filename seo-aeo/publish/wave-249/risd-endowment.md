@@ -52,5 +52,6 @@ Do not 301 this page onto `/berklee-college-endowment/`, `/johnson-wales-endowme
 - [Unity Environmental University endowment](/unity-environmental-endowment/)
 - [New England College of Optometry endowment](/new-england-college-of-optometry-endowment/)
 - [Naval War College Foundation endowment](/naval-war-college-foundation/)
+- [Salve Regina University endowment](/salve-regina-university-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

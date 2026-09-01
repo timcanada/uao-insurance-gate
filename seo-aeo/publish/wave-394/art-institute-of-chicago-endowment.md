@@ -46,6 +46,7 @@ Do not 301 this page onto `/loyola-university-chicago-endowment/`, `/illinois-in
 - [The endowment model, explained](/endowment-model-explained/)
 - [Chicago Botanic Garden endowment](/chicago-botanic-garden-endowment/)
 - [Lincoln Park Zoo endowment](/lincoln-park-zoo-endowment/)
+- [Chicago Zoological Society endowment](/chicago-zoological-society-endowment/)
 - [Loyola University Chicago endowment](/loyola-university-chicago-endowment/)
 - [Illinois Institute of Technology endowment](/illinois-institute-of-technology-endowment/)
 - [City Colleges of Chicago Foundation endowment](/city-colleges-of-chicago-foundation/)

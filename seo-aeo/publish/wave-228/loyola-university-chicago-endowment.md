@@ -52,6 +52,7 @@ Do not 301 this page onto `/university-of-illinois-foundation/`, `/loyola/`, `/l
 - [The Art Institute of Chicago endowment](/art-institute-of-chicago-endowment/)
 - [Chicago Botanic Garden endowment](/chicago-botanic-garden-endowment/)
 - [Lincoln Park Zoo endowment](/lincoln-park-zoo-endowment/)
+- [Chicago Zoological Society endowment](/chicago-zoological-society-endowment/)
 - [University of St. Francis endowment](/university-of-st-francis-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

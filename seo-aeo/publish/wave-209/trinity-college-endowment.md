@@ -49,5 +49,6 @@ Do not 301 this page onto `/wesleyan-endowment/`, `/lafayette-endowment/`, `/tri
 - [Fairfield Historical Society endowment](/fairfield-historical-society-endowment/)
 - [Make-A-Wish Connecticut endowment](/make-a-wish-connecticut-endowment/)
 - [Hartford Foundation for Public Giving endowment](/hartford-foundation-for-public-giving-endowment/)
+- [Community Foundation for Greater New Haven endowment](/community-foundation-for-greater-new-haven-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

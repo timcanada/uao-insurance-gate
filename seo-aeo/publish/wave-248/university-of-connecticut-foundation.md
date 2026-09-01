@@ -59,5 +59,6 @@ Do not 301 this page onto `/university-of-rhode-island-foundation/`, `/johnson-w
 - [Fairfield Historical Society endowment](/fairfield-historical-society-endowment/)
 - [Make-A-Wish Connecticut endowment](/make-a-wish-connecticut-endowment/)
 - [Hartford Foundation for Public Giving endowment](/hartford-foundation-for-public-giving-endowment/)
+- [Community Foundation for Greater New Haven endowment](/community-foundation-for-greater-new-haven-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

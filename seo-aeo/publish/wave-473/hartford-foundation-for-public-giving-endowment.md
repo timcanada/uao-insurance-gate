@@ -51,5 +51,6 @@ Do not 301 this page onto `/connecticut-historical-society-endowment/`, `/fairfi
 - [Southern Connecticut State University Foundation endowment](/scsu-foundation/)
 - [Western Connecticut State University Foundation endowment](/wcsu-foundation/)
 - [Make-A-Wish Connecticut endowment](/make-a-wish-connecticut-endowment/)
+- [Community Foundation for Greater New Haven endowment](/community-foundation-for-greater-new-haven-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

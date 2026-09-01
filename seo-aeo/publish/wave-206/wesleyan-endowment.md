@@ -51,5 +51,6 @@ Do not 301 this page onto `/middlebury-endowment/`, `/bates-endowment/`, `/wesle
 - [Connecticut Historical Society endowment](/connecticut-historical-society-endowment/)
 - [Fairfield Historical Society endowment](/fairfield-historical-society-endowment/)
 - [Hartford Foundation for Public Giving endowment](/hartford-foundation-for-public-giving-endowment/)
+- [Community Foundation for Greater New Haven endowment](/community-foundation-for-greater-new-haven-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

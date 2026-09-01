@@ -49,5 +49,6 @@ Do not 301 this page onto `/dartmouth-endowment/`, `/brandeis-endowment/`, `/bow
 - [Brandeis University endowment](/brandeis-endowment/)
 - [Bates College endowment](/bates-endowment/)
 - [Portland Museum of Art endowment](/portland-museum-of-art-endowment/)
+- [Island Institute endowment](/island-institute-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -46,5 +46,6 @@ Do not 301 this page onto `/bowdoin-endowment/`, `/bates-endowment/`, `/universi
 - [The endowment model, explained](/endowment-model-explained/)
 - [Bowdoin College endowment](/bowdoin-endowment/)
 - [Bates College endowment](/bates-endowment/)
+- [Island Institute endowment](/island-institute-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -47,5 +47,6 @@ Do not 301 this page onto `/national-audubon-society-endowment/`, `/ducks-unlimi
 - [Portland Museum of Art endowment](/portland-museum-of-art-endowment/)
 - [Bowdoin College endowment](/bowdoin-endowment/)
 - [Bates College endowment](/bates-endowment/)
+- [Island Institute endowment](/island-institute-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

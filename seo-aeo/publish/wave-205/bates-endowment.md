@@ -47,5 +47,6 @@ Do not 301 this page onto `/bowdoin-endowment/`, `/smith-college-endowment/`, `/
 - [Middlebury College endowment](/middlebury-endowment/)
 - [Wesleyan University endowment](/wesleyan-endowment/)
 - [Portland Museum of Art endowment](/portland-museum-of-art-endowment/)
+- [Island Institute endowment](/island-institute-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

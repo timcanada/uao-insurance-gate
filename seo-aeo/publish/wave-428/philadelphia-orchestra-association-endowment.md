@@ -49,5 +49,6 @@ Do not 301 this page onto `/university-of-pennsylvania-endowment/`, `/drexel-end
 - [Temple University endowment](/temple-endowment/)
 - [City of Philadelphia Municipal Pension Fund](/philadelphia-municipal/)
 - [Philadelphia Gas Works Retirement Reserve](/philadelphia-pgw/)
+- [Chicago Symphony Orchestra endowment](/chicago-symphony-orchestra-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

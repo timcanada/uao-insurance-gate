@@ -46,6 +46,7 @@ Do not 301 this page onto `/columbia-endowment/`, `/columbia-college-california-
 - [The endowment model, explained](/endowment-model-explained/)
 - [DuPage Foundation endowment](/dupage-foundation-endowment/)
 - [The Art Institute of Chicago endowment](/art-institute-of-chicago-endowment/)
+- [Chicago Symphony Orchestra endowment](/chicago-symphony-orchestra-endowment/)
 - [Chicago Botanic Garden endowment](/chicago-botanic-garden-endowment/)
 - [Chicago Zoological Society endowment](/chicago-zoological-society-endowment/)
 - [Lincoln Park Zoo endowment](/lincoln-park-zoo-endowment/)

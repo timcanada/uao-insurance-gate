@@ -45,6 +45,7 @@ Do not 301 this page onto `/art-institute-of-chicago-endowment/`, `/chicago-bota
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [The Art Institute of Chicago endowment](/art-institute-of-chicago-endowment/)
+- [Chicago Symphony Orchestra endowment](/chicago-symphony-orchestra-endowment/)
 - [Chicago Botanic Garden endowment](/chicago-botanic-garden-endowment/)
 - [Lincoln Park Zoo endowment](/lincoln-park-zoo-endowment/)
 - [Loyola University Chicago endowment](/loyola-university-chicago-endowment/)

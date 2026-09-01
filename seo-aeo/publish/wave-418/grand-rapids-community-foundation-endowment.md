@@ -48,6 +48,7 @@ Do not 301 this page onto `/calvin-endowment/`, `/calvin-theological-seminary-en
 - [Calvin Theological Seminary endowment](/calvin-theological-seminary-endowment/)
 - [Hope College endowment](/hope-college-endowment/)
 - [University of Michigan endowment](/university-of-michigan-endowment/)
+- [Catholic Foundation of the Diocese of Lansing endowment](/catholic-foundation-of-the-diocese-of-lansing-endowment/)
 - [Kellogg Community College Foundation endowment](/kellogg-community-college-foundation/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

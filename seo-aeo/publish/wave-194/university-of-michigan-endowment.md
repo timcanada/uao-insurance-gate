@@ -46,6 +46,7 @@ Do not 301 this page onto `/michigan-sers/`, `/michigan-mpsers/`, `/michigan/`, 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Grand Rapids Community Foundation endowment](/grand-rapids-community-foundation-endowment/)
+- [Catholic Foundation of the Diocese of Lansing endowment](/catholic-foundation-of-the-diocese-of-lansing-endowment/)
 - [University of Pennsylvania endowment](/university-of-pennsylvania-endowment/)
 - [Notre Dame endowment](/notre-dame-endowment/)
 - [Michigan State Employees’ Retirement System](/michigan-sers/)

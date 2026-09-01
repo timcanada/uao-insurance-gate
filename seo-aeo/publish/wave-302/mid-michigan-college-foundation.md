@@ -54,5 +54,6 @@ Do not 301 this page onto `/northwestern-michigan-college-foundation/`, `/glen-o
 - [Northern Michigan University Foundation endowment](/northern-michigan-university-foundation/)
 - [Ferris Foundation endowment](/ferris-foundation/)
 - [University of Michigan endowment](/university-of-michigan-endowment/)
+- [Catholic Foundation of the Diocese of Lansing endowment](/catholic-foundation-of-the-diocese-of-lansing-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

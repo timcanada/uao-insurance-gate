@@ -48,5 +48,6 @@ Do not 301 this page onto `/university-of-nebraska-foundation/`, `/wichita-state
 - [University of Nebraska Foundation endowment](/university-of-nebraska-foundation/)
 - [Wichita State University Foundation endowment](/wichita-state-university-foundation/)
 - [Park University endowment](/park-university-endowment/)
+- [Make-A-Wish Nebraska endowment](/make-a-wish-nebraska-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -47,5 +47,6 @@ Do not 301 this page onto `/university-of-nebraska-foundation/`, `/xavier-univer
 - [The endowment model, explained](/endowment-model-explained/)
 - [Seattle University endowment](/seattle-university-endowment/)
 - [Chapman University endowment](/chapman-endowment/)
+- [Make-A-Wish Nebraska endowment](/make-a-wish-nebraska-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

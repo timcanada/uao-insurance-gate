@@ -56,5 +56,6 @@ Do not 301 this page onto `/make-a-wish-massachusetts-rhode-island-endowment/`, 
 - [Jewish Federation of Greater Seattle endowment](/jewish-federation-of-greater-seattle-endowment/)
 - [Whatcom Community Foundation endowment](/whatcom-community-foundation-endowment/)
 - [Make-A-Wish Greater Pennsylvania and West Virginia endowment](/make-a-wish-greater-pennsylvania-west-virginia-endowment/)
+- [Make-A-Wish Nebraska endowment](/make-a-wish-nebraska-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

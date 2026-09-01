@@ -58,5 +58,6 @@ Do not 301 this page onto `/make-a-wish-missouri-kansas-endowment/`, `/make-a-wi
 - [Wheaton College Massachusetts endowment](/wheaton-college-massachusetts-endowment/)
 - [Make-A-Wish Alaska and Washington endowment](/make-a-wish-alaska-washington-endowment/)
 - [Make-A-Wish Greater Pennsylvania and West Virginia endowment](/make-a-wish-greater-pennsylvania-west-virginia-endowment/)
+- [Make-A-Wish Nebraska endowment](/make-a-wish-nebraska-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

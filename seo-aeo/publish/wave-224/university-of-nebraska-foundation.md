@@ -45,5 +45,6 @@ Do not 301 this page onto `/nebraska-school/`, `/kansas-university-endowment/`, 
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Minnesota Foundation endowment](/university-of-minnesota-foundation/)
 - [University of Dayton endowment](/university-of-dayton-endowment/)
+- [Make-A-Wish Nebraska endowment](/make-a-wish-nebraska-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

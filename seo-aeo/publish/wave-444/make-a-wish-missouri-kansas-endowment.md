@@ -56,5 +56,6 @@ Do not 301 this page onto `/make-a-wish-metro-new-york-western-new-york-endowmen
 - [Make-A-Wish Massachusetts and Rhode Island endowment](/make-a-wish-massachusetts-rhode-island-endowment/)
 - [Make-A-Wish Alaska and Washington endowment](/make-a-wish-alaska-washington-endowment/)
 - [Make-A-Wish Greater Pennsylvania and West Virginia endowment](/make-a-wish-greater-pennsylvania-west-virginia-endowment/)
+- [Make-A-Wish Nebraska endowment](/make-a-wish-nebraska-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

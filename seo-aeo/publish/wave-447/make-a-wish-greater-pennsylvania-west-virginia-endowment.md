@@ -57,6 +57,7 @@ Do not 301 this page onto `/make-a-wish-alaska-washington-endowment/`, `/make-a-
 - [University of Pennsylvania endowment](/university-of-pennsylvania-endowment/)
 - [West Virginia University Foundation endowment](/west-virginia-university-foundation/)
 - [Penn State endowment](/penn-state-endowment/)
+- [Catholic Foundation for the Diocese of Greensburg endowment](/catholic-foundation-for-the-diocese-of-greensburg-endowment/)
 - [Make-A-Wish Nebraska endowment](/make-a-wish-nebraska-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

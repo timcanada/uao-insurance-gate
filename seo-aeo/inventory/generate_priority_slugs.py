@@ -715,6 +715,7 @@ def main() -> None:
         ("community-foundation-of-frederick-county-endowment", "Community Foundation of Frederick County endowment", "Endowment", "needed"),
         ("community-foundation-for-greater-new-haven-endowment", "Community Foundation for Greater New Haven endowment", "Endowment", "needed"),
         ("catholic-community-foundation-of-minnesota-endowment", "Catholic Community Foundation of Minnesota endowment", "Endowment", "needed"),
+        ("catholic-foundation-for-the-diocese-of-greensburg-endowment", "Catholic Foundation for the Diocese of Greensburg endowment", "Endowment", "needed"),
         ("emory-endowment", "Emory University endowment", "Endowment", "needed"),
         ("carnegie-mellon-endowment", "Carnegie Mellon University endowment", "Endowment", "needed"),
         ("caltech-endowment", "Caltech endowment", "Endowment", "needed"),

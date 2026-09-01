@@ -52,5 +52,6 @@ Do not 301 this page onto `/carnegie-mellon-endowment/`, `/university-of-pittsbu
 - [Susquehanna University endowment](/susquehanna-university-endowment/)
 - [Saint Joseph's University endowment](/saint-josephs-university-endowment/)
 - [Make-A-Wish Greater Pennsylvania and West Virginia endowment](/make-a-wish-greater-pennsylvania-west-virginia-endowment/)
+- [Catholic Foundation for the Diocese of Greensburg endowment](/catholic-foundation-for-the-diocese-of-greensburg-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -51,5 +51,6 @@ Do not 301 this page onto `/dickinson-endowment/`, `/duquesne-endowment/`, `/all
 - [Moravian University endowment](/moravian-university-endowment/)
 - [Susquehanna University endowment](/susquehanna-university-endowment/)
 - [Lebanon Valley College endowment](/lebanon-valley-college-endowment/)
+- [Catholic Foundation for the Diocese of Greensburg endowment](/catholic-foundation-for-the-diocese-of-greensburg-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

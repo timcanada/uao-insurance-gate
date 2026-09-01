@@ -48,6 +48,7 @@ Do not 301 this page onto `/caltech-endowment/`, `/mit-investment-management-com
 - [Case Western Reserve University endowment](/case-western-reserve-endowment/)
 - [University of Pittsburgh endowment](/university-of-pittsburgh-endowment/)
 - [Make-A-Wish Greater Pennsylvania and West Virginia endowment](/make-a-wish-greater-pennsylvania-west-virginia-endowment/)
+- [Catholic Foundation for the Diocese of Greensburg endowment](/catholic-foundation-for-the-diocese-of-greensburg-endowment/)
 - [MITIMCo](/mit-investment-management-company/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

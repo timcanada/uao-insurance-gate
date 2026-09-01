@@ -45,5 +45,6 @@ Do not 301 this page onto `/new-york-state-common-retirement-fund-explained/`, `
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Illinois Foundation endowment](/university-of-illinois-foundation/)
 - [Xavier University endowment](/xavier-university-endowment/)
+- [Make-A-Wish Metro New York and Western New York endowment](/make-a-wish-metro-new-york-western-new-york-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

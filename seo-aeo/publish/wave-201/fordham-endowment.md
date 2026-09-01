@@ -50,5 +50,6 @@ Do not 301 this page onto `/nyu-endowment/`, `/columbia-endowment/`, `/fordham/`
 - [Pace University endowment](/pace-endowment/)
 - [New York Medical College endowment](/new-york-medical-college-endowment/)
 - [The New School endowment](/new-school-endowment/)
+- [Make-A-Wish Metro New York and Western New York endowment](/make-a-wish-metro-new-york-western-new-york-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

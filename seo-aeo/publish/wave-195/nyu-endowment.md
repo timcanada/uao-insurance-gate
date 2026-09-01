@@ -50,5 +50,6 @@ Do not 301 this page onto `/columbia-endowment/`, `/university-of-pennsylvania-e
 - [Johns Hopkins University endowment](/johns-hopkins-endowment/)
 - [Boston University endowment](/boston-university-endowment/)
 - [The New School endowment](/new-school-endowment/)
+- [Make-A-Wish Metro New York and Western New York endowment](/make-a-wish-metro-new-york-western-new-york-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -51,5 +51,6 @@ Do not 301 this page onto `/lyric-opera-of-chicago-endowment/`, `/chicago-sympho
 - [San Francisco Conservatory of Music endowment](/san-francisco-conservatory-of-music-endowment/)
 - [Gardens of Golden Gate Park endowment](/gardens-of-golden-gate-park-endowment/)
 - [San Jose Museum of Art endowment](/san-jose-museum-of-art-endowment/)
+- [California Academy of Sciences endowment](/california-academy-of-sciences-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

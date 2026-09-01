@@ -47,6 +47,7 @@ Do not 301 this page onto `/loyola-university-chicago-endowment/`, `/knox-endowm
 - [Loyola University Chicago endowment](/loyola-university-chicago-endowment/)
 - [The Art Institute of Chicago endowment](/art-institute-of-chicago-endowment/)
 - [Chicago Botanic Garden endowment](/chicago-botanic-garden-endowment/)
+- [Lincoln Park Zoo endowment](/lincoln-park-zoo-endowment/)
 - [Knox College endowment](/knox-endowment/)
 - [Lake Forest College endowment](/lake-forest-college-endowment/)
 - [North Central College endowment](/north-central-college-endowment/)

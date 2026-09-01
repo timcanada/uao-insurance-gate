@@ -45,6 +45,7 @@ Do not 301 this page onto `/art-institute-of-chicago-endowment/`, `/loyola-unive
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [The Art Institute of Chicago endowment](/art-institute-of-chicago-endowment/)
+- [Lincoln Park Zoo endowment](/lincoln-park-zoo-endowment/)
 - [Loyola University Chicago endowment](/loyola-university-chicago-endowment/)
 - [Illinois Institute of Technology endowment](/illinois-institute-of-technology-endowment/)
 - [City Colleges of Chicago Foundation endowment](/city-colleges-of-chicago-foundation/)

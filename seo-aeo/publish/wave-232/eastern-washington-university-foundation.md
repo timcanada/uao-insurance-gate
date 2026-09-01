@@ -48,5 +48,6 @@ Do not 301 this page onto `/university-of-washington-endowment/`, `/siu-foundati
 - [University of Washington endowment](/university-of-washington-endowment/)
 - [Eastern Illinois University Foundation endowment](/eastern-illinois-university-foundation/)
 - [Central Washington University Foundation endowment](/central-washington-university-foundation/)
+- [Make-A-Wish Alaska and Washington endowment](/make-a-wish-alaska-washington-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

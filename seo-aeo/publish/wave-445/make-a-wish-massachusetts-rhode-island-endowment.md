@@ -56,5 +56,6 @@ Do not 301 this page onto `/make-a-wish-missouri-kansas-endowment/`, `/make-a-wi
 - [University of Rhode Island Foundation endowment](/university-of-rhode-island-foundation/)
 - [Rhode Island School of Design endowment](/risd-endowment/)
 - [Wheaton College Massachusetts endowment](/wheaton-college-massachusetts-endowment/)
+- [Make-A-Wish Alaska and Washington endowment](/make-a-wish-alaska-washington-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

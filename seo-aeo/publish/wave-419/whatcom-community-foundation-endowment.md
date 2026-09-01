@@ -50,5 +50,6 @@ Do not 301 this page onto `/university-of-washington-endowment/`, `/seattle-univ
 - [Central Washington University Foundation endowment](/central-washington-university-foundation/)
 - [Washington State University Foundation endowment](/washington-state-university-foundation/)
 - [Jewish Federation of Greater Seattle endowment](/jewish-federation-of-greater-seattle-endowment/)
+- [Make-A-Wish Alaska and Washington endowment](/make-a-wish-alaska-washington-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

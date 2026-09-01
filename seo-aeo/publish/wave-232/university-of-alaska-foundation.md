@@ -47,5 +47,6 @@ Do not 301 this page onto `/alaska-permanent-fund-explained/`, `/university-of-w
 - [The endowment model, explained](/endowment-model-explained/)
 - [Alaska Permanent Fund](/alaska-permanent-fund-explained/)
 - [University of Oregon Foundation endowment](/university-of-oregon-foundation/)
+- [Make-A-Wish Alaska and Washington endowment](/make-a-wish-alaska-washington-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

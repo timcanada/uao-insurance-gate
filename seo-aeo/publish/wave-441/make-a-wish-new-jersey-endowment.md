@@ -53,5 +53,6 @@ Do not 301 this page onto `/make-a-wish-ohio-kentucky-indiana-endowment/`, `/rut
 - [Rider University endowment](/rider-university-endowment/)
 - [New Jersey Division of Investment](/new-jersey-division-of-investment/)
 - [Make-A-Wish Massachusetts and Rhode Island endowment](/make-a-wish-massachusetts-rhode-island-endowment/)
+- [Make-A-Wish Alaska and Washington endowment](/make-a-wish-alaska-washington-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

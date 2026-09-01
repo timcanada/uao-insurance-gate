@@ -47,5 +47,6 @@ Do not 301 this page onto `/university-of-washington-endowment/`, `/university-o
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Portland endowment](/university-of-portland-endowment/)
 - [Marquette University endowment](/marquette-endowment/)
+- [Make-A-Wish Alaska and Washington endowment](/make-a-wish-alaska-washington-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

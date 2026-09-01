@@ -47,5 +47,6 @@ Do not 301 this page onto `/washington-state-university-foundation/`, `/eastern-
 - [The endowment model, explained](/endowment-model-explained/)
 - [Washington State University Foundation endowment](/washington-state-university-foundation/)
 - [Eastern Washington University Foundation endowment](/eastern-washington-university-foundation/)
+- [Make-A-Wish Alaska and Washington endowment](/make-a-wish-alaska-washington-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

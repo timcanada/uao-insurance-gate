@@ -51,5 +51,6 @@ Do not 301 this page onto `/university-of-virginia-endowment/`, `/george-mason-u
 - [University of Richmond endowment](/university-of-richmond-endowment/)
 - [William & Mary Foundation endowment](/william-and-mary-foundation/)
 - [Catholic Education Foundation of the Archdiocese of Washington endowment](/catholic-education-foundation-of-the-archdiocese-of-washington-endowment/)
+- [NatureServe endowment](/natureserve-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

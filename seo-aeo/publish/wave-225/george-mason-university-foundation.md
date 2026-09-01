@@ -50,5 +50,6 @@ Do not 301 this page onto `/university-of-virginia-endowment/`, `/medical-colleg
 - [William & Mary Foundation endowment](/william-and-mary-foundation/)
 - [St. Mary's College of Maryland Foundation endowment](/st-marys-college-of-maryland-foundation/)
 - [Communities In Schools endowment](/communities-in-schools-endowment/)
+- [NatureServe endowment](/natureserve-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

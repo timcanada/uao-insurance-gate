@@ -47,5 +47,6 @@ Do not 301 this page onto `/university-of-washington-endowment/`, `/washington-u
 - [University of Washington endowment](/university-of-washington-endowment/)
 - [UNC Chapel Hill endowment](/unc-chapel-hill-endowment/)
 - [Communities In Schools endowment](/communities-in-schools-endowment/)
+- [NatureServe endowment](/natureserve-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

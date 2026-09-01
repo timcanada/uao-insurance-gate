@@ -47,5 +47,6 @@ Do not 301 this page onto `/associated-catholic-charities-endowment/`, `/univers
 - [Community College of Baltimore County Foundation endowment](/community-college-of-baltimore-county-foundation/)
 - [Chesapeake Bay Foundation endowment](/chesapeake-bay-foundation-endowment/)
 - [Loyola University Maryland endowment](/loyola-maryland-endowment/)
+- [Carnegie Institution for Science endowment](/carnegie-institution-for-science-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

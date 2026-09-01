@@ -45,5 +45,6 @@ Do not 301 this page onto `/communities-in-schools-endowment/`, `/george-mason-u
 - [Communities In Schools endowment](/communities-in-schools-endowment/)
 - [George Mason University Foundation endowment](/george-mason-university-foundation/)
 - [University of Virginia endowment](/university-of-virginia-endowment/)
+- [Carnegie Institution for Science endowment](/carnegie-institution-for-science-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

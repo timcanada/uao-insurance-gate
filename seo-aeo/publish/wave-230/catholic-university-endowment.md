@@ -47,5 +47,6 @@ Do not 301 this page onto `/george-washington-endowment/`, `/american-university
 - [The endowment model, explained](/endowment-model-explained/)
 - [American University endowment](/american-university-endowment/)
 - [College of Saint Benedict endowment](/college-of-saint-benedict-endowment/)
+- [Carnegie Institution for Science endowment](/carnegie-institution-for-science-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

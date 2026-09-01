@@ -744,6 +744,8 @@ def main() -> None:
         ("oakland-museum-of-california-endowment", "Oakland Museum of California endowment", "Endowment", "needed"),
         ("minnesota-childrens-museum-endowment", "Minnesota Children's Museum endowment", "Endowment", "needed"),
         ("museum-of-the-shenandoah-valley-endowment", "Museum of the Shenandoah Valley endowment", "Endowment", "needed"),
+        ("carnegie-institution-for-science-endowment", "Carnegie Institution for Science endowment", "Endowment", "needed"),
+        # never-mint Wave 506 twins: carnegie-institution-for-science / carnegie-science / carnegie-institution / carnegie-institution-of-washington / carnegie / ciw / carnegie-endowment. /cis/ stays Wave 432. /cmu/ stays Wave 197. /washington/ stays Wave 194. /dc/ stays reserved.
     ("emory-endowment", "Emory University endowment", "Endowment", "needed"),
         ("carnegie-mellon-endowment", "Carnegie Mellon University endowment", "Endowment", "needed"),
         ("caltech-endowment", "Caltech endowment", "Endowment", "needed"),

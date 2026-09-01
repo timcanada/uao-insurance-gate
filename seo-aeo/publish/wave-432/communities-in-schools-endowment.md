@@ -53,5 +53,6 @@ Do not 301 this page onto `/university-of-virginia-endowment/`, `/george-mason-u
 - [Catholic Education Foundation of the Archdiocese of Washington endowment](/catholic-education-foundation-of-the-archdiocese-of-washington-endowment/)
 - [NatureServe endowment](/natureserve-endowment/)
 - [Museum of the Shenandoah Valley endowment](/museum-of-the-shenandoah-valley-endowment/)
+- [Carnegie Institution for Science endowment](/carnegie-institution-for-science-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

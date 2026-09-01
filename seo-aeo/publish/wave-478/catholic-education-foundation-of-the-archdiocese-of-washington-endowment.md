@@ -50,5 +50,6 @@ Do not 301 this page onto `/george-washington-endowment/`, `/chesapeake-bay-foun
 - [University System of Maryland Foundation endowment](/university-system-of-maryland-foundation/)
 - [Montgomery College Foundation endowment](/montgomery-college-foundation/)
 - [Communities In Schools endowment](/communities-in-schools-endowment/)
+- [Carnegie Institution for Science endowment](/carnegie-institution-for-science-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

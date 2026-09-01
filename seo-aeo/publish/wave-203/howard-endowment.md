@@ -48,5 +48,6 @@ Do not 301 this page onto `/george-washington-endowment/`, `/howard-county-retir
 - [George Washington University endowment](/george-washington-endowment/)
 - [Howard County Retirement Plan](/howard-county-retirement/)
 - [University of Alabama endowment](/university-of-alabama-endowment/)
+- [Carnegie Institution for Science endowment](/carnegie-institution-for-science-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

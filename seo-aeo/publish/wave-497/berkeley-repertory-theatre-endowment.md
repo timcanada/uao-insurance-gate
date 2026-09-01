@@ -46,5 +46,6 @@ Do not 301 this page onto `/catholic-charities-of-the-east-bay-endowment/`, `/oa
 - [Oakland Police and Fire](/oakland-police-fire/)
 - [ACERA](/acera/)
 - [University of San Francisco endowment](/university-of-san-francisco-endowment/)
+- [Oakland Museum of California endowment](/oakland-museum-of-california-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

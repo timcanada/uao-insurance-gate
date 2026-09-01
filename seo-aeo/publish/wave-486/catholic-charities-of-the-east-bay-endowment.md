@@ -46,5 +46,6 @@ Do not 301 this page onto `/oakland-police-fire/`, `/acera/`, `/university-of-sa
 - [ACERA](/acera/)
 - [University of San Francisco endowment](/university-of-san-francisco-endowment/)
 - [Berkeley Repertory Theatre endowment](/berkeley-repertory-theatre-endowment/)
+- [Oakland Museum of California endowment](/oakland-museum-of-california-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

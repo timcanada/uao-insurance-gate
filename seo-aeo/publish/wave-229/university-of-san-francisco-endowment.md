@@ -53,5 +53,6 @@ Do not 301 this page onto `/university-of-san-diego-endowment/`, `/santa-clara-e
 - [Gardens of Golden Gate Park endowment](/gardens-of-golden-gate-park-endowment/)
 - [San Francisco Opera Association endowment](/san-francisco-opera-association-endowment/)
 - [California Academy of Sciences endowment](/california-academy-of-sciences-endowment/)
+- [Oakland Museum of California endowment](/oakland-museum-of-california-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

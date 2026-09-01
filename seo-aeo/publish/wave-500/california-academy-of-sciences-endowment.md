@@ -47,5 +47,6 @@ Do not 301 this page onto `/gardens-of-golden-gate-park-endowment/`, `/golden-ga
 - [University of San Francisco endowment](/university-of-san-francisco-endowment/)
 - [San Francisco Conservatory of Music endowment](/san-francisco-conservatory-of-music-endowment/)
 - [San Francisco Opera Association endowment](/san-francisco-opera-association-endowment/)
+- [Oakland Museum of California endowment](/oakland-museum-of-california-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

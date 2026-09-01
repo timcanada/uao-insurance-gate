@@ -49,5 +49,6 @@ Do not 301 this page onto `/university-of-north-georgia-foundation/`, `/universi
 - [University of North Georgia Foundation endowment](/university-of-north-georgia-foundation/)
 - [University System of Georgia Foundation endowment](/university-system-of-georgia-foundation/)
 - [Albany State University Foundation endowment](/albany-state-university-foundation/)
+- [Catholic Foundation of North Georgia endowment](/catholic-foundation-of-north-georgia-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -49,5 +49,6 @@ Do not 301 this page onto `/duke-university-endowment/`, `/vanderbilt-endowment/
 - [Georgia Tech endowment](/georgia-tech-endowment/)
 - [Morehouse College endowment](/morehouse-college-endowment/)
 - [Georgia Historical Society endowment](/georgia-historical-society-endowment/)
+- [Catholic Foundation of North Georgia endowment](/catholic-foundation-of-north-georgia-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

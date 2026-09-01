@@ -48,5 +48,6 @@ Do not 301 this page onto `/georgia-historical-society-endowment/`, `/emory-endo
 - [Emory University endowment](/emory-endowment/)
 - [Georgia Tech endowment](/georgia-tech-endowment/)
 - [University of Georgia Foundation endowment](/university-of-georgia-foundation/)
+- [Catholic Foundation of North Georgia endowment](/catholic-foundation-of-north-georgia-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

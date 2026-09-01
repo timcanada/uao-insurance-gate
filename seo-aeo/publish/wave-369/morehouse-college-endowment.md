@@ -48,5 +48,6 @@ Do not 301 this page onto `/spelman-endowment/`, `/emory-endowment/`, `/georgia-
 - [Emory University endowment](/emory-endowment/)
 - [Georgia Tech endowment](/georgia-tech-endowment/)
 - [Georgia Historical Society endowment](/georgia-historical-society-endowment/)
+- [Catholic Foundation of North Georgia endowment](/catholic-foundation-of-north-georgia-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

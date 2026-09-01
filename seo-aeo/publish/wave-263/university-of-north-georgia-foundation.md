@@ -51,5 +51,6 @@ Do not 301 this page onto `/university-system-of-georgia-foundation/`, `/univers
 - [University of Georgia Foundation endowment](/university-of-georgia-foundation/)
 - [Medical College of Georgia Foundation endowment](/medical-college-of-georgia-foundation/)
 - [Albany State University Foundation endowment](/albany-state-university-foundation/)
+- [Catholic Foundation of North Georgia endowment](/catholic-foundation-of-north-georgia-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -689,6 +689,7 @@ def main() -> None:
         ("make-a-wish-nebraska-endowment", "Make-A-Wish Nebraska endowment", "Endowment", "needed"),
         ("make-a-wish-oregon-endowment", "Make-A-Wish Oregon endowment", "Endowment", "needed"),
         ("make-a-wish-hawaii-endowment", "Make-A-Wish Hawaii endowment", "Endowment", "needed"),
+        ("make-a-wish-idaho-endowment", "Make-A-Wish Idaho endowment", "Endowment", "needed"),
         ("emory-endowment", "Emory University endowment", "Endowment", "needed"),
         ("carnegie-mellon-endowment", "Carnegie Mellon University endowment", "Endowment", "needed"),
         ("caltech-endowment", "Caltech endowment", "Endowment", "needed"),

@@ -48,5 +48,6 @@ Do not 301 this page onto `/idaho-state-university-foundation/`, `/montana-state
 - [Idaho State University Foundation endowment](/idaho-state-university-foundation/)
 - [College of Western Idaho Foundation endowment](/college-of-western-idaho-foundation/)
 - [Boise State University Foundation endowment](/boise-state-university-foundation/)
+- [Make-A-Wish Idaho endowment](/make-a-wish-idaho-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

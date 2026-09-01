@@ -50,5 +50,6 @@ Do not 301 this page onto `/trinity-college-endowment/`, `/wesleyan-endowment/`,
 - [Naval War College Foundation endowment](/naval-war-college-foundation/)
 - [Connecticut Historical Society endowment](/connecticut-historical-society-endowment/)
 - [Fairfield Historical Society endowment](/fairfield-historical-society-endowment/)
+- [Make-A-Wish Connecticut endowment](/make-a-wish-connecticut-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

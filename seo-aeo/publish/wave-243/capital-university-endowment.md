@@ -52,5 +52,6 @@ Do not 301 this page onto `/university-of-dayton-endowment/`, `/xavier-universit
 - [Heidelberg University endowment](/heidelberg-university-endowment/)
 - [Wright State University Foundation endowment](/wright-state-university-foundation/)
 - [Ohio Northern University endowment](/ohio-northern-university-endowment/)
+- [Make-A-Wish Ohio, Kentucky and Indiana endowment](/make-a-wish-ohio-kentucky-indiana-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

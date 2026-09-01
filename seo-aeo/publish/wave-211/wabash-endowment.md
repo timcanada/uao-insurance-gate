@@ -47,5 +47,6 @@ Do not 301 this page onto `/union-college-endowment/`, `/kenyon-endowment/`, `/w
 - [Hamline University endowment](/hamline-endowment/)
 - [Berea College endowment](/berea-college-endowment/)
 - [Newfields endowment](/newfields-endowment/)
+- [Make-A-Wish Ohio, Kentucky and Indiana endowment](/make-a-wish-ohio-kentucky-indiana-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

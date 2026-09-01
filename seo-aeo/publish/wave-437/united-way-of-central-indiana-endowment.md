@@ -49,5 +49,6 @@ Do not 301 this page onto `/newfields-endowment/`, `/indiana-university-endowmen
 - [Wabash College endowment](/wabash-endowment/)
 - [Purdue University endowment](/purdue-endowment/)
 - [Notre Dame endowment](/notre-dame-endowment/)
+- [Make-A-Wish Ohio, Kentucky and Indiana endowment](/make-a-wish-ohio-kentucky-indiana-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -48,5 +48,6 @@ Do not 301 this page onto `/notre-dame-endowment/`, `/university-of-michigan-end
 - [University of Michigan endowment](/university-of-michigan-endowment/)
 - [University of Southern Indiana Foundation endowment](/university-of-southern-indiana-foundation/)
 - [Newfields endowment](/newfields-endowment/)
+- [Make-A-Wish Ohio, Kentucky and Indiana endowment](/make-a-wish-ohio-kentucky-indiana-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

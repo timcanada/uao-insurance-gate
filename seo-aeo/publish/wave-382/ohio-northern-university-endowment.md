@@ -52,5 +52,6 @@ Do not 301 this page onto `/ohio-wesleyan-endowment/`, `/university-of-toledo-fo
 - [University of Toledo Foundation endowment](/university-of-toledo-foundation/)
 - [Bowling Green State University Foundation endowment](/bowling-green-state-university-foundation/)
 - [Wright State University Foundation endowment](/wright-state-university-foundation/)
+- [Make-A-Wish Ohio, Kentucky and Indiana endowment](/make-a-wish-ohio-kentucky-indiana-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

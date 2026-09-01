@@ -58,5 +58,6 @@ Do not 301 this page onto `/university-of-mississippi-foundation/`, `/university
 - [Asbury Theological Seminary endowment](/asbury-theological-seminary-endowment/)
 - [Austin Peay State University Foundation endowment](/austin-peay-state-university-foundation/)
 - [Middle Tennessee State University Foundation endowment](/middle-tennessee-state-university-foundation/)
+- [Make-A-Wish Ohio, Kentucky and Indiana endowment](/make-a-wish-ohio-kentucky-indiana-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

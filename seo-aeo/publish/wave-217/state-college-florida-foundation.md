@@ -45,5 +45,6 @@ Do not 301 this page onto `/florida-college-endowment/`, `/famu-foundation-endow
 - [The endowment model, explained](/endowment-model-explained/)
 - [Gulf Coast State College Foundation endowment](/gulf-coast-state-college-foundation/)
 - [Florida Institute of Technology endowment](/florida-tech-endowment/)
+- [Catholic Foundation of the Diocese of St. Petersburg endowment](/catholic-foundation-of-the-diocese-of-st-petersburg-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

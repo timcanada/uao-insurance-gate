@@ -49,5 +49,6 @@ Do not 301 this page onto `/tallahassee-state-college-foundation/`, `/university
 - [University of Florida Foundation endowment](/university-of-florida-foundation/)
 - [Brookdale Community College Foundation endowment](/brookdale-community-college-foundation/)
 - [Wake Tech Foundation endowment](/wake-tech-foundation/)
+- [Catholic Foundation of the Diocese of St. Petersburg endowment](/catholic-foundation-of-the-diocese-of-st-petersburg-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

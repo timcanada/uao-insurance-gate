@@ -44,6 +44,7 @@ Do not 301 this page onto `/university-of-minnesota-foundation/`, `/minnesota-hi
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [Minnesota Children's Museum endowment](/minnesota-childrens-museum-endowment/)
 - [Walker Art Center endowment](/walker-art-center-endowment/)
 - [Minnesota Historical Society endowment](/minnesota-historical-society-endowment/)
 - [University of Minnesota Foundation endowment](/university-of-minnesota-foundation/)

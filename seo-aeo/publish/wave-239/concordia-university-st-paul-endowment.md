@@ -44,6 +44,7 @@ Do not 301 this page onto `/university-of-st-thomas-endowment/`, `/college-of-sa
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [Minnesota Children's Museum endowment](/minnesota-childrens-museum-endowment/)
 - [College of Saint Benedict endowment](/college-of-saint-benedict-endowment/)
 - [University of St. Thomas endowment](/university-of-st-thomas-endowment/)
 - [Concordia College Moorhead endowment](/concordia-college-moorhead-endowment/)

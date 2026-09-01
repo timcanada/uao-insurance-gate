@@ -44,6 +44,7 @@ Do not 301 this page onto `/kansas-city-ballet-endowment/`, `/saint-paul-chamber
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [Minnesota Children's Museum endowment](/minnesota-childrens-museum-endowment/)
 - [Saint Paul Chamber Orchestra endowment](/saint-paul-chamber-orchestra-endowment/)
 - [Walker Art Center endowment](/walker-art-center-endowment/)
 - [Science Museum of Minnesota endowment](/science-museum-of-minnesota-endowment/)

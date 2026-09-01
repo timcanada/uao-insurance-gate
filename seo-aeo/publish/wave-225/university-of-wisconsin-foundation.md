@@ -45,5 +45,6 @@ Do not 301 this page onto `/wisconsin-investment-board-swib-explained/`, `/unive
 - [The endowment model, explained](/endowment-model-explained/)
 - [Washington and Lee University endowment](/washington-and-lee-endowment/)
 - [University of Dayton endowment](/university-of-dayton-endowment/)
+- [Oshkosh Area Community Foundation endowment](/oshkosh-area-community-foundation-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

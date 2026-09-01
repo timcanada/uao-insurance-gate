@@ -49,5 +49,6 @@ Do not 301 this page onto `/university-of-wisconsin-foundation/`, `/lawrence-uni
 - [Chippewa Valley Technical College Foundation endowment](/chippewa-valley-technical-college-foundation/)
 - [Southwest Wisconsin Technical College Foundation endowment](/southwest-wisconsin-technical-college-foundation/)
 - [Carthage College endowment](/carthage-endowment/)
+- [Oshkosh Area Community Foundation endowment](/oshkosh-area-community-foundation-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

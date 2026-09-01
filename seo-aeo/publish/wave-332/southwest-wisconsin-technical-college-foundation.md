@@ -50,5 +50,6 @@ Do not 301 this page onto `/chippewa-valley-technical-college-foundation/`, `/co
 - [Edgewood College endowment](/edgewood-college-endowment/)
 - [Beloit College endowment](/beloit-endowment/)
 - [Luther College endowment](/luther-college-endowment/)
+- [Oshkosh Area Community Foundation endowment](/oshkosh-area-community-foundation-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

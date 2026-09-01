@@ -45,5 +45,6 @@ Do not 301 this page onto `/calvin-endowment/`, `/marist-endowment/`, `/lawrence
 - [The endowment model, explained](/endowment-model-explained/)
 - [Marist University endowment](/marist-endowment/)
 - [University of West Florida Foundation endowment](/west-florida-foundation-endowment/)
+- [Oshkosh Area Community Foundation endowment](/oshkosh-area-community-foundation-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -56,5 +56,6 @@ Do not 301 this page onto `/columbia-endowment/`, `/columbia-college-california-
 - [City Colleges of Chicago Foundation endowment](/city-colleges-of-chicago-foundation/)
 - [Lake Forest College endowment](/lake-forest-college-endowment/)
 - [Northeastern Illinois University Foundation endowment](/northeastern-illinois-university-foundation/)
+- [United Way of Metropolitan Chicago endowment](/united-way-of-metropolitan-chicago-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

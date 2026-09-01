@@ -55,5 +55,6 @@ Do not 301 this page onto `/art-institute-of-chicago-endowment/`, `/chicago-bota
 - [Northeastern Illinois University Foundation endowment](/northeastern-illinois-university-foundation/)
 - [Chicago Zoological Society endowment](/chicago-zoological-society-endowment/)
 - [Columbia College Chicago endowment](/columbia-college-chicago-endowment/)
+- [United Way of Metropolitan Chicago endowment](/united-way-of-metropolitan-chicago-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

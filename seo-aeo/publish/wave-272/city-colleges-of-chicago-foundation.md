@@ -63,5 +63,6 @@ Do not 301 this page onto `/western-illinois-university-foundation/`, `/northeas
 - [University of St. Francis endowment](/university-of-st-francis-endowment/)
 - [Lyric Opera of Chicago endowment](/lyric-opera-of-chicago-endowment/)
 - [Carl Sandburg College Foundation endowment](/carl-sandburg-college-foundation/)
+- [United Way of Metropolitan Chicago endowment](/united-way-of-metropolitan-chicago-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

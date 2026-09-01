@@ -56,5 +56,6 @@ Do not 301 this page onto `/loyola-university-chicago-endowment/`, `/illinois-in
 - [Lake Forest College endowment](/lake-forest-college-endowment/)
 - [Northeastern Illinois University Foundation endowment](/northeastern-illinois-university-foundation/)
 - [University of St. Francis endowment](/university-of-st-francis-endowment/)
+- [United Way of Metropolitan Chicago endowment](/united-way-of-metropolitan-chicago-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

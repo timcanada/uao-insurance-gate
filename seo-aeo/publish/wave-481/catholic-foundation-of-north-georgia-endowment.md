@@ -50,5 +50,6 @@ Do not 301 this page onto `/emory-endowment/`, `/georgia-tech-endowment/`, `/mor
 - [University of Georgia Foundation endowment](/university-of-georgia-foundation/)
 - [Kennesaw State University Foundation endowment](/kennesaw-state-university-foundation/)
 - [United Way of Greater Atlanta endowment](/united-way-of-greater-atlanta-endowment/)
+- [Woodruff Arts Center endowment](/woodruff-arts-center-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

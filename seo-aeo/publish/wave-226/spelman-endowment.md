@@ -48,5 +48,6 @@ Do not 301 this page onto `/university-of-dayton-endowment/`, `/college-of-charl
 - [Morehouse College endowment](/morehouse-college-endowment/)
 - [Georgia Historical Society endowment](/georgia-historical-society-endowment/)
 - [Catholic Foundation of North Georgia endowment](/catholic-foundation-of-north-georgia-endowment/)
+- [Woodruff Arts Center endowment](/woodruff-arts-center-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

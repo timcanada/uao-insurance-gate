@@ -47,5 +47,6 @@ Do not 301 this page onto `/university-of-pittsburgh-endowment/`, `/carnegie-mel
 - [Duquesne University endowment](/duquesne-endowment/)
 - [Allegheny College endowment](/allegheny-college-endowment/)
 - [Make-A-Wish Greater Pennsylvania and West Virginia endowment](/make-a-wish-greater-pennsylvania-west-virginia-endowment/)
+- [Children's Museum of Pittsburgh endowment](/childrens-museum-of-pittsburgh-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

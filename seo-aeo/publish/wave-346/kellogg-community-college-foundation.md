@@ -47,6 +47,7 @@ Do not 301 this page onto `/washtenaw-community-college-foundation/`, `/northwes
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [Grand Rapids Community Foundation endowment](/grand-rapids-community-foundation-endowment/)
 - [Washtenaw Community College Foundation endowment](/washtenaw-community-college-foundation/)
 - [Northwestern Michigan College Foundation endowment](/northwestern-michigan-college-foundation/)
 - [Glen Oaks Community College Foundation endowment](/glen-oaks-community-college-foundation/)

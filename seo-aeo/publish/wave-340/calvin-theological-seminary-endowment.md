@@ -48,6 +48,7 @@ Do not 301 this page onto `/calvin-endowment/`, `/hope-college-endowment/`, `/gr
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [Grand Rapids Community Foundation endowment](/grand-rapids-community-foundation-endowment/)
 - [Calvin University endowment](/calvin-endowment/)
 - [Hope College endowment](/hope-college-endowment/)
 - [Great Lakes Christian College endowment](/great-lakes-christian-college-endowment/)

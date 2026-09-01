@@ -43,6 +43,7 @@ Do not 301 this page onto `/hope-college-endowment/`, `/denison-university-endow
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [Grand Rapids Community Foundation endowment](/grand-rapids-community-foundation-endowment/)
 - [Denison University endowment](/denison-university-endowment/)
 - [Lynn University endowment](/lynn-endowment/)
 - [Great Lakes Christian College endowment](/great-lakes-christian-college-endowment/)

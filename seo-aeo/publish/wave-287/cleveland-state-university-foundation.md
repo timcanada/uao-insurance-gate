@@ -59,5 +59,6 @@ Do not 301 this page onto `/colorado-state-university-foundation/`, `/youngstown
 - [University of Akron Foundation endowment](/university-of-akron-foundation/)
 - [MetroHealth Foundation endowment](/metrohealth-foundation/)
 - [St. Mary Seminary endowment](/st-mary-seminary-endowment/)
+- [Cleveland Zoological Society endowment](/cleveland-zoological-society-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -51,5 +51,6 @@ Do not 301 this page onto `/university-of-dayton-endowment/`, `/xavier-universit
 - [Wright State University Foundation endowment](/wright-state-university-foundation/)
 - [Capital University endowment](/capital-university-endowment/)
 - [Ohio Northern University endowment](/ohio-northern-university-endowment/)
+- [Cleveland Zoological Society endowment](/cleveland-zoological-society-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -48,5 +48,6 @@ Do not 301 this page onto `/carnegie-mellon-endowment/`, `/northwestern-endowmen
 - [Carnegie Mellon University endowment](/carnegie-mellon-endowment/)
 - [Lehigh University endowment](/lehigh-university-endowment/)
 - [Northwestern endowment](/northwestern-endowment/)
+- [Cleveland Zoological Society endowment](/cleveland-zoological-society-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

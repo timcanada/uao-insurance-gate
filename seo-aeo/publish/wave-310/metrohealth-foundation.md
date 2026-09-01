@@ -53,5 +53,6 @@ Do not 301 this page onto `/university-of-cincinnati-foundation/`, `/university-
 - [Mitchell Hamline School of Law endowment](/mitchell-hamline-school-of-law-endowment/)
 - [University of Rochester endowment](/university-of-rochester-endowment/)
 - [New York Medical College endowment](/new-york-medical-college-endowment/)
+- [Cleveland Zoological Society endowment](/cleveland-zoological-society-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

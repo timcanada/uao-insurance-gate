@@ -46,6 +46,7 @@ Do not 301 this page onto `/kansas-state-university-foundation/`, `/kansas-kpers
 - [Kansas State University Foundation endowment](/kansas-state-university-foundation/)
 - [Emporia State University Foundation endowment](/emporia-state-university-foundation/)
 - [Make-A-Wish Missouri and Kansas endowment](/make-a-wish-missouri-kansas-endowment/)
+- [Kansas City Ballet Association endowment](/kansas-city-ballet-endowment/)
 - [Make-A-Wish Nebraska endowment](/make-a-wish-nebraska-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

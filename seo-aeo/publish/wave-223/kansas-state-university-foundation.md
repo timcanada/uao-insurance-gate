@@ -45,5 +45,6 @@ Do not 301 this page onto `/montana-state-university-foundation/`, `/missouri-st
 - [The endowment model, explained](/endowment-model-explained/)
 - [Montana State University Foundation endowment](/montana-state-university-foundation/)
 - [Wichita State University Foundation endowment](/wichita-state-university-foundation/)
+- [Kansas City Ballet Association endowment](/kansas-city-ballet-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

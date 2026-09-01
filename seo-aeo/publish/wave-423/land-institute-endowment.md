@@ -48,5 +48,6 @@ Do not 301 this page onto `/kansas-university-endowment/`, `/kansas-state-univer
 - [Kansas State University Foundation endowment](/kansas-state-university-foundation/)
 - [Wichita State University Foundation endowment](/wichita-state-university-foundation/)
 - [Nelson-Atkins Museum of Art endowment](/nelson-atkins-museum-endowment/)
+- [Kansas City Ballet Association endowment](/kansas-city-ballet-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

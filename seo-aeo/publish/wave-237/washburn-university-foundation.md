@@ -47,5 +47,6 @@ Do not 301 this page onto `/washington-university-endowment/`, `/kansas-state-un
 - [Emporia State University Foundation endowment](/emporia-state-university-foundation/)
 - [Wichita State University Foundation endowment](/wichita-state-university-foundation/)
 - [Park University endowment](/park-university-endowment/)
+- [Kansas City Ballet Association endowment](/kansas-city-ballet-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

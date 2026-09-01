@@ -50,5 +50,6 @@ Do not 301 this page onto `/howard-endowment/`, `/hillsborough-community-college
 - [University of Maryland Baltimore Foundation endowment](/university-of-maryland-baltimore-foundation/)
 - [University System of Maryland Foundation endowment](/university-system-of-maryland-foundation/)
 - [Towson University Foundation endowment](/towson-university-foundation/)
+- [Community Foundation of Frederick County endowment](/community-foundation-of-frederick-county-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -47,5 +47,6 @@ Do not 301 this page onto `/washington-college-endowment/`, `/american-universit
 - [The endowment model, explained](/endowment-model-explained/)
 - [Washington College endowment](/washington-college-endowment/)
 - [American University endowment](/american-university-endowment/)
+- [Community Foundation of Frederick County endowment](/community-foundation-of-frederick-county-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

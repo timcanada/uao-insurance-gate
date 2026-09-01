@@ -51,5 +51,6 @@ Do not 301 this page onto `/maryland-srps/`, `/university-of-maryland-college-pa
 - [Community College of Baltimore County Foundation endowment](/community-college-of-baltimore-county-foundation/)
 - [Towson University Foundation endowment](/towson-university-foundation/)
 - [St. Mary's College of Maryland Foundation endowment](/st-marys-college-of-maryland-foundation/)
+- [Community Foundation of Frederick County endowment](/community-foundation-of-frederick-county-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

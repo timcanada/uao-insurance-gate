@@ -50,5 +50,6 @@ Do not 301 this page onto `/ocean-conservancy-endowment/`, `/communities-in-scho
 - [American University endowment](/american-university-endowment/)
 - [Johns Hopkins endowment](/johns-hopkins-endowment/)
 - [University of Virginia endowment](/university-of-virginia-endowment/)
+- [Community Foundation of Frederick County endowment](/community-foundation-of-frederick-county-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

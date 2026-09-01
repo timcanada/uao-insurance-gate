@@ -56,5 +56,6 @@ Do not 301 this page onto `/johns-hopkins-endowment/`, `/xavier-university-endow
 - [Loyola University Maryland endowment](/loyola-maryland-endowment/)
 - [The Campanile Foundation endowment](/campanile-foundation/)
 - [University of Toledo Foundation endowment](/university-of-toledo-foundation/)
+- [Community Foundation of Frederick County endowment](/community-foundation-of-frederick-county-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

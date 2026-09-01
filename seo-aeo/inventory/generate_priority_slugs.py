@@ -712,6 +712,7 @@ def main() -> None:
         ("massachusetts-audubon-society-endowment", "Massachusetts Audubon Society endowment", "Endowment", "needed"),
         ("pheasants-forever-endowment", "Pheasants Forever endowment", "Endowment", "needed"),
         ("hartford-foundation-for-public-giving-endowment", "Hartford Foundation for Public Giving endowment", "Endowment", "needed"),
+        ("community-foundation-of-frederick-county-endowment", "Community Foundation of Frederick County endowment", "Endowment", "needed"),
         ("emory-endowment", "Emory University endowment", "Endowment", "needed"),
         ("carnegie-mellon-endowment", "Carnegie Mellon University endowment", "Endowment", "needed"),
         ("caltech-endowment", "Caltech endowment", "Endowment", "needed"),

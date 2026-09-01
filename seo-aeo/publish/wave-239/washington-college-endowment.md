@@ -48,5 +48,6 @@ Do not 301 this page onto `/university-of-washington-endowment/`, `/washington-u
 - [Washington State University Foundation endowment](/washington-state-university-foundation/)
 - [Washington University in St. Louis endowment](/washington-university-endowment/)
 - [Goucher College endowment](/goucher-college-endowment/)
+- [Community Foundation of Frederick County endowment](/community-foundation-of-frederick-county-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

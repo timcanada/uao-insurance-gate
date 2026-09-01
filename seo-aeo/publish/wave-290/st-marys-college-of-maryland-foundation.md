@@ -60,5 +60,6 @@ Do not 301 this page onto `/george-mason-university-foundation/`, `/william-and-
 - [Longwood University Foundation endowment](/longwood-university-foundation/)
 - [Radford University Foundation endowment](/radford-university-foundation/)
 - [University of Richmond endowment](/university-of-richmond-endowment/)
+- [Community Foundation of Frederick County endowment](/community-foundation-of-frederick-county-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

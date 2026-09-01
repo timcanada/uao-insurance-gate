@@ -55,5 +55,6 @@ Do not 301 this page onto `/loyola-university-chicago-endowment/`, `/johns-hopki
 - [St. Mary's College of Maryland Foundation endowment](/st-marys-college-of-maryland-foundation/)
 - [Loyola University Chicago endowment](/loyola-university-chicago-endowment/)
 - [American University endowment](/american-university-endowment/)
+- [Community Foundation of Frederick County endowment](/community-foundation-of-frederick-county-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

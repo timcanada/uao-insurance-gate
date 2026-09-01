@@ -56,5 +56,6 @@ Do not 301 this page onto `/amherst-endowment/`, `/mcla-foundation/`, `/wheaton-
 - [Brown University endowment](/brown-endowment/)
 - [Hebrew College endowment](/hebrew-college-endowment/)
 - [William James College endowment](/william-james-college-endowment/)
+- [Make-A-Wish Massachusetts and Rhode Island endowment](/make-a-wish-massachusetts-rhode-island-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

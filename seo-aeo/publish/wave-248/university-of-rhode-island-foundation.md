@@ -56,5 +56,6 @@ Do not 301 this page onto `/johnson-wales-endowment/`, `/university-of-connectic
 - [Hampshire College endowment](/hampshire-college-endowment/)
 - [Naval War College Foundation endowment](/naval-war-college-foundation/)
 - [Salve Regina University endowment](/salve-regina-university-endowment/)
+- [Make-A-Wish Massachusetts and Rhode Island endowment](/make-a-wish-massachusetts-rhode-island-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

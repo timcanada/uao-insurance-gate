@@ -49,5 +49,6 @@ Do not 301 this page onto `/boston-university-endowment/`, `/mit-investment-mana
 - [Essex County Community Foundation endowment](/essex-county-community-foundation-endowment/)
 - [Northeastern University endowment](/northeastern-endowment/)
 - [MITIMCo](/mit-investment-management-company/)
+- [Make-A-Wish Massachusetts and Rhode Island endowment](/make-a-wish-massachusetts-rhode-island-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

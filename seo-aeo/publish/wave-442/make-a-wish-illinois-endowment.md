@@ -51,5 +51,6 @@ Do not 301 this page onto `/make-a-wish-new-jersey-endowment/`, `/make-a-wish-oh
 - [University of Illinois Foundation endowment](/university-of-illinois-foundation/)
 - [United Way of Metropolitan Chicago endowment](/united-way-of-metropolitan-chicago-endowment/)
 - [The Art Institute of Chicago endowment](/art-institute-of-chicago-endowment/)
+- [Make-A-Wish Massachusetts and Rhode Island endowment](/make-a-wish-massachusetts-rhode-island-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

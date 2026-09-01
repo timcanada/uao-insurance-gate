@@ -53,5 +53,6 @@ Do not 301 this page onto `/make-a-wish-metro-new-york-western-new-york-endowmen
 - [Kansas University Endowment Association endowment](/kansas-university-endowment/)
 - [Nelson-Atkins Museum of Art endowment](/nelson-atkins-museum-endowment/)
 - [Missouri State University Foundation endowment](/missouri-state-university-foundation/)
+- [Make-A-Wish Massachusetts and Rhode Island endowment](/make-a-wish-massachusetts-rhode-island-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

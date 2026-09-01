@@ -51,5 +51,6 @@ Do not 301 this page onto `/make-a-wish-illinois-endowment/`, `/make-a-wish-new-
 - [NYU endowment](/nyu-endowment/)
 - [Fordham University endowment](/fordham-endowment/)
 - [University at Buffalo Foundation endowment](/university-at-buffalo-foundation/)
+- [Make-A-Wish Massachusetts and Rhode Island endowment](/make-a-wish-massachusetts-rhode-island-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

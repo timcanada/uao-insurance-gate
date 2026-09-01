@@ -58,5 +58,6 @@ Do not 301 this page onto `/united-way-of-metropolitan-dallas-endowment/`, `/uni
 - [Make-A-Wish Illinois endowment](/make-a-wish-illinois-endowment/)
 - [Make-A-Wish Metro New York and Western New York endowment](/make-a-wish-metro-new-york-western-new-york-endowment/)
 - [Make-A-Wish Missouri and Kansas endowment](/make-a-wish-missouri-kansas-endowment/)
+- [Make-A-Wish Massachusetts and Rhode Island endowment](/make-a-wish-massachusetts-rhode-island-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -48,5 +48,6 @@ Do not 301 this page onto `/university-of-cincinnati-foundation/`, `/xavier-univ
 - [Xavier University endowment](/xavier-university-endowment/)
 - [Northern Kentucky University Foundation endowment](/northern-kentucky-university-foundation/)
 - [University of Dayton endowment](/university-of-dayton-endowment/)
+- [United Way of Greater Toledo endowment](/united-way-of-greater-toledo-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

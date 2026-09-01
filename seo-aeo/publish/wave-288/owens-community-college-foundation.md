@@ -54,5 +54,6 @@ Do not 301 this page onto `/lorain-county-community-college-foundation/`, `/clar
 - [Cuyahoga Community College Foundation endowment](/cuyahoga-community-college-foundation/)
 - [Bowling Green State University Foundation endowment](/bowling-green-state-university-foundation/)
 - [Sinclair Community College Foundation endowment](/sinclair-community-college-foundation/)
+- [United Way of Greater Toledo endowment](/united-way-of-greater-toledo-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

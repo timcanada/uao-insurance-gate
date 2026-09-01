@@ -54,5 +54,6 @@ Do not 301 this page onto `/university-of-toledo-foundation/`, `/wright-state-un
 - [University of Cincinnati Foundation endowment](/university-of-cincinnati-foundation/)
 - [Northeast Ohio Medical University Foundation endowment](/northeast-ohio-medical-university-foundation/)
 - [Ohio Northern University endowment](/ohio-northern-university-endowment/)
+- [United Way of Greater Toledo endowment](/united-way-of-greater-toledo-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

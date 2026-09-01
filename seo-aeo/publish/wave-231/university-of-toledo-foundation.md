@@ -51,5 +51,6 @@ Do not 301 this page onto `/xavier-university-endowment/`, `/university-of-dayto
 - [University of Cincinnati Foundation endowment](/university-of-cincinnati-foundation/)
 - [University of Akron Foundation endowment](/university-of-akron-foundation/)
 - [Ohio Northern University endowment](/ohio-northern-university-endowment/)
+- [United Way of Greater Toledo endowment](/united-way-of-greater-toledo-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

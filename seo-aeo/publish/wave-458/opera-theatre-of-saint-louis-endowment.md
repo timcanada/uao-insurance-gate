@@ -47,5 +47,6 @@ Do not 301 this page onto `/minnesota-opera-endowment/`, `/kansas-city-ballet-en
 - [Saint Louis University endowment](/saint-louis-university-endowment/)
 - [Washington University endowment](/washington-university-endowment/)
 - [Make-A-Wish Missouri and Kansas endowment](/make-a-wish-missouri-kansas-endowment/)
+- [Roman Catholic Foundation of Eastern Missouri endowment](/roman-catholic-foundation-of-eastern-missouri-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

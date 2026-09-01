@@ -48,5 +48,6 @@ Do not 301 this page onto `/university-of-washington-endowment/`, `/washington/`
 - [University of Washington endowment](/university-of-washington-endowment/)
 - [Johns Hopkins University endowment](/johns-hopkins-endowment/)
 - [Make-A-Wish Missouri and Kansas endowment](/make-a-wish-missouri-kansas-endowment/)
+- [Roman Catholic Foundation of Eastern Missouri endowment](/roman-catholic-foundation-of-eastern-missouri-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

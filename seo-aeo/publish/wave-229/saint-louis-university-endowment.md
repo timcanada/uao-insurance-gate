@@ -48,5 +48,6 @@ Do not 301 this page onto `/washington-university-endowment/`, `/loyola-universi
 - [Loyola University Chicago endowment](/loyola-university-chicago-endowment/)
 - [Catholic University of America endowment](/catholic-university-endowment/)
 - [Make-A-Wish Missouri and Kansas endowment](/make-a-wish-missouri-kansas-endowment/)
+- [Roman Catholic Foundation of Eastern Missouri endowment](/roman-catholic-foundation-of-eastern-missouri-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

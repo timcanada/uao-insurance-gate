@@ -50,6 +50,7 @@ Do not 301 this page onto `/make-a-wish-metro-new-york-western-new-york-endowmen
 - [Make-A-Wish Ohio, Kentucky and Indiana endowment](/make-a-wish-ohio-kentucky-indiana-endowment/)
 - [Washington University in St. Louis endowment](/washington-university-endowment/)
 - [Saint Louis University endowment](/saint-louis-university-endowment/)
+- [Roman Catholic Foundation of Eastern Missouri endowment](/roman-catholic-foundation-of-eastern-missouri-endowment/)
 - [Kansas University Endowment Association endowment](/kansas-university-endowment/)
 - [Nelson-Atkins Museum of Art endowment](/nelson-atkins-museum-endowment/)
 - [Kansas City Ballet Association endowment](/kansas-city-ballet-endowment/)

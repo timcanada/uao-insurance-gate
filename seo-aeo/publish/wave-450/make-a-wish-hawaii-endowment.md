@@ -55,6 +55,7 @@ Do not 301 this page onto `/make-a-wish-oregon-endowment/`, `/make-a-wish-nebras
 - [Make-A-Wish New Jersey endowment](/make-a-wish-new-jersey-endowment/)
 - [Make-A-Wish Ohio, Kentucky and Indiana endowment](/make-a-wish-ohio-kentucky-indiana-endowment/)
 - [University of Hawaii Foundation endowment](/university-of-hawaii-foundation/)
+- [Honolulu Museum of Art endowment](/honolulu-museum-of-art-endowment/)
 - [Make-A-Wish Idaho endowment](/make-a-wish-idaho-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

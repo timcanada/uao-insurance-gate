@@ -46,5 +46,6 @@ Do not 301 this page onto `/university-at-buffalo-foundation/`, `/georgia-southe
 - [University at Buffalo Foundation endowment](/university-at-buffalo-foundation/)
 - [George Mason University Foundation endowment](/george-mason-university-foundation/)
 - [Make-A-Wish Hawaii endowment](/make-a-wish-hawaii-endowment/)
+- [Honolulu Museum of Art endowment](/honolulu-museum-of-art-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

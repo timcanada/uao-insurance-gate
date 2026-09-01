@@ -662,6 +662,7 @@ def main() -> None:
         ("essex-county-community-foundation-endowment", "Essex County Community Foundation endowment", "Endowment", "needed"),
         ("california-community-foundation-endowment", "California Community Foundation endowment", "Endowment", "needed"),
         ("land-institute-endowment", "The Land Institute endowment", "Endowment", "needed"),
+        ("salk-institute-endowment", "The Salk Institute endowment", "Endowment", "needed"),
         ("emory-endowment", "Emory University endowment", "Endowment", "needed"),
         ("carnegie-mellon-endowment", "Carnegie Mellon University endowment", "Endowment", "needed"),
         ("caltech-endowment", "Caltech endowment", "Endowment", "needed"),

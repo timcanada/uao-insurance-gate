@@ -748,6 +748,8 @@ def main() -> None:
         # never-mint Wave 506 twins: carnegie-institution-for-science / carnegie-science / carnegie-institution / carnegie-institution-of-washington / carnegie / ciw / carnegie-endowment. /cis/ stays Wave 432. /cmu/ stays Wave 197. /washington/ stays Wave 194. /dc/ stays reserved.
         ("holocaust-museum-houston-endowment", "Holocaust Museum Houston endowment", "Endowment", "needed"),
         # never-mint Wave 507 twins: holocaust-museum-houston / holocaust-museum / hmh / hmh-endowment / holocaust-houston / houston-holocaust / houston-holocaust-museum / holocaust-museum-houston-foundation / hmhf. /houston/ stays reserved. /rice/ stays Wave 198. /acc/ stays Wave 303. /lone-star/ stays Wave 344.
+        ("hawthorne-social-service-association-endowment", "Hawthorne Social Service Association endowment", "Endowment", "needed"),
+        # never-mint Wave 508 twins: hawthorne-social-service-association / hawthorne-social-service / hawthorne / hawthorne-center / hawthorne-community-center / hssa / hawthorne-endowment / hawthorne-social-service-association-endowment-explained / lilly-endowment. /indianapolis/ stays Wave 398. /hcc/ stays Wave 218. /united-way/ stays never-mint. /uwci/ stays Wave 437.
     ("emory-endowment", "Emory University endowment", "Endowment", "needed"),
         ("carnegie-mellon-endowment", "Carnegie Mellon University endowment", "Endowment", "needed"),
         ("caltech-endowment", "Caltech endowment", "Endowment", "needed"),

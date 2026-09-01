@@ -50,5 +50,6 @@ Do not 301 this page onto `/newfields-endowment/`, `/indiana-university-endowmen
 - [Purdue University endowment](/purdue-endowment/)
 - [Notre Dame endowment](/notre-dame-endowment/)
 - [Make-A-Wish Ohio, Kentucky and Indiana endowment](/make-a-wish-ohio-kentucky-indiana-endowment/)
+- [Hawthorne Social Service Association endowment](/hawthorne-social-service-association-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

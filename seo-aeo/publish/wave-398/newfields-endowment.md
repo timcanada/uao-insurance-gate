@@ -50,5 +50,6 @@ Do not 301 this page onto `/indiana-university-endowment/`, `/purdue-endowment/`
 - [Wabash College endowment](/wabash-endowment/)
 - [University of Southern Indiana Foundation endowment](/university-of-southern-indiana-foundation/)
 - [Make-A-Wish Ohio, Kentucky and Indiana endowment](/make-a-wish-ohio-kentucky-indiana-endowment/)
+- [Hawthorne Social Service Association endowment](/hawthorne-social-service-association-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

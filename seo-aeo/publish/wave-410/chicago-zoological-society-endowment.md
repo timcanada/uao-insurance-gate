@@ -46,6 +46,7 @@ Do not 301 this page onto `/art-institute-of-chicago-endowment/`, `/chicago-bota
 - [The endowment model, explained](/endowment-model-explained/)
 - [The Art Institute of Chicago endowment](/art-institute-of-chicago-endowment/)
 - [Chicago Symphony Orchestra endowment](/chicago-symphony-orchestra-endowment/)
+- [Lyric Opera of Chicago endowment](/lyric-opera-of-chicago-endowment/)
 - [Chicago Botanic Garden endowment](/chicago-botanic-garden-endowment/)
 - [Lincoln Park Zoo endowment](/lincoln-park-zoo-endowment/)
 - [Loyola University Chicago endowment](/loyola-university-chicago-endowment/)

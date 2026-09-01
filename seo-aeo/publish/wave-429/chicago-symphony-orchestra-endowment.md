@@ -53,5 +53,6 @@ Do not 301 this page onto `/art-institute-of-chicago-endowment/`, `/columbia-col
 - [Illinois Institute of Technology endowment](/illinois-institute-of-technology-endowment/)
 - [City Colleges of Chicago Foundation endowment](/city-colleges-of-chicago-foundation/)
 - [Philadelphia Orchestra Association endowment](/philadelphia-orchestra-association-endowment/)
+- [Lyric Opera of Chicago endowment](/lyric-opera-of-chicago-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -56,5 +56,6 @@ Do not 301 this page onto `/loyola-university-chicago-endowment/`, `/knox-endowm
 - [Monmouth College endowment](/monmouth-college-endowment/)
 - [Northeastern Illinois University Foundation endowment](/northeastern-illinois-university-foundation/)
 - [City Colleges of Chicago Foundation endowment](/city-colleges-of-chicago-foundation/)
+- [Lyric Opera of Chicago endowment](/lyric-opera-of-chicago-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

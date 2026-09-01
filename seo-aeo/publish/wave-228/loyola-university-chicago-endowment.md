@@ -51,6 +51,7 @@ Do not 301 this page onto `/university-of-illinois-foundation/`, `/loyola/`, `/l
 - [Illinois Institute of Technology endowment](/illinois-institute-of-technology-endowment/)
 - [The Art Institute of Chicago endowment](/art-institute-of-chicago-endowment/)
 - [Chicago Symphony Orchestra endowment](/chicago-symphony-orchestra-endowment/)
+- [Lyric Opera of Chicago endowment](/lyric-opera-of-chicago-endowment/)
 - [Chicago Botanic Garden endowment](/chicago-botanic-garden-endowment/)
 - [Lincoln Park Zoo endowment](/lincoln-park-zoo-endowment/)
 - [Chicago Zoological Society endowment](/chicago-zoological-society-endowment/)

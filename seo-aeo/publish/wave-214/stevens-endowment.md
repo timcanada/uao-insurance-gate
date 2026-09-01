@@ -46,5 +46,6 @@ Do not 301 this page onto `/bentley-endowment/`, `/rit-endowment/`, `/stevens/`,
 - [Stockton University Foundation endowment](/stockton-university-foundation/)
 - [Bentley University endowment](/bentley-endowment/)
 - [Florida Institute of Technology endowment](/florida-tech-endowment/)
+- [Make-A-Wish New Jersey endowment](/make-a-wish-new-jersey-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -49,5 +49,6 @@ Do not 301 this page onto `/calpers-explained-largest-us-pension-fund/`, `/penns
 - [Largest US public pensions](/largest-us-public-pension-funds/)
 - [PSERS](/pennsylvania-psers/)
 - [Massachusetts PRIM](/massachusetts-prim/)
+- [Make-A-Wish New Jersey endowment](/make-a-wish-new-jersey-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

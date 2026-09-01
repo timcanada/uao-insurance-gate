@@ -50,5 +50,6 @@ Do not 301 this page onto `/ramapo-college-foundation/`, `/rider/`, `/broncs/`, 
 - [Monmouth College endowment](/monmouth-college-endowment/)
 - [Brookdale Community College Foundation endowment](/brookdale-community-college-foundation/)
 - [Montclair State University Foundation endowment](/montclair-state-university-foundation/)
+- [Make-A-Wish New Jersey endowment](/make-a-wish-new-jersey-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

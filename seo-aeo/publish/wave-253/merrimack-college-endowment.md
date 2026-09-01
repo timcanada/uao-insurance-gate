@@ -54,5 +54,6 @@ Do not 301 this page onto `/worcester-polytechnic-endowment/`, `/endicott-colleg
 - [Assumption University endowment](/assumption-university-endowment/)
 - [Lesley University endowment](/lesley-university-endowment/)
 - [Wentworth Institute of Technology endowment](/wentworth-institute-endowment/)
+- [Essex County Community Foundation endowment](/essex-county-community-foundation-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

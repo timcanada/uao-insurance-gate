@@ -47,6 +47,7 @@ Do not 301 this page onto `/nyu-endowment/`, `/mit-investment-management-company
 - [NYU endowment](/nyu-endowment/)
 - [Boston College endowment](/boston-college-endowment/)
 - [Boston Foundation endowment](/boston-foundation-endowment/)
+- [Essex County Community Foundation endowment](/essex-county-community-foundation-endowment/)
 - [MITIMCo](/mit-investment-management-company/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

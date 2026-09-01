@@ -47,6 +47,7 @@ Do not 301 this page onto `/kishwaukee-college-foundation/`, `/city-colleges-of-
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [DuPage Foundation endowment](/dupage-foundation-endowment/)
 - [Kishwaukee College Foundation endowment](/kishwaukee-college-foundation/)
 - [City Colleges of Chicago Foundation endowment](/city-colleges-of-chicago-foundation/)
 - [North Central College endowment](/north-central-college-endowment/)

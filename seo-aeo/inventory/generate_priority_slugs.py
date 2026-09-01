@@ -732,6 +732,7 @@ def main() -> None:
         ("associated-catholic-charities-endowment", "Associated Catholic Charities endowment", "Endowment", "needed"),
         ("island-institute-endowment", "Island Institute endowment", "Endowment", "needed"),
         ("woodruff-arts-center-endowment", "Woodruff Arts Center endowment", "Endowment", "needed"),
+        ("museum-of-contemporary-art-chicago-endowment", "Museum of Contemporary Art Chicago endowment", "Endowment", "needed"),
     ("emory-endowment", "Emory University endowment", "Endowment", "needed"),
         ("carnegie-mellon-endowment", "Carnegie Mellon University endowment", "Endowment", "needed"),
         ("caltech-endowment", "Caltech endowment", "Endowment", "needed"),

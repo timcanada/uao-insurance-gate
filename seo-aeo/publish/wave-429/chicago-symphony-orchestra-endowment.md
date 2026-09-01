@@ -44,6 +44,7 @@ Do not 301 this page onto `/art-institute-of-chicago-endowment/`, `/columbia-col
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [Museum of Contemporary Art Chicago endowment](/museum-of-contemporary-art-chicago-endowment/)
 - [The Art Institute of Chicago endowment](/art-institute-of-chicago-endowment/)
 - [Columbia College Chicago endowment](/columbia-college-chicago-endowment/)
 - [Chicago Botanic Garden endowment](/chicago-botanic-garden-endowment/)

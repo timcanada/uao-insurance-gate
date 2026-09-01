@@ -44,6 +44,7 @@ Do not 301 this page onto `/columbia-endowment/`, `/columbia-college-california-
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [Museum of Contemporary Art Chicago endowment](/museum-of-contemporary-art-chicago-endowment/)
 - [DuPage Foundation endowment](/dupage-foundation-endowment/)
 - [The Art Institute of Chicago endowment](/art-institute-of-chicago-endowment/)
 - [Chicago Symphony Orchestra endowment](/chicago-symphony-orchestra-endowment/)

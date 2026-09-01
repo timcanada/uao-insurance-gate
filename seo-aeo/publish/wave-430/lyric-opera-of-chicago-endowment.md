@@ -44,6 +44,7 @@ Do not 301 this page onto `/chicago-symphony-orchestra-endowment/`, `/art-instit
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [Museum of Contemporary Art Chicago endowment](/museum-of-contemporary-art-chicago-endowment/)
 - [Chicago Symphony Orchestra endowment](/chicago-symphony-orchestra-endowment/)
 - [The Art Institute of Chicago endowment](/art-institute-of-chicago-endowment/)
 - [Columbia College Chicago endowment](/columbia-college-chicago-endowment/)

@@ -44,6 +44,7 @@ Do not 301 this page onto `/loyola-university-chicago-endowment/`, `/illinois-in
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [Museum of Contemporary Art Chicago endowment](/museum-of-contemporary-art-chicago-endowment/)
 - [Chicago Botanic Garden endowment](/chicago-botanic-garden-endowment/)
 - [Lincoln Park Zoo endowment](/lincoln-park-zoo-endowment/)
 - [Chicago Zoological Society endowment](/chicago-zoological-society-endowment/)

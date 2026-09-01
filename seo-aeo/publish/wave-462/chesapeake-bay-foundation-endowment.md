@@ -52,5 +52,6 @@ Do not 301 this page onto `/ocean-conservancy-endowment/`, `/communities-in-scho
 - [University of Virginia endowment](/university-of-virginia-endowment/)
 - [Community Foundation of Frederick County endowment](/community-foundation-of-frederick-county-endowment/)
 - [Catholic Education Foundation of the Archdiocese of Washington endowment](/catholic-education-foundation-of-the-archdiocese-of-washington-endowment/)
+- [National Aquarium endowment](/national-aquarium-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

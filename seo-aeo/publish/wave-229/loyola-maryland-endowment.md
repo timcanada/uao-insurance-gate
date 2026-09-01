@@ -57,5 +57,6 @@ Do not 301 this page onto `/loyola-university-chicago-endowment/`, `/johns-hopki
 - [American University endowment](/american-university-endowment/)
 - [Community Foundation of Frederick County endowment](/community-foundation-of-frederick-county-endowment/)
 - [Associated Catholic Charities endowment](/associated-catholic-charities-endowment/)
+- [National Aquarium endowment](/national-aquarium-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

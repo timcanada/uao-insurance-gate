@@ -56,5 +56,6 @@ Do not 301 this page onto `/maryland-srps/`, `/university-of-maryland-college-pa
 - [Community Foundation of Frederick County endowment](/community-foundation-of-frederick-county-endowment/)
 - [Catholic Education Foundation of the Archdiocese of Washington endowment](/catholic-education-foundation-of-the-archdiocese-of-washington-endowment/)
 - [Associated Catholic Charities endowment](/associated-catholic-charities-endowment/)
+- [National Aquarium endowment](/national-aquarium-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

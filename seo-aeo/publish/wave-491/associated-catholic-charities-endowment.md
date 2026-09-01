@@ -46,5 +46,6 @@ Do not 301 this page onto `/catholic-charities-of-the-east-bay-endowment/`, `/ca
 - [Community College of Baltimore County Foundation endowment](/community-college-of-baltimore-county-foundation/)
 - [Loyola University Maryland endowment](/loyola-maryland-endowment/)
 - [Johns Hopkins endowment](/johns-hopkins-endowment/)
+- [National Aquarium endowment](/national-aquarium-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

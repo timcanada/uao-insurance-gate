@@ -52,5 +52,6 @@ Do not 301 this page onto `/baltimore-county-ers/`, `/maryland-srps/`, `/univers
 - [Towson University Foundation endowment](/towson-university-foundation/)
 - [Community Foundation of Frederick County endowment](/community-foundation-of-frederick-county-endowment/)
 - [Associated Catholic Charities endowment](/associated-catholic-charities-endowment/)
+- [National Aquarium endowment](/national-aquarium-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

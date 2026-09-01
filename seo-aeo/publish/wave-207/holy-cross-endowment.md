@@ -52,6 +52,7 @@ Do not 301 this page onto `/colgate-endowment/`, `/davidson-endowment/`, `/holy-
 - [Anna Maria College endowment](/anna-maria-college-endowment/)
 - [Dean College endowment](/dean-college-endowment/)
 - [Suffolk University endowment](/suffolk-university-endowment/)
+- [Massachusetts Audubon Society endowment](/massachusetts-audubon-society-endowment/)
 - [Wheaton College Massachusetts endowment](/wheaton-college-massachusetts-endowment/)
 - [Olin College endowment](/olin-college-endowment/)
 - [American International College endowment](/american-international-college-endowment/)

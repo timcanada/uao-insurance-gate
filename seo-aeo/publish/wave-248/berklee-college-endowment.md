@@ -45,6 +45,7 @@ Do not 301 this page onto `/emerson-college-endowment/`, `/boston-architectural-
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [Massachusetts Audubon Society endowment](/massachusetts-audubon-society-endowment/)
 - [Boston Architectural College endowment](/boston-architectural-college-endowment/)
 - [Partners In Health endowment](/partners-in-health-endowment/)
 - [Emerson College endowment](/emerson-college-endowment/)

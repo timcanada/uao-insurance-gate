@@ -47,6 +47,7 @@ Do not 301 this page onto `/hampshire-college-endowment/`, `/holy-cross-endowmen
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Massachusetts Foundation endowment](/university-of-massachusetts-foundation/)
 - [Hampshire College endowment](/hampshire-college-endowment/)
+- [Massachusetts Audubon Society endowment](/massachusetts-audubon-society-endowment/)
 - [Holy Cross endowment](/holy-cross-endowment/)
 - [Suffolk University endowment](/suffolk-university-endowment/)
 - [Olin College endowment](/olin-college-endowment/)

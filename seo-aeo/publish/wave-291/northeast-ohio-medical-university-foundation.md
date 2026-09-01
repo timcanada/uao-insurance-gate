@@ -51,5 +51,6 @@ Do not 301 this page onto `/cleveland-state-university-foundation/`, `/cuyahoga-
 - [Wright State University Foundation endowment](/wright-state-university-foundation/)
 - [University of Cincinnati Foundation endowment](/university-of-cincinnati-foundation/)
 - [Bowling Green State University Foundation endowment](/bowling-green-state-university-foundation/)
+- [Catholic Community Foundation Cleveland endowment](/catholic-community-foundation-cleveland-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

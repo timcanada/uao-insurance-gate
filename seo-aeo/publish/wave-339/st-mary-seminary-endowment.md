@@ -57,5 +57,6 @@ Do not 301 this page onto `/asbury-theological-seminary-endowment/`, `/cleveland
 - [Calvin Theological Seminary endowment](/calvin-theological-seminary-endowment/)
 - [Denver Seminary endowment](/denver-seminary-endowment/)
 - [St. Vladimir's Orthodox Theological Seminary endowment](/st-vladimirs-orthodox-theological-seminary-endowment/)
+- [Catholic Community Foundation Cleveland endowment](/catholic-community-foundation-cleveland-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

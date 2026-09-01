@@ -53,5 +53,6 @@ Do not 301 this page onto `/university-of-cincinnati-foundation/`, `/university-
 - [Mitchell Hamline School of Law endowment](/mitchell-hamline-school-of-law-endowment/)
 - [MetroHealth Foundation endowment](/metrohealth-foundation/)
 - [St. Mary Seminary endowment](/st-mary-seminary-endowment/)
+- [Catholic Community Foundation Cleveland endowment](/catholic-community-foundation-cleveland-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

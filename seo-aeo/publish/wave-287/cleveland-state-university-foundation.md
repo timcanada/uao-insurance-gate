@@ -60,5 +60,6 @@ Do not 301 this page onto `/colorado-state-university-foundation/`, `/youngstown
 - [MetroHealth Foundation endowment](/metrohealth-foundation/)
 - [St. Mary Seminary endowment](/st-mary-seminary-endowment/)
 - [Cleveland Zoological Society endowment](/cleveland-zoological-society-endowment/)
+- [Catholic Community Foundation Cleveland endowment](/catholic-community-foundation-cleveland-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

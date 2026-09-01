@@ -54,5 +54,6 @@ Do not 301 this page onto `/university-of-cincinnati-foundation/`, `/university-
 - [University of Rochester endowment](/university-of-rochester-endowment/)
 - [New York Medical College endowment](/new-york-medical-college-endowment/)
 - [Cleveland Zoological Society endowment](/cleveland-zoological-society-endowment/)
+- [Catholic Community Foundation Cleveland endowment](/catholic-community-foundation-cleveland-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

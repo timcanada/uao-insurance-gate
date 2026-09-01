@@ -49,5 +49,6 @@ Do not 301 this page onto `/cleveland-state-university-foundation/`, `/case-west
 - [Cuyahoga Community College Foundation endowment](/cuyahoga-community-college-foundation/)
 - [Baldwin Wallace University endowment](/baldwin-wallace-university-endowment/)
 - [MetroHealth Foundation endowment](/metrohealth-foundation/)
+- [Catholic Community Foundation Cleveland endowment](/catholic-community-foundation-cleveland-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

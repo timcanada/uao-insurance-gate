@@ -62,5 +62,6 @@ Do not 301 this page onto `/united-way-of-metropolitan-dallas-endowment/`, `/uni
 - [Make-A-Wish Alaska and Washington endowment](/make-a-wish-alaska-washington-endowment/)
 - [Make-A-Wish Greater Pennsylvania and West Virginia endowment](/make-a-wish-greater-pennsylvania-west-virginia-endowment/)
 - [Make-A-Wish Nebraska endowment](/make-a-wish-nebraska-endowment/)
+- [Catholic Community Foundation Cleveland endowment](/catholic-community-foundation-cleveland-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

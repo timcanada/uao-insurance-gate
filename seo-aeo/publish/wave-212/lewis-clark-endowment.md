@@ -46,5 +46,6 @@ Do not 301 this page onto `/whitman-endowment/`, `/reed-endowment/`, `/lclark/`,
 - [Whitman College endowment](/whitman-endowment/)
 - [University of Puget Sound endowment](/puget-sound-endowment/)
 - [Linfield University endowment](/linfield-university-endowment/)
+- [Portland Art Museum endowment](/portland-art-museum-oregon-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

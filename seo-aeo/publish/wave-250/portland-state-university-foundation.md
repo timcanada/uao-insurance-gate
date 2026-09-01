@@ -56,5 +56,6 @@ Do not 301 this page onto `/penn-state-endowment/`, `/whittier-college-endowment
 - [Western Colorado University Foundation endowment](/western-colorado-university-foundation/)
 - [Lane Community College Foundation endowment](/lane-community-college-foundation/)
 - [Southwestern Oregon Community College Foundation endowment](/southwestern-oregon-community-college-foundation/)
+- [Portland Art Museum endowment](/portland-art-museum-oregon-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

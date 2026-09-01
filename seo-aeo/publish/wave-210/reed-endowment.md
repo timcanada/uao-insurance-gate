@@ -45,5 +45,6 @@ Do not 301 this page onto `/mount-holyoke-endowment/`, `/occidental-endowment/`,
 - [The endowment model, explained](/endowment-model-explained/)
 - [Mount Holyoke College endowment](/mount-holyoke-endowment/)
 - [Whitman College endowment](/whitman-endowment/)
+- [Portland Art Museum endowment](/portland-art-museum-oregon-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

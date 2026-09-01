@@ -52,5 +52,6 @@ Do not 301 this page onto `/connecticut-historical-society-endowment/`, `/trinit
 - [Southern Connecticut State University Foundation endowment](/scsu-foundation/)
 - [Western Connecticut State University Foundation endowment](/wcsu-foundation/)
 - [Make-A-Wish Connecticut endowment](/make-a-wish-connecticut-endowment/)
+- [Hartford Foundation for Public Giving endowment](/hartford-foundation-for-public-giving-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

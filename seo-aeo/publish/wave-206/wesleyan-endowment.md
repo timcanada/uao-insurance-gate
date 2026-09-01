@@ -50,5 +50,6 @@ Do not 301 this page onto `/middlebury-endowment/`, `/bates-endowment/`, `/wesle
 - [Naval War College Foundation endowment](/naval-war-college-foundation/)
 - [Connecticut Historical Society endowment](/connecticut-historical-society-endowment/)
 - [Fairfield Historical Society endowment](/fairfield-historical-society-endowment/)
+- [Hartford Foundation for Public Giving endowment](/hartford-foundation-for-public-giving-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

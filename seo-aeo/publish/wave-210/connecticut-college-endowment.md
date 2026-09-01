@@ -51,5 +51,6 @@ Do not 301 this page onto `/trinity-college-endowment/`, `/wesleyan-endowment/`,
 - [Connecticut Historical Society endowment](/connecticut-historical-society-endowment/)
 - [Fairfield Historical Society endowment](/fairfield-historical-society-endowment/)
 - [Make-A-Wish Connecticut endowment](/make-a-wish-connecticut-endowment/)
+- [Hartford Foundation for Public Giving endowment](/hartford-foundation-for-public-giving-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -62,5 +62,6 @@ Do not 301 this page onto `/make-a-wish-idaho-endowment/`, `/make-a-wish-hawaii-
 - [University of Connecticut Foundation endowment](/university-of-connecticut-foundation/)
 - [Connecticut Historical Society endowment](/connecticut-historical-society-endowment/)
 - [Fairfield Historical Society endowment](/fairfield-historical-society-endowment/)
+- [Hartford Foundation for Public Giving endowment](/hartford-foundation-for-public-giving-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

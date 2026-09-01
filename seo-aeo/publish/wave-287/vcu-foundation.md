@@ -53,5 +53,6 @@ Do not 301 this page onto `/medical-college-of-virginia-foundation/`, `/longwood
 - [VCU School of Business Foundation endowment](/vcu-school-of-business-foundation/)
 - [Radford University Foundation endowment](/radford-university-foundation/)
 - [William & Mary Foundation endowment](/william-and-mary-foundation/)
+- [Catholic Community Foundation of the Diocese of Richmond endowment](/catholic-community-foundation-of-the-diocese-of-richmond-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

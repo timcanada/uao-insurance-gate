@@ -49,5 +49,6 @@ Do not 301 this page onto `/university-of-virginia-endowment/`, `/richmond-retir
 - [George Washington University endowment](/george-washington-endowment/)
 - [Pepperdine University endowment](/pepperdine-endowment/)
 - [Communities In Schools endowment](/communities-in-schools-endowment/)
+- [Catholic Community Foundation of the Diocese of Richmond endowment](/catholic-community-foundation-of-the-diocese-of-richmond-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

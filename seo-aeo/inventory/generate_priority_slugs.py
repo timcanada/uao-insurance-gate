@@ -728,6 +728,7 @@ def main() -> None:
     ("archdiocese-of-philadelphia-office-of-catholic-education-high-schools-endowment", "Archdiocese of Philadelphia Office of Catholic Education High Schools endowment", "Endowment", "needed"),
     ("golden-gate-national-parks-conservancy-endowment", "Golden Gate National Parks Conservancy endowment", "Endowment", "needed"),
     ("natureserve-endowment", "NatureServe endowment", "Endowment", "needed"),
+    ("catholic-community-foundation-of-the-diocese-of-richmond-endowment", "Catholic Community Foundation of the Diocese of Richmond endowment", "Endowment", "needed"),
     ("emory-endowment", "Emory University endowment", "Endowment", "needed"),
         ("carnegie-mellon-endowment", "Carnegie Mellon University endowment", "Endowment", "needed"),
         ("caltech-endowment", "Caltech endowment", "Endowment", "needed"),

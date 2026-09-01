@@ -48,5 +48,6 @@ Do not 301 this page onto `/university-of-virginia-endowment/`, `/george-mason-u
 - [VCU Foundation endowment](/vcu-foundation/)
 - [VCU College of Engineering Foundation endowment](/vcu-college-of-engineering-foundation/)
 - [VCU School of Business Foundation endowment](/vcu-school-of-business-foundation/)
+- [Catholic Community Foundation of the Diocese of Richmond endowment](/catholic-community-foundation-of-the-diocese-of-richmond-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

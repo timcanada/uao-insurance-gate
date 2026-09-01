@@ -48,5 +48,6 @@ Do not 301 this page onto `/university-of-washington-endowment/`, `/washington-u
 - [UNC Chapel Hill endowment](/unc-chapel-hill-endowment/)
 - [Communities In Schools endowment](/communities-in-schools-endowment/)
 - [NatureServe endowment](/natureserve-endowment/)
+- [Catholic Community Foundation of the Diocese of Richmond endowment](/catholic-community-foundation-of-the-diocese-of-richmond-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

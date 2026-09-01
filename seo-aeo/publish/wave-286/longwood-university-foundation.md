@@ -55,5 +55,6 @@ Do not 301 this page onto `/unc-greensboro-endowment/`, `/montclair-state-univer
 - [St. Mary's College of Maryland Foundation endowment](/st-marys-college-of-maryland-foundation/)
 - [North Carolina Veterinary Medical Foundation endowment](/north-carolina-veterinary-medical-foundation/)
 - [Wake Tech Foundation endowment](/wake-tech-foundation/)
+- [Catholic Community Foundation of the Diocese of Richmond endowment](/catholic-community-foundation-of-the-diocese-of-richmond-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

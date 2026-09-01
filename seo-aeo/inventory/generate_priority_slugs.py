@@ -677,6 +677,7 @@ def main() -> None:
         ("united-way-of-massachusetts-bay-endowment", "United Way of Massachusetts Bay endowment", "Endowment", "needed"),
         ("united-way-of-central-indiana-endowment", "United Way of Central Indiana endowment", "Endowment", "needed"),
         ("united-way-of-greater-atlanta-endowment", "United Way of Greater Atlanta endowment", "Endowment", "needed"),
+        ("united-way-of-metropolitan-dallas-endowment", "United Way of Metropolitan Dallas endowment", "Endowment", "needed"),
         ("emory-endowment", "Emory University endowment", "Endowment", "needed"),
         ("carnegie-mellon-endowment", "Carnegie Mellon University endowment", "Endowment", "needed"),
         ("caltech-endowment", "Caltech endowment", "Endowment", "needed"),

@@ -55,5 +55,6 @@ Do not 301 this page onto `/fresno-state-foundation/`, `/cal-state-la-foundation
 - [Foundation for California Community Colleges endowment](/foundation-for-california-community-colleges/)
 - [Sierra College Foundation endowment](/sierra-college-foundation/)
 - [Cuesta College Foundation endowment](/cuesta-college-foundation/)
+- [Japanese American National Museum endowment](/japanese-american-national-museum-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

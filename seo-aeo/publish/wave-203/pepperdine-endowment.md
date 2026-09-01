@@ -49,5 +49,6 @@ Do not 301 this page onto `/usc-endowment/`, `/caltech-endowment/`, `/pepperdine
 - [Caltech endowment](/caltech-endowment/)
 - [Bowdoin College endowment](/bowdoin-endowment/)
 - [Loyola Marymount University endowment](/loyola-marymount-university-endowment/)
+- [Japanese American National Museum endowment](/japanese-american-national-museum-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

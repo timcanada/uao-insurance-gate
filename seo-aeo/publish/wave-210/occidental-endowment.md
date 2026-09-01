@@ -45,5 +45,6 @@ Do not 301 this page onto `/colorado-college-endowment/`, `/pomona-endowment/`, 
 - [The endowment model, explained](/endowment-model-explained/)
 - [Colorado College endowment](/colorado-college-endowment/)
 - [Scripps College endowment](/scripps-endowment/)
+- [Japanese American National Museum endowment](/japanese-american-national-museum-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

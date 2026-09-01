@@ -51,5 +51,6 @@ Do not 301 this page onto `/notre-dame-endowment/`, `/university-of-pennsylvania
 - [Columbia University endowment](/columbia-endowment/)
 - [University of South Carolina Educational Foundation endowment](/university-of-south-carolina-educational-foundation/)
 - [University of South Carolina Business Partnership Foundation endowment](/university-of-south-carolina-business-partnership-foundation/)
+- [Japanese American National Museum endowment](/japanese-american-national-museum-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -47,5 +47,6 @@ Do not 301 this page onto `/carnegie-mellon-endowment/`, `/usc-endowment/`, `/ca
 - [The endowment model, explained](/endowment-model-explained/)
 - [Carnegie Mellon University endowment](/carnegie-mellon-endowment/)
 - [USC endowment](/usc-endowment/)
+- [Japanese American National Museum endowment](/japanese-american-national-museum-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

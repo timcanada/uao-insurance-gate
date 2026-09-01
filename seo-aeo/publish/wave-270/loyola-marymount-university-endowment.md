@@ -50,5 +50,6 @@ Do not 301 this page onto `/loyola-university-chicago-endowment/`, `/santa-clara
 - [University of San Diego endowment](/university-of-san-diego-endowment/)
 - [University of San Francisco endowment](/university-of-san-francisco-endowment/)
 - [Pepperdine University endowment](/pepperdine-endowment/)
+- [Japanese American National Museum endowment](/japanese-american-national-museum-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

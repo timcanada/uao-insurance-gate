@@ -46,6 +46,7 @@ Do not 301 this page onto `/university-of-wisconsin-foundation/`, `/lawrence-uni
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Wisconsin Foundation endowment](/university-of-wisconsin-foundation/)
 - [Lawrence University endowment](/lawrence-university-endowment/)
+- [Catholic Foundation for the Diocese of Green Bay endowment](/catholic-foundation-for-the-diocese-of-green-bay-endowment/)
 - [Chippewa Valley Technical College Foundation endowment](/chippewa-valley-technical-college-foundation/)
 - [Southwest Wisconsin Technical College Foundation endowment](/southwest-wisconsin-technical-college-foundation/)
 - [Beloit College endowment](/beloit-endowment/)

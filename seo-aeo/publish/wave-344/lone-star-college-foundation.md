@@ -48,6 +48,7 @@ Do not 301 this page onto `/alvin-community-college-foundation/`, `/texas-luther
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Alvin Community College Foundation endowment](/alvin-community-college-foundation/)
+- [Holocaust Museum Houston endowment](/holocaust-museum-houston-endowment/)
 - [Texas Lutheran University endowment](/texas-lutheran-university-endowment/)
 - [Calhoun College Foundation endowment](/calhoun-college-foundation/)
 - [Del Mar College Foundation endowment](/del-mar-college-foundation/)

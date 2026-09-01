@@ -49,5 +49,6 @@ Do not 301 this page onto `/santa-clara-endowment/`, `/usc-endowment/`, `/usd/`,
 - [Loyola University Chicago endowment](/loyola-university-chicago-endowment/)
 - [Loyola Marymount University endowment](/loyola-marymount-university-endowment/)
 - [Jewish Community Foundation of San Diego endowment](/jewish-community-foundation-of-san-diego-endowment/)
+- [Make-A-Wish San Diego endowment](/make-a-wish-san-diego-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

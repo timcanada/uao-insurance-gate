@@ -47,6 +47,7 @@ Do not 301 this page onto `/university-of-san-diego-endowment/`, `/campanile-fou
 - [University of San Diego endowment](/university-of-san-diego-endowment/)
 - [The Campanile Foundation endowment](/campanile-foundation/)
 - [Jewish Community Foundation of San Diego endowment](/jewish-community-foundation-of-san-diego-endowment/)
+- [Make-A-Wish San Diego endowment](/make-a-wish-san-diego-endowment/)
 - [California Community Foundation endowment](/california-community-foundation-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -44,6 +44,7 @@ Do not 301 this page onto `/make-a-wish-idaho-endowment/`, `/make-a-wish-hawaii-
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [Make-A-Wish San Diego endowment](/make-a-wish-san-diego-endowment/)
 - [Make-A-Wish Idaho endowment](/make-a-wish-idaho-endowment/)
 - [Make-A-Wish Hawaii endowment](/make-a-wish-hawaii-endowment/)
 - [Make-A-Wish Oregon endowment](/make-a-wish-oregon-endowment/)

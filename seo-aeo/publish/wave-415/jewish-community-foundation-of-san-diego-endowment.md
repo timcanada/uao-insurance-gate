@@ -45,5 +45,6 @@ Do not 301 this page onto `/university-of-san-diego-endowment/`, `/campanile-fou
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of San Diego endowment](/university-of-san-diego-endowment/)
+- [Make-A-Wish San Diego endowment](/make-a-wish-san-diego-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

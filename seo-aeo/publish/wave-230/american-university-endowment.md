@@ -47,5 +47,6 @@ Do not 301 this page onto `/george-washington-endowment/`, `/catholic-university
 - [The endowment model, explained](/endowment-model-explained/)
 - [Catholic University of America endowment](/catholic-university-endowment/)
 - [SIU Foundation endowment](/siu-foundation/)
+- [Communities In Schools endowment](/communities-in-schools-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -48,5 +48,6 @@ Do not 301 this page onto `/university-of-virginia-endowment/`, `/richmond-retir
 - [University of Virginia endowment](/university-of-virginia-endowment/)
 - [George Washington University endowment](/george-washington-endowment/)
 - [Pepperdine University endowment](/pepperdine-endowment/)
+- [Communities In Schools endowment](/communities-in-schools-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

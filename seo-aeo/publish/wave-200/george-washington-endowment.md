@@ -47,5 +47,6 @@ Do not 301 this page onto `/johns-hopkins-endowment/`, `/university-of-virginia-
 - [The endowment model, explained](/endowment-model-explained/)
 - [Johns Hopkins University endowment](/johns-hopkins-endowment/)
 - [University of Virginia endowment](/university-of-virginia-endowment/)
+- [Communities In Schools endowment](/communities-in-schools-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

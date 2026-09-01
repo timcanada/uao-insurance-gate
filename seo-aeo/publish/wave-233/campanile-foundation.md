@@ -50,5 +50,6 @@ Do not 301 this page onto `/sfsu-foundation/`, `/csu-chico-foundation/`, `/sdsu/
 - [CSU Bakersfield Foundation endowment](/csu-bakersfield-foundation/)
 - [Cal State LA Foundation endowment](/cal-state-la-foundation/)
 - [CSU Dominguez Hills Philanthropic Foundation endowment](/csu-dominguez-hills-philanthropic-foundation/)
+- [Jewish Community Foundation of San Diego endowment](/jewish-community-foundation-of-san-diego-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

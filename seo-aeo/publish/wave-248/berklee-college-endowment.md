@@ -46,6 +46,7 @@ Do not 301 this page onto `/emerson-college-endowment/`, `/boston-architectural-
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Boston Architectural College endowment](/boston-architectural-college-endowment/)
+- [Partners In Health endowment](/partners-in-health-endowment/)
 - [Emerson College endowment](/emerson-college-endowment/)
 - [MCPHS endowment](/mcphs-endowment/)
 - [Hellenic College endowment](/hellenic-college-endowment/)

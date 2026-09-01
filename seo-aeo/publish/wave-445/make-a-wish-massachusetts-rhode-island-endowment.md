@@ -51,6 +51,7 @@ Do not 301 this page onto `/make-a-wish-missouri-kansas-endowment/`, `/make-a-wi
 - [Make-A-Wish Ohio, Kentucky and Indiana endowment](/make-a-wish-ohio-kentucky-indiana-endowment/)
 - [University of Massachusetts Foundation endowment](/university-of-massachusetts-foundation/)
 - [Boston Foundation endowment](/boston-foundation-endowment/)
+- [Partners In Health endowment](/partners-in-health-endowment/)
 - [Boston University endowment](/boston-university-endowment/)
 - [Boston College endowment](/boston-college-endowment/)
 - [University of Rhode Island Foundation endowment](/university-of-rhode-island-foundation/)

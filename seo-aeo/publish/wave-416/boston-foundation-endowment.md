@@ -45,6 +45,7 @@ Do not 301 this page onto `/boston-university-endowment/`, `/boston-college-endo
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Boston University endowment](/boston-university-endowment/)
+- [Partners In Health endowment](/partners-in-health-endowment/)
 - [Boston College endowment](/boston-college-endowment/)
 - [Essex County Community Foundation endowment](/essex-county-community-foundation-endowment/)
 - [Make-A-Wish Massachusetts and Rhode Island endowment](/make-a-wish-massachusetts-rhode-island-endowment/)

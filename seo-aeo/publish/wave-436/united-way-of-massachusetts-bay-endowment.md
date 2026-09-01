@@ -45,6 +45,7 @@ Do not 301 this page onto `/boston-foundation-endowment/`, `/boston-university-e
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Boston Foundation endowment](/boston-foundation-endowment/)
+- [Partners In Health endowment](/partners-in-health-endowment/)
 - [Boston University endowment](/boston-university-endowment/)
 - [Boston College endowment](/boston-college-endowment/)
 - [University of Massachusetts Foundation endowment](/university-of-massachusetts-foundation/)

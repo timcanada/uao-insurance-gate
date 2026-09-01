@@ -53,5 +53,6 @@ Do not 301 this page onto `/university-of-minnesota-foundation/`, `/st-thomas/`,
 - [Saint John's University endowment](/saint-johns-university-endowment/)
 - [Walker Art Center endowment](/walker-art-center-endowment/)
 - [Science Museum of Minnesota endowment](/science-museum-of-minnesota-endowment/)
+- [Saint Paul Chamber Orchestra endowment](/saint-paul-chamber-orchestra-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

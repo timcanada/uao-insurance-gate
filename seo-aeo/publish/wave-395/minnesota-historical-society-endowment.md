@@ -53,5 +53,6 @@ Do not 301 this page onto `/university-of-minnesota-foundation/`, `/macalester-e
 - [Mitchell Hamline School of Law endowment](/mitchell-hamline-school-of-law-endowment/)
 - [Carleton College endowment](/carleton-endowment/)
 - [St. Olaf College endowment](/st-olaf-endowment/)
+- [Saint Paul Chamber Orchestra endowment](/saint-paul-chamber-orchestra-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

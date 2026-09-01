@@ -696,6 +696,7 @@ def main() -> None:
         ("partners-in-health-endowment", "Partners In Health endowment", "Endowment", "needed"),
         ("kansas-city-ballet-endowment", "Kansas City Ballet Association endowment", "Endowment", "needed"),
         ("minnesota-opera-endowment", "Minnesota Opera endowment", "Endowment", "needed"),
+        ("opera-theatre-of-saint-louis-endowment", "Opera Theatre of Saint Louis endowment", "Endowment", "needed"),
         ("emory-endowment", "Emory University endowment", "Endowment", "needed"),
         ("carnegie-mellon-endowment", "Carnegie Mellon University endowment", "Endowment", "needed"),
         ("caltech-endowment", "Caltech endowment", "Endowment", "needed"),

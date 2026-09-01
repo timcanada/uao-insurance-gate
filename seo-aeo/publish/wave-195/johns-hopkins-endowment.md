@@ -49,5 +49,6 @@ Do not 301 this page onto `/university-of-pennsylvania-endowment/`, `/notre-dame
 - [Notre Dame endowment](/notre-dame-endowment/)
 - [Cornell University endowment](/cornell-endowment/)
 - [Community Foundation of Frederick County endowment](/community-foundation-of-frederick-county-endowment/)
+- [Catholic Education Foundation of the Archdiocese of Washington endowment](/catholic-education-foundation-of-the-archdiocese-of-washington-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

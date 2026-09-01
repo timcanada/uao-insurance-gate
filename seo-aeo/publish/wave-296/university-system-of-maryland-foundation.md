@@ -52,5 +52,6 @@ Do not 301 this page onto `/maryland-srps/`, `/university-of-maryland-college-pa
 - [Towson University Foundation endowment](/towson-university-foundation/)
 - [St. Mary's College of Maryland Foundation endowment](/st-marys-college-of-maryland-foundation/)
 - [Community Foundation of Frederick County endowment](/community-foundation-of-frederick-county-endowment/)
+- [Catholic Education Foundation of the Archdiocese of Washington endowment](/catholic-education-foundation-of-the-archdiocese-of-washington-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

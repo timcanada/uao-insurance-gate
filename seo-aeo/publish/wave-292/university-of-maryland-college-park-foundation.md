@@ -56,5 +56,6 @@ Do not 301 this page onto `/maryland-srps/`, `/loyola-maryland-endowment/`, `/to
 - [Loyola University Maryland endowment](/loyola-maryland-endowment/)
 - [George Mason University Foundation endowment](/george-mason-university-foundation/)
 - [Community Foundation of Frederick County endowment](/community-foundation-of-frederick-county-endowment/)
+- [Catholic Education Foundation of the Archdiocese of Washington endowment](/catholic-education-foundation-of-the-archdiocese-of-washington-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

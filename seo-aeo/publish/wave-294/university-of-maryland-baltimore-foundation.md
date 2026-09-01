@@ -54,5 +54,6 @@ Do not 301 this page onto `/maryland-srps/`, `/university-of-maryland-college-pa
 - [Loyola University Maryland endowment](/loyola-maryland-endowment/)
 - [Johns Hopkins endowment](/johns-hopkins-endowment/)
 - [Community Foundation of Frederick County endowment](/community-foundation-of-frederick-county-endowment/)
+- [Catholic Education Foundation of the Archdiocese of Washington endowment](/catholic-education-foundation-of-the-archdiocese-of-washington-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

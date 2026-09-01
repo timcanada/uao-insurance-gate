@@ -48,5 +48,6 @@ Do not 301 this page onto `/johns-hopkins-endowment/`, `/university-of-virginia-
 - [Johns Hopkins University endowment](/johns-hopkins-endowment/)
 - [University of Virginia endowment](/university-of-virginia-endowment/)
 - [Communities In Schools endowment](/communities-in-schools-endowment/)
+- [Catholic Education Foundation of the Archdiocese of Washington endowment](/catholic-education-foundation-of-the-archdiocese-of-washington-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

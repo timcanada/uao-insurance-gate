@@ -52,5 +52,6 @@ Do not 301 this page onto `/art-institute-of-chicago-endowment/`, `/chicago-bota
 - [City Colleges of Chicago Foundation endowment](/city-colleges-of-chicago-foundation/)
 - [Lake Forest College endowment](/lake-forest-college-endowment/)
 - [Northeastern Illinois University Foundation endowment](/northeastern-illinois-university-foundation/)
+- [Columbia College Chicago endowment](/columbia-college-chicago-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

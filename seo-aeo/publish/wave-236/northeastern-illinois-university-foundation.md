@@ -54,6 +54,7 @@ Do not 301 this page onto `/northeastern-endowment/`, `/university-of-illinois-f
 - [Chicago Botanic Garden endowment](/chicago-botanic-garden-endowment/)
 - [Lincoln Park Zoo endowment](/lincoln-park-zoo-endowment/)
 - [Chicago Zoological Society endowment](/chicago-zoological-society-endowment/)
+- [Columbia College Chicago endowment](/columbia-college-chicago-endowment/)
 - [University of St. Francis endowment](/university-of-st-francis-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

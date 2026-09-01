@@ -59,5 +59,6 @@ Do not 301 this page onto `/hampshire-college-endowment/`, `/suffolk-university-
 - [Western Connecticut State University Foundation endowment](/wcsu-foundation/)
 - [Unity Environmental University endowment](/unity-environmental-endowment/)
 - [New England College of Optometry endowment](/new-england-college-of-optometry-endowment/)
+- [Boston Athenæum endowment](/boston-athenaeum-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

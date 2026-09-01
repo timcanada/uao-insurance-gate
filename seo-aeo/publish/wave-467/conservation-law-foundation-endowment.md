@@ -55,5 +55,6 @@ Do not 301 this page onto `/berklee-college-endowment/`, `/boston-university-end
 - [Essex County Community Foundation endowment](/essex-county-community-foundation-endowment/)
 - [International Fund for Animal Welfare endowment](/international-fund-for-animal-welfare-endowment/)
 - [Naval War College Foundation endowment](/naval-war-college-foundation/)
+- [Boston Athenæum endowment](/boston-athenaeum-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

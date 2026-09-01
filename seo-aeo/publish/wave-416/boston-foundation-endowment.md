@@ -49,5 +49,6 @@ Do not 301 this page onto `/boston-university-endowment/`, `/boston-college-endo
 - [Boston College endowment](/boston-college-endowment/)
 - [Essex County Community Foundation endowment](/essex-county-community-foundation-endowment/)
 - [Make-A-Wish Massachusetts and Rhode Island endowment](/make-a-wish-massachusetts-rhode-island-endowment/)
+- [Boston Athenæum endowment](/boston-athenaeum-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

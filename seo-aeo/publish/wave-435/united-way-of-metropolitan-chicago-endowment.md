@@ -45,6 +45,7 @@ Do not 301 this page onto `/art-institute-of-chicago-endowment/`, `/chicago-symp
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [The Art Institute of Chicago endowment](/art-institute-of-chicago-endowment/)
+- [Make-A-Wish Illinois endowment](/make-a-wish-illinois-endowment/)
 - [Chicago Symphony Orchestra endowment](/chicago-symphony-orchestra-endowment/)
 - [Lyric Opera of Chicago endowment](/lyric-opera-of-chicago-endowment/)
 - [Columbia College Chicago endowment](/columbia-college-chicago-endowment/)

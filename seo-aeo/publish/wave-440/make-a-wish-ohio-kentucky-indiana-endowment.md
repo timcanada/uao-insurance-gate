@@ -55,5 +55,6 @@ Do not 301 this page onto `/united-way-of-metropolitan-dallas-endowment/`, `/uni
 - [University of Louisville Foundation endowment](/university-of-louisville-foundation/)
 - [United Way of Metropolitan Dallas endowment](/united-way-of-metropolitan-dallas-endowment/)
 - [Make-A-Wish New Jersey endowment](/make-a-wish-new-jersey-endowment/)
+- [Make-A-Wish Illinois endowment](/make-a-wish-illinois-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

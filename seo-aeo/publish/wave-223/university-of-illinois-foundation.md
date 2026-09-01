@@ -44,6 +44,7 @@ Do not 301 this page onto `/illinois-isbi/`, `/illinois-surs/`, `/university-of-
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [DuPage Foundation endowment](/dupage-foundation-endowment/)
+- [Make-A-Wish Illinois endowment](/make-a-wish-illinois-endowment/)
 - [University of Minnesota Foundation endowment](/university-of-minnesota-foundation/)
 - [Kansas University Endowment Association endowment](/kansas-university-endowment/)
 - [Advertise](/advertise/)

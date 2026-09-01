@@ -45,5 +45,6 @@ Do not 301 this page onto `/park-university-endowment/`, `/kansas-university-end
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
 - [Park University endowment](/park-university-endowment/)
+- [Make-A-Wish Missouri and Kansas endowment](/make-a-wish-missouri-kansas-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

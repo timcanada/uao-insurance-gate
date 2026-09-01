@@ -45,5 +45,6 @@ Do not 301 this page onto `/kansas-state-university-foundation/`, `/kansas-kpers
 - [The endowment model, explained](/endowment-model-explained/)
 - [Kansas State University Foundation endowment](/kansas-state-university-foundation/)
 - [Emporia State University Foundation endowment](/emporia-state-university-foundation/)
+- [Make-A-Wish Missouri and Kansas endowment](/make-a-wish-missouri-kansas-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

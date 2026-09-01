@@ -47,6 +47,7 @@ Do not 301 this page onto `/make-a-wish-ohio-kentucky-indiana-endowment/`, `/rut
 - [Make-A-Wish Ohio, Kentucky and Indiana endowment](/make-a-wish-ohio-kentucky-indiana-endowment/)
 - [Make-A-Wish Illinois endowment](/make-a-wish-illinois-endowment/)
 - [Make-A-Wish Metro New York and Western New York endowment](/make-a-wish-metro-new-york-western-new-york-endowment/)
+- [Make-A-Wish Missouri and Kansas endowment](/make-a-wish-missouri-kansas-endowment/)
 - [Rutgers endowment](/rutgers-endowment/)
 - [Stevens Institute of Technology endowment](/stevens-endowment/)
 - [Rider University endowment](/rider-university-endowment/)

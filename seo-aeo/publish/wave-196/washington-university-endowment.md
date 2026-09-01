@@ -47,5 +47,6 @@ Do not 301 this page onto `/university-of-washington-endowment/`, `/washington/`
 - [The endowment model, explained](/endowment-model-explained/)
 - [University of Washington endowment](/university-of-washington-endowment/)
 - [Johns Hopkins University endowment](/johns-hopkins-endowment/)
+- [Make-A-Wish Missouri and Kansas endowment](/make-a-wish-missouri-kansas-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

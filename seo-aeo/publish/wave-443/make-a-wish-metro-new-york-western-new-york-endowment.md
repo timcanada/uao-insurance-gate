@@ -44,6 +44,7 @@ Do not 301 this page onto `/make-a-wish-illinois-endowment/`, `/make-a-wish-new-
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [Make-A-Wish Missouri and Kansas endowment](/make-a-wish-missouri-kansas-endowment/)
 - [Make-A-Wish Illinois endowment](/make-a-wish-illinois-endowment/)
 - [Make-A-Wish New Jersey endowment](/make-a-wish-new-jersey-endowment/)
 - [Make-A-Wish Ohio, Kentucky and Indiana endowment](/make-a-wish-ohio-kentucky-indiana-endowment/)

@@ -45,5 +45,6 @@ Do not 301 this page onto `/mississippi-state-university-foundation/`, `/montana
 - [The endowment model, explained](/endowment-model-explained/)
 - [Montana State University Foundation endowment](/montana-state-university-foundation/)
 - [University of Central Missouri Foundation endowment](/university-of-central-missouri-foundation/)
+- [Make-A-Wish Missouri and Kansas endowment](/make-a-wish-missouri-kansas-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

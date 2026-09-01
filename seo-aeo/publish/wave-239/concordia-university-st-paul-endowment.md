@@ -50,5 +50,6 @@ Do not 301 this page onto `/university-of-st-thomas-endowment/`, `/college-of-sa
 - [Mitchell Hamline School of Law endowment](/mitchell-hamline-school-of-law-endowment/)
 - [Minnesota Historical Society endowment](/minnesota-historical-society-endowment/)
 - [Walker Art Center endowment](/walker-art-center-endowment/)
+- [Science Museum of Minnesota endowment](/science-museum-of-minnesota-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

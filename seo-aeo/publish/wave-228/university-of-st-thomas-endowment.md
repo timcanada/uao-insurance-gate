@@ -52,5 +52,6 @@ Do not 301 this page onto `/university-of-minnesota-foundation/`, `/st-thomas/`,
 - [Gustavus Adolphus College endowment](/gustavus-adolphus-endowment/)
 - [Saint John's University endowment](/saint-johns-university-endowment/)
 - [Walker Art Center endowment](/walker-art-center-endowment/)
+- [Science Museum of Minnesota endowment](/science-museum-of-minnesota-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

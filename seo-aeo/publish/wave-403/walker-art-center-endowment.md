@@ -44,6 +44,7 @@ Do not 301 this page onto `/university-of-minnesota-foundation/`, `/minnesota-hi
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [Science Museum of Minnesota endowment](/science-museum-of-minnesota-endowment/)
 - [Minnesota Historical Society endowment](/minnesota-historical-society-endowment/)
 - [University of Minnesota Foundation endowment](/university-of-minnesota-foundation/)
 - [Macalester College endowment](/macalester-endowment/)

@@ -46,6 +46,7 @@ Do not 301 this page onto `/nyu-endowment/`, `/mit-investment-management-company
 - [The endowment model, explained](/endowment-model-explained/)
 - [NYU endowment](/nyu-endowment/)
 - [Boston College endowment](/boston-college-endowment/)
+- [Boston Foundation endowment](/boston-foundation-endowment/)
 - [MITIMCo](/mit-investment-management-company/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

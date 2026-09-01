@@ -45,6 +45,7 @@ Do not 301 this page onto `/berklee-college-endowment/`, `/emerson-college-endow
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [Boston Foundation endowment](/boston-foundation-endowment/)
 - [Berklee College of Music endowment](/berklee-college-endowment/)
 - [Emerson College endowment](/emerson-college-endowment/)
 - [MCPHS endowment](/mcphs-endowment/)

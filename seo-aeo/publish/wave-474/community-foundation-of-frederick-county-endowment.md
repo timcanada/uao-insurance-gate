@@ -56,5 +56,6 @@ Do not 301 this page onto `/chesapeake-bay-foundation-endowment/`, `/johns-hopki
 - [Howard Community College Educational Foundation endowment](/howard-community-college-educational-foundation/)
 - [College of Southern Maryland Foundation endowment](/college-of-southern-maryland-foundation/)
 - [Community College of Baltimore County Foundation endowment](/community-college-of-baltimore-county-foundation/)
+- [Museum of the Shenandoah Valley endowment](/museum-of-the-shenandoah-valley-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

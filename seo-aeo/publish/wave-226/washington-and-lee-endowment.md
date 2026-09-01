@@ -55,5 +55,6 @@ Do not 301 this page onto `/university-of-washington-endowment/`, `/washington-u
 - [Shepherd University Foundation endowment](/shepherd-university-foundation/)
 - [West Virginia State University Foundation endowment](/west-virginia-state-university-foundation/)
 - [Fairmont State Foundation endowment](/fairmont-state-foundation/)
+- [Museum of the Shenandoah Valley endowment](/museum-of-the-shenandoah-valley-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

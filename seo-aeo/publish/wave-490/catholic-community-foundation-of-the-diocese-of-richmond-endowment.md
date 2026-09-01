@@ -47,5 +47,6 @@ Do not 301 this page onto `/natureserve-endowment/`, `/university-of-richmond-en
 - [VCU Foundation endowment](/vcu-foundation/)
 - [University of Virginia endowment](/university-of-virginia-endowment/)
 - [Longwood University Foundation endowment](/longwood-university-foundation/)
+- [Museum of the Shenandoah Valley endowment](/museum-of-the-shenandoah-valley-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

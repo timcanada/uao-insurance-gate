@@ -49,5 +49,6 @@ Do not 301 this page onto `/university-of-washington-endowment/`, `/washington-u
 - [Communities In Schools endowment](/communities-in-schools-endowment/)
 - [NatureServe endowment](/natureserve-endowment/)
 - [Catholic Community Foundation of the Diocese of Richmond endowment](/catholic-community-foundation-of-the-diocese-of-richmond-endowment/)
+- [Museum of the Shenandoah Valley endowment](/museum-of-the-shenandoah-valley-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

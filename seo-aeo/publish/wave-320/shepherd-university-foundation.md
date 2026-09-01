@@ -61,5 +61,6 @@ Do not 301 this page onto `/fairmont-state-foundation/`, `/bluefield-state-unive
 - [Northern Kentucky University Foundation endowment](/northern-kentucky-university-foundation/)
 - [Washington and Lee University endowment](/washington-and-lee-endowment/)
 - [Boise State University Foundation endowment](/boise-state-university-foundation/)
+- [Museum of the Shenandoah Valley endowment](/museum-of-the-shenandoah-valley-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -48,5 +48,6 @@ Do not 301 this page onto `/university-of-pittsburgh-endowment/`, `/pennsylvania
 - [University of Pittsburgh endowment](/university-of-pittsburgh-endowment/)
 - [University of Pennsylvania endowment](/university-of-pennsylvania-endowment/)
 - [Brandeis University endowment](/brandeis-endowment/)
+- [Make-A-Wish Greater Pennsylvania and West Virginia endowment](/make-a-wish-greater-pennsylvania-west-virginia-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -59,5 +59,6 @@ Do not 301 this page onto `/university-of-louisville-foundation/`, `/berea-colle
 - [Berea College endowment](/berea-college-endowment/)
 - [University of Kentucky endowment](/university-of-kentucky-endowment/)
 - [Northern Kentucky University Foundation endowment](/northern-kentucky-university-foundation/)
+- [Make-A-Wish Greater Pennsylvania and West Virginia endowment](/make-a-wish-greater-pennsylvania-west-virginia-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

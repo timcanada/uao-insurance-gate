@@ -54,5 +54,6 @@ Do not 301 this page onto `/make-a-wish-ohio-kentucky-indiana-endowment/`, `/rut
 - [New Jersey Division of Investment](/new-jersey-division-of-investment/)
 - [Make-A-Wish Massachusetts and Rhode Island endowment](/make-a-wish-massachusetts-rhode-island-endowment/)
 - [Make-A-Wish Alaska and Washington endowment](/make-a-wish-alaska-washington-endowment/)
+- [Make-A-Wish Greater Pennsylvania and West Virginia endowment](/make-a-wish-greater-pennsylvania-west-virginia-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

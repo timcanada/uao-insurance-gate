@@ -46,5 +46,6 @@ Do not 301 this page onto `/carnegie-mellon-endowment/`, `/pittsburgh-cmptf/`, `
 - [The endowment model, explained](/endowment-model-explained/)
 - [Carnegie Mellon University endowment](/carnegie-mellon-endowment/)
 - [Ohio State University endowment](/ohio-state-endowment/)
+- [Make-A-Wish Greater Pennsylvania and West Virginia endowment](/make-a-wish-greater-pennsylvania-west-virginia-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

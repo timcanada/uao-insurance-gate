@@ -50,5 +50,6 @@ Do not 301 this page onto `/pennsylvania-sers/`, `/notre-dame-endowment/`, `/pen
 - [Pennsylvania SERS](/pennsylvania-sers/)
 - [Johns Hopkins University endowment](/johns-hopkins-endowment/)
 - [NYU endowment](/nyu-endowment/)
+- [Make-A-Wish Greater Pennsylvania and West Virginia endowment](/make-a-wish-greater-pennsylvania-west-virginia-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -53,5 +53,6 @@ Do not 301 this page onto `/make-a-wish-new-jersey-endowment/`, `/make-a-wish-oh
 - [The Art Institute of Chicago endowment](/art-institute-of-chicago-endowment/)
 - [Make-A-Wish Massachusetts and Rhode Island endowment](/make-a-wish-massachusetts-rhode-island-endowment/)
 - [Make-A-Wish Alaska and Washington endowment](/make-a-wish-alaska-washington-endowment/)
+- [Make-A-Wish Greater Pennsylvania and West Virginia endowment](/make-a-wish-greater-pennsylvania-west-virginia-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

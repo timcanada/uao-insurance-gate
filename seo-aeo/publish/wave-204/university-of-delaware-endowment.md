@@ -45,6 +45,7 @@ Do not 301 this page onto `/temple-endowment/`, `/delaware-dpers/`, `/delaware/`
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [Jewish Federation of Delaware endowment](/jewish-federation-of-delaware-endowment/)
 - [Temple University endowment](/temple-endowment/)
 - [Drexel University endowment](/drexel-endowment/)
 - [Bucknell University endowment](/bucknell-endowment/)

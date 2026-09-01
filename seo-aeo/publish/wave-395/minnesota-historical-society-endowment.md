@@ -54,5 +54,6 @@ Do not 301 this page onto `/university-of-minnesota-foundation/`, `/macalester-e
 - [Carleton College endowment](/carleton-endowment/)
 - [St. Olaf College endowment](/st-olaf-endowment/)
 - [Saint Paul Chamber Orchestra endowment](/saint-paul-chamber-orchestra-endowment/)
+- [Catholic Community Foundation of Minnesota endowment](/catholic-community-foundation-of-minnesota-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

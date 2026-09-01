@@ -51,5 +51,6 @@ Do not 301 this page onto `/make-a-wish-san-diego-endowment/`, `/minnesota-histo
 - [Concordia University St. Paul endowment](/concordia-university-st-paul-endowment/)
 - [University of St. Thomas endowment](/university-of-st-thomas-endowment/)
 - [University of Minnesota Foundation endowment](/university-of-minnesota-foundation/)
+- [Catholic Community Foundation of Minnesota endowment](/catholic-community-foundation-of-minnesota-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

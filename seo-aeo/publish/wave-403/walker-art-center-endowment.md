@@ -53,5 +53,6 @@ Do not 301 this page onto `/university-of-minnesota-foundation/`, `/minnesota-hi
 - [Concordia University St. Paul endowment](/concordia-university-st-paul-endowment/)
 - [Mitchell Hamline School of Law endowment](/mitchell-hamline-school-of-law-endowment/)
 - [Saint Paul Chamber Orchestra endowment](/saint-paul-chamber-orchestra-endowment/)
+- [Catholic Community Foundation of Minnesota endowment](/catholic-community-foundation-of-minnesota-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

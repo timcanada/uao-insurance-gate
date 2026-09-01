@@ -55,5 +55,6 @@ Do not 301 this page onto `/kansas-city-ballet-endowment/`, `/saint-paul-chamber
 - [University of St. Thomas endowment](/university-of-st-thomas-endowment/)
 - [Lutheran Social Service of Minnesota endowment](/lutheran-social-service-of-minnesota-endowment/)
 - [Concordia University St. Paul endowment](/concordia-university-st-paul-endowment/)
+- [Catholic Community Foundation of Minnesota endowment](/catholic-community-foundation-of-minnesota-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

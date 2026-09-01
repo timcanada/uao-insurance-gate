@@ -46,5 +46,6 @@ Do not 301 this page onto `/massachusetts-audubon-society-endowment/`, `/maine-a
 - [Lutheran Social Service of Minnesota endowment](/lutheran-social-service-of-minnesota-endowment/)
 - [Minnesota Historical Society endowment](/minnesota-historical-society-endowment/)
 - [Minnesota Opera endowment](/minnesota-opera-endowment/)
+- [Catholic Community Foundation of Minnesota endowment](/catholic-community-foundation-of-minnesota-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

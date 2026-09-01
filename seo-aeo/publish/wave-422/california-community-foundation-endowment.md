@@ -44,6 +44,7 @@ Do not 301 this page onto `/japanese-american-national-museum-endowment/`, `/jew
 
 - [Largest university endowments](/largest-university-endowments-2026/)
 - [The endowment model, explained](/endowment-model-explained/)
+- [Hammer Museum endowment](/hammer-museum-endowment/)
 - [Japanese American National Museum endowment](/japanese-american-national-museum-endowment/)
 - [Jewish Community Foundation of San Diego endowment](/jewish-community-foundation-of-san-diego-endowment/)
 - [Gardens of Golden Gate Park endowment](/gardens-of-golden-gate-park-endowment/)

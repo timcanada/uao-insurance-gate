@@ -48,5 +48,6 @@ Do not 301 this page onto `/university-of-san-francisco-endowment/`, `/san-franc
 - [San Francisco Conservatory of Music endowment](/san-francisco-conservatory-of-music-endowment/)
 - [San Francisco State University Foundation endowment](/sfsu-foundation/)
 - [Foundation of the City College of San Francisco endowment](/foundation-of-the-city-college-of-san-francisco/)
+- [San Francisco Opera Association endowment](/san-francisco-opera-association-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

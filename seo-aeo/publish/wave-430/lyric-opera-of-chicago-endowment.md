@@ -54,5 +54,6 @@ Do not 301 this page onto `/chicago-symphony-orchestra-endowment/`, `/art-instit
 - [Illinois Institute of Technology endowment](/illinois-institute-of-technology-endowment/)
 - [City Colleges of Chicago Foundation endowment](/city-colleges-of-chicago-foundation/)
 - [Philadelphia Orchestra Association endowment](/philadelphia-orchestra-association-endowment/)
+- [San Francisco Opera Association endowment](/san-francisco-opera-association-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

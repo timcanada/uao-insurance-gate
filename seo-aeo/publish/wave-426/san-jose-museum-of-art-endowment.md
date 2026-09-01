@@ -49,5 +49,6 @@ Do not 301 this page onto `/santa-clara-endowment/`, `/university-of-san-francis
 - [San Francisco State University Foundation endowment](/sfsu-foundation/)
 - [Gardens of Golden Gate Park endowment](/gardens-of-golden-gate-park-endowment/)
 - [San Francisco Conservatory of Music endowment](/san-francisco-conservatory-of-music-endowment/)
+- [San Francisco Opera Association endowment](/san-francisco-opera-association-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

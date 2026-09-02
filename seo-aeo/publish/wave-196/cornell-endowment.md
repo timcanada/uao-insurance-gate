@@ -49,5 +49,6 @@ Do not 301 this page onto `/johns-hopkins-endowment/`, `/university-of-pennsylva
 - [Syracuse University endowment](/syracuse-endowment/)
 - [University of Pennsylvania endowment](/university-of-pennsylvania-endowment/)
 - [University of Rochester endowment](/university-of-rochester-endowment/)
+- [Roberson Museum and Science Center endowment](/roberson-museum-and-science-center-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

@@ -750,6 +750,8 @@ def main() -> None:
         # never-mint Wave 507 twins: holocaust-museum-houston / holocaust-museum / hmh / hmh-endowment / holocaust-houston / houston-holocaust / houston-holocaust-museum / holocaust-museum-houston-foundation / hmhf. /houston/ stays reserved. /rice/ stays Wave 198. /acc/ stays Wave 303. /lone-star/ stays Wave 344.
         ("hawthorne-social-service-association-endowment", "Hawthorne Social Service Association endowment", "Endowment", "needed"),
         # never-mint Wave 508 twins: hawthorne-social-service-association / hawthorne-social-service / hawthorne / hawthorne-center / hawthorne-community-center / hssa / hawthorne-endowment / hawthorne-social-service-association-endowment-explained / lilly-endowment. /indianapolis/ stays Wave 398. /hcc/ stays Wave 218. /united-way/ stays never-mint. /uwci/ stays Wave 437.
+        ("roberson-museum-and-science-center-endowment", "Roberson Museum and Science Center endowment", "Endowment", "needed"),
+        # never-mint Wave 509 twins: roberson-museum-and-science-center / roberson-museum / roberson-science-center / roberson / rmsc / roberson-endowment / roberson-foundation / roberson-museum-and-science-center-endowment-explained. /binghamton/ stays reserved against leftover Binghamton University Foundation. /cornell/ stays Wave 196. /syracuse/ stays Wave 200. /colgate/ stays Wave 207. /susquehanna/ stays Wave 256.
     ("emory-endowment", "Emory University endowment", "Endowment", "needed"),
         ("carnegie-mellon-endowment", "Carnegie Mellon University endowment", "Endowment", "needed"),
         ("caltech-endowment", "Caltech endowment", "Endowment", "needed"),

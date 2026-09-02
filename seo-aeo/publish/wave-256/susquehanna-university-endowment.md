@@ -52,5 +52,6 @@ Do not 301 this page onto `/dickinson-endowment/`, `/moravian-university-endowme
 - [Lebanon Valley College endowment](/lebanon-valley-college-endowment/)
 - [Messiah University endowment](/messiah-university-endowment/)
 - [Ursinus College endowment](/ursinus-endowment/)
+- [Roberson Museum and Science Center endowment](/roberson-museum-and-science-center-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

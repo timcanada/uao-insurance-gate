@@ -47,5 +47,6 @@ Do not 301 this page onto `/wesleyan-endowment/`, `/holy-cross-endowment/`, `/co
 - [The endowment model, explained](/endowment-model-explained/)
 - [Wesleyan University endowment](/wesleyan-endowment/)
 - [Lafayette College endowment](/lafayette-endowment/)
+- [Roberson Museum and Science Center endowment](/roberson-museum-and-science-center-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

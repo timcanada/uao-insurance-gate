@@ -48,5 +48,6 @@ Do not 301 this page onto `/cornell-endowment/`, `/nyu-endowment/`, `/syracuse/`
 - [Cornell University endowment](/cornell-endowment/)
 - [NYU endowment](/nyu-endowment/)
 - [University of Rochester endowment](/university-of-rochester-endowment/)
+- [Roberson Museum and Science Center endowment](/roberson-museum-and-science-center-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

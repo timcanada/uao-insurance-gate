@@ -53,5 +53,6 @@ Do not 301 this page onto `/university-of-toledo-foundation/`, `/bowling-green-s
 - [Northeast Ohio Medical University Foundation endowment](/northeast-ohio-medical-university-foundation/)
 - [University of Akron Foundation endowment](/university-of-akron-foundation/)
 - [MetroHealth Foundation endowment](/metrohealth-foundation/)
+- [Cincinnati Art Museum endowment](/cincinnati-art-museum-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

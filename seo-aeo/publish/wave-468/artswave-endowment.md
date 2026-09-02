@@ -46,6 +46,7 @@ Do not 301 this page onto `/xavier-university-endowment/`, `/university-of-cinci
 - [The endowment model, explained](/endowment-model-explained/)
 - [Xavier University endowment](/xavier-university-endowment/)
 - [University of Cincinnati Foundation endowment](/university-of-cincinnati-foundation/)
+- [Cincinnati Art Museum endowment](/cincinnati-art-museum-endowment/)
 - [United Way of Greater Cincinnati endowment](/united-way-of-greater-cincinnati-endowment/)
 - [Northern Kentucky University Foundation endowment](/northern-kentucky-university-foundation/)
 - [Advertise](/advertise/)

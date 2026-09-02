@@ -1,0 +1,275 @@
+#!/usr/bin/env python3
+"""Publish seo-aeo/publish/*.md drafts to Ghost via the Admin API.
+
+Requires:
+  GHOST_ADMIN_API_KEY  — custom integration Admin API Key (id:secret)
+  GHOST_URL            — optional, default https://www.universalassetowners.com
+
+Usage:
+  python3 seo-aeo/tools/publish_to_ghost.py --wave 1
+  python3 seo-aeo/tools/publish_to_ghost.py --wave 1 --wave 2 --wave 3 --wave 4 --wave 5 --wave 6 --wave 7 --wave 8 --wave 9 --wave 10 --wave 11 --wave 12 --wave 13 --wave 14 --wave 15 --wave 16 --wave 17 --wave 18 --wave 19 --wave 20 --wave 21 --wave 22 --wave 23 --wave 24 --wave 25 --wave 26 --wave 27 --wave 28 --wave 29 --wave 30 --wave 31 --wave 32 --wave 33 --live
+Without --live, posts are created as drafts in Ghost (safe test).
+"""
+
+from __future__ import annotations
+
+import argparse
+import html
+import os
+import re
+import sys
+import time
+from pathlib import Path
+
+try:
+    import jwt
+except ImportError:
+    jwt = None
+
+ROOT = Path(__file__).resolve().parents[1]
+PUBLISH = ROOT / "publish"
+SKIP = {"INDEX.md", "llms-patch.md", "llms-canonical-patch.md", "merge-brief.md"}
+
+
+def token(admin_key: str) -> str:
+    if jwt is None:
+        raise SystemExit("Install PyJWT: pip install pyjwt")
+    key_id, secret = admin_key.split(":", 1)
+    now = int(time.time())
+    return jwt.encode(
+        {"iat": now, "exp": now + 5 * 60, "aud": "/admin/"},
+        bytes.fromhex(secret),
+        algorithm="HS256",
+        headers={"kid": key_id},
+    )
+
+
+def split_frontmatter(text: str) -> tuple[dict, str]:
+    if not text.startswith("---"):
+        return {}, text
+    parts = text.split("---", 2)
+    if len(parts) < 3:
+        return {}, text
+    meta: dict[str, str] = {}
+    for line in parts[1].splitlines():
+        if ":" not in line:
+            continue
+        k, v = line.split(":", 1)
+        meta[k.strip()] = v.strip().strip('"')
+    return meta, parts[2].strip()
+
+
+def md_to_html(md: str) -> str:
+    """Small Markdown subset → HTML. Good enough for our drafts."""
+    lines = md.splitlines()
+    out: list[str] = []
+    in_table = False
+    in_ul = False
+    in_ol = False
+    in_code = False
+    code_buf: list[str] = []
+
+    def close_lists() -> None:
+        nonlocal in_ul, in_ol
+        if in_ul:
+            out.append("</ul>")
+            in_ul = False
+        if in_ol:
+            out.append("</ol>")
+            in_ol = False
+
+    def inline(s: str) -> str:
+        s = html.escape(s)
+        s = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", s)
+        s = re.sub(r"`([^`]+)`", r"<code>\1</code>", s)
+        s = re.sub(r"\[([^\]]+)\]\(([^)]+)\)", r'<a href="\2">\1</a>', s)
+        return s
+
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        if line.strip().startswith("```"):
+            if in_code:
+                out.append("<pre><code>" + html.escape("\n".join(code_buf)) + "</code></pre>")
+                code_buf = []
+                in_code = False
+            else:
+                close_lists()
+                in_code = True
+            i += 1
+            continue
+        if in_code:
+            code_buf.append(line)
+            i += 1
+            continue
+        if line.strip().startswith("<script"):
+            close_lists()
+            chunk = [line]
+            while i + 1 < len(lines) and "</script>" not in lines[i]:
+                i += 1
+                chunk.append(lines[i])
+            out.append("\n".join(chunk))
+            i += 1
+            continue
+        if re.match(r"^[-*] ", line):
+            if not in_ul:
+                close_lists()
+                out.append("<ul>")
+                in_ul = True
+            out.append("<li>" + inline(re.sub(r"^[-*] ", "", line)) + "</li>")
+            i += 1
+            continue
+        if re.match(r"^\d+\. ", line):
+            if not in_ol:
+                close_lists()
+                out.append("<ol>")
+                in_ol = True
+            out.append("<li>" + inline(re.sub(r"^\d+\. ", "", line)) + "</li>")
+            i += 1
+            continue
+        if "|" in line and line.strip().startswith("|"):
+            if re.match(r"^\|?\s*-+", line.replace(" ", "")):
+                i += 1
+                continue
+            cells = [c.strip() for c in line.strip().strip("|").split("|")]
+            if not in_table:
+                close_lists()
+                out.append("<table>")
+                out.append("<thead><tr>" + "".join(f"<th>{inline(c)}</th>" for c in cells) + "</tr></thead><tbody>")
+                in_table = True
+            else:
+                out.append("<tr>" + "".join(f"<td>{inline(c)}</td>" for c in cells) + "</tr>")
+            i += 1
+            if i >= len(lines) or "|" not in lines[i]:
+                out.append("</tbody></table>")
+                in_table = False
+            continue
+        close_lists()
+        if line.startswith("# "):
+            out.append("<h1>" + inline(line[2:]) + "</h1>")
+        elif line.startswith("## "):
+            out.append("<h2>" + inline(line[3:]) + "</h2>")
+        elif line.startswith("### "):
+            out.append("<h3>" + inline(line[4:]) + "</h3>")
+        elif line.startswith("> "):
+            out.append("<blockquote><p>" + inline(line[2:]) + "</p></blockquote>")
+        elif line.strip() == "":
+            pass
+        else:
+            out.append("<p>" + inline(line) + "</p>")
+        i += 1
+    close_lists()
+    if in_table:
+        out.append("</tbody></table>")
+    return "\n".join(out)
+
+
+def ghost_request(method: str, url: str, admin_key: str, payload: dict | None = None) -> tuple[int, dict | str]:
+    import json
+    import urllib.error
+    import urllib.request
+
+    req = urllib.request.Request(
+        url,
+        data=None if payload is None else json.dumps(payload).encode(),
+        headers={
+            "Authorization": f"Ghost {token(admin_key)}",
+            "Content-Type": "application/json",
+            "Accept-Version": "v5.0",
+        },
+        method=method,
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            body = resp.read().decode()
+            return resp.status, json.loads(body) if body else {}
+    except urllib.error.HTTPError as e:
+        return e.code, e.read().decode()
+
+
+def find_post(base: str, admin_key: str, slug: str) -> dict | None:
+    status, body = ghost_request(
+        "GET",
+        f"{base}/ghost/api/admin/posts/?filter=slug:{slug}&limit=1",
+        admin_key,
+    )
+    if status != 200 or not isinstance(body, dict):
+        return None
+    posts = body.get("posts") or []
+    return posts[0] if posts else None
+
+
+def upsert(base: str, admin_key: str, path: Path, live: bool) -> None:
+    meta, body = split_frontmatter(path.read_text())
+    slug = meta.get("slug", "").strip().strip("/")
+    title = meta.get("title", "").strip() or path.stem
+    if not slug or slug.startswith("_"):
+        print(f"skip  {path.name} (no public slug)")
+        return
+    excerpt = meta.get("answer_block", "")[:300]
+    html_body = md_to_html(body)
+    post = {
+        "title": title,
+        "slug": slug.split("/")[-1],
+        "custom_excerpt": excerpt,
+        "html": html_body,
+        "status": "published" if live else "draft",
+        "meta_title": title,
+        "meta_description": excerpt[:160],
+    }
+    existing = find_post(base, admin_key, post["slug"])
+    if existing:
+        existing_status = existing.get("status")
+        if not live and existing_status in ("published", "scheduled"):
+            post["status"] = existing_status
+        post["updated_at"] = existing["updated_at"]
+        status, body = ghost_request(
+            "PUT",
+            f"{base}/ghost/api/admin/posts/{existing['id']}/?source=html",
+            admin_key,
+            {"posts": [post]},
+        )
+        action = "updated"
+    else:
+        status, body = ghost_request(
+            "POST",
+            f"{base}/ghost/api/admin/posts/?source=html",
+            admin_key,
+            {"posts": [post]},
+        )
+        action = "created"
+    ok = status in (200, 201)
+    print(f"{'ok' if ok else 'FAIL'} {action} {status} /{post['slug']}/  {title[:60]}")
+    if not ok:
+        print(body)
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--wave", action="append", default=[])
+    parser.add_argument("--live", action="store_true", help="Publish (default is Ghost draft)")
+    args = parser.parse_args()
+    admin_key = os.environ.get("GHOST_ADMIN_API_KEY", "").strip()
+    base = os.environ.get("GHOST_URL", "https://www.universalassetowners.com").rstrip("/")
+    if not admin_key or ":" not in admin_key:
+        raise SystemExit(
+            "GHOST_ADMIN_API_KEY is missing. In Ghost Admin: Settings → Integrations → "
+            "Add custom integration → copy Admin API Key into this environment."
+        )
+    waves = args.wave or ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40", "41", "42", "43", "44", "45", "46", "47", "48", "49", "50", "51", "52", "53", "54", "55", "56", "57", "58", "59", "60", "61", "62", "63", "64", "65", "66", "67", "68", "69", "70", "71", "72", "73", "74", "75", "76", "77", "78", "79", "80", "81", "82", "83", "84", "85", "86", "87", "88", "89", "90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "100", "101", "102", "103", "104", "105", "106", "107", "108", "109", "110", "111", "112", "113", "114", "115", "116", "117", "118", "119", "120", "121", "122", "123", "124", "125", "126", "127", "128", "129", "130", "131", "132", "133", "134", "135", "136", "137", "138", "139", "140", "141", "142", "143", "144", "145", "146", "147", "148", "149", "150", "151", "153", "155", "156", "157", "158", "159", "160", "161", "162", "163", "164", "165", "166", "167", "168", "169", "170", "171", "172", "173", "174", "175", "176", "177", "178", "179", "180", "181", "182", "183", "184", "185", "186", "187", "188", "189", "190", "191", "192", "193", "194", "195", "196", "197", "198", "199", "200", "201", "202", "203", "204", "205", "206", "207", "208", "209", "210", "211", "212", "213", "214", "215", "216", "217", "218", "219", "220", "221", "222", "223", "224", "225", "226", "227", "228", "229", "230", "231", "232", "233", "234", "235", "236", "237", "238", "239", "240", "241", "242", "243", "244", "245", "246", "247", "248", "249", "250", "251", "252", "253", "254", "255", "256", "257", "258", "259", "260", "261", "262", "263", "264", "265", "266", "267", "268", "269", "270", "271", "272", "273", "274", "275", "276", "277", "278", "279", "280", "281", "282", "283", "284", "285", "286", "287", "288", "289", "290", "291", "292", "293", "294", "295", "296", "297", "298", "299", "300", "301", "302", "303", "304", "305", "306", "307", "308", "309", "310", "311", "312", "313", "314", "315", "316", "317", "318", "319", "320", "321", "322", "323", "324", "326", "329", "331", "332", "335", "336", "337", "338", "339", "340", "341", "342", "344", "345", "346", "350", "351", "353", "363", "364", "369", "371", "372", "373", "377", "378", "382", "386", "393", "394", "395", "396", "397", "398", "399", "400", "401", "402", "403", "404", "405", "406", "407", "408", "409", "410", "411", "412", "413", "414", "415", "416", "417", "418", "419", "420", "421", "422", "423", "424", "425", "426", "427", "428", "429", "430", "431", "432", "433", "434", "435", "436", "437", "438", "439", "440", "441", "442", "443", "444", "445", "446", "447", "448", "449", "450", "451", "452", "453", "454", "455", "456", "457", "458", "459", "460", "461", "462", "463", "464", "465", "466", "467", "468", "469", "470", "471", "472", "473", "474", "475", "476", "477", "478", "479", "480", "481", "482", "483", "484", "485", "486", "487", "488", "489", "490", "491", "492", "493", "494", "495", "496", "497", "498", "499", "500", "501", "502", "503", "504", "505", "506", "507", "508", "509", "510", "511", "512", "513"]
+    files: list[Path] = []
+    for w in waves:
+        d = PUBLISH / f"wave-{w}"
+        if not d.is_dir():
+            print(f"no folder {d}")
+            continue
+        files.extend(sorted(p for p in d.glob("*.md") if p.name not in SKIP))
+    if not files:
+        raise SystemExit("No draft files found.")
+    print(f"{'LIVE' if args.live else 'GHOST DRAFT'}  {len(files)} files  →  {base}")
+    for p in files:
+        upsert(base, admin_key, p, args.live)
+
+
+if __name__ == "__main__":
+    main()

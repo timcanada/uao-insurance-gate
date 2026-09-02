@@ -1,0 +1,54 @@
+# Wave 363 — leftover-unique 2025 house endowment (Arizona State University Foundation)
+
+Date: 31 August 2026
+Desk: research
+Editor status: draft
+
+One leftover-unique U.S. endowment card independently locked this wake from an official 2025 house financial statement after Wave 362 hunt-only and Wave 353 University of South Carolina Business Partnership Foundation. The slug is not live. Ghost cannot publish (`GHOST_ADMIN_API_KEY` unset). GSC cannot score ranks (`GOOGLE_SERVICE_ACCOUNT_JSON` unset). A 1-keeper wave is acceptable after this leftover-unique hunt. After leftover unique IN SBOA / KY / leftover WVHEPC / NY OSC / NJ / leftover AZ inventory-check, leftover Arizona State University Foundation independently GET **200** and locked three facts. **One of five independent PDF GETs this wake.** Stop-and-ship on first three-fact lock. **Never mint `/asu/` `/asuf/` `/arizona-state/` `/arizona-state-university/` `/asu-foundation/` `/asufoundation/` `/sun-devils/` `/tempe/` `/asuep/` `/changing-futures/` `/asu-endowment/`.** `/asu/` stays Wave 265 Albany State University Foundation. `/asuf/` stays reserved against leftover Albany State University Foundation.
+
+| # | Institution | Slug | Official FS | Locked facts | Auditor |
+|---|---|---|---|---|---|
+| 1 | Arizona State University Foundation | `/arizona-state-university-foundation/` | https://changingfutures.asufoundation.org/on/demandware.static/-/Library-Sites-RefArchSharedLibrary/default/dw4debd61d/pdfs/ASUF_All_Inclusive_Audited_Financial_Statements_FY25.pdf | Endowment net assets, June 30, 2025 labeled Total **$1,180,400,525**; printed Total investment return **$106,054,930**; Appropriation for expenditure **$64,424,852** (printed as (64,424,852)) | Baker Tilly US, LLP. Opinion dated **28 August 2025**. Body prints Phoenix, Arizona. Subsequent events evaluated through **28 August 2025**. Notes print Arizona UPMIFA. Official listing lander independently GET **200** HTML. Never mint `/asu/` `/asuf/` `/arizona-state/` `/tempe/` `/sun-devils/`. Never remint `/albany-state-university-foundation/`. Never remint `/pima-community-college-foundation/`. Never remint `/arizona-western-college-foundation/`. Never remint `/cochise-college-foundation/`. Never remint `/university-of-south-carolina-business-partnership-foundation/`. |
+
+Do not flatten leftover Interest and dividends / leftover Net realized and unrealized sleeves, leftover beginning Endowment assets, leftover SOA Net investment return, leftover Contributions / leftover Reclassification of donor intent, leftover Net assets released, leftover Total endowment assets / leftover Liability due to other entities / leftover NACUBO / leftover Treasurer **$1.8B** / leftover **$2.3B**, leftover entity-wide Total net assets / Total assets / SFP Investments / Without / With, leftover 2024 Total investment return / leftover 2024 Appropriation, leftover spending-policy **4.25%** / leftover **3.25%** / leftover **2.9%** prints from this packet.
+
+## Official sources (independently re-GET this wake)
+
+- Arizona State University Foundation leftover-unique official 2025 house FS independently GET **200** `application/pdf` **2,072,603** from `https://changingfutures.asufoundation.org/on/demandware.static/-/Library-Sites-RefArchSharedLibrary/default/dw4debd61d/pdfs/ASUF_All_Inclusive_Audited_Financial_Statements_FY25.pdf`. Filename from the official path: `ASUF_All_Inclusive_Audited_Financial_Statements_FY25.pdf`. `pdftotext` **125,425**. 35 pages. Official listing lander `https://changingfutures.asufoundation.org/resources/donorresources.html` independently GET **200** HTML from this environment. Report of Independent Auditors pages were image-only in `pdftotext`; OCR this wake recovered Baker Tilly US, LLP / Phoenix, Arizona / **28 August 2025**.
+
+## What this wave is not
+
+- Not a remint of Wave 353 University of South Carolina Business Partnership Foundation or Wave 351 University of South Carolina Educational Foundation or Wave 350 University of South Carolina Upstate Foundation or Wave 346 Kellogg Community College Foundation or Wave 345 Del Mar College Foundation or Wave 344 Lone Star College Foundation or Wave 342 St. Vladimir's Orthodox Theological Seminary or Wave 272 Wake Tech Foundation or Wave 265 Albany State University Foundation or Wave 274 Pima Community College Foundation or Wave 296 Arizona Western College Foundation or Wave 297 Cochise College Foundation.
+- Not leftover Albany Law School EMMA `P21970969` condensed DAC. Did not re-GET.
+- Not leftover Lincoln University of the Commonwealth System of Higher Education, Inc. leftover **Withdrawal**. Did not re-GET.
+- Not leftover Houston Community College Foundation leftover two named. Did not re-GET.
+- Not leftover St. Johns River State College Foundation leftover **GASB SNP**. Did not re-GET.
+- Not leftover TCNJ Foundation leftover likely **GASB SNP**. Did not GET.
+- Not leftover Morehead State University Foundation leftover two named. Did not GET.
+- Not leftover Yavapai three named / leftover Maricopa two named. Did not re-GET.
+- Remint-class already shipped if independently GET this wake: University of South Carolina Business Partnership Foundation, University of South Carolina Educational Foundation, University of South Carolina Upstate Foundation, Kellogg Community College Foundation, Del Mar College Foundation, Lone Star College Foundation, St. Vladimir's Orthodox Theological Seminary, Wake Tech Foundation, Clemson University, Furman University, University of Southern California, Albany State University Foundation, Pima Community College Foundation, Arizona Western College Foundation, Cochise College Foundation. Do not remint.
+
+## Short-slug reservations
+
+- Never mint `/asu/` or `/asuf/`. `/asu/` stays Wave 265 Albany State University Foundation. `/asuf/` stays reserved against leftover Albany State University Foundation.
+- Never mint `/arizona-state/`, `/arizona-state-university/`, `/asu-foundation/`, `/asufoundation/`, `/asu-endowment/`.
+- Never mint `/sun-devils/`, `/tempe/`, `/asuep/`, `/changing-futures/`.
+- Never remint `/albany-state-university-foundation/`.
+- Never remint `/pima-community-college-foundation/`. Never mint `/pima/`.
+- Never remint `/arizona-western-college-foundation/`. Never mint `/arizona-western/` `/awc/` `/yuma/`.
+- Never remint `/cochise-college-foundation/`. Never mint `/cochise/`.
+- Never remint `/university-of-south-carolina-business-partnership-foundation/`. Never mint `/usc/` `/bpf/` `/moore/`. `/usc/` stays University of Southern California.
+- Never mint `/yavapai/` `/maricopa/`.
+- Never mint `/albany/` `/als/` `/albany-law/` `/lincoln/` `/tcnj/` `/morehead/` `/msu/`.
+
+## Related flatten only
+
+Do not remint Waves 178–353 bodies. Related-only neighbors: Wave 274 Pima Community College Foundation endowment (href only); Wave 296 Arizona Western College Foundation endowment (href only); Wave 297 Cochise College Foundation endowment (href only).
+
+## Inventory / Ghost
+
+`seo-aeo/inventory/generate_priority_slugs.py`, `seo-aeo/inventory/priority-slugs.csv` (CRLF), `seo-aeo/inventory/keyword-board.csv` (LF, `drafted-wave-363`), `seo-aeo/tools/publish_to_ghost.py` (`"363"`), Wave 17 refresh table / Related / Sources, `seo-aeo/plan/11-next-human-actions.md`, and `seo-aeo/tracking/learning-log.md`.
+
+## Next wake
+
+If a leftover-unique official 2025 house filing independently GET **200** and independently locks three official facts, draft it as Wave 364. First leftovers: leftover unique **non-seminary** privates / leftover CC foundations whose 2025 house FS hosts a **public** PDF not in inventory and **not** already a known refuse. Inventory-check first. Independently GET **200** before drafting. Prefer leftover unique official 2025 house **FASB** PDFs whose extract already shows **one** printed Investment return / Total investment return plus labeled Appropriation. Do not remint Arizona State University Foundation. Do not remint University of South Carolina Business Partnership Foundation. Do not remint University of South Carolina Educational Foundation. Do not remint University of South Carolina Upstate Foundation. Do not remint Kellogg Community College Foundation. Do not remint Del Mar College Foundation. Do not remint Lone Star College Foundation. Do not remint St. Vladimir's Orthodox Theological Seminary. Do not remint Wake Tech Foundation. Do not remint Clemson University. Do not remint Furman University. Do not remint University of Southern California. Do not remint Albany State University Foundation. Do not remint Pima Community College Foundation. Do not remint Arizona Western College Foundation. Do not remint Cochise College Foundation. Do not re-GET Albany Law School EMMA `P21970969`. Do not re-GET Lincoln University of the Commonwealth System of Higher Education, Inc. leftover **Withdrawal**. Do not GET leftover TCNJ Foundation unless a later hosted PDF independently GET **200** and locks from a house **FASB** change table. Do not GET leftover Morehead two named. Do not GET leftover CCM / Bergen / Ocean / Sussex / GRCC college packets unless a later standalone Foundation FASB change table independently GET **200** and locks. Then leftover unique leftover PA / IN / KY / leftover WV / NY OSC / NJ / leftover AZ / leftover ACCS if NEW. Then leftover unique EMMA (never remint Rochester `P21957435` / Wellesley `P21958918` / Northeastern `P21972691`; never GET Campbellsville unaudited / Averett forecast; never GET Monroe Association `P21961318`; never re-GET Albany Law `P21970969` condensed DAC). Independently GET **200** before drafting. Do not remint Waves 178–363 except Related flatten. Do not flatten leftover dollars. Do not invent leftover **4%** / leftover **4.00%** / leftover **4.0%** / leftover **4.01%** / leftover **4.25%** / leftover **4.5%** / leftover **4.50%** / leftover **5%** / leftover **5.0%** / leftover **5.5%** / leftover **0.5%** / leftover **0.50%** / leftover **0.14%** / leftover **1.5%** / leftover **8.2%** / leftover **8%** / leftover **3%** / leftover **2%** / leftover **14.7%** / leftover **7%** / leftover **10%** / leftover **6.5%** / leftover **6.50%** / leftover **7.00%** / leftover **4.75%** / leftover **53.66%** / leftover **8.50%** / leftover **5.25%** / leftover **1.19%** / leftover **6%** / leftover **90%** / leftover **4.26%** / leftover **3.25%** / leftover **1.25%** / leftover **1%** / leftover **7.50%** / leftover **93%** / leftover **4.8%** / leftover **37%** / leftover **14%** / leftover **14.00%** / leftover **6.00%** / leftover **45%** / leftover **11.75%** / leftover **13.57%** / leftover **3.5%** / leftover **49%** / leftover **30%** / leftover **66%** / leftover **3.68%** / leftover **4.52%** / leftover **6.18%** / leftover **7.62%** / leftover **8.32%** / leftover **12.8%** / leftover **10.7%** / leftover **8.1%** / leftover **2.9%** / leftover **3.4%**.

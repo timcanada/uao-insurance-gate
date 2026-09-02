@@ -1,0 +1,61 @@
+# Wave 395 — leftover-unique 2025 house endowment (Minnesota Historical Society)
+
+Date: 31 August 2026
+Desk: research
+Editor status: draft
+
+One leftover-unique U.S. endowment card independently locked this wake from an official 2025 house financial statement after Wave 394 The Art Institute of Chicago. The slug is not live. Ghost cannot publish (`GHOST_ADMIN_API_KEY` unset). GSC cannot score ranks (`GOOGLE_SERVICE_ACCOUNT_JSON` unset). A 1-keeper wave is acceptable after this leftover-unique hunt. After leftover unique official 2025 house hunt, leftover unique Minnesota Historical Society 2025 house FASB independently GET **200** and locked three facts. **One of five independent house-FASB PDF GETs this wake.** Stop-and-ship on first three-fact lock. **Never mint `/mnhs/` `/minnesota-historical/` `/minnesota-history/` `/minnesota-historical-society/` `/st-paul/` `/minnesota/`.** `/st-paul/` stays St. Paul Teachers. `/minnesota/` stays reserved against leftover Minnesota SBI / leftover University of Minnesota Foundation. `/mac/` stays Macalester. `/umn/` `/gophers/` `/minnesota-foundation/` stay University of Minnesota Foundation.
+
+| # | Institution | Slug | Official FS | Locked facts | Auditor |
+|---|---|---|---|---|---|
+| 1 | Minnesota Historical Society | `/minnesota-historical-society-endowment/` | https://www.mnhs.org/hubfs/signed-final-report-and-financial-statements.pdf | Endowment Net Assets, June 30, 2025 labeled Total **$168,069,742**; printed Investment Return **$15,322,329**; Appropriation of Endowment Assets for Expenditure **$4,735,879** (printed as -$4,735,879) | CliftonLarsonAllen LLP. Letterhead prints CliftonLarsonAllen LLP and CLAconnect.com. Do not invent a street address. Opinion to the Audit Committee, Minnesota Historical Society, St. Paul, Minnesota. Opinion dated Minneapolis, Minnesota, **14 October 2025**. Unmodified. Notes print UPMIFA as enacted by the state of Minnesota effective **1 August 2008**. Filename from official path: `signed-final-report-and-financial-statements.pdf`. Live href confirmed from Minnesota Historical Society Reports listing (`https://www.mnhs.org/about/reports` independently GET **200** HTML this wake; prints that PDF as 2025 Financial Statements). Never mint `/mnhs/` `/minnesota-historical/` `/minnesota-history/` `/minnesota-historical-society/` `/st-paul/` `/minnesota/`. Never remint `/art-institute-of-chicago-endowment/`. Never remint `/georgia-historical-society-endowment/`. Never remint `/university-of-minnesota-foundation/`. Never remint `/macalester-endowment/`. Never remint `/hamline-endowment/`. Never remint `/concordia-university-st-paul-endowment/`. Never remint `/mitchell-hamline-school-of-law-endowment/`. Never remint `/carleton-endowment/`. Never remint `/st-olaf-endowment/`. |
+
+Do not flatten leftover Without / leftover With sleeves, leftover beginning Endowment Net Assets, leftover Contributions, leftover SOA Endowment payout, leftover State operating / leftover State legacy / leftover State capital appropriations, leftover entity-wide Total net assets / leftover Total assets / leftover SFP Investments, leftover SOA Investment return / leftover Note 4 Investment Return, leftover annual spending rate **4.5%**, leftover 990 prints from this packet.
+
+## Official sources (independently re-GET this wake)
+
+- Minnesota Historical Society leftover-unique official 2025 house FS independently GET **200** `application/pdf` **1,053,175** from `https://www.mnhs.org/hubfs/signed-final-report-and-financial-statements.pdf`. Filename from the official path: `signed-final-report-and-financial-statements.pdf`. `pdftotext` **78,629**. 23 pages. Encrypted yes (`print:yes copy:no`). CliftonLarsonAllen LLP / Minneapolis, MN / **14 October 2025**. House FASB change table locks three facts.
+
+## What this wave is not
+
+- Not a remint of Wave 394 The Art Institute of Chicago or Wave 393 Georgia Historical Society or Wave 386 Pellissippi State Community College Foundation or Wave 382 Ohio Northern University or Wave 378 Salve Regina University or Wave 377 San Francisco Conservatory of Music or Wave 373 Middle Tennessee State University Foundation or Wave 372 Austin Peay State University Foundation or Wave 371 University of Memphis Foundation or Wave 369 Morehouse College or Wave 364 The New School or Wave 363 Arizona State University Foundation or Wave 223 University of Minnesota Foundation or Wave 208 Macalester College or Wave 212 Hamline University or Wave 239 Concordia University St. Paul or Wave 308 Mitchell Hamline School of Law or Wave 207 Carleton College or Wave 211 St. Olaf College or Wave 254 Gustavus Adolphus College.
+- Not leftover unique New England Historic Genealogical Society leftover **Spending policy transfer**. Did not GET.
+- Not leftover unique Boston Athenaeum leftover two named Appropriation lines. Did not GET.
+- Not leftover unique American Academy of Arts and Sciences leftover **Investment return designated for operations**. Did not GET.
+- Not leftover unique New England Conservatory leftover **Endowment income made available for operations**. Did not re-GET.
+- Not leftover unique College of Our Lady of the Elms leftover two-named. Did not re-GET.
+- Not leftover unique Western New England leftover two-named leftover **Distributions**. Did not GET.
+- Not leftover unique Bay Path leftover **Distributions**. Did not GET.
+- Not leftover unique Navarro leftover unique college **GASB**. Did not GET.
+- Not leftover unique Fox Valley leftover unique **GASB SNP**. Did not re-GET.
+- Not leftover unique TN Comptroller leftover unique Walters State 2025 / leftover unique Northeast State 2025. Did not GET.
+- Not leftover unique Detroit Historical Society leftover unique non-house Community Foundation endowment. Did not GET.
+- Not leftover unique Wenham Historical Association leftover unique **Investment income, net** / leftover unique **Annual appropriation of cumulative gains**. Did not GET.
+- Remint-class already shipped if independently GET this wake: The Art Institute of Chicago, Georgia Historical Society, Pellissippi State Community College Foundation, Ohio Northern University, Salve Regina University, San Francisco Conservatory of Music, Middle Tennessee State University Foundation, Austin Peay State University Foundation, University of Memphis Foundation, Morehouse College, The New School, Arizona State University Foundation, Emory University, Georgia Tech, Spelman College, College of Charleston Foundation, University of Minnesota Foundation, Macalester College, Hamline University, Concordia University St. Paul, Mitchell Hamline School of Law, Carleton College, St. Olaf College, Gustavus Adolphus College. Do not remint.
+
+## Short-slug reservations
+
+- Never mint `/mnhs/` or `/minnesota-historical/` or `/minnesota-history/` or `/minnesota-historical-society/` or `/st-paul/` or `/minnesota/`.
+- `/st-paul/` stays St. Paul Teachers.
+- `/minnesota/` stays reserved against leftover Minnesota SBI / leftover University of Minnesota Foundation.
+- `/mac/` stays Macalester.
+- `/umn/` `/gophers/` `/minnesota-foundation/` stay University of Minnesota Foundation.
+- `/concordia/` `/csp/` stay Concordia University St. Paul.
+- Never remint `/art-institute-of-chicago-endowment/`. Never mint `/artic/`.
+- Never remint `/georgia-historical-society-endowment/`. Never mint `/ghs/`.
+- Never remint `/university-of-minnesota-foundation/`. Never mint `/umn/`.
+- Never remint `/macalester-endowment/`. Never mint `/macalester/`.
+- Never remint `/hamline-endowment/`. Never mint `/hamline/`.
+- Never remint `/pellissippi-state-community-college-foundation/`. Never mint `/pellissippi/`.
+
+## Related flatten only
+
+Do not remint Waves 178–394 bodies. Related-only neighbors: Wave 223 University of Minnesota Foundation endowment (href only); Wave 208 Macalester College endowment (href only); Wave 212 Hamline University endowment (href only); Wave 239 Concordia University St. Paul endowment (href only); Wave 308 Mitchell Hamline School of Law endowment (href only); Wave 207 Carleton College endowment (href only); Wave 211 St. Olaf College endowment (href only). Do not remint leftover unique The Art Institute of Chicago except Related flatten if a true geographic neighbor — St. Paul is not Chicago. Do not remint leftover unique Georgia Historical Society except Related flatten if a true geographic neighbor — St. Paul is not Savannah. Do not flatten leftover unique Pellissippi State Community College Foundation.
+
+## Inventory / Ghost
+
+`seo-aeo/inventory/generate_priority_slugs.py`, `seo-aeo/inventory/priority-slugs.csv` (CRLF), `seo-aeo/inventory/keyword-board.csv` (LF, `drafted-wave-395`), `seo-aeo/tools/publish_to_ghost.py` (`"395"`), Wave 17 refresh table / Related / Sources, `seo-aeo/plan/11-next-human-actions.md`, and `seo-aeo/tracking/learning-log.md`.
+
+## Next wake
+
+If a leftover-unique official 2025 house filing independently GET **200** and independently locks three official facts, draft it as Wave 396. First leftovers: leftover unique official 2025 house **FASB** whose extract already shows **one** printed Investment return plus **one** labeled Appropriation. Then leftover unique non-seminary privates / leftover unique **OH / IL / WI / MN / IA / MO / VA / MD / CT / MA / RI** auditor or house-hosted 2025 FASB / leftover unique standalone CC Foundation packets with labeled Appropriation / leftover unique conservatory-arts / leftover unique TX-OK-AR-LA-MS-GA-SC private house FASB (skip Florida GASB SNP). Skip leftover unique Minnesota Historical Society remint. Skip leftover unique The Art Institute of Chicago remint. Skip leftover unique Georgia Historical Society remint. Skip leftover unique New England Historic Genealogical Society leftover **Spending policy transfer**. Skip leftover unique Boston Athenaeum leftover two named Appropriation lines. Skip leftover unique American Academy of Arts and Sciences leftover **Investment return designated for operations**. Skip leftover unique New England Conservatory leftover **Endowment income made available for operations**. Skip leftover unique Elms leftover two-named. Skip leftover unique WNE leftover two-named leftover **Distributions**. Skip leftover unique Bay Path leftover **Distributions**. Skip leftover unique Navarro leftover unique college **GASB**. Skip leftover unique Fox Valley leftover unique **GASB SNP**. Skip leftover unique Walters State 2025 / leftover unique Northeast State 2025. Skip leftover unique Detroit Historical Society leftover unique non-house Community Foundation endowment. Skip leftover unique Wenham Historical Association leftover unique **Investment income, net** / leftover unique **Annual appropriation of cumulative gains**. Leftover unique TN Comptroller only if a NEW leftover-unique Foundation FASB change table independently GET **200** and is not Pellissippi / MTSU / APSU / Memphis / Walters State / Northeast State / UTC `cu25076`. Confirm live listing hrefs before GET. Leftover unique FDP only if not IDs **5181–5860** and the filename is identified. Inventory-check first. Independently GET **200** before drafting. Do not remint Minnesota Historical Society. Do not remint The Art Institute of Chicago. Do not remint Georgia Historical Society. Do not remint Pellissippi State Community College Foundation. Do not remint Ohio Northern University. Do not remint Salve Regina University. Do not remint San Francisco Conservatory of Music. Do not remint Middle Tennessee State University Foundation. Do not remint Austin Peay State University Foundation. Do not remint University of Memphis Foundation. Do not remint Morehouse College. Do not remint The New School. Do not remint Arizona State University Foundation. Do not remint Emory. Do not remint Georgia Tech. Do not remint Spelman. Do not remint College of Charleston Foundation. Do not remint University of Minnesota Foundation. Do not remint Macalester College. Do not remint Hamline University. Do not remint Concordia University St. Paul. Do not remint Mitchell Hamline School of Law. Do not remint Carleton College. Do not remint St. Olaf College. Do not remint Waves 178–395 except Related flatten. Do not flatten leftover dollars. Do not invent leftover percents as a one-year return.

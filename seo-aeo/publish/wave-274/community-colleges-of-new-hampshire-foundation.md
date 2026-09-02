@@ -50,5 +50,6 @@ Do not 301 this page onto `/brookdale-community-college-foundation/`, `/wake-tec
 - [Gwinnett Tech Foundation endowment](/gwinnett-tech-foundation/)
 - [Kirkwood Community College Foundation endowment](/kirkwood-community-college-foundation/)
 - [Pima Community College Foundation endowment](/pima-community-college-foundation/)
+- [Squam Lakes Natural Science Center endowment](/squam-lakes-natural-science-center-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

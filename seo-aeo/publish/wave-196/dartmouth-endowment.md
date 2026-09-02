@@ -48,5 +48,6 @@ Do not 301 this page onto `/brown-endowment/`, `/cornell-endowment/`, `/dartmout
 - [Brown University endowment](/brown-endowment/)
 - [Tufts University endowment](/tufts-endowment/)
 - [Cornell University endowment](/cornell-endowment/)
+- [Squam Lakes Natural Science Center endowment](/squam-lakes-natural-science-center-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

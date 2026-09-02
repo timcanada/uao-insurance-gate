@@ -51,6 +51,7 @@ Do not 301 this page onto `/make-a-wish-ohio-kentucky-indiana-endowment/`, `/rut
 - [Rutgers endowment](/rutgers-endowment/)
 - [Stevens Institute of Technology endowment](/stevens-endowment/)
 - [Rider University endowment](/rider-university-endowment/)
+- [Grounds For Sculpture endowment](/grounds-for-sculpture-endowment/)
 - [New Jersey Division of Investment](/new-jersey-division-of-investment/)
 - [Make-A-Wish Massachusetts and Rhode Island endowment](/make-a-wish-massachusetts-rhode-island-endowment/)
 - [Make-A-Wish Alaska and Washington endowment](/make-a-wish-alaska-washington-endowment/)

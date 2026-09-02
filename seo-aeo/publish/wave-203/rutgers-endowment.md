@@ -48,6 +48,7 @@ Do not 301 this page onto `/penn-state-endowment/`, `/new-jersey-division-of-inv
 - [Stockton University Foundation endowment](/stockton-university-foundation/)
 - [Rider University endowment](/rider-university-endowment/)
 - [Make-A-Wish New Jersey endowment](/make-a-wish-new-jersey-endowment/)
+- [Grounds For Sculpture endowment](/grounds-for-sculpture-endowment/)
 - [NC State endowment](/nc-state-endowment/)
 - [Advertise](/advertise/)
 - [Editorial ethics](/ethics/)

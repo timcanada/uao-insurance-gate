@@ -758,6 +758,8 @@ def main() -> None:
         # never-mint Wave 511 twins: cincinnati-art-museum / cincinnati-art / cincinnati-museum-association / cincinnati-museum / cma / cam / cincyart / amsc / art-museum-support / eden-park / cincinnati-art-museum-endowment-explained. /cincinnati/ stays Wave 291. /artswave/ stays Wave 468. /xavier/ /xu/ stay Wave 225. /united-way/ /uwgc/ stay never-mint. /ohio/ stays leftover Ohio University Foundation.
         ("grounds-for-sculpture-endowment", "Grounds For Sculpture endowment", "Endowment", "needed"),
         # never-mint Wave 512 twins: grounds-for-sculpture / grounds-for / gfs / sculpture / seward-johnson / johnson-atelier / atelier / 60-sculptors-way / atlantic-foundation / grounds-for-sculpture-endowment-explained. /hamilton/ stays Hamilton College. /new-jersey/ /nj/ stay Make-A-Wish New Jersey never-mint. /rider/ stays Wave 267. /rutgers/ stays Wave 203. /mercer/ stays Wave 266. /princeton/ stays PRINCO / comparison.
+        ("new-york-foundation-for-the-arts-endowment", "New York Foundation for the Arts endowment", "Endowment", "needed"),
+        # never-mint Wave 513 twins: new-york-foundation-for-the-arts / nyfa / foundation-for-the-arts / new-york-foundation-for-the-arts-endowment-explained / artists-fund / mirlf. /new-york/ stays Wave 84 city.
     ("emory-endowment", "Emory University endowment", "Endowment", "needed"),
         ("carnegie-mellon-endowment", "Carnegie Mellon University endowment", "Endowment", "needed"),
         ("caltech-endowment", "Caltech endowment", "Endowment", "needed"),

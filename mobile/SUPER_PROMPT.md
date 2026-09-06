@@ -116,7 +116,7 @@ Rules of speech:
 ## Information architecture
 
 - **TERM** — CIO desk: Treasury 30-year (labelled, never invented), session ritual, sleeve map lit from desk copy, since-last-IC pack, watched names, then the cover brief and PD book.
-- **WIRE** — UAO + official prints + allocator scan. 30s tick. JUST IN < 30 minutes.
+- **WIRE** — UAO + official prints + allocator scan. Defaults to the TERM watchlist. Flows rail is owner-side labels on copy the desk already printed. 30s tick. JUST IN < 30 minutes. In-app “printed on your names since last open” — not a lock-screen push until a worker exists.
 - **LIVE** — members’ studio: watch live, just missed, recent YouTube, in-app Podbean audio for *The Universal Owner* and *The Probability Desk*.
 - **ROOM** — garden or chambers as above.
 - **BOOK** — jobs the desk verified (or honest empty), tracked houses, Talent Desk, diary, briefing request, who-moved, research reports.

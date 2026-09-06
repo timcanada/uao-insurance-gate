@@ -3,10 +3,11 @@ import { useEffect, useState } from 'react';
 import { Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
 import { useRouter } from 'expo-router';
 
-import { fetchWire } from '@/src/api/wire';
+import { fetchWire, type WireItem } from '@/src/api/wire';
 import { fetchPosts } from '@/src/api/ghost';
 import { PostCard, Screen } from '@/src/components/Ui';
 import { FILTERS } from '@/src/lib/classify';
+import { FLOW_LABEL, flowKind } from '@/src/lib/flows';
 import { canEnterHouse, getMember, seatLabel, seatStatus, type Member } from '@/src/lib/garden';
 import {
   DIARY,
@@ -25,6 +26,7 @@ export default function BookScreen() {
   const [people, setPeople] = useState<ClassifiedPost[]>([]);
   const [research, setResearch] = useState<ClassifiedPost[]>([]);
   const [signals, setSignals] = useState<string[]>([]);
+  const [flows, setFlows] = useState<WireItem[]>([]);
   const [ready, setReady] = useState(false);
 
   useEffect(() => {
@@ -38,6 +40,7 @@ export default function BookScreen() {
       setPeople(who.posts);
       setResearch(reports.posts);
       setSignals(wire.filter((item) => isHiringSignal(item.title)).slice(0, 6).map((item) => item.title));
+      setFlows(wire.filter((item) => flowKind(item.title, item.summary || '')).slice(0, 8));
       setReady(true);
     });
   }, []);
@@ -94,6 +97,32 @@ export default function BookScreen() {
             <Text style={styles.lede}>{board.line}</Text>
           </Pressable>
         ))}
+        <Text style={styles.kicker}>Owner-side flows</Text>
+        <Text style={styles.lede}>
+          The other side of MandateWire. Only what the desk or the official print already said —
+          searches, DC sleeves, private-markets pacing. We do not invent an RFP.
+        </Text>
+        {flows.length ? (
+          flows.map((item) => {
+            const kind = flowKind(item.title, item.summary || '');
+            return (
+              <Pressable
+                key={item.id}
+                onPress={() => {
+                  if (item.slug) router.push({ pathname: '/article/[slug]', params: { slug: item.slug } });
+                  else if (item.url) WebBrowser.openBrowserAsync(item.url);
+                }}
+                style={styles.card}>
+                <Text style={styles.kicker}>
+                  {kind ? FLOW_LABEL[kind] : 'Flow'} · {item.source}
+                </Text>
+                <Text style={styles.headline}>{item.title}</Text>
+              </Pressable>
+            );
+          })
+        ) : (
+          <Text style={styles.lede}>No owner-side flow on the wire this tick.</Text>
+        )}
         <Text style={styles.kicker}>Signals the desk reported</Text>
         {signals.map((title) => (
           <Text key={title} style={styles.headline}>

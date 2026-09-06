@@ -1,5 +1,7 @@
-import { BOOK_FEED_QUERY, isAllocatorGrade, nameHits } from '../lib/names';
+import { BOOK_FEED_QUERY, isAllocatorGrade } from '../lib/names';
 import { fetchPosts } from './ghost';
+
+export { itemNames } from '../lib/wire-desk';
 
 export type WireDesk = 'UAO' | 'OFFICIAL' | 'BOOK';
 
@@ -104,10 +106,6 @@ export async function fetchOfficialWire(): Promise<WireItem[]> {
 export async function fetchBookWire(): Promise<WireItem[]> {
   const items = await fromRss2Json('Allocator wire', 'BOOK', BOOK_FEED).catch(() => []);
   return items.filter(isAllocatorGrade);
-}
-
-export function itemNames(item: Pick<WireItem, 'title' | 'summary' | 'source'>): string[] {
-  return nameHits(`${item.title} ${item.summary || ''} ${item.source}`).map((name) => name.label);
 }
 
 export async function fetchWire(): Promise<WireItem[]> {

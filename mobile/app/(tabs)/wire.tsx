@@ -1,25 +1,49 @@
+import AsyncStorage from '@react-native-async-storage/async-storage';
 import * as WebBrowser from 'expo-web-browser';
 import { useCallback, useEffect, useState } from 'react';
 import { Pressable, RefreshControl, ScrollView, StyleSheet, Text, View } from 'react-native';
-
-import { fetchWire, isJustIn, itemNames, type WireDesk, type WireItem } from '@/src/api/wire';
-import { EmptyState, LoadingBlock, Screen } from '@/src/components/Ui';
-import { BOOK_NAMES } from '@/src/lib/names';
-import { colors, fonts } from '@/src/theme';
 import { useRouter } from 'expo-router';
 
-const FILTERS: { id: WireDesk | 'ALL'; label: string }[] = [
+import { fetchWire, isJustIn, type WireItem } from '@/src/api/wire';
+import { EmptyState, LoadingBlock, Screen } from '@/src/components/Ui';
+import { BOOK_NAMES } from '@/src/lib/names';
+import { normalizeWatch } from '@/src/lib/watch';
+import {
+  WIRE_OPENED_KEY,
+  hitsWatch,
+  itemFlowLabel,
+  itemNames,
+  parseLastOpen,
+  printedSinceOpen,
+  visibleWire,
+  type WireDeskFilter,
+  type WireNameFilter,
+} from '@/src/lib/wire-desk';
+import { colors, fonts } from '@/src/theme';
+
+const DESKS: { id: WireDeskFilter; label: string }[] = [
   { id: 'ALL', label: 'All' },
   { id: 'UAO', label: 'UAO desk' },
   { id: 'OFFICIAL', label: 'Official' },
   { id: 'BOOK', label: 'Allocators' },
+  { id: 'FLOWS', label: 'Flows' },
 ];
+
+function openItem(
+  item: WireItem,
+  router: ReturnType<typeof useRouter>,
+) {
+  if (item.slug) router.push({ pathname: '/article/[slug]', params: { slug: item.slug } });
+  else if (item.url) WebBrowser.openBrowserAsync(item.url);
+}
 
 export default function WireScreen() {
   const router = useRouter();
   const [items, setItems] = useState<WireItem[]>([]);
-  const [filter, setFilter] = useState<(typeof FILTERS)[number]['id']>('ALL');
-  const [name, setName] = useState('ALL');
+  const [filter, setFilter] = useState<WireDeskFilter>('ALL');
+  const [name, setName] = useState<WireNameFilter>('WATCH');
+  const [watch, setWatch] = useState<string[]>(() => normalizeWatch(null));
+  const [fresh, setFresh] = useState<WireItem[]>([]);
   const [loading, setLoading] = useState(true);
   const [tick, setTick] = useState('');
   const [error, setError] = useState<string | null>(null);
@@ -27,8 +51,12 @@ export default function WireScreen() {
   const load = useCallback(async (silent = false) => {
     if (!silent) setError(null);
     try {
+      const storedWatch = normalizeWatch(JSON.parse((await AsyncStorage.getItem('uao.watch')) || 'null'));
+      const lastOpen = parseLastOpen(await AsyncStorage.getItem(WIRE_OPENED_KEY));
       const next = await fetchWire();
+      setWatch(storedWatch);
       setItems(next);
+      setFresh(printedSinceOpen(next, storedWatch, lastOpen));
       setTick(
         new Date().toLocaleTimeString('en-US', {
           timeZone: 'America/New_York',
@@ -37,6 +65,9 @@ export default function WireScreen() {
           second: '2-digit',
         }) + ' ET',
       );
+      if (!silent) {
+        await AsyncStorage.setItem(WIRE_OPENED_KEY, String(Date.now()));
+      }
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Wire unreachable');
     } finally {
@@ -50,11 +81,9 @@ export default function WireScreen() {
     return () => clearInterval(id);
   }, [load]);
 
-  const visible = items.filter((item) => {
-    if (filter !== 'ALL' && item.desk !== filter) return false;
-    if (name === 'ALL') return true;
-    return itemNames(item).includes(name);
-  });
+  const visible = visibleWire(items, filter, name, watch);
+  const watched = BOOK_NAMES.filter((item) => watch.includes(item.id));
+  const rest = BOOK_NAMES.filter((item) => !watch.includes(item.id));
 
   return (
     <Screen>
@@ -66,12 +95,29 @@ export default function WireScreen() {
         <Text style={styles.kicker}>Streaming wire</Text>
         <Text style={styles.title}>What just moved the book.</Text>
         <Text style={styles.lede}>
-          The UAO desk, official prints that reprice the book, then a name-level allocator scan —
-          not a newspaper. Ticks every 30 seconds.
+          Defaults to the names you keep on TERM. Official prints, owner-side flows, then the
+          allocator scan — not a newspaper. Ticks every 30 seconds.
         </Text>
-        <Text style={styles.tick}>{tick ? `Last tick ${tick}` : 'Opening the wire…'}</Text>
+        <Text style={styles.tick}>
+          {tick
+            ? `Last tick ${tick} · ${visible.length} on this filter`
+            : 'Opening the wire…'}
+        </Text>
+
+        {fresh.length ? (
+          <View style={styles.fresh}>
+            <Text style={styles.kicker}>Printed on your names since last open</Text>
+            {fresh.slice(0, 4).map((item) => (
+              <Pressable key={item.id} onPress={() => openItem(item, router)} style={styles.freshRow}>
+                <Text style={styles.names}>{itemNames(item).join(' · ')}</Text>
+                <Text style={styles.freshTitle}>{item.title}</Text>
+              </Pressable>
+            ))}
+          </View>
+        ) : null}
+
         <View style={styles.row}>
-          {FILTERS.map((chip) => (
+          {DESKS.map((chip) => (
             <Pressable
               key={chip.id}
               onPress={() => setFilter(chip.id)}
@@ -83,15 +129,24 @@ export default function WireScreen() {
           ))}
         </View>
         <View style={styles.row}>
-          <Pressable onPress={() => setName('ALL')} style={[styles.chip, name === 'ALL' ? styles.chipOn : null]}>
+          <Pressable
+            onPress={() => setName('WATCH')}
+            style={[styles.chip, name === 'WATCH' ? styles.chipOn : null]}>
+            <Text style={[styles.chipLabel, name === 'WATCH' ? styles.chipLabelOn : null]}>
+              Your names
+            </Text>
+          </Pressable>
+          <Pressable
+            onPress={() => setName('ALL')}
+            style={[styles.chip, name === 'ALL' ? styles.chipOn : null]}>
             <Text style={[styles.chipLabel, name === 'ALL' ? styles.chipLabelOn : null]}>All names</Text>
           </Pressable>
-          {BOOK_NAMES.slice(0, 10).map((item) => (
+          {[...watched, ...rest].map((item) => (
             <Pressable
               key={item.id}
-              onPress={() => setName(item.label)}
-              style={[styles.chip, name === item.label ? styles.chipOn : null]}>
-              <Text style={[styles.chipLabel, name === item.label ? styles.chipLabelOn : null]}>
+              onPress={() => setName(item.id)}
+              style={[styles.chip, name === item.id ? styles.chipOn : null]}>
+              <Text style={[styles.chipLabel, name === item.id ? styles.chipLabelOn : null]}>
                 {item.label}
               </Text>
             </Pressable>
@@ -99,25 +154,36 @@ export default function WireScreen() {
         </View>
         {loading ? <LoadingBlock /> : null}
         {error && !items.length ? <EmptyState title="Wire is quiet" body={error} onRetry={load} /> : null}
-        {visible.map((item) => (
-          <Pressable
-            key={item.id}
-            onPress={() => {
-              if (item.slug) router.push({ pathname: '/article/[slug]', params: { slug: item.slug } });
-              else if (item.url) WebBrowser.openBrowserAsync(item.url);
-            }}
-            style={styles.item}>
-            <View style={styles.metaRow}>
-              <Text style={styles.source}>{item.source}</Text>
-              {isJustIn(item.publishedAt) ? <Text style={styles.just}>JUST IN</Text> : null}
-            </View>
-            <Text style={styles.headline}>{item.title}</Text>
-            {itemNames(item).length ? (
-              <Text style={styles.names}>{itemNames(item).join(' · ')}</Text>
-            ) : null}
-            {item.summary ? <Text style={styles.summary}>{item.summary}</Text> : null}
-          </Pressable>
-        ))}
+        {!loading && !visible.length && items.length ? (
+          <EmptyState
+            title="No print on that filter"
+            body="The wire is quiet on your names this tick. That is a fact, not an empty state we invented."
+            onRetry={() => setName('ALL')}
+          />
+        ) : null}
+        {visible.map((item) => {
+          const names = itemNames(item);
+          const flow = itemFlowLabel(item);
+          const mine = hitsWatch(item, watch);
+          return (
+            <Pressable key={item.id} onPress={() => openItem(item, router)} style={styles.item}>
+              <View style={styles.metaRow}>
+                <Text style={styles.source}>
+                  {flow ? `${flow} · ${item.source}` : item.source}
+                </Text>
+                {isJustIn(item.publishedAt) ? <Text style={styles.just}>JUST IN</Text> : null}
+              </View>
+              <Text style={styles.headline}>{item.title}</Text>
+              {names.length ? (
+                <Text style={styles.names}>
+                  {mine ? 'On your book · ' : ''}
+                  {names.join(' · ')}
+                </Text>
+              ) : null}
+              {item.summary ? <Text style={styles.summary}>{item.summary}</Text> : null}
+            </Pressable>
+          );
+        })}
       </ScrollView>
     </Screen>
   );
@@ -129,6 +195,17 @@ const styles = StyleSheet.create({
   title: { color: colors.text, fontFamily: fonts.serif, fontSize: 28, lineHeight: 34, fontWeight: '700', marginTop: 6 },
   lede: { color: colors.muted, fontFamily: fonts.serif, fontSize: 15, lineHeight: 22, marginTop: 8 },
   tick: { color: colors.gold2, fontSize: 11, marginTop: 8, marginBottom: 12 },
+  fresh: {
+    borderColor: colors.gold,
+    borderWidth: 1,
+    borderRadius: 12,
+    padding: 12,
+    backgroundColor: colors.panel,
+    marginBottom: 14,
+    gap: 8,
+  },
+  freshRow: { gap: 2, paddingVertical: 6, borderBottomColor: colors.line, borderBottomWidth: 1 },
+  freshTitle: { color: colors.text, fontFamily: fonts.serif, fontSize: 16, lineHeight: 22 },
   row: { flexDirection: 'row', flexWrap: 'wrap', gap: 8, marginBottom: 12 },
   chip: { borderColor: colors.line, borderWidth: 1, borderRadius: 999, paddingHorizontal: 10, paddingVertical: 6 },
   chipOn: { backgroundColor: colors.gold, borderColor: colors.gold },

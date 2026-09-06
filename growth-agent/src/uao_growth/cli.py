@@ -6,6 +6,7 @@ import sys
 from pathlib import Path
 
 from uao_growth.config import Settings, load_settings
+from uao_growth.daily_status import collect_status, render_email
 from uao_growth.export.csv_export import write_report
 from uao_growth.http import HttpClient
 from uao_growth.learning import apply_feedback
@@ -53,6 +54,16 @@ def cmd_status(settings: Settings, store: Store) -> int:
     return 0
 
 
+def cmd_daily_status(settings: Settings, store: Store, fmt: str) -> int:
+    payload = collect_status(settings, store)
+    if fmt == "email":
+        to, subject, body = render_email(payload)
+        print(json.dumps({"to": to, "subject": subject, "body": body}, indent=2))
+        return 0
+    print(json.dumps(payload, indent=2, default=str))
+    return 0
+
+
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(
         description="UAO senior-audience research agent. Current members are never sourced or exported."
@@ -90,6 +101,12 @@ def main(argv: list[str] | None = None) -> int:
     p_learn.add_argument("csv_path")
 
     sub.add_parser("report", help="Write a standalone HTML report from the current store")
+
+    p_daily = sub.add_parser(
+        "daily-status",
+        help="PII-free progress snapshot for the daily email to Tim",
+    )
+    p_daily.add_argument("--format", dest="daily_format", choices=("json", "email"), default="email")
 
     args = parser.parse_args(argv)
     settings = load_settings(Path(args.root) if args.root else None)
@@ -143,6 +160,8 @@ def main(argv: list[str] | None = None) -> int:
             write_report(store, path, {"command": "report"})
             print(json.dumps({"report": str(path)}))
             return 0
+        if args.cmd == "daily-status":
+            return cmd_daily_status(settings, store, args.daily_format)
         return 1
     finally:
         store.close()

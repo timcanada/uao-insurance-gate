@@ -61,6 +61,7 @@ Target pace is 10,000 **new non-member prospects per week**. Apollo credits are 
 
 ```bash
 PYTHONPATH=src python3 -m uao_growth status
+PYTHONPATH=src python3 -m uao_growth daily-status --format email
 PYTHONPATH=src python3 -m uao_growth discover --sources seeds,wikidata
 PYTHONPATH=src python3 -m uao_growth enrich --limit 200
 PYTHONPATH=src python3 -m uao_growth validate --limit 500
@@ -69,6 +70,16 @@ PYTHONPATH=src python3 -m uao_growth report
 ```
 
 Feedback CSV columns: `email,outcome` where outcome is `subscribed`, `opened`, `clicked`, `bounced`, `unsubscribed`, `ignored`, or `junior`.
+
+## Daily progress email
+
+`daily-status` writes a PII-free snapshot for Tim (`tim@herofund.ca`). It never includes member emails, names, or the prospect CSV.
+
+```bash
+PYTHONPATH=src python3 -m uao_growth daily-status --format email
+```
+
+The Cloud Agent sends that body each day at 14:00 UTC. Last completed public-only counts live in `data/progress_snapshot.json` so an empty VM still has an honest baseline.
 
 ## Tests
 

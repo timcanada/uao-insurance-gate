@@ -1,0 +1,29 @@
+{
+  "as_of": "2026-08-28",
+  "note": "Last completed public-only weekly on a prior Cloud Agent environment. Counts are operational, not a people export.",
+  "ghost_members_imported": 57885,
+  "ghost_subscribed_to_emails": 55165,
+  "ghost_named": 57816,
+  "organizations": 11160,
+  "people_not_suppressed": 39713,
+  "named_not_on_ghost": 470,
+  "empty_senior_seats": 39243,
+  "suppressed_as_members": 96,
+  "work_emails_on_new_people": 0,
+  "org_mix": {
+    "private_equity": 5046,
+    "asset_manager": 4539,
+    "family_office": 536,
+    "insurer": 424,
+    "swf": 332,
+    "pension": 217
+  },
+  "blocked_on": [
+    "APOLLO_API_KEY",
+    "NEVERBOUNCE_API_KEY"
+  ],
+  "policy": {
+    "auto_subscribe_ghost": false,
+    "consent_status": "prospect_not_subscribed"
+  }
+}

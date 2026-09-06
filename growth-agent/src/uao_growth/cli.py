@@ -13,6 +13,7 @@ from uao_growth.learning import apply_feedback
 from uao_growth.pipeline import (
     discover,
     enrich,
+    import_inventory_csv,
     ingest_ghost,
     ingest_members,
     mark_exportable,
@@ -77,6 +78,9 @@ def main(argv: list[str] | None = None) -> int:
     p_imp = sub.add_parser("import-members", help="Load a Ghost/CSV member export into the exclusion list")
     p_imp.add_argument("csv_path", nargs="?", help="Defaults to private/members.csv")
 
+    p_inv = sub.add_parser("import-inventory", help="Reload a previous public-only people/seats CSV")
+    p_inv.add_argument("csv_path")
+
     sub.add_parser("pull-ghost-members", help="Pull members from Ghost Admin API into the exclusion list")
 
     p_disc = sub.add_parser("discover", help="Find institutions and named senior roles from public records")
@@ -121,6 +125,9 @@ def main(argv: list[str] | None = None) -> int:
         if args.cmd == "import-members":
             path = Path(args.csv_path) if args.csv_path else None
             print(json.dumps(ingest_members(settings, store, path), indent=2))
+            return 0
+        if args.cmd == "import-inventory":
+            print(json.dumps(import_inventory_csv(store, Path(args.csv_path)), indent=2))
             return 0
         if args.cmd == "pull-ghost-members":
             print(json.dumps(ingest_ghost(settings, store, http), indent=2))

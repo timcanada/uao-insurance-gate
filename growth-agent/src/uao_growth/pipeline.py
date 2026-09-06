@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import csv
 import json
 from pathlib import Path
 from typing import Any
@@ -22,7 +23,18 @@ from uao_growth.normalize import (
     linkedin_key,
     normalize_email,
     normalize_name,
+    normalize_org,
     person_org_key,
+)
+
+PRIORITY_ORG_TYPES = (
+    "swf",
+    "pension",
+    "family_office",
+    "endowment",
+    "government",
+    "accounting",
+    "insurer",
 )
 from uao_growth.scoring import score_person
 from uao_growth.sources.registry import SOURCE_NAMES, run_sources
@@ -171,65 +183,193 @@ def discover(settings: Settings, store: Store, http: HttpClient, sources: list[s
     }
 
 
+def _row_domain(row: Any) -> str | None:
+    extra = row["extra_json"] if row["extra_json"] else None
+    if not extra:
+        return None
+    parsed = json.loads(extra) if isinstance(extra, str) else extra
+    domain = (parsed or {}).get("domain")
+    return domain or None
+
+
+def _apply_apollo_person(
+    store: Store,
+    index: SuppressionIndex,
+    raw: dict[str, Any],
+    row: Any,
+    min_seniority: int,
+) -> str:
+    person = _prepare_person(
+        {**raw, "org_type": row["org_type"], "org_key": row["org_key"], "org_name": raw.get("org_name") or row["org_name"]},
+        row["org_id"],
+        min_seniority,
+    )
+    match = index.match(person)
+    if match:
+        person["status"] = "suppressed"
+        person["member_match"] = match
+        outcome = "blocked"
+    elif person["seniority"] < min_seniority:
+        return "rejected"
+    else:
+        person["status"] = "exportable" if person.get("email") else "enriched"
+        outcome = "kept"
+    existing = _existing_person(store, person)
+    if existing:
+        store.update_person(existing, **{k: v for k, v in person.items() if k != "source"})
+    else:
+        store.insert_person(person)
+    return outcome
+
+
 def enrich(settings: Settings, store: Store, http: HttpClient, limit: int = 200) -> dict[str, int]:
     if not settings.apollo_api_key:
         return {"enriched": 0, "skipped_no_key": 1}
     apollo = ApolloClient(http, settings.apollo_api_key)
     index = SuppressionIndex(store)
-    rows = store.fetchall(
+    named_limit = min(limit, 500)
+    named = store.fetchall(
         """
         SELECT * FROM people
-        WHERE status IN ('role_target', 'discovered')
+        WHERE name IS NOT NULL AND name != ''
+          AND (email IS NULL OR email = '')
+          AND status NOT IN ('suppressed', 'below_bar', 'invalid_email')
           AND (member_match IS NULL OR member_match = '')
         ORDER BY seniority DESC, id ASC
         LIMIT ?
         """,
-        (limit,),
+        (named_limit,),
+    )
+    matched = 0
+    named_blocked = 0
+    named_failed = 0
+    for row in named:
+        try:
+            found = apollo.match(
+                name=row["name"] or "",
+                organization_name=row["org_name"] or "",
+                domain=_row_domain(row) or "",
+                reveal_personal_emails=False,
+                reveal_phone_number=False,
+            )
+        except Exception:
+            named_failed += 1
+            continue
+        if not found:
+            named_failed += 1
+            continue
+        outcome = _apply_apollo_person(store, index, found, row, settings.min_seniority_score)
+        if outcome == "blocked":
+            named_blocked += 1
+        elif outcome == "kept":
+            matched += 1
+            if row["status"] in {"role_target", "discovered", "exportable", "enriched"}:
+                store.update_person(int(row["id"]), status="enriched_slot")
+
+    seat_limit = max(0, limit - len(named))
+    placeholders = ",".join("?" for _ in PRIORITY_ORG_TYPES)
+    seats = store.fetchall(
+        f"""
+        SELECT * FROM people
+        WHERE status IN ('role_target', 'discovered')
+          AND (member_match IS NULL OR member_match = '')
+          AND org_type IN ({placeholders})
+        ORDER BY seniority DESC, id ASC
+        LIMIT ?
+        """,
+        (*PRIORITY_ORG_TYPES, seat_limit),
     )
     created = 0
     updated = 0
     blocked = 0
-    for row in rows:
-        domain = None
-        extra = row["extra_json"]
-        if extra:
-            parsed = json.loads(extra) if isinstance(extra, str) else extra
-            domain = (parsed or {}).get("domain")
+    for row in seats:
         titles = [row["title"]] if row["title"] else default_titles(row["org_type"])
         try:
             found = apollo.search_org(
                 row["org_name"] or "",
                 titles=titles,
-                domain=domain,
+                domain=_row_domain(row),
                 org_type=row["org_type"],
             )
         except Exception:
             continue
         for raw in found:
-            person = _prepare_person(
-                {**raw, "org_type": row["org_type"], "org_key": row["org_key"]},
-                row["org_id"],
-                settings.min_seniority_score,
-            )
-            match = index.match(person)
-            if match:
-                person["status"] = "suppressed"
-                person["member_match"] = match
+            outcome = _apply_apollo_person(store, index, raw, row, settings.min_seniority_score)
+            if outcome == "blocked":
                 blocked += 1
-            elif person["seniority"] < settings.min_seniority_score:
-                continue
-            else:
-                person["status"] = "exportable" if person.get("email") else "enriched"
-            existing = _existing_person(store, person)
-            if existing:
-                store.update_person(existing, **{k: v for k, v in person.items() if k != "source"})
-                updated += 1
-            else:
-                store.insert_person(person)
+            elif outcome == "kept":
                 created += 1
         if row["status"] == "role_target":
             store.update_person(int(row["id"]), status="enriched_slot")
-    return {"created": created, "updated": updated, "blocked_members": blocked, "slots": len(rows)}
+    return {
+        "named_matched": matched,
+        "named_blocked_members": named_blocked,
+        "named_unmatched": named_failed,
+        "named_attempted": len(named),
+        "created": created,
+        "updated": updated,
+        "blocked_members": blocked,
+        "slots": len(seats),
+    }
+
+
+def import_inventory_csv(store: Store, path: Path) -> dict[str, int]:
+    """Reload a previous public-only export into the store. Does not invent emails."""
+    inserted = 0
+    skipped = 0
+    orgs = 0
+    with path.open(newline="", encoding="utf-8-sig") as handle:
+        reader = csv.DictReader(handle)
+        for raw in reader:
+            org_name = (raw.get("organization") or raw.get("org_name") or "").strip()
+            name = (raw.get("name") or "").strip() or None
+            title = (raw.get("title") or "").strip() or None
+            source = (raw.get("source") or "inventory").strip()
+            org_type = (raw.get("org_type") or "").strip() or None
+            if not org_name and not name:
+                skipped += 1
+                continue
+            org_key = normalize_org(org_name) if org_name else ""
+            org_id = None
+            if org_key:
+                org_id = store.upsert_org(
+                    {
+                        "name": org_name,
+                        "org_key": org_key,
+                        "org_type": org_type,
+                        "country": (raw.get("country") or "").strip() or None,
+                        "source": source,
+                    }
+                )
+                orgs += 1
+            person = {
+                "name": name,
+                "name_key": normalize_name(name) if name else None,
+                "title": title,
+                "seniority": int(raw["seniority"]) if raw.get("seniority") else 0,
+                "seniority_tier": (raw.get("tier") or raw.get("seniority_tier") or "").strip() or None,
+                "fit_score": int(raw["fit_score"]) if raw.get("fit_score") else 0,
+                "org_id": org_id,
+                "org_name": org_name or None,
+                "org_type": org_type,
+                "org_key": org_key or None,
+                "person_org_key": person_org_key(name, org_name) if name else None,
+                "country": (raw.get("country") or "").strip() or None,
+                "email": normalize_email(raw.get("email")) or None,
+                "email_hash": email_hash(raw.get("email")) if raw.get("email") else None,
+                "email_status": (raw.get("email_status") or "").strip() or None,
+                "linkedin_url": (raw.get("linkedin_url") or "").strip() or None,
+                "linkedin_key": linkedin_key(raw.get("linkedin_url")),
+                "source": source,
+                "status": (raw.get("status") or ("exportable" if name else "role_target")),
+            }
+            if _existing_person(store, person):
+                skipped += 1
+                continue
+            store.insert_person(person)
+            inserted += 1
+    blocked = apply_suppression(store)
+    return {"inserted": inserted, "skipped": skipped, "org_upserts": orgs, "suppressed": blocked}
 
 
 def validate_emails(settings: Settings, store: Store, http: HttpClient, limit: int = 500) -> dict[str, int]:

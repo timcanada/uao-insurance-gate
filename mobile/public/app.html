@@ -846,6 +846,22 @@
       eligible.forEach((item) => { if (out.length < (limit || 12)) take(item); });
       return out.slice(0, limit || 12);
     }
+    function assembleCash(seeds, nowMs, days, limit) {
+      const horizon = (days || 7) * 86400000;
+      const now = nowMs || Date.now();
+      const seen = new Set();
+      return seeds.filter((item) => {
+        const kind = flowKind(item.title, item.summary);
+        if (kind !== 'Pacing' && kind !== 'Private markets') return false;
+        const t = Date.parse(item.publishedAt || '');
+        if (Number.isNaN(t) || t > now + 3600000 || now - t > horizon) return false;
+        const key = (item.slug || item.url || item.title || '').toLowerCase();
+        if (!key || seen.has(key)) return false;
+        seen.add(key);
+        item.cashLabel = kind;
+        return true;
+      }).sort((a, b) => (Date.parse(b.publishedAt) || 0) - (Date.parse(a.publishedAt) || 0)).slice(0, limit || 6);
+    }
     function parseCurve(text) {
       const rows = [];
       String(text || '').replace(/<[^>]+>/g, ' ').replace(/\|/g, ' ').split(/\n+/).forEach((line) => {
@@ -1201,6 +1217,10 @@
             const titles = sleeveItems.filter((item) => sleeveHit((item.title || '') + ' ' + (item.summary || ''), needles)).map((item) => item.title);
             return { id, label, lit: titles.length > 0, titles };
           });
+          const cash = assembleCash([
+            ...publicLatest.map((p) => ({ id: p.id, title: p.title, summary: excerpt(p), publishedAt: p.published_at, slug: p.slug, source: kicker(p) })),
+            ...wireCache.map((item) => ({ id: item.id, title: item.title, summary: item.summary, publishedAt: item.publishedAt, slug: item.slug, url: item.url, source: item.source })),
+          ]);
           const watch = getWatch();
           const nameHitsFor = (id) => {
             const row = BOOK_NAMES.find((n) => n[0] === id);
@@ -1265,6 +1285,13 @@
                 <span class="note">${hit ? fmt(hit.published_at || hit.publishedAt) : 'Watch stays on. The wire will light it.'}</span>
               </article>`;
             }).join('')}
+            <div class="kicker">Cash this week</div>
+            <p class="lede">Cash the desk already printed — calls, tenders, distributions, pacing. Not your statements. Addepar already holds those.</p>
+            ${cash.map((item) => `<article class="ic-item" data-${item.slug ? 'slug' : 'url'}="${esc(item.slug || item.url || '')}">
+              <div class="kicker">${esc(item.cashLabel || 'Cash')}</div>
+              <h2>${esc(item.title)}</h2>
+              <span class="note">${esc(item.source || '')} · ${fmt(item.publishedAt)}</span>
+            </article>`).join('') || '<p class="lede">No call, tender or distribution on the desk this week.</p>'}
             <div class="seg">
               <button data-go="briefs">Read</button>
               <button data-go="watchv">Watch</button>

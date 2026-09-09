@@ -54,7 +54,7 @@ Academic work on what funds actually read (Ben-Rephael, Da, Israelsen and follow
 
 **Proof:** Addepar Alts Data Management; every FO ops note in the last two years.
 
-**Build:** “Cash this week” on TERM. Public deals only. Watchlist can pin a fund.
+**Status:** TERM shows cash the desk already printed this week (calls, tenders, distributions, pacing). Honest empty when the copy is quiet. Not the investor’s own statements.
 
 ## 7. Probability Desk as a live book, not a PDF
 

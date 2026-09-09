@@ -1,6 +1,7 @@
 import assert from 'node:assert/strict';
 import { describe, it } from 'node:test';
 
+import { assembleCash, isCashCopy } from '../src/lib/cash.ts';
 import { flowKind } from '../src/lib/flows.ts';
 import { assemblePack, defaultLastIc, isPublicDeskCopy, parseLastIc, publishedOnOrAfter } from '../src/lib/ic.ts';
 import {
@@ -182,5 +183,38 @@ describe('owner-side flows', () => {
     assert.equal(flowKind('KIC reopens CIO hunt after one finalist joins rival fund'), 'appointment');
     assert.equal(flowKind('38% of $15.6bn. The private-markets exit is rationed.'), 'private-markets');
     assert.equal(flowKind('A fund that is 35.8% cash'), null);
+  });
+});
+
+describe('cash this week', () => {
+  it('keeps desk-reported pacing and drops a newspaper', () => {
+    assert.equal(isCashCopy('Blue Owl tender: the private-markets exit is rationed'), true);
+    assert.equal(isCashCopy('KIC reopens CIO hunt'), false);
+    const now = Date.parse('2026-09-09T12:00:00.000Z');
+    const cash = assembleCash(
+      [
+        {
+          id: 'old',
+          title: 'A vintage that closed last year',
+          publishedAt: '2026-01-01T12:00:00.000Z',
+        },
+        {
+          id: 'tender',
+          title: 'Blue Owl tender: the private-markets exit is rationed',
+          publishedAt: '2026-09-06T12:00:00.000Z',
+          slug: 'tender',
+        },
+        {
+          id: 'cio',
+          title: 'KIC reopens CIO hunt',
+          publishedAt: '2026-09-08T12:00:00.000Z',
+        },
+      ],
+      now,
+      7,
+      6,
+    );
+    assert.deepEqual(cash.map((item) => item.id), ['tender']);
+    assert.equal(cash[0].kind, 'pacing');
   });
 });

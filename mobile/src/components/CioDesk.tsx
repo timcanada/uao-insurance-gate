@@ -1,5 +1,6 @@
 import { Pressable, StyleSheet, Text, TextInput, View } from 'react-native';
 
+import { CASH_COPY, type CashItem } from '@/src/lib/cash';
 import { formatBp, type ThirtyYearPrint } from '@/src/lib/rates';
 import type { PackItem } from '@/src/lib/ic';
 import type { DeskSession } from '@/src/lib/session';
@@ -139,6 +140,31 @@ export function WatchBook({
           <Text style={styles.rowTitle}>{hit.title}</Text>
         </Pressable>
       ))}
+    </View>
+  );
+}
+
+export function CashRail({
+  items,
+  onOpen,
+}: {
+  items: CashItem[];
+  onOpen: (item: CashItem) => void;
+}) {
+  return (
+    <View>
+      <Text style={styles.kicker}>Cash this week</Text>
+      <Text style={styles.note}>{CASH_COPY}</Text>
+      {items.length ? (
+        items.map((item) => (
+          <Pressable key={item.id} onPress={() => onOpen(item)} style={styles.row}>
+            <Text style={styles.kicker}>{item.label}</Text>
+            <Text style={styles.rowTitle}>{item.title}</Text>
+          </Pressable>
+        ))
+      ) : (
+        <Text style={styles.note}>No call, tender or distribution on the desk this week.</Text>
+      )}
     </View>
   );
 }

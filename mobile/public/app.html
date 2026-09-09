@@ -408,6 +408,15 @@
     .local-note { color: var(--muted); font: 12px/1.4 system-ui; margin: 8px 0 0; }
     .warn { color: var(--gold2); font: 13px/1.4 Georgia, serif; }
     .name-tag { color: var(--gold2); font: 700 10px/1.3 system-ui; letter-spacing: .08em; text-transform: uppercase; }
+    .fresh {
+      border: 1px solid var(--gold);
+      border-radius: 12px;
+      padding: 12px;
+      background: #081422;
+      margin: 0 0 14px;
+    }
+    .fresh .fresh-row { border-bottom: 1px solid var(--line); padding: 8px 0; cursor: pointer; }
+    .fresh .fresh-row:last-child { border-bottom: 0; }
     .player { width: 100%; margin-top: 8px; }
     .studio { padding: 0; overflow: hidden; cursor: pointer; }
     .studio img { width: 100%; height: 160px; object-fit: cover; display: block; background: #081422; }
@@ -686,6 +695,13 @@
     }
     function itemNames(item) {
       return nameHits((item.title || '') + ' ' + (item.summary || '') + ' ' + (item.source || '')).map((row) => row[1]);
+    }
+    function itemNameIds(item) {
+      return nameHits((item.title || '') + ' ' + (item.summary || '') + ' ' + (item.source || '')).map((row) => row[0]);
+    }
+    function hitsWatch(item, ids) {
+      const have = new Set(ids && ids.length ? ids : getWatch());
+      return itemNameIds(item).some((id) => have.has(id));
     }
     function isAllocatorGrade(item) {
       const blob = (item.title || '') + ' ' + (item.summary || '') + ' ' + (item.source || '');
@@ -1046,8 +1062,18 @@
     const BOOK_URL = 'https://news.google.com/rss/search?q=' + encodeURIComponent('CalPERS OR "CPP Investments" OR NBIM OR "Norges Bank" OR Temasek OR "Ontario Teachers" OR ADIA OR "Korea Investment" OR "sovereign wealth fund" OR "pension CIO"') + '&hl=en-US&gl=US&ceid=US:en';
     let wireCache = [];
     let wireFilter = 'ALL';
-    let wireName = 'ALL';
+    let wireName = 'MY';
     let wireTick = '';
+    let wireVisitStarted = 0;
+    let wireLastOpen = null;
+    function beginWireVisit() {
+      if (wireVisitStarted) return;
+      wireVisitStarted = Date.now();
+      const raw = localStorage.getItem('uao.wireOpenedAt');
+      const n = Number(raw);
+      wireLastOpen = Number.isFinite(n) && n > 0 ? n : null;
+      localStorage.setItem('uao.wireOpenedAt', String(wireVisitStarted));
+    }
     function justIn(iso) {
       const t = Date.parse(iso || '');
       return !Number.isNaN(t) && Date.now() - t < 30 * 60 * 1000;
@@ -1094,32 +1120,47 @@
     function paintWireList() {
       const list = $('wireList');
       if (!list) return;
+      beginWireVisit();
+      const watch = getWatch();
       const rows = wireCache.filter((item) => {
-        if (wireFilter !== 'ALL' && item.desk !== wireFilter) return false;
+        if (wireFilter === 'FLOWS') {
+          if (!flowKind(item.title, item.summary)) return false;
+        } else if (wireFilter !== 'ALL' && item.desk !== wireFilter) return false;
         if (wireName === 'ALL') return true;
-        if (wireName === 'MY') {
-          const labels = BOOK_NAMES.filter((row) => getWatch().includes(row[0])).map((row) => row[1]);
-          return itemNames(item).some((name) => labels.includes(name));
-        }
-        return itemNames(item).includes(wireName);
+        if (wireName === 'MY') return hitsWatch(item, watch);
+        return itemNameIds(item).includes(wireName);
       });
-      $('wireTick').textContent = wireTick ? 'Last tick ' + wireTick + ' · name-level' : 'Opening the wire…';
-      list.innerHTML = rows.map((item) => {
+      const fresh = wireCache.filter((item) => {
+        if (!hitsWatch(item, watch) || !wireLastOpen) return false;
+        const t = Date.parse(item.publishedAt || '');
+        return !Number.isNaN(t) && t > wireLastOpen;
+      }).slice(0, 4);
+      const tickEl = $('wireTick');
+      if (tickEl) tickEl.textContent = wireTick ? 'Last tick ' + wireTick + ' · ' + rows.length + ' on this filter' : 'Opening the wire…';
+      const freshHtml = fresh.length ? `<div class="fresh"><div class="kicker">Printed on your names since last open</div>${fresh.map((item) => {
+        const key = item.slug ? 'slug' : 'url';
+        const val = item.slug || item.url || '';
+        return `<div class="fresh-row" data-${key}="${esc(val)}"><div class="name-tag">${esc(itemNames(item).join(' · '))}</div><h2>${esc(item.title)}</h2></div>`;
+      }).join('')}</div>` : '';
+      list.innerHTML = freshHtml + (rows.map((item) => {
         const names = itemNames(item);
+        const flow = flowKind(item.title, item.summary);
+        const mine = hitsWatch(item, watch);
         const key = item.slug ? 'slug' : 'url';
         const val = item.slug || item.url || '';
         return `<article class="wire-item" data-${key}="${esc(val)}">
-        <div class="src">${esc(item.source)}${justIn(item.publishedAt) ? '<span class="just">JUST IN</span>' : ''}</div>
+        <div class="src">${esc(flow ? flow + ' · ' + item.source : item.source)}${justIn(item.publishedAt) ? '<span class="just">JUST IN</span>' : ''}</div>
         <h2>${esc(item.title)}</h2>
-        ${names.length ? `<div class="name-tag">${esc(names.join(' · '))}</div>` : ''}
+        ${names.length ? `<div class="name-tag">${mine ? 'On your book · ' : ''}${esc(names.join(' · '))}</div>` : ''}
         ${item.summary ? `<p class="lede">${esc(item.summary)}</p>` : ''}
       </article>`;
-      }).join('') || '<div class="empty">No print on that name.</div>';
+      }).join('') || '<div class="empty">No print on that filter. The wire is quiet on your names this tick.</div>');
       list.querySelectorAll('[data-slug]').forEach((el) => el.onclick = () => openPost(el.dataset.slug));
       list.querySelectorAll('[data-url]').forEach((el) => el.onclick = () => { window.open(el.dataset.url, '_blank', 'noopener'); });
     }
     async function render(next) {
       tab = next === 'listen' && canEnterHouse(member()) ? 'live' : next;
+      if (tab !== 'wire') wireVisitStarted = 0;
       document.querySelectorAll('nav.tabs button').forEach((b) => b.classList.toggle('on', b.dataset.tab === tab));
       $('main').innerHTML = '<div class="empty">Refreshing the book…</div>';
       try {
@@ -1531,18 +1572,19 @@
           $('main').innerHTML = `<div class="pad">
             <div class="kicker">Streaming wire</div>
             <h1>What just moved the book.</h1>
-            <p class="lede">The UAO desk, official prints that reprice it, then a name-level allocator scan — not a newspaper. Ticks while this page is open.</p>
+            <p class="lede">Defaults to the names you keep on TERM. Official prints, owner-side flows, then the allocator scan — not a newspaper. Ticks while this page is open.</p>
             <p class="tickline" id="wireTick"></p>
             <div class="seg">
-              <button data-wf="ALL" class="on">All</button>
-              <button data-wf="UAO">UAO desk</button>
-              <button data-wf="OFFICIAL">Official</button>
-              <button data-wf="BOOK">Allocators</button>
+              <button data-wf="ALL" class="${wireFilter==='ALL'?'on':''}">All</button>
+              <button data-wf="UAO" class="${wireFilter==='UAO'?'on':''}">UAO desk</button>
+              <button data-wf="OFFICIAL" class="${wireFilter==='OFFICIAL'?'on':''}">Official</button>
+              <button data-wf="BOOK" class="${wireFilter==='BOOK'?'on':''}">Allocators</button>
+              <button data-wf="FLOWS" class="${wireFilter==='FLOWS'?'on':''}">Flows</button>
             </div>
             <div class="seg" id="wireNames">
-              <button data-wn="ALL" class="on">All names</button>
-              <button data-wn="MY">My names</button>
-              ${BOOK_NAMES.slice(0,10).map((row) => `<button data-wn="${row[1]}">${row[1]}</button>`).join('')}
+              <button data-wn="MY" class="${wireName==='MY'?'on':''}">Your names</button>
+              <button data-wn="ALL" class="${wireName==='ALL'?'on':''}">All names</button>
+              ${BOOK_NAMES.map((row) => `<button data-wn="${row[0]}" class="${wireName===row[0]?'on':''}">${row[1]}</button>`).join('')}
             </div>
             <div id="wireList"></div>
           </div>`;

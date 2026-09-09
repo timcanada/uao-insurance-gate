@@ -30,7 +30,9 @@ Subscribe uses the same Ghost member portal as the website (`/#/portal/signup`).
 
 To preview the brief popup without waiting for the next send, open the terminal with `?demo=brief`.
 
-The house is a walled garden. TERM / WIRE stay complimentary. Apply with name, work email and phone to open **LIVE** (in-app podcasts, watch live, just missed) and **BOOK** (jobs the desk verified, tracked houses, diary, reports). `?invite=UAO-DESK` seats immediately. Applications are pending and cannot post in The Room. Member notes stay on-device until a house server exists. Product bible: `SUPER_PROMPT.md`.
+**Live desk:** [https://timcanada.github.io/uao-insurance-gate/](https://timcanada.github.io/uao-insurance-gate/). Seat: `?invite=UAO-DESK`.
+
+The house is a walled garden. TERM / WIRE stay complimentary. WIRE defaults to the names kept on TERM and labels owner-side flows only when the copy already said so. Apply with name, work email and phone to open **LIVE** (in-app podcasts, watch live, just missed) and **BOOK** (jobs the desk verified, tracked houses, diary, reports). `?invite=UAO-DESK` seats immediately. Applications are pending and cannot post in The Room. Member notes stay on-device until a house server exists. Product bible: `SUPER_PROMPT.md`.
 
 ## See it in a browser
 

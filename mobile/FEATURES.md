@@ -14,7 +14,7 @@ Academic work on what funds actually read (Ben-Rephael, Da, Israelsen and follow
 
 **Proof:** Institutional attention research; MandateWire and SWFI both sell *entity* alerts, not a newspaper. UAO already has People & institutions tags.
 
-**Build next:** Every watchlist name gets a live filter on the WIRE. Push when that name hits Ghost or an official print.
+**Status:** WIRE defaults to the TERM watchlist. Each name is a live filter. In-app rail shows prints on those names since last open. Lock-screen push still waits on a worker.
 
 ## 2. Official-print clock (Fed, ECB, SEC, Treasury, BIS, MOF)
 
@@ -46,7 +46,7 @@ Academic work on what funds actually read (Ben-Rephael, Da, Israelsen and follow
 
 **Proof:** MandateWire’s own site: RFPs, terminations, awards, investor appetite. IPE and SWFI Public Fund Monitor do a thinner free version.
 
-**Build:** A labelled “Flows” rail: searches, awards, terminations, allocation shifts — UAO-reported, not scraped fantasy.
+**Status:** BOOK and WIRE label appointment / allocation / DC / private-markets / pacing only when the copy already said so. No invented RFP.
 
 ## 6. Private-markets cash calendar
 
@@ -102,4 +102,4 @@ Academic work on what funds actually read (Ben-Rephael, Da, Israelsen and follow
 
 **HOUSE** — apply with name, work email and a direct line. Pending unlocks **LIVE** (in-app podcasts + YouTube live / just-missed / recent shows) and **BOOK** (tracked employer portals, Talent Desk, diary / briefing request, who-moved, research). The Room floor stays seated-only. No invented job listings: when the careers site has no individually verified roles live, the book says so.
 
-**CIO DESK** — TERM is no longer a magazine homepage. It is the thing they do not already buy: Treasury 30-year on the mast (5.19% as of 27 Aug 2026, labelled as the par curve, never a fake Milliman number), a sleeve map lit from the desk copy, a since-last-IC pack they date themselves, and a name book they keep. WIRE filters to *my names*. BOOK labels owner-side flows only when the copy already said so. QC drafts stay off the pack.
+**CIO DESK** — TERM is no longer a magazine homepage. It is the thing they do not already buy: Treasury 30-year on the mast (5.19% as of 27 Aug 2026, labelled as the par curve, never a fake Milliman number), a sleeve map lit from the desk copy, a since-last-IC pack they date themselves, and a name book they keep. WIRE defaults to that book, labels owner-side flows, and keeps a rail for prints since last open. QC drafts stay off the pack.

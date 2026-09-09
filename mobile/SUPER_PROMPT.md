@@ -116,7 +116,7 @@ Rules of speech:
 ## Information architecture
 
 - **TERM** — CIO desk: Treasury 30-year (labelled, never invented), session ritual, sleeve map lit from desk copy, since-last-IC pack, watched names, then the cover brief and PD book.
-- **WIRE** — UAO + official prints + allocator scan. 30s tick. JUST IN < 30 minutes.
+- **WIRE** — UAO + official prints + allocator scan. Defaults to the TERM watchlist. Flows rail is owner-side labels on copy the desk already printed. 30s tick. JUST IN < 30 minutes. In-app “printed on your names since last open” — not a lock-screen push until a worker exists.
 - **LIVE** — members’ studio: watch live, just missed, recent YouTube, in-app Podbean audio for *The Universal Owner* and *The Probability Desk*.
 - **ROOM** — garden or chambers as above.
 - **BOOK** — jobs the desk verified (or honest empty), tracked houses, Talent Desk, diary, briefing request, who-moved, research reports.
@@ -140,13 +140,18 @@ Appointments: weekday desk ritual + “request a briefing” mailto. Not a scrap
 - Briefings: `/briefings/` — request a conversation, not a public diary
 - Daily-brief toast: first id silent; next id pops. `?demo=brief` for preview.
 - Bundle id: `com.universalassetowners.app`
-- Preview the human taps: `mobile/public/app.html` copied to `mobile/dist/app.html` **and** `mobile/dist/index.html`. Serve `dist` on :8080. Public URL is a Cloudflare quick tunnel, not Cursor Ports.
+- Public desk (does not expire): `https://timcanada.github.io/uao-insurance-gate/` — `index.html` / `app.html` on `main`. Seat: `?invite=UAO-DESK`. After a product change, copy `mobile/public/app.html` to both files on `main` or the URL will go stale.
+- Preview the human taps locally: `mobile/public/app.html` on :8080. Do not use a Cloudflare quick tunnel as the public URL.
+
+## Daily desk note (Tim asked — keep)
+
+Every morning ~08:00 ET, email **one** progress note to `timothy_peters@hotmail.com` from `info@universalassetowners.com`. Subject: `UAO Terminal — daily desk note · {date}`. Thread the existing Gmail conversation. Include: what a CIO can open (and the live URL above), the wall, what is honest-empty, the next desk. Do not invent jobs or numbers. Do not send a second note the same day.
 
 ## What not to build next
 
 Do not fake Bloomberg IBOR. Do not add a CNN tab. Do not add likes. Do not add public profiles. Do not auto-seat Gmail. Do not claim cross-device chat until Tim has a house server.
 
-Next intelligence is on TERM: IC pack, sleeve map, Treasury 30-year, watched names. Do not fake Milliman funded status. Label the curve as Treasury par yield. Drop `[QC — NOT SENT TO LIST]` from the pack.
+TERM already has the IC pack, sleeve map, Treasury 30-year, and watched names. WIRE defaults to that book. Do not fake Milliman funded status. Label the curve as Treasury par yield. Drop `[QC — NOT SENT TO LIST]` from the pack. Next intelligence: peer-book changes from public filings the desk already covers — never invented 13Fs.
 
 ---
 

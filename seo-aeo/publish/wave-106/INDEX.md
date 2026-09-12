@@ -1,0 +1,28 @@
+# Wave 106 — unique institution pages (rotation 5 continued)
+
+Checked live **26 August 2026**. Ghost API still missing. Leftover official-filing house-AUM keepers remain exhausted after Wave 80. Unique operations P1s remain exhausted after Wave 103. Wave 105 shipped five institution nodes. This wake ships five more unique **needed P0 institution** nodes. New slugs. No leftover overwrite. No invented pay, vendor logos, or house AUM. Print house currency. Not a ranking.
+
+Wave 80 leftovers: do not overwrite Wave 12 Alaska or Wave 20 NIIF again. Do not overwrite Wave 81–105 keepers or institution keepers already current or already drafted. Do not overwrite live `/omers-explained/` (**$145.2bn / 6% / 99%** at 31 Dec 2025). Do not overwrite Texas PSF (Wave 10) or Texas TRS (Wave 20). Do not overwrite highest-harm leftovers that already have refresh drafts.
+
+1. **`cdc-group-bii.md`** → `/cdc-group-bii/`  
+   New UK DFI file, not a second SWF overwrite or a second DFI-define overwrite. Official Annual Report and Accounts 2025: total net assets **£9,879.9 million** at **31 December 2025** (2024: **£9,869.5 million**); portfolio **£6,641.2 million**; gross new commitments **£1,823.5 million**. Print pounds. Do not dollarize. Do not add cash to the portfolio. **Do not mint `/bii/`, `/british-international-investment/`, `/british-international-investment-explained/`, or `/cdc-group/` (404).** Do not 301 onto `/what-is-a-development-finance-institution/` or `/sovereign-wealth-fund/`.
+2. **`ohio-opers.md`** → `/ohio-opers/`  
+   New Ohio public-employees file, not a second CalPERS or STRS Ohio overwrite. Official 2025 ACFR: net position **$158,377,460,244** at **31 December 2025**. Letter of transmittal pension-and-health-care base **$133.9 billion**. Those two lines are not interchangeable. Total return **14.95 percent**. Defined Benefit **14.74 percent**. **Do not mint `/opers/`, `/ohio-pers/`, or `/opers-explained/` (404).** Do not reprint leftover Ohio PERS **$46 billion**. Do not mint `/strs-ohio-explained/`. Do not 301 onto `/calpers-explained-largest-us-pension-fund/` or `/largest-us-public-pension-funds/`.
+3. **`washington-state-investment-board.md`** → `/washington-state-investment-board/`  
+   New Washington multi-fund office, not a second CalPERS or OPERS overwrite. Official quarterly: total AUM **$233,882,154,639** at **31 March 2026**. Commingled Trust Fund **$187,429,848,897**. **40** funds. Do not treat a secondary **$230.5 billion as of 30 September 2025** line as this filing. **Do not mint `/wsib/`, `/washington-sib/`, or `/washington-state-investment-board-explained/` (404).** Do not 301 onto `/ohio-opers/` or `/largest-us-public-pension-funds/`.
+4. **`massachusetts-prim.md`** → `/massachusetts-prim/`  
+   New Massachusetts PRIT file, not leftover MassPRIM **$73 billion**. Official PRIT ACFR: pooled net position **$115,458,493 thousand** (**$115.5 billion**) at **30 June 2025**; return **9.62 percent** net of fees; increase **$10.2 billion**. PRIM is the board. PRIT is the fund. **Do not mint `/prim/`, `/prim-explained/`, `/massachusetts-prit/`, or `/prit-fund/` (404).** Do not 301 onto `/calpers-explained-largest-us-pension-fund/` or `/largest-us-public-pension-funds/`.
+5. **`virginia-retirement-system.md`** → `/virginia-retirement-system/`  
+   New Virginia System file, not a second PRIM overwrite. Official 2025 ACFR: net position restricted for benefits **$124,041,778 thousand** (**$124.0 billion**) at **30 June 2025**; managed investment portfolio **$128.6 billion**; total fund **9.9 percent**. Do not add the two dollar lines. **Do not mint `/vrs/`, `/vrs-explained/`, or `/virginia-retirement-system-explained/` (404).** Do not 301 onto `/massachusetts-prim/` or `/largest-us-public-pension-funds/`.
+
+**Skipped this wake:** KAUST endowment (no official endowment FS; unofficial **$23.5 billion** refused). STRS Ohio (official glance page blocked this turn; ACFR not locked). EPFO (official annual-report index still does not lock a 2024–25 PDF). Compensation / carry / MFO fees. City-office twins. Remaining skip/weak cities. PIC / GEPF (no official AUM this turn). Capital Stage Ledger (no first-party definition on live `/methodology/`).
+
+**Left needed (not drafted):** KAUST if an official endowment FS locks. STRS Ohio if the ACFR PDF locks. EPFO if an official PDF locks. Remaining skip/weak cities until an official HQ street locks. Compensation stays skip.
+
+**Also this wake:** Wave 98 DFI, Wave 8 pension-fund, Wave 7 public-pension-funds, Wave 31 US public-pension list, and Wave 84 Boston now link these five.
+
+**Queued 301 this wake:** none.
+
+**Paste after Wave 105 institution pages.** Then these five.
+
+**Refused this wake:** ICD YE2025 PDF. Dollarizing BII pounds. Reprinting leftover Registry ranking dollars, leftover GPFG **$1.4T**, leftover Yale **$41.4bn**, leftover Harvard **$50.7bn**, leftover Ford **$16.0bn (December 2022)**, leftover MIT **$35–40bn**, leftover MassPRIM **$73bn**, leftover Ohio PERS **$46bn**, leftover Ohio STRS **$80bn+** / **$90bn** / **$350bn**, leftover CalPERS **$460bn**, leftover Alaska **$89bn**, leftover PIF **$925bn** / **$2T**, leftover Maharlika **$10bn**, or Australian Super AUM. Inventing a KAUST AUM from Altss / GRI. Treating Markets Group **$230.5 billion** as current WSIB. Overwriting OMERS, Texas PSF, Texas TRS, or already-current / already-drafted institution keepers. Remaining skip/weak cities. Compensation. EPFO without an official PDF. Directory firm children without three sourced facts. People/CEO pages. Dated news. Inventing a subscriber total, a live-role count, vendor logos, or an ADIA/KIA/QIA/SAFE/GIC AUM.

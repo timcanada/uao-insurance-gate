@@ -1,0 +1,61 @@
+---
+title: "Illinois Institute of Technology endowment, explained"
+slug: illinois-institute-of-technology-endowment
+type: institution
+desk: research
+audience: allocator
+primary_keyword: "Illinois Institute of Technology endowment"
+answer_block: "The Illinois Institute of Technology endowment is the FASB endowment book of Illinois Institute of Technology, Chicago, Illinois, a private university, not leftover Harvard $56.9 billion, leftover Loyola University Chicago $1,167,824 thousand, leftover Knox $176,637,172. The official 31 May 2025 consolidated financial statements print Endowment net assets, end of year of $290,321 thousand. Printed Total endowment-related investment return, net was $17,548 thousand. This PDF does not print a one-year percent on that change table. Do not invent leftover 5% or leftover 10.000% or leftover 8.725% as one. Appropriation was $26,852 thousand. This page is not leftover Loyola University Chicago. This page is not leftover Knox. This page is not leftover SOA Return on investments, net $17,637 thousand. This page is not leftover SFP Investments $287,483 thousand. This page is not leftover entity-wide $433,309 thousand. This page is not leftover University of St. Francis $33,027,901. This page is not leftover Northeastern Illinois University Foundation $21,985,823. This page is not a ranking and not advice."
+sources:
+  - https://webmaster.iit.edu/files/controller/fy25-financial-statements.pdf
+  - https://www.iit.edu/finance
+conversion: brief
+editor_status: draft
+---
+
+# Illinois Institute of Technology endowment, explained
+
+The Illinois Institute of Technology endowment is the FASB endowment book of Illinois Institute of Technology, Chicago, Illinois, a private university, not leftover Harvard **$56.9 billion**, leftover Loyola University Chicago **$1,167,824 thousand**, leftover Knox **$176,637,172**. The official [31 May 2025 consolidated financial statements](https://webmaster.iit.edu/files/controller/fy25-financial-statements.pdf) print Endowment net assets, end of year of **$290,321 thousand** at **31 May 2025**. Printed Total endowment-related investment return, net was **$17,548 thousand**. This PDF does not print a one-year percent on that change table. Do not invent leftover **5%** or leftover **10.000%** or leftover **8.725%** as one. Appropriation was **$26,852 thousand**. This page is not leftover Loyola University Chicago. This page is not leftover Knox. This page is not leftover SOA Return on investments, net **$17,637 thousand**. This page is not leftover SFP Investments **$287,483 thousand**. This page is not leftover entity-wide **$433,309 thousand**. This page is not leftover University of St. Francis **$33,027,901**. This page is not leftover Northeastern Illinois University Foundation **$21,985,823**. This page is not a ranking and not advice.
+
+**Do not treat this page as a leftover Harvard overwrite or a leftover Loyola University Chicago overwrite.** Do not mint `/illinois-institute-of-technology-endowment-explained/`. **Never mint `/iit/`.** **Never mint `/illinois-tech/`.** **Never mint `/illinoistech/`.** **Never mint `/illinois-institute/`.** Independently GET this wake (GET **200** `application/pdf` **1,359,434** bytes). Listing `https://www.iit.edu/finance` independently GET **200**. House lander `https://www.iit.edu/` independently GET **200**. House PDF GET **200** is the card. Do not lock from the leftover-unique single-audit twin `https://webmaster.iit.edu/files/controller/fy25-single-audit.pdf`. `pdftotext` **181,846** bytes. 45 pages. FY ends **31 May 2025**. Crowe LLP, Chicago, Illinois, **10 November 2025**. Subsequent-events date also **10 November 2025**. Not leftover Loyola University Chicago **$1,167,824 thousand**. Not leftover Knox **$176,637,172**. Not leftover Lake Forest **$135,751,151**. Not leftover 990.
+
+## What is official (31 May 2025)
+
+1. **Endowment net assets, end of year** **$290,321 thousand** at **31 May 2025**. Leftover beginning **$273,885 thousand** is another print. Leftover without-donor sleeve **$64,986 thousand** / leftover with-donor sleeve **$225,335 thousand** are named columns of that same Total — do not homemade-subtract them off **$290,321 thousand**. Leftover composition Total Endowment Funds **$290,321 thousand** reprints the same EOY. Leftover Board-designated funds **$64,986 thousand** / leftover original donor-restricted gifts **$218,202 thousand** / leftover Accumulated gains (losses) **$(709) thousand** / leftover Donor-restricted endowment pledges **$7,842 thousand** / leftover Other Funds **$124,076 thousand** / leftover Underwater Funds **$101,259 thousand** are named sleeves of that composition. Leftover entity-wide Total net assets **$433,309 thousand** is a wider book. Leftover without-donor net assets **$146,592 thousand** / leftover with-donor net assets **$286,717 thousand** are wider books. Leftover Total assets **$840,040 thousand** are a wider book. Leftover SFP Investments **$287,483 thousand** are a wider book. Leftover Beneficial interest in perpetual trusts **$26,614 thousand** is a wider book. Leftover Note Endowment **$217,493 thousand** / leftover Endowment pledges **$7,842 thousand** are with-donor composition prints. Leftover 2024 EOY **$273,885 thousand** is another year. Those lines are not leftover Harvard **$56.9 billion**, leftover Loyola University Chicago **$1,167,824 thousand**, leftover Knox **$176,637,172**.
+2. **Named books are not interchangeable.** Printed Total endowment-related investment return, net **$17,548 thousand** is the labeled change-table return line. Leftover Endowment-related investment income, net **$1,449 thousand** / leftover Endowment-related net realized and unrealized gain **$16,099 thousand** sit under Endowment-related investment return — do not homemade-sum them onto **$17,548 thousand**. Leftover SOA Return on investments, net **$17,637 thousand** is a wider book — do not flatten it onto **$17,548 thousand**. Leftover without-donor return sleeve **$4,037 thousand** / leftover with-donor return sleeve **$13,511 thousand** are named columns of that same Total — do not homemade-subtract them off **$17,548 thousand**. Leftover 2024 Total endowment-related investment return, net **$27,038 thousand** is another year. This PDF does not print a one-year percent on that change table. Do not invent leftover **5%**. Do not invent leftover **10.000%** / leftover **8.725%**. Do not flatten leftover beginning **$273,885 thousand**, leftover **$17,637 thousand**, leftover **$433,309 thousand**, leftover homemade rate onto **$290,321 thousand** / **$17,548 thousand**.
+3. **Payout.** Appropriation **$26,852 thousand**. Leftover SOA Endowment spending distribution **$26,852 thousand** is a wider operating / nonoperating book — do not flatten it onto the change-table Appropriation even though the dollars match. Leftover Additions to endowment **$10,152 thousand** are another print. Leftover Change in pledges with donor restrictions **$(2,240) thousand** is another print. Leftover Other - payment of loan, including interest **$17,061 thousand** is another print. Leftover Other **$767 thousand** is another print. Leftover net assets released from restrictions **$7,561 thousand** is a wider book — do not flatten it onto **$26,852 thousand**. Leftover 2024 Appropriation **$23,810 thousand** is another year. Leftover target percentage **5%** of the average quarterly endowment balance for the prior 12 quarters / leftover Board authorization **10.000%** for fiscal years 2025 and 2024 / leftover actual cost **10.000%** and **8.725%** / leftover budgeted endowment distribution **$13,049 thousand** for fiscal year 2026 are leftover policy prints, not a homemade card percent. Crowe LLP, Chicago, Illinois, **10 November 2025**. Subsequent-events date also **10 November 2025**. Leftover underwater 188 donor-restricted funds deficiencies **$13,489 thousand** / original value **$114,748 thousand** / aggregate fair value **$101,259 thousand** are another print. Leftover underwater distribution **$7,188 thousand** is another print.
+
+Do not flatten Illinois Institute of Technology into leftover [Loyola University Chicago endowment](/loyola-university-chicago-endowment/), leftover [Knox College endowment](/knox-endowment/), leftover [Lake Forest College endowment](/lake-forest-college-endowment/), leftover [University of St. Francis endowment](/university-of-st-francis-endowment/), leftover [Northeastern Illinois University Foundation endowment](/northeastern-illinois-university-foundation/), leftover [City Colleges of Chicago Foundation endowment](/city-colleges-of-chicago-foundation/), leftover `/iit/`, leftover `/illinois-tech/`, leftover `/illinoistech/`, leftover `/illinois-institute/`, leftover 990, leftover IITRI September 30 statements, leftover Wheaton College Illinois, leftover Bradley leftover Assets for Expenditure, leftover CalPERS, leftover [UC Investments](/uc-investments/), or leftover [largest university endowments](/largest-university-endowments-2026/). This is **one Illinois Institute of Technology file**.
+
+## What an owner is actually buying
+
+Counsel selling “IIT AUM” or “Illinois Tech AUM” has to name the Illinois Institute of Technology endowment book, not leftover Loyola University Chicago and not leftover University of St. Francis. The **$290,321 thousand** line is Endowment net assets, end of year at **31 May 2025**. The printed return is Total endowment-related investment return, net **$17,548 thousand**. The **$26,852 thousand** line is Appropriation. Those are not leftover Loyola University Chicago. Those are not leftover SOA Return on investments, net **$17,637 thousand**. Those are not leftover SFP Investments **$287,483 thousand**. Those are not leftover entity-wide **$433,309 thousand**. Those are not leftover University of St. Francis **$33,027,901**.
+
+Do not 301 this page onto `/loyola-university-chicago-endowment/`, `/knox-endowment/`, `/university-of-st-francis-endowment/`, `/iit/`, `/illinois-tech/`, `/illinoistech/`, `/illinois-institute/`, or `/largest-university-endowments-2026/`.
+
+## Where Universal Asset Owners sits
+
+[Advertise](/advertise/). Empty honest listings beat unsourced logos.
+
+[Ethics](/ethics/) (version 1.0, **28 May 2026**): editorial staff do not own or trade individual securities of issuers they cover.
+
+## Related
+
+- [Largest university endowments](/largest-university-endowments-2026/)
+- [The endowment model, explained](/endowment-model-explained/)
+- [University of St. Francis endowment](/university-of-st-francis-endowment/)
+- [Loyola University Chicago endowment](/loyola-university-chicago-endowment/)
+- [The Art Institute of Chicago endowment](/art-institute-of-chicago-endowment/)
+- [Chicago Botanic Garden endowment](/chicago-botanic-garden-endowment/)
+- [Lincoln Park Zoo endowment](/lincoln-park-zoo-endowment/)
+- [Chicago Zoological Society endowment](/chicago-zoological-society-endowment/)
+- [Columbia College Chicago endowment](/columbia-college-chicago-endowment/)
+- [Knox College endowment](/knox-endowment/)
+- [Lake Forest College endowment](/lake-forest-college-endowment/)
+- [North Central College endowment](/north-central-college-endowment/)
+- [Monmouth College endowment](/monmouth-college-endowment/)
+- [Northeastern Illinois University Foundation endowment](/northeastern-illinois-university-foundation/)
+- [City Colleges of Chicago Foundation endowment](/city-colleges-of-chicago-foundation/)
+- [Lyric Opera of Chicago endowment](/lyric-opera-of-chicago-endowment/)
+- [Advertise](/advertise/)
+- [Editorial ethics](/ethics/)

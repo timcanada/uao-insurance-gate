@@ -1,0 +1,22 @@
+# Wave 57 — leftover CalPERS $440bn / $488bn / $439.2bn / $470bn; leftover GPIF $1.7T / leftover ¥184T / leftover $1.3T; leftover GPFG $1.32T / $1.46T; leftover Yale $41.4bn; leftover USS £87bn / $110bn
+
+Checked live **26 August 2026**. Ghost API still missing. Five URLs already return 200. No new slugs.
+
+Wave 56 leftovers: do not overwrite system-level / SMA / digital-assets / natural-capital / smart-beta again. Do not overwrite `/endowment-model-explained/` (Wave 15) or `/yale-endowment-model/` (Wave 14). Do not overwrite NYSCRF / USS / PFZW / ABP / CDPQ / GPIF / CIC / Alaska / LDI / BCI / Future Fund / ADIA / GIC / CalPERS / Mubadala / Temasek institution keepers.
+
+1. **`issb-standards-explained-REFRESH.md`** → `/issb-standards-explained/`  
+   Live invents leftover CalPERS **$440 billion** (2024). Twin `/issb-standards-explained-investors/` invents leftover CalPERS **$440 billion** (June 2024) and leftover GPFG **approximately $1.32 trillion** (late 2024). Official: CalPERS **$637.1 billion**. GPFG **kroner**. ISSB is a disclosure standard, not house AUM. **301 the twin after paste.** Do not 301 onto TCFD.
+2. **`illiquidity-premium-private-markets-REFRESH.md`** → `/illiquidity-premium-private-markets/`  
+   Live invents leftover CalPERS **$440 billion** (2024), leftover Yale **$41.4 billion** (June 2023), leftover Blackstone **$952 billion** (Q3 2023). Official: CalPERS **$637.1 billion**. Yale **$44.1 billion**. A premium is not house AUM. Do not fetch leftover Blackstone. Do not 301 onto Wave 35 private-markets or the endowment-model keepers.
+3. **`biodiversity-net-gain-institutional-investors-REFRESH.md`** → `/biodiversity-net-gain-institutional-investors/`  
+   Live invents leftover CalPERS **$488 billion** (2024). Official: CalPERS **$637.1 billion**. Twin `/biodiversity-net-gain-investors/` had **no leftover house AUM** — do not 301 it. Do not 301 onto TNFD or natural-capital.
+4. **`demographic-transition-long-term-investing-REFRESH.md`** → `/demographic-transition-long-term-investing/`  
+   Live invents leftover GPIF **¥184 trillion** / leftover **$1.3 trillion** (March 2024), leftover GPFG **$1.46 trillion** (end-2023), leftover CalPERS **$439.2 billion** (June 2024), leftover USS **£87 billion** / leftover **$110 billion**. Official: GPIF **yen**. GPFG **kroner**. CalPERS **$637.1 billion**. USS DB **£79.8 billion**. **Do not add the USS books. Do not dollarize GPIF, GPFG, or USS.** Do not overwrite USS (Wave 9) or GPIF (Wave 7). Do not 301 onto long-horizon.
+5. **`political-risk-emerging-markets-investors-REFRESH.md`** → `/political-risk-emerging-markets-investors/`  
+   Live invents leftover CalPERS **$440 billion** and leftover GPIF **approximately $1.7 trillion**. Twin `/political-risk-emerging-markets/` invents leftover CalPERS **approximately $470 billion**. Official: CalPERS **$637.1 billion**. GPIF **yen**. **301 the twin after paste.** Do not dollarize GPIF. Do not overwrite GPIF (Wave 7). Do not 301 onto Wave 46 EM-allocation.
+
+**Queued 301 this wake:** `/issb-standards-explained-investors/` → `/issb-standards-explained/`; `/political-risk-emerging-markets/` → `/political-risk-emerging-markets-investors/`. Prior queue still stands through Wave 56.
+
+**Paste after Waves 5–56.** Then 301 `twins.csv`.
+
+**Refused this wake:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ / USS. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / CDPQ / OMERS / CalPERS / Mubadala / Temasek / Future Fund / Alaska / ADIA / GIC / BCI / GPIF institution keepers. Overwriting `/endowment-model-explained/` (Wave 15) or `/yale-endowment-model/` (Wave 14). Another system-level / SMA / digital-assets / natural-capital / smart-beta synonym. Minting `/harvard-endowment-explained/`, `/issb-standards/`, `/illiquidity-premium/`, `/biodiversity-net-gain/`, `/demographic-transition/`, or `/what-is-political-risk/`. Fetching leftover Blackstone. `/preferred-equity-private-markets/` (leftover CalPERS **$450 billion** / leftover Mubadala **$280 billion**). `/gips-standards-explained-institutional/` (leftover CalPERS **$470 billion**). `/erisa-explained-institutional-investors/` (leftover CalPERS **$475 billion**). `/impact-investing-private-markets-institutional/` (leftover GPFG **$1.3 trillion** / leftover CalPERS **$440 billion** / leftover Yale **$40 billion** / leftover Princeton **$35 billion**). `/sfdr-article-8-vs-article-9-funds/` (leftover ABP **€564 billion** / leftover GPFG **$1.7 trillion**). `/biodiversity-net-gain-investors/` (no leftover house AUM — do not 301).

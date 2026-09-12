@@ -1,0 +1,22 @@
+# Wave 67 — leftover Mubadala $284bn; leftover CPP $620bn / $633bn; leftover GPFG $1.4T / $1.38T; leftover PIF $925bn; leftover ADIA $150bn / $156bn; leftover QIA $445bn; leftover OTPP $245bn / $230bn; leftover Temasek $500bn; leftover GPIF $1.3T / leftover ¥156T; leftover CalPERS $440bn / $485bn; leftover USS £75bn; leftover APG $675bn
+
+Checked live **26 August 2026**. Ghost API still missing. Five URLs already return 200. No new slugs.
+
+Wave 66 leftovers: do not overwrite stakeholder / PRI / stablecoins / digitisation / GCC-strategy again. Do not overwrite `/endowment-model-explained/` (Wave 15) or `/yale-endowment-model/` (Wave 14). Do not overwrite NYSCRF / USS / PFZW / ABP / CDPQ / GPIF / CIC / Alaska / LDI / BCI / Future Fund / ADIA / GIC / CalPERS / CalSTRS / Mubadala / Temasek / CPP / Texas TRS / PIF / QIA / Australian Super / KIC / UniSuper institution keepers.
+
+1. **`mubadala-technology-ai-strategy-REFRESH.md`** → `/mubadala-technology-ai-strategy/`  
+   Live invents leftover Mubadala **$284 billion**, leftover CPP **approximately $620 billion**, leftover GPFG **approximately $1.4 trillion**, leftover PIF **approximately $925 billion**, leftover ADIA **approximately $150 billion**. Official: Mubadala **AED 1.4 trillion / US$385 billion**. CPP **C$793.3 billion**. GPFG **kroner**. PIF **more than US$900 billion**. ADIA **does not publish AUM**. Do not overwrite Mubadala / CPP / PIF / ADIA. Do not 301 onto the Mubadala institution page or Gulf-AI.
+2. **`sovereign-wealth-fund-transparency-index-REFRESH.md`** → `/sovereign-wealth-fund-transparency-index/`  
+   Live invents leftover CPP **$633 billion**, leftover OTPP **approximately $245 billion**, leftover Temasek **over $500 billion**, leftover ADIA **approximately $156 billion**, leftover QIA **over $445 billion**. Official: CPP **C$793.3 billion**. OTPP **C$303.2 billion**. Temasek **S$518 billion / US$401 billion**. ADIA **does not publish AUM**. QIA **does not publish AUM**. Do not overwrite CPP / OTPP / Temasek / ADIA / QIA. Do not 301 onto Santiago or how-SWF-AUM.
+3. **`japan-institutional-investor-landscape-REFRESH.md`** → `/japan-institutional-investor-landscape/`  
+   Live invents leftover GPIF **approximately $1.3 trillion** and leftover GPIF **¥156 trillion**. Official: GPIF **¥293,643.7 billion**. **Do not dollarize.** Do not overwrite GPIF (Wave 7). Do not 301 onto the GPIF institution page.
+4. **`institutional-investor-research-firms-REFRESH.md`** → `/institutional-investor-research-firms/`  
+   Live invents leftover CalPERS **$440 billion** and leftover GPFG **$1.38 trillion**. Official: CalPERS **$637.1 billion**. GPFG **kroner**. Do not 301 onto Wave 65 data-providers.
+5. **`impact-investing-definitions-REFRESH.md`** → `/impact-investing-definitions/`  
+   Live invents leftover CalPERS **$485 billion**, leftover OTPP **approximately $230 billion**, leftover USS **£75 billion**, leftover APG **$675 billion**. Official: CalPERS **$637.1 billion**. OTPP **C$303.2 billion**. USS **£79.8 billion DB**. APG administers ABP — **not** a second AUM. ABP **€530 billion**. Do not overwrite OTPP / USS / ABP. Do not 301 onto Wave 58 impact private-markets or ESG.
+
+**Queued 301 this wake:** `/stakeholder-capitalism-investor-perspective/` → `/stakeholder-capitalism-investor/` (Wave 66). Twin leftover CalPERS **$440 billion**.
+
+**Paste after Waves 5–66.** Then 301 `twins.csv`.
+
+**Refused this wake:** ICD YE2025 PDF. Dollarizing or euroizing GPIF / GPFG / ADQ / USS. Overwriting NYSCRF / USS / PFZW / ATP / LDI / ABP / CDPQ / OMERS / CalPERS / CalSTRS / Mubadala / Temasek / Future Fund / Alaska / ADIA / GIC / BCI / GPIF / CPP / Texas TRS / PIF / QIA / Australian Super / KIC / UniSuper / CIC institution keepers. Overwriting `/endowment-model-explained/` (Wave 15) or `/yale-endowment-model/` (Wave 14). Another stakeholder / PRI / stablecoins / digitisation / GCC-strategy synonym. Minting `/harvard-endowment-explained/`, `/texas-trs/`, `/nssf-explained/`, `/safe-china/`, `/unisuper/`, `/temasek/`, or `/cbus-explained/`. Inventing an ADIA, QIA, SAFE, or NSSF AUM. Treating leftover APG **$675 billion** as official. `/universal-owner-antimicrobial-resistance/` (leftover CalPERS **$430 billion** — one leftover). `/dollar-dominance-reserve-currency/` (leftover CalPERS **$465 billion** — one leftover). `/gulf-capital-energy-transition/` (no leftover house AUM — do not 301). `/wisconsin-investment-board-swib/` (leftover SWIB **$160 billion** — no official SWIB print locked this wake).

@@ -1,0 +1,22 @@
+# Wave 31 — pensions-by-country $1.3T; US list $469bn; city $1.4T stack; region $75T; CalPERS 5.2%
+
+Checked live **26 August 2026**. Ghost API still missing. Five URLs already return 200. No new slugs.
+
+Wave 30 leftovers: do not overwrite transparency / stabilization-vs-savings / global-economy / what-AUM-means / SWF-returns-2025 again. Do not overwrite Mubadala, Future Fund, CalPERS, Temasek institution, GPIF institution (Wave 7), CIC explained (Wave 8), Alaska (Wave 12), or the already-current `/cpp-investments-vs-calpers/` and `/canadian-pension-giants-compared/` headlines. `/abu-dhabi-investment-authority-adia/` and `/qia-portfolio-strategy/` stay **301s**.
+
+1. **`largest-public-pension-funds-by-country-REFRESH.md`** → `/largest-public-pension-funds-by-country/`  
+   Live invents a **$7 trillion** pile, GPIF **$1.3 trillion**, NSSF **$600+ billion**, CPP **$588 billion**, NPS **$866 billion**, CalPERS **$469 billion**, Future Fund **$260 billion** as a pension, USS **$100 billion+**. Official: GPIF **yen**. NPS **KRW 1,848.7 trillion**. CPP **C$793.3 billion**. CalPERS **$637.1 billion**. USS DB **£79.8 billion**. Future Fund is a **SWF**. Twin `/largest-pension-funds-by-country/` files GPFG as a pension at **$1.4 trillion** and CalPERS **$469 billion**. Overwrite keeper; **301 the twin after paste**. Do not 301 onto `/largest-pension-funds-in-the-world/` (different query).
+2. **`largest-us-public-pension-funds-REFRESH.md`** → `/largest-us-public-pension-funds/`  
+   Live invents a **$6 trillion / top-ten $2 trillion** pile, CalPERS **$469 billion / $457 billion**, CalSTRS **$315 billion**, Florida SBA **$230 billion**. Official: CalPERS PERF **$637.1 billion**. CalSTRS **$415.4 billion**. Do not mint `/florida-sba/` (404). Refuse NY Common / Florida / NYC constellation leftovers not fetched this wake.
+3. **`sovereign-wealth-fund-capital-by-city-REFRESH.md`** → `/sovereign-wealth-fund-capital-by-city/`  
+   Live invents Singapore **GIC+Temasek $1.4 trillion**, GPFG **$1.3–1.4 trillion**, ADIA **$950 billion**, Temasek **$575 billion**, GIC **$880 billion**. Official: GPFG **kroner**. Temasek **S$518 billion**. GIC / ADIA **no AUM**. No official combined city pile.
+4. **`largest-asset-owners-by-region-REFRESH.md`** → `/largest-asset-owners-by-region/`  
+   Live invents APAC **$75 trillion**, North America **$70 trillion**, Europe **$45 trillion**, then a second cut of **$16T / $12T**, CalPERS **$466 billion**, Canada **$2.5 trillion**. Official method: quote the filing or say no AUM. TAI / WTW top-300 **US$24.4 trillion** is a **pension** vintage, not a regional owner pile. Different query from Wave 6 `/largest-asset-owners-in-the-world/` — **overwrite, do not 301**.
+5. **`pension-fund-returns-2025-REFRESH.md`** → `/pension-fund-returns-2025/`  
+   Live invents CalPERS **$514 billion** and **5.2%**, CalSTRS **$380 billion** and **~5%**. Official: CalPERS **$637.1 billion / 14.8%** at **30 June 2026**. CalSTRS **$415.4 billion / 13.9%**. Twin `/pension-fund-returns-2025-comparison/` invents CalPERS **$470 billion** and CPP **$635 billion**. **301 the comparison twin after paste.** Do not overwrite `/sovereign-wealth-fund-returns-2025/` (Wave 30).
+
+**Queued 301s this wake** (paste keeper first): pension-by-country twin; pension-returns comparison twin; `/oil-five-gulf-sovereign-wealth-funds/` → Oil Five explained; `/newest-sovereign-wealth-funds/` → founding-year keeper; `/singapore-investment-landscape/` → Wave 27 landscape; `/sovereign-wealth-funds-asia/` → `/sovereign-wealth-funds-in-asia/`; `/sovereign-wealth-funds-middle-east/` → `/sovereign-wealth-funds-in-the-middle-east/`; `/pif-2-trillion-2030/` → `/public-investment-fund-pif/`; `/abu-dhabi-investment-authority/` → ADIA keeper; `/public-investment-fund/` → PIF keeper; `/azerbaijan-state-oil-fund-sofaz/` → SOFAZ explained; `/asset-owner-ranking-methodology/` → `/how-we-rank-asset-owners-methodology/` (do not overwrite methodology this wake). Prior queue still stands through Wave 30.
+
+**Paste after Waves 5–30.** Then 301 `twins.csv`.
+
+**Refused this wake:** ICD YE2025 PDF. Dollarizing GPFG, NPS, ADIA, KIA, QIA, SAFE, GIC. Overwriting ADIA short / QIA portfolio / NSIA / ISIF / Mumtalakat / Alaska / GPIF / CIC keepers. Minting `/florida-sba/` or `/texas-trs/`. Fetching NSSF / Florida SBA / NY Common so the US list can keep leftover dollars. Another Oil-Five / Asia / ME / newest-SWF / Singapore-landscape synonym instead of the 301.

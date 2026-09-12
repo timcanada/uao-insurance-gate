@@ -1,0 +1,59 @@
+# Wave 326 — leftover-unique 2025 house endowment (University of Massachusetts Foundation)
+
+Date: 30 August 2026
+Desk: research
+Editor status: draft
+
+One leftover-unique U.S. endowment card independently locked this wake from an official 2025 house financial statement after Wave 324 Naval War College Foundation (Wave 325 was hunt-only). The slug is not live. Ghost cannot publish (`GHOST_ADMIN_API_KEY` unset). GSC cannot score ranks (`GOOGLE_SERVICE_ACCOUNT_JSON` unset). A 1-keeper wave is acceptable after this leftover-unique hunt. **Never mint `/umass/` `/umass-foundation/` `/massachusetts/` `/umass-amherst/` `/umass-boston/` `/umass-dartmouth/` `/umass-lowell/` `/umass-chan/` `/chan/` `/emki/` `/kennedy-institute/` `/minutemen/` `/uma-foundation/` `/hadley/` `/newton/`.** **Never remint `/umf/`.** `/umf/` stays University of Mississippi Foundation. **Never remint `/amherst/`.** `/amherst/` stays Amherst College. **Never remint `/mcla-foundation/` `/wheaton/` `/naval-war-college-foundation/` `/brown/` `/jwu/` `/uri/` `/risd/` `/yellow-jackets/`.**
+
+| # | Institution | Slug | Official FS | Locked facts | Auditor |
+|---|---|---|---|---|---|
+| 1 | The University of Massachusetts Foundation, Inc. | `/university-of-massachusetts-foundation/` | https://www.umassfoundation.org/s/1355/images/editor_documents/umfdocuments/audited_financials/fy25_umf_audited_financials_color_cover.pdf | Foundation Total Endowment net assets, end of year **$1,322,645,323**; printed Investment return, net **$164,198,869**; Appropriation of endowment assets for expenditure **$31,050,160** (printed as (31,050,160)) | KPMG LLP. Opinion **Boston, Massachusetts, 14 November 2025**. Subsequent-events date **14 November 2025**. The 2024 statements were previously audited; unmodified opinion dated **14 November 2024**. Notes do not print UPMIFA — do not invent UPMIFA. Official house lander independently GET **200**. System lander independently GET **200**. President’s-office lander independently GET **200**. Never mint `/umass/` `/umass-foundation/` `/massachusetts/` `/umass-amherst/`. Never remint `/umf/` `/amherst/`. |
+
+Do not flatten leftover Foundation entity-wide, leftover combined Total including University Agency / EMKI Agency, leftover SFP Investments, leftover SOA Investment return, leftover SOA Endowment distributions reprint, leftover beginning, leftover Contributions / Matching contributions / Transfers, leftover spending-policy **4%** / leftover **93%** prudence / leftover **1%** administrative fee, leftover distributed-including-agency **$46,380,019**, leftover net distributions **$44,317,340**, leftover liquidity Fiscal 2026/2025 appropriations **$36,700,065**, leftover PHEEIP **$10,000,000**, leftover 2024 comparative dollars, leftover MCLA flatten **$1,695,023 thousand**, leftover house-page **$1.8 billion**, leftover 990 mention from this packet.
+
+## Official sources (independently re-GET this wake)
+
+- University of Massachusetts Foundation FY2025 financial statements, endowment change table with labeled Foundation Total (KPMG LLP; opinion **Boston, Massachusetts, 14 November 2025**; subsequent events **14 November 2025**): https://www.umassfoundation.org/s/1355/images/editor_documents/umfdocuments/audited_financials/fy25_umf_audited_financials_color_cover.pdf — GET **200** `application/pdf` **489,701**. Filename `fy25_umf_audited_financials_color_cover.pdf`. `pdftotext` **95,084**. 30 pages. House lander `https://www.umassfoundation.org/` independently GET **200** and lands on `https://www.umassfoundation.org/s/1355/22/foundation-home.aspx`. System lander `https://www.massachusetts.edu/` independently GET **200**. President’s-office lander `https://www.umassp.edu/` independently GET **200**. Campus lander `https://www.umass.edu/` independently GET **200**. Campus `/foundation` independently GET **200** and lands on `https://www.uma-foundation.org/`.
+
+## What this wave is not
+
+- Not a remint of Wave 324 Naval War College Foundation or Wave 323 West Virginia Northern Community College Foundation or Wave 245 MCLA Foundation or Wave 246 Wheaton College Massachusetts or Wave 206 Amherst College or Wave 221 University of Mississippi Foundation or Wave 223 University of Minnesota Foundation or Wave 196 Brown or Wave 314 Hebrew College or Wave 313 William James College.
+- Not leftover LSU Foundation leftover-unique official 2025 house FS independently GET **200** `application/pdf` **698,335** this wake. Change table prints EOY Total **$578,825,229** and ONE labeled Investment return **$36,298,303**. No labeled Appropriation line. REFUSE. Intended slug if a later table prints labeled Appropriation: `lsu-foundation`. Never mint `/lsu/` `/lsuf/` `/baton-rouge/` `/tigers/`. Never remint `/tulane/`.
+- Not leftover McNeese State University Foundation. Known refuse (Released from restrictions). Did not GET. Intended slug if a later table prints Appropriation: `mcneese-state-university-foundation`. Never mint `/mcneese/` `/lake-charles/`.
+- Not leftover Nicholls / Southeastern / Grambling / ULM Foundation leftover 2024 / older. Did not GET.
+- Not leftover ULM Athletic Foundation 2025 (Earnings / Expenses / Scholarships). Did not GET.
+- Not leftover remaining WVHEPC 2025 signed packets already shipped or refused. Did not re-GET known refuses.
+- Not leftover Wellesley `P21958918.pdf` / leftover Northeastern `P21972691.pdf` / leftover Rochester `P21957435.pdf` EMMA remints. Did not GET those PDFs.
+- Not leftover Campbellsville unaudited EMMA notice. Did not GET.
+- Not leftover Averett bondholder forecast. Did not GET.
+- Not leftover ACCS remaining FY25 packets. Never remint Calhoun / Gadsden / Marion. Never mint `/acc/` `/accs/`.
+- Not leftover Ohio Auditor remaining FY2025 Foundation records. Do not remint Akron or Eastern Gateway.
+- Remint-class already shipped if independently GET: Calvin, Smith, Whitman, Bowdoin, Hope, CSU Chico, College of the Canyons, University of Arkansas Foundation, Oregon State University Foundation, Furman, St. Mary's, Texas Lutheran, Calhoun, Gadsden State Cardinal, Marion, Alvin, Glen Oaks, Mid Michigan, Kirtland, NMCF, Washtenaw, Loma Linda, Berea, Cochise, USMF, Arizona Western, Hamline, Gustavus, Concordia St. Paul, Concordia Moorhead, Saint John's, Oral Roberts, Mitchell Hamline, University of Akron Foundation, MetroHealth Foundation, RIT, University of Rochester, New York Medical College, William James College, Hebrew College, West Virginia University Foundation, West Liberty University Foundation, Concord University Foundation, Bluefield State University Foundation, Fairmont State Foundation, Shepherd University Foundation, West Virginia State University Foundation, Blue Ridge Community and Technical College Foundation, West Virginia Northern Community College Foundation, Naval War College Foundation, Brown, Johnson & Wales, University of Rhode Island Foundation, Rhode Island School of Design, University of Connecticut Foundation, Connecticut College, Wesleyan, University of Louisville Foundation, Northern Kentucky University Foundation, University of Kentucky, Washington and Lee, Boise State University Foundation, Indiana University Foundation, MCLA Foundation, Wheaton College Massachusetts, Amherst College. Do not remint.
+
+## Short-slug reservations
+
+- Never mint `/umass/`, `/umass-foundation/`, `/massachusetts/`, `/umass-amherst/`, `/umass-boston/`, `/umass-dartmouth/`, `/umass-lowell/`, `/umass-chan/`, `/chan/`, `/emki/`, `/kennedy-institute/`, `/minutemen/`, `/uma-foundation/`, `/hadley/`, `/newton/`.
+- Never remint `/umf/` (Wave 221 University of Mississippi Foundation reserved).
+- Never remint `/amherst/` (Wave 206 Amherst College reserved).
+- Never remint `/mcla-foundation/`, `/mcla/`, `/mclaf/`.
+- Never remint `/wheaton/`, `/wheaton-college/`.
+- Never remint `/naval-war-college-foundation/`. Never mint `/naval-war-college/`, `/naval-war/`, `/nwc/`, `/nwc-foundation/`, `/nwcfoundation/`, `/nwcf/`, `/usnwc/`, `/newport/`, `/newport-ri/`.
+- Never remint `/brown/`, `/jwu/`, `/uri/`, `/risd/`, `/yellow-jackets/`.
+- Never remint `/hebrew-college-endowment/`. Never mint `/hebrew/`, `/hebrew-college/`, `/hc/`.
+- Never remint `/william-james-college-endowment/`. Never mint `/william-james/`, `/wjc/`.
+- Never remint `/west-virginia-northern-community-college-foundation/`.
+- Never remint `/lsu/` from the leftover LSU Foundation refuse.
+- Never mint `/mcneese/`, `/evergreen/`, `/tesc/`, `/olympia/`, `/wwu/`.
+
+## Related flatten only
+
+Do not remint Waves 178–324 bodies. Related-only neighbors: Wave 245 MCLA Foundation (href only, leftover `/umass-foundation/` placeholder retargeted); Wave 244 Springfield College endowment (href only); Wave 246 Wheaton College Massachusetts endowment; Wave 324 Naval War College Foundation; Wave 196 Brown University endowment; Wave 314 Hebrew College endowment; Wave 313 William James College endowment.
+
+## Inventory / Ghost
+
+`seo-aeo/inventory/generate_priority_slugs.py`, `seo-aeo/inventory/priority-slugs.csv` (CRLF), `seo-aeo/inventory/keyword-board.csv` (LF, `drafted-wave-326`), `seo-aeo/tools/publish_to_ghost.py` (`"326"`), Wave 17 2026 refresh (table / Related / Sources), `seo-aeo/plan/11-next-human-actions.md`, and `seo-aeo/tracking/learning-log.md`.
+
+## Next wake
+
+If a leftover-unique official 2025 house filing independently GET **200** and independently locks three official facts, draft it as Wave 327. First leftovers: leftover unique LLA standalone 2025 Foundation FS besides McNeese and leftover LSU Foundation (Nicholls / Southeastern / Northwestern / Grambling / ULM / ULL standalone / UNO **2025** year) only if a later table prints labeled Appropriation / labeled Total. Leftover LSU Foundation only if a later table prints labeled Appropriation (`lsu-foundation`; never mint `/lsu/` `/lsuf/` `/baton-rouge/` `/tigers/`). Leftover McNeese only if a later table prints Appropriation (`mcneese-state-university-foundation`; never mint `/mcneese/` `/lake-charles/`). Then leftover unique Mass state university Foundation 2025 FS besides MCLA and UMass Foundation (Worcester / Westfield / Framingham / Bridgewater / Salem Foundation standalone / Mass Maritime / MassArt) only if a hosted 2025 FASB change table prints three facts. Then leftover unique SUNY campus foundations besides Buffalo/Purchase/Farmingdale only if a public 2025 PDF URL exists. Then leftover unique WWU / Evergreen only if a later table prints Appropriation / labeled Total. Then leftover EMMA 2025 house PDFs for leftover institutions not already in `priority-slugs.csv` (never remint Rochester `P21957435` / Wellesley `P21958918` / Northeastern `P21972691`; never GET Campbellsville unaudited / Averett forecast). Then leftover PA / IN / KY / leftover WV / NY OSC / NJ / leftover AZ if NEW. Then leftover ACCS FY25 only if NEW signed 2025 FASB change table independently GET **200**. Then leftover privates whose 2025 house FS actually hosts a PDF. Independently GET **200** before drafting. Do not remint leftover University of Massachusetts Foundation. Do not remint leftover Naval War College Foundation. Do not remint Waves 178–326 except Related flatten. Do not flatten leftover dollars. Do not invent leftover **4%** / leftover **4.00%** / leftover **5.5%** / leftover **4.0%** / leftover **4.01%** / leftover **5%** / leftover **5.0%** / leftover **8.2%** / leftover **8%** / leftover **3%** / leftover **2%** / leftover **14.7%** / leftover **7%** / leftover **10%** / leftover **4.25%** / leftover **4.50%** / leftover **6.5%** / leftover **7.00%** / leftover **4.75%** / leftover **53.66%** / leftover **8.50%** / leftover **5.25%** / leftover **1.19%** / leftover **6%** / leftover **90%** / leftover **4.26%** / leftover **3.25%** / leftover **1.25%** / leftover **1%** / leftover **7.50%** / leftover **93%**.

@@ -1,0 +1,55 @@
+---
+title: "University of Rochester endowment, explained"
+slug: university-of-rochester-endowment
+type: institution
+desk: research
+audience: allocator
+primary_keyword: "University of Rochester endowment"
+answer_block: "The University of Rochester endowment is the endowment book of the University of Rochester and Related Entities, not leftover Harvard $56.9 billion, leftover University of Michigan $21,201 million, leftover Cornell $10,880,678 thousand, leftover Syracuse $2,246,893 thousand, leftover Rochester Institute of Technology $1,475,376 thousand, leftover University of Akron Foundation $255,803,642, leftover MetroHealth Foundation $42,537,285. The official 30 June 2025 financial statements print Balance as of June 30, 2025 Total of $3,146,887 thousand. Printed Investment return, net Total was $342,825 thousand. This change table does not print a one-year percent. Do not invent leftover 5.5% as one. Amounts appropriated for expenditure were $135,494 thousand. This page is not leftover Cornell. This page is not leftover Syracuse. This page is not leftover Rochester Institute of Technology. This page is not leftover University of Akron Foundation. This page is not leftover MetroHealth Foundation. This page is not leftover entity-wide $6,090,454 thousand. This page is not leftover Strong Memorial Hospital. This page is not leftover UR Medicine. This page is not leftover 990. This page is not a ranking and not advice."
+sources:
+  - https://emma.msrb.org/P21957435.pdf
+  - https://www.rochester.edu/
+conversion: brief
+editor_status: draft
+---
+
+# University of Rochester endowment, explained
+
+The University of Rochester endowment is the endowment book of the University of Rochester and Related Entities, not leftover Harvard **$56.9 billion**, leftover University of Michigan **$21,201 million**, leftover Cornell **$10,880,678 thousand**, leftover Syracuse **$2,246,893 thousand**, leftover Rochester Institute of Technology **$1,475,376 thousand**, leftover University of Akron Foundation **$255,803,642**, leftover MetroHealth Foundation **$42,537,285**. The official [30 June 2025 financial statements](https://emma.msrb.org/P21957435.pdf) print Balance as of June 30, 2025 Total of **$3,146,887 thousand** at **30 June 2025**. Printed Investment return, net Total was **$342,825 thousand**. This change table does not print a one-year percent. Do not invent leftover **5.5%** as one. Amounts appropriated for expenditure were **$135,494 thousand**. This page is not leftover Cornell. This page is not leftover Syracuse. This page is not leftover Rochester Institute of Technology. This page is not leftover University of Akron Foundation. This page is not leftover MetroHealth Foundation. This page is not leftover entity-wide **$6,090,454 thousand**. This page is not leftover Strong Memorial Hospital. This page is not leftover UR Medicine. This page is not leftover 990. This page is not a ranking and not advice.
+
+**Do not treat this page as a leftover Harvard overwrite or a leftover Rochester Institute of Technology overwrite.** Do not mint `/university-of-rochester-endowment-explained/`. **Never mint `/rochester/`.** **Never mint `/ur/`.** **Never mint `/uor/`.** **Never mint `/uofr/`.** **Never remint `/yellow-jackets/`.** Independently GET this wake (GET **200** `application/pdf` **579,591** bytes). Filename in `Content-Disposition`: `P21957435.pdf`. Official EMMA / MSRB public listing. House lander `https://www.rochester.edu/` independently GET **200**. `pdftotext` **168,641** bytes. 47 pages. FY ends **30 June 2025**. Dollars in thousands. PricewaterhouseCoopers LLP, **207 High Point Drive, Suite 210, Victor, New York 14564**. Opinion **Victor, New York, 17 October 2025**. Subsequent-events date also **17 October 2025**. Notes print the New York Prudent Management of Institutional Funds Act (NYPMIFA). The packet is University of Rochester and Related Entities — a private not-for-profit institution of higher education based in Rochester, New York. Do not mint leftover Strong Memorial Hospital / leftover UR Medicine / leftover SPHS from this file. Not leftover Cornell **$10,880,678 thousand**. Not leftover Syracuse **$2,246,893 thousand**. Not leftover Rochester Institute of Technology **$1,475,376 thousand**. Not leftover University of Akron Foundation **$255,803,642**. Not leftover MetroHealth Foundation **$42,537,285**. Not leftover 990.
+
+## What is official (30 June 2025)
+
+The financial statements print **actual dollars in thousands**.
+
+1. **Balance as of June 30, 2025 Total** **$3,146,887 thousand**. The same dollar is labeled Total endowment funds **$3,146,887 thousand**. The change table prints Without Donor Restrictions / With Donor Restrictions / Total columns. Leftover Without **$1,400,908 thousand** / leftover With **$1,745,979 thousand** are sleeves. Leftover purpose sleeves Instruction **$1,428,281 thousand** / Student aid **$590,484 thousand** / Program support **$1,128,122 thousand** reprint that Total. Leftover beginning Balance as of June 30, 2024 **$2,896,436 thousand** is another print. Leftover funds functioning as endowment (FFAE) **$1,400,908 thousand** reprints the Without Total endowment funds sleeve. Leftover entity-wide Total net assets **$6,090,454 thousand** is a wider book. Leftover Endowment and similar purposes investments **$3,315,267 thousand** is a wider book. Leftover investments held for long-term purposes **$4,081,571 thousand** is a wider book. Leftover Total investments **$5,162,105 thousand** is a wider book. Those lines are not leftover Harvard **$56.9 billion**, leftover University of Michigan **$21,201 million**, leftover Cornell **$10,880,678 thousand**.
+2. **Named books are not interchangeable.** Printed Investment return, net Total **$342,825 thousand** is the labeled change-table Total. Leftover Without **$153,508 thousand** / leftover With **$189,317 thousand** are sleeves under that Total — do not homemade-sum them as a second lock. Leftover Statement of Activities Total long-term investment activities **$381,412 thousand** is a wider book — do not flatten it onto **$342,825 thousand**. Leftover SOA Investment income **$15,051 thousand** + leftover Net appreciation **$366,361 thousand** reprint that wider book — do not homemade-sum them onto **$342,825 thousand**. Leftover 2024 Investment return, net Total **$254,484 thousand** is the comparative year — do not flatten it onto **$342,825 thousand**. This change table does not print a one-year percent. Do not invent leftover **5.5%**. Do not invent leftover **5%** / leftover **4.0%** / leftover **4%** / leftover **5.0%** / leftover **8.2%** / leftover **8%** / leftover **3%** / leftover **14.7%** / leftover **7%** / leftover **10%** / leftover **6.5%** / leftover **7.00%** / leftover **4.75%** / leftover **4.25%** / leftover **4.50%** / leftover **53.66%**. Do not flatten leftover beginning **$2,896,436 thousand**, leftover entity-wide **$6,090,454 thousand**, leftover Endowment and similar purposes **$3,315,267 thousand**, leftover Cornell, leftover homemade rate onto **$3,146,887 thousand** / **$342,825 thousand**.
+3. **Payout.** Amounts appropriated for expenditure Total **$135,494 thousand** (printed **$(135,494)**). Leftover Without **$(61,339) thousand** / leftover With **$(74,155) thousand** are sleeves under that Total — do not homemade-sum them as a second lock. Leftover SOA Long-term investment income and gains allocated to operations **$135,494 thousand** is the same dollar on a different SOA line — name the book; do not treat it as a second lock. Leftover Gifts and transfers **$43,120 thousand** are not payout. Leftover 2024 Amounts appropriated for expenditure Total **$127,178 thousand** is the comparative year — do not flatten it onto **$135,494 thousand**. PricewaterhouseCoopers LLP, **17 October 2025**. The spending policy prints that the Board of Trustees authorized the use of total return from its endowment resources at an aggregate rate of **5.5%** of the average fair value of its consolidated investment portfolio for the most recent five years — leftover policy, not a one-year return. Leftover pension discount rate **5.50%** is another leftover print — do not invent it as a one-year return.
+
+Do not flatten the University of Rochester into leftover [Rochester Institute of Technology endowment](/rit-endowment/), leftover [Syracuse University endowment](/syracuse-endowment/), leftover [Cornell University endowment](/cornell-endowment/), leftover [MetroHealth Foundation endowment](/metrohealth-foundation/), leftover [University of Akron Foundation endowment](/university-of-akron-foundation/), leftover `/rochester/`, leftover `/ur/`, leftover `/uor/`, leftover `/uofr/`, leftover `/yellow-jackets/`, leftover 990, leftover Strong Memorial Hospital, leftover UR Medicine, leftover CalPERS, leftover [UC Investments](/uc-investments/), or leftover [largest university endowments](/largest-university-endowments-2026/). This is **one University of Rochester file**. The University of Rochester is not leftover Rochester Institute of Technology.
+
+## What an owner is actually buying
+
+Counsel selling “Rochester AUM” or “UR AUM” has to name the University of Rochester endowment book, not leftover Rochester Institute of Technology, and not leftover entity-wide **$6,090,454 thousand**. The **$3,146,887 thousand** line is Balance as of June 30, 2025 Total. The printed return is Investment return, net Total **$342,825 thousand**. The **$135,494 thousand** line is Amounts appropriated for expenditure. Those are not leftover Cornell. Those are not leftover Syracuse. Those are not leftover Rochester Institute of Technology. Those are not leftover University of Akron Foundation. Those are not leftover MetroHealth Foundation. Those are not leftover entity-wide **$6,090,454 thousand**. Those are not leftover Strong Memorial Hospital. Those are not leftover UR Medicine.
+
+Do not 301 this page onto `/rit-endowment/`, `/syracuse-endowment/`, `/cornell-endowment/`, `/metrohealth-foundation/`, `/university-of-akron-foundation/`, `/rochester/`, `/ur/`, `/uor/`, `/uofr/`, `/yellow-jackets/`, or `/largest-university-endowments-2026/`.
+
+## Where Universal Asset Owners sits
+
+[Advertise](/advertise/). Empty honest listings beat unsourced logos.
+
+[Ethics](/ethics/) (version 1.0, **28 May 2026**): editorial staff do not own or trade individual securities of issuers they cover.
+
+## Related
+
+- [Largest university endowments](/largest-university-endowments-2026/)
+- [The endowment model, explained](/endowment-model-explained/)
+- [Rochester Institute of Technology endowment](/rit-endowment/)
+- [Syracuse University endowment](/syracuse-endowment/)
+- [Cornell University endowment](/cornell-endowment/)
+- [MetroHealth Foundation endowment](/metrohealth-foundation/)
+- [University of Akron Foundation endowment](/university-of-akron-foundation/)
+- [New York Medical College endowment](/new-york-medical-college-endowment/)
+- [Advertise](/advertise/)
+- [Editorial ethics](/ethics/)

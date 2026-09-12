@@ -1,0 +1,28 @@
+# Wave 105 — unique institution pages (rotation 5 continued)
+
+Checked live **26 August 2026**. Ghost API still missing. Leftover official-filing house-AUM keepers remain exhausted after Wave 80. Unique operations P1s remain exhausted after Wave 103. Wave 104 shipped five institution nodes. This wake ships five more unique **needed P0 institution** nodes. New slugs. No leftover overwrite. No invented pay, vendor logos, or house AUM. Print house currency. Not a ranking.
+
+Wave 80 leftovers: do not overwrite Wave 12 Alaska or Wave 20 NIIF again. Do not overwrite Wave 81–104 keepers or institution keepers already current or already drafted. Do not overwrite live `/omers-explained/` (**$145.2bn / 6% / 99%** at 31 Dec 2025). Do not overwrite Texas PSF (Wave 10) or Texas TRS (Wave 20). Do not overwrite highest-harm leftovers that already have refresh drafts.
+
+1. **`ford-foundation.md`** → `/ford-foundation/`  
+   New US private-foundation file, not a second endowment-vs-foundation overwrite or a second Gates/Wellcome overwrite. Official 2025 audited statements (in thousands) at **31 December 2025**: investments **$17,156,492 thousand** (**$17.2 billion**); net assets without donor restrictions **$16,101,005 thousand** (**$16.1 billion**); grants approved **$773,443 thousand**. Do not add the lines. Do not treat leftover **$16.0 billion (December 2022)** as this filing. **Do not mint `/ford-foundation-explained/` (404).** Do not 301 onto `/endowment-vs-foundation-investing/`, `/wellcome-trust/`, or `/gates-foundation-trust/`.
+2. **`mit-investment-management-company.md`** → `/mit-investment-management-company/`  
+   New MIT investment-office page, not a second Harvard or Yale overwrite. Official Treasurer FY2025: endowment excluding pledges **$27,366.2 million** at **30 June 2025** (2024: **$24,572.7 million**). Unitized pool **14.8 percent**. Official MIT News: ten-year annualized **10.7 percent**. Institute net assets **$37,675.7 million** are **not** the endowment. **Do not mint `/mitimco/` (404).** Do not reprint leftover homemade MIT **$35–40 billion**. Do not 301 onto `/largest-university-endowments-2026/` or `/yale-endowment-model/`.
+3. **`utimco.md`** → `/utimco/`  
+   New UT / Texas A&M endowment-manager page, not a second Texas TRS or Permanent School Fund overwrite. Official 2025 AR: Endowments **$67.6 billion** at **31 August 2025**; return **+10.0 percent**; ten-year **+8.6 percent**; distributions **$2.7 billion**. Created **March 1996**. Named books: PUF and GEF. Canonical official-name slug. **Do not mint `/university-of-texas-imf/` or `/utimco-explained/` (404).** Do not 301 onto `/texas-permanent-school-fund-explained/` or `/texas-teacher-retirement-system-explained/`.
+4. **`unjspf.md`** → `/unjspf/`  
+   New UN multi-employer staff pension, not a second CalPERS or GPIF overwrite. Official 2025 FS (thousands of USD) at **31 December 2025**: net assets available for benefits **$107,533,052 thousand** (**$107.53 billion**); investments **$106,492,913 thousand**; contributions **$3,738,044 thousand**; pension benefits **$4,336,702 thousand**. Actuarial provision **$99,755,472 thousand**; excess **$7,777,580 thousand** — not a second AUM. **Do not mint `/unjps-united-nations/` or `/united-nations-joint-staff-pension-fund/` (404).** Do not reprint leftover CalPERS **$460bn**.
+5. **`maharlika-investment-corporation.md`** → `/maharlika-investment-corporation/`  
+   New Philippine statutory SWF manager, not a leftover **$10 billion** AUM and not a second Southeast Asia pile. RA **11954** (July **2023**): authorized capital stock **PHP 500 billion** — a ceiling, not current assets. Official MIC 2024 annual-report release: total comprehensive income **PHP 2.68 billion**; **PHP 1.45 billion** remitted to the National Treasury. Print pesos. Do not dollarize. Do not print unofficial 2025 asset totals. **Do not mint `/maharlika/`, `/philippines-maharlika/`, or `/maharlika-investment-fund/` (404).** Do not 301 onto `/southeast-asia-sovereign-wealth-funds/`.
+
+**Skipped this wake:** EPFO (official annual-report index still does not lock a 2024–25 PDF). Compensation / carry / MFO fees. City-office twins. Remaining skip/weak cities. PIC / GEPF (no official AUM this turn). BII / KAUST / OPERS / WSIB / PRIM (not this wake). Capital Stage Ledger (no first-party definition on live `/methodology/`).
+
+**Left needed (not drafted):** EPFO if an official PDF locks. Remaining skip/weak cities until an official HQ street locks. Compensation stays skip.
+
+**Also this wake:** Wave 34 endowment-vs-foundation, Wave 104 Wellcome + Gates, Wave 17 endowment list, Wave 84 Boston, Wave 8 pension-fund, and Wave 27 Southeast Asia now link these five.
+
+**Queued 301 this wake:** none.
+
+**Paste after Wave 104 institution pages.** Then these five.
+
+**Refused this wake:** ICD YE2025 PDF. Dollarizing SEK / GBP / BRL / PHP / kroner / yen. Reprinting leftover Registry ranking dollars, leftover GPFG **$1.4T**, leftover Yale **$41.4bn**, leftover Harvard **$50.7bn**, leftover Ford **$16.0bn (December 2022)**, leftover MIT **$35–40bn**, leftover Maharlika **$10bn**, leftover CalPERS **$460bn**, leftover Alaska **$89bn**, leftover PIF **$925bn** / **$2T**, or Australian Super AUM. Inventing a 2025 Maharlika AUM from unaudited press. Overwriting OMERS, Texas PSF, Texas TRS, or already-current / already-drafted institution keepers. Remaining skip/weak cities. Compensation. EPFO without an official PDF. Directory firm children without three sourced facts. People/CEO pages. Dated news. Inventing a subscriber total, a live-role count, vendor logos, or an ADIA/KIA/QIA/SAFE/GIC AUM.

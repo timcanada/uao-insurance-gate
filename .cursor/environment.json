@@ -1,0 +1,17 @@
+{
+  "name": "UAO Insurance Gate flipbooks",
+  "install": "python3 --version",
+  "terminals": [
+    {
+      "name": "static-server",
+      "command": "python3 -m http.server 8000",
+      "description": "Serves the static flipbook site over HTTP on port 8000. Open http://localhost:8000/lloyds-flipbook.html or http://localhost:8000/pptx-flipbook.html to view the flipbooks; images load from assets/ via relative paths, so an HTTP server is required."
+    }
+  ],
+  "ports": [
+    {
+      "name": "web",
+      "port": 8000
+    }
+  ]
+}

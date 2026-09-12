@@ -1,0 +1,13 @@
+[project]
+name = "uao-growth"
+version = "0.1.0"
+description = "Senior-audience research agent for Universal Asset Owners"
+requires-python = ">=3.11"
+readme = "README.md"
+
+[project.scripts]
+uao-growth = "uao_growth.cli:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

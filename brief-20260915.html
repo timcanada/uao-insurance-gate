@@ -112,7 +112,8 @@
   .flag.hold { background: #f3e1c0; color: #6a4e12; }
   .flag.fix { background: #f6d6d0; color: #6a1f1f; }
   .flag.ok { background: #dce9dc; color: #1e4a2a; }
-  table { width: 100%; border-collapse: collapse; font-size: 14.5px; background: #fff; }
+  .scrollx { overflow-x: auto; -webkit-overflow-scrolling: touch; margin: 12px 0 18px; }
+  .scrollx table { min-width: 640px; }
   th, td { border-bottom: 1px solid var(--line); padding: 8px 10px; text-align: left; vertical-align: top; }
   th { font: 800 11px/1 system-ui, sans-serif; letter-spacing: .6px; text-transform: uppercase; color: var(--muted); }
   .chips { display: flex; flex-wrap: wrap; gap: 8px; margin: 8px 0 16px; }
@@ -270,6 +271,7 @@
       </article>
     </div>
     <h3>Stage ladder — refuse to add across rungs</h3>
+    <div class="scrollx">
     <table>
       <thead><tr><th>Rung</th><th>Example today</th><th>What it is not</th></tr></thead>
       <tbody>
@@ -282,11 +284,13 @@
         <tr><td>Financial close</td><td>Maple Infrastructure Trust (India) — different Maple</td><td>Canadian summit money</td></tr>
       </tbody>
     </table>
+    </div>
   </section>
 
   <section class="panel" id="flags">
     <h2>What a WSJ desk would still circle</h2>
     <p>V2 was already a serious pass. The remaining defects are load-bearing, not cosmetic.</p>
+    <div class="scrollx">
     <table>
       <thead><tr><th>Item</th><th>Verdict</th><th>What to do</th></tr></thead>
       <tbody>
@@ -303,6 +307,7 @@
         <tr><td>Day two of the summit</td><td><span class="flag hold">Live</span></td><td>Do not write 08:50 / Orida / the foreign panel as past tense.</td></tr>
       </tbody>
     </table>
+    </div>
     <p>Full annotated record: <a href="edition/2026-09-15/QA-FLAGS.md">QA-FLAGS.md</a>. Reader copy: <a href="edition/2026-09-15/READER-EDITION.md">READER-EDITION.md</a>.</p>
   </section>
 

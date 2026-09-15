@@ -1,0 +1,484 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Four Rooms, One Portfolio — UAO · 15 September 2026</title>
+<meta name="description" content="An interactive navigator for the 15 September 2026 UAO daily brief. Four rooms moved the same portfolios. None of them was an investment committee." />
+<link rel="canonical" href="https://timcanada.github.io/uao-insurance-gate/brief-20260915.html" />
+<style>
+  :root {
+    --navy: #0b1f3a;
+    --navy2: #132d4a;
+    --navy3: #1a3b5c;
+    --gold: #c5a253;
+    --gold2: #e6c75a;
+    --cream: #f4efe6;
+    --ink: #0b1f3a;
+    --muted: #6b6459;
+    --line: #d9cfc0;
+    --pain: #8b2e2e;
+    --vita: #2f5d3a;
+    --hold: #8a6d1f;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; }
+  body {
+    background: var(--cream);
+    color: var(--ink);
+    font-family: Georgia, "Times New Roman", serif;
+    line-height: 1.45;
+  }
+  a { color: inherit; }
+  .wrap { max-width: 1120px; margin: 0 auto; padding: 0 18px 64px; }
+  header.mast {
+    background: var(--navy);
+    color: var(--cream);
+    padding: 18px 0 0;
+    border-bottom: 4px solid var(--gold);
+  }
+  .mast-inner { max-width: 1120px; margin: 0 auto; padding: 0 18px; }
+  .kicker {
+    font: 800 11px/1 system-ui, sans-serif;
+    letter-spacing: 1.6px;
+    text-transform: uppercase;
+    color: var(--gold2);
+  }
+  h1 { font-size: clamp(28px, 5vw, 46px); line-height: 1.12; margin: 10px 0 8px; font-weight: 700; }
+  .standfirst { font-size: 18px; color: #d7d0c2; max-width: 46rem; margin: 0 0 18px; }
+  nav.tabs {
+    display: flex; gap: 0; overflow-x: auto;
+    border-top: 1px solid #2a4a6c;
+  }
+  nav.tabs button {
+    background: transparent; color: #cfc6b4; border: 0;
+    padding: 12px 16px; font: 700 12px/1 system-ui, sans-serif;
+    letter-spacing: .4px; text-transform: uppercase; cursor: pointer;
+    white-space: nowrap; border-bottom: 3px solid transparent;
+  }
+  nav.tabs button.on, nav.tabs button:hover { color: var(--gold2); border-bottom-color: var(--gold); }
+  .gifband {
+    background: #07131f;
+    display: flex; justify-content: center;
+  }
+  .gifband img { width: min(100%, 1120px); height: auto; display: block; }
+  .panel { display: none; padding-top: 22px; }
+  .panel.on { display: block; }
+  h2 { font-size: 26px; margin: 8px 0 10px; }
+  h3 { font-size: 18px; margin: 18px 0 8px; }
+  p, li { font-size: 16.5px; }
+  .lede { font-size: 19px; }
+  .why {
+    display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px; margin: 18px 0 8px;
+  }
+  .why article {
+    background: #fff; border: 1px solid var(--line); padding: 14px 16px;
+    border-top: 4px solid var(--gold);
+  }
+  .why .pain { border-top-color: var(--pain); }
+  .why .vita { border-top-color: var(--vita); }
+  .why .term { border-top-color: var(--hold); }
+  .why b {
+    display: block; font: 800 10px/1 system-ui, sans-serif;
+    letter-spacing: 1.2px; text-transform: uppercase; margin-bottom: 6px;
+  }
+  .pain b { color: var(--pain); }
+  .vita b { color: var(--vita); }
+  .term b { color: var(--hold); }
+  .rooms {
+    display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 12px 0 20px;
+  }
+  .rooms button {
+    text-align: left; background: #fff; border: 1px solid var(--line);
+    padding: 14px 14px 16px; cursor: pointer; min-height: 118px;
+  }
+  .rooms button.on { border-color: var(--gold); box-shadow: 0 0 0 2px var(--gold); }
+  .rooms small { display: block; font: 800 10px/1 system-ui, sans-serif; letter-spacing: 1.1px; color: var(--gold); text-transform: uppercase; }
+  .rooms strong { display: block; font-size: 18px; margin-top: 6px; }
+  .rooms span { display: block; font-size: 13px; color: var(--muted); margin-top: 4px; }
+  .story {
+    background: #fff; border: 1px solid var(--line); padding: 20px 22px 8px;
+  }
+  .num {
+    font: 800 13px/1 "SF Mono", ui-monospace, monospace; color: var(--navy);
+    background: #efe6cf; padding: 2px 7px; margin-right: 4px;
+  }
+  .flag {
+    display: inline-block; font: 800 10px/1 system-ui, sans-serif;
+    letter-spacing: .8px; text-transform: uppercase; padding: 3px 8px;
+    border-radius: 99px; margin-right: 6px;
+  }
+  .flag.hold { background: #f3e1c0; color: #6a4e12; }
+  .flag.fix { background: #f6d6d0; color: #6a1f1f; }
+  .flag.ok { background: #dce9dc; color: #1e4a2a; }
+  table { width: 100%; border-collapse: collapse; font-size: 14.5px; background: #fff; }
+  th, td { border-bottom: 1px solid var(--line); padding: 8px 10px; text-align: left; vertical-align: top; }
+  th { font: 800 11px/1 system-ui, sans-serif; letter-spacing: .6px; text-transform: uppercase; color: var(--muted); }
+  .chips { display: flex; flex-wrap: wrap; gap: 8px; margin: 8px 0 16px; }
+  .chips button {
+    background: #fff; border: 1px solid var(--line); padding: 8px 12px;
+    cursor: pointer; font: 600 13px/1 system-ui, sans-serif;
+  }
+  .chips button.on { background: var(--navy); color: var(--cream); border-color: var(--navy); }
+  .termcard {
+    background: #fff; border: 1px solid var(--line); padding: 20px 22px; min-height: 220px;
+  }
+  .termcard h3 { margin-top: 0; font-size: 26px; }
+  .flow {
+    position: relative; background: var(--navy); color: var(--cream);
+    padding: 22px 16px 28px; overflow: hidden; margin: 0 -18px 18px;
+  }
+  .flow svg { width: 100%; height: auto; display: block; }
+  .ic {
+    background: var(--navy); color: var(--cream); padding: 22px 24px; margin-top: 22px;
+  }
+  .ic .kicker { margin-bottom: 8px; }
+  .ic p { font-size: 20px; }
+  footer.note { color: var(--muted); font-size: 13px; margin-top: 28px; }
+  .embedbox {
+    background: #fff; border: 1px dashed var(--gold); padding: 14px 16px; font: 13px/1.4 ui-monospace, monospace;
+    color: var(--navy); overflow-x: auto;
+  }
+  .sorter { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; }
+  .sorter article { background: #fff; border: 1px solid var(--line); padding: 14px; }
+  .sorter h3 { margin-top: 0; }
+  @media (max-width: 860px) {
+    .why, .rooms, .sorter { grid-template-columns: 1fr; }
+    .rooms button { min-height: 0; }
+  }
+  body.embed { background: #07131f; }
+  body.embed .mast-inner h1 { font-size: 26px; }
+  body.embed .wrap { padding-bottom: 24px; }
+</style>
+</head>
+<body>
+<header class="mast">
+  <div class="mast-inner">
+    <div class="kicker">Universal Asset Owners · Tuesday 15 September 2026 · Interactive brief</div>
+    <h1>Four rooms moved your portfolio.</h1>
+    <p class="standfirst">A central bank measured an allocation nobody voted on. A central banker named the seller. A prime minister opened a shop window. A pension board has to decide whether a 14.8% year should raise its own liabilities. Click a room. Steal a term. Avoid the pain.</p>
+    <nav class="tabs" id="tabs" aria-label="Navigator">
+      <button data-tab="story" class="on">The story</button>
+      <button data-tab="flow">The workflow</button>
+      <button data-tab="terms">Terms as vitamins</button>
+      <button data-tab="pipeline">The 167</button>
+      <button data-tab="flags">What we flagged</button>
+      <button data-tab="embed">Embed</button>
+    </nav>
+  </div>
+</header>
+
+<div class="gifband">
+  <img src="assets/2026-09-15/allocation-nobody-voted-on.gif" alt="Animated four-frame briefing: three sleeves collapse into one software-revenue crate, then the investment-committee question." width="1120" height="675" />
+</div>
+
+<div class="wrap">
+  <section class="panel on" id="story">
+    <div class="rooms" id="roomBtns"></div>
+    <div class="story" id="storyBox"></div>
+    <div class="why" id="whyBox"></div>
+    <figure style="margin:22px 0 0;background:#fff;border:1px solid var(--line);padding:0 0 12px">
+      <img src="assets/2026-09-15/three-doors-one-vault.png" alt="Editorial cartoon: three committee doors open into the same vault." style="width:100%;height:auto;display:block">
+      <figcaption style="padding:10px 16px 0;font-size:14px;color:var(--muted)">
+        “Excellent. Three uncorrelated strategies.” The crate is labelled software revenue assumptions, 2021 vintage.
+      </figcaption>
+    </figure>
+  </section>
+
+  <section class="panel" id="flow">
+    <h2>The crazy workflow</h2>
+    <p class="lede">Capital did not wait for a vote. It already sat in three columns. Monday’s rooms only told you so.</p>
+    <div class="flow" aria-hidden="false">
+      <svg viewBox="0 0 1100 420" role="img" aria-label="Animated capital flow from households through three sleeves into one technology cash-flow crate.">
+        <defs>
+          <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#c5a253"/><stop offset="1" stop-color="#e6c75a"/></linearGradient>
+        </defs>
+        <rect width="1100" height="420" fill="#0b1f3a"/>
+        <text x="40" y="36" fill="#c5a253" font-family="system-ui" font-size="13" font-weight="700" letter-spacing="2">HOUSEHOLD SAVINGS · €1.4tn / YEAR  ·  C$120tn IN THE ROOM</text>
+        <rect x="40" y="60" width="220" height="70" rx="8" fill="#132d4a" stroke="#c5a253"/>
+        <text x="150" y="102" fill="#f4efe6" font-size="16" text-anchor="middle" font-family="Georgia">Households</text>
+        <rect x="310" y="60" width="220" height="70" rx="8" fill="#132d4a" stroke="#c5a253"/>
+        <text x="420" y="102" fill="#f4efe6" font-size="16" text-anchor="middle" font-family="Georgia">Funds / plans</text>
+        <path d="M260 95 H310" stroke="url(#g)" stroke-width="3"/>
+        <rect x="80" y="200" width="200" height="64" rx="8" fill="#1a3b5c" stroke="#c5a253"/>
+        <text x="180" y="238" fill="#f4efe6" font-size="15" text-anchor="middle" font-family="Georgia">Index equity</text>
+        <rect x="340" y="200" width="200" height="64" rx="8" fill="#1a3b5c" stroke="#c5a253"/>
+        <text x="440" y="238" fill="#f4efe6" font-size="15" text-anchor="middle" font-family="Georgia">Credit sleeve</text>
+        <rect x="600" y="200" width="220" height="64" rx="8" fill="#1a3b5c" stroke="#c5a253"/>
+        <text x="450" y="0"></text>
+        <text x="710" y="238" fill="#f4efe6" font-size="15" text-anchor="middle" font-family="Georgia">Private markets</text>
+        <path d="M180 130 V200" stroke="#c5a253" stroke-width="2"/>
+        <path d="M420 130 V200" stroke="#c5a253" stroke-width="2"/>
+        <path d="M420 130 H710 V200" stroke="#c5a253" stroke-width="2"/>
+        <rect x="300" y="320" width="500" height="72" rx="10" fill="#132d4a" stroke="#e6c75a" stroke-width="2"/>
+        <text x="550" y="350" fill="#e6c75a" font-size="13" text-anchor="middle" font-family="system-ui" font-weight="700">ONE CRATE</text>
+        <text x="550" y="374" fill="#f4efe6" font-size="18" text-anchor="middle" font-family="Georgia">Software revenue assumptions, 2021 vintage</text>
+        <path d="M180 264 V356 H300" stroke="#e6c75a" stroke-width="2"/>
+        <path d="M440 264 V356" stroke="#e6c75a" stroke-width="2"/>
+        <path d="M710 264 V356 H800" stroke="#e6c75a" stroke-width="2"/>
+        <circle r="6" fill="#e6c75a">
+          <animateMotion dur="5s" repeatCount="indefinite" path="M150 95 H420 H710 V238"/>
+        </circle>
+        <circle r="6" fill="#c5a253">
+          <animateMotion dur="6.5s" repeatCount="indefinite" path="M180 238 V356 H550"/>
+        </circle>
+        <circle r="6" fill="#e6c75a">
+          <animateMotion dur="7s" repeatCount="indefinite" path="M440 238 V356"/>
+        </circle>
+        <circle r="6" fill="#c5a253">
+          <animateMotion dur="5.5s" repeatCount="indefinite" path="M710 238 V356 H550"/>
+        </circle>
+        <text x="860" y="90" fill="#8a9bb0" font-size="13" font-family="Georgia">Vienna wants it home.</text>
+        <text x="860" y="112" fill="#8a9bb0" font-size="13" font-family="Georgia">Toronto wants it here.</text>
+        <text x="860" y="134" fill="#8a9bb0" font-size="13" font-family="Georgia">Basel says it already left.</text>
+        <text x="860" y="156" fill="#8a9bb0" font-size="13" font-family="Georgia">Sacramento has to choose.</text>
+      </svg>
+    </div>
+    <p>Lagarde asked Europe’s savings to come home. Carney asked the world’s savings to come to Canada. The BIS showed the largest allocation of the week had already happened, inside a sleeve everybody bought for diversification. CalPERS has to decide whether a year that cleared the hurdle by three basis points on a five-year basis should raise the measured promise.</p>
+    <div class="ic">
+      <div class="kicker">The investment-committee question</div>
+      <p>Which bodies outside this room can change the composition of this portfolio without our consent — and what is the most recent date on which we measured that?</p>
+    </div>
+  </section>
+
+  <section class="panel" id="terms">
+    <h2>Terms that can still save you</h2>
+    <p class="lede">These are not vocabulary. They are instruments. Ignore one, and a press release becomes a pacing input. Learn one, and a brochure becomes a term sheet.</p>
+    <div class="chips" id="termChips"></div>
+    <div class="termcard" id="termCard"></div>
+  </section>
+
+  <section class="panel" id="pipeline">
+    <h2>How to sort 167 lines without a total</h2>
+    <p>Published capex totals for the prospectus do not agree. The Logic puts it above US$425 billion. Other tallies run higher. Do not publish a single sum. Sort by what is missing.</p>
+    <div class="sorter">
+      <article>
+        <h3>1 · Operating assets</h3>
+        <p>The missing counterparty is usually the <b>seller’s valuation</b>. You can underwrite this. You can also overpay for a familiar cash-flow you already own through another sleeve.</p>
+      </article>
+      <article>
+        <h3>2 · Permitted, unfunded</h3>
+        <p>The missing counterparty is usually a <b>customer or offtake</b>, not another investor. More equity does not create a buyer of electrons, LNG, or nickel.</p>
+      </article>
+      <article>
+        <h3>3 · Early concepts</h3>
+        <p>The missing counterparty is an <b>engineering milestone</b>. Treat the extra return for development risk as visible, or do not take the risk.</p>
+      </article>
+    </div>
+    <h3>Stage ladder — refuse to add across rungs</h3>
+    <table>
+      <thead><tr><th>Rung</th><th>Example today</th><th>What it is not</th></tr></thead>
+      <tbody>
+        <tr><td>Intention</td><td>Power Corporation C$10bn</td><td>A drawdown</td></tr>
+        <tr><td>Capacity</td><td>TD C$150bn / 5 yrs; BMO up to C$70bn / 10 yrs</td><td>LP capital</td></tr>
+        <tr><td>Incentive</td><td>Manitoba RST waiver; CRA queue jump</td><td>A tax cut</td></tr>
+        <tr><td>MOU</td><td>Bell / Saskatchewan path to 1.2 GW</td><td>A close</td></tr>
+        <tr><td>Objective</td><td>Ontario Teachers’ +C$10bn by 2027</td><td>Summit news, or a waiver of the hurdle</td></tr>
+        <tr><td>Reported vehicle</td><td>Maple Fund C$50bn — Globe, both CEOs quoted</td><td>A first-party close</td></tr>
+        <tr><td>Financial close</td><td>Maple Infrastructure Trust (India) — different Maple</td><td>Canadian summit money</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section class="panel" id="flags">
+    <h2>What a WSJ desk would still circle</h2>
+    <p>V2 was already a serious pass. The remaining defects are load-bearing, not cosmetic.</p>
+    <table>
+      <thead><tr><th>Item</th><th>Verdict</th><th>What to do</th></tr></thead>
+      <tbody>
+        <tr><td>BIS 44% / $1tn / 46% / IQR 3.25→1.75 / first-lien 77.6→92.2</td><td><span class="flag ok">Cleared</span></td><td>Print the headline share. V2 buried it.</td></tr>
+        <tr><td>CalPERS 14.8 / 6.83 / 6.81</td><td><span class="flag ok">Cleared</span></td><td>Keep. Add the 2.0pp FRM hurdle (8.8%, not “any year above 6.8%”).</td></tr>
+        <tr><td>FRM automatic trigger removed April 2024</td><td><span class="flag ok">Cleared</span></td><td>Do not import the 2025 staff recommendation into today’s meeting.</td></tr>
+        <tr><td>Lagarde €440bn / €1.4tn / 5% vs three-quarters</td><td><span class="flag hold">Secondary</span></td><td>Speech corroborated (ORF, Econostream). ECB html not opened. No long verbatim until it is.</td></tr>
+        <tr><td>Maple Fund C$50bn</td><td><span class="flag hold">Globe</span></td><td>Headline still “sources say.” CEO quotes exist. First-party release not published. Stage: reported, not closed.</td></tr>
+        <tr><td>CSIS “more than 80%” AI exclusions</td><td><span class="flag fix">Fix</span></td><td>The Information, 23 April 2026, relayed by CSIS on 4 September. CSIS did not count the filings.</td></tr>
+        <tr><td>Bell “$52.5bn”</td><td><span class="flag fix">Fix</span></td><td>MOU; includes tenant GPUs and BYOP gas. Bell hall ~C$1.7bn. Range the jobs.</td></tr>
+        <tr><td>Bank envelopes as C$250bn</td><td><span class="flag fix">Fix</span></td><td>Do not add. Different horizons, overlapping facilities, capacity not equity.</td></tr>
+        <tr><td>PSP “from C$72.4bn”</td><td><span class="flag fix">Killed</span></td><td>USD rendering of the C$100bn <em>target</em>. Base &gt;C$75bn.</td></tr>
+        <tr><td>Petroline 7 mb/d as current flow</td><td><span class="flag hold">Hold</span></td><td>April 2026 restoration nameplate. Wartime 2.6–4.0 mb/d (Rystad). SPA not re-opened here.</td></tr>
+        <tr><td>Day two of the summit</td><td><span class="flag hold">Live</span></td><td>Do not write 08:50 / Orida / the foreign panel as past tense.</td></tr>
+      </tbody>
+    </table>
+    <p>Full annotated record: <a href="edition/2026-09-15/QA-FLAGS.md">QA-FLAGS.md</a>. Reader copy: <a href="edition/2026-09-15/READER-EDITION.md">READER-EDITION.md</a>.</p>
+  </section>
+
+  <section class="panel" id="embed">
+    <h2>Newsletter embed</h2>
+    <p>Two objects. The GIF is the email surface (105 KB, four frames, linked). The page is the web surface. Ghost: wrap the GIF in a working link with a visible caption. A bare <code>&lt;img&gt;</code> fails A38b.</p>
+    <p class="kicker" style="color:var(--hold);margin:12px 0">Email (GIF)</p>
+    <div class="embedbox">&lt;a href="https://www.universalassetowners.com/brief-20260915.html"&gt;
+  &lt;img src="https://www.universalassetowners.com/content/allocation-nobody-voted-on.gif"
+       width="100%" alt="Four rooms, one portfolio — tap to open the navigator." /&gt;
+&lt;/a&gt;
+&lt;p&gt;Four rooms moved the same portfolios. Tap to walk them.&lt;/p&gt;</div>
+    <p class="kicker" style="color:var(--hold);margin:18px 0 8px">Web (iframe)</p>
+    <div class="embedbox">&lt;iframe src="https://timcanada.github.io/uao-insurance-gate/brief-20260915.html?embed=1"
+        width="100%" height="820" style="border:1px solid #1d2e44;background:#0b1f3a"
+        title="UAO Four Rooms navigator, 15 September 2026"&gt;&lt;/iframe&gt;</div>
+    <p>Scenario deep-link (when Scenario Lab is up): <code>/scenario-lab/?s=DS-20260915-the-allocation-nobody-voted-on</code></p>
+  </section>
+
+  <footer class="note">
+    Editorial analysis for long-horizon owners. Not investment, legal or actuarial advice.
+    Sources checked through 15 September 2026. Cartoon concept: three doors, one vault.
+    Universal Asset Owners.
+  </footer>
+</div>
+
+<script>
+const ROOMS = {
+  basel: {
+    city: "Basel",
+    who: "Bank for International Settlements",
+    title: "The allocation nobody voted on",
+    body: `<p class="lede">Tech firms’ borrowing in private credit rose from about $22 billion in 2010 to <span class="num">over $1 trillion, 44%</span> by 2025. About 55% of funds now lend to tech.</p>
+      <p>Among post-2020 technology borrowers, negative EBITDA rose from <span class="num">23%</span> to <span class="num">46%</span>. Median leverage among the profitable ones <b>tripled</b>. The interquartile range of spreads compressed from 3.25 percentage points to 1.75. First-lien share went from 77.6% to 92.2%. Seniority rose as quality fell.</p>
+      <p>The counter-case is real: Matvos, Piskorski and Seru find these funds remain 65–80% equity-financed. Losses hit the holder. They do not automatically become a funding crisis. That is why a universal owner should care <i>more</i>, not less.</p>
+      <p>PitchBook, US borrowers, a wide “tech” vertical. Associations with local employment are not causal. The authors say the financial-stability question remains open.</p>`,
+    pain: "You will be shown the public-equity tech weight and told you are underweight software. That slide will be true and insufficient. The pain is a simultaneous mark-down across three columns, plus a gated vehicle. HLEND repurchase requests ran at ~11.5% against a 5% cap.",
+    vita: "Ask for look-through: listed tech + hyperscaler IG credit + tech borrowers inside private credit + any ‘real-asset’ ticket whose offtaker is a GPU tenant. If they share one customer, they are not four risks.",
+    term: "Spread IQR — when the middle 50% of prices get closer together while quality gets further apart, the market has stopped discriminating."
+  },
+  vienna: {
+    city: "Vienna",
+    who: "Christine Lagarde, ECB",
+    title: "Europe has the savings. It does not have the market.",
+    body: `<p class="lede">Euro-area households save about <span class="num">€1.4tn a year</span> and hold about <span class="num">€440bn</span> in US technology firms. Europe hosts ~5% of AI compute; the US, roughly three-quarters.</p>
+      <p>The €440bn is not a patriotism statistic. It is a redemption channel. Holdings sit mostly in funds. Funds can be sold. A US tech drawdown is a European household event before it is a European policy event — and the selling arrives when a European build-out needs equity most.</p>
+      <p>Do not write that European pensions are forced sellers. The channel is redemptions, not a statutory dump. Capital-markets union has been the official answer for a decade. Naming AI as the catalyst does not enact the legislation.</p>
+      <p>ECB html was not opened at the obvious slug. Figures corroborated by ORF and Econostream. Qualifiers stay: about, up to, could be as high as.</p>`,
+    pain: "If you are European, a US drawdown hits household, sponsor and portfolio together — just as Brussels asks you to fund a domestic build. If you are not, ‘capital coming home’ is a potential seller in names you hold in size.",
+    vita: "Separate stock (€440bn already there) from flow (€1.4tn saved each year). Policy can redirect a flow. A stock can only be sold. The confirm is a large European pension announcing an AI-infrastructure equity or offtake sleeve.",
+    term: "Redemption channel — a holding is not a commitment. It is an option the other side of the market can exercise against you."
+  },
+  toronto: {
+    city: "Toronto",
+    who: "Canada Investment Summit",
+    title: "The shop window is open. The book is not.",
+    body: `<p class="lede">Funds managing <span class="num">over C$120tn</span> came to peer into the shop window. That is the size of the room, not the cheque. Official conversion clock, from the hosts: 12–18 months. Enable is not close.</p>
+      <p>Fink is not Gray. BlackRock indexes, operates Aladdin, and is building private markets. Blackstone sponsors. Temasek and KIA are principals. APG is a Dutch fiduciary. Enthusiasm is not a ticket.</p>
+      <p>The CRA queue jump for ≥C$1bn rulings is the one instrument that changes a decision process today. The bank envelopes are capacity, not equity, and must not be summed. Bell’s path to 1.2 GW is a non-binding MOU; the C$50–52.5bn stack includes tenant GPUs and behind-the-meter gas. Maple Fund (Canada, CPP/Brookfield) is a reported co-underwrite — Globe, both CEOs quoted, first-party release not published. Maple Infrastructure Trust (India) is a different transaction.</p>
+      <p>What did not happen: no SWF cheque, no FID, no Ontario 15-project list, no LNG Canada Phase 2 term sheet. US 50% duties take effect while the room meets.</p>`,
+    pain: "In a year you will be asked why the C$1tn did not arrive. The painful version is that you treated capacity as capital, an MOU as a close, and a prospectus as a pipeline — then paced a real book against a political total.",
+    vita: "Keep three columns: available / contracted / drawn. Plus one word: stage. If a slide cannot say which rung it sits on, it is a brochure.",
+    term: "Enable vs close. Co-underwrite. BYOP. Queue jump. Listing is not a close."
+  },
+  sacramento: {
+    city: "Sacramento",
+    who: "CalPERS Board",
+    title: "14.8%. Then 6.83%. Then a choice.",
+    body: `<p class="lede">Preliminary net return <span class="num">14.8%</span> for the year to 30 June 2026. Five-year annualised: <span class="num">6.83%</span>. Assumed rate: <span class="num">6.8%</span>. Twenty-year: <span class="num">6.81%</span> — below the assumption. Three basis points.</p>
+      <p>The automatic Funding Risk Mitigation trigger was removed in April 2024. The current rule is not “any year above 6.8%.” A discussion is required when the fiscal-year return exceeds the assumed rate by <b>2.0 percentage points or more</b> (8.8%). 14.8% clears it. Finance & Administration Committee today, 09:30 PT. Full Board tomorrow. A committee item is not a board decision.</p>
+      <p>Lowering the discount rate raises the measured liability. It is the purchase of a more honest number with part of this year’s return. Corporate DB (Milliman 100) sits at 112.2% funded, discounting at 6.0%. The two halves of American DB are moving in opposite directions. Tomorrow’s FOMC is a policy rate. 6.8% is a liability assumption. They are not the same object.</p>`,
+    pain: "If the board cuts, contribution rates rise just as cities are told the fund ‘had a great year.’ If it does not, and the next decade looks like the last twenty, the honesty was deferred.",
+    vita: "Always print 1y / 5y / 10y / 20y against the assumed rate. A single year is a press release. The four-horizon strip is the job.",
+    term: "Discount rate — not a return target you celebrate. It is the interest rate used to measure a promise."
+  }
+};
+
+const TERMS = [
+  { id: "lookthrough", name: "Look-through",
+    pain: "Three ‘uncorrelated’ sleeves share one software-revenue assumption. You find out in a drawdown, on a slide that only shows public equity.",
+    vita: "One page, four lines: listed tech, IG hyperscaler credit, tech private credit, GPU-tenanted real assets. If the offtaker is the same, concentration is already in the book.",
+    use: "IC pack, every quarter. Date the last measurement." },
+  { id: "iqr", name: "Spread IQR",
+    pain: "A narrower band of prices for a wider dispersion of quality means the market stopped discriminating while you were still buying ‘senior secured.’",
+    vita: "BIS: 3.25pp → 1.75pp as negative-EBITDA tech borrowers went 23% → 46% and first-lien went 77.6% → 92.2%.",
+    use: "Credit memo. Ask whether price still maps to quality inside the sleeve." },
+  { id: "enable", name: "Enable vs close",
+    pain: "C$280bn is ‘expected to enable’ C$1tn. Treating enable language as a close paces a portfolio against a political total.",
+    vita: "Hosts’ own clock: 12–18 months. Joly: three months to a year. Anything faster is a rumour until a term sheet.",
+    use: "Every summit slide. Circle the verb." },
+  { id: "co", name: "Co-underwrite",
+    pain: "Calling Maple Fund a ‘fund’ implies a fee, a carry, and LPs who can decline to re-up. This has two principals and, as reported, no economics between them. The usual discipline is missing unless you put it back.",
+    vita: "C$25bn each, ≥C$5bn tickets, 50/50. Ask for the first named asset’s unlevered entry yield, and who holds the strategic-sector veto.",
+    use: "Do not say ‘Maple’ without Maple Fund (Canada) or Maple Infrastructure Trust (India)." },
+  { id: "discount", name: "Discount rate",
+    pain: "People hear ‘we beat our assumed return’ and think the plan got cheaper. Lowering the rate raises the measured liability and, in time, contributions.",
+    vita: "CalPERS: 14.8% year, 6.83% five-year, 6.81% twenty-year, 6.8% assumption. FRM discussion triggers at +2.0pp (8.8%). Committee today; board tomorrow.",
+    use: "Always state the direction. Never report a single year without the 5/10/20 strip." },
+  { id: "nameplate", name: "Nameplate vs flow",
+    pain: "Printing 7 mb/d as current Petroline throughput describes a restoration notice from April, not wartime flow of 2.6–4.0 mb/d.",
+    vita: "Restoration language is not a throughput print. JWLA-034 (29 July) is the insurance fact until a new circular.",
+    use: "Every energy and infrastructure ticket. Capacity ≠ utilised ≠ contracted." },
+  { id: "byop", name: "BYOP / embedded gas",
+    pain: "A ‘digital sovereignty’ campus with 900 MW of behind-the-meter gas is a climate, fuel-cost and policy position whether the slide says so or not.",
+    vita: "Split the ticket: building / compute / generation. Follow the legal payer. Range the jobs; ISED 4,500 does not reconcile with Bell or Saskatchewan.",
+    use: "Climate mandates, infrastructure sleeves, any AI-campus memo." },
+  { id: "queue", name: "Queue jump",
+    pain: "Calling the CRA change a tax cut. It is not. The 90-business-day standard remains for everyone else.",
+    vita: "≥C$1bn now goes to the front of the advance-ruling line. Binding if the facts match. Genuine friction removal. The one summit instrument that changes a process today.",
+    use: "Tax, structuring, any C$1bn-plus Canadian ticket." },
+  { id: "stage", name: "Stage",
+    pain: "Adding TD + Scotia + BMO + Sun Life + Power + CIBC + RBC into ‘C$250bn of new capital.’ The number does not exist.",
+    vita: "Intention → capacity → incentive → MOU → objective → close. Three scoreboard columns: available / contracted / drawn.",
+    use: "Every capital-in-motion table. Unlike quantities are not summed." },
+  { id: "insurability", name: "Insurability withdrawal",
+    pain: "An uninsured loss does not disappear. It migrates into the credit, the municipal, the residual market, the tax bill.",
+    vita: "The Information (23 Apr): >80% of AI-exclusion requests approved. CSIS (4 Sep) asked what that means. FAIR Plan 127k → 668k+. January 2027 renewals are the confirm.",
+    use: "Read the exclusion, not the sustainability report." },
+  { id: "capacity", name: "Fink is not Gray",
+    pain: "A photo with BlackRock, Blackstone, Temasek and KIA gets written up as ‘Wall Street commits to Canada.’ Attendance is not a ticket. Capacity is not identified.",
+    vita: "Indexer / sponsor / principal / fiduciary. Ask in which capacity the firm would act — lender, equity, operator, arranger, or competitor for the same asset.",
+    use: "Every bilateral readout." },
+  { id: "homebias", name: "Home-country exposure",
+    pain: "A Canadian plan already owns Canadian employment, housing and public services through the beneficiary. Adding domestic real assets can be development and concentration at once.",
+    vita: "Overseas owner: Canada as diversifier. Canadian owner: additional home-country exposure. Neither settles price and structure.",
+    use: "Any domestic-allocation floor, Maple Fund ticket, or ‘buy Canada’ pacing memo." }
+];
+
+const tabs = document.querySelectorAll("#tabs button");
+const panels = document.querySelectorAll(".panel");
+tabs.forEach((btn) => btn.addEventListener("click", () => {
+  tabs.forEach((b) => b.classList.toggle("on", b === btn));
+  panels.forEach((p) => p.classList.toggle("on", p.id === btn.dataset.tab));
+}));
+
+const roomBtns = document.getElementById("roomBtns");
+const storyBox = document.getElementById("storyBox");
+const whyBox = document.getElementById("whyBox");
+Object.entries(ROOMS).forEach(([id, room], i) => {
+  const b = document.createElement("button");
+  b.innerHTML = `<small>Room ${i + 1} · ${room.city}</small><strong>${room.who}</strong><span>${room.title}</span>`;
+  b.addEventListener("click", () => showRoom(id));
+  roomBtns.appendChild(b);
+  b.dataset.id = id;
+});
+function showRoom(id) {
+  const room = ROOMS[id];
+  [...roomBtns.children].forEach((b) => b.classList.toggle("on", b.dataset.id === id));
+  storyBox.innerHTML = `<div class="kicker" style="color:var(--hold)">${room.city}</div><h2>${room.title}</h2>${room.body}`;
+  whyBox.innerHTML = `
+    <article class="pain"><b>Why it hurts</b>${room.pain}</article>
+    <article class="vita"><b>The vitamin</b>${room.vita}</article>
+    <article class="term"><b>The term</b>${room.term}</article>`;
+}
+showRoom("basel");
+
+const chips = document.getElementById("termChips");
+const termCard = document.getElementById("termCard");
+function showTerm(id) {
+  const t = TERMS.find((x) => x.id === id);
+  [...chips.children].forEach((b) => b.classList.toggle("on", b.dataset.id === id));
+  termCard.innerHTML = `<h3>${t.name}</h3>
+    <div class="why" style="grid-template-columns:1fr 1fr 1fr">
+      <article class="pain"><b>Pain if you ignore it</b>${t.pain}</article>
+      <article class="vita"><b>Vitamin</b>${t.vita}</article>
+      <article class="term"><b>How to use it this week</b>${t.use}</article>
+    </div>`;
+}
+TERMS.forEach((t) => {
+  const b = document.createElement("button");
+  b.textContent = t.name;
+  b.dataset.id = t.id;
+  b.addEventListener("click", () => showTerm(t.id));
+  chips.appendChild(b);
+});
+showTerm("lookthrough");
+
+if (new URLSearchParams(location.search).get("embed") === "1") {
+  document.body.classList.add("embed");
+}
+</script>
+</body>
+</html>

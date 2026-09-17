@@ -2,6 +2,7 @@ import assert from 'node:assert/strict';
 import { describe, it } from 'node:test';
 
 import { assembleCash, isCashCopy } from '../src/lib/cash.ts';
+import { assemblePeers, peerKind, sinceTuesdayMs } from '../src/lib/peers.ts';
 import { flowKind } from '../src/lib/flows.ts';
 import { assemblePack, defaultLastIc, isPublicDeskCopy, parseLastIc, publishedOnOrAfter } from '../src/lib/ic.ts';
 import {
@@ -216,5 +217,49 @@ describe('cash this week', () => {
     );
     assert.deepEqual(cash.map((item) => item.id), ['tender']);
     assert.equal(cash[0].kind, 'pacing');
+  });
+});
+
+describe('peer book', () => {
+  it('labels a desk-printed vote or filing and ignores a newspaper', () => {
+    assert.equal(peerKind('Owned versus voted: CPP Investments directors on the Climate Action 100 slate'), 'vote');
+    assert.equal(peerKind('NBIM 13F: the oil stake is the news'), 'filing');
+    assert.equal(peerKind('CalPERS made 14.8%. Its five-year is 6.83.'), null);
+    assert.equal(peerKind('The allocation nobody voted on'), null);
+  });
+
+  it('keeps prints since Tuesday and drops QC and a bonus story', () => {
+    const now = Date.parse('2026-09-17T12:00:00.000Z');
+    assert.equal(new Date(sinceTuesdayMs(now)).toISOString().slice(0, 10), '2026-09-15');
+    const peers = assemblePeers(
+      [
+        {
+          id: 'qc',
+          title: '[QC — NOT SENT TO LIST] NBIM 13F: the oil stake is the news',
+          publishedAt: '2026-09-16T12:00:00.000Z',
+        },
+        {
+          id: 'old',
+          title: 'NBIM 13F: last quarter',
+          publishedAt: '2026-09-01T12:00:00.000Z',
+        },
+        {
+          id: 'vote',
+          title: 'Owned versus voted: CPP Investments directors on the Climate Action 100 slate',
+          publishedAt: '2026-09-16T15:00:00.000Z',
+          slug: 'owned-versus-voted',
+        },
+        {
+          id: 'bonus',
+          title: 'CalPERS CEO bonus jumps after returns beat target',
+          publishedAt: '2026-09-16T18:00:00.000Z',
+        },
+      ],
+      now,
+      6,
+    );
+    assert.deepEqual(peers.map((item) => item.id), ['vote']);
+    assert.deepEqual(peers[0].names, ['CPP']);
+    assert.equal(peers[0].kind, 'vote');
   });
 });

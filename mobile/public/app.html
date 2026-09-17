@@ -862,6 +862,37 @@
         return true;
       }).sort((a, b) => (Date.parse(b.publishedAt) || 0) - (Date.parse(a.publishedAt) || 0)).slice(0, limit || 6);
     }
+    function peerKind(title, summary) {
+      const blob = (title || '') + ' ' + (summary || '');
+      if (!nameHits(blob).length) return null;
+      if (/\b(13[\s-]?f|form 13[dfg]|13d|13g)\b/i.test(blob)) return 'Filing';
+      if (/\b(owned versus voted|proxy (vote|solic|season)|shareholder proposal|voted (for|against|down))\b/i.test(blob)) return 'Vote';
+      if (/\b(holdings (report|disclosure|file|rose|fell|cut|added)|disclosed (its )?(holdings|stake|position)|stake disclosure|increased its stake|cut its stake)\b/i.test(blob)) return 'Holdings';
+      return null;
+    }
+    function sinceTuesdayMs(nowMs) {
+      const now = new Date(nowMs || Date.now());
+      const back = (now.getUTCDay() + 5) % 7;
+      return Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate() - back);
+    }
+    function assemblePeers(seeds, nowMs, limit) {
+      const now = nowMs || Date.now();
+      const floor = sinceTuesdayMs(now);
+      const seen = new Set();
+      return seeds.filter((item) => {
+        if (!isPublicDeskCopy(item.title)) return false;
+        const kind = peerKind(item.title, item.summary);
+        if (!kind) return false;
+        const t = Date.parse(item.publishedAt || '');
+        if (Number.isNaN(t) || t < floor || t > now + 3600000) return false;
+        const key = (item.slug || item.url || item.title || '').toLowerCase();
+        if (!key || seen.has(key)) return false;
+        seen.add(key);
+        item.peerLabel = kind;
+        item.peerNames = nameHits((item.title || '') + ' ' + (item.summary || '')).map((row) => row[1]);
+        return true;
+      }).sort((a, b) => (Date.parse(b.publishedAt) || 0) - (Date.parse(a.publishedAt) || 0)).slice(0, limit || 6);
+    }
     function parseCurve(text) {
       const rows = [];
       String(text || '').replace(/<[^>]+>/g, ' ').replace(/\|/g, ' ').split(/\n+/).forEach((line) => {
@@ -1217,10 +1248,12 @@
             const titles = sleeveItems.filter((item) => sleeveHit((item.title || '') + ' ' + (item.summary || ''), needles)).map((item) => item.title);
             return { id, label, lit: titles.length > 0, titles };
           });
-          const cash = assembleCash([
+          const deskPool = [
             ...publicLatest.map((p) => ({ id: p.id, title: p.title, summary: excerpt(p), publishedAt: p.published_at, slug: p.slug, source: kicker(p) })),
             ...wireCache.map((item) => ({ id: item.id, title: item.title, summary: item.summary, publishedAt: item.publishedAt, slug: item.slug, url: item.url, source: item.source })),
-          ]);
+          ];
+          const cash = assembleCash(deskPool);
+          const peers = assemblePeers(deskPool);
           const watch = getWatch();
           const nameHitsFor = (id) => {
             const row = BOOK_NAMES.find((n) => n[0] === id);
@@ -1292,6 +1325,13 @@
               <h2>${esc(item.title)}</h2>
               <span class="note">${esc(item.source || '')} · ${fmt(item.publishedAt)}</span>
             </article>`).join('') || '<p class="lede">No call, tender or distribution on the desk this week.</p>'}
+            <div class="kicker">Peer book since Tuesday</div>
+            <p class="lede">Who moved — holdings, votes, filings the desk already printed. Not a 13F we invented. SWFI already sells the scrape.</p>
+            ${peers.map((item) => `<article class="ic-item" data-${item.slug ? 'slug' : 'url'}="${esc(item.slug || item.url || '')}">
+              <div class="kicker">${esc(item.peerLabel || 'Peer')}${item.peerNames && item.peerNames.length ? ' · ' + esc(item.peerNames.join(' · ')) : ''}</div>
+              <h2>${esc(item.title)}</h2>
+              <span class="note">${esc(item.source || '')} · ${fmt(item.publishedAt)}</span>
+            </article>`).join('') || '<p class="lede">No peer filing the desk has printed since Tuesday. We do not invent a 13F.</p>'}
             <div class="seg">
               <button data-go="briefs">Read</button>
               <button data-go="watchv">Watch</button>

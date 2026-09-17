@@ -1,3 +1,4 @@
+import { isPublicDeskCopy } from '../lib/ic';
 import { BOOK_FEED_QUERY, isAllocatorGrade } from '../lib/names';
 import { fetchPosts } from './ghost';
 
@@ -54,7 +55,7 @@ export function mergeWire(items: WireItem[]): WireItem[] {
   return items
     .filter((item) => {
       const key = (item.url || item.slug || item.title).toLowerCase();
-      if (seen.has(key)) return false;
+      if (seen.has(key) || !isPublicDeskCopy(item.title)) return false;
       seen.add(key);
       return Boolean(item.title);
     })

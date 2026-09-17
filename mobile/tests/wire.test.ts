@@ -43,6 +43,30 @@ describe('mergeWire', () => {
     assert.equal(merged.length, 2);
     assert.equal(merged[0].title, 'Newer');
   });
+
+  it('drops QC review copies so the public wire never shows them', () => {
+    const items: WireItem[] = [
+      {
+        id: 'qc',
+        desk: 'UAO',
+        source: 'The Universal Owner',
+        title: '[QC — NOT SENT TO LIST] CalPERS made 14.8%. Its five-year is 6.83%.',
+        publishedAt: '2026-09-16T10:00:00.000Z',
+        url: 'https://example.com/qc',
+      },
+      {
+        id: 'live',
+        desk: 'UAO',
+        source: 'The Universal Owner',
+        title: 'CalPERS made 14.8%. Its five-year is 6.83%.',
+        publishedAt: '2026-09-15T10:00:00.000Z',
+        url: 'https://example.com/live',
+      },
+    ];
+    const merged = mergeWire(items);
+    assert.equal(merged.length, 1);
+    assert.equal(merged[0].id, 'live');
+  });
 });
 
 describe('isJustIn', () => {

@@ -1,4 +1,5 @@
 import { classifyPost } from '../lib/classify';
+import { isPublicDeskCopy } from '../lib/ic';
 import type { ClassifiedPost, GhostPost, GhostPostsResponse } from '../types';
 import snapshot from '../data/snapshot.json';
 
@@ -71,7 +72,7 @@ export async function fetchPosts(options: FetchPostsOptions = {}): Promise<{
   });
   const data = await getJson<GhostPostsResponse>(url);
   return {
-    posts: (data.posts ?? []).map(classifyPost),
+    posts: (data.posts ?? []).filter((post) => isPublicDeskCopy(post.title)).map(classifyPost),
     pages: data.meta?.pagination?.pages ?? 1,
     total: data.meta?.pagination?.total ?? 0,
     page: data.meta?.pagination?.page ?? page,

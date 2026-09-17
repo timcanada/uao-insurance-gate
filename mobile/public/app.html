@@ -987,7 +987,7 @@
       if (filter) url.searchParams.set('filter', filter);
       const res = await fetch(url);
       if (!res.ok) throw new Error('Desk unreachable (' + res.status + ')');
-      cache[key] = (await res.json()).posts || [];
+      cache[key] = ((await res.json()).posts || []).filter((p) => isPublicDeskCopy(p.title));
       return cache[key];
     }
     async function fetchPost(slug) {
@@ -1002,7 +1002,7 @@
       url.searchParams.set('limit', '20');
       url.searchParams.set('include', 'tags');
       url.searchParams.set('filter', "title:~'" + q.replace(/'/g, '') + "'");
-      return (await (await fetch(url)).json()).posts || [];
+      return ((await (await fetch(url)).json()).posts || []).filter((p) => isPublicDeskCopy(p.title));
     }
     function card(post, hero) {
       const src = post.feature_image ? safeSrc(post.feature_image) : '';
@@ -1123,7 +1123,7 @@
       wireCache = [...desk, ...official, ...book]
         .filter((item) => {
           const key = (item.url || item.slug || item.title).toLowerCase();
-          if (seen.has(key) || !item.title) return false;
+          if (seen.has(key) || !item.title || !isPublicDeskCopy(item.title)) return false;
           seen.add(key);
           return true;
         })

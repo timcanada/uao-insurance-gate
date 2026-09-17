@@ -1,6 +1,7 @@
 import { Pressable, StyleSheet, Text, TextInput, View } from 'react-native';
 
 import { CASH_COPY, type CashItem } from '@/src/lib/cash';
+import { PEER_COPY, PEER_EMPTY, type PeerItem } from '@/src/lib/peers';
 import { formatBp, type ThirtyYearPrint } from '@/src/lib/rates';
 import type { PackItem } from '@/src/lib/ic';
 import type { DeskSession } from '@/src/lib/session';
@@ -164,6 +165,34 @@ export function CashRail({
         ))
       ) : (
         <Text style={styles.note}>No call, tender or distribution on the desk this week.</Text>
+      )}
+    </View>
+  );
+}
+
+export function PeerRail({
+  items,
+  onOpen,
+}: {
+  items: PeerItem[];
+  onOpen: (item: PeerItem) => void;
+}) {
+  return (
+    <View>
+      <Text style={styles.kicker}>Peer book since Tuesday</Text>
+      <Text style={styles.note}>{PEER_COPY}</Text>
+      {items.length ? (
+        items.map((item) => (
+          <Pressable key={item.id} onPress={() => onOpen(item)} style={styles.row}>
+            <Text style={styles.kicker}>
+              {item.label}
+              {item.names.length ? ` · ${item.names.join(' · ')}` : ''}
+            </Text>
+            <Text style={styles.rowTitle}>{item.title}</Text>
+          </Pressable>
+        ))
+      ) : (
+        <Text style={styles.note}>{PEER_EMPTY}</Text>
       )}
     </View>
   );

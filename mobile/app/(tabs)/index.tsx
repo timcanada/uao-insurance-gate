@@ -7,7 +7,7 @@ import { Pressable, RefreshControl, ScrollView, StyleSheet, Text, View } from 'r
 import { fetchThirtyYear } from '@/src/api/rates';
 import { fetchPosts, snapshotToday } from '@/src/api/ghost';
 import { fetchWire } from '@/src/api/wire';
-import { CashRail, IcPack, LiabilityTape, SleeveMap, WatchBook } from '@/src/components/CioDesk';
+import { CashRail, IcPack, LiabilityTape, PeerRail, SleeveMap, WatchBook } from '@/src/components/CioDesk';
 import { PartnerPlate } from '@/src/components/PartnerPlate';
 import { SubscribeCard } from '@/src/components/SubscribeCard';
 import { ProbabilityMeters, TerminalHeader, Ticker } from '@/src/components/Terminal';
@@ -21,6 +21,7 @@ import {
 } from '@/src/components/Ui';
 import { FILTERS } from '@/src/lib/classify';
 import { assembleCash, type CashItem } from '@/src/lib/cash';
+import { assemblePeers, type PeerItem } from '@/src/lib/peers';
 import { assemblePack, isPublicDeskCopy, parseLastIc, type PackItem, type PackSeed } from '@/src/lib/ic';
 import { BOOK_NAMES, nameHits } from '@/src/lib/names';
 import { yieldFromCopy, type ThirtyYearPrint } from '@/src/lib/rates';
@@ -48,6 +49,7 @@ export default function TodayScreen() {
   const [lastIc, setLastIc] = useState(parseLastIc(null));
   const [print, setPrint] = useState<ThirtyYearPrint | null>(null);
   const [cash, setCash] = useState<CashItem[]>([]);
+  const [peers, setPeers] = useState<PeerItem[]>([]);
   const [loading, setLoading] = useState(!initial.hero);
   const [refreshing, setRefreshing] = useState(false);
   const [error, setError] = useState<string | null>(null);
@@ -147,28 +149,28 @@ export default function TodayScreen() {
         })),
         ...wire.map((item) => ({ title: item.title, slug: item.slug, url: item.url })),
       ];
-      setCash(
-        assembleCash([
-          ...publicLatest.map((post) => ({
-            id: post.id,
-            title: post.title,
-            summary: post.summary,
-            publishedAt: post.published_at,
-            slug: post.slug,
-            url: post.url,
-            source: post.kicker,
-          })),
-          ...wire.map((item) => ({
-            id: item.id,
-            title: item.title,
-            summary: item.summary,
-            publishedAt: item.publishedAt,
-            slug: item.slug,
-            url: item.url,
-            source: item.source,
-          })),
-        ]),
-      );
+      const deskPool = [
+        ...publicLatest.map((post) => ({
+          id: post.id,
+          title: post.title,
+          summary: post.summary,
+          publishedAt: post.published_at,
+          slug: post.slug,
+          url: post.url,
+          source: post.kicker,
+        })),
+        ...wire.map((item) => ({
+          id: item.id,
+          title: item.title,
+          summary: item.summary,
+          publishedAt: item.publishedAt,
+          slug: item.slug,
+          url: item.url,
+          source: item.source,
+        })),
+      ];
+      setCash(assembleCash(deskPool));
+      setPeers(assemblePeers(deskPool));
       setHits(
         storedWatch.map((id) => {
           const label = BOOK_NAMES.find((name) => name.id === id)?.label || id;
@@ -257,6 +259,13 @@ export default function TodayScreen() {
         />
         <CashRail
           items={cash}
+          onOpen={(item) => {
+            if (item.slug) router.push({ pathname: '/article/[slug]', params: { slug: item.slug } });
+            else if (item.url) WebBrowser.openBrowserAsync(item.url);
+          }}
+        />
+        <PeerRail
+          items={peers}
           onOpen={(item) => {
             if (item.slug) router.push({ pathname: '/article/[slug]', params: { slug: item.slug } });
             else if (item.url) WebBrowser.openBrowserAsync(item.url);

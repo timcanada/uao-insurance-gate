@@ -666,11 +666,11 @@
       } catch (e) { return ''; }
     }
     const BOOK_NAMES = [
-      ['cpp', 'CPP', ['cpp investments', 'canada pension', 'cpib']],
+      ['cpp', 'CPP', ['cpp investments', 'canada pension', "canada's pension", 'cpib']],
       ['calpers', 'CalPERS', ['calpers']],
       ['calstrs', 'CalSTRS', ['calstrs']],
       ['otpp', 'OTPP', ['otpp', 'ontario teachers']],
-      ['nbim', 'NBIM', ['nbim', 'norges bank']],
+      ['nbim', 'NBIM', ['nbim', 'norges bank', "norway's sovereign", 'norway sovereign']],
       ['gic', 'GIC', ['gic']],
       ['adia', 'ADIA', ['adia']],
       ['pif', 'PIF', ['public investment fund']],
@@ -865,9 +865,9 @@
     function peerKind(title, summary) {
       const blob = (title || '') + ' ' + (summary || '');
       if (!nameHits(blob).length) return null;
-      if (/\b(13[\s-]?f|form 13[dfg]|13d|13g)\b/i.test(blob)) return 'Filing';
+      if (/\b(13[\s-]?f|form 13[dfg]|13d|13g|filed prospectus|prospectus names)\b/i.test(blob)) return 'Filing';
       if (/\b(owned versus voted|proxy (vote|solic|season)|shareholder proposal|voted (for|against|down))\b/i.test(blob)) return 'Vote';
-      if (/\b(holdings (report|disclosure|file|rose|fell|cut|added)|disclosed (its )?(holdings|stake|position)|stake disclosure|increased its stake|cut its stake)\b/i.test(blob)) return 'Holdings';
+      if (/\b(holdings (report|disclosure|file|rose|fell|cut|added)|disclosed (its )?(holdings|stake|position)|stake disclosure|increased its stake|cut its stake|among the sellers|among the buyers)\b/i.test(blob) || (/\bsold\b/i.test(blob) && /\bbought\b/i.test(blob))) return 'Holdings';
       return null;
     }
     function sinceTuesdayMs(nowMs) {

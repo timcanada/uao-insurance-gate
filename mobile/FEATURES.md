@@ -38,7 +38,7 @@ Academic work on what funds actually read (Ben-Rephael, Da, Israelsen and follow
 
 **Proof:** UAO already runs “Owned versus voted” and CPP-director votes as lead stories. SWFI’s paid product is investor profiles + transactions.
 
-**Build:** Watchlist of public holders; ingest NBIM, 13F, known vote disclosures; “what changed since Tuesday.”
+**Status:** TERM peer rail since Tuesday. Labels a holdings, vote, or filing only when the desk already printed it — prospectus / sold-and-bought on named owners, owned-versus-voted, a 13F the copy named. QC, bonus stories, and “the allocation nobody voted on” stay off. Honest empty if the week is quiet. Not a scraped 13F book.
 
 ## 5. Inverse MandateWire — owner-side flow
 

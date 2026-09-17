@@ -10,6 +10,10 @@ describe('nameHits', () => {
     ]);
     assert.equal(nameHits('A logical path for credit').length, 0);
     assert.equal(nameHits('Hormuz traffic and the 30-year').map((n) => n.id).join(','), 'hormuz,30y');
+    assert.deepEqual(
+      nameHits("Canada's pension fund sold. Norway's sovereign fund and ADIA bought.").map((n) => n.id),
+      ['cpp', 'nbim', 'adia'],
+    );
   });
 });
 

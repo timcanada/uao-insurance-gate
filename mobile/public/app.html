@@ -136,6 +136,7 @@
       padding-top: 3px;
     }
     .meters { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 6px; margin-top: 10px; }
+    .meters.grid5 { grid-template-columns: repeat(5, 1fr); }
     .meters div {
       background: #081422;
       border: 1px solid var(--line);
@@ -716,7 +717,24 @@
         const weights = { base: +split[1], upside: +split[2], tail: +split[3] };
         if (weights.base + weights.upside + weights.tail === 100) return weights;
       }
+      const base = text.match(/\bBASE\b[^\d]{0,48}(\d{1,2})\s*%/i);
+      const upside = text.match(/\b(UPSIDE|BREAK)\b[^\d]{0,48}(\d{1,2})\s*%/i);
+      const tail = text.match(/\bTAIL\b[^\d]{0,48}(\d{1,2})\s*%/i);
+      if (base && upside && tail) {
+        const weights = { base: +base[1], upside: +upside[2], tail: +tail[1] };
+        if (weights.base + weights.upside + weights.tail === 100) return weights;
+      }
       return null;
+    }
+    function parseDeskGrid(html) {
+      const text = String(html || '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ');
+      const block = text.match(/Desk stated\s*\(\s*5%\s*grid\s*\)\s*((?:\d{1,2}\s*%\s*){5})/i);
+      if (!block) return null;
+      const values = [];
+      String(block[1]).replace(/(\d{1,2})\s*%/g, (_, n) => { values.push(+n); return _; });
+      if (values.length !== 5) return null;
+      if (values.reduce((sum, n) => sum + n, 0) !== 100) return null;
+      return values;
     }
     function formatDelta(n) { return n ? (n > 0 ? '+' + n : String(n)) : 'unch'; }
     function canEnterHouse(record) { return seatStatus(record) === 'pending' || seatStatus(record) === 'seated'; }
@@ -1225,11 +1243,21 @@
           if (!wireCache.length) await loadWire().catch(() => {});
           const hero = briefs.find((p) => isPublicDeskCopy(p.title)) || briefs[0];
           const weights = desk[0] ? parseDeskWeights(desk[0].html || '') : null;
+          const grid = !weights && desk[0] ? parseDeskGrid(desk[0].html || '') : null;
           let delta = null;
+          let gridDelta = null;
           if (weights) {
             try { delta = JSON.parse(localStorage.getItem('uao.pdWeights') || 'null'); } catch (e) { delta = null; }
             if (delta) delta = { base: weights.base - delta.base, upside: weights.upside - delta.upside, tail: weights.tail - delta.tail };
             localStorage.setItem('uao.pdWeights', JSON.stringify(weights));
+          } else if (grid) {
+            try { gridDelta = JSON.parse(localStorage.getItem('uao.pdGrid') || 'null'); } catch (e) { gridDelta = null; }
+            if (Array.isArray(gridDelta) && gridDelta.length === grid.length) {
+              gridDelta = grid.map((n, i) => n - gridDelta[i]);
+            } else {
+              gridDelta = null;
+            }
+            localStorage.setItem('uao.pdGrid', JSON.stringify(grid));
           }
           const session = deskSession();
           const icDay = lastIc();
@@ -1267,6 +1295,17 @@
             const m = String(blob).replace(/<[^>]+>/g, ' ').match(/30-year[^\d%]{0,48}(\d\.\d{2})\s*%/i);
             if (m) tapePrint = { yield: Number(m[1]), date: '', deltaBp: null, source: 'desk-note', label: '30-year as printed in the desk note' };
           }
+          const gridMeters = grid
+            ? `<div class="meters grid5" style="margin-top:8px">${grid.map((n, i) => `<div><b>${n}%</b><span>${gridDelta ? formatDelta(gridDelta[i]) : 'grid'}</span></div>`).join('')}</div><p class="lede" style="margin-top:8px">Desk stated on a 5% grid. We do not relabel the buckets.</p>`
+            : '';
+          const splitMeters = weights
+            ? `<div class="meters" style="margin-top:8px">
+                  <div class="base"><b>${weights.base}%</b><span>BASE${delta ? ' · ' + formatDelta(delta.base) : ''}</span></div>
+                  <div class="up"><b>${weights.upside}%</b><span>UPSIDE${delta ? ' · ' + formatDelta(delta.upside) : ''}</span></div>
+                  <div class="tail"><b>${weights.tail}%</b><span>TAIL${delta ? ' · ' + formatDelta(delta.tail) : ''}</span></div>
+                </div>`
+            : '';
+          const pdBook = splitMeters || gridMeters || '<p class="lede">The desk has not printed a BASE / UPSIDE / TAIL split or a 5% grid in this edition. We do not invent a book.</p>';
           $('tape').innerHTML = publicLatest.concat(publicLatest).map((p) => `<b>${deskOf(p)}</b> ${esc(p.title)}`).join('   ·   ') + '   ·   ';
           $('main').innerHTML = `<div class="pad">
             <div class="folio"><b>${editionLine()}</b><span>New York desk</span></div>
@@ -1283,11 +1322,7 @@
                 <div class="kicker">${session.id === 'official' ? 'Print window' : 'Session'}</div>
                 <h2>${esc(session.title)}</h2>
                 <span>${esc(session.blurb)}</span>
-                ${weights ? `<div class="meters" style="margin-top:8px">
-                  <div class="base"><b>${weights.base}%</b><span>BASE${delta ? ' · ' + formatDelta(delta.base) : ''}</span></div>
-                  <div class="up"><b>${weights.upside}%</b><span>UPSIDE${delta ? ' · ' + formatDelta(delta.upside) : ''}</span></div>
-                  <div class="tail"><b>${weights.tail}%</b><span>TAIL${delta ? ' · ' + formatDelta(delta.tail) : ''}</span></div>
-                </div>` : ''}
+                ${pdBook}
               </div>
             </div>
             <div class="kicker">The book’s sleeves · lit from the desk, not a risk system</div>
@@ -1353,11 +1388,7 @@
               <div class="kicker">The Probability Desk</div>
               <h2>${desk[0] ? esc(desk[0].title) : 'Afternoon scenario'}</h2>
               <p class="lede">${desk[0] ? esc(excerpt(desk[0])) : 'Base, upside and tail — probability-weighted for capital that thinks in decades.'}</p>
-              ${weights ? `<div class="meters">
-                <div class="base"><b>${weights.base}%</b><span>BASE${delta ? ' · ' + formatDelta(delta.base) : ''}</span></div>
-                <div class="up"><b>${weights.upside}%</b><span>UPSIDE${delta ? ' · ' + formatDelta(delta.upside) : ''}</span></div>
-                <div class="tail"><b>${weights.tail}%</b><span>TAIL${delta ? ' · ' + formatDelta(delta.tail) : ''}</span></div>
-              </div>` : '<p class="lede">Weights live in the note. We do not invent a book the desk has not printed.</p>'}
+              ${pdBook}
               ${desk[0] ? `<div class="meta" style="margin-top:10px">Open the live scenario · ${fmt(desk[0].published_at)}</div>` : ''}
             </div>
             <div class="kicker">Chart of the day</div>

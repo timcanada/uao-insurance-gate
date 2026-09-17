@@ -28,7 +28,7 @@ import { yieldFromCopy, type ThirtyYearPrint } from '@/src/lib/rates';
 import { deskSession } from '@/src/lib/session';
 import { lightSleeves } from '@/src/lib/sleeves';
 import { normalizeWatch, toggleWatch } from '@/src/lib/watch';
-import { parseDeskWeights, weightDelta, type DeskWeights } from '@/src/lib/weights';
+import { gridDelta, parseDeskGrid, parseDeskWeights, weightDelta, type DeskWeights } from '@/src/lib/weights';
 import { colors, fonts } from '@/src/theme';
 import type { ClassifiedPost } from '@/src/types';
 
@@ -55,6 +55,8 @@ export default function TodayScreen() {
   const [error, setError] = useState<string | null>(null);
   const [weights, setWeights] = useState<DeskWeights | null>(null);
   const [delta, setDelta] = useState<DeskWeights | null>(null);
+  const [grid, setGrid] = useState<number[] | null>(null);
+  const [gridMove, setGridMove] = useState<number[] | null>(null);
 
   async function load(nextWatch?: string[], nextIc?: string) {
     setError(null);
@@ -80,14 +82,24 @@ export default function TodayScreen() {
       setCharts(chartFeed.posts);
       setTape(publicLatest);
       const nextWeights = pd.posts[0]?.html ? parseDeskWeights(pd.posts[0].html) : null;
+      const nextGrid = !nextWeights && pd.posts[0]?.html ? parseDeskGrid(pd.posts[0].html) : null;
       setWeights(nextWeights);
+      setGrid(nextGrid);
       if (nextWeights) {
         const raw = await AsyncStorage.getItem('uao.pdWeights');
         const prev = raw ? (JSON.parse(raw) as DeskWeights) : null;
         setDelta(weightDelta(prev, nextWeights));
+        setGridMove(null);
         await AsyncStorage.setItem('uao.pdWeights', JSON.stringify(nextWeights));
+      } else if (nextGrid) {
+        const raw = await AsyncStorage.getItem('uao.pdGrid');
+        const prev = raw ? (JSON.parse(raw) as number[]) : null;
+        setDelta(null);
+        setGridMove(gridDelta(prev, nextGrid));
+        await AsyncStorage.setItem('uao.pdGrid', JSON.stringify(nextGrid));
       } else {
         setDelta(null);
+        setGridMove(null);
       }
       const seeds: PackSeed[] = [
         ...publicBriefs.map((post) => ({
@@ -245,7 +257,7 @@ export default function TodayScreen() {
           Bloomberg already is. MandateWire already is.
         </Text>
 
-        <LiabilityTape print={print} session={deskSession()} weights={weights} delta={delta} />
+        <LiabilityTape print={print} session={deskSession()} weights={weights} delta={delta} grid={grid} gridMove={gridMove} />
         <SleeveMap sleeves={sleeves} />
         <IcPack lastIc={lastIc} onChangeLastIc={changeIc} items={pack} onOpen={openPack} />
         <WatchBook

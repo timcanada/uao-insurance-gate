@@ -62,7 +62,7 @@ Academic work on what funds actually read (Ben-Rephael, Da, Israelsen and follow
 
 **Proof:** UAO already ships PD every weekday with explicit weights. Scenario platforms (Aladdin Whole Portfolio, LCP what-if) are daily tools because the weights change.
 
-**Build:** Persist yesterday’s weights; flash the delta; tap through to the note.
+**Status:** TERM reads a Desk split (BASE / UPSIDE / TAIL) or the desk-stated 5% grid from the latest PD note. It flashes the move versus the last stored book. If this edition printed neither, the rail says so — we do not invent a three-way book.
 
 ## 8. Geopolitics → balance-sheet map
 

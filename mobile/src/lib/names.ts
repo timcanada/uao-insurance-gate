@@ -5,11 +5,11 @@ export type BookName = {
 };
 
 export const BOOK_NAMES: BookName[] = [
-  { id: 'cpp', label: 'CPP', needles: ['cpp investments', 'canada pension', 'cpib'] },
+  { id: 'cpp', label: 'CPP', needles: ['cpp investments', 'canada pension', "canada's pension", 'cpib'] },
   { id: 'calpers', label: 'CalPERS', needles: ['calpers'] },
   { id: 'calstrs', label: 'CalSTRS', needles: ['calstrs'] },
   { id: 'otpp', label: 'OTPP', needles: ['otpp', 'ontario teachers'] },
-  { id: 'nbim', label: 'NBIM', needles: ['nbim', 'norges bank'] },
+  { id: 'nbim', label: 'NBIM', needles: ['nbim', 'norges bank', "norway's sovereign", 'norway sovereign'] },
   { id: 'gic', label: 'GIC', needles: ['gic'] },
   { id: 'adia', label: 'ADIA', needles: ['adia'] },
   { id: 'pif', label: 'PIF', needles: ['public investment fund'] },

@@ -34,7 +34,9 @@ export const PEER_EMPTY =
 export function peerKind(title: string, summary = ''): PeerKind | null {
   const blob = `${title} ${summary}`;
   if (!nameHits(blob).length) return null;
-  if (/\b(13[\s-]?f|form 13[dfg]|13d|13g)\b/i.test(blob)) return 'filing';
+  if (/\b(13[\s-]?f|form 13[dfg]|13d|13g|filed prospectus|prospectus names)\b/i.test(blob)) {
+    return 'filing';
+  }
   if (
     /\b(owned versus voted|proxy (vote|solic|season)|shareholder proposal|voted (for|against|down))\b/i.test(
       blob,
@@ -43,9 +45,10 @@ export function peerKind(title: string, summary = ''): PeerKind | null {
     return 'vote';
   }
   if (
-    /\b(holdings (report|disclosure|file|rose|fell|cut|added)|disclosed (its )?(holdings|stake|position)|stake disclosure|increased its stake|cut its stake)\b/i.test(
+    /\b(holdings (report|disclosure|file|rose|fell|cut|added)|disclosed (its )?(holdings|stake|position)|stake disclosure|increased its stake|cut its stake|among the sellers|among the buyers)\b/i.test(
       blob,
-    )
+    ) ||
+    (/\bsold\b/i.test(blob) && /\bbought\b/i.test(blob))
   ) {
     return 'holdings';
   }

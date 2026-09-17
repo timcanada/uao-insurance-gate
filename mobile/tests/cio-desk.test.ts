@@ -226,6 +226,17 @@ describe('peer book', () => {
     assert.equal(peerKind('NBIM 13F: the oil stake is the news'), 'filing');
     assert.equal(peerKind('CalPERS made 14.8%. Its five-year is 6.83.'), null);
     assert.equal(peerKind('The allocation nobody voted on'), null);
+    assert.equal(
+      peerKind(
+        "Canada's pension fund sold. Norway and Abu Dhabi bought. The price is the news.",
+        "NSE placed Rs 6,746 crore with anchor investors. Norway's sovereign fund and ADIA bought; the filed prospectus names CPP Investments among the sellers.",
+      ),
+      'filing',
+    );
+    assert.equal(
+      peerKind("Canada's pension fund sold. Norway and Abu Dhabi bought. The price is the news."),
+      'holdings',
+    );
   });
 
   it('keeps prints since Tuesday and drops QC and a bonus story', () => {
@@ -254,12 +265,23 @@ describe('peer book', () => {
           title: 'CalPERS CEO bonus jumps after returns beat target',
           publishedAt: '2026-09-16T18:00:00.000Z',
         },
+        {
+          id: 'nse',
+          title: "Canada's pension fund sold. Norway and Abu Dhabi bought. The price is the news.",
+          summary:
+            "NSE placed Rs 6,746 crore with anchor investors. Norway's sovereign fund and ADIA bought; the filed prospectus names CPP Investments among the sellers.",
+          publishedAt: '2026-09-17T08:00:00.000Z',
+          slug: 'canada-pension-sold',
+        },
       ],
       now,
       6,
     );
-    assert.deepEqual(peers.map((item) => item.id), ['vote']);
-    assert.deepEqual(peers[0].names, ['CPP']);
-    assert.equal(peers[0].kind, 'vote');
+    assert.deepEqual(peers.map((item) => item.id), ['nse', 'vote']);
+    assert.equal(peers[0].kind, 'filing');
+    assert.ok(peers[0].names.includes('CPP'));
+    assert.ok(peers[0].names.includes('ADIA'));
+    assert.deepEqual(peers[1].names, ['CPP']);
+    assert.equal(peers[1].kind, 'vote');
   });
 });

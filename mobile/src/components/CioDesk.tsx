@@ -7,7 +7,7 @@ import type { PackItem } from '@/src/lib/ic';
 import type { DeskSession } from '@/src/lib/session';
 import type { LitSleeve } from '@/src/lib/sleeves';
 import { BOOK_NAMES } from '@/src/lib/names';
-import { formatDelta, type DeskWeights } from '@/src/lib/weights';
+import { formatDelta, GRID_COPY, type DeskWeights } from '@/src/lib/weights';
 import { colors, fonts } from '@/src/theme';
 
 export function LiabilityTape({
@@ -15,11 +15,15 @@ export function LiabilityTape({
   session,
   weights,
   delta,
+  grid,
+  gridMove,
 }: {
   print: ThirtyYearPrint | null;
   session: DeskSession;
   weights?: DeskWeights | null;
   delta?: DeskWeights | null;
+  grid?: number[] | null;
+  gridMove?: number[] | null;
 }) {
   return (
     <View style={styles.mast}>
@@ -44,7 +48,22 @@ export function LiabilityTape({
             <Text style={styles.meter}>UPSIDE {weights.upside}%{delta ? ` · ${formatDelta(delta.upside)}` : ''}</Text>
             <Text style={styles.meter}>TAIL {weights.tail}%{delta ? ` · ${formatDelta(delta.tail)}` : ''}</Text>
           </View>
-        ) : null}
+        ) : grid?.length ? (
+          <View>
+            <View style={styles.meters}>
+              {grid.map((n, i) => (
+                <Text key={`${n}-${i}`} style={styles.meter}>
+                  {n}%{gridMove ? ` · ${formatDelta(gridMove[i])}` : ''}
+                </Text>
+              ))}
+            </View>
+            <Text style={styles.note}>{GRID_COPY}</Text>
+          </View>
+        ) : (
+          <Text style={styles.note}>
+            The desk has not printed a BASE / UPSIDE / TAIL split or a 5% grid in this edition. We do not invent a book.
+          </Text>
+        )}
       </View>
     </View>
   );

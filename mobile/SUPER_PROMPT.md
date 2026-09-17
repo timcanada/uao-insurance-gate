@@ -151,7 +151,7 @@ Every morning ~08:00 ET, email **one** progress note to `timothy_peters@hotmail.
 
 Do not fake Bloomberg IBOR. Do not add a CNN tab. Do not add likes. Do not add public profiles. Do not auto-seat Gmail. Do not claim cross-device chat until Tim has a house server.
 
-TERM already has the IC pack, sleeve map, Treasury 30-year, watched names, and a peer rail since Tuesday. The rail only lights a holdings, vote, or filing the desk already printed (prospectus, sold-and-bought on named owners, owned-versus-voted, a named 13F). Never invent a 13F. WIRE defaults to that book. Do not fake Milliman funded status. Label the curve as Treasury par yield. Drop `[QC — NOT SENT TO LIST]` from the pack.
+TERM already has the IC pack, sleeve map, Treasury 30-year, watched names, a peer rail since Tuesday, and the PD book as printed (a three-way split or a desk-stated 5% grid — never a book we invent). The peer rail only lights a holdings, vote, or filing the desk already printed (prospectus, sold-and-bought on named owners, owned-versus-voted, a named 13F). Never invent a 13F. WIRE defaults to that book. Do not fake Milliman funded status. Label the curve as Treasury par yield. Drop `[QC — NOT SENT TO LIST]` from the pack.
 
 ---
 

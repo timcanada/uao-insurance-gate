@@ -1,8 +1,8 @@
 {
   "as_of": "2026-09-30",
   "note": "PII-free log of Apollo enrichment waves. Work emails stay in growth-agent/private/ (gitignored).",
-  "credits_consumed_total": 20,
-  "verified_work_emails_total": 20,
+  "credits_consumed_total": 70,
+  "verified_work_emails_total": 70,
   "consent_status": "prospect_not_subscribed",
   "auto_subscribe_ghost": false,
   "waves": [
@@ -14,16 +14,56 @@
       "missing": 0,
       "apollo_request_id": "7719589688229299415",
       "seats": [
-        {"name": "Justin Lord", "org": "AIMCo", "title": "Chief Investment Officer"},
-        {"name": "Michael Wissell", "org": "HOOPP", "title": "Chief Investment Officer"},
-        {"name": "Gillian Brown", "org": "Ontario Teachers' Pension Plan", "title": "CIO Public & Private Investments"},
-        {"name": "Cristina Lopez", "org": "PSP Investments / Canada Growth Fund", "title": "Chief Investment Officer"},
-        {"name": "Rohit Sipahimalani", "org": "Temasek", "title": "Chief Investment Officer"},
-        {"name": "Bryan Yeo", "org": "GIC", "title": "Group Chief Investment Officer"},
-        {"name": "Will Goodwin", "org": "NZ Super Fund", "title": "Co Chief Investment Officer"},
-        {"name": "Scott Chan", "org": "CalSTRS", "title": "Chief Investment Officer"},
-        {"name": "Brad Dunstan", "org": "NZ Super Fund", "title": "Co-Chief Investment Officer"},
-        {"name": "Innes McKeand", "org": "ADIA", "title": "Chief Investment Officer - Equities"}
+        {
+          "name": "Justin Lord",
+          "org": "AIMCo",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Michael Wissell",
+          "org": "HOOPP",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Gillian Brown",
+          "org": "Ontario Teachers' Pension Plan",
+          "title": "CIO Public & Private Investments"
+        },
+        {
+          "name": "Cristina Lopez",
+          "org": "PSP Investments / Canada Growth Fund",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Rohit Sipahimalani",
+          "org": "Temasek",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Bryan Yeo",
+          "org": "GIC",
+          "title": "Group Chief Investment Officer"
+        },
+        {
+          "name": "Will Goodwin",
+          "org": "NZ Super Fund",
+          "title": "Co Chief Investment Officer"
+        },
+        {
+          "name": "Scott Chan",
+          "org": "CalSTRS",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Brad Dunstan",
+          "org": "NZ Super Fund",
+          "title": "Co-Chief Investment Officer"
+        },
+        {
+          "name": "Innes McKeand",
+          "org": "ADIA",
+          "title": "Chief Investment Officer - Equities"
+        }
       ]
     },
     {
@@ -34,21 +74,363 @@
       "missing": 0,
       "apollo_request_id": "-7676441243193448257",
       "seats": [
-        {"name": "Adel Alderbas", "org": "Wafra", "title": "Chief Investment Officer"},
-        {"name": "Andrew Tambone", "org": "Ontario Pension Board", "title": "Chief Investment Officer"},
-        {"name": "Stefan Marelid", "org": "ADIC", "title": "Chief Investment Officer"},
-        {"name": "Maaria Kettunen", "org": "Keva", "title": "Chief Investment Officer"},
-        {"name": "Peter Lindegaard", "org": "Industriens Pension", "title": "Chief Investment Officer"},
-        {"name": "Troy Rieck", "org": "Emirates Investment Authority", "title": "Chief Investment Officer"},
-        {"name": "Wilkin Ly", "org": "LACERS", "title": "Acting Chief Investment Officer"},
-        {"name": "F Vinzons", "org": "Chicago Teachers' Pension Fund", "title": "Chief Investment Officer"},
-        {"name": "Andrew Braid", "org": "West Yorkshire Pension Fund", "title": "Chief Investment Officer (Overseas)"},
-        {"name": "Mikko Raesaenen", "org": "State Pension Fund of Finland", "title": "Chief Investment Officer, Fixed Income"}
+        {
+          "name": "Adel Alderbas",
+          "org": "Wafra",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Andrew Tambone",
+          "org": "Ontario Pension Board",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Stefan Marelid",
+          "org": "ADIC",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Maaria Kettunen",
+          "org": "Keva",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Peter Lindegaard",
+          "org": "Industriens Pension",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Troy Rieck",
+          "org": "Emirates Investment Authority",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Wilkin Ly",
+          "org": "LACERS",
+          "title": "Acting Chief Investment Officer"
+        },
+        {
+          "name": "F Vinzons",
+          "org": "Chicago Teachers' Pension Fund",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Andrew Braid",
+          "org": "West Yorkshire Pension Fund",
+          "title": "Chief Investment Officer (Overseas)"
+        },
+        {
+          "name": "Mikko Raesaenen",
+          "org": "State Pension Fund of Finland",
+          "title": "Chief Investment Officer, Fixed Income"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "wave": 3,
+      "credits_consumed": 10,
+      "verified": 10,
+      "missing": 0,
+      "apollo_request_id": "-5345949665867469165",
+      "seats": [
+        {
+          "name": "Marcus Frampton",
+          "org": "Alaska Permanent Fund Corporation",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Joe McDonnell",
+          "org": "Border To Coast Pensions Partnership",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Jussi Karhunen",
+          "org": "Keva",
+          "title": "Deputy Chief Investment Officer"
+        },
+        {
+          "name": "Derrick Dagnan",
+          "org": "Fort Worth Employees' Retirement Fund (FWERF)",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Charles Woodhouse",
+          "org": "Abu Dhabi Pension Fund",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Hani Al-Jehani",
+          "org": "Hassana Investment Company",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Casey Wolf",
+          "org": "TCDRS",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Ghiane J",
+          "org": "Teachers'\u200b Retirement System of the State of Illinois",
+          "title": "Deputy Chief Investment Officer"
+        },
+        {
+          "name": "Hazman Sallahuddin",
+          "org": "KWAP Malaysia",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Mikkel Svenstrup",
+          "org": "ATP",
+          "title": "Chief Investment Officer"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "wave": 4,
+      "credits_consumed": 10,
+      "verified": 10,
+      "missing": 0,
+      "apollo_request_id": "-2311832839065453491",
+      "seats": [
+        {
+          "name": "Won Seo",
+          "org": "KOREA NATIONAL PENSION SERVICE",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "James Davis",
+          "org": "OPTrust",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Amy McGarrity",
+          "org": "Colorado PERA",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "David Gurtz",
+          "org": "Massachusetts Pension Reserves Investment Management",
+          "title": "Deputy Chief Investment Officer"
+        },
+        {
+          "name": "Molly M",
+          "org": "Orange County Employees Retirement System",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Marc G",
+          "org": "Retirement Systems of Alabama",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "John Skjervem",
+          "org": "Utah Retirement Systems",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Jasper Riis",
+          "org": "P+, Pensionskassen for Akademikere",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Ted H",
+          "org": "Ohio Police and Fire Pension Fund",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Pamela W",
+          "org": "Denver Employees Retirement Plan (DERP)",
+          "title": "Deputy Chief Investment Officer"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "wave": 5,
+      "credits_consumed": 10,
+      "verified": 10,
+      "missing": 0,
+      "apollo_request_id": "3825662186263696547",
+      "seats": [
+        {
+          "name": "Nir Gavish",
+          "org": "Amitim Pension Funds",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Timothy P",
+          "org": "Contra Costa County Employees' Retirement Association",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Scott Day",
+          "org": "Missouri Local Government Employees Retirement System",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Yup Kim",
+          "org": "Texas Municipal Retirement System (TMRS)",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "John Dewey",
+          "org": "Northern LGPS",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Katarina Romberg",
+          "org": "AMF",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Bryan Moore",
+          "org": "SC Retirement System Investment Commission",
+          "title": "Deputy Chief Investment Officer"
+        },
+        {
+          "name": "David Stafford",
+          "org": "City of Austin Employees Retirement System",
+          "title": "Deputy Chief Investment Officer"
+        },
+        {
+          "name": "Chun Lai",
+          "org": "The Rockefeller Foundation",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Neamul Mohsin",
+          "org": "Oxford University Endowment Management",
+          "title": "Chief Investment Officer"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "wave": 6,
+      "credits_consumed": 10,
+      "verified": 10,
+      "missing": 0,
+      "apollo_request_id": "494828148973914782",
+      "seats": [
+        {
+          "name": "Michael Stohler",
+          "org": "Wisconsin Investment Management Company (WISIMCO)",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Jonathan Gibbons",
+          "org": "The University of Massachusetts Foundation",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Michael B",
+          "org": "Conrad N. Hilton Foundation",
+          "title": "Chief Investment Officer and Vice President"
+        },
+        {
+          "name": "Jim Bethea",
+          "org": "West Virginia University Foundation",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Tom Masthay",
+          "org": "Texas Municipal Retirement System (TMRS)",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Maggie Millhiser",
+          "org": "Virginia Tech Foundation, Inc.",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Kristin Eschbach",
+          "org": "The Terry Foundation",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Kevin Kenneally",
+          "org": "Retirement System, City of Detroit",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Cecilia Blomquist",
+          "org": "PP Pension F\u00f6rs\u00e4kringsf\u00f6rening",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Chris Moore",
+          "org": "Wisconsin Investment Management Company (WISIMCO)",
+          "title": "Deputy Chief Investment Officer"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "wave": 7,
+      "credits_consumed": 10,
+      "verified": 10,
+      "missing": 0,
+      "apollo_request_id": "-2790433582941178036",
+      "seats": [
+        {
+          "name": "Shaun Manuell",
+          "org": "AustralianSuper",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Barry Kenneth",
+          "org": "Pension Protection Fund",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Elizabeth Fernando",
+          "org": "Nest Pensions",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Claus Jorgensen",
+          "org": "PenSam",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Chung",
+          "org": "Virginia Retirement System",
+          "title": "Deputy Chief Investment Officer"
+        },
+        {
+          "name": "Michael S",
+          "org": "State Universities Retirement System",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Shannon Davidson",
+          "org": "Missouri State Employees'\u200b Retirement System",
+          "title": "Chief Investment Officer"
+        },
+        {
+          "name": "Tarig Jarana",
+          "org": "Libya Africa Investment Portfolio (LAIP)",
+          "title": "LAIP Chief Investment Officer"
+        },
+        {
+          "name": "Erika Tikka",
+          "org": "Keva",
+          "title": "Deputy Chief Investment Officer | Chief Operating Officer (Investments) at Keva"
+        },
+        {
+          "name": "Halla Kristjansdottir",
+          "org": "LSR - L\u00edfeyrissj\u00f3\u00f0ur starfsmanna r\u00edkisins",
+          "title": "Chief Investment Officer"
+        }
       ]
     }
   ],
   "blocked_on": [
-    "Apollo credit wall — ~63 remaining after wave 2; 30–40k seats need a paid top-up",
-    "Full public-only inventory CSVs were never committed (PII); restore from a prior Cloud Agent environment or re-run weekly --public-only"
+    "Apollo email credits: 13 remaining after 70 matches. 10k\u201330k emails need a paid top-up.",
+    "Apollo does not have 30k owner CIOs with verified emails. Realistic owner ceiling on this seat: ~456 pension + ~32 SWF + ~288 endowment + ~815 family-office title matches, overlapping.",
+    "The 39,243 empty seats are chairs without names. Enrichment finds the human, then buys the work email (1 credit).",
+    "Full public-only inventory CSVs were never committed (PII)."
   ]
 }

@@ -12,6 +12,7 @@ That URL is the phone desk (TERM · WIRE · LIVE · ROOM · BOOK). Same Ghost li
 - `edition/2026-09-15/` — reader copy, QA flags, GIF builder
 - `assets/` — flipbook images and 15 September stills / GIF
 - `growth-agent/` — public-only senior-seat pipeline (no Ghost auto-subscribe)
+- `growth-agent/data/HOW-ENRICHMENT-WORKS.md` — why 30–40k is empty chairs, not emails
 - `ops/outreach-playbook.md` — our own daily sponsor follow-up, separate from SponsorRadar
 
 ## 15 September 2026 edition (QA pass)

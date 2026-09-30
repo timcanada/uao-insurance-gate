@@ -1,6 +1,6 @@
 {
   "as_of": "2026-09-30",
-  "note": "Last completed public-only weekly was 28 Aug 2026 on a prior Cloud Agent environment. 30 Sep added Apollo waves 1–2 (20 verified CIOs). Counts are operational, not a people export.",
+  "note": "28 Aug 2026 public-only weekly left 39,243 empty seats and 470 named non-members. 30 Sep Apollo waves 1\u20137 wrote 70 verified work emails. Operational counts only.",
   "ghost_members_imported": 57885,
   "ghost_subscribed_to_emails": 55165,
   "ghost_named": 57816,
@@ -9,9 +9,9 @@
   "named_not_on_ghost": 470,
   "empty_senior_seats": 39243,
   "suppressed_as_members": 96,
-  "work_emails_on_new_people": 20,
-  "apollo_waves_verified": 20,
-  "apollo_credits_consumed": 20,
+  "work_emails_on_new_people": 70,
+  "apollo_waves_verified": 70,
+  "apollo_credits_consumed": 70,
   "org_mix": {
     "private_equity": 5046,
     "asset_manager": 4539,
@@ -21,11 +21,12 @@
     "pension": 217
   },
   "blocked_on": [
-    "Apollo credit wall for the remaining 30–40k empty seats",
-    "Full inventory CSVs never committed (PII) — restore or re-run weekly --public-only"
+    "13 Apollo email credits left \u2014 cannot reach 10k/20k/30k on this balance",
+    "39,243 empty seats still have no names; 470 named rows were never restored from the old CSV"
   ],
   "policy": {
     "auto_subscribe_ghost": false,
     "consent_status": "prospect_not_subscribed"
-  }
+  },
+  "apollo_credits_remaining": 13
 }

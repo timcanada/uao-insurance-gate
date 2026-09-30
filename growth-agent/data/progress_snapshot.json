@@ -1,0 +1,31 @@
+{
+  "as_of": "2026-09-30",
+  "note": "Last completed public-only weekly was 28 Aug 2026 on a prior Cloud Agent environment. 30 Sep added Apollo waves 1–2 (20 verified CIOs). Counts are operational, not a people export.",
+  "ghost_members_imported": 57885,
+  "ghost_subscribed_to_emails": 55165,
+  "ghost_named": 57816,
+  "organizations": 11160,
+  "people_not_suppressed": 39713,
+  "named_not_on_ghost": 470,
+  "empty_senior_seats": 39243,
+  "suppressed_as_members": 96,
+  "work_emails_on_new_people": 20,
+  "apollo_waves_verified": 20,
+  "apollo_credits_consumed": 20,
+  "org_mix": {
+    "private_equity": 5046,
+    "asset_manager": 4539,
+    "family_office": 536,
+    "insurer": 424,
+    "swf": 332,
+    "pension": 217
+  },
+  "blocked_on": [
+    "Apollo credit wall for the remaining 30–40k empty seats",
+    "Full inventory CSVs never committed (PII) — restore or re-run weekly --public-only"
+  ],
+  "policy": {
+    "auto_subscribe_ghost": false,
+    "consent_status": "prospect_not_subscribed"
+  }
+}

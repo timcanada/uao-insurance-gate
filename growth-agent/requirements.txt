@@ -1,0 +1,2 @@
+# Runtime is stdlib-only. Install this file for tests.
+pytest>=8.0

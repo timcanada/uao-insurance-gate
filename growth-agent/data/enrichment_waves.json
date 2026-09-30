@@ -1,0 +1,54 @@
+{
+  "as_of": "2026-09-30",
+  "note": "PII-free log of Apollo enrichment waves. Work emails stay in growth-agent/private/ (gitignored).",
+  "credits_consumed_total": 20,
+  "verified_work_emails_total": 20,
+  "consent_status": "prospect_not_subscribed",
+  "auto_subscribe_ghost": false,
+  "waves": [
+    {
+      "date": "2026-09-30",
+      "wave": 1,
+      "credits_consumed": 10,
+      "verified": 10,
+      "missing": 0,
+      "apollo_request_id": "7719589688229299415",
+      "seats": [
+        {"name": "Justin Lord", "org": "AIMCo", "title": "Chief Investment Officer"},
+        {"name": "Michael Wissell", "org": "HOOPP", "title": "Chief Investment Officer"},
+        {"name": "Gillian Brown", "org": "Ontario Teachers' Pension Plan", "title": "CIO Public & Private Investments"},
+        {"name": "Cristina Lopez", "org": "PSP Investments / Canada Growth Fund", "title": "Chief Investment Officer"},
+        {"name": "Rohit Sipahimalani", "org": "Temasek", "title": "Chief Investment Officer"},
+        {"name": "Bryan Yeo", "org": "GIC", "title": "Group Chief Investment Officer"},
+        {"name": "Will Goodwin", "org": "NZ Super Fund", "title": "Co Chief Investment Officer"},
+        {"name": "Scott Chan", "org": "CalSTRS", "title": "Chief Investment Officer"},
+        {"name": "Brad Dunstan", "org": "NZ Super Fund", "title": "Co-Chief Investment Officer"},
+        {"name": "Innes McKeand", "org": "ADIA", "title": "Chief Investment Officer - Equities"}
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "wave": 2,
+      "credits_consumed": 10,
+      "verified": 10,
+      "missing": 0,
+      "apollo_request_id": "-7676441243193448257",
+      "seats": [
+        {"name": "Adel Alderbas", "org": "Wafra", "title": "Chief Investment Officer"},
+        {"name": "Andrew Tambone", "org": "Ontario Pension Board", "title": "Chief Investment Officer"},
+        {"name": "Stefan Marelid", "org": "ADIC", "title": "Chief Investment Officer"},
+        {"name": "Maaria Kettunen", "org": "Keva", "title": "Chief Investment Officer"},
+        {"name": "Peter Lindegaard", "org": "Industriens Pension", "title": "Chief Investment Officer"},
+        {"name": "Troy Rieck", "org": "Emirates Investment Authority", "title": "Chief Investment Officer"},
+        {"name": "Wilkin Ly", "org": "LACERS", "title": "Acting Chief Investment Officer"},
+        {"name": "F Vinzons", "org": "Chicago Teachers' Pension Fund", "title": "Chief Investment Officer"},
+        {"name": "Andrew Braid", "org": "West Yorkshire Pension Fund", "title": "Chief Investment Officer (Overseas)"},
+        {"name": "Mikko Raesaenen", "org": "State Pension Fund of Finland", "title": "Chief Investment Officer, Fixed Income"}
+      ]
+    }
+  ],
+  "blocked_on": [
+    "Apollo credit wall — ~63 remaining after wave 2; 30–40k seats need a paid top-up",
+    "Full public-only inventory CSVs were never committed (PII); restore from a prior Cloud Agent environment or re-run weekly --public-only"
+  ]
+}

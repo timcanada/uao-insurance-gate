@@ -1,0 +1,17 @@
+# Secrets
+.env
+**/.env
+
+# Growth-agent PII and local stores — never commit emails or member exports
+growth-agent/private/*
+!growth-agent/private/.gitkeep
+growth-agent/exports/*
+!growth-agent/exports/.gitkeep
+growth-agent/**/*.db
+*.db
+
+# Local tooling
+.DS_Store
+__pycache__/
+*.pyc
+.pytest_cache/

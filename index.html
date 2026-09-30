@@ -1309,6 +1309,15 @@
                 <span class="open">Open the morning brief</span>
               </div>
             </article>` : ''}
+            <article class="hero" id="openSept15">
+              <img src="assets/2026-09-15/four-rooms-capital.png" alt="">
+              <div class="body">
+                <div class="kicker">15 September 2026 · Four Rooms</div>
+                <h2>The allocation nobody voted on</h2>
+                <p class="lede">Four rooms. One portfolio. Term laboratory and 167-line sorter — the navigator for this edition.</p>
+                <span class="open">Open the brief</span>
+              </div>
+            </article>
             <div class="mod" id="openPd">
               <div class="kicker">The Probability Desk</div>
               <h2>${desk[0] ? esc(desk[0].title) : 'Afternoon scenario'}</h2>
@@ -1369,6 +1378,8 @@
           bindCards($('main'));
           const cmd = $('openCmd');
           if (cmd) cmd.onclick = () => document.getElementById('app').classList.add('show-cmd');
+          const sept15 = $('openSept15');
+          if (sept15) sept15.onclick = () => window.open('brief-20260915.html', '_blank', 'noopener');
           const pd = $('openPd');
           if (pd && desk[0]) pd.onclick = () => openPost(desk[0].slug);
           const adv = $('openAdvertise');

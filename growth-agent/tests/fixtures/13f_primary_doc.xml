@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:com="http://www.sec.gov/edgar/common">
+  <formData>
+    <coverPage>
+      <filingManager>
+        <name>NEW YORK STATE TEACHERS RETIREMENT SYSTEM</name>
+      </filingManager>
+    </coverPage>
+    <signatureBlock>
+      <name>Margaret Andriola</name>
+      <title>Chief Financial Officer</title>
+      <phone>518-447-4756</phone>
+      <signature>Margaret Andriola</signature>
+    </signatureBlock>
+  </formData>
+</edgarSubmission>
